@@ -1,4 +1,4 @@
-type,name,winery_name,area,size,vintage,price,details,internal_notes,matched_name,matched_winery_name,matched_id,matched_original_id,score
+type,name,winery_name,area,size,vintage,price,info,internal_notes,matched_name,matched_winery_name,matched_id,matched_original_id,score
 SPARKLING,SANSANNÈEVINO SPUMANTE,MARCALBERTO,FRIGO MESCITA,BOTTLE,,45.0,,,,,,,
 SPARKLING,VULCANITE TALENTO DOSAGGIO ZERO,PIFFER,2-2,BOTTLE,2017.0,50.0,,,,,,,
 SPARKLING,BRUTROSÉ,BILLECART SALMON,1-3,BOTTLE,,200.0,,,,,,,

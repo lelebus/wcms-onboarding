@@ -1,4 +1,4 @@
-type,name,winery_name,area,size,vintage,price,details,internal_notes,matched_name,matched_winery_name,matched_id,matched_original_id,score
+type,name,winery_name,area,size,vintage,price,info,internal_notes,matched_name,matched_winery_name,matched_id,matched_original_id,score
 SPARKLING,FRANCIACORTA BRUT SATEN D.O.C.G. BIO,BARONE PIZZINI,2-2,BOTTLE,2018.0,65.0,,,Satén Franciacorta,Barone Pizzini,wine_01gzr4ksct8de7tv33rh98x28c,1150697.0,47.62373
 SPARKLING,FRANCIACORTA DOSAGGIO ZERO D.O.C.G. ANIMANTE,BARONE PIZZINI,2-2,BOTTLE,,50.0,,,Animante Franciacorta Extra Brut,Barone Pizzini,wine_01gzr4ksctc3v9gsjyyxb2pnm1,2203345.0,45.709198
 SPARKLING,FRANCIACORTA EXTRA BRUT GOLF,BARONE PIZZINI,2-2,BOTTLE,1927.0,50.0,,,Golf 1927 Franciacorta,Barone Pizzini,wine_01gzr4ksctpg7xgfcd5g3n4mew,5563383.0,46.08034

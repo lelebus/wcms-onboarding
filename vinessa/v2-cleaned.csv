@@ -1,4 +1,4 @@
-type,area,price,winery_name,vintage,size,name,details,internal_notes
+type,area,price,winery_name,vintage,size,name,info,internal_notes
 SPARKLING,2-2, 65.00,BARONE PIZZINI,2018,BOTTLE,FRANCIACORTA BRUT SATEN D.O.C.G. BIO,,
 SPARKLING,2-2, 50.00,BARONE PIZZINI,,BOTTLE,FRANCIACORTA DOSAGGIO ZERO D.O.C.G. ANIMANTE,,
 SPARKLING,2-2, 50.00,BARONE PIZZINI,1927,BOTTLE,FRANCIACORTA EXTRA BRUT GOLF,,

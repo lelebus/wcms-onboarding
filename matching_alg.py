@@ -1,6 +1,6 @@
 import requests
 import pandas as pd
-import datetime
+
 
 def query_es(name, winery_name, wine_type):
     # build query
@@ -78,7 +78,7 @@ def search_rows(rows):
         - 'size'
         - 'vintage'
         - 'price'
-        - 'details'
+        - 'info'
         - 'internal_notes'
 
     Returns
@@ -99,7 +99,7 @@ def search_rows(rows):
             'size': row['size'],
             'vintage': row['vintage'],
             'price': row['price'],
-            'details': row['details'],
+            'info': row['info'],
             'internal_notes': row['internal_notes'],
             'matched_name': None,
             'matched_winery_name': None,
@@ -133,6 +133,7 @@ def search_rows(rows):
 
     return matches
 
+
 def create_matches(filename):
     # read wines
     wines = pd.read_csv(filename)
@@ -151,21 +152,18 @@ def create_matches(filename):
     print()
 
     matches = matches[['type', 'name', 'winery_name', 'area',
-                    'size', 'vintage', 'price', 'details', 'internal_notes', 'matched_name', 'matched_winery_name',
-                    'matched_id', 'matched_original_id', 'score']]
+                       'size', 'vintage', 'price', 'info', 'internal_notes', 'matched_name', 'matched_winery_name',
+                       'matched_id', 'matched_original_id', 'score']]
     matches.head()
-
 
     # remove not matched rows
     valid_matches = matches[matches['matched_id'].notnull()]
     not_matched = matches[matches['matched_id'].isnull()]
 
-    # store to csv with unix timestamp
-    timestamp = str(datetime.datetime.now().timestamp()).split('.')[0]
-    filename = 'wines_matches-' + timestamp + '.csv'
+    filename = 'v3-matches.csv'
     valid_matches.to_csv(filename, index=False)
 
-    filename = 'wines_not-found-' + timestamp + '.csv'
+    filename = 'v3-not-found.csv'
     not_matched.to_csv(filename, index=False)
 
     print(f'Valid matches: {valid_matches.shape[0]}')

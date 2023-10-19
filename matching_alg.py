@@ -1,3 +1,4 @@
+import math
 import requests
 import pandas as pd
 
@@ -29,7 +30,7 @@ def query_es(name, winery_name, wine_type):
         }
     ]
 
-    if wine_type is not None:
+    if wine_type is not None and str(wine_type) != 'nan':
         conditions.append(
             {
                 "term": {
@@ -71,14 +72,16 @@ def search_rows(rows):
     ----------
     rows : list
         should have parameters:
+        - 'external_id'
         - 'name'
         - 'winery_name'
         - 'type'
-        - 'area'
+        - 'storage_area'
         - 'size'
         - 'vintage'
         - 'price'
         - 'info'
+        - 'quantity'
         - 'internal_notes'
 
     Returns
@@ -92,14 +95,16 @@ def search_rows(rows):
         search_type = row['type']
 
         d = {
+            'external_id': row['external_id'],
             'name': search_name,
             'winery_name': search_winery,
             'type': row['type'],
-            'area': row['area'],
+            'storage_area': row['storage_area'],
             'size': row['size'],
             'vintage': row['vintage'],
             'price': row['price'],
             'info': row['info'],
+            'quantity': row['quantity'],
             'internal_notes': row['internal_notes'],
             'matched_name': None,
             'matched_winery_name': None,
@@ -151,8 +156,8 @@ def create_matches(filename):
         f'Total rows: {matches.shape[0]} (should be {wines.shape[0]} - same number of rows as original)')
     print()
 
-    matches = matches[['type', 'name', 'winery_name', 'area',
-                       'size', 'vintage', 'price', 'info', 'internal_notes', 'matched_name', 'matched_winery_name',
+    matches = matches[['external_id', 'type', 'name', 'winery_name', 'storage_area',
+                       'size', 'vintage', 'price', 'info', 'quantity', 'internal_notes', 'matched_name', 'matched_winery_name',
                        'matched_id', 'matched_original_id', 'score']]
     matches.head()
 

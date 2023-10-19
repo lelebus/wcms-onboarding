@@ -23,8 +23,8 @@ def clean_matches(dataframe):
     wines['vintage'] = wines['vintage'].apply(lambda x: int(x))
 
     # clean info
-    wines = wines[['matched_id', 'size', 'vintage',
-                   'price', 'info', 'area', 'internal_notes']]
+    wines = wines[['matched_id', 'external_id', 'size', 'vintage',
+                   'price', 'info', 'storage_area', 'quantity', 'internal_notes']]
     wines = wines.rename(columns={'matched_id': 'wine_id'})
 
     return wines
@@ -38,22 +38,25 @@ def generate_insert_file(filename):
     rows : list
         should have parameters:
         - 'matched_id'
+        - 'external_id'
         - 'size'
         - 'vintage'
         - 'price'
         - 'info'
-        - 'area'
+        - 'storage_area'
+        - 'quantity'
         - 'internal_notes'
     """
     matches = pd.read_csv(filename)
     wines = clean_matches(matches)
 
     # remove duplicates
-    vintageNoNaWines = wines[wines['vintage'].notna()]
-    duplicates = vintageNoNaWines[vintageNoNaWines.duplicated(
+    winesWithValidVintage = wines[wines['vintage'] != 0]
+    duplicates = winesWithValidVintage[winesWithValidVintage.duplicated(
         subset=['wine_id', 'size', 'vintage'], keep=False)].sort_values(by=['wine_id', 'size', 'vintage'])
-    net_wines = wines.drop_duplicates(
-        subset=['wine_id', 'size', 'vintage'], keep=False)
+    
+    # net wines are wines without duplicates    
+    net_wines = wines[~wines.index.isin(duplicates.index)]
 
     print(f'Total net rows: {net_wines.shape[0]}')
 

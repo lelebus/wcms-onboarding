@@ -2391,3 +2391,403 @@ FALSE,,RED,Derenda sivi pinot,Derenda sivi pinot,,BOTTLE,2018,0,,18,,Pinot Noir,
 FALSE,,WHITE,Derenda teran,Derenda teran,,BOTTLE,2015,0,,6,,Graf von Meran Goldmuskateller,Kellerei Meran,wine_01h0qzm1m62ax3r4rfgjw6xkff,,20.217857
 TRUE,,DESSERT,De sanctis diciasette undici,De sanctis diciasette undici,,BOTTLE,2022,0,,3,,Diciassette Undici Bio,De Sanctis,wine_01h0my5t1pffn96pvqwbngpw9d,,46.816128
 TRUE,,RED,Tenuta il plino torre roversano,Tenuta il plino torre roversano,,BOTTLE,2021,0,,14,,Torre di Roversano,Tenuta il Plino,wine_01h0qzm20wwt2e88n5n2jdgyev,,52.098423
+TRUE,v.34056.0.b,SPARKLING,Grande Cuvée Brut Grand Cru,Encry - Veuve Blanche Estelle,,BOTTLE,,140,,1,Purchase Price: 40,Brut Champagne,Veuve Blanche Estelle,wine_01gzr4ks65dmggvehjepqk6ky1
+TRUE,v.60017.2015.b,SPARKLING,De Caurés à Mont Aigu Extra brut Grand Cru,Guiborat,,BOTTLE,2015,220,dég. 12/2021,2,Purchase Price: 45,Les Caurés 46 Champagne Grand Cru ''Cramant'',Guiborat,wine_01hcwvb4b7h1w813cdj7jyvxzc
+FALSE,v.13065.2002.b,SPARKLING,Millésimé Brut,Belin,,BOTTLE,2002,100,,1,Purchase Price: 25,Millésimé Brut Champagne,H. Blin,
+FALSE,v.14164.0.d,SPARKLING,Sélection Brut,Belin,,JEROBOAM,,250,,1,Purchase Price: 28,Prosecco Treviso Brut,Bedin,
+TRUE,v.82739.2001.b,SPARKLING,Millésime Bacchus Brut,Charlier & Fils,,BOTTLE,2001,160,,1,Purchase Price: 30,Meunier Addict Millésime Blanc de Noirs Champagne,Charlier & Fils,wine_01hfrxbp4xtsn04nza31vrdwqr
+TRUE,v.82134.0.b,SPARKLING,Carte Blanche Brut,Claude Cazals,,BOTTLE,,100,,1,Purchase Price: 20,Carte Blanche Brut Champagne Grand Cru ''Le Mesnil-sur-Oger'',Cazals,wine_01h4pmmgjqzgryga3bhstqhnpz
+TRUE,v.33847.0.b,SPARKLING,Brut,Laurent-Perrier,,BOTTLE,,80,,1,Purchase Price: 20,Ultra Brut Champagne (Brut Nature),Laurent-Perrier,wine_01gzr4ks5h7z6yfdmcpd6fmyrq
+TRUE,v.82128.0.b,SPARKLING,Emerik Brut,Lucien Lemaire,,BOTTLE,,90,,3,Purchase Price: 18,Fantaisic Brut Champagne,Caillez Lemaire,wine_01gzr4ks5hsmde1f5vkm7fzt85
+TRUE,v.10910.0.b,SPARKLING,Brut,Ruinart,,BOTTLE,,170,,6,Purchase Price: 50,Brut Rosé Champagne,Ruinart,wine_01gzr4ksd4k2zha41rc9c9bb6c
+TRUE,v.34818.2004.a,WHITE,Riesling Auslese Schlossböckelheimer Felsenberg,Dönnhoff,,HALF_BOTTLE,2004,40,,2,Purchase Price: 10,Schlossböckelheimer Felsenberg Riesling Spätlese,Dönnhoff,wine_01hcw4df7z43e37kbcqf10b1vp
+TRUE,v.79452.2014.m,DESSERT,Colli Orientali del Friuli Verduzzo Friulano,Iole Grillo,,HALF_LITER,2014,40,,2,Purchase Price: 10,Verduzzo Friulano,Azienda Agricola Grillo,wine_01h0my5rdjqhgspa94x5272rdp
+TRUE,v.12429.2008.m,WHITE,Picolit Rosazzo,Livio Felluga,,HALF_LITER,2008,90,,1,Purchase Price: 18,Picolit,Livio Felluga,wine_01gzr4kskwqt7awvbqg0fm0jhj
+TRUE,v.12429.2013.m,WHITE,Picolit Rosazzo,Livio Felluga,,HALF_LITER,2013,70,,1,Purchase Price: 12,Picolit,Livio Felluga,wine_01gzr4kskwqt7awvbqg0fm0jhj
+TRUE,v.74286.2006.b,WHITE,Coteau du Houet,Mark Angeli - Ferme de la Sansonnière,,BOTTLE,2006,120,,1,Purchase Price: 32,Coteau du Houet,Domaine Mark and Martial Angeli,wine_01harvckxesgdgdb48ngafdn01
+TRUE,v.10605.2012.a,WHITE,Cinque Terre Sciacchetrà,Possa,,HALF_BOTTLE,2012,75,,3,Purchase Price: 18,Cinque Terre,Possa,wine_01hcw4df8bmvnq0saqev45tr8c
+TRUE,v.30656.2008.b,SPARKLING,Franciacorta Riserva Cuvée J.R.E. n.4 Extra brut,Berlucchi,,BOTTLE,2008,60,,4,Purchase Price: 12,Cuvée J.R.E. No. 3 Franciacorta Rosé Extra Brut Riserva,Guido Berlucchi,wine_01h0my5sm660038f1rcd1n20zj
+TRUE,v.56085.2009.b,SPARKLING,Franciacorta Riserva Cuvée J.R.E. n.5 Extra brut,Berlucchi,,BOTTLE,2009,60,dég. anno/2020,1,Purchase Price: 12,Cuvée J.R.E. No. 3 Franciacorta Rosé Extra Brut Riserva,Guido Berlucchi,wine_01hfrxwgk8t52sk4remjcz8hyg
+TRUE,v.67555.2008.b,SPARKLING,Franciacorta Riserva Annamaria Clementi Dosage Zéro,Ca' del Bosco,,BOTTLE,2008,160,dég. primavera/2018,2,Purchase Price: 36,Cuvée Annamaria Clementi (Extra Brut),Ca' del Bosco,wine_01hfrxzasmq3a0c1wanygwh2cd
+TRUE,v.928.1998.b,SPARKLING,Franciacorta Brut,Monte Rossa - Cabochon,,BOTTLE,1998,180,,1,Purchase Price: 50,Franciacorta,Monte Rossa,wine_01h0f3cmbq3wz8386etj5pdgqz
+TRUE,v.928.2009.b,SPARKLING,Franciacorta Brut,Monte Rossa - Cabochon,,BOTTLE,2009,140,,1,Purchase Price: 40,Franciacorta,Monte Rossa,wine_01h0f3cmbq3wz8386etj5pdgqz
+TRUE,v.928.2011.b,SPARKLING,Franciacorta Brut,Monte Rossa - Cabochon,,BOTTLE,2011,110,,1,Purchase Price: 28,Franciacorta,Monte Rossa,wine_01h0f3cmbq3wz8386etj5pdgqz
+TRUE,v.71990.2007.b,SPARKLING,Franciacorta Riserva Noir Brut nature,Monzio Compagnoni,,BOTTLE,2007,55,,2,Purchase Price: 10,Franciacorta Brut,Monzio Compagnoni,wine_01h0r2pqbnrdy34z29ytnr6nea
+TRUE,v.6740.2009.b,SPARKLING,Franciacorta Millesimato Blanc de Blancs Brut,Rizzini,,BOTTLE,2009,50,,3,Purchase Price: 10,Millesimato Brut,Rizzini,wine_01hfry2h4s185hs1z8csahcsew
+FALSE,v.66829.2018.b,SPARKLING,Pedecastello Rosato Frizzante,Giannino Tormen,,BOTTLE,2018,35,,5,Purchase Price: 10,Angelo Frizzante,Tormena,
+TRUE,v.17692.2007.b,SPARKLING,Lambrusco di Sorbara Vecchia Modena Premium,Cleto Chiarli,,BOTTLE,2007,45,,1,Purchase Price: 8,Vecchia Modena Lambrusco di Modena,Cleto Chiarli,wine_01hfrycrk7gwn6yds1wkaac3yr
+FALSE,v.82251.2008.b,SPARKLING,Lambrusco Reggiano,Le Barbaterre,,BOTTLE,2008,40,,2,Purchase Price: 10,Lambrusco dell''Emilia Frizzante,Le Barbaterre,
+TRUE,v.12311.2002.b,WHITE,Ribolla gialla Selezione,Damijan Podversič,,BOTTLE,2002,75,,1,Purchase Price: 10,Ribolla Gialla,Damijan Podversic,wine_01hfryjwsn823jytxmntgxczx0
+TRUE,v.80256.2007.b,WHITE,Rkatsiteli Clos des Figuiers,Prince Makashvili Cellar,,BOTTLE,2007,65,,1,Purchase Price: 10,Rkatsiteli,Alexander's Wine Cellar,wine_01hcw4dfctnxcry7gv4n248n7w
+TRUE,v.80258.2006.b,WHITE,Rkatsiteli Tsarapi Grand Cru,Prince Makashvili Cellar,,BOTTLE,2006,60,,1,Purchase Price: 10,Rkatsiteli,Alexander's Wine Cellar,wine_01hcw4dfct7dfrt0hrbmk0qfyb
+TRUE,v.82124.0.b,SPARKLING,Méthod Cap Classique Desiderius Brut,Pongrácz,,BOTTLE,,60,,2,Purchase Price: 10,Méthode Cap Classique Rosé,Pongrácz,wine_01hfryrtaa8fvth88wh7hy782g
+TRUE,v.80266.0.b,SPARKLING,Derù Brut,Croda Rossa,,BOTTLE,,40,,4,Purchase Price: 8,Hallè Rosé Brut,Enrico Crola,wine_01hfryxfp2genf8w1ds1arwb09
+TRUE,v.78465.0.b,SPARKLING,DUBL Edition I Brut,Feudi di San Gregorio,,BOTTLE,,50,,23,Purchase Price: 16,Falanghina Brut Metodo Charmat,Feudi di San Gregorio,wine_01hfrz0zv139868g39gvy0dcb8
+FALSE,v.82252.0.b,SPARKLING,Extra Cuvée Brut,Francesco Bellei,,BOTTLE,,45,,3,Purchase Price: 11,Extra Cuvée Brut Rosso,Francesco Bellei & C,
+TRUE,v.82254.2010.b,SPARKLING,L'Angelica Brut nature,Le Barbaterre,,BOTTLE,2010,50,dég. 11/2012,2,Purchase Price: 10,L''Angelica Brut Nature Rosé,Le Barbaterre,wine_01h0qzm2xgwabr51h5a5m4z9sw
+TRUE,v.12273.2001.b,SPARKLING,Comitissa Brut Riserva,Lorenz Martini,,BOTTLE,2001,55,,1,Purchase Price: 11,Riserva Montelera Brut,Martini,wine_01hfrzc2vqd5y3129f1fpq00xp
+FALSE,v.82255.0.b,SPARKLING,Metodo Classico Podere dei Ronchi,Roberto Tami,,BOTTLE,,42,,6,Purchase Price: 9,Metodo Classico Brut,Roberto Garbarino,
+TRUE,v.10203.2008.b,SPARKLING,Cuvée Pié di Mont Brut,Roman Rizzi,,BOTTLE,2008,48,,1,Purchase Price: 12,Prosecco Brut,Teresa Rizzi,wine_01gzr4ksg1vnr67wtakdbw447j
+TRUE,v.10203.2013.c,SPARKLING,Cuvée Pié di Mont Brut,Roman Rizzi,,MAGNUM,2013,90,,1,Purchase Price: 19,Prosecco Brut,Teresa Rizzi,wine_01gzr4ksg1vnr67wtakdbw447j
+TRUE,v.10203.2015.b,SPARKLING,Cuvée Pié di Mont Brut,Roman Rizzi,,BOTTLE,2015,42,,1,Purchase Price: 10,Prosecco Brut,Teresa Rizzi,wine_01gzr4ksg1vnr67wtakdbw447j
+TRUE,v.32607.1989.b,DESSERT,Tokay Pinot gris Sélection de Grains Nobles,Léon Beyer,,BOTTLE,1989,170,,3,Purchase Price: 46,Gewürztraminer Sélection de Grains Nobles,Leon Beyer,wine_01hcycw50289rv9pkq2ycv0t3z
+TRUE,v.34513.2007.b,WHITE,Spirale Passerillé à l'Ancienne,Tissot,,BOTTLE,2007,100,,1,Purchase Price: 25,Savagnin à La Fauquette Savagnin,Bénédicte et Stéphane Tissot,wine_01hcw4dfjvbrh5sf394bf52b81
+TRUE,v.775.2010.c,SPARKLING,Prosecco Superiore di Valdobbiadene Brut,Silvano Follador,,MAGNUM,2010,90,,1,Purchase Price: 10,Valdobbiadene Prosecco Superiore Extra Brut,Silvano Follador,wine_01h0f3cmc80r7vkna827zzjync
+TRUE,v.8424.2015.b,SPARKLING,Rive di Solighetto Brut,Spagnol - Col del Sas,,BOTTLE,2015,40,,1,Purchase Price: 10,Il Fondo Prosecco di Valdobbiadene,Spagnol,wine_01hcw4dfk3rpwtr0wkfay3xj9j
+TRUE,v.777.2010.b,SPARKLING,Prosecco Superiore di Valdobbiadene Pas dosé,Silvano Follador,,BOTTLE,2010,45,,3,Purchase Price: 10,Valdobbiadene Prosecco Superiore Extra Brut,Silvano Follador,wine_01h0qzm12x5s2j971p3sa48p26
+TRUE,v.13943.0.b,SPARKLING,Prosecco Pro fondo bianco,Ca' dei Fiori - Mauro Lorenzon,,BOTTLE,,30,,1,Purchase Price: 8,Cacol Col Fondo Frizzante,Ca dei Fiori,wine_01hcw4dfm6kaz552qn8w2akznx
+TRUE,v.35889.0.b,SPARKLING,Prosecco di Valdobbiadene Frizzante … Naturalmente,Casa Coste Piane,,BOTTLE,,42,,4,Purchase Price: 8,Valdobbiadene Prosecco,Casa Coste Piane,wine_01h0my5vrjzhsaawap3xxjgran
+FALSE,v.82253.2018.b,SPARKLING,Solaris Brut,Augusta Altinate,,BOTTLE,2018,40,,1,Purchase Price: 9,Prosecco Brut,Isola Augusta,
+FALSE,v.77973.2022.b,ROSE,StraVagante Rosato,Radici Erranti,,BOTTLE,2022,35,,11,Purchase Price: 8,Rosato,Radici Wine,
+TRUE,v.53363.2018.b,SPARKLING,Rosa sui Lieviti,Sass de Mura,,BOTTLE,2018,38,,6,Purchase Price: 7,Rosa Frizzante,Sass de Mura,wine_01h0r2pqehhc7jpyg49dwjyf6p
+TRUE,v.36443.2013.b,WHITE,Chardonnay,Aci Urbajs - Organic Anarchy,,BOTTLE,2013,60,,2,Purchase Price: 10,Chardonnay Vin de Pays d''Oc,Organic Vintners,wine_01hcycw51v7phq5ez4hq08saaz
+TRUE,v.36443.2015.b,WHITE,Chardonnay,Aci Urbajs - Organic Anarchy,,BOTTLE,2015,58,,4,Purchase Price: 10,Chardonnay Vin de Pays d''Oc,Organic Vintners,wine_01hcycw51v7phq5ez4hq08saaz
+TRUE,v.60303.2019.b,RED,Modri Pinot,Aci Urbajs - Organic Anarchy,,BOTTLE,2019,55,,1,Purchase Price: 10,The River''s End Pinot Noir,Stellar Organics,wine_01hcw4dfn41avagcjm66nz11jp
+TRUE,v.83336.1990.b,WHITE,Terlaner Sauvignon Lehenhof,Alois Lageder,,BOTTLE,1990,65,,2,Purchase Price: 19,Sauvignon Blanc,Alois Lageder,wine_01hfs7ex8g3hakfmv2bamvx3f6
+TRUE,v.83958.2005.b,WHITE,Pinot gris Kirchberg de Ribeauville Grand Cru,André Kientzler,,BOTTLE,2005,100,,3,Purchase Price: 20,Pinot Blanc Alsace,Andre Kientzler,wine_01hcw4dfws8nz51hwq1mn82bz8
+TRUE,v.83957.2002.b,RED,Savigny-Les-Beaune Clos de Guettes 1er Cru,Anne-Françoise Gros,,BOTTLE,2002,100,,2,Purchase Price: 25,Savigny-les-Beaune Premier Cru Les Lavières,Domaine Anne Gros,wine_01h4pmmgx3mzcka4we189gq8xx
+TRUE,v.61477.1997.b,RED,Atlas Peak Cabernet sauvignon,Atlas Peak,,BOTTLE,1997,130,,2,Purchase Price: 40,Cabernet Sauvignon,Lions Peak,wine_01hcw4dfz157tzrx6amnwhkx16
+TRUE,v.16003.1999.b,WHITE,Chardonnay,Atlas Peak,,BOTTLE,1999,80,,1,Purchase Price: 27,Chardonnay,Bishop's Peak,wine_01hcycw52yfqv87jaz0dgrrsrs
+TRUE,v.60799.2017.b,RED,Pinot noir Keeler Estate Vineyard,Authentique Wine Cellars,,BOTTLE,2017,80,,2,Purchase Price: 17,Estate Pinot Noir,Tyee Wine Cellars,wine_01hcw4dfz8z5qcjvjadyav51x3
+TRUE,v.3902.2001.b,RED,Negroamaro Le Braci,Azienda Monaci,,BOTTLE,2001,65,,1,Purchase Price: 14,Negroamaro,Castello Monaci,wine_01gzr4kthnm3y97qpp0v4jfpbt
+TRUE,v.44320.2010.b,RED,Marsannay Les Echezots,Ballorin,,BOTTLE,2010,70,,1,Purchase Price: 16,Nuits-Saint-Georges 1er Cru ''Les Damodes'',Domaine Ballorin,wine_01hcw4dfzsfk21fqft5cf0ny4x
+TRUE,v.6434.2001.b,RED,Bonnes-Mares Grand Cru,Bart,,BOTTLE,2001,260,,1,Purchase Price: 70,Chambertin Clos de Bezé Grand Cru,Domaine Bart,wine_01hcw4dg061s41efrr1w7mgmez
+TRUE,v.900.2001.b,WHITE,Rueda Blanco,Belondrade y Lurton,,BOTTLE,2001,90,,1,Purchase Price: 30,Bordeaux Blanc,Pierre Lurton,wine_01hcwvb4byf05t9jm4sww6q56b
+TRUE,v.5155.2000.b,RED,Barbera d'Asti Bricco dell'Uccellone,Braida Giacomo Bologna,,BOTTLE,2000,110,,1,Purchase Price: 35,Bricco della Bigotta Barbera d''Asti,Braida,wine_01gzr4ksd40fyqcc0945rr0se7
+TRUE,v.83154.2014.b,RED,Montefalco Sagrantino,Broccatelli Galli,,BOTTLE,2014,40,,5,Purchase Price: 9,Preda del Falco Montefalco Sagrantino,Broccatelli Galli,wine_01hcw4dfxxwfx4wgprwv23prpw
+TRUE,v.83153.2016.b,RED,Montefalco,Broccatelli Galli,,BOTTLE,2016,40,,2,Purchase Price: 9,Preda del Falco Montefalco Sagrantino,Broccatelli Galli,wine_01hcw4dg30j99rvh37e96z7bwh
+TRUE,v.83155.2015.b,RED,Torgiano rosso Riserva Santa Caterina,Broccatelli Galli,,BOTTLE,2015,45,,4,Purchase Price: 10,Re Migrante Montefalco Rosso Riserva,Broccatelli Galli,wine_01hcw4dg355ewqm0f6q5t70cw1
+TRUE,v.30113.2007.b,RED,Montecucco Rosso,Campinuovi,,BOTTLE,2007,45,,2,Purchase Price: 8,Rosso,Campinovi,wine_01gzr4ktfw5p8c6thn744zmj3g
+TRUE,v.30617.2012.b,RED,Carignano del Sulcis,Cantina Giba 6mura,,BOTTLE,2012,37,,3,Purchase Price: 8,Calarenas Carignano del Sulcis,Cantina di Dolianova,wine_01h0f3cmc0c2jq6n4qbv54xfqb
+TRUE,v.74010.2018.b,RED,Ruchè Pro Nobis,Cantine Sant'Agata,,BOTTLE,2018,45,,2,Purchase Price: 10,Il Cavaliere Ruché di Castagnole Monferrato,Sant’Agata,wine_01hcw4dg5fqxa0y8tabvthz8ad
+TRUE,v.84110.2002.b,WHITE,Pinot gris,Caves Beissel,,BOTTLE,2002,45,,1,Purchase Price: 12,Vogelsang Pinot Gris,Caves Berna,wine_01hcycw56tw94s2bwf4jd6hdq1
+TRUE,v.36294.2012.b,WHITE,Ischia Forastera,Cenatiempo,,BOTTLE,2012,45,,3,Purchase Price: 10,Ischia Biancolella,Cenatiempo,wine_01h0qsxn364myq41ajnw8bkzem
+TRUE,v.6600.2005.b,RED,Château Batailley 5ème G.C.C.,Château Batailley,,BOTTLE,2005,100,,1,Purchase Price: 20,Lions de Batailley,Château Batailley,wine_01h0my5sa2dgcjsm4ysfemqvxs
+TRUE,v.4194.2010.b,RED,Château Belgrave 5ème G.C.C.,Château Belgrave,,BOTTLE,2010,90,,1,Purchase Price: 10,Couronne de Belgrave Haut-Médoc,Château Belgrave,wine_01h0my5sa5r6x18vh4xrf77cy9
+TRUE,v.8631.1996.b,RED,Château Branaire-Ducru Grand Cru Classé,Château Branaire-Ducru,,BOTTLE,1996,120,,2,Purchase Price: 20,Saint-Julien de Branaire-Ducru,Château Branaire-Ducru,wine_01gzr4ksd28racn9zt3pgg6fkn
+TRUE,v.4599.2000.b,RED,Château Brane-Cantenac 2ème G.C.C.,Château Brane-Cantenac,,BOTTLE,2000,160,,2,Purchase Price: 40,Baron de Brane Margaux,Château Brane-Cantenac,wine_01gzr4ksd3nvjqp3f6f4hft91z
+TRUE,v.1765.1988.b,RED,Château Calon Ségur 3ème G.C.C.,Château Calon Ségur,,BOTTLE,1988,240,,2,Purchase Price: 60,Le C De Calon Ségur Saint-Estèphe,Château Calon-Ségur,wine_01gzr4kt6s8cdrpfyynw0s8dnc
+FALSE,v.36846.2010.b,RED,Château Calon,Château Calon,,BOTTLE,2010,70,,2,Purchase Price: 18,Canon-Fronsac,Château Canon,
+TRUE,v.33685.1990.b,RED,"Château Canon 1er G.C.C. ""B""",Château Canon,,BOTTLE,1990,180,,1,Purchase Price: 45,Canon-Fronsac,Château Canon,wine_01gzr4kt6tj7d60a046v98ppwv
+TRUE,v.39158.1989.b,RED,Château Canon-Moueix,Château Canon-Moueix,,BOTTLE,1989,130,,1,Purchase Price: 35,Canon-Fronsac,Château Canon,wine_01hcw4dg8fbrp7q58z727g446m
+FALSE,v.4196.2000.b,RED,Château Chasse Spleen Cru Bourg. Except.,Château Chasse Spleen,,BOTTLE,2000,120,,2,Purchase Price: 35,L''Heritage de Chasse-Spleen Haut-Médoc (L''Ermitage de Chasse-Spleen),Château Chasse-Spleen,
+TRUE,v.37626.1990.b,RED,Château Citran,Château Citran,,BOTTLE,1990,80,,1,Purchase Price: 20,Le Bordeaux de Citran,Château Citran,wine_01gzr4ktnfjtm59swcpbdjcb0j
+FALSE,v.8934.1986.b,RED,Château Clarke Cru Bourgeois,Château Clarke,,BOTTLE,1986,75,,4,Purchase Price: 14,Haut de La Clare Médoc,Château La Clare,
+FALSE,v.8934.1990.b,RED,Château Clarke Cru Bourgeois,Château Clarke,,BOTTLE,1990,70,,1,Purchase Price: 10,Haut de La Clare Médoc,Château La Clare,
+TRUE,v.1746.1989.b,RED,Château Cos d'Estournel 2ème G.C.C.,Château Cos d'Estournel,,BOTTLE,1989,340,,1,Purchase Price: 100,G d’Estournel (Goulée by Cos d’Estournel),Cos d'Estournel,wine_01h0qsxnycwf00ctqfabmqzcmz
+TRUE,v.1746.1990.b,RED,Château Cos d'Estournel 2ème G.C.C.,Château Cos d'Estournel,,BOTTLE,1990,350,,1,Purchase Price: 110,G d’Estournel (Goulée by Cos d’Estournel),Cos d'Estournel,wine_01h0qsxnycwf00ctqfabmqzcmz
+TRUE,v.17909.2012.b,WHITE,Côtes du Jura Blanc Tradition,Château d'Arlay,,BOTTLE,2012,55,,3,Purchase Price: 14,Chardonnay Côtes du Jura,Château Béthanie,wine_01hcw4dg9fbvexkqk3wv27a37e
+TRUE,v.84732.2011.b,WHITE,Meursault Clos de la Velle,Château de la Velle,,BOTTLE,2011,110,,3,Purchase Price: 25,Meursault 1er Cru ''Les Caillerets'',Chateau de La Velle,wine_01hcw4dg9fxtyh9x1p6eanrng7
+TRUE,v.33056.2000.b,RED,Côtes de Provence Rubrum Obscurum,Château de Roquefort,,BOTTLE,2000,55,,1,Purchase Price: 10,Gueule de Loup de Villeneuve,Château de Roquefort,wine_01hcw4dg9n79g1adk5kfnpn05e
+TRUE,v.17596.1996.b,RED,Château d'Issan 3ème G.C.C.,Château d'Issan,,BOTTLE,1996,140,,4,Purchase Price: 40,Blason d''Issan Margaux,Château d'Issan,wine_01h0my5sa9nq9rd9r5nyn6eavv
+TRUE,v.14246.2005.b,RED,Château du Domaine de l'Eglise,Château du Domaine de l'Eglise,,BOTTLE,2005,100,,3,Purchase Price: 25,Couvent de L''Eglise Pomerol,Château du Domaine de l'Eglise,wine_01harvcm2pf8c6mkbxepydm1rt
+TRUE,v.9009.1996.b,RED,Château Gazin,Château Gazin,,BOTTLE,1996,135,,4,Purchase Price: 32,L''Hospitalet de Gazin Pomerol,Château Gazin,wine_01hcw4dga2amsthaysqgywbxqd
+TRUE,v.9009.2006.b,RED,Château Gazin,Château Gazin,,BOTTLE,2006,100,,1,Purchase Price: 25,L''Hospitalet de Gazin Pomerol,Château Gazin,wine_01hcw4dga2amsthaysqgywbxqd
+TRUE,v.45095.2001.b,RED,Château Grand-Puy Ducasse Grand Cru Classé,Château Grand-Puy Ducasse,,BOTTLE,2001,90,,1,Purchase Price: 22,Prelude a Grand-Puy Ducasse Pauillac,Château Grand-Puy Ducasse,wine_01h0my5sa6h7x8xbp7hevkvb7q
+TRUE,v.7993.1982.b,RED,Château Gruaud-Larose 2ème G.C.C.,Château Gruaud-Larose,,BOTTLE,1982,420,,2,Purchase Price: 130,Larose de Gruaud Saint-Julien,Château Gruaud Larose,wine_01gzr4ksd285g4eq2ztzy0mf01
+TRUE,v.7993.1986.b,RED,Château Gruaud-Larose 2ème G.C.C.,Château Gruaud-Larose,,BOTTLE,1986,200,,2,Purchase Price: 50,Larose de Gruaud Saint-Julien,Château Gruaud Larose,wine_01gzr4ksd285g4eq2ztzy0mf01
+TRUE,v.1735.1986.b,RED,Château Haut Brion Rouge 1er G.Cru Classé,Château Haut Brion,,BOTTLE,1986,600,,1,Purchase Price: 180,Le Clarence de Haut Brion Pessac-Léognan (Château Bahans Haut-Brion),Château Haut-Brion,wine_01gzr4ksd235bckbf5gb3gv4t1
+TRUE,v.4329.1988.b,RED,Château Haut-Marbuzet,Château Haut-Marbuzet,,BOTTLE,1988,120,,2,Purchase Price: 32,Château Mac Carthy Saint-Estèphe,Château Haut-Marbuzet,wine_01gzr4ksd2vb4dn6pebaewnth3
+TRUE,v.4329.1990.b,RED,Château Haut-Marbuzet,Château Haut-Marbuzet,,BOTTLE,1990,130,,1,Purchase Price: 38,Château Mac Carthy Saint-Estèphe,Château Haut-Marbuzet,wine_01gzr4ksd2vb4dn6pebaewnth3
+TRUE,v.4329.1996.b,RED,Château Haut-Marbuzet,Château Haut-Marbuzet,,BOTTLE,1996,110,,3,Purchase Price: 32,Château Mac Carthy Saint-Estèphe,Château Haut-Marbuzet,wine_01gzr4ksd2vb4dn6pebaewnth3
+TRUE,v.4329.2008.b,RED,Château Haut-Marbuzet,Château Haut-Marbuzet,,BOTTLE,2008,100,,1,Purchase Price: 10,Château Mac Carthy Saint-Estèphe,Château Haut-Marbuzet,wine_01gzr4ksd2vb4dn6pebaewnth3
+TRUE,v.1780.2011.b,RED,Château La Mission Haut-Brion Rouge Cru Classé des Graves,Château La Mission Haut-Brion,,BOTTLE,2011,290,,2,Purchase Price: 75,La Chapelle de La Mission Haut-Brion Pessac-Léognan,Château La Mission Haut-Brion,wine_01gzr4ksd3306b43wcn7rd98dz
+TRUE,v.9012.1999.b,RED,Château La Tour Haut-Brion Cru Classé des Graves,Château La Tour Haut Brion,,BOTTLE,1999,130,,1,Purchase Price: 35,Le Clarence de Haut Brion Pessac-Léognan (Château Bahans Haut-Brion),Château Haut-Brion,wine_01gzr4kt1w6kgasfh9x0nf1805
+TRUE,v.1768.1962.c,RED,Château Lafite Rothschild 1er G.Cru Classé,Château Lafite Rothschild,,MAGNUM,1962,3000,,1,Purchase Price: 800,Carruades de Lafite Pauillac,Château Lafite Rothschild,wine_01gzr4ksd1br0cs071rnre3t19
+TRUE,v.1768.1990.b,RED,Château Lafite Rothschild 1er G.Cru Classé,Château Lafite Rothschild,,BOTTLE,1990,1600,,1,Purchase Price: 500,Carruades de Lafite Pauillac,Château Lafite Rothschild,wine_01gzr4ksd1br0cs071rnre3t19
+TRUE,v.1768.2000.b,RED,Château Lafite Rothschild 1er G.Cru Classé,Château Lafite Rothschild,,BOTTLE,2000,2000,,1,Purchase Price: 600,Carruades de Lafite Pauillac,Château Lafite Rothschild,wine_01gzr4ksd1br0cs071rnre3t19
+TRUE,v.1768.2002.b,RED,Château Lafite Rothschild 1er G.Cru Classé,Château Lafite Rothschild,,BOTTLE,2002,980,,2,Purchase Price: 300,Carruades de Lafite Pauillac,Château Lafite Rothschild,wine_01gzr4ksd1br0cs071rnre3t19
+TRUE,v.8096.1983.b,RED,Château Lascombes 2ème G.C.C.,Château Lascombes,,BOTTLE,1983,140,,3,Purchase Price: 35,Chevalier de Lascombes Margaux,Château Lascombes,wine_01h0my5sa15nf3dghrhya0jt46
+TRUE,v.3696.1988.b,RED,Château Latour 1er G.Cru Classé,Château Latour,,BOTTLE,1988,2000,,1,Purchase Price: 500,Pauillac de Latour,Château Latour,wine_01gzr4ksd2vd8tbaeth2vjkcff
+TRUE,v.3696.1990.b,RED,Château Latour 1er G.Cru Classé,Château Latour,,BOTTLE,1990,3300,,1,Purchase Price: 1000,Pauillac de Latour,Château Latour,wine_01gzr4ksd2vd8tbaeth2vjkcff
+TRUE,v.3696.2002.b,RED,Château Latour 1er G.Cru Classé,Château Latour,,BOTTLE,2002,1600,,1,Purchase Price: 400,Pauillac de Latour,Château Latour,wine_01gzr4ksd2vd8tbaeth2vjkcff
+TRUE,v.1747.1988.b,RED,Grand Vin de Léoville du Marquis de Las Cases 2ème G.C.C.,Château Léoville Las Cases,,BOTTLE,1988,440,,1,Purchase Price: 130,Clos du Marquis Saint-Julien,Château Léoville Las Cases,wine_01gzr4ksd26esbx5yrtjqrj5g1
+TRUE,v.1747.1993.b,RED,Grand Vin de Léoville du Marquis de Las Cases 2ème G.C.C.,Château Léoville Las Cases,,BOTTLE,1993,350,,1,Purchase Price: 100,Clos du Marquis Saint-Julien,Château Léoville Las Cases,wine_01gzr4ksd26esbx5yrtjqrj5g1
+TRUE,v.1739.1989.b,RED,Château Montrose 2ème G.C.C.,Château Montrose,,BOTTLE,1989,600,,1,Purchase Price: 200,Le Saint-Estephe de Montrose,Château Montrose,wine_01gzr4ksd2hcxnpyqj5m3vb3fd
+TRUE,v.1741.1981.b,RED,Château Mouton-Rothschild 1er G.Cru Classé,Château Mouton Rothschild,,BOTTLE,1981,1500,,3,Purchase Price: 420,Le Petit Mouton de Mouton Rothschild Pauillac,Château Mouton Rothschild,wine_01gzr4ksd12t2w3f9a16pgcezy
+TRUE,v.1741.1988.b,RED,Château Mouton-Rothschild 1er G.Cru Classé,Château Mouton Rothschild,,BOTTLE,1988,1100,,2,Purchase Price: 320,Le Petit Mouton de Mouton Rothschild Pauillac,Château Mouton Rothschild,wine_01gzr4ksd12t2w3f9a16pgcezy
+TRUE,v.1741.1990.b,RED,Château Mouton-Rothschild 1er G.Cru Classé,Château Mouton Rothschild,,BOTTLE,1990,1500,,4,Purchase Price: 440,Le Petit Mouton de Mouton Rothschild Pauillac,Château Mouton Rothschild,wine_01gzr4ksd12t2w3f9a16pgcezy
+TRUE,v.1741.2002.b,RED,Château Mouton-Rothschild 1er G.Cru Classé,Château Mouton Rothschild,,BOTTLE,2002,1500,,1,Purchase Price: 440,Le Petit Mouton de Mouton Rothschild Pauillac,Château Mouton Rothschild,wine_01gzr4ksd12t2w3f9a16pgcezy
+TRUE,v.1750.1999.b,RED,Château Pichon-Longueville Baron 2ème G.C.C.,Château Pichon-Longueville Baron,,BOTTLE,1999,210,,1,Purchase Price: 50,Les Tourelles de Longueville Pauillac,Château Pichon Baron,wine_01h0my5sa1t3p2sj6mc13fkxzx
+TRUE,v.15656.2012.b,RED,Château Pimpine,Château Pimpine,,BOTTLE,2012,60,,3,Purchase Price: 14,Château,Château Ksara,wine_01hcwsyk1952vdgrbwrt9nqksk
+TRUE,v.6430.1995.b,RED,Château Pontet Canet Grand Cru Classé,Château Pontet Canet,,BOTTLE,1995,140,,1,Purchase Price: 32,Les Hauts de Pontet-Canet Pauillac,Château Pontet-Canet,wine_01gzr4ksd1fghmpgth14apkphe
+TRUE,v.8638.1982.b,RED,Château Rauzan-Gassies 2ème G.C.C.,Château Rauzan-Gassies,,BOTTLE,1982,160,,5,Purchase Price: 40,Chevalier de Rauzan-Gassies Margaux,Château Rauzan-Gassies,wine_01hfsc4mb0bt1008fssexnfhww
+TRUE,v.12661.1989.b,RED,Premières Côtes de Bordeaux Château Reynon,Château Reynon,,BOTTLE,1989,80,,1,Purchase Price: 10,Clos de Reynon Cadillac - Côtes de Bordeaux,Château Reynon,wine_01hcwsyk1hmv41nzmtky4z50va
+TRUE,v.12661.1995.b,RED,Premières Côtes de Bordeaux Château Reynon,Château Reynon,,BOTTLE,1995,80,,1,Purchase Price: 10,Clos de Reynon Cadillac - Côtes de Bordeaux,Château Reynon,wine_01hcwsyk1hmv41nzmtky4z50va
+TRUE,v.1789.1989.b,RED,Château Sociando Mallet,Château Sociando Mallet,,BOTTLE,1989,170,,2,Purchase Price: 45,La Demoiselle de Sociando-Mallet Haut-Médoc,Château Sociando-Mallet,wine_01h0my5sa2482jyncksvzkz9tg
+TRUE,v.1789.1990.b,RED,Château Sociando Mallet,Château Sociando Mallet,,BOTTLE,1990,160,,1,Purchase Price: 45,La Demoiselle de Sociando-Mallet Haut-Médoc,Château Sociando-Mallet,wine_01h0my5sa2482jyncksvzkz9tg
+TRUE,v.1789.1996.b,RED,Château Sociando Mallet,Château Sociando Mallet,,BOTTLE,1996,110,,2,Purchase Price: 32,La Demoiselle de Sociando-Mallet Haut-Médoc,Château Sociando-Mallet,wine_01h0my5sa2482jyncksvzkz9tg
+TRUE,v.6971.1990.b,RED,Château Talbot 4ème G.C.C.,Château Talbot,,BOTTLE,1990,180,,1,Purchase Price: 50,Connétable Talbot Saint-Julien,Château Talbot,wine_01gzr4ksd1mg8q7dzrwwdgg1t4
+TRUE,v.10091.1996.b,RED,Château Troplong Mondot Grand Cru Classé,Château Troplong Mondot,,BOTTLE,1996,150,,1,Purchase Price: 40,Mondot Saint-Émilion Grand Cru,Château Troplong Mondot,wine_01gzr4ksd3ekwjebr892asstx9
+TRUE,v.1745.2005.b,RED,Château Trotte Vieille 1er G.Cru Classé,Château Trotte Vieille,,BOTTLE,2005,230,,2,Purchase Price: 75,La Vieille Dame de Trotte Vieille Saint-Émilion Grand Cru,Château Trotte Vieille,wine_01gzr4ktnrnvvb0xj6kyh99bzq
+TRUE,v.34394.2009.b,RED,Pinot noir,Christian Binner,,BOTTLE,2009,90,,5,Purchase Price: 22,Pinot Noir,Christian Dolder,wine_01hfscjkpx4kb16gc5yj5cfnch
+TRUE,v.83913.2000.b,RED,Gigondas,Clos du Joncuas,,BOTTLE,2000,55,,1,Purchase Price: 10,Vignoble Saint-Frédéric Gigondas,Clos du Joncuas,wine_01hcwsyk30dm4jjwqxwspsybd8
+TRUE,v.55643.2018.b,WHITE,Montagny Cuvée Le Clou,Clos Salomon,,BOTTLE,2018,55,,3,Purchase Price: 10,Le Clos Sauvignon,Clos Roussely,wine_01hcycw5843jtkt4zx34exkcq8
+TRUE,v.83553.2001.b,RED,Colli Berici Cabernet,Costozza,,BOTTLE,2001,40,,6,Purchase Price: 10,Cabernet Sauvignon,Costozza,wine_01h0qsxnqbda6193e5gvjpxxt2
+TRUE,v.16612.2015.b,WHITE,Greco di Tufo Oro,D’Orta – De Conciliis,,BOTTLE,2015,42,,2,Purchase Price: 8,La Passera Greco di Tufo,Viticoltori de Conciliis,wine_01hfsh1dhejnqgtezjyzrhx2r2
+TRUE,v.257.2003.b,RED,Cesanese di Olevano Romano Riserva Cirsium,Damiano Ciolli,,BOTTLE,2003,60,,3,Purchase Price: 12,Silene Cesanese di Olevano Romano Superiore,Damiano Ciolli,wine_01h0qsxn52h8rrb596e6d9arst
+TRUE,v.10109.2002.b,WHITE,Collio Tocai Friulano,Dario Raccaro,,BOTTLE,2002,52,,1,Purchase Price: 10,Friulano Rolat,Raccaro,wine_01hfsh6jsg9wghbzx1ekg9h1kk
+TRUE,v.10109.2005.b,WHITE,Collio Tocai Friulano,Dario Raccaro,,BOTTLE,2005,50,,1,Purchase Price: 10,Friulano Rolat,Raccaro,wine_01hfsh6jsg9wghbzx1ekg9h1kk
+TRUE,v.68797.2022.b,WHITE,Vivo,De Martin,,BOTTLE,2022,30,,18,Purchase Price: 10,Vivo Chardonnay,De Bortoli,wine_01hcwsyk6w0nxhar8eesd8n2sq
+TRUE,v.37113.2003.b,WHITE,Valais Fendand Les Vignes dans le Ciel,Domaine de Beudon,,BOTTLE,2003,60,,4,Purchase Price: 20,Fendant du Valais,GREGOR KUONEN Caveau de Salquenen,wine_01hcycw59k1nbxjtbbvhgg03tm
+TRUE,v.15017.2003.b,WHITE,Valais Riesling x Sylvaner,Domaine de Beudon,,BOTTLE,2003,60,,1,Purchase Price: 16,Riesling - Sylvaner,Domaine de la Printaniére,wine_01hcwsykce9sep0m7mdfbr74yx
+TRUE,v.15017.2007.b,WHITE,Valais Riesling x Sylvaner,Domaine de Beudon,,BOTTLE,2007,55,,3,Purchase Price: 15,Riesling - Sylvaner,Domaine de la Printaniére,wine_01hcwsykce9sep0m7mdfbr74yx
+TRUE,v.35823.2017.b,WHITE,Arbois Trois Terroirs,Domaine de Saint Pierre,,BOTTLE,2017,100,,2,Purchase Price: 28,Chateau Renard Arbois,Domaine de Saint Pierre,wine_01hcwsykdat30bedft028mn167
+TRUE,v.51966.2015.b,WHITE,Cheverny L'Heritière,Domaine du Salvard,,BOTTLE,2015,55,,3,Purchase Price: 12,Cheverny Blanc,Domaine du Salvard,wine_01hcwsykdpph1jazd1ctrmj0km
+TRUE,v.3409.2010.b,WHITE,Collio Malvasia Etichetta Blu,Doro Princic,,BOTTLE,2010,60,,1,Purchase Price: 9,Malvasia,Doro Princic,wine_01hfsjnhycrjdj5xzvzatp6qp9
+TRUE,v.3409.2013.b,WHITE,Collio Malvasia Etichetta Blu,Doro Princic,,BOTTLE,2013,50,,2,Purchase Price: 13,Malvasia,Doro Princic,wine_01hfsjnhycrjdj5xzvzatp6qp9
+TRUE,v.3804.1983.b,RED,Montepulciano d'Abruzzo Riserva,Emidio Pepe,,BOTTLE,1983,400,,1,Purchase Price: 70,Montepulciano d''Abruzzo,Emidio Pepe,wine_01gzr4ksd6tm16eae9c8tj0thw
+TRUE,v.3804.1984.b,RED,Montepulciano d'Abruzzo Riserva,Emidio Pepe,,BOTTLE,1984,380,,1,Purchase Price: 110,Montepulciano d''Abruzzo,Emidio Pepe,wine_01gzr4ksd6tm16eae9c8tj0thw
+TRUE,v.11537.2012.b,RED,Barolo Serralunga d'Alba,Ferdinando Principiano,,BOTTLE,2012,75,,3,Purchase Price: 14,Saitta Selezione Serralunga Barolo,Ferdinando Principiano,wine_01h0my5sexv56ph45trhywda94
+TRUE,v.15060.2010.b,RED,Boschetto Rosso,Feudi Barone Spitaleri,,BOTTLE,2010,40,,2,Purchase Price: 7,Rosso,Feudo dei Baroni,wine_01hfsjxck3dntbd3rzbv05hhbt
+TRUE,v.31131.1998.b,RED,Taurasi Selve di Luoti,Feudi di San Gregorio,,BOTTLE,1998,65,,1,Purchase Price: 15,Taurasi,Feudi di San Gregorio,wine_01hfsk29k05kyqysvec201cyha
+TRUE,v.31131.1999.b,RED,Taurasi Selve di Luoti,Feudi di San Gregorio,,BOTTLE,1999,60,,1,Purchase Price: 14,Taurasi,Feudi di San Gregorio,wine_01hfsk29k05kyqysvec201cyha
+FALSE,v.83472.2004.b,RED,Nero d'Avola,FiàNobile,,BOTTLE,2004,42,,1,Purchase Price: 10,Nero Capitano Nero d''Avola,FiàNobile,
+TRUE,v.12770.2015.b,WHITE,Gewürztraminer,Frédéric Mochel,,BOTTLE,2015,55,,1,Purchase Price: 14,Gewürztraminer,Frédéric Engel,wine_01h4pmmgkg2zd4n311qrmkf85e
+TRUE,v.12770.2016.b,WHITE,Gewürztraminer,Frédéric Mochel,,BOTTLE,2016,55,,5,Purchase Price: 14,Gewürztraminer,Frédéric Engel,wine_01h4pmmgkg2zd4n311qrmkf85e
+TRUE,v.334.2001.b,RED,Chianti Rùfina Montesodi,Frescobaldi - Castello di Nipozzano,,BOTTLE,2001,100,,1,Purchase Price: 16,Chianti Rùfina Riserva,Castello Nipozzano,wine_01gzr4ksd1e9gd713mv8f14tf5
+TRUE,v.82800.2016.b,WHITE,Bianco,Frus - Marina Danieli,,BOTTLE,2016,45,,1,Purchase Price: 8,Fusionissimo Bianco,Marina Danieli,wine_01hcw4dg4c2sjkbj68x7rvn3me
+FALSE,v.82802.1991.b,WHITE,Collio Sauvignon Riserva,Gravner,,BOTTLE,1991,320,,1,Purchase Price: 50,Riserva Ribolla,Gravner,
+TRUE,v.16462.2017.b,WHITE,Weinviertel Grüner Veltliner Reserve Mühlberg,Gruber Röschitz,,BOTTLE,2017,55,,3,Purchase Price: 10,Mühlberg Grüner Veltliner,Gruber Röschitz,wine_01havwefgxg5qn0xr9mvw6necq
+TRUE,v.70427.2000.b,WHITE,Gewürztraminer Vendanges Tardives,Gruss,,BOTTLE,2000,80,,2,Purchase Price: 20,Gewürztraminer ''Eguisheim'',Domaine Gruss,wine_01hcwsykpjynp0ksrqv8fadnvh
+TRUE,v.233.2012.b,RED,Bolgheri Merlot Cont'Ugo,Guado al Tasso - Antinori,,BOTTLE,2012,70,,10,Purchase Price: 18,Rute Bolgheri,Guado al Melo,wine_01gzr4ksd560dmr2hrsxt1em3c
+FALSE,v.61043.2002.b,RED,Lagrein,H. Lentsch,,BOTTLE,2002,60,,1,Purchase Price: 12,Amperg Lagrein Riserva,Klaus Lentsch,
+TRUE,v.61130.2011.b,RED,Lagrein,Hans Rottensteiner,,BOTTLE,2011,45,,2,Purchase Price: 10,Selezione Lagrein,Rottensteiner,wine_01h0my5t3cx7y7vyehk6cnf93a
+TRUE,v.1506.2011.c,WHITE,Riesling Trocken,Heymann-Löwenstein,,MAGNUM,2011,100,,1,Purchase Price: 10,Riesling,Heymann-Löwenstein,wine_01gzr4kszd77qyfex73zxadrns
+TRUE,v.84111.1990.b,WHITE,Tokay Pinot gris Vendange Tardive,Hugel,,BOTTLE,1990,160,,5,Purchase Price: 40,Classic Pinot Gris,Hugel,wine_01hcwsykswvbd8h3byp0yytjr1
+TRUE,v.80095.2019.b,WHITE,Vipava Sauvignon Obelunec,Kmetija Hedele,,BOTTLE,2019,60,,27,Purchase Price: 21,Sauvignon,Kmetija Hedele,wine_01hawwcytwdkpfek414qme16mq
+FALSE,v.83836.2002.b,WHITE,Chardonnay,Le Clos du Tue-Bœuf,,BOTTLE,2002,90,,3,Purchase Price: 20,Chardonnay,Le Due Torri,
+TRUE,v.32755.1999.b,RED,Carmignano Riserva,Le Farnete,,BOTTLE,1999,55,,2,Purchase Price: 10,Opi Montepulciano d''Abruzzo Colline Teramane Riserva,Farnese,wine_01gzr4kt81t0ev94ecxwbw6vmg
+FALSE,v.32716.1999.b,RED,Macchiole,Le Macchiole,,BOTTLE,1999,180,,3,Purchase Price: 39,Macchiona,La Stoppa,
+FALSE,v.44108.2000.b,RED,Tazzelenghe,Le Vigne di Zamò,,BOTTLE,2000,50,,1,Purchase Price: 10,Tazzelenghe,Castello di Arcania,
+TRUE,v.83834.2018.b,RED,Cannonau di Sardegna 1 Sorso,Leonardo Bagella,,BOTTLE,2018,40,,1,Purchase Price: 9,1Sorso Cannonau di Sardegna,Mario Bagella,wine_01h0my5sh79mzbddkjcjqgyej7
+FALSE,v.84694.1957.b,RED,Nuits-Saint-Georges Les Porets 1er Cru,Leroy,,BOTTLE,1957,1500,,1,Purchase Price: 420,Nuits-Saint-Georges Les Vaucrains 1er Cru,Maison Leroy,
+TRUE,v.58645.2003.b,RED,Colli Orientali del Friuli Refosco dal peduncolo rosso,Livon,,BOTTLE,2003,50,,2,Purchase Price: 10,Riul Refosco dal Peduncolo Rosso,Livon,wine_01gzr4kt3zaqtwqe60w7m79jkr
+TRUE,v.32471.1999.b,WHITE,Meursault Blagny 1er Cru,Louis Jadot,,BOTTLE,1999,170,,2,Purchase Price: 50,Meursault 1er Cru ''Charmes'',Louis Jadot,wine_01hcw4dfcv2xc6xgja8e78g5nc
+TRUE,v.4985.2007.b,RED,Taurasi Poliphemo Vecchie Vigne,Luigi Tecce,,BOTTLE,2007,70,,2,Purchase Price: 15,Poliphemo Taurasi,Luigi Tecce,wine_01h0qsxn1km08qehgpnfwba25y
+TRUE,v.43347.2014.b,RED,Colli Orientali del Friuli Nero Magis,Magis,,BOTTLE,2014,60,,9,Purchase Price: 14,Le Carignan de Maris,Château Maris,wine_01h4pmmfm44z595ma5pc5bry81
+TRUE,v.83956.1994.b,WHITE,Pinot gris Bergheim Vendanges Tardives,Marcel Deiss,,BOTTLE,1994,100,,2,Purchase Price: 18,Pinot Gris Bergheim,Marcel Deiss,wine_01gzr4kstqtgx5a37tm8m5dvx5
+TRUE,v.63917.2016.c,WHITE,Pinot grigio,Marco Levis,,MAGNUM,2016,70,,3,Purchase Price: 18,Pinot Grigio,Marco Cecchini,wine_01gzr4ksedz1vcfmrdc48yft05
+TRUE,v.63917.2016.b,WHITE,Pinot grigio,Marco Levis,,BOTTLE,2016,40,,2,Purchase Price: 9,Pinot Grigio,Marco Cecchini,wine_01gzr4ksedz1vcfmrdc48yft05
+FALSE,v.84734.2010.b,WHITE,Saint-Véran,Marie-Thérèse Thill,,BOTTLE,2010,60,,5,Purchase Price: 14,Saint-Véran,Fernand Thill,
+TRUE,v.6096.2013.b,WHITE,Rebula / Ribolla,Marjan Simčič,,BOTTLE,2013,40,,2,Purchase Price: 10,Rebula Opoka,Marjan Simčič,wine_01gzr4kst0y723j0m2a89tmn7c
+FALSE,v.14305.2003.b,WHITE,Sauvignon blanc Riserva,Marjan Simčič,,BOTTLE,2003,85,,2,Purchase Price: 25,Sauvignon Blanc Opoka,Marjan Simčič,
+TRUE,v.19631.2016.b,RED,Vino Rosso Leggero,Martin Gojer Pranzegg,,BOTTLE,2016,45,,1,Purchase Price: 7,Vino Rosso,San Martino,wine_01havwefnvdt4fktwa1bww25v8
+TRUE,v.13317.1997.b,RED,Montepulciano d'Abruzzo San Martino Rosso,Masciarelli - Marina Cvetic,,BOTTLE,1997,65,,1,Purchase Price: 10,Montepulciano d''Abruzzo Riserva,Marina Cvetić,wine_01gzr4ksd473ccgdn8r8fnk84h
+TRUE,v.13317.2006.b,RED,Montepulciano d'Abruzzo San Martino Rosso,Masciarelli - Marina Cvetic,,BOTTLE,2006,60,,3,Purchase Price: 10,Montepulciano d''Abruzzo Riserva,Marina Cvetić,wine_01gzr4ksd473ccgdn8r8fnk84h
+TRUE,v.6500.1999.b,RED,Valpolicella Classico Superiore MontePiazzo,Masi - Serego Alighieri,,BOTTLE,1999,60,,1,Purchase Price: 15,Valpolicella Classico Superiore,Masi,wine_01gzr4ksd9jkybpahgzy7rhzbz
+TRUE,v.59219.2006.b,RED,Colli di Conegliano Riserva Nasi Rossi,Maso di Villa,,BOTTLE,2006,50,,6,Purchase Price: 11,Nasi Rossi,Maso di Villa,wine_01hbtesw30tqgv0hew40gzakv3
+TRUE,v.59219.2007.b,RED,Colli di Conegliano Riserva Nasi Rossi,Maso di Villa,,BOTTLE,2007,50,,1,Purchase Price: 11,Nasi Rossi,Maso di Villa,wine_01hbtesw30tqgv0hew40gzakv3
+FALSE,v.83130.2010.b,RED,Morellino di Scansano Punto Esclamativo a Carisio,Maurizio Menichetti,,BOTTLE,2010,45,,1,Purchase Price: 10,Brunello di Montalcino,Maurizio Castelli,
+FALSE,v.83130.2003.b,RED,Morellino di Scansano Punto Esclamativo,Maurizio Menichetti,,BOTTLE,2003,50,,2,Purchase Price: 10,Brunello di Montalcino,Maurizio Castelli,
+FALSE,v.83130.2004.b,RED,Morellino di Scansano Punto Esclamativo,Maurizio Menichetti,,BOTTLE,2004,50,,2,Purchase Price: 10,Brunello di Montalcino,Maurizio Castelli,
+TRUE,v.10986.2013.b,RED,Grignolino del Monferrato Casalese,Migliavacca,,BOTTLE,2013,50,,3,Purchase Price: 10,Grignolino del Monferrato Casalese,Migliavacca,wine_01h0my5vtqd5n1dy6jkfm248pf
+TRUE,v.44097.2019.b,WHITE,Sauvignon blanc Teolis,Murva - Renata Pizzulin,,BOTTLE,2019,40,,3,Purchase Price: 8,Lastris Sauvignon Blanc,Pizzulin Denis,wine_01hfty5x8b1yhc7qqgay6dzmsa
+TRUE,v.84690.2000.b,RED,Côte de Nuits Villages Viola Odorata Vieilles Vignes,Naudin-Ferrand,,BOTTLE,2000,140,,2,Purchase Price: 25,Vieilles Vignes Côte de Nuits Villages,Henri Naudin-Ferrand,wine_01h0qzm08heqb2thzs4rrfd5xz
+TRUE,v.84690.2005.b,RED,Côte de Nuits Villages Viola Odorata Vieilles Vignes,Naudin-Ferrand,,BOTTLE,2005,120,,3,Purchase Price: 25,Vieilles Vignes Côte de Nuits Villages,Henri Naudin-Ferrand,wine_01h0qzm08heqb2thzs4rrfd5xz
+FALSE,v.82743.2001.b,WHITE,Colli Orientali del Friuli Bianco,Nec-Otium,,BOTTLE,2001,55,,1,Purchase Price: 10,Casa Setta La Lozeta Monopolio Friuli Colli Orientali Chardonnay,Nec Otium,
+FALSE,v.12280.2000.b,RED,Merlot Cru:Čhale,Nec-Otium,,BOTTLE,2000,55,,1,Purchase Price: 10,Merlot,Nec Otium,
+TRUE,v.53943.2001.b,WHITE,Tocai Friulano Cru:Čhale,Nec-Otium,,BOTTLE,2001,55,,2,Purchase Price: 10,I Vini di Jacopo Friulano di Jacopo,Nec Otium,wine_01h4pmmfqe3rgcpnr37zn9h6cw
+TRUE,v.53943.2002.b,WHITE,Tocai Friulano Cru:Čhale,Nec-Otium,,BOTTLE,2002,55,,2,Purchase Price: 10,I Vini di Jacopo Friulano di Jacopo,Nec Otium,wine_01h4pmmfqe3rgcpnr37zn9h6cw
+TRUE,v.15955.2013.b,RED,Bolgheri Superiore Ornellaia L'Eleganza,Ornellaia,,BOTTLE,2013,400,,1,Purchase Price: 89,Bolgheri Superiore,Ornellaia,wine_01gzr4kt84npbnmnn74ztf80re
+TRUE,v.9531.2014.b,WHITE,Petite Arvine Nuances,Ottin,,BOTTLE,2014,45,,3,Purchase Price: 10,Petite Arvine,Ottin - Viticulteur Encaveur,wine_01gzr4ksy5vsgzzdj6z7az7snt
+TRUE,v.9531.2016.b,WHITE,Petite Arvine Nuances,Ottin,,BOTTLE,2016,55,,1,Purchase Price: 10,Petite Arvine,Ottin - Viticulteur Encaveur,wine_01gzr4ksy5vsgzzdj6z7az7snt
+TRUE,v.49786.2007.b,WHITE,Müller Thurgau,Pacher Hof,,BOTTLE,2007,55,,1,Purchase Price: 10,Müller-Thurgau Edition 108,Ilmbacher Hof,wine_01h0qzm2wze80gk8f0f496j1ab
+TRUE,v.14417.2014.b,WHITE,Sylvaner Alte Reben,Pacher Hof,,BOTTLE,2014,55,,2,Purchase Price: 10,Alte Reben Sylvaner,Hof Bangerth,wine_01h0qzm2wzyfdmfvtvp7c8x5fs
+TRUE,v.30064.2014.b,WHITE,Sylvaner,Pacher Hof,,BOTTLE,2014,45,,2,Purchase Price: 10,Silvaner,Ilmbacher Hof,wine_01h0qzm2wzfm3vjryzbpj6dfgg
+TRUE,v.58114.2013.b,RED,Barbera d'Alba Superiore,Paolo Monti,,BOTTLE,2013,65,,1,Purchase Price: 11,Barbera d''alba Superiore,Monte Paolo - Cascina Flino,wine_01hftz61dsjkvnvww6bbv0ss70
+TRUE,v.50698.2012.b,RED,Barbera d'Alba,Paolo Monti,,BOTTLE,2012,50,,2,Purchase Price: 9,Barbera d''alba Superiore,Monte Paolo - Cascina Flino,wine_01hftz9sqqsba5fkh8rkd72r9t
+TRUE,v.9201.2008.b,RED,Barolo Bussia,Paolo Monti,,BOTTLE,2008,90,,2,Purchase Price: 15,Bussia'' Barolo,Monti,wine_01hftzdwme5pq2n5ddna47790h
+TRUE,v.37183.2000.b,RED,Refoscone Romain,Paolo Rodaro,,BOTTLE,2000,50,,1,Purchase Price: 10,Romain Refosco dal Peduncolo Rosso,Rodaro,wine_01gzr4kttk3dgmqx1swymmpjf1
+TRUE,v.78658.2015.b,WHITE,Le Secche,Paradiso dei Conigli,,BOTTLE,2015,120,,2,Purchase Price: 20,Albana Secco,Fattoria Paradiso,wine_01gzr4kt8dckx33swgqv5rk5g9
+TRUE,v.78658.2016.b,WHITE,Le Secche,Paradiso dei Conigli,,BOTTLE,2016,110,,1,Purchase Price: 19,Albana Secco,Fattoria Paradiso,wine_01gzr4kt8dckx33swgqv5rk5g9
+FALSE,v.82742.2003.b,WHITE,Collio bianco Riserva π,Paraschos,,BOTTLE,2003,75,,1,Purchase Price: 17,Riserva,Paraschos,
+TRUE,v.5706.2005.c,RED,Barolo Riserva Argento,Parusso,,MAGNUM,2005,200,,1,Purchase Price: 30,Barolo Riserva,Parusso,wine_01hfv1pxrcsnzybv2gr1rwsahs
+TRUE,v.6429.1997.b,RED,Cabernet Sauvignon,Paul Bruno,,BOTTLE,1997,70,,2,Purchase Price: 10,Cabernet Sauvignon,Richard Bruno,wine_01h0qsxnt2zxm6z337vd69aw5e
+TRUE,v.6998.1995.b,RED,Brunello di Montalcino Rennina,Pieve Santa Restituta,,BOTTLE,1995,200,,1,Purchase Price: 40,Brunello di Montalcino,La Pieve,wine_01gzr4kspp6n1zpdabe143x83x
+TRUE,v.73144.2015.b,RED,Malvasia nera Sine Felle,Podere Casaccia,,BOTTLE,2015,60,,1,Purchase Price: 12,Sine Felle Riserva,Azienda Agricola Moretti - Podere Casaccia,wine_01gzr4kt5nyg4pazma5vfs8r03
+FALSE,v.61476.2008.b,RED,Piave Cabernet Carantico,Poderi del Todero,,BOTTLE,2008,50,,5,Purchase Price: 11,Malanotte del Piave,Poderi del Todero,
+TRUE,v.864.1998.b,WHITE,Chardonnay Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,1998,100,,1,Purchase Price: 25,Chardonnay,San Michele,wine_01gzr4ksmv69qe8d1n72sn0x7d
+TRUE,v.864.1999.b,WHITE,Chardonnay Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,1999,100,,1,Purchase Price: 25,Chardonnay,San Michele,wine_01gzr4ksmv69qe8d1n72sn0x7d
+TRUE,v.864.2000.b,WHITE,Chardonnay Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2000,90,,2,Purchase Price: 16,Chardonnay,San Michele,wine_01gzr4ksmv69qe8d1n72sn0x7d
+TRUE,v.864.2005.b,WHITE,Chardonnay Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2005,82,,2,Purchase Price: 15,Chardonnay,San Michele,wine_01gzr4ksmv69qe8d1n72sn0x7d
+TRUE,v.867.2003.b,WHITE,Gewürztraminer Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2003,80,,2,Purchase Price: 15,Gewürztraminer,Michel Kurtz,wine_01gzr4ksmv77d19k37hn5xh7nh
+TRUE,v.867.2005.b,WHITE,Gewürztraminer Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2005,55,,1,Purchase Price: 10,Gewürztraminer,Michel Kurtz,wine_01gzr4ksmv77d19k37hn5xh7nh
+TRUE,v.867.2006.b,WHITE,Gewürztraminer Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2006,70,,1,Purchase Price: 13,Gewürztraminer,Michel Kurtz,wine_01gzr4ksmv77d19k37hn5xh7nh
+TRUE,v.867.2012.b,WHITE,Gewürztraminer Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2012,55,,1,Purchase Price: 10,Gewürztraminer,Michel Kurtz,wine_01gzr4ksmv77d19k37hn5xh7nh
+TRUE,v.863.2005.b,WHITE,Pinot bianco Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2005,70,,1,Purchase Price: 13,Bianco,San Michele,wine_01gzr4ksmxhs3pcnxcft4hsbxs
+TRUE,v.13936.1999.b,WHITE,Pinot bianco Schulthauser,Produttori San Michele Appiano,,BOTTLE,1999,50,,1,Purchase Price: 10,Bianco,San Michele,wine_01gzr4kskqhvbre4ann8ryaw6c
+TRUE,v.865.1999.b,WHITE,Pinot grigio Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,1999,58,,1,Purchase Price: 15,Pinot Grigio,San Michele,wine_01gzr4ksmwpc5rwqdma4kja9w0
+TRUE,v.865.2001.b,WHITE,Pinot grigio Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2001,52,,2,Purchase Price: 9,Pinot Grigio,San Michele,wine_01gzr4ksmwpc5rwqdma4kja9w0
+TRUE,v.865.2003.b,WHITE,Pinot grigio Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2003,50,,2,Purchase Price: 9,Pinot Grigio,San Michele,wine_01gzr4ksmwpc5rwqdma4kja9w0
+TRUE,v.13937.2000.b,WHITE,Riesling Montiggl,Produttori San Michele Appiano,,BOTTLE,2000,48,,2,Purchase Price: 9,Ritratto Riesling,San Michele,wine_01gzr4ksmwckz0qm0y5yhp3k15
+TRUE,v.866.2004.b,WHITE,Sauvignon Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2004,85,,1,Purchase Price: 20,Sauvignon,Borgo San Michele,wine_01gzr4ksmvsfn18zf94zmgm0dw
+TRUE,v.866.2006.b,WHITE,Sauvignon Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2006,80,,2,Purchase Price: 15,Sauvignon,Borgo San Michele,wine_01gzr4ksmvsfn18zf94zmgm0dw
+TRUE,v.866.2014.b,WHITE,Sauvignon Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2014,50,,1,Purchase Price: 10,Sauvignon,Borgo San Michele,wine_01gzr4ksmvsfn18zf94zmgm0dw
+TRUE,v.4906.1999.b,RED,Clos Mogador,René Barbier,,BOTTLE,1999,150,,1,Purchase Price: 40,Clos de Vougeot Grand Cru,Joseph Barbier,wine_01hfv2nd65f1ckwd25qdcydfaq
+TRUE,v.18055.2011.b,RED,Barolo,Renzo Seghesio,,BOTTLE,2011,70,,4,Purchase Price: 13,Pajana Barolo,Renzo Seghesio,wine_01h0my5sezj9a6jbvjbmc39vqx
+TRUE,v.724.1997.b,RED,Chianti Classico Castello di Brolio,Ricasoli,,BOTTLE,1997,60,,2,Purchase Price: 15,Castello di Brolio Riserva Chianti Classico,Ricasoli,wine_01gzr4kss4p4qj0zady87n2p7g
+FALSE,v.57542.2017.b,WHITE,Colli Orientali del Friuli Riserva Podere dei Ronchi,Roberto Tami,,BOTTLE,2017,36,,3,Purchase Price: 8,Terre da Bianco Riserva,Tami,
+FALSE,v.57542.2019.b,WHITE,Colli Orientali del Friuli Riserva Podere dei Ronchi,Roberto Tami,,BOTTLE,2019,35,,18,Purchase Price: 9,Terre da Bianco Riserva,Tami,
+TRUE,v.82740.2010.b,WHITE,Sauvignon,Ronco del Gelso,,BOTTLE,2010,55,,2,Purchase Price: 10,Vin di Vore Sauvignon,Ronco del Gelso,wine_01h0qzm19tms2c1nh09c16hhpg
+FALSE,v.44223.1997.b,WHITE,Friulano,Ronco del Gnemiz,,BOTTLE,1997,90,,1,Purchase Price: 19,Friulano San Zuan,Ronco del Gnemiz,
+FALSE,v.44223.2002.b,WHITE,Friulano,Ronco del Gnemiz,,BOTTLE,2002,75,,1,Purchase Price: 16,Friulano San Zuan,Ronco del Gnemiz,
+TRUE,v.8832.2001.b,RED,Boscorosso,Rosabosco Villa de Puppi,,BOTTLE,2001,55,,2,Purchase Price: 10,Borgorosso,De Riz,wine_01h0my5syq5gf9hxwze8p37b56
+TRUE,v.507.1990.b,RED,Cabreo Il Borgo,Ruffino,,BOTTLE,1990,160,,1,Purchase Price: 30,Il Ducale Toscana,Ruffino,wine_01hfv37zx0n9vszs28c153ed8x
+TRUE,v.507.1993.b,RED,Cabreo Il Borgo,Ruffino,,BOTTLE,1993,160,,2,Purchase Price: 20,Il Ducale Toscana,Ruffino,wine_01hfv37zx0n9vszs28c153ed8x
+TRUE,v.507.1996.b,RED,Cabreo Il Borgo,Ruffino,,BOTTLE,1996,160,,1,Purchase Price: 30,Il Ducale Toscana,Ruffino,wine_01hfv37zx0n9vszs28c153ed8x
+TRUE,v.507.1997.b,RED,Cabreo Il Borgo,Ruffino,,BOTTLE,1997,180,,1,Purchase Price: 30,Il Ducale Toscana,Ruffino,wine_01hfv37zx0n9vszs28c153ed8x
+TRUE,v.10000.2000.b,RED,Cabernet franc,Russiz Superiore,,BOTTLE,2000,55,,1,Purchase Price: 10,Cabernet Franc,Superior Estates,wine_01gzr4ksfwexgp2k36a037vt01
+TRUE,v.10000.2001.b,RED,Cabernet franc,Russiz Superiore,,BOTTLE,2001,55,,4,Purchase Price: 10,Cabernet Franc,Superior Estates,wine_01gzr4ksfwexgp2k36a037vt01
+TRUE,v.10000.2002.b,RED,Cabernet franc,Russiz Superiore,,BOTTLE,2002,50,,2,Purchase Price: 10,Cabernet Franc,Superior Estates,wine_01gzr4ksfwexgp2k36a037vt01
+TRUE,v.10000.2004.b,RED,Cabernet franc,Russiz Superiore,,BOTTLE,2004,45,,3,Purchase Price: 9,Cabernet Franc,Superior Estates,wine_01gzr4ksfwexgp2k36a037vt01
+TRUE,v.10000.2008.b,RED,Cabernet franc,Russiz Superiore,,BOTTLE,2008,50,,1,Purchase Price: 10,Cabernet Franc,Superior Estates,wine_01gzr4ksfwexgp2k36a037vt01
+TRUE,v.10000.2015.b,RED,Cabernet franc,Russiz Superiore,,BOTTLE,2015,45,,1,Purchase Price: 10,Cabernet Franc,Superior Estates,wine_01gzr4ksfwexgp2k36a037vt01
+TRUE,v.9939.1998.b,WHITE,Friulano,Russiz Superiore,,BOTTLE,1998,60,,1,Purchase Price: 10,Friulano,Villa Russiz,wine_01gzr4ksfwpq0r4rdzs5yma2j8
+TRUE,v.9939.2015.b,WHITE,Friulano,Russiz Superiore,,BOTTLE,2015,50,,2,Purchase Price: 9,Friulano,Villa Russiz,wine_01gzr4ksfwpq0r4rdzs5yma2j8
+TRUE,v.9939.2017.b,WHITE,Friulano,Russiz Superiore,,BOTTLE,2017,48,,1,Purchase Price: 8,Friulano,Villa Russiz,wine_01gzr4ksfwpq0r4rdzs5yma2j8
+TRUE,v.37330.1998.b,RED,Merlot,Russiz Superiore,,BOTTLE,1998,65,,1,Purchase Price: 10,Merlot,Villa Russiz,wine_01gzr4ksfwfhjssaqbjqgfd3j2
+TRUE,v.37330.2004.b,RED,Merlot,Russiz Superiore,,BOTTLE,2004,58,,1,Purchase Price: 10,Merlot,Villa Russiz,wine_01gzr4ksfwfhjssaqbjqgfd3j2
+TRUE,v.37330.2008.b,RED,Merlot,Russiz Superiore,,BOTTLE,2008,52,,3,Purchase Price: 10,Merlot,Villa Russiz,wine_01gzr4ksfwfhjssaqbjqgfd3j2
+TRUE,v.3591.1999.b,WHITE,Pinot bianco,Russiz Superiore,,BOTTLE,1999,50,,1,Purchase Price: 10,Pinot Bianco,Villa Russiz,wine_01gzr4ksfwbv9cezxjsqkr717w
+TRUE,v.3591.2006.b,WHITE,Pinot bianco,Russiz Superiore,,BOTTLE,2006,70,,1,Purchase Price: 10,Pinot Bianco,Villa Russiz,wine_01gzr4ksfwbv9cezxjsqkr717w
+TRUE,v.3592.2006.b,WHITE,Sauvignon,Russiz Superiore,,BOTTLE,2006,70,,2,Purchase Price: 16,Sauvignon,Villa Russiz,wine_01gzr4ksfwv2sdeexsnc1s2fkg
+TRUE,v.19185.2006.b,RED,Pinot noir Marlborough Premium,Saint Clair,,BOTTLE,2006,80,,2,Purchase Price: 20,Origin Pinot Noir,Saint Clair Family Estate,wine_01hfv3ntygnh5qyh2jjhw4t3je
+TRUE,v.177.1996.b,RED,Il Rosso dell'Abazia,Serafini & Vidotto,,BOTTLE,1996,100,,2,Purchase Price: 20,Oltre il Rosso,Serafini & Vidotto,wine_01gzr4ksjsepp393xqez5ks9km
+TRUE,v.177.1999.b,RED,Il Rosso dell'Abazia,Serafini & Vidotto,,BOTTLE,1999,100,,1,Purchase Price: 20,Oltre il Rosso,Serafini & Vidotto,wine_01gzr4ksjsepp393xqez5ks9km
+TRUE,v.177.2000.c,RED,Il Rosso dell'Abazia,Serafini & Vidotto,,MAGNUM,2000,200,,1,Purchase Price: 40,Oltre il Rosso,Serafini & Vidotto,wine_01gzr4ksjsepp393xqez5ks9km
+TRUE,v.177.2000.b,RED,Il Rosso dell'Abazia,Serafini & Vidotto,,BOTTLE,2000,95,,1,Purchase Price: 15,Oltre il Rosso,Serafini & Vidotto,wine_01gzr4ksjsepp393xqez5ks9km
+TRUE,v.177.2001.b,RED,Il Rosso dell'Abazia,Serafini & Vidotto,,BOTTLE,2001,90,,2,Purchase Price: 20,Oltre il Rosso,Serafini & Vidotto,wine_01gzr4ksjsepp393xqez5ks9km
+TRUE,v.177.2006.c,RED,Il Rosso dell'Abazia,Serafini & Vidotto,,MAGNUM,2006,180,,1,Purchase Price: 30,Oltre il Rosso,Serafini & Vidotto,wine_01gzr4ksjsepp393xqez5ks9km
+TRUE,v.15658.2016.b,RED,Chinon Le Chêne Vert,Sourdais - Le Logis de la Bouchardière,,BOTTLE,2016,45,,2,Purchase Price: 10,Le Chene Vert Chinon,Domaine de la Haute Olive,wine_01h0my5t2mftqcyg1y9v5x610j
+TRUE,v.30596.2004.b,WHITE,Anjou Les Nourrissons,Stéphane Bernaudeau,,BOTTLE,2004,180,,4,Purchase Price: 40,Les Nourrissons,Stéphane Bernaudeau,wine_01hfv41sh6r5ck6a5abnbn320t
+TRUE,v.52851.2006.b,WHITE,Les Nourrissons Vignes Centenaires,Stéphane Bernaudeau,,BOTTLE,2006,300,,4,Purchase Price: 30,Les Nourrissons,Stéphane Bernaudeau,wine_01hfv41sh6r5ck6a5abnbn320t
+TRUE,v.347.1997.b,RED,Chianti Classico Riserva Vigna del Sorbo,Tenuta Fontodi,,BOTTLE,1997,150,,2,Purchase Price: 20,Vigna del Sorbo Gran Selezione Chianti Classico,Fontodi,wine_01hfv46xjep6nfh54zemwmhwq6
+TRUE,v.42970.2013.b,RED,Barbera d'Asti Superiore Nizza Favà,Tenuta Garetto,,BOTTLE,2013,58,,4,Purchase Price: 11,Favà Nizza,Tenuta Garetto,wine_01gzr4kt75d8d4vyhnnb6fq1d4
+TRUE,v.1760.2014.b,RED,Brunello di Montalcino,Tenuta le Potazzine,,BOTTLE,2014,100,,6,Purchase Price: 25,Brunello di Montalcino Riserva,Le Potazzine,wine_01h0f3cmcr6qcm57fsqnxh2qwt
+TRUE,v.1760.2015.b,RED,Brunello di Montalcino,Tenuta le Potazzine,,BOTTLE,2015,110,,6,Purchase Price: 28,Brunello di Montalcino Riserva,Le Potazzine,wine_01h0f3cmcr6qcm57fsqnxh2qwt
+TRUE,v.1760.2016.b,RED,Brunello di Montalcino,Tenuta le Potazzine,,BOTTLE,2016,120,,6,Purchase Price: 28,Brunello di Montalcino Riserva,Le Potazzine,wine_01h0f3cmcr6qcm57fsqnxh2qwt
+TRUE,v.314.1994.b,RED,Masseto,Tenuta Masseto,,BOTTLE,1994,1000,,3,Purchase Price: 200,Massetino,Masseto,wine_01hfv4gwtds4hbaabqffvmwyyp
+TRUE,v.314.1996.b,RED,Masseto,Tenuta Masseto,,BOTTLE,1996,1400,,1,Purchase Price: 350,Massetino,Masseto,wine_01hfv4gwtds4hbaabqffvmwyyp
+TRUE,v.314.2001.b,RED,Masseto,Tenuta Masseto,,BOTTLE,2001,1400,,4,Purchase Price: 300,Massetino,Masseto,wine_01hfv4gwtds4hbaabqffvmwyyp
+TRUE,v.314.2002.b,RED,Masseto,Tenuta Masseto,,BOTTLE,2002,950,,3,Purchase Price: 200,Massetino,Masseto,wine_01hfv4gwtds4hbaabqffvmwyyp
+TRUE,v.314.2003.b,RED,Masseto,Tenuta Masseto,,BOTTLE,2003,900,,2,Purchase Price: 200,Massetino,Masseto,wine_01hfv4gwtds4hbaabqffvmwyyp
+TRUE,v.314.2004.b,RED,Masseto,Tenuta Masseto,,BOTTLE,2004,1250,,1,Purchase Price: 300,Massetino,Masseto,wine_01hfv4gwtds4hbaabqffvmwyyp
+TRUE,v.314.2006.b,RED,Masseto,Tenuta Masseto,,BOTTLE,2006,1400,,1,Purchase Price: 260,Massetino,Masseto,wine_01hfv4gwtds4hbaabqffvmwyyp
+TRUE,v.314.2007.b,RED,Masseto,Tenuta Masseto,,BOTTLE,2007,1300,,2,Purchase Price: 300,Massetino,Masseto,wine_01hfv4gwtds4hbaabqffvmwyyp
+TRUE,v.314.2009.b,RED,Masseto,Tenuta Masseto,,BOTTLE,2009,1200,,1,Purchase Price: 280,Massetino,Masseto,wine_01hfv4gwtds4hbaabqffvmwyyp
+TRUE,v.314.2012.b,RED,Masseto,Tenuta Masseto,,BOTTLE,2012,1200,,1,Purchase Price: 280,Massetino,Masseto,wine_01hfv4gwtds4hbaabqffvmwyyp
+TRUE,v.34512.2005.b,RED,Audace Passerillé Rouge,Tissot,,BOTTLE,2005,85,,1,Purchase Price: 24,Rouge Tradition Arbois,Jacques Tissot,wine_01hcwsyk23xb2feywcjm068mt6
+TRUE,v.17442.2001.b,WHITE,Côtes du Jura Chardonnay En Barberon,Tissot,,BOTTLE,2001,55,,1,Purchase Price: 16,Chardonnay Côtes du Jura,Jacques Tissot,wine_01hfv4ph8c5gt0m0f035yjeby2
+TRUE,v.82798.1994.b,RED,Friuli Colli Orientali Altromerlot,Torre Rosazza,,BOTTLE,1994,50,,1,Purchase Price: 8,Vigna Claudia Colli di Faenza Riserva,Torre,wine_01h0qzm19rmvh9zez22479ycm7
+TRUE,v.3002.1990.b,RED,Vieux Château Certan,Vieux Château Certan,,BOTTLE,1990,450,,1,Purchase Price: 120,La Gravette de Certan Pomerol,Vieux Château Certan,wine_01gzr4kt1r28ws5s713mwm5xqb
+TRUE,v.3002.1995.b,RED,Vieux Château Certan,Vieux Château Certan,,BOTTLE,1995,340,,1,Purchase Price: 100,La Gravette de Certan Pomerol,Vieux Château Certan,wine_01gzr4kt1r28ws5s713mwm5xqb
+TRUE,v.31460.2006.b,WHITE,Pietra del Gallo,Vigneti Massa,,BOTTLE,2006,50,,1,Purchase Price: 10,Costa del Vento Derthona,Vigneti Massa,wine_01gzr4ksq24vp8ckk450dj9gd6
+TRUE,v.61475.2000.b,RED,Cabernet Le Rive Rosse,Villa Dal Ferro Lazzarini,,BOTTLE,2000,80,,3,Purchase Price: 17,Rosso Cimarella,Villa Lazzarini,wine_01hfv4wxf2pnp3evjq3513zxgh
+TRUE,v.9814.2000.b,RED,Merlot Campo del Lago,Villa Dal Ferro Lazzarini,,BOTTLE,2000,50,,1,Purchase Price: 12,Campi Flegrei,Farro,wine_01hfv51d7bb461wagkxrpxxmxe
+TRUE,v.83171.2020.b,WHITE,Riesling Trocken ByTheGlass,Villa Huesgen,,BOTTLE,2020,45,,3,Purchase Price: 10,Schiefer Riesling Trocken,Villa Huesgen,wine_01h0sq48ayqtt5th5dqj61c4g1
+TRUE,v.4335.2000.b,RED,Ribera del Duero Matallana,Viñedos de Matallana,,BOTTLE,2000,120,,1,Purchase Price: 30,Ribera del Duero,Mayor de Castilla,wine_01h0my5scx533j460rp0z6e5k5
+TRUE,v.37044.2019.b,RED,Kaltersee Klassisch,Weinberghof di Christian Bellutti,,BOTTLE,2019,35,,3,Purchase Price: 7,Kalterersee Auslese Klassisch,Bellutti,wine_01hfv5j9c7n0ks5gpxt585p5bp
+TRUE,v.11512.2007.b,RED,Cabernet sauvignon,Yarden,,BOTTLE,2007,150,,2,Purchase Price: 40,Cabernet Sauvignon,Carden,wine_01gzr4kt0aghnpqeyqpa8qb32k
+TRUE,v.33617.2018.b,WHITE,Viognier,Yarden,,BOTTLE,2018,50,,2,Purchase Price: 15,...What Happens Now? Viognier,Garden Of Granite,wine_01gzr4kt0bwgdssevhs58r9cm4
+TRUE,v.18385.2010.b,SPARKLING,Trentodoc Riserva Pas dosé,Balter,,BOTTLE,2010,55,,1,Purchase Price: 10,Riserva Brut,Balter,wine_01hfv5v1xkqvqpm4962kkc234p
+TRUE,v.10206.0.b,SPARKLING,Franciacorta Extra brut,CorteBianca,,BOTTLE,,50,,3,Purchase Price: 10,,,wine_01h0qsxnmy5bdns984vcxcz0md
+TRUE,v.4376.2011.b,WHITE,Vitovska,Čotar,,BOTTLE,2011,42,,5,Purchase Price: 10,,,wine_01hcw4dfasygjnsdsn068qg6g2
+FALSE,v.82577.2022.b,WHITE,Sospiro,De Martin,,BOTTLE,2022,38,,9,Purchase Price: 9,,,
+TRUE,v.9591.0.b,,Kalkspitz,Christoph Hoch,,BOTTLE,,35,,4,Purchase Price: 9,,,wine_01hfvetce1bgr5y3qjygv4jn2d
+TRUE,v.37221.2018.a,,Welschriesling Beerenauslese,Stölzerhof,,HALF_BOTTLE,2018,60,,2,Purchase Price: 19,,,wine_01hcw4dfhkvm5j3q247zsp0k7x
+TRUE,v.81216.2017.b,,Lo Diverso,Zanon,,BOTTLE,2017,40,,1,Purchase Price: 7,,,wine_01hcw4dfmqw820644fp2pnmhh4
+TRUE,v.83759.2003.b,RED,Majus,Ajello,,BOTTLE,2003,42,,3,Purchase Price: 10,,,wine_01hcw4dfnb9wcasfh05hzwk9h4
+TRUE,v.6381.2014.b,RED,Burja Noir,Burja,,BOTTLE,2014,55,,1,Purchase Price: 15,,,wine_01hcw4dg3n830mg47qn1dgn5a9
+TRUE,v.39205.2006.b,RED,Montecucco Riserva Sangiovese,Campinuovi,,BOTTLE,2006,85,,2,Purchase Price: 22,,,wine_01gzr4ktfw5y60rgq6akr9gcv0
+TRUE,v.58156.2021.b,WHITE,Maar,Campolavico,,BOTTLE,2021,38,,8,Purchase Price: 8,,,wine_01hcw4dg4f9gpz5nxdygys3a9r
+TRUE,v.10583.2008.b,WHITE,Grecomusc',Contrade di Taurasi,,BOTTLE,2008,45,,3,Purchase Price: 9,,,wine_01h0qzm1xz7k5crbdr4tthwg8x
+TRUE,v.42607.1999.b,RED,Terra Rossa,Čotar,,BOTTLE,1999,75,,1,Purchase Price: 25,,,wine_01hcwsyk4fa4a9cn8tx5d3ydhc
+FALSE,v.40345.1999.b,WHITE,Collio Bianco,Damijan Podversič,,BOTTLE,1999,90,,4,Purchase Price: 20,,,
+FALSE,v.40346.1999.b,RED,Collio Rosso,Damijan Podversič,,BOTTLE,1999,70,,1,Purchase Price: 18,,,
+TRUE,v.14457.2007.b,WHITE,WeissWein,Dolomytos Sacker,,BOTTLE,2007,70,,1,Purchase Price: 17,,,wine_01h0my5rjsy280zdn8ek2ebhzp
+TRUE,v.14457.2014.b,WHITE,WeissWein,Dolomytos Sacker,,BOTTLE,2014,60,,3,Purchase Price: 13,,,wine_01h0my5rjsy280zdn8ek2ebhzp
+TRUE,v.14457.2016.b,WHITE,WeissWein,Dolomytos Sacker,,BOTTLE,2016,65,,1,Purchase Price: 15,,,wine_01h0my5rjsy280zdn8ek2ebhzp
+TRUE,v.259.1999.b,RED,Montiano,Falesco,,BOTTLE,1999,78,,1,Purchase Price: 18,,,wine_01hfvfevxvk0wq2g24pgwdpdwm
+TRUE,v.259.2000.c,RED,Montiano,Falesco,,MAGNUM,2000,140,,1,Purchase Price: 30,,,wine_01hfvfevxvk0wq2g24pgwdpdwm
+TRUE,v.259.2001.b,RED,Montiano,Falesco,,BOTTLE,2001,65,,1,Purchase Price: 15,,,wine_01hfvfevxvk0wq2g24pgwdpdwm
+TRUE,v.66923.2017.b,Rosato,Cerasuolo d'Abruzzo Le vigne di Faraone,Faraone,,BOTTLE,2017,40,,1,Purchase Price: 9,,,wine_01h0qzm0c26gr6mv1k3xc9vfwm
+TRUE,v.19592.2022.b,Rosato,Visione Rosato,Feudi di San Gregorio,,BOTTLE,2022,38,,15,Purchase Price: 8,,,wine_01gzr4ksp2gg2we1vy7fh3ybnn
+TRUE,v.83768.1999.b,Rosato,Ma Terre Rosé,Henri Milan,,BOTTLE,1999,55,,1,Purchase Price: 10,,,wine_01h0r2pq49z5rr8arhcg4qkeff
+TRUE,v.83768.2003.b,Rosato,Ma Terre Rosé,Henri Milan,,BOTTLE,2003,50,,1,Purchase Price: 10,,,wine_01h0r2pq49z5rr8arhcg4qkeff
+FALSE,v.82804.2010.b,WHITE,Malvazia,Kerin,,BOTTLE,2010,45,,2,Purchase Price: 7,,,
+FALSE,v.82803.2010.c,RED,Teran,Kerin,,MAGNUM,2010,90,,1,Purchase Price: 22,,,
+FALSE,v.82803.2010.b,RED,Teran,Kerin,,BOTTLE,2010,45,,5,Purchase Price: 7,,,
+TRUE,v.59285.2008.b,RED,Anàstasis,La Commanderia dell'Anastasis,,BOTTLE,2008,65,,2,Purchase Price: 18,,,wine_01hfvfqq4mjt0v3w7d1bfc0frn
+TRUE,v.7107.2000.b,Rosato,Five Roses,Leone De Castris 1665,,BOTTLE,2000,55,,1,Purchase Price: 12,,,wine_01gzr4kthbztgazq82w87x264e
+TRUE,v.7107.2005.b,Rosato,Five Roses,Leone De Castris 1665,,BOTTLE,2005,48,,3,Purchase Price: 10,,,wine_01gzr4kthbztgazq82w87x264e
+TRUE,v.83833.2014.b,Rosato,Cirò Rosato,Librandi,,BOTTLE,2014,40,,2,Purchase Price: 9,,,wine_01h0r2pp8wbpp2q4dkb66mpen8
+TRUE,v.525.2003.b,RED,Masari,Masari,,BOTTLE,2003,50,,3,Purchase Price: 10,,,wine_01hfvfx2vqed7gdpr855br5bmx
+FALSE,v.83132.2004.b,RED,Ciliegiolo,Maurizio Menichetti,,BOTTLE,2004,48,,1,Purchase Price: 10,,,
+FALSE,v.83131.1997.b,RED,Punto Interrogativo,Maurizio Menichetti,,BOTTLE,1997,50,,7,Purchase Price: 10,,,
+FALSE,v.83131.2004.b,RED,Punto Interrogativo,Maurizio Menichetti,,BOTTLE,2004,45,,1,Purchase Price: 10,,,
+TRUE,v.6098.1999.b,WHITE,Chardonnay Selekcija,Mlečnik,,BOTTLE,1999,70,,3,Purchase Price: 22,,,wine_01hfvg5symy8cqwxg3xn0rc6bh
+TRUE,v.6098.2000.b,WHITE,Chardonnay Selekcija,Mlečnik,,BOTTLE,2000,70,,1,Purchase Price: 20,,,wine_01hfvg5symy8cqwxg3xn0rc6bh
+TRUE,v.3833.2004.b,RED,Montevetrano,Montevetrano,,BOTTLE,2004,90,,3,Purchase Price: 24,,,wine_01gzr4kt108y6psf6bbg45hf66
+TRUE,v.50996.2000.b,WHITE,Stellenbosch Red,Morgenster,,BOTTLE,2000,90,,2,Purchase Price: 20,,,wine_01hfvgcms69mjgw1rntfybg5r9
+TRUE,v.313.1992.b,RED,Ornellaia,Ornellaia,,BOTTLE,1992,480,,1,Purchase Price: 100,,,wine_01hfvgk1q39g2jv68bzta79nbe
+TRUE,v.313.1994.b,RED,Ornellaia,Ornellaia,,BOTTLE,1994,480,,1,Purchase Price: 100,,,wine_01hfvgk1q39g2jv68bzta79nbe
+TRUE,v.83334.2004.b,WHITE,Trentino Riesling Clessidra,PelzPiffer,,BOTTLE,2004,45,,1,Purchase Price: 10,,,wine_01h0b4rjfanf41pcqsqjq2br9a
+TRUE,v.83475.2008.b,Rosato,Negroamaro Cavarletta,Petrelli,,BOTTLE,2008,45,,1,Purchase Price: 9,,,wine_01gzr4kthd2kqrww9f3mztqfjt
+TRUE,v.83475.2009.b,Rosato,Negroamaro Cavarletta,Petrelli,,BOTTLE,2009,45,,2,Purchase Price: 9,,,wine_01gzr4kthd2kqrww9f3mztqfjt
+TRUE,v.19273.2017.b,Rosato,Rosé d'Amour,Possa,,BOTTLE,2017,50,,1,Purchase Price: 10,,,wine_01h4pmmgygdwbffdx5k8ebff8t
+TRUE,v.19273.2020.b,Rosato,Rosé d'Amour,Possa,,BOTTLE,2020,45,,1,Purchase Price: 9,,,wine_01h4pmmgygdwbffdx5k8ebff8t
+FALSE,v.83550.2019.b,WHITE,Romagna Albana secco Sorriso di Lizzano,Serenissima,,BOTTLE,2019,50,,7,Purchase Price: 18,,,
+FALSE,v.12373.2015.b,RED,Sangiovese Superiore Sorriso di Lizzano,Serenissima,,BOTTLE,2015,50,,1,Purchase Price: 16,,,
+TRUE,v.33572.2009.b,Rosato,Bandol Rosé,Tempier,,BOTTLE,2009,60,,2,Purchase Price: 10,,,wine_01h0my5t6f434d562pyx76stqp
+TRUE,v.33572.2016.b,Rosato,Bandol Rosé,Tempier,,BOTTLE,2016,62,,2,Purchase Price: 18,,,wine_01h0my5t6f434d562pyx76stqp
+TRUE,v.61485.1997.b,RED,Casale dei Biscari,Torrevecchia,,BOTTLE,1997,45,,3,Purchase Price: 10,,,wine_01hfvgvsr41ryzc2ff01db6nsj
+TRUE,v.50985.2005.b,WHITE,T.F.,Valter Sirk,,BOTTLE,2005,45,,4,Purchase Price: 12,,,wine_01gzr4ksdnm0yyp5g2vtrcb26z
+TRUE,v.8052.2000.b,RED,Merlot Conte Brandolini d'Adda,Vistorta,,BOTTLE,2000,40,,1,Purchase Price: 7,,,wine_01gzr4kt3qmmnbfdha8bytk07b
+TRUE,,RED,Jaboulet vercherre charmes chambertin,,,BOTTLE,1982,0,,1,,Bourgogne Vercherre Splendid Cuvée,Domaine Jaboulet Vercherre,wine_01hcwsykdqanhxqjs6rxv76ez4,,
+TRUE,,WHITE,Jaboulet vercherre clos de vougeot,,,BOTTLE,1982,0,,1,,Cuvée Vercherre Blanc de Blancs,Domaine Jaboulet Vercherre,wine_01hawwcxhtkhjantcdv2cer0fs,,
+FALSE,,WHITE,Maison Valette Pouilly-Fuissé Réserve Le Clos Reyssié Vieilles Vignes,,,BOTTLE,2001,0,,3,,Le Clos Reyssié Pouilly-Fuissé,Domaine Valette,,,
+FALSE,,ROSE,La bouverie costieres de nimes,,,BOTTLE,1995,0,,1,,La Divine Rosé,Domaine de la Bouverie,,,
+TRUE,,WHITE,Jean durup chablis les clos grand cru,,,BOTTLE,1997,0,,2,,Valèrie Durup Chablis,Jean Durup,wine_01h4pmmgfdbfwdt1qp42d8e5jy,,
+TRUE,,WHITE,Fournier pere sancere,,,BOTTLE,1996,0,,2,,Grande Cuvée Fournier Vieilles Vignes Sancerre,Domaine Fournier Père et Fils,wine_01gzr4ksxdd0wfpwxrqvh7mxr4,,
+TRUE,,RED,Garnier anjou les dreuillees,,,BOTTLE,2002,0,,1,,Les Mirandes,Danjou-Banessy,wine_01hdh52kh210j3jw5dnjhm0t64,,
+TRUE,,RED,BiNaume claire Naudin Bourgogne Hautes Côtes de Beaune Bellis Perennis,,,BOTTLE,2014,0,,1,,Bourgogne Hautes-Côtes de Beaune,Cave des Hautes Côtes,wine_01h0qzm13892dcsfjcrh78cdze,,
+TRUE,,RED,Domaine des demoiselles les pierres blanches,,,BOTTLE,2014,0,,2,,Rouge des Demoiselles,Cellier des Demoiselles,wine_01hdh5era5rfav8vbnpfwd2wn7,,
+TRUE,,RED,Chateau la tour de by medoc,,,BOTTLE,1989,0,,1,,Château la Roque de By,Château La Tour de By,wine_01gzr4kt1j0chtd1bgdxyk6kss,,
+TRUE,,RED,Chateau la tour de by medoc,,,BOTTLE,1993,0,,1,,Château la Roque de By,Château La Tour de By,wine_01gzr4kt1j0chtd1bgdxyk6kss,,
+TRUE,,ROSE,Château Bonnet Château Bonnet Rouge lurton,,,BOTTLE,1997,0,,2,,Chat’au Bonnet Rosé,Château Bonnet,wine_01hcwsym1zg8720sx3hmfmbc7q,,
+FALSE,,WHITE,Poggio terralba rumore bianco,,,BOTTLE,2009,0,,5,,Clariné Bianco,Bianco Marco,,,
+TRUE,,DESSERT,Chateau de suronde quarts de chaume,,,BOTTLE,2002,0,,1,,Côteaux du Layon Premier Cru ''Chaume'',Château de Suronde,wine_01hdh6nhvtq2437bmvpffdv1fp,,
+TRUE,,DESSERT,Vidal collio estate ice wine,,,BOTTLE,2001,0,,1,,Vidal Blanc Ice Wine,Seven Mountains Wine Cellars,wine_01h0qsxndqkx7hd6kggtbxt7xg,,
+TRUE,,RED,Pajos harslevelu,,,BOTTLE,2018,0,,3,,A Pasos Crianza Ronda,Pasos Largos,wine_01hdh6yjn1esamrzkzakgf7cjz,,
+TRUE,,RED,Pajos harslevelu,,,BOTTLE,2021,0,,13,,A Pasos Crianza Ronda,Pasos Largos,wine_01hdh6yjn1esamrzkzakgf7cjz,,
+FALSE,,ROSE,Casa di legno verduzzo friulano passit:o,,,BOTTLE,2021,0,,7,,Verduzzo Friulano,Casa di Legno,,,
+FALSE,,RED,Villa bellini uva passa recioto della valpolicella,,,BOTTLE,1998,0,,3,,Amarone della Valpolicella Classico,Villa Bellini,,,
+TRUE,,WHITE,Dr. Loosen ice wine riesling,,,BOTTLE,2013,0,,2,,Riesling Villa Loosen,Dr. Loosen,wine_01hawwcx7rw6bbb49eq50jxp5c,,
+FALSE,,WHITE,Ronco dei pini verduzzo friulano,,,BOTTLE,2005,0,,6,,Friulano,Ronco dei Pini,,,
+FALSE,,RED,Wittman gewurtztraminer selection de grain noble,,,BOTTLE,2007,0,,1,,Gran Reserva Carignan,Noble,,,
+TRUE,,WHITE,Dolfo pinot grigio,,,BOTTLE,2017,0,,2,,Pinot Grigio,El Grigio,wine_01hcw4dfc0pg0tj1ah3b4z0q4c,,
+TRUE,,WHITE,Svetlik ribolla,,,BOTTLE,2010,0,,1,,Ribolla Gialla,Consorzio Ribolla Gialla Dell'Alto Livenza,wine_01harvcmkaa6wz8pp7sepqbk3z,,
+TRUE,,WHITE,Reinhold Haart Riesling Kabinett Goldtröpfchen,,,BOTTLE,2011,0,,3,,Haart to Heart Riesling,Weingut Reinhold Haart,wine_01h4pmmh5gjc6th2jbqqga0yr8,,
+FALSE,,SPARKLING,Carl adelseck karthauser,,,BOTTLE,2005,0,,2,,Adelsecco,Adelseck,,,
+TRUE,,WHITE,Müller-Catoir Riesling spatlese Gimmeldingen,,,BOTTLE,2004,0,,1,,Gimmeldingen Riesling Kabinett,Müller-Catoir,wine_01hdh7xawkk46v7byst63y3tvg,,
+TRUE,,SPARKLING,Stigler chenin blanc,,,BOTTLE,2015,0,,2,,Klassische Flaschengärung Blanc de Blanc Extra Brut,Stigler,wine_01hdh8269r3qj5bpf70s1r01kd,,
+TRUE,,WHITE,Stift Klosterneuburg gruner veltliner,,,BOTTLE,2016,0,,1,,Klosterneuburger Messwein Trocken,Stiftskellerei Klosterneuburg,wine_01havwefgv1nbsm9d3f2xmhpvt,,
+TRUE,,WHITE,Stift Klosterneuburg pinot bianco,,,BOTTLE,2016,0,,2,,Klosterneuburger Messwein Trocken,Stiftskellerei Klosterneuburg,wine_01hcwsykgnqzb4603sngfh3265,,
+TRUE,,WHITE,Stift klosterneuburg pinot nero riserva,,,BOTTLE,2015,0,,1,,Klosterneuburger Messwein Trocken,Stiftskellerei Klosterneuburg,wine_01hcwsykc593ev99ksj1x0g5w0,,
+TRUE,,RED,Beck pannobile,,,BOTTLE,1999,0,,1,,Bock Cuvée,Bock,wine_01hdh89cw8v2at2nbj2jxj9hpv,,
+FALSE,,WHITE,Donnhof Riesling Felsenberg,,,BOTTLE,2006,0,,1,,Binger Schwarzenberg Riesling Spätlese Trocken,Donhof,,,
+TRUE,,WHITE,Grüner Veltliner Federspiel Ried Pichl Point,,,BOTTLE,2007,0,,1,,Ried Hochrain Grüner Veltliner,Weingut Riedl,wine_01havwefgvgcbca2v2ypk6qqfx,,
+TRUE,,ROSE,Syfany rulandske modre pinot nero,,,BOTTLE,2013,0,,3,,Terroir Rulandské Modré Rosé,Château Modra,wine_01hdh8g5ggk6ekv3cj52m0jy8n,,
+TRUE,,RED,Cherry Ave vineyard tawse pinot nero,,,BOTTLE,2013,0,,1,,Cherry Tart Pinot Noir,Cherry Pie,wine_01hdh8rwdsrc4vf4p7y7k7azrf,,
+TRUE,,ROSE,Strekov corpus frankovka modra 1075,,,BOTTLE,2009,0,,1,,Terroir Rulandské Modré Rosé,Château Modra,wine_01hdh9k6ryn1n9jaa319vjfbvs,,
+TRUE,,RED,Alvaro Palacios Priorat Les Terrasses,,,BOTTLE,2000,0,,1,,Les Terrasses Private Selection Velles Vinyes Priorat,Álvaro Palacios,wine_01hdh9sxwzy8mcf5fv5pqs28k0,,
+TRUE,,WHITE,Abadia retuerta sardon de duero,,,BOTTLE,1997,0,,3,,LeDomaine Blanco de Guarda,Abadía Retuerta,wine_01gzr4kt6s59gfnbefr945rz2g,,
+TRUE,,WHITE,Prince makashvili cellar saperavi rkatsiteli,,,BOTTLE,2011,0,,2,,Rkatsiteli Grand Cru Akhoebi,Prince Makashvili Cellar,wine_01hcw4dfct7dfrt0hrbmk0qfyb,,
+TRUE,,WHITE,Dominik a. huber l’arbossar,,,BOTTLE,2004,0,,1,,Lady A,Domaine A,wine_01gzr4kte8xmer9bg6pjv7xe2g,,
+TRUE,,RED,Ronco del gnemiz bianco san zuan magnum,,,MAGNUM,2006,0,,1,,Rosso del Gnemiz,Ronco del Gnemiz,wine_01h0sq48y23z9gmb6bcteqppsx,,
+FALSE,,RED,Scea cave pere hermitage magnum,,,MAGNUM,2010,0,,1,,Cape Peak Shiraz,Cape Heritage,,,
+TRUE,,RED,Lepa vida rose,,,BOTTLE,2022,0,,17,,Leda Viñas Viejas,Leda,wine_01hdhad12zrb0rh44ph1krnjgr,,
+TRUE,,RED,Derenda sivi pinot,,,BOTTLE,2018,0,,18,,Pinot Noir,Pinot Vigilante,wine_01hdhan7a09mkk68q65pf9w2dj,,
+TRUE,,WHITE,Derenda teran,,,BOTTLE,2015,0,,6,,Graf von Meran Goldmuskateller,Kellerei Meran,wine_01hdharjshbxy772xyck8kbmae,,
+TRUE,,,Vingradifon vitovska,,,BOTTLE,2006,0,,1,,,,wine_01hcw4dfasr0pv4e6zn4ars6bx,,

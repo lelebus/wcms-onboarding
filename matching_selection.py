@@ -16,6 +16,10 @@ def clean_rows(dataframe):
     wines['vintage'] = wines['vintage'].fillna(0)
     wines['vintage'] = wines['vintage'].apply(lambda x: int(x))
 
+    # quantity to int or null
+    wines['quantity'] = wines['quantity'].fillna(0)
+    wines['quantity'] = wines['quantity'].apply(lambda x: int(x))
+
     # clean info
     wines = wines[['ok', 'matched_id', 'external_id', 'size', 'vintage',
                    'price', 'info', 'storage_area', 'quantity', 'internal_notes']]

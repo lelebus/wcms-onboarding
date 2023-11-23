@@ -1,0 +1,205 @@
+external_id,type,name,winery_name,storage_area,size,vintage,price,info,quantity,internal_notes,matched_name,matched_winery_name,matched_id,matched_original_id,score
+87675645678.0,WHITE,ANJOU EFFUSION,DOMAINE PATRICK BAUDOUIN,,,2021.0,55,,3.0,Purchase Price: 25.5,Effusion Anjou,Domaine Patrick Baudouin,wine_01gzr4ksv6vxdj40bkm2gr757v,1170915.0,53.551094
+87964368979.0,WHITE,ANJOU LE CORNILLARD,DOMAINE PATRICK BAUDOUIN,,,2020.0,90,,3.0,Purchase Price: 39.5,Le Cornillard Anjou,Domaine Patrick Baudouin,wine_01hfxnej6sxrdzn4zwk84kw12k,,57.664772
+76778687575764.0,WHITE,ARNEIS ROERO ARNEIS,GIACOMO FENOCCHIO,,,2022.0,28,,16.0,Purchase Price: 11.0,Roero Arneis,Giacomo Fenocchio,wine_01gzr4kshavpmebgy4jytzz579,1240927.0,57.417046
+,RED,BARBARESCO ASILI,AZ FALLETTO DI BRUNO GIACOSA,,,2015.0,200,,1.0,Purchase Price: 135.0,Falletto Barbaresco Asili,Bruno Giacosa,wine_01h0my5sc8vd986x3ce79gtejz,,50.58529
+8033254938449.0,RED,BARBARESCO ASILI,CERETTO,,,2018.0,190,,2.0,Purchase Price: 98.0,Barbaresco Asili,Ceretto,wine_01gzr4kt6enqzcxbj3s8h0xebm,,46.458588
+,RED,BARBARESCO BARBARESCO,FRANCESCO RINALDI E FIGLI,,,2019.0,65,,3.0,Purchase Price: 26.15,Barbaresco,Francesco Rinaldi & Figli,wine_01gzr4kt3bpmpa3tdjc874h6fz,,58.604416
+98767546.0,RED,BARBARESCO BARBARESCO,FRANCESCO RINALDI E FIGLI,,,2019.0,70,,3.0,Purchase Price: 26.15,Barbaresco,Francesco Rinaldi & Figli,wine_01gzr4kt3bpmpa3tdjc874h6fz,,58.604416
+,RED,BARBARESCO BARBARESCO,GAJA,,,2019.0,250,,2.0,Purchase Price: 0.0,Barbaresco,Gaja,wine_01gzr4ksd3m8y62ggabzd1kdmg,66104.0,40.829628
+,RED,BARBARESCO BARBARESCO,LUIGI ODDERO,,,2020.0,55,,6.0,Purchase Price: 22.5,Barbaresco,Luigi Oddero,wine_01h0my5scee8xhmrwne6tzt3wr,,51.1756
+8025022000014.0,RED,BARBARESCO BARBARESCO,PRODUTTORI BARBARESCO,,,2019.0,55,,2.0,Purchase Price: 20.0,Barbaresco,Produttori del Barbaresco,wine_01gzr4ksd2q77fb88zxfbzs90f,19265.0,50.447025
+,RED,BARBARESCO BASARIN,ANGELO NEGRO,,,2019.0,75,,6.0,Purchase Price: 30.0,Barbaresco Basarin,Negro Angelo,wine_01gzr4kts27p4kajygc89h1rdr,,53.42534
+8033254938463.0,RED,BARBARESCO GALLINA,CERETTO,,,2018.0,125,,1.0,Purchase Price: 58.0,Gallina Barbaresco,Ceretto,wine_01gzr4kt6erktcrbpfre4gvckk,,43.163574
+8033254939729.0,RED,BARBARESCO GALLINA,CERETTO,,,2019.0,140,,6.0,Purchase Price: 63.0,Gallina Barbaresco,Ceretto,wine_01gzr4kt6erktcrbpfre4gvckk,,43.163574
+89798686668.0,RED,BARBARESCO RONGALIO,AZ AGR ORLANDO ABRIGO,,,2012.0,80,,2.0,Purchase Price: 28.0,Rongalio Barbaresco,Orlando Abrigo,wine_01gzr4kt6f2mskhn6m8j5ak12m,,59.401947
+,RED,BARBARESCO SERRABOELLA,F.LLI CIGLIUTI,,,2018.0,85,,1.0,Purchase Price: 39.0,Serraboella Barbaresco,Cigliuti,wine_01h0my5sc9j46dpzyz50v153mv,,49.5612
+876545567.0,RED,BARBARESCO TTETTINEIVE,SCARPA,,,2018.0,70,,5.0,Purchase Price: 30.0,Tettineive Barbaresco,Scarpa,wine_01h0my5sc9esmqz0vncjj9qv3g,,45.854855
+,RED,BARBERA BARBERA,BRUNO GIACOSA,,,2020.0,45,,2.0,Purchase Price: 20.0,Barbera d’Alba,Bruno Giacosa,wine_01h0my5sd413jaef1wska2pker,,43.9661
+98078786756.0,RED,BARBERA BARBERA D'ALBA,ROAGNA,,,2018.0,95,,3.0,Purchase Price: 36.5,Barbera d’Alba,Roagna,wine_01h0my5sdbzr5ygk4fjsyqbwx2,,40.986477
+8000160602405.0,RED,BARBERA BARBERA D'ASTI SUP,CÀ BIANCA,,,2014.0,35,,2.0,Purchase Price: 14.0,Barbera,Villa Bianca,wine_01hfxnej76rqdqkjztx35wrts4,,30.43366
+878777897987.0,RED,BARBERA VIGNA FRANCIA,GIACOMO CONTERNO,,,2018.0,180,,1.0,Purchase Price: 50.0,Barbera d''Alba Vigna Francia,Giacomo Conterno,wine_01gzr4ksd7nkzvrd352xa1jetm,82201.0,49.20621
+79867576889.0,RED,BARBERA VIGNA FRANCIA,GIACOMO CONTERNO,,,2019.0,180,,2.0,Purchase Price: 55.0,Barbera d''Alba Vigna Francia,Giacomo Conterno,wine_01gzr4ksd7nkzvrd352xa1jetm,82201.0,49.20621
+8032535710101.0,RED,BAROLO AEROPLANSERVAJ,DOMENICO CLERICO,,,2019.0,180,,6.0,Purchase Price: 72.0,Barolo,Domenico Clerico,wine_01gzr4kt7m7j3frgd2dzkt7crh,,45.885548
+,RED,BAROLO BADARINA,BRUNA GRIMALDI,,,2019.0,70,,18.0,Purchase Price: 26.0,Badarina Barolo,Bruna Grimaldi,wine_01h0my5sf1cy39hqm8vw3m5kt5,,52.36115
+77659786767.0,RED,BAROLO BAROLO,ANGELO NEGRO,,,2018.0,75,,6.0,Purchase Price: 30.0,Barolo,Negro Angelo,wine_01h0my5sy3y1kqf6tebnn50gnt,,49.06997
+8030077005228.0,RED,BAROLO BAROLO,MASSOLINO,,,2018.0,60,,1.0,Purchase Price: 22.0,Barolo,Massolino,wine_01gzr4ksg1y065j77e42zysr9d,79970.0,41.774883
+7777896875.0,RED,BAROLO BAROLO,ROCCHE DEI MANZONI,,,2016.0,65,,1.0,Purchase Price: 25.0,Barolo (Rocche),Rocche dei Manzoni,wine_01h0my5sexmwsha8fgg7n6159b,,46.12155
+,RED,BAROLO BRICCO AMBROGIO,PAOLO SCAVINO,,,2017.0,120,,1.0,Purchase Price: 58.0,Bricco Ambrogio Barolo,Paolo Scavino,wine_01gzr4kt6585jkxenvk2ks05ce,,54.730446
+9807896586.0,RED,BAROLO BRICCO AMBROGIO,PAOLO SCAVINO,,,2017.0,120,,1.0,Purchase Price: 0.0,Bricco Ambrogio Barolo,Paolo Scavino,wine_01gzr4kt6585jkxenvk2ks05ce,,54.730446
+,RED,BAROLO BRUNATE,FRANCESCO RINALDI E FIGLI,,,2018.0,85,,4.0,Purchase Price: 39.0,Barolo Le Brunate,Francesco Rinaldi & Figli,wine_01gzr4kt39y32kermecattmc7a,,56.942074
+8033254937716.0,RED,BAROLO BUSSIA,CERETTO,,,2016.0,420,,1.0,Purchase Price: 230.0,Bussia Barolo,Ceretto,wine_01gzr4kt6eya318dp2ab2ndw5q,,42.885433
+,RED,BAROLO CAMILLA,BRUNA GRIMALDI,,,2019.0,50,,18.0,Purchase Price: 18.5,Camilla Barolo,Bruna Grimaldi,wine_01h0my5seykbyz5xvw6s942c0k,,49.90817
+,RED,BAROLO CANNUBI,CHIARA BOSCHIS,,,2000.0,160,,1.0,Purchase Price: 0.0,Barolo Cannubi,Boschis,wine_01h0qzm060da4m3xahm30twyh0,,41.374077
+,RED,BAROLO CANNUBI,FRANCESCO RINALDI E FIGLI,,,2017.0,90,,2.0,Purchase Price: 38.0,Barolo Cannubi,Francesco Rinaldi & Figli,wine_01gzr4kt39039e1h199z2f6bn2,,58.747234
+98096785546.0,RED,BAROLO CAPALOT,CRISSANTE,,,2017.0,80,,5.0,Purchase Price: 28.0,Capalot Barolo,Crissante Alessandria,wine_01h0r2pqchkezj10fhw7c0fkah,,41.719147
+90876535657.0,RED,BAROLO CERRETTA,ETTORE GERMANO,,,2015.0,90,,5.0,Purchase Price: 31.0,Barolo Cerretta,Ettore Germano,wine_01gzr4ksqcvtff7mhbnkee2g61,1712697.0,56.49168
+96764352365.0,RED,BAROLO COMUNE DI MONFORTE,DIEGO CONTERNO,,,2017.0,80,,3.0,Purchase Price: 35.0,Barolo Del Comune di Monforte d''Alba,Diego Conterno,wine_01gzr4kt6xmd29qhj86g7x6v3z,,53.056213
+,RED,BAROLO GALINA,CRISSANTE,,,2016.0,70,,1.0,Purchase Price: 30.0,Galina Barolo,Crissante Alessandria,wine_01h0my5sf7s2dv1ae1sjhga2w4,,40.205612
+98078956.0,RED,BAROLO MARENCA,PIRA,,,2018.0,80,,1.0,Purchase Price: 28.0,Barolo Marenca,Pira Luigi,wine_01gzr4kt5y5c23qkejxskmv61f,,32.43483
+564739392302.0,RED,BAROLO MONFORTINO,GIACOMO CONTERNO,,,2014.0,2800,,1.0,Purchase Price: 700.0,Barolo Riserva Monfortino,Giacomo Conterno,wine_01gzr4ksd80dyvp82qzdjyy0rb,82199.0,52.600784
+,RED,BAROLO MONFORTINO,GIACOMO CONTERNO,,,2015.0,3000,,1.0,Purchase Price: 800.0,Barolo Riserva Monfortino,Giacomo Conterno,wine_01gzr4ksd80dyvp82qzdjyy0rb,82199.0,52.600784
+90878965.0,RED,BAROLO MONVIGLIERO RISERVA,CASTELLO DI VERDUNO,,,2013.0,135,,1.0,Purchase Price: 50.0,Barolo Monvigliero Riserva,Castello di Verduno,wine_01gzr4kss6wejyrptyk92y30kv,1221165.0,51.311462
+,RED,BAROLO PERCRISTINA,DOMENICO CLERICO,,,2011.0,220,,2.0,Purchase Price: 110.0,Barolo Percristina,Domenico Clerico,wine_01gzr4kt7majp35swkq918rjeb,,60.4926
+8033254937688.0,RED,BAROLO PRAPÒ,CERETTO,,,2016.0,420,,1.0,Purchase Price: 230.0,Barolo Prapò,Ceretto,wine_01gzr4kt6ehmbxr0sw4wbs86bm,,46.37921
+,RED,BAROLO SERRALUNGA,PIRA,,,2019.0,65,,6.0,Purchase Price: 22.0,Barolo Serralunga,Pira Luigi,wine_01gzr4kt5ya90k7beem23yfk2p,,34.974117
+3582100840.0,RED,BAROLO TEBAVIO,TENUTA ILLUMINATA,,,2007.0,70,,2.0,Purchase Price: 23.0,Tebavio Barolo,Tenuta L'Illuminata,wine_01h0my5sf3fp0c6rvvbbpanvez,,31.47053
+,RED,BAROLO TEBAVIO,TENUTA ILLUMINATA,,,2009.0,75,,1.0,Purchase Price: 24.0,Tebavio Barolo,Tenuta L'Illuminata,wine_01h0my5sf3fp0c6rvvbbpanvez,,31.47053
+,RED,BAROLO TEBAVIO,TENUTA ILLUMINATA,,,2014.0,70,,1.0,Purchase Price: 23.0,Tebavio Barolo,Tenuta L'Illuminata,wine_01h0my5sf3fp0c6rvvbbpanvez,,31.47053
+8978965.0,RED,BAROLO TRETURNE,FOGLIATI,,,2017.0,65,,1.0,Purchase Price: 24.0,Treturne Barolo,Fogliati,wine_01hfxnej7v2gy7a1nfwbny6adb,,50.035763
+98541234.0,RED,BAROLO VIGNA CAPPELLA S.STEFANO,ROCCHE DEI MANZONI,,,2009.0,120,,1.0,Purchase Price: 47.0,Vigna Cappella di S. Stefano Barolo Reserva,Rocche dei Manzoni,wine_01h0qsxnz6yarte5nwad64yxw2,,51.919216
+879678567543.0,WHITE,BIANCO BIANCO,BORGO DEL TIGLIO,,,2021.0,38,,4.0,Purchase Price: 12.9,Milleponche Bianco,Borgo del Tiglio,wine_01h0my5svsmnep6b0zvze9a23n,,41.011646
+,WHITE,BIANCO CAPO MARTINO,JERMAN,,,2021.0,75,,11.0,Purchase Price: 35.0,Capo Martino,Jermann,wine_01h0qzm233azrxfk7r0qgzgvjd,,39.37326
+4260085770441.0,WHITE,BIANCO CAPRICE,HOFFLIN,,,2021.0,28,,6.0,Purchase Price: 10.9,Caprice Weissweincuvée,Höfflin,wine_01gzr4ktgn8xc4cgeybf2paq7q,,31.772863
+,WHITE,BIANCO LALLA,AZ AGR VIGNA SAN GIORGIO,,,2022.0,28,,3.0,Purchase Price: 9.8,MIto 10 Il Bianco,Az. Agr. Lagaria,wine_01h0my5sgj6j2ze1az9mjrcjyf,,28.134132
+,WHITE,BIANCO MARENEVE,FEDERICO GRAZIANI,,,2021.0,0,,12.0,Purchase Price: 0.0,Mareneve,Federico Graziani,wine_01h0my5s9r4tar23j10s0vrw2p,,57.21488
+309786756453.0,WHITE,BIANCO MILLEUVE,BORGO DEL TIGLIO,,,2021.0,25,,60.0,Purchase Price: 8.0,Milleuve Venezia Giulia Bianco,Borgo del Tiglio,wine_01h0my5svs5q6ahr17efwejjha,,46.787327
+7896753424.0,WHITE,BIANCO SAN GIORGIO,AZ AGR VIGNA SAN GIORGIO,,,2020.0,50,,6.0,Purchase Price: 20.5,MIto 10 Il Bianco,Az. Agr. Lagaria,wine_01h0my5sgj6j2ze1az9mjrcjyf,,28.134132
+8030421004730.0,WHITE,BIANCO TERRE ALTE,LIVIO FELLUGA,,,2018.0,85,,2.0,Purchase Price: 35.0,Terre Alte,Livio Felluga,wine_01gzr4kskvxsct8qy4tzyt5p7v,15091.0,50.304077
+666677788.0,WHITE,BIANCO VIGNAI DELL ABBATE,VIGNAI DELL ABBATE,,,2005.0,55,,2.0,Purchase Price: 15.0,Bianco,Roberto Abbate,wine_01h0qsxn4k4pj7srdev0at3w3n,,24.37124
+24356768.0,WHITE,BIANCO VINTAGE TUNINA,JERMAN,,,2005.0,100,,1.0,Purchase Price: 25.0,Vintage Tunina,Jermann,wine_01h0qzm2337vfbvx938w74edx3,,40.352753
+8033324032374.0,WHITE,BIANCO VINTAGE TUNINA,JERMAN,,,2012.0,150,,1.0,Purchase Price: 55.0,Vintage Tunina,Jermann,wine_01h0qzm2337vfbvx938w74edx3,,40.352753
+8033324031377.0,WHITE,BIANCO VINTAGE TUNINA,JERMAN,,,2021.0,170,,1.0,Purchase Price: 85.0,Vintage Tunina,Jermann,wine_01h0qzm2337vfbvx938w74edx3,,40.352753
+8033324031421.0,WHITE,BIANCO WHERE DREAMS,JERMAN,,,2021.0,70,,6.0,Purchase Price: 33.0,Where Dreams have no end (W... Dreams...),Jermann,wine_01h0qzm233zwqe7p05923rhgpz,,39.05955
+8025493523173.0,RED,CABERNET FRANC CABERNET FRANC,RUSSIZ SUPERIORE,,,2021.0,33,,16.0,Purchase Price: 12.0,Cabernet Franc,Russiz Superiore,wine_01gzr4ksfwexgp2k36a037vt01,,60.35514
+87654657687965.0,SPARKLING,CHAMPAGNE BLANC DE BLANCS,MAURICE GRUMIER,,,,90,,6.0,Purchase Price: 37.0,Blanc de Blancs Champagne,Maurice Grumier,wine_01h4pmmgp8cy4bwc33je0vdf5w,,54.431988
+5678976228.0,SPARKLING,CHAMPAGNE BLANC DE BLANCS EB GRAN CRU,VAUVERSIN,,,,70,,12.0,Purchase Price: 32.0,Blanc de Blancs Brut Original Champagne Grand Cru ''Oger'',Vauversin,wine_01h4pmmghz5sfqjd8tty846nx3,,44.476505
+3760105450236.0,SPARKLING,CHAMPAGNE BLANC DE BLANCS GRAN CRU,LEGRAS & HAAS,,,,85,,1.0,Purchase Price: 39.0,Blanc de Blancs Brut Champagne Grand Cru ''Chouilly'',Legras & Haas,wine_01h0qsxn611wqtr00ysd7z8gv5,,49.733593
+1234567802022.0,SPARKLING,CHAMPAGNE BLANC DE BLANCS NATURE,LAHERTE FRERES,,,,95,,2.0,Purchase Price: 42.0,Blanc de Blancs Brut Nature Champagne,Laherte Freres,wine_01h0f3cmbrcanhpm4prr1pphzn,,53.606606
+3446281300038.0,SPARKLING,CHAMPAGNE BLANCS DE BLANC,PALMER & C,,,,80,,1.0,Purchase Price: 35.5,Blanc de Blancs Champagne,Palmer & Co.,wine_01gzr4ktsd8hgn0ttp91tvyxgm,,34.876633
+3418760000654.0,SPARKLING,CHAMPAGNE BRUT,DELAMOTTE,,,,75,,2.0,Purchase Price: 35.0,Sélectionné Pour Hiramatsu Brut Champagne,Delamotte,wine_01gzr4ks6dx1xqjerzkcn7s36y,7547671.0,34.74823
+3353210019711.0,SPARKLING,CHAMPAGNE BRUT EXCELLENCE,GOSSET,,,,75,,3.0,Purchase Price: 27.0,Brut Excellence Aÿ Champagne,Gosset,wine_01h0f3cmbndht09me9m3d2qesy,,39.292534
+8767564563454.0,SPARKLING,CHAMPAGNE BRUT NAURE ZERO,TARLANT,,,,85,,1.0,Purchase Price: 39.0,Zero Brut Nature Champagne,Tarlant,wine_01gzr4ksn6ecbq7whxpq5see53,1177703.0,40.972652
+3114080404355.0,SPARKLING,CHAMPAGNE COLLECTIO 243,LOUIS ROEDERER,,,,90,,6.0,Purchase Price: 45.0,Collection 243 Champagne,Louis Roederer,wine_01gzr4ks5tefbv8mz37yrb2ndk,10283576.0,50.81253
+97656777.0,SPARKLING,CHAMPAGNE CONTRÈE NOIR EB,BROCARD PIERRE,,,2015.0,90,,1.0,Purchase Price: 45.0,Contrée Noire Extra Brut Champagne,Brocard Pierre,wine_01h4pmmfcy26b1d3jk8a67pzvm,,40.028107
+3114080701454.0,SPARKLING,CHAMPAGNE CRISTAL,VEUVE CLICQUOT,,,2014.0,350,,2.0,Purchase Price: 145.0,Rich Champagne,Veuve Clicquot,wine_01gzr4ks5v5z8crgkpzj6m4nwm,5610986.0,39.416782
+897867564534.0,SPARKLING,CHAMPAGNE CUVÈE 746 EB,JAQUESSON,,,,120,,3.0,Purchase Price: 50.0,Cuvée No 746 Extra Brut Champagne,Jacquesson,wine_01h4pmmfdg7tddsmbdd3hscyf4,,35.638344
+8787783983879.0,SPARKLING,CHAMPAGNE GRAN CRU V.P.,EAGLY-OURIET,,,2014.0,190,,2.0,Purchase Price: 90.0,V.P Champagne Grand Cru ''Ambonnay'',Egly-Ouriet,wine_01h4pmmgjjrjegjn1ydd4f7a07,,54.350685
+87654758978.0,SPARKLING,CHAMPAGNE GRAND CRU,EAGLY-OURIET,,,2017.0,160,,4.0,Purchase Price: 68.0,Champagne Extra Brut Grand Cru,Egly-Ouriet,wine_01h4pmmff782ryqv710jecfqq4,,48.14828
+8978965.0,SPARKLING,CHAMPAGNE GRAND CRU,FRANCOIS SECONDE,,,,75,,6.0,Purchase Price: 27.95,Brut Champagne Grand Cru ''Sillery'',François Secondé,wine_01h4pmmgjm3mteh0qq7cmvs93a,,40.185066
+,SPARKLING,CHAMPAGNE GRAND CRU BRUT,FRANCOIS SECONDE,,,,160,,3.0,Purchase Price: 75.0,Brut Champagne Grand Cru ''Sillery'',François Secondé,wine_01h4pmmgjm3mteh0qq7cmvs93a,,42.657227
+,SPARKLING,CHAMPAGNE GRAND MILLESIME BRUT,PAUL BARA,,,2016.0,90,,1.0,Purchase Price: 36.5,Millesimé Brut Champagne Grand Cru ''Bouzy'',Paul Bara,wine_01h0my5shc0hay6g40y0tx5wt7,,46.11853
+3353211012216.0,SPARKLING,CHAMPAGNE GRANDE RESERVE BRUT,GOSSET,,,,80,,3.0,Purchase Price: 35.0,Grande Réserve Brut Champagne,Gosset,wine_01h0f3cmbm75yr9fd6x5zw9k1k,,39.2248
+3049614176814.0,SPARKLING,CHAMPAGNE LA GRAND DAME,VEUVE CLICQUOT,,,2018.0,250,,1.0,Purchase Price: 120.0,La Grande Dame Brut Champagne,Veuve Clicquot,wine_01gzr4ks5tt4506w79jjj5t50v,79836.0,49.858006
+347275267252626.0,SPARKLING,CHAMPAGNE LATITUDINE,LARMANDIER-BERNIER,,,,100,,3.0,Purchase Price: 45.0,Latitude Extra Brut Champagne,Larmandier-Bernier,wine_01gzr4ktqd01dh5ccgq479h0k5,,53.49641
+8978654567.0,SPARKLING,CHAMPAGNE LES PARCELLES GRAND CRU EB,PIERRE PAILLARD,,,,90,,3.0,Purchase Price: 40.0,Bouzy Grand Cru Les Parcelles Extra Brut,Pierre Paillard,wine_01gzr4ksvcrt1yyxcknkzrsdpd,5260267.0,39.828384
+778633638378.0,SPARKLING,CHAMPAGNE LES TERRES FINE B\B PREMIER CRU EB,DHONT-GRELLET,,,,130,,2.0,Purchase Price: 62.0,Les Terres Fines Blanc de Blancs Extra Brut Champagne Premier Cru,Dhondt-Grellet,wine_01h0sq47yf1taam9jcrwccy5cy,,52.95129
+478794879489.0,SPARKLING,CHAMPAGNE LES VIGNES DE VRIGNY,EAGLY-OURIET,,,2018.0,100,,1.0,Purchase Price: 56.0,Les Vignes de Vrigny Brut Champagne Premier Cru,Egly-Ouriet,wine_01h0f3cmbqng4amtz0kpnz4zte,,52.1982
+980789656.0,SPARKLING,CHAMPAGNE LONGITUTUDE 1CRU B\B,LARMANDIER-BERNIER,,,,100,,6.0,Purchase Price: 54.0,Longitude Blanc de Blancs Champagne Premier Cru,Larmandier-Bernier,wine_01gzr4ktqd689j5znds22mzw1x,,53.08545
+98765456.0,SPARKLING,CHAMPAGNE PREMIER CRU BRUT,AUBRY,,,,70,,1.0,Purchase Price: 25.0,Brut Champagne Premier Cru,Aubry,wine_01h0f3cmbpjnvgep4sy88f0ner,,40.535324
+3260923020128.0,SPARKLING,CHAMPAGNE SIR WINSTON CHURCHILL,POL ROGER,,,2012.0,300,,1.0,Purchase Price: 140.0,Sir Winston Churchill Brut Champagne,Pol Roger,wine_01gzr4kscbzga5159ds831sygw,1692390.0,57.19512
+3052853075909.0,SPARKLING,CHAMPAGNE SPECIAL CUVÈE,BOLLINGER,,,,90,,3.0,Purchase Price: 42.0,Special Cuvée Brut Aÿ Champagne,Bollinger,wine_01gzr4ks77wsdabt6vnn27vs4y,18929.0,37.069775
+2545224467.0,SPARKLING,CHAMPAGNE VINTAGE 13 EB,BILLECART-SALMON,,,2013.0,120,,1.0,Purchase Price: 60.0,Vintage Champagne,Billecart-Salmon,wine_01gzr4ks644bckwegyxjermh07,1319243.0,51.378998
+3114080501559.0,SPARKLING,CHAMPAGNE VINTAGE 15,LOUIS ROEDERER,,,2015.0,120,,6.0,Purchase Price: 65.0,Brut Champagne (Vintage),Louis Roederer,wine_01gzr4ks5t7p7ng1aajb3qfwpn,5810903.0,43.136795
+,WHITE,CHARDONNAY AUXEY-DURESSES 1CRU,DOMAINE ROY,,,2019.0,95,,2.0,Purchase Price: 0.0,Auxey-Duresses 1er Cru ''Le Val'' Blanc,Roy,wine_01hcwsykdpjhr05fs42h5540ed,,31.885046
+754345365742.0,WHITE,CHARDONNAY BOURGOGNE,DUBREUIL-FONTAINE,,,2019.0,55,,2.0,Purchase Price: 18.0,Bourgogne Chardonnay,Domaine Dubreuil-Fontaine,wine_01h0qzm1d0bjejg1b7jk75yqja,,38.887157
+98646788.0,WHITE,"CHARDONNAY CHASSAGNE-MONTRACET 1CRU ""MORGEOT""",JEAN-CLAUDE RAMONET,,,2020.0,400,,1.0,Purchase Price: 0.0,Chassagne-Montrachet Premier Cru ''Morgeot'' Blanc,Jean-Claude Ramonet,wine_01h0qsxn6868qwsbranrebacr0,,49.110115
+9.0879756756789e+17,WHITE,CHARDONNAY CHASSAGNE-MONTRACET 1CRU LES CHENOVETTES,PHILIPPE COLIN,,,2021.0,140,,1.0,Purchase Price: 0.0,Chassagne-Montrachet Premier Cru ''Les Chenevottes'',Philippe Colin,wine_01gzr4ktjwp1p9p66nga38wn7x,,43.950264
+87675645.0,WHITE,CHARDONNAY HAUTES-COTES DE NUITS,GUY & YVAN DUFOULEUR,,,2019.0,50,,3.0,Purchase Price: 20.0,Bourgogne Hautes Cotes de Nuits Blanc,Guy & Yvan Dufouleur,wine_01h4pmmgww35thmf7a3w68b60x,,53.862637
+798695864756.0,WHITE,"CHARDONNAY MERSAULT ""LES GRANDS CHARRONS""",MICHEAL BOUZEREAU,,,2021.0,125,,1.0,Purchase Price: 0.0,Meursault ''Les Grands Charrons'',Michel Bouzereau,wine_01harvckxxh7e4egjzfbhg59sq,,48.372818
+97895546.0,WHITE,"CHARDONNAY MERSAULT 1CRU ""BLAGNY""",FAIVELEY,,,2020.0,160,,1.0,Purchase Price: 75.0,Meursault 1er Cru ''Blagny'' Blanc,Domaine Faiveley,wine_01gzr4ktjsysn1w9rce8fyvr4r,,28.395945
+,WHITE,CHARDONNAY PULIGNY-MONTRACET,ETIENNE SAUZET,,,2020.0,130,,1.0,Purchase Price: 0.0,Puligny-Montrachet,Etienne Sauzet,wine_01h0my5rnc7086dzxdm6vtjr80,,51.212746
+767465454323.0,WHITE,"CHARDONNAY PULIGNY-MONTRACET 1CRU ""LA GARENNE""",FAIVELEY,,,2019.0,180,,1.0,Purchase Price: 95.0,Puligny-Montrachet 1er Cru La Garenne,Domaine Faiveley,wine_01gzr4ktjsv373tpe7f59kr6y3,,37.3826
+,WHITE,CHARDONNAY PULIGNY-MONTRACET 1CRU LES FOLATIERES,BACHELET-MONNOT,,,2021.0,280,,1.0,Purchase Price: 0.0,Puligny-Montrachet 1er Cru ''Les Folatières'',Bachelet-Monnot,wine_01hfxnejhcqj49yrcec1rae9pp,,55.045097
+8032625754480.0,WHITE,CHARDONNAY VIE DI ROMANS,VIE DI ROMANS,,,2021.0,45,,6.0,Purchase Price: 18.8,Chardonnay,Vie di Romans,wine_01gzr4ksk5r72dexa5watpkkvw,1084872.0,36.356144
+8053676061174.0,WHITE,DOLCE ESSENZIA,POJER E SANDRI,,,2019.0,40,,6.0,Purchase Price: 16.2,Essenzia Dolomiti,Pojer e Sandri,wine_01gzr4ksehqz4qz7ra0dqmk7f6,1224598.0,45.667435
+879654.0,WHITE,FRIULANO BIANCO DI MITJIA,AZ AGR MITJIA SIRK,,,2022.0,28,,6.0,Purchase Price: 10.25,Bianco,Mitja Sirk,wine_01havwee49w0q7qcfsaamnq7nm,,48.3982
+,WHITE,FRIULANO CÀ SAVORGNAN,AZ AGR MITJIA SIRK,,,2021.0,50,,6.0,Purchase Price: 21.62,Ca`Savorgnan,Mitja Sirk,wine_01hfxnejhrpdtfgmraaswzp5mq,,57.876972
+897896546.0,WHITE,FRIULANO FRIULANO,I CLIVI,,,2022.0,28,,36.0,Purchase Price: 10.0,San Pietro Friulano,I Clivi,wine_01gzr4ksp38dcgetj42nrrwjgr,1434517.0,43.04336
+89078967546767.0,WHITE,FRIULANO FRIULANO,RONCHI DI CIALLA,,,2022.0,28,,52.0,Purchase Price: 11.5,Friulano,Ronchi di Cialla,wine_01h0qzm19s9arnnqxw6pzcgc6z,,54.012375
+587957569875957.0,WHITE,FRIULANO FRIULANO,BORGO DEL TIGLIO,,,2021.0,45,,12.0,Purchase Price: 20.9,Collio Friulano,Borgo del Tiglio,wine_01h0my5svsee18011461an21tz,,47.180557
+89789678566.0,WHITE,FRIULANO FRIULANO,DUE DEL MONTE,,,2020.0,38,,6.0,Purchase Price: 14.95,Friulano,Due del Monte,wine_01h4pmmfqdmkad6mrfd6fk5xqf,,39.04411
+,WHITE,FRIULANO FRIULANO,TERRE FAET,,,2021.0,25,,29.0,Purchase Price: 9.3,Friulano,Terre del Faet,wine_01h0my5sg4xghzhfhqczrp2k2q,,45.514202
+8029710001116.0,WHITE,FRIULANO NO NAME,LE VIGNE DI ZAMO,,,2021.0,28,,30.0,Purchase Price: 11.9,No Name,Le Vigne di Zamò,wine_01gzr4kt16zvn63tak4qvz1d71,,45.350323
+98089678567.0,WHITE,FRIULANO RONCO DELLA CHIESA,BORGO DEL TIGLIO,,,2021.0,110,,6.0,Purchase Price: 42.0,Collio Ronco della Chiesa,Borgo del Tiglio,wine_01h0my5svs2ntacdvc99zfacdy,,51.14224
+8054729320019.0,WHITE,FRIULANO RONCO DELLE CIME,VENICA,,,2022.0,38,,6.0,Purchase Price: 17.0,Ronco delle Cime Friulano,Venica & Venica,wine_01gzr4ksm6mkthf9bqjqqykg6b,1210531.0,53.995415
+987545678.0,WHITE,FRIULANO SAN LORENZO,I CLIVI,,,2021.0,28,,12.0,Purchase Price: 9.9,San Lorenzo Friulano,I Clivi,wine_01gzr4ksqncw8jhmb1v6g8kmys,7654642.0,50.3074
+9807867364.0,WHITE,FRIULANO SUBISA23,DUE DEL MONTE,,,2018.0,45,,6.0,Purchase Price: 19.95,Friulano,Due del Monte,wine_01h4pmmfqdmkad6mrfd6fk5xqf,,29.783247
+8018099042186.0,RED,GATTINARA GATTINARA,CONTERNO\NERVI,,,2018.0,80,,1.0,Purchase Price: 30.0,Gattinara,Nervi,wine_01gzr4kse5v0yqw6m7wxs5y33s,1578948.0,45.749992
+8018099042193.0,RED,GATTINARA GATTINARA,CONTERNO\NERVI,,,2019.0,90,,5.0,Purchase Price: 35.0,Gattinara,Nervi,wine_01gzr4kse5v0yqw6m7wxs5y33s,1578948.0,45.749992
+8796756.0,RED,GATTINARA GATTINARA,TRAVAGLINI,,,,45,,5.0,Purchase Price: 19.0,Gattinara,Travaglini,wine_01gzr4kse5wjgcss9qwt3q80az,86868.0,48.683807
+8033406220309.0,RED,GATTINARA TRE VIGNE,TRAVAGLINI,,,2018.0,75,,3.0,Purchase Price: 24.0,Gattinara Tre Vigne,Travaglini,wine_01gzr4kse5c0m6e2zx90pppwwj,2035173.0,44.02838
+8018099052185.0,RED,GATTINARA VIGNA VALFERRANA,CONTERNO\NERVI,,,2018.0,155,,6.0,Purchase Price: 70.0,Vigna Valferana,Nervi,wine_01h0b4rjgcs8ejbzrg36vr57d9,,42.307903
+8032625754749.0,WHITE,MALVASIA DIS CUMIERIS,VIE DI ROMANS,,,2021.0,45,,5.0,Purchase Price: 17.4,Dis Cumieris Malvasia Istriana,Vie di Romans,wine_01gzr4ksk5x52tyapvzfwsa97w,1084879.0,49.626694
+9807867.0,WHITE,MALVASIA ITALO E BRUNO,BORGO DEL TIGLIO,,,2021.0,85,,6.0,Purchase Price: 38.0,Malvasia Italo & Bruno,Borgo del Tiglio,wine_01h0my5svsbzkhqkq625h91bwd,,55.362362
+701197961739.0,WHITE,MALVASIA MALVASIA,RUJ,,,2021.0,25,,10.0,Purchase Price: 7.0,Malvazija Istarska,Cuj,wine_01h4pmmfy79e8fta4w1w64d47a,,25.169443
+,WHITE,MALVASIA MALVASIA,BORGO SAN DANIELE,,,2022.0,30,,32.0,Purchase Price: 11.0,Malvasia,Borgo San Daniele,wine_01h0my5sw2jy3jvxry3fwf7t2h,,46.85401
+8026849002052.0,WHITE,MALVASIA MALVASIA,TENUTA VILLANOVA,,,2021.0,25,,24.0,Purchase Price: 7.0,Malvasia,Villanova,wine_01h0r2pp98vz6qshecybc2rwkk,,38.955017
+802684900052.0,WHITE,MALVASIA MALVASIA,TENUTA VILLANOVA,,,2021.0,25,,36.0,Purchase Price: 6.7,Malvasia,Villanova,wine_01h0r2pp98vz6qshecybc2rwkk,,38.955017
+8032625754893.0,RED,MERLOT MAURUS,VIE DI ROMANS,,,2019.0,32,,23.0,Purchase Price: 15.5,Maurus,Vie di Romans,wine_01gzr4ksk5r3k3vmbj8sh6xb8m,1084883.0,42.362915
+,RED,MERLOT MERLOT,LE VIGNE DI ZAMO,,,2020.0,28,,8.0,Purchase Price: 10.4,Merlot,Le Vigne di Zamò,wine_01gzr4kt16res9gzmt8f4z6fcd,,37.607414
+89021478190071.0,RED,MERLOT MERLOT,PRIMOSIC,,,2019.0,30,,12.0,Purchase Price: 13.9,Merlot,Primosic,wine_01havweezxph8czw904pxca1a3,,36.11403
+,WHITE,MERLOT ROSSO DEL FAET,TERRE  DEL FAET,,,2020.0,28,,11.0,Purchase Price: 10.5,Decimo del Faet,Terre del Faet,wine_01hfxnejxnsmr6bbmfjs4m6bs2,,45.309494
+8032665543945.0,WHITE,NASCETTA NASCETTA,ETTORE GERMANO,,,2021.0,28,,6.0,Purchase Price: 12.9,Langhe Nascetta,Ettore Germano,wine_01gzr4ksqcxtah6kza81zc2p5x,1777168.0,58.55298
+879675645.0,RED,NEBBIOLO ANGELIN,ANGELO NEGRO,,,2021.0,28,,48.0,Purchase Price: 9.0,Angelin Langhe Nebbiolo,Negro Angelo,wine_01h0my5rn385bhfq8n29sea2kb,,47.642204
+8033254931075.0,RED,NEBBIOLO BERNERDINA,CERETTO,,,2021.0,38,,12.0,Purchase Price: 14.5,Nebbiolo d''Alba Bernardina,Ceretto,wine_01gzr4kt6e57qeprbbe7k7g6rg,,39.098713
+8021507732609.0,WHITE,PINOT BIANCO PINOT BIANCO,CANTINA TERLANO,,,2022.0,28,,94.0,Purchase Price: 8.6,Tradition Pinot Bianco,Terlan (Terlano),wine_01gzr4kskt5ez23tm1ayhtx257,77656.0,50.571632
+,RED,PINOT NERO ALOXE-CORTON,DOMAINE ARNOUX,,,2018.0,90,,1.0,Purchase Price: 0.0,Aloxe-Corton,Domaine Arnoux Père & Fils,wine_01gzr4ksxkfyx6rx2k1tzpdfdt,,32.96015
+978675645364.0,RED,PINOT NERO BOURGOGNE,BRUNO COLIN,,,2020.0,80,,4.0,Purchase Price: 38.0,Bourgogne Pinot Noir,Bruno Colin,wine_01gzr4ktjwm8zhjj6r0swwrrd9,,36.780373
+888978876.0,RED,PINOT NERO BOURGOGNE,DOMAINE PONSOT,,,2017.0,85,,1.0,Purchase Price: 40.0,Bourgogne Cuvée du Pinson,Domaine Ponsot,wine_01h4pmmgpcjz6ghy7qeq4t4taa,,28.817474
+,RED,PINOT NERO BOURGOGNE COTE D'OR,MARECHAL CATHERINE & CLAUDE,,,2020.0,45,,2.0,Purchase Price: 0.0,Gravel Bourgogne Cote d''Or,Catherine et Claude Maréchal,wine_01h0r2ppysz6rg2htkh0qjfvgt,,43.78882
+,RED,PINOT NERO CORTON GRAN CRU LES COMBES,DOMAINE GENOT-BOULANGER,,,2018.0,135,,2.0,Purchase Price: 0.0,Corton Les Combes Grand Cru,Domaine Génot-Boulanger,wine_01gzr4ks78xqks3rewg4f3we47,1456299.0,52.242702
+,RED,PINOT NERO COTES DE NUITS-JULIEN,DOMAINE JULIEN,,,2019.0,55,,1.0,Purchase Price: 0.0,Nuits-Saint-Georges ''Aux Saints-Juliens'',Domaine Julien,wine_01hawwcxk1jbkmeae7qpvmqk6j,,30.43985
+,RED,PINOT NERO COTES DE NUITS-VILLAGE,DOMAINE JULIEN,,,2020.0,55,,,Purchase Price: 0.0,Armand Cote de Nuits-Villages,Domaine Julien,wine_01hawwcxhfbwqnsgs1xp2e1pa9,,33.904655
+908787535.0,RED,PINOT NERO GEVREY-CHAMBERTIN,DOMAINE SÈERAFIN,,,2021.0,155,,3.0,Purchase Price: 67.0,Gevrey-Chambertin,Serafin Père & Fils,wine_01gzr4ksxcmqmaw1fah669bvfg,,30.476212
+879745876879078.0,RED,PINOT NERO GEVREY-CHAMBERTIN,DOMAINE TRAPET ROCHELANDET,,,2016.0,95,,4.0,Purchase Price: 36.5,Gevrey-Chambertin,Domaine Trapet,wine_01h0qzm16sv8sdzatncvh43bdz,,39.042236
+3760191285804.0,RED,PINOT NERO GEVREY-CHAMBERTIN,MAISON ROCHE DE BELLENE,,,2017.0,140,,1.0,Purchase Price: 0.0,Gevrey Chambertin Carougeots,Maison Roche de Bellene,wine_01h0my5sjw03nfr0npp8phe14n,,47.12298
+,RED,PINOT NERO HAUTES-COTES DE NUITS,GUY & YVAN DUFOULEUR,,,2018.0,50,,2.0,Purchase Price: 20.0,Bourgogne Hautes Côtes de Nuits Rouge,Guy & Yvan Dufouleur,wine_01h4pmmgww4q5ekwjyazk6wh97,,52.77493
+8032625754824.0,RED,PINOT NERO LONGORUCIS,VIE DI ROMANS,,,2020.0,40,,6.0,Purchase Price: 15.5,Longorucis Pinot Nero,Vie di Romans,wine_01gzr4ksk5s6mbt3dy8deahyvf,10251900.0,52.48616
+9807967.0,RED,PINOT NERO PIGENO,STROBLOF,,,2020.0,40,,6.0,Purchase Price: 18.9,Pigeno Blauburgunder (Pinot Nero),Stroblhof,wine_01h0sq48z6q8r5v4193gt20j9e,,39.791107
+8004312227003.0,RED,PINOT NERO PINOT NERO,ST MICHAEL-EPPAN,,,2022.0,28,,67.0,Purchase Price: 10.2,Blauburgunder (Pinot Nero),St. Michael-Eppan,wine_01gzr4ksmxrv6dd84tc3zdg6yv,1517896.0,49.936584
+8004312257000.0,RED,PINOT NERO RISERVA,ST MICHAEL-EPPAN,,,2020.0,38,,6.0,Purchase Price: 15.0,Blauburgunder (Pinot Nero),St. Michael-Eppan,wine_01gzr4ksmxrv6dd84tc3zdg6yv,1517896.0,41.840305
+988746356758758.0,RED,PINOT NERO VOLANY LES COBES,DOMAINE MAILLARD PÈRE & FILS,,,2017.0,90,,1.0,Purchase Price: 41.0,Volnay ''Les Combes'',Domaine Maillard Père & Fils,wine_01harvcm33bzbw8dr2p0vxzqfy,,45.200348
+,RED,PINOT NERO VOLNAY-RONCERET 1CRU,DOMAINE GENOT-BOULANGER,,,2019.0,115,,,Purchase Price: 0.0,Volnay-Ronceret Premier Cru,Domaine Génot-Boulanger,wine_01gzr4ks793c38maemgc4rf0dk,1209105.0,50.73881
+87654320.0,RED,PINOT NERO VOSNE-ROMANE,LOUIS-LATOUR,,,2016.0,160,,1.0,Purchase Price: 68.0,Vosne-Romanée,Louis Latour,wine_01gzr4kstyhv83grkjpdcerycj,7383.0,39.316612
+,RED,PINOT NERO VOSNE-ROMANÈE,DOMAINE CONFURON-CONTEDINOT,,,2018.0,200,,1.0,Purchase Price: 0.0,Vosne-Romanée,Domaine Confuron-Cotetidot,wine_01gzr4ktmbfx6fnnrxgsk90nqt,,35.251724
+,RED,PINOT NERO VOUGEOT PREMIER CRU,DOMAINE BERTAGNA,,,2018.0,1,,1.0,Purchase Price: 0.0,Vougeot Premier Cru,Domaine Bertagna,wine_01h0my5smpq9ws950j8ex6c04h,,40.95652
+8030588101907.0,RED,REFOSCO REFOSCO,LA RONCAIA,,,2017.0,33,,29.0,Purchase Price: 15.0,Refosco,La Roncaia,wine_01h0my5t08t5z1gjrgb41d5x2d,,48.294357
+879774567.0,RED,REFOSCO REFOSCO DAL PEDUNCOLO ROSSO,RONCHI DI CIALLA,,,2090.0,180,,2.0,Purchase Price: 90.0,Refosco dal Peduncolo Rosso,Ronchi di Cialla,wine_01h0qzm19rzr4f7ysjvxamgtgq,,60.94803
+8021478220020.0,WHITE,RIBOLLA GIALLA RIBOLLA GIALLA,PRIMOSIC,,,2022.0,25,,36.0,Purchase Price: 10.0,Ribolla Gialla,Primosic,wine_01h0qzm1m55qmsfh65jeazve6w,,59.028797
+8054956800155.0,WHITE,RIESLING LO SPAVALDO,FINIGETO,,,2020.0,28,,6.0,Purchase Price: 13.2,Lo Spavaldo Riesling,Finigeto,wine_01h0qzm189kfxc21pxdyqf7dv7,,51.074257
+8053676061501.0,WHITE,RIESLING RIESLING,POJER E SANDRI,,,2022.0,28,,6.0,Purchase Price: 11.0,Riesling,Pojer e Sandri,wine_01gzr4kseh868tptmgamp0e5nx,5475534.0,45.72252
+435637876.0,WHITE,RIESLING TROCKEN,THANISCH,,,2022.0,33,,6.0,Purchase Price: 12.9,Riesling Trocken,Weingut Thanisch,wine_01h4pmmh45ym9qgkzpdqna92h1,,27.349323
+,RED,ROSSO 1GRAN CRU CLASSÈ,CHATEAU PAVIE,,,2016.0,500,,1.0,Purchase Price: 320.0,Saint-Émilion Grand Cru (Premier Grand Cru Classé),Château Pavie,wine_01gzr4kt6tyady73e4vykvmahj,,33.219254
+8033324031629.0,RED,ROSSO BLAU & BLAU,JERMAN,,,2021.0,33,,35.0,Purchase Price: 13.5,Blau & Blau Rosso,Jermann,wine_01h0qzm233mr2et1cckwwc72ew,,49.86575
+78657647578697.0,RED,ROSSO CHATEAUNEUF-DU-PAPE MONT-REDON,FAMILLE ABEILLE-FABRE,,,2020.0,95,,3.0,Purchase Price: 36.9,Font de Joubert Châteauneuf-du-Pape,Famille Charrier,wine_01h4pmmgwpayd53kevcmta3kds,,28.914541
+3359950361011.0,RED,ROSSO COTE-ROTIE,DELAS,,,2020.0,140,,3.0,Purchase Price: 70.0,Côte-Rôtie,Delas,wine_01hcwvb42kjkr0sqs6v934ts3n,,34.83531
+3359950375384.0,RED,ROSSO COTES-DU-RHONE,DELAS,,,2021.0,32,,18.0,Purchase Price: 10.5,Vacqueyras Côtes-du-Rhône,Delas,wine_01hfxnejysg712n19e0n6r6j4c,,33.04589
+3359950358738.0,RED,ROSSO CROZES-HERMITAGE,DELAS,,,2020.0,120,,3.0,Purchase Price: 48.5,Les Launes Crozes-Hermitage,Delas,wine_01gzr4kt6tfdss5td6zh7xqfxj,,35.290646
+141414.0,RED,ROSSO ELLITTICO,MANUEL DI VECCHI STARAZ,,,2014.0,60,,1.0,Purchase Price: 0.0,Rosso,Cecchi,wine_01h0qsxn1d5pgdv3m3n7dr30x7,,21.921118
+,RED,ROSSO ETNA ROSSO,FEDERICO GRAZIANI,,,2021.0,0,,60.0,Purchase Price: 0.0,Etna Rosso,Federico Graziani,wine_01h0my5s9pmcxtdd1jg7azhda0,,55.268604
+8032568161086.0,RED,ROSSO LA MASSA,TENUTA LA MASSA,,,2020.0,35,,6.0,Purchase Price: 14.9,Rosso,Massa Vecchia,wine_01gzr4ksq6dv8d1s9rq1t92khh,6282816.0,23.084831
+8437008512341.0,RED,ROSSO LAS QUADRAS,MOLI DE TAFALLA,,,2020.0,28,,36.0,Purchase Price: 11.0,Rosso,Mola,wine_01h0r2pq6terrvfkg69ctsccna,,22.209784
+8033196491736.0,RED,ROSSO LE PERGOLE TORTE,MONTEVERTINE,,,2020.0,250,,6.0,Purchase Price: 85.0,Le Pergole Torte,Montevertine,wine_01gzr4kt10z3t0bvez32dtgmbb,,47.960983
+8033196491743.0,RED,ROSSO LE PERGOLE TORTE,MONTEVERTINE,,,2020.0,500,,1.0,Purchase Price: 230.0,Le Pergole Torte,Montevertine,wine_01gzr4kt10z3t0bvez32dtgmbb,,47.960983
+800431276004.0,RED,ROSSO MERLOT\CABERNET RIS,ST MICHAEL-EPPAN,,,2020.0,32,,6.0,Purchase Price: 13.2,Fallwind Cabernet - Merlot Riserva,St. Michael-Eppan,wine_01havweezebwg6zhd1p801xtne,,39.748806
+8033196491774.0,RED,ROSSO MONTEVERTINE,MONTEVERTINE,,,2020.0,90,,6.0,Purchase Price: 36.0,Montevertine,Montevertine,wine_01hbtxafncz1w2kq2jj3s6vdv4,,45.439762
+,RED,ROSSO PASSO PISCIARO,FRANCHETTI,,,2012.0,55,,1.0,Purchase Price: 0.0,Rosso,Tenuta Fraschetti,wine_01h0qzm18rw774h5ykdhzeykh4,,26.22732
+8033196491804.0,RED,ROSSO PIAN DEL CIAMPOLO,MONTEVERTINE,,,2021.0,50,,6.0,Purchase Price: 16.5,Pian del Ciampolo,Montevertine,wine_01gzr4kt10v6zdef7agyymtn75,,54.369766
+8033481328105.0,RED,ROSSO ROSSO DEI NOTRI,TUA RITA,,,2022.0,30,,11.0,Purchase Price: 12.0,Rosso Dei Notri Toscana,Tua Rita,wine_01gzr4kt8er97f6tb7drkkw33z,,54.700947
+9807895487978.0,RED,ROSSO ROSSO DELLA CENTA,BORGO DEL TIGLIO,,,2018.0,120,,6.0,Purchase Price: 58.0,Rosso della Centa,Borgo del Tiglio,wine_01h0my5svsgbqwhw8465x3tfxs,,52.22451
+,RED,ROSSO ROSSO DI MEZZO,FEDERICO GRAZIANI,,,2021.0,0,,12.0,Purchase Price: 0.0,Rosso di Mezzo,Federico Graziani,wine_01h0my5s9schq8qrf33d7pngj3,,58.474102
+8022931504206.0,RED,ROSSO ROSSO DI MONTALCINO,ARGIANO,,,2020.0,35,,3.0,Purchase Price: 13.5,Rosso di Montalcino,Argiano,wine_01h0my5rnaakt63nh5apam47dr,,41.154167
+,RED,ROSSO ROSSO RISERVA,BORGO DEL TIGLIO,,,2017.0,65,,6.0,Purchase Price: 28.0,Rosso Riserva,Borgo del Tiglio,wine_01hbtdrmck82qfy3gwnss13q7q,,43.876896
+8022931504213.0,RED,SANGIOVESE ROSS0 DI MONTALCINO,ARGIANO,,,2021.0,35,,6.0,Purchase Price: 13.9,Rosso di Montalcino,Argiano,wine_01h0my5rnaakt63nh5apam47dr,,36.73806
+9089786756.0,WHITE,SAUVIGNON CUVÈE MARNE-CAILLOTTES,ROGER,,,2022.0,50,,6.0,Purchase Price: 21.25,Cuvée Marnes et Caillottes Sancerre,Jean-Max Roger,wine_01harvcmctzygbfk1k6f0nndwm,,26.685108
+9878654565768.0,WHITE,SAUVIGNON LES ROMAINS,DOMAINE VACHERON,,,2021.0,100,,2.0,Purchase Price: 55.0,Sancerre Les Romains,Domaine Vacheron,wine_01gzr4kswavrc0ykvdbhgrckp6,,36.878773
+8030421004990.0,WHITE,SAUVIGNON POTENTILLA,LIVIO FELLUGA,,,2018.0,45,,5.0,Purchase Price: 16.0,Potentilla Sauvignon,Livio Felluga,wine_01gzr4kskw8m4fwtzrz2650yx7,10469438.0,53.99806
+679786756.0,WHITE,SAUVIGNON POUILLY-FUME,LEBRUN,,,2021.0,40,,6.0,Purchase Price: 15.75,Pouilly-Fumé,Cécile Lebrun,wine_01h0qsxn1r2hdjh70803tcqk7p,,30.377478
+8010788010094.0,RED,SAUVIGNON SAUVIGNON,RONCO CASALI,,,2022.0,25,,33.0,Purchase Price: 7.8,Feligeto Cabernet Sauvignon,Casali,wine_01h0my5t9t6ja875jv8jtf2932,,24.788815
+966776.0,WHITE,SAUVIGNON SAUVIGNON,BORGO DEL TIGLIO,,,2021.0,45,,6.0,Purchase Price: 20.9,Collio Sauvignon,Borgo del Tiglio,wine_01h0my5svsgp6e59aak2hw96yx,,37.03946
+8796755667.0,WHITE,SAUVIGNON SAUVIGNON RISERVA,BORGO DEL TIGLIO,,,2021.0,85,,6.0,Purchase Price: 35.0,Collio Sauvignon,Borgo del Tiglio,wine_01h0my5svsgp6e59aak2hw96yx,,37.03946
+22222222.0,WHITE,SAUVIGNON SAUVIGNON RONCO PITOTTI,VIGNAI DA DULINE,,,2016.0,100,,2.0,Purchase Price: 41.1,Ronco Pitotti Sauvignon,Vignai da Duline,wine_01h0sq4878vj7pbs6ry6qh759c,,60.445305
+8004312757005.0,RED,SCHIAVA VERNATSCH,ST MICHAEL-EPPAN,,,2022.0,25,,6.0,Purchase Price: 7.8,Pagis Vernatsch,St. Michael-Eppan,wine_01gzr4ksmxzszvwm2h3q2m25wx,1139101.0,43.29992
+98678645465.0,RED,SCHIOPETTINO SCHIOPETTINO,RONCHI DI CIALLA,,,2096.0,150,,2.0,Purchase Price: 54.0,Schioppettino di Cialla,Ronchi di Cialla,wine_01h0qsxnbexancy9k9ptxdnwvn,,49.473377
+8010788010377.0,RED,SCHIOPETTINO SCHIOPETTINO,RONCO CASALI,,,2022.0,28,,22.0,Purchase Price: 9.0,Schioppettino,Ronco Severo,wine_01gzr4kskf8ajghg8t4hbk9nj9,2427219.0,36.411427
+987654456.0,SPARKLING,SPUMANTE 51151,MOSER,,,,38,,12.0,Purchase Price: 15.8,"51,151 Brut",Moser,wine_01h0r2pqcxrjnkrkzhn09mp5d0,,31.90456
+8032685710044.0,SPARKLING,SPUMANTE LA SCALA BRUT,BELLAVISTA,,,2015.0,55,,30.0,Purchase Price: 27.5,Teatro Alla Scala,Bellavista,wine_01gzr4ktfzgj1bf537eztnq8f6,,35.62896
+4260463680409.0,SPARKLING,SPUMANTE MADEMOISELLE,VILLA HUESGEN,,,2019.0,45,,6.0,Purchase Price: 20.0,Mademoiselle Riesling,Villa Huesgen,wine_01harvcmnpz2w7za70r7vvhdj0,,43.229256
+8053676061709.0,SPARKLING,SPUMANTE MOLINAR EB,POJER E SANDRI,,,2017.0,100,,1.0,Purchase Price: 55.0,Molinar Extra Brut,Pojer e Sandri,wine_01gzr4ksehpzn0h0t8bh1p6j0p,9025915.0,46.924187
+8015920202788.0,SPARKLING,SPUMANTE RIBOLLA GIALLA,CANTINA PRODUTTORI CORMONS,,,,22,,117.0,Purchase Price: 4.3,Ribolla Gialla Spumante Brut,Cormòns,wine_01h0qsxn5c7fr2efhrqwbjtah2,,38.91896
+8053676061204.0,SPARKLING,SPUMANTE ROSÈ BRUT,POJER E SANDRI,,,,40,,14.0,Purchase Price: 17.6,Brut Rosé,Pojer e Sandri,wine_01gzr4ksehb4w40vf68pxz2wak,2034180.0,43.71843
+8908965654634.0,SPARKLING,SPUMANTE TRENTO NATURE,PEDROTTI,,,,38,,72.0,Purchase Price: 15.0,Nature,Pedrotti,wine_01hfxnejt3as5fxtd0zbp10a7z,,35.49038
+45453212.0,WHITE,TREBBIANO TREBBIANO,EMIDIO PEPE,,,2006.0,150,,1.0,Purchase Price: 0.0,Trebbiano d''Abruzzo,Emidio Pepe,wine_01gzr4ksrq9ze45xa65j5jpnm1,13971.0,43.11827
+8032947170036.0,WHITE,VERDICCHIO VILLA BUCCI,BUCCI,,,2015.0,55,,1.0,Purchase Price: 22.0,Villa Bucci Riserva,Bucci,wine_01gzr4ksramprycr75r76z0x74,1806189.0,37.050766
+8032947170012.0,WHITE,VERDICCHIO VILLA BUCCI,BUCCI,,,2018.0,60,,1.0,Purchase Price: 27.0,Villa Bucci Riserva,Bucci,wine_01gzr4ksramprycr75r76z0x74,1806189.0,37.050766

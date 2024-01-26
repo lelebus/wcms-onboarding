@@ -1,0 +1,622 @@
+Prosecco Brut DOCG Adami
+Cartizze DRY docg Adami
+Altemasi Trento Millesimato Cavit
+Trento DOC Brut 51,151 Moser
+Ferrari Perlè F.lli Lunelli
+Ferrari Rose' F.lli Lunelli
+Giulio Ferrrari F.lli Lunelli
+Giulio Ferrrari Rose' F.lli Lunelli
+Riserva Bruno Lunelli F.lli Lunelli
+Franciacorta Brut Il Mosnel
+Franciacorta Cuvèe Prestige Cà del Bosco
+Franciacorta Cuvèe Prestige Rose' Cà del Bosco
+Franciacorta Sàten Cà del Bosco
+Franciacorta Dosage Zéro Cà del Bosco
+Annamaria Clementi Cuvee' Brut Cà del Bosco
+Vranken Diamant Brut Pommery
+Vranken Diamant Rose' Pommery
+Philipponnat Royale Reserve Brut 
+Philipponnat Royale Reserve Non Dose' 
+Bollinger Special Cuvee' 
+Veuve Clicquot Cuvee Saint-Petersbourg 
+Pol Roger Brut Reserve 
+Perrier-Jouet Grand Brut 
+Veuve Clicquot Extra Brut Extra Old 
+Ruinart Blanc de Blancs 
+Ruinart Rosé 
+Delamotte Blanc de Blancs 
+Pertois-Moriset "Special Club" 
+Perrier-Jouet Belle Epoque 
+Comtes De Champagne Grands Crus Blanc de Blancs 
+Krug Gran Cuvee' 
+Dom Perignon Vintage 
+Dom Perignon Rose' 
+Dom Perignon P2 
+Cristal Louis Roederer 
+Jacques Selosse Initial 
+Jacques Selosse Substance 
+Taittinger Collection Sebastiao Salgado 
+Salon Cuvee "S" Le Mesnil 
+Laurent-Perrier Brut
+Laurent-Perrier La Cuvèe Brut 
+Laurent-Perrier La Cuvèe Brut (Magnum)
+Laurent-Perrier La Cuvèe Brut (Mathusalem)
+Laurent-Perrier Ultra Brut 
+Laurent-Perrier Millesimè 
+Laurent-Perrier Millesimè (Magnum)
+Laurent-Perrier Millesimè Riserva (Magnum)
+Laurent-Perrier Cuvèe Rosè 
+Laurent-Perrier Grand Siècle 
+Laurent-Perrier Alexandra Grand Cuvèe Rosè 
+Ferrari Perlè F.lli Lunelli (Magnum)
+Veuve Clicquot Cuvèe Saint-Pètersbourg (Magnum)
+Bollinger Special Cuvée (Magnum)
+Ruinart Blanc de Blancs (Magnum)
+Ruinart Brut Rosè (Magnum)
+Cristal Louis Roederer (Magnum)
+Krug (Magnum)
+Les Clos Pompadour Millesime' (Magnum)
+Dom Perignon Vintage (Magnum)
+Taittinger Cuvèe Prestige Brut (Jeroboam)
+Vranken Diamant Brut Pommery (Jeroboam)
+Bollinger Special Cuvée (Jeroboam)
+Taittinger Cuvèe Prestige Brut (Mathusalem)
+Ruinart Blanc de Blancs (Jeroboam)
+Comtes De Champagne Grands Crus Blanc de Blancs (Mathusalem)
+Rosè Cotes de Provence Minuty
+Rosè Cotes de Provence Limited Edition "BY HANNA KL" Minuty
+Rock Angel Caves D'Esclans
+Soave classico Pieropan
+Lugana Cà dei Frati
+Friulano Borgo conventi
+Friulano Primarùl Venica
+Pinot Grigio Lis Neris
+Vinnae Ribolla Gialla Jermann
+Sauvignon Jermann
+Sauvignon "Ronco delle Mele" Venica
+Chardonnay Jermann
+Terre Alte (Sauvignon-P. Bianco-Friulano) Livio Felluga
+Vintage Tunina Jermann
+Gewürztraminer Hofstätter
+Gewürztraminer Sanct Valentin St. Michele Appiano
+Terlaner (Pinot Bianco–Chard.–Sauv. Blanc) Cantina Terlano
+Vorberg (Pinot Bianco) Cantina Terlano
+Nova Domus (Pinot Bianco–Chard.–Sauv. Blanc) Cantina Terlano
+Müller Thurgau Kurtatsch
+Pinot Grigio Castel Ringberg Elena Walch
+Kerner Köfererhof
+Chardonnay Sanct Valentin St. Michele Appiano
+Sauvignon Sanct Valentin St. Michele Appiano
+Arneis Blange' Ceretto
+Colli Torinesi Timorasso Vietti
+Alteni di Brassica (Sauvignon) Gaja
+Gaia & Rey (Chardonnay) Gaja
+Pomino Bianco Benefizio Frescobaldi
+Gorgona "Vermentino" Frescobaldi
+Ornellaia Bianco Tente Dell'Ornellaia
+Cervaro Della Sala Antinori
+Cerdeña (Vermentino) Argiolas
+Riesling Trinbach
+Riesling Grand Cru Neumeyer
+Gewürztraminer Grand Cru Pierre Frick
+Riesling Grand Cru Brand Trinbach
+Riesling Clos Ste Hune Trinbach
+Sancerre Cuvee' Satellite Alphonse Mellot
+Pur Sang Poully Fume' (Sauvignon) Didier Dagueneau
+Bourgogne Aligote' Reyane & Pascal Bouley
+Bourgogne Hautes- Cotes de Nuits Guy & Yvan Dufouleur
+Chardonnay Terres de Famille Domaine de la Vougeraie
+Bourgogne Cote d'Or Patrick Javillier
+Bourgogne Chardonnay Pierre Labet
+Puligny-Montrachet Domaine de la Vougeraie
+Berthet-Bondet Chateau Chalon
+Chassagne Montrachet 1er Cru Lucien le Moine
+Charlemagne Grand Cru Domaine de la Vougeraie
+Batard Montrachet Grand Cru Fontaine Gagnard
+Chablis Premier Cru Vosgros Magnum Gilbert Picq
+Meursault Charmes 1er Cru Magnum Domaine Jean Marie Bouzerau
+Grüner Veltliner Federspiel Nikolaihof
+Riesling Federspiel Nikolaihof
+Riesling Vom Schiefer Ansgar Clusserath
+Riesling Quarzit Peter Jacob Kühn
+Chardonnay Beringer
+Valpolicella Le Salette
+Valpolicella Classico Superiore Zymè
+Valpolicella Ripasso Sartori
+Valpolicella “Ripasso” Campofiorin Masi
+Valpolicella “Ripasso” Palazzo della Torre Allegrini
+Valpolicella Ripassa Zenato
+Valpolicella “Ripasso” Secco Bertani Bertani
+Cabernet Az. Agricola Sutto
+Merlot "Ad Nonam" Tenuta Mosole
+Rosso Riserva (Merlot–Cabernet) Vignalta
+Merlot Colli Berici Dal Maso
+Agno Tinto (Sirah) Vignalta
+Venegazzù della Casa (Cab. Sauv.–Merlot–Cab. F.–Malbec) Loredan Gasparini
+Carmenere Punto Zero
+Venegazzù Capo di Stato (Cab. Sauv.–Cab F.–Merlot–Malbec) Loredan Gasparini
+La Poja (Corvina Veronese) Allegrini
+Terregiunte Masi-Vespa
+Amarone della Valpolicella Reius Sartori
+Amarone della Valpolicella Zenato
+Amarone Costasera Masi
+Amarone Costasera Riserva Masi
+Amarone "S. Urbano" Speri
+Amarone della Valpolicella Bertani
+Amarone della Valpolicella Fieramonte Allegrini
+Amarone della Valpolicella Quintarelli
+Blauburgunder Meczan Hofstätter
+Blauburgunder Elena Walch
+Blauburgunder Gottardi
+Blauburgunder Haidenhof
+Blauburgunder Monticol Cantina Terlano
+Pinot Nero Ris. St. Daniel Colterenzio
+Pinot Nero Franz Hass
+Blauburgunder Mazon Riserva Hofstätter
+Pinot Nero Ludwig Elena Walch
+Pinot Nero "Sanct Valentin" St. Michele Appiano
+Blauburgunder Barthenau "Vigna S.Urbano" Hofstätter
+Cabernet "Istrice" Elena Walch
+Lagrein Perl Cantina Bolzano
+Lagrein Lindenburg Alois Lageder
+Lagrein Dunkel Gries Cantina Terlano
+Lagrain Taber Cantina Bolzano
+Merlot Antiope Morandell
+Merlot Riserva Siebeneich Cantina Terlano
+Merlot Franz Hass
+Merlot Riserva Kastelaz Elena Walch
+Teroldego Foradori
+Teroldego Morei Foradori
+San Leonardo (Cab. Sauv.–Carmenere–Merlot) Marchesi Guerrieri Gonzaga
+Cabernet Sauvignon Lis Neris
+Cabernet Franc Venica
+Sdencina Rosso (Schioppettino-Refosco) Tenuta Stella
+Merlot Tunella
+Merlot Vistorta Conte Brandolini
+Red Angel (Pinot Nero) Jermann
+Refosco Castello di Buttrio
+Schioppettino Borgo Conventi
+Pignolo Tunella
+Vespa Rosso (Merlot–Refosco–Cab. Sauv.) Bastianich
+Sosso' (Merlot-Refosco-Pignolo) Livio Felluga
+Barbera d’Alba Oddero
+Dolcetto d’Alba Ceretto
+Nebbiolo d'Alba Albino Rocca
+Barolo Ceretto
+Barolo Castiglione Vietti
+Barolo Brunate Ceretto
+Barolo Vignarionda Oddero
+Barbaresco Asili Ca Del Baio
+Barbaresco Masseria Vietti
+Barbaresco Camp Gros Martinenga Marchesi di Gresy
+Barbaresco Gaja
+Barbaresco Sori Tildin Gaja
+Villa Antinori Rosso Antinori
+Chianti Classico "Pèppoli" Antinori
+Chianti Classico Riserva La Forra Tenuta Di Nozzole
+Pomino Rosso (Pinot Nero) Frescobaldi
+Le Volte Tenuta dell'Ornellaia
+Rosso di Montalcino Banfi
+Rosso di Montalcino Biondi Santi
+Cabreo Rosso il Borgo (Sangiovese–Cab. Sauv.) Folonari
+Guidalberto Tenuta San Guido
+Pino di Biserno Tenuta di Biserno Lodovico Antinori
+Il Pareto (Cabernet Sauvignon) Folonari
+Mormoreto (Cab. S.–Cab. F.–Petit V.–Mer.) Frescobaldi
+Montesodi (Sangiovese) Frescobaldi
+Brunello di Montalcino Pian Delle Vigne Antinori
+Brunello di Montalcino Vigna Marrucheto Banfi
+Brunello di Montalcino Vigna Ripe al Convento Frescobaldi
+Brunello di Montalcino Vignaferrovia Antinori
+Brunello di Montalcino Biondi Santi
+Brunello di Montalcino Riserva Biondi Santi
+Tignanello Antinori
+Guado al Tasso Antinori
+Luce Della Vite Frescobaldi
+Biserno (Cab. F.–Mer.–Cab. S.–Petit Verdot) Tenuta di Biserno Lodovico Antinori
+Dedicato a Walter (Cabernet Franc) Poggio al Tesoro
+Sassicaia (Cab. Sauv.–Cab. Franc) Tenuta San Guido
+Ornellaia (Cab. Sauv.– Mer.–Cab. F.–Petit Verdot) Tenuta dell'Ornellaia
+Chianti Classico Vigneto "Bellavista" Castello di Ama
+Chianti Classico Vigneto "La Casuccia" Castello di Ama
+Palazzi Tenuta di Trinoro
+Massetino Tenuta dell'Ornellaia
+Solaia Antinori
+Matarocchio Antinori
+Lodovico Tenuta Di Biserno
+Masseto (Merlot) Tenuta dell'Ornellaia
+Montiano (Merlot) Cotarella
+Gutturnio Riserva Tenuta Pozzolo
+Cumaro Rosso Conero Riserva (Montepulciano) Umani Ronchi
+Pelago (Cab. Sauv–Montepulciano–Merlot) Umani Ronchi
+Mossone (Merlot) Stefano Antonucci
+Primitivo di Manduria "Rosso di Vespa” Bruno Vespa
+Primitivo di Manduria “Raccontami" Bruno Vespa
+Harmonium (Nero d'Avola) Firriato
+Reseca (Nerello mascalese) Gulfi
+Pino' (Pinot nero) Gulfi
+Etna Rosso Munjebel Frank Cornlissen
+Syrah Maroccoli Planeta
+Santa Cecilia (Nero d'avola) Planeta
+Terre Brune (Carignano del Sulcis) Santadi
+Turriga (Cannonau-Carignano) Argiolas
+Bourgogne Terres de Famille Domaine de la Vougeraie
+Bourgogne Hautes Cotes De Beaune Domaine Lucien Jacob
+Volnay 1er Cru Robardelle Reyane & Pascal Bouley
+Pommard Reyane & Pascal Bouley
+Pommard Chanson
+Nuits-Saint-Georges Chanson
+Nuits-Saint-Georges Aurelien Verdet
+Morey Saint Denis Aurelien Verdet
+Volnay 1er Cru Fremiets Marchand Tawse
+Le Corton Grand Cru Bouchard
+Bonnes Mares Grand Cru Lucien de Moine
+Nuits St. Georges 1er Cru Domaine Des Perdrix
+Chorey les Beaune LeRoy
+Vacqueyras Le Village Montirius
+Chateauneuf-du-Pape Clos de L'oratoire
+Cote-Rotie' Domanie Burgaud
+Chateau Clarke Edmond de Rothschild
+Boidron St-Georges St-Emilion Chateau Calon
+Chateau La Roque Famille Beaumartin
+Malbec Alta Vista
+Merlot Castello di Buttrio
+Braida Nuova Borgo Conventi
+Valpolicella “Ripasso” Palazzo delle Torre" Allegrini
+Valpolicella Ripasso Zenato
+Venegazzù della Casa Loredan Gasparini
+Venegazzù Capo di Stato Loredan Gasparini
+Amarone della Valpolicella Allegrini
+Blauburgunder Riserva Mazon Hofstätter
+Lagrein Riserva Taber Cant. Bolzano
+Barolo Bussia Ceretto
+Cabreo Rosso il Borgo Folonari
+Biserno (Cab. F.–Merlot–Cab. Sauv.–Petit Verdot) Tenuta di Biserno Lodovico Antinori
+Lodovico Tenuta di Biserno Lodovico Antinori
+Masseto (Merlot) Tenuta dell’Ornellaia
+Gevrey-Chambertin Alain Jeanniard
+Nuits-Saint-Georges 1er Cru Domaine de la Vougeraie
+Nuits-Saint-Georges 1er Cru Alain Michelot
+Les 8 Ouvrées 1er Cru Domaine Des Perdrix
+Rosè Et Or (6 litri) Minuty
+Blauburgunder Riserva Mazon (3litri) Hofstätter
+Blauburgunder Barthenau "Vigna S. Urbano" (3litri) Hofstätter
+Lagrein Dunkel Collection (3litri) Cantina Gries
+Valpolicella “Ripasso” Campofiorin (3litri) Masi
+Le Volte Dell'Ornellaia Tenuta dell'Ornellaia
+La Vite Lucente (3 Litri) Frescobaldi
+Brunello di Montalcino Castel Giocondo Frescobaldi
+Le Serre Nuove (3litri) Tenuta dell'Ornellaia
+Mormoreto (3litri) Frescobaldi
+Tignanello (3 Litri) Antinori
+Luce Della Vite (3 Litri) Frescobaldi
+Les 5 1er Cru (3litri) Domaine des Perdrix
+Ornellaia (3 Litri) Tenuta dell'Ornellaia
+Sassicaia (3litri) Tenuta San Guido
+Lodovico (3litri) Tenuta di Biserno
+Le Volte (6 litri) Tenuta Sdell'Ornellaia
+La Vite Lucente (6 Litri) Frescobaldi
+Guidalberto (6 litri) Tenuta San Guido
+Ornellaia (6 litri) Tenuta dell’Ornellaia
+Venegazzù della Casa (12litri) Loredan Gasparini
+Laurent-Perrier Brut 
+Blauburgunder Hofstätter
+Amarone della Valpolicella Costasera Masi
+Ornellaia (Cab. Sauv.– Mer.–Cab. F.–Petit Verdot) Tenuta dell’Ornellaia
+Ramandolo 500 ml Ronco Vieri
+Recioto di Soave "Le Colombare" 500 ml Pieropan
+Maximo (Botrytis Cinerea) 375 ml Umani Ronchi
+Angialis 375 ml Argiolas
+Eiswein 375 ml Edith Michlits
+Sauternes 375 ml Ier Grand Cru Chateau Guiraud
+Prosecco Brut DOCG Adami
+Cartizze DRY docg Adami
+Altemasi Trento Millesimato Cavit
+Trento DOC Brut 51,151 Moser
+Ferrari Perlè F.lli Lunelli
+Ferrari Rose' F.lli Lunelli
+Giulio Ferrrari F.lli Lunelli
+Giulio Ferrrari Rose' F.lli Lunelli
+Riserva Bruno Lunelli F.lli Lunelli
+Franciacorta Brut Il Mosnel
+Franciacorta Cuvèe Prestige Cà del Bosco
+Franciacorta Cuvèe Prestige Rose' Cà del Bosco
+Franciacorta Sàten Cà del Bosco
+Franciacorta Dosage Zéro Cà del Bosco
+Annamaria Clementi Cuvee' Brut Cà del Bosco
+Vranken Diamant Brut Pommery
+Vranken Diamant Rose' Pommery
+Philipponnat Royale Reserve Brut 
+Philipponnat Royale Reserve Non Dose' 
+Bollinger Special Cuvee' 
+Veuve Clicquot Cuvee Saint-Petersbourg 
+Pol Roger Brut Reserve 
+Perrier-Jouet Grand Brut 
+Veuve Clicquot Extra Brut Extra Old 
+Ruinart Blanc de Blancs 
+Ruinart Rosé 
+Delamotte Blanc de Blancs 
+Pertois-Moriset "Special Club" 
+Perrier-Jouet Belle Epoque 
+Comtes De Champagne Grands Crus Blanc de Blancs 
+Krug Gran Cuvee' 
+Dom Perignon Vintage 
+Dom Perignon Rose' 
+Dom Perignon P2 
+Cristal Louis Roederer 
+Jacques Selosse Initial 
+Jacques Selosse Substance 
+Taittinger Collection Sebastiao Salgado 
+Salon Cuvee "S" Le Mesnil 
+Laurent-Perrier Brut
+Laurent-Perrier La Cuvèe Brut 
+Laurent-Perrier La Cuvèe Brut (Magnum)
+Laurent-Perrier La Cuvèe Brut (Mathusalem)
+Laurent-Perrier Ultra Brut 
+Laurent-Perrier Millesimè 
+Laurent-Perrier Millesimè (Magnum)
+Laurent-Perrier Millesimè Riserva (Magnum)
+Laurent-Perrier Cuvèe Rosè 
+Laurent-Perrier Grand Siècle 
+Laurent-Perrier Alexandra Grand Cuvèe Rosè 
+Ferrari Perlè F.lli Lunelli (Magnum)
+Veuve Clicquot Cuvèe Saint-Pètersbourg (Magnum)
+Bollinger Special Cuvée (Magnum)
+Ruinart Blanc de Blancs (Magnum)
+Ruinart Brut Rosè (Magnum)
+Cristal Louis Roederer (Magnum)
+Krug (Magnum)
+Les Clos Pompadour Millesime' (Magnum)
+Dom Perignon Vintage (Magnum)
+Taittinger Cuvèe Prestige Brut (Jeroboam)
+Vranken Diamant Brut Pommery (Jeroboam)
+Bollinger Special Cuvée (Jeroboam)
+Taittinger Cuvèe Prestige Brut (Mathusalem)
+Ruinart Blanc de Blancs (Jeroboam)
+Comtes De Champagne Grands Crus Blanc de Blancs (Mathusalem)
+Rosè Cotes de Provence Minuty
+Rosè Cotes de Provence Limited Edition "BY HANNA KL" Minuty
+Rock Angel Caves D'Esclans
+Soave classico Pieropan
+Lugana Cà dei Frati
+Friulano Borgo conventi
+Friulano Primarùl Venica
+Pinot Grigio Lis Neris
+Vinnae Ribolla Gialla Jermann
+Sauvignon Jermann
+Sauvignon "Ronco delle Mele" Venica
+Chardonnay Jermann
+Terre Alte (Sauvignon-P. Bianco-Friulano) Livio Felluga
+Vintage Tunina Jermann
+Gewürztraminer Hofstätter
+Gewürztraminer Sanct Valentin St. Michele Appiano
+Terlaner (Pinot Bianco–Chard.–Sauv. Blanc) Cantina Terlano
+Vorberg (Pinot Bianco) Cantina Terlano
+Nova Domus (Pinot Bianco–Chard.–Sauv. Blanc) Cantina Terlano
+Müller Thurgau Kurtatsch
+Pinot Grigio Castel Ringberg Elena Walch
+Kerner Köfererhof
+Chardonnay Sanct Valentin St. Michele Appiano
+Sauvignon Sanct Valentin St. Michele Appiano
+Arneis Blange' Ceretto
+Colli Torinesi Timorasso Vietti
+Alteni di Brassica (Sauvignon) Gaja
+Gaia & Rey (Chardonnay) Gaja
+Pomino Bianco Benefizio Frescobaldi
+Gorgona "Vermentino" Frescobaldi
+Ornellaia Bianco Tente Dell'Ornellaia
+Cervaro Della Sala Antinori
+Cerdeña (Vermentino) Argiolas
+Riesling Trinbach
+Riesling Grand Cru Neumeyer
+Gewürztraminer Grand Cru Pierre Frick
+Riesling Grand Cru Brand Trinbach
+Riesling Clos Ste Hune Trinbach
+Sancerre Cuvee' Satellite Alphonse Mellot
+Pur Sang Poully Fume' (Sauvignon) Didier Dagueneau
+Bourgogne Aligote' Reyane & Pascal Bouley
+Bourgogne Hautes- Cotes de Nuits Guy & Yvan Dufouleur
+Chardonnay Terres de Famille Domaine de la Vougeraie
+Bourgogne Cote d'Or Patrick Javillier
+Bourgogne Chardonnay Pierre Labet
+Puligny-Montrachet Domaine de la Vougeraie
+Berthet-Bondet Chateau Chalon
+Chassagne Montrachet 1er Cru Lucien le Moine
+Charlemagne Grand Cru Domaine de la Vougeraie
+Batard Montrachet Grand Cru Fontaine Gagnard
+Chablis Premier Cru Vosgros Magnum Gilbert Picq
+Meursault Charmes 1er Cru Magnum Domaine Jean Marie Bouzerau
+Grüner Veltliner Federspiel Nikolaihof
+Riesling Federspiel Nikolaihof
+Riesling Vom Schiefer Ansgar Clusserath
+Riesling Quarzit Peter Jacob Kühn
+Chardonnay Beringer
+Valpolicella Le Salette
+Valpolicella Classico Superiore Zymè
+Valpolicella Ripasso Sartori
+Valpolicella “Ripasso” Campofiorin Masi
+Valpolicella “Ripasso” Palazzo della Torre Allegrini
+Valpolicella Ripassa Zenato
+Valpolicella “Ripasso” Secco Bertani Bertani
+Cabernet Az. Agricola Sutto
+Merlot "Ad Nonam" Tenuta Mosole
+Rosso Riserva (Merlot–Cabernet) Vignalta
+Merlot Colli Berici Dal Maso
+Agno Tinto (Sirah) Vignalta
+Venegazzù della Casa (Cab. Sauv.–Merlot–Cab. F.–Malbec) Loredan Gasparini
+Carmenere Punto Zero
+Venegazzù Capo di Stato (Cab. Sauv.–Cab F.–Merlot–Malbec) Loredan Gasparini
+La Poja (Corvina Veronese) Allegrini
+Terregiunte Masi-Vespa
+Amarone della Valpolicella Reius Sartori
+Amarone della Valpolicella Zenato
+Amarone Costasera Masi
+Amarone Costasera Riserva Masi
+Amarone "S. Urbano" Speri
+Amarone della Valpolicella Bertani
+Amarone della Valpolicella Fieramonte Allegrini
+Amarone della Valpolicella Quintarelli
+Blauburgunder Meczan Hofstätter
+Blauburgunder Elena Walch
+Blauburgunder Gottardi
+Blauburgunder Haidenhof
+Blauburgunder Monticol Cantina Terlano
+Pinot Nero Ris. St. Daniel Colterenzio
+Pinot Nero Franz Hass
+Blauburgunder Mazon Riserva Hofstätter
+Pinot Nero Ludwig Elena Walch
+Pinot Nero "Sanct Valentin" St. Michele Appiano
+Blauburgunder Barthenau "Vigna S.Urbano" Hofstätter
+Cabernet "Istrice" Elena Walch
+Lagrein Perl Cantina Bolzano
+Lagrein Lindenburg Alois Lageder
+Lagrein Dunkel Gries Cantina Terlano
+Lagrain Taber Cantina Bolzano
+Merlot Antiope Morandell
+Merlot Riserva Siebeneich Cantina Terlano
+Merlot Franz Hass
+Merlot Riserva Kastelaz Elena Walch
+Teroldego Foradori
+Teroldego Morei Foradori
+San Leonardo (Cab. Sauv.–Carmenere–Merlot) Marchesi Guerrieri Gonzaga
+Cabernet Sauvignon Lis Neris
+Cabernet Franc Venica
+Sdencina Rosso (Schioppettino-Refosco) Tenuta Stella
+Merlot Tunella
+Merlot Vistorta Conte Brandolini
+Red Angel (Pinot Nero) Jermann
+Refosco Castello di Buttrio
+Schioppettino Borgo Conventi
+Pignolo Tunella
+Vespa Rosso (Merlot–Refosco–Cab. Sauv.) Bastianich
+Sosso' (Merlot-Refosco-Pignolo) Livio Felluga
+Barbera d’Alba Oddero
+Dolcetto d’Alba Ceretto
+Nebbiolo d'Alba Albino Rocca
+Barolo Ceretto
+Barolo Castiglione Vietti
+Barolo Brunate Ceretto
+Barolo Vignarionda Oddero
+Barbaresco Asili Ca Del Baio
+Barbaresco Masseria Vietti
+Barbaresco Camp Gros Martinenga Marchesi di Gresy
+Barbaresco Gaja
+Barbaresco Sori Tildin Gaja
+Villa Antinori Rosso Antinori
+Chianti Classico "Pèppoli" Antinori
+Chianti Classico Riserva La Forra Tenuta Di Nozzole
+Pomino Rosso (Pinot Nero) Frescobaldi
+Le Volte Tenuta dell'Ornellaia
+Rosso di Montalcino Banfi
+Rosso di Montalcino Biondi Santi
+Cabreo Rosso il Borgo (Sangiovese–Cab. Sauv.) Folonari
+Guidalberto Tenuta San Guido
+Pino di Biserno Tenuta di Biserno Lodovico Antinori
+Il Pareto (Cabernet Sauvignon) Folonari
+Mormoreto (Cab. S.–Cab. F.–Petit V.–Mer.) Frescobaldi
+Montesodi (Sangiovese) Frescobaldi
+Brunello di Montalcino Pian Delle Vigne Antinori
+Brunello di Montalcino Vigna Marrucheto Banfi
+Brunello di Montalcino Vigna Ripe al Convento Frescobaldi
+Brunello di Montalcino Vignaferrovia Antinori
+Brunello di Montalcino Biondi Santi
+Brunello di Montalcino Riserva Biondi Santi
+Tignanello Antinori
+Guado al Tasso Antinori
+Luce Della Vite Frescobaldi
+Biserno (Cab. F.–Mer.–Cab. S.–Petit Verdot) Tenuta di Biserno Lodovico Antinori
+Dedicato a Walter (Cabernet Franc) Poggio al Tesoro
+Sassicaia (Cab. Sauv.–Cab. Franc) Tenuta San Guido
+Ornellaia (Cab. Sauv.– Mer.–Cab. F.–Petit Verdot) Tenuta dell'Ornellaia
+Chianti Classico Vigneto "Bellavista" Castello di Ama
+Chianti Classico Vigneto "La Casuccia" Castello di Ama
+Palazzi Tenuta di Trinoro
+Massetino Tenuta dell'Ornellaia
+Solaia Antinori
+Matarocchio Antinori
+Lodovico Tenuta Di Biserno
+Masseto (Merlot) Tenuta dell'Ornellaia
+Montiano (Merlot) Cotarella
+Gutturnio Riserva Tenuta Pozzolo
+Cumaro Rosso Conero Riserva (Montepulciano) Umani Ronchi
+Pelago (Cab. Sauv–Montepulciano–Merlot) Umani Ronchi
+Mossone (Merlot) Stefano Antonucci
+Primitivo di Manduria "Rosso di Vespa” Bruno Vespa
+Primitivo di Manduria “Raccontami" Bruno Vespa
+Harmonium (Nero d'Avola) Firriato
+Reseca (Nerello mascalese) Gulfi
+Pino' (Pinot nero) Gulfi
+Etna Rosso Munjebel Frank Cornlissen
+Syrah Maroccoli Planeta
+Santa Cecilia (Nero d'avola) Planeta
+Terre Brune (Carignano del Sulcis) Santadi
+Turriga (Cannonau-Carignano) Argiolas
+Bourgogne Terres de Famille Domaine de la Vougeraie
+Bourgogne Hautes Cotes De Beaune Domaine Lucien Jacob
+Volnay 1er Cru Robardelle Reyane & Pascal Bouley
+Pommard Reyane & Pascal Bouley
+Pommard Chanson
+Nuits-Saint-Georges Chanson
+Nuits-Saint-Georges Aurelien Verdet
+Morey Saint Denis Aurelien Verdet
+Volnay 1er Cru Fremiets Marchand Tawse
+Le Corton Grand Cru Bouchard
+Bonnes Mares Grand Cru Lucien de Moine
+Nuits St. Georges 1er Cru Domaine Des Perdrix
+Chorey les Beaune LeRoy
+Vacqueyras Le Village Montirius
+Chateauneuf-du-Pape Clos de L'oratoire
+Cote-Rotie' Domanie Burgaud
+Chateau Clarke Edmond de Rothschild
+Boidron St-Georges St-Emilion Chateau Calon
+Chateau La Roque Famille Beaumartin
+Malbec Alta Vista
+Merlot Castello di Buttrio
+Braida Nuova Borgo Conventi
+Valpolicella “Ripasso” Palazzo delle Torre" Allegrini
+Valpolicella Ripasso Zenato
+Venegazzù della Casa Loredan Gasparini
+Venegazzù Capo di Stato Loredan Gasparini
+Amarone della Valpolicella Allegrini
+Blauburgunder Riserva Mazon Hofstätter
+Lagrein Riserva Taber Cant. Bolzano
+Barolo Bussia Ceretto
+Cabreo Rosso il Borgo Folonari
+Biserno (Cab. F.–Merlot–Cab. Sauv.–Petit Verdot) Tenuta di Biserno Lodovico Antinori
+Lodovico Tenuta di Biserno Lodovico Antinori
+Masseto (Merlot) Tenuta dell’Ornellaia
+Gevrey-Chambertin Alain Jeanniard
+Nuits-Saint-Georges 1er Cru Domaine de la Vougeraie
+Nuits-Saint-Georges 1er Cru Alain Michelot
+Les 8 Ouvrées 1er Cru Domaine Des Perdrix
+Rosè Et Or (6 litri) Minuty
+Blauburgunder Riserva Mazon (3litri) Hofstätter
+Blauburgunder Barthenau "Vigna S. Urbano" (3litri) Hofstätter
+Lagrein Dunkel Collection (3litri) Cantina Gries
+Valpolicella “Ripasso” Campofiorin (3litri) Masi
+Le Volte Dell'Ornellaia Tenuta dell'Ornellaia
+La Vite Lucente (3 Litri) Frescobaldi
+Brunello di Montalcino Castel Giocondo Frescobaldi
+Le Serre Nuove (3litri) Tenuta dell'Ornellaia
+Mormoreto (3litri) Frescobaldi
+Tignanello (3 Litri) Antinori
+Luce Della Vite (3 Litri) Frescobaldi
+Les 5 1er Cru (3litri) Domaine des Perdrix
+Ornellaia (3 Litri) Tenuta dell'Ornellaia
+Sassicaia (3litri) Tenuta San Guido
+Lodovico (3litri) Tenuta di Biserno
+Le Volte (6 litri) Tenuta Sdell'Ornellaia
+La Vite Lucente (6 Litri) Frescobaldi
+Guidalberto (6 litri) Tenuta San Guido
+Ornellaia (6 litri) Tenuta dell’Ornellaia
+Venegazzù della Casa (12litri) Loredan Gasparini
+Laurent-Perrier Brut 
+Blauburgunder Hofstätter
+Amarone della Valpolicella Costasera Masi
+Ornellaia (Cab. Sauv.– Mer.–Cab. F.–Petit Verdot) Tenuta dell’Ornellaia
+Ramandolo 500 ml Ronco Vieri
+Recioto di Soave "Le Colombare" 500 ml Pieropan
+Maximo (Botrytis Cinerea) 375 ml Umani Ronchi
+Angialis 375 ml Argiolas
+Eiswein 375 ml Edith Michlits
+Sauternes 375 ml Ier Grand Cru Chateau Guiraud

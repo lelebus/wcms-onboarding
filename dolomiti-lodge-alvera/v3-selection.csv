@@ -1,0 +1,349 @@
+ok,external_id,type,name,winery_name,storage_area,size,vintage,price,info,quantity,internal_notes,matched_name,matched_winery_name,matched_id,matched_original_id,score
+TRUE,,SPARKLING,Altemasi Trento Millesimato Cavit,Altemasi Trento Millesimato Cavit,,BOTTLE,2018,4500,,50,,Millesimato Método Classico Brut,Altemasi,wine_01gzr4ksdbd1v51sr2rzax4f4z,1202244,33.14479
+TRUE,,SPARKLING,"Trento DOC Brut 51,151 Moser","Trento DOC Brut 51,151 Moser",,BOTTLE,,5900,,50,,"51,151 Brut",Moser,wine_01h0r2pqcxrjnkrkzhn09mp5d0,,36.232468
+TRUE,,SPARKLING,Giulio Ferrrari F.lli Lunelli,Giulio Ferrrari F.lli Lunelli,,BOTTLE,2010,33000,,50,,'Giulio Ferrari'' Riserva del Fondatore,Ferrari,wine_01gzr4kscc3eq3g9mgs0f5ns3f,1256452,29.931715
+TRUE,,SPARKLING,Franciacorta Cuvèe Prestige Cà del Bosco,Franciacorta Cuvèe Prestige Cà del Bosco,,BOTTLE,,6500,,50,,Franciacorta Cuvée Prestige,Ca' del Bosco,wine_01gzr4kscc5tkafqr60hga5xms,1191278,36.839508
+TRUE,,SPARKLING,Franciacorta Dosage Zéro Cà del Bosco,Franciacorta Dosage Zéro Cà del Bosco,,BOTTLE,2018,9600,,50,,Dosage Zéro Franciacorta (Vintage Collection),Ca' del Bosco,wine_01gzr4ksccg1swcb7yb701kdpe,1961980,39.579414
+TRUE,,SPARKLING,Annamaria Clementi Cuvee' Brut Cà del Bosco,Annamaria Clementi Cuvee' Brut Cà del Bosco,,BOTTLE,2014,21000,,50,,Cuvée Annamaria Clementi (Extra Brut),Ca' del Bosco,wine_01gzr4ksccr3vp26k7752yh5yp,23130,43.977493
+TRUE,,SPARKLING,Vranken Diamant Brut Pommery,Vranken Diamant Brut Pommery,,BOTTLE,,9600,,50,,Diamant Brut Champagne,Vranken,wine_01h4pmmfg1d1yhyy3fvvbqe71h,,37.016346
+TRUE,,SPARKLING,Philipponnat Royale Reserve Brut,Philipponnat Royale Reserve Brut,,BOTTLE,,12000,,50,,Royale Réserve Brut Champagne,Philipponnat,wine_01gzr4ks63nx7n95vw12dcynhy,83817,35.939327
+TRUE,,SPARKLING,Philipponnat Royale Reserve Non Dose',Philipponnat Royale Reserve Non Dose',,BOTTLE,,12000,,50,,Royale Réserve Non Dosé Champagne,Philipponnat,wine_01gzr4ks63dw1mz9w5ezwc97av,1252845,41.67675
+TRUE,,SPARKLING,Bollinger Special Cuvee',Bollinger Special Cuvee',,BOTTLE,,13000,,50,,Special Cuvée Brut Aÿ Champagne,Bollinger,wine_01gzr4ks77wsdabt6vnn27vs4y,18929,31.669508
+TRUE,,SPARKLING,Veuve Clicquot Cuvee Saint-Petersbourg,Veuve Clicquot Cuvee Saint-Petersbourg,,BOTTLE,,11000,,50,,Cuvée Saint-Pétersbourg Brut Champagne,Veuve Clicquot,wine_01gzr4ks5vtmcbtxja8zx2ax6e,1146393,46.231625
+TRUE,,SPARKLING,Pol Roger Brut Reserve,Pol Roger Brut Reserve,,BOTTLE,,12000,,50,,Réserve Brut Champagne,Pol Roger,wine_01gzr4kscbtrxfra499jsfa2z0,1884610,35.63067
+TRUE,,SPARKLING,Perrier-Jouet Grand Brut,Perrier-Jouet Grand Brut,,BOTTLE,,15000,,50,,Grand Brut Champagne,Perrier-Jouët,wine_01h0f3cmbmghj9f4c14wg390vb,,41.856342
+TRUE,,SPARKLING,Veuve Clicquot Extra Brut Extra Old,Veuve Clicquot Extra Brut Extra Old,,BOTTLE,,14000,,50,,Extra Brut Extra Old Champagne,Veuve Clicquot,wine_01gzr4ks5va1rwn1wfaa2wmftn,5445749,50.799927
+TRUE,,SPARKLING,Ruinart Blanc de Blancs,Ruinart Blanc de Blancs,,BOTTLE,,18000,,50,,Dom Ruinart Blanc de Blancs Brut Champagne,Ruinart,wine_01gzr4ksd2c8ryrf1nbh9jb83z,1192720,45.06498
+TRUE,,SPARKLING,Ruinart Rosé,Ruinart Rosé,,BOTTLE,,18000,,50,,Dom Ruinart Rosé Brut Champagne,Ruinart,wine_01h0f3cmbmtvmkd6m243g38m9r,,40.14516
+TRUE,,SPARKLING,"Pertois-Moriset ""Special Club""","Pertois-Moriset ""Special Club""",,BOTTLE,2015,24000,,50,,Special Club Champagne Grand Cru ''Le Mesnil-sur-Oger'',Pertois-Moriset,wine_01h4pmmgrpw4pxh40pq5jg10br,,48.163383
+TRUE,,SPARKLING,Perrier-Jouet Belle Epoque,Perrier-Jouet Belle Epoque,,BOTTLE,2013,34000,,50,,Belle Epoque Brut Champagne,Perrier-Jouët,wine_01gzr4ksd4ahar44dg95zgrg4g,79162,49.70676
+TRUE,,SPARKLING,Dom Perignon P2,Dom Perignon P2,,BOTTLE,2003,86000,,50,,P2 Plénitude Brut Champagne,Dom Pérignon,wine_01gzr4ksd7kxm1ztzqza3vfezb,3102815,42.45594
+TRUE,,SPARKLING,Taittinger Collection Sebastiao Salgado,Taittinger Collection Sebastiao Salgado,,BOTTLE,2008,51000,,50,,Collection Sebastião Salgado Brut Champagne,Taittinger,wine_01havwedth7n8ejcheked44xkn,,46.591156
+TRUE,,SPARKLING,Laurent-Perrier La Cuvèe Brut,Laurent-Perrier La Cuvèe Brut,,BOTTLE,,8500,,50,,La Cuvée Brut Champagne,Laurent-Perrier,wine_01gzr4ks5hsmde1f5vkm7fzt85,5552281,38.88099
+TRUE,,SPARKLING,Laurent-Perrier La Cuvèe Brut (Magnum),Laurent-Perrier La Cuvèe Brut (Magnum),,MAGNUM,,21000,,50,,La Cuvée Brut Champagne,Laurent-Perrier,wine_01gzr4ks5hsmde1f5vkm7fzt85,5552281,38.88099
+TRUE,,SPARKLING,Laurent-Perrier La Cuvèe Brut (Mathusalem),Laurent-Perrier La Cuvèe Brut (Mathusalem),,MATHUSALEM,,88000,,50,,La Cuvée Brut Champagne,Laurent-Perrier,wine_01gzr4ks5hsmde1f5vkm7fzt85,5552281,38.88099
+TRUE,,SPARKLING,Laurent-Perrier Ultra Brut,Laurent-Perrier Ultra Brut,,BOTTLE,,12500,,50,,Ultra Brut Champagne (Brut Nature),Laurent-Perrier,wine_01gzr4ks5hppdh0jyxzez21y5r,1179551,41.71692
+TRUE,,SPARKLING,Laurent-Perrier Millesimè,Laurent-Perrier Millesimè,,BOTTLE,2008,10500,,50,,Brut Millésimé Champagne,Laurent-Perrier,wine_01gzr4ks5h7z6yfdmcpd6fmyrq,1657892,36.091103
+TRUE,,SPARKLING,Laurent-Perrier Millesimè (Magnum),Laurent-Perrier Millesimè (Magnum),,MAGNUM,2008,26000,,50,,Brut Millésimé Champagne,Laurent-Perrier,wine_01gzr4ks5h7z6yfdmcpd6fmyrq,1657892,36.091103
+TRUE,,SPARKLING,Laurent-Perrier Cuvèe Rosè,Laurent-Perrier Cuvèe Rosè,,BOTTLE,,16500,,50,,Cuvée Rosé Brut Champagne,Laurent-Perrier,wine_01gzr4ks5hfqf9jmzma14b516x,,35.14034
+TRUE,,SPARKLING,Laurent-Perrier Grand Siècle,Laurent-Perrier Grand Siècle,,BOTTLE,,22000,,50,,Grand Siècle Champagne (Grande Cuvée),Laurent-Perrier,wine_01gzr4ks5hkcz2qxsp47h8v1jr,1238419,41.34029
+TRUE,,SPARKLING,Laurent-Perrier Alexandra Grand Cuvèe Rosè,Laurent-Perrier Alexandra Grand Cuvèe Rosè,,BOTTLE,2004,48000,,50,,Alexandra Champagne Rosé (Grande Cuvée),Laurent-Perrier,wine_01gzr4ks5h2j3msa7p18neys12,8307,44.128662
+TRUE,,SPARKLING,Franciacorta Cuvèe Prestige Cà del Bosco,Franciacorta Cuvèe Prestige Cà del Bosco,,BOTTLE,,15000,,50,,Franciacorta Cuvée Prestige,Ca' del Bosco,wine_01gzr4kscc5tkafqr60hga5xms,1191278,36.839508
+TRUE,,SPARKLING,Veuve Clicquot Cuvèe Saint-Pètersbourg (Magnum),Veuve Clicquot Cuvèe Saint-Pètersbourg (Magnum),,MAGNUM,,24500,,50,,Cuvée Saint-Pétersbourg Brut Champagne,Veuve Clicquot,wine_01gzr4ks5vtmcbtxja8zx2ax6e,1146393,47.697052
+TRUE,,SPARKLING,Bollinger Special Cuvée (Magnum),Bollinger Special Cuvée (Magnum),,MAGNUM,,31000,,50,,Special Cuvée Brut Aÿ Champagne,Bollinger,wine_01gzr4ks77wsdabt6vnn27vs4y,18929,32.23071
+TRUE,,SPARKLING,Ruinart Blanc de Blancs (Magnum),Ruinart Blanc de Blancs (Magnum),,MAGNUM,,41000,,50,,Dom Ruinart Blanc de Blancs Brut Champagne,Ruinart,wine_01gzr4ksd2c8ryrf1nbh9jb83z,1192720,45.06498
+TRUE,,SPARKLING,Ruinart Brut Rosè (Magnum),Ruinart Brut Rosè (Magnum),,MAGNUM,,41000,,50,,Dom Ruinart Rosé Brut Champagne,Ruinart,wine_01h0f3cmbmtvmkd6m243g38m9r,,41.963898
+TRUE,,SPARKLING,Taittinger Cuvèe Prestige Brut (Jeroboam),Taittinger Cuvèe Prestige Brut (Jeroboam),,JEROBOAM,,41000,,50,,Cuvée Prestige Brut Champagne,Taittinger,wine_01h0f3cmbm11rs6z6r4yhqx5x1,,36.01034
+TRUE,,SPARKLING,Vranken Diamant Brut Pommery (Jeroboam),Vranken Diamant Brut Pommery (Jeroboam),,JEROBOAM,,60000,,50,,Diamant Brut Champagne,Vranken,wine_01h4pmmfg1d1yhyy3fvvbqe71h,,37.016346
+TRUE,,SPARKLING,Bollinger Special Cuvée (Jeroboam),Bollinger Special Cuvée (Jeroboam),,JEROBOAM,,94000,,50,,Special Cuvée Brut Aÿ Champagne,Bollinger,wine_01gzr4ks77wsdabt6vnn27vs4y,18929,32.23071
+TRUE,,SPARKLING,Taittinger Cuvèe Prestige Brut (Mathusalem),Taittinger Cuvèe Prestige Brut (Mathusalem),,MATHUSALEM,,70000,,50,,Cuvée Prestige Brut Champagne,Taittinger,wine_01h0f3cmbm11rs6z6r4yhqx5x1,,36.01034
+TRUE,,SPARKLING,Ruinart Blanc de Blancs (Jeroboam),Ruinart Blanc de Blancs (Jeroboam),,JEROBOAM,,112000,,50,,Dom Ruinart Blanc de Blancs Brut Champagne,Ruinart,wine_01gzr4ksd2c8ryrf1nbh9jb83z,1192720,45.06498
+TRUE,,WHITE,Soave classico Pieropan,Soave classico Pieropan,,BOTTLE,2022,3500,,50,,Soave Classico,Pieropan,wine_01gzr4ksj4ahty016zbqf90zeg,22925,39.443665
+TRUE,,WHITE,Lugana Cà dei Frati,Lugana Cà dei Frati,,BOTTLE,2021,3900,,50,,I Frati Lugana,Cà dei Frati,wine_01gzr4ksd21816c7pdatn9v5fq,1136902,48.29022
+TRUE,,WHITE,Friulano Primarùl Venica,Friulano Primarùl Venica,,BOTTLE,2021,3800,,50,,Primarűl Friulano,Venica & Venica,wine_01gzr4ksm6n616a3td318x0160,8831630,45.778
+TRUE,,WHITE,"Sauvignon ""Ronco delle Mele"" Venica","Sauvignon ""Ronco delle Mele"" Venica",,BOTTLE,2021,7500,,50,,Ronco delle Mele Sauvignon,Venica & Venica,wine_01gzr4ksm64xrr18y47rpcfxx0,1257879,49.672905
+TRUE,,WHITE,Chardonnay Jermann,Chardonnay Jermann,,BOTTLE,2021,4100,,50,,Chardonnay,Jermann,wine_01h0qzm233prkg8gewmdrc384y,,22.98838
+TRUE,,WHITE,Terre Alte (Sauvignon-P. Bianco-Friulano) Livio Felluga,Terre Alte (Sauvignon-P. Bianco-Friulano) Livio Felluga,,BOTTLE,2019,9800,,50,,Terre Alte,Livio Felluga,wine_01gzr4kskvxsct8qy4tzyt5p7v,15091,49.085564
+TRUE,,WHITE,Vintage Tunina Jermann,Vintage Tunina Jermann,,BOTTLE,2020,8500,,50,,Vintage Tunina,Jermann,wine_01h0qzm2337vfbvx938w74edx3,,36.557602
+TRUE,,WHITE,Gewürztraminer Hofstätter,Gewürztraminer Hofstätter,,BOTTLE,2021,3800,,50,,Gewürztraminer,J. Hofstätter,wine_01h0qzm1vg3y386agp77mh76qw,,25.421585
+TRUE,,WHITE,Gewürztraminer Sanct Valentin St. Michele Appiano,Gewürztraminer Sanct Valentin St. Michele Appiano,,BOTTLE,2021,5100,,50,,Gewürztraminer Sanct Valentin,St. Michael-Eppan,wine_01gzr4ksmv77d19k37hn5xh7nh,,29.644554
+TRUE,,WHITE,Terlaner (Pinot Bianco–Chard.–Sauv. Blanc) Cantina Terlano,Terlaner (Pinot Bianco–Chard.–Sauv. Blanc) Cantina Terlano,,BOTTLE,2022,4200,,50,,Terlaner,Terlan (Terlano),wine_01gzr4ksn5hrrj46e95x5nft46,6292452,57.316208
+TRUE,,WHITE,Vorberg (Pinot Bianco) Cantina Terlano,Vorberg (Pinot Bianco) Cantina Terlano,,BOTTLE,2018,5800,,50,,Pinot Bianco Riserva Vorberg,Terlan (Terlano),wine_01gzr4kskpz3t6pte1cfyvzpzv,77664,50.47218
+TRUE,,WHITE,Nova Domus (Pinot Bianco–Chard.–Sauv. Blanc) Cantina Terlano,Nova Domus (Pinot Bianco–Chard.–Sauv. Blanc) Cantina Terlano,,BOTTLE,2017,8500,,50,,Riserva Nova Domus Terlaner,Terlan (Terlano),wine_01gzr4ksn59np0cz4842jxkmp5,1683261,57.825256
+TRUE,,WHITE,Müller Thurgau Kurtatsch,Müller Thurgau Kurtatsch,,BOTTLE,2021,3500,,50,,Müller Thurgau,Cantina Kurtatsch,wine_01h0my5rkkvv5nqtjrch7676wf,,34.028046
+TRUE,,WHITE,Pinot Grigio Castel Ringberg Elena Walch,Pinot Grigio Castel Ringberg Elena Walch,,BOTTLE,2022,5200,,50,,Vigna ''Castel Ringberg'' Pinot Grigio,Elena Walch,wine_01gzr4kt16sm52a0mjjy0q62v0,,57.60025
+TRUE,,WHITE,Kerner Köfererhof,Kerner Köfererhof,,BOTTLE,2021,3500,,50,,Kerner,Köfererhof,wine_01h0qzm2436ek6qyh1x0vdg86k,,38.159718
+TRUE,,WHITE,Arneis Blange' Ceretto,Arneis Blange' Ceretto,,BOTTLE,2021,3900,,50,,Arneis Langhe Blange,Ceretto,wine_01gzr4kt6dcssjtppy7fmpq0c5,,40.967716
+TRUE,,WHITE,Colli Torinesi Timorasso Vietti,Colli Torinesi Timorasso Vietti,,BOTTLE,2020,5000,,50,,Derthona Timorasso Colli Tortonesi,Vietti,wine_01gzr4kt7r41fhecz2qq927mr3,,45.92127
+TRUE,,WHITE,Alteni di Brassica (Sauvignon) Gaja,Alteni di Brassica (Sauvignon) Gaja,,BOTTLE,2020,21000,,50,,Alteni di Brassica Langhe,Gaja,wine_01gzr4kspp1wft0m7a4hmjh53e,1323602,43.888542
+TRUE,,WHITE,Gaia & Rey (Chardonnay) Gaja,Gaia & Rey (Chardonnay) Gaja,,BOTTLE,2020,40500,,50,,Gaia & Rey Langhe,Gaja,wine_01gzr4ksppmrbs9bck881h9qrt,2410111,60.59934
+TRUE,,WHITE,Pomino Bianco Benefizio Frescobaldi,Pomino Bianco Benefizio Frescobaldi,,BOTTLE,2017,4900,,50,,Benefizio Riserva Pomino Bianco,Castello Pomino,wine_01gzr4kss348s7ywj3zfqbtkz4,1127204,44.40219
+TRUE,,WHITE,Cervaro Della Sala Antinori,Cervaro Della Sala Antinori,,BOTTLE,2020,10000,,50,,Castello della Sala Cervaro della Sala,Antinori,wine_01gzr4ksd3b397szz15dat7s7b,1688,44.15679
+TRUE,,WHITE,Cerdeña (Vermentino) Argiolas,Cerdeña (Vermentino) Argiolas,,BOTTLE,2015,7600,,50,,Cerdeña Vermentino di Sardegna,Argiolas,wine_01gzr4ksrxxsxmvm7ddkhjpdts,7428276,36.76098
+TRUE,,WHITE,Riesling Grand Cru Neumeyer,Riesling Grand Cru Neumeyer,,BOTTLE,2018,6000,,50,,Riesling Alsace Grand Cru ''Bruderthal'',Domaine Gérard Neumeyer,wine_01h0qzm1j0ypx8hz2brm4x85bc,,26.491009
+TRUE,,WHITE,Gewürztraminer Grand Cru Pierre Frick,Gewürztraminer Grand Cru Pierre Frick,,BOTTLE,2013,8500,,50,,Gewürztraminer Alsace Grand Cru ''Steinert'',Pierre Frick,wine_01hczek24vaphscsyhe36ynv3j,,38.640125
+TRUE,,WHITE,Riesling Grand Cru Brand Trinbach,Riesling Grand Cru Brand Trinbach,,BOTTLE,2018,12000,,50,,Riesling Alsace Grand Cru ''Brand'',Trimbach,wine_01hczek2g2kkf3sar1cg2qf71n,,38.99245
+TRUE,,WHITE,Riesling Clos Ste Hune Trinbach,Riesling Clos Ste Hune Trinbach,,BOTTLE,2017,60000,,50,,Clos Sainte Hune Riesling Alsace,Trimbach,wine_01h0qzm1tg9wgaykqm4n6r9d32,,35.281578
+TRUE,,WHITE,Sancerre Cuvee' Satellite Alphonse Mellot,Sancerre Cuvee' Satellite Alphonse Mellot,,BOTTLE,2022,18000,,50,,Satellite Sancerre,Alphonse Mellot,wine_01gzr4ksvxg164eq4nys0kw473,1221633,56.015907
+TRUE,,WHITE,Pur Sang Poully Fume' (Sauvignon) Didier Dagueneau,Pur Sang Poully Fume' (Sauvignon) Didier Dagueneau,,BOTTLE,2019,27000,,50,,Pur Sang,Didier Dagueneau (Louis-Benjamin Dagueneau),wine_01h4pmmh1bwcw6dwe1yxmpy21b,,43.866642
+TRUE,,WHITE,Bourgogne Aligote' Reyane & Pascal Bouley,Bourgogne Aligote' Reyane & Pascal Bouley,,BOTTLE,2019,4900,,50,,Bourgogne Aligoté,Domaine Réyane et Pascal Bouley,wine_01h4pmmh1404n4y1mv00acyx3g,,42.141113
+TRUE,,WHITE,Chardonnay Terres de Famille Domaine de la Vougeraie,Chardonnay Terres de Famille Domaine de la Vougeraie,,BOTTLE,2018,5700,,50,,Chardonnay Terres de Famille,Domaine de la Vougeraie,wine_01h0qzm2hsqakz4egw9tcf8x0m,,50.2457
+TRUE,,WHITE,Bourgogne Chardonnay Pierre Labet,Bourgogne Chardonnay Pierre Labet,,BOTTLE,2019,9000,,50,,Bourgogne Chardonnay,Pierre Labet - François Labet,wine_01hawwcxb17qdnr5ksn0281hhb,,36.55587
+TRUE,,WHITE,Berthet-Bondet Chateau Chalon,Berthet-Bondet Chateau Chalon,,BOTTLE,2014,18000,,50,,Château-Chalon,Berthet Bondet,wine_01h0my5sv32v9rj5recnhd4kmw,,53.929893
+TRUE,,WHITE,Charlemagne Grand Cru Domaine de la Vougeraie,Charlemagne Grand Cru Domaine de la Vougeraie,,BOTTLE,2019,34000,,50,,Charlemagne Grand Cru,Domaine de la Vougeraie,wine_01hcw4dfx2fq0q1bqndj33pjy0,,42.14957
+TRUE,,WHITE,Batard Montrachet Grand Cru Fontaine Gagnard,Batard Montrachet Grand Cru Fontaine Gagnard,,BOTTLE,2019,63000,,50,,Bâtard-Montrachet Grand Cru,Fontaine-Gagnard,wine_01h0my5shdn0bat5gvg2xpv6dt,,52.040108
+TRUE,,WHITE,Chablis Premier Cru Vosgros Magnum Gilbert Picq,Chablis Premier Cru Vosgros Magnum Gilbert Picq,,MAGNUM,2020,19000,,50,,Chablis 1er Cru ''Vosgros'',Gilbert Picq,wine_01h0my5svejf4dhpv74t2nvxyj,,48.57184
+TRUE,,WHITE,Meursault Charmes 1er Cru Magnum Domaine Jean Marie Bouzerau,Meursault Charmes 1er Cru Magnum Domaine Jean Marie Bouzerau,,MAGNUM,2014,35000,,50,,Meursault 1er Cru ''Charmes'',Domaine Jean-Marie Bouzereau,wine_01gzr4kswrzx2q5abyjx6qhw42,,49.438965
+TRUE,,WHITE,Grüner Veltliner Federspiel Nikolaihof,Grüner Veltliner Federspiel Nikolaihof,,BOTTLE,2020,4500,,50,,Federspiel Grüner Veltliner,Nikolaihof,wine_01gzr4ksxr56zjma2e4tbw369d,,42.070213
+TRUE,,WHITE,Riesling Federspiel Nikolaihof,Riesling Federspiel Nikolaihof,,BOTTLE,2020,5000,,50,,Federspiel Riesling,Nikolaihof,wine_01gzr4ksxrn0y668kcb0xg986w,,36.9364
+TRUE,,WHITE,Riesling Vom Schiefer Ansgar Clusserath,Riesling Vom Schiefer Ansgar Clusserath,,BOTTLE,2017,3500,,50,,Vom Schiefer Riesling,Ansgar Clüsserath,wine_01gzr4ksyt7a93yk5xn74mzwrc,,56.110336
+TRUE,,WHITE,Riesling Quarzit Peter Jacob Kühn,Riesling Quarzit Peter Jacob Kühn,,BOTTLE,2020,7400,,50,,Quarzit Riesling Trocken,Peter Jakob Kühn,wine_01gzr4ksygyhrddqgac50473fs,,49.962193
+TRUE,,RED,Valpolicella “Ripasso” Palazzo della Torre Allegrini,Valpolicella “Ripasso” Palazzo della Torre Allegrini,,BOTTLE,2019,4400,,50,,Palazzo della Torre,Allegrini,wine_01h0my5sa02ad24d2x408hzb0v,,45.663532
+TRUE,,RED,Valpolicella Ripassa Zenato,Valpolicella Ripassa Zenato,,BOTTLE,2019,4700,,50,,Ripassa Valpolicella Ripasso Superiore,Zenato,wine_01gzr4ksd1fnr67jf8jfan1y6x,1380075,36.898117
+TRUE,,RED,Valpolicella “Ripasso” Secco Bertani Bertani,Valpolicella “Ripasso” Secco Bertani Bertani,,BOTTLE,2019,4500,,50,,Secco-Bertani Valpolicella Valpantena Ripasso,Bertani,wine_01h0my5sm2bb83jt7sv7xsnxqx,,74.89538
+TRUE,,RED,Rosso Riserva (Merlot–Cabernet) Vignalta,Rosso Riserva (Merlot–Cabernet) Vignalta,,BOTTLE,2017,3900,,50,,Merlot Riserva,Vignalta,wine_01gzr4ksfk8epvyd1gtrgw5sqz,8682418,32.055676
+TRUE,,RED,Merlot Colli Berici Dal Maso,Merlot Colli Berici Dal Maso,,BOTTLE,2020,4900,,50,,Casara Roveri Merlot Colli Berici,Dal Maso,wine_01gzr4kth0z0p3tw291dksfk34,,35.71855
+TRUE,,RED,Agno Tinto (Sirah) Vignalta,Agno Tinto (Sirah) Vignalta,,BOTTLE,2016,4900,,50,,Agno Tinto,Vignalta,wine_01gzr4ksfkm7xpbh8v3xws3wwm,1108088,40.08058
+TRUE,,RED,Venegazzù Capo di Stato (Cab. Sauv.–Cab F.–Merlot–Malbec) Loredan Gasparini,Venegazzù Capo di Stato (Cab. Sauv.–Cab F.–Merlot–Malbec) Loredan Gasparini,,BOTTLE,2017,10500,,50,,Capo di Stato,Loredan Gasparini,wine_01gzr4kt32adfgha7rj4d20qxn,,62.259983
+TRUE,,RED,La Poja (Corvina Veronese) Allegrini,La Poja (Corvina Veronese) Allegrini,,BOTTLE,2017,16000,,50,,La Poja (Monovitigno Corvina Veronese),Allegrini,wine_01gzr4kt1k9nn59ds3pr5ma5en,,48.09075
+TRUE,,RED,Amarone Costasera Masi,Amarone Costasera Masi,,BOTTLE,2018,11000,,50,,Costasera Amarone della Valpolicella Classico,Masi,wine_01gzr4ksd1hjdw9h6nhb6ar8vq,21929,28.63928
+TRUE,,RED,Amarone Costasera Riserva Masi,Amarone Costasera Riserva Masi,,BOTTLE,2016,14500,,50,,Amarone della Valpolicella Classico Riserva Costasera,Masi,wine_01gzr4kt1x6ajfw8xnmfax6dmj,,30.237885
+TRUE,,RED,"Amarone ""S. Urbano"" Speri","Amarone ""S. Urbano"" Speri",,BOTTLE,2017,9000,,50,,Vigneto Monte Sant''Urbano Amarone della Valpolicella Classico,Speri,wine_01h0my5rn7c83fxcdd6pzs6pst,,35.774208
+TRUE,,RED,Amarone della Valpolicella Bertani,Amarone della Valpolicella Bertani,,BOTTLE,2012,26000,,50,,Amarone della Valpolicella,Bertani,wine_01h0my5smqjv1sbfwwyz6m6d4d,,40.42605
+TRUE,,RED,Amarone della Valpolicella Fieramonte Allegrini,Amarone della Valpolicella Fieramonte Allegrini,,BOTTLE,2013,66000,,50,,Fieramonte Amarone della Valpolicella Riserva,Allegrini,wine_01h4pmmgbw6der283t6yhbyg9f,,48.686687
+TRUE,,RED,Blauburgunder Meczan Hofstätter,Blauburgunder Meczan Hofstätter,,BOTTLE,2021,3800,,50,,Joseph Meczan Pinot Nero - Blauburgunder Alto Adige,J. Hofstätter,wine_01gzr4kskmqsygy5twfbkqscmt,9797,30.271011
+TRUE,,RED,Blauburgunder Elena Walch,Blauburgunder Elena Walch,,BOTTLE,2022,4000,,50,,Pinot Nero (Blauburgunder) (Selezione),Elena Walch,wine_01gzr4kskrkbf2tqztzzwvke8m,1542388,41.926846
+TRUE,,RED,Blauburgunder Gottardi,Blauburgunder Gottardi,,BOTTLE,2018,6000,,50,,Südtiroler Blauburgunder Mazzon,Weingut Gottardi,wine_01gzr4kse58hgt6bmzqhy84nyd,1438133,28.322636
+TRUE,,RED,Blauburgunder Haidenhof,Blauburgunder Haidenhof,,BOTTLE,2021,5500,,50,,Blauburgunder,Haidenhof,wine_01hcw4dg354tm584m2nk9bng5g,,38.263382
+TRUE,,RED,Blauburgunder Monticol Cantina Terlano,Blauburgunder Monticol Cantina Terlano,,BOTTLE,2020,5800,,50,,Pinot Noir Riserva Monticol,Terlan (Terlano),wine_01gzr4ksn5agw365140he6yvs3,5313357,45.274033
+TRUE,,RED,Pinot Nero Ris. St. Daniel Colterenzio,Pinot Nero Ris. St. Daniel Colterenzio,,BOTTLE,2020,4500,,50,,St. Daniel Pinot Nero (Blauburgunder) Riserva,Colterenzio (Schreckbichl),wine_01gzr4kskv33cewkey32djev36,11193,35.955338
+TRUE,,RED,Pinot Nero Franz Hass,Pinot Nero Franz Hass,,BOTTLE,2021,7000,,50,,Pinot Nero,Franz Haas,wine_01gzr4ksknmd61hkk9sxtdtzj7,15222,33.74255
+TRUE,,RED,Pinot Nero Ludwig Elena Walch,Pinot Nero Ludwig Elena Walch,,BOTTLE,2020,7800,,50,,Ludwig Pinot Nero,Elena Walch,wine_01gzr4kt163y4xhj4xhmpssq3w,,55.236656
+TRUE,,RED,"Cabernet ""Istrice"" Elena Walch","Cabernet ""Istrice"" Elena Walch",,BOTTLE,2020,4900,,50,,Cabernet Istrice,Elena Walch,wine_01gzr4kt16820wjbdg9fbdw024,,50.309513
+TRUE,,RED,Lagrein Perl Cantina Bolzano,Lagrein Perl Cantina Bolzano,,BOTTLE,2021,3800,,50,,Lagrein Perl,Cantina Bolzano / Kellerei Bozen,wine_01h0my5rkh9wf5mefat3mtejex,,36.606884
+TRUE,,RED,Lagrein Lindenburg Alois Lageder,Lagrein Lindenburg Alois Lageder,,BOTTLE,2019,6500,,50,,Lindenburg,Alois Lageder,wine_01h0my5rfe2x7jggx24wkac8xh,,49.396996
+TRUE,,RED,Lagrein Dunkel Gries Cantina Terlano,Lagrein Dunkel Gries Cantina Terlano,,BOTTLE,2020,5500,,50,,Lagrein Riserva Gries,Terlan (Terlano),wine_01gzr4ksn5yach7bbmsg2nehj3,1211120,46.986843
+TRUE,,RED,Lagrain Taber Cantina Bolzano,Lagrain Taber Cantina Bolzano,,BOTTLE,2020,9000,,50,,Lagrein Riserva Taber,Cantina Bolzano / Kellerei Bozen,wine_01h0my5rkg9tcrx4kt4gktkckn,,36.79338
+TRUE,,RED,Merlot Antiope Morandell,Merlot Antiope Morandell,,BOTTLE,2022,4000,,50,,Antiope Merlot,Morandell,wine_01h0my5rkb9xpc0erc7n5bekdk,,40.399544
+TRUE,,RED,Merlot Riserva Siebeneich Cantina Terlano,Merlot Riserva Siebeneich Cantina Terlano,,BOTTLE,2018,5500,,50,,Merlot Riserva Siebeneich,Terlan (Terlano),wine_01gzr4ksn5y4nmgm36x8hcwy1b,1277087,54.711952
+TRUE,,RED,Merlot Franz Hass,Merlot Franz Hass,,BOTTLE,2020,6300,,50,,Merlot,Franz Haas,wine_01h0qzm1c51fxckf7mmzpye3ke,,29.377245
+TRUE,,RED,Merlot Riserva Kastelaz Elena Walch,Merlot Riserva Kastelaz Elena Walch,,BOTTLE,2018,8500,,50,,Kastelaz Riserva Merlot,Elena Walch,wine_01gzr4kt16jr9a27wz76vak55e,,54.239326
+TRUE,,RED,Teroldego Foradori,Teroldego Foradori,,BOTTLE,2021,3800,,50,,Foradori - Teroldego,Foradori,wine_01gzr4ksncvp37mta9qdwkb23w,60354,48.00953
+TRUE,,RED,Cabernet Franc Venica,Cabernet Franc Venica,,BOTTLE,2020,3800,,50,,Cabernet Franc,Venica & Venica,wine_01gzr4ksm64fgez8c07qc41bdr,1362053,34.99228
+TRUE,,RED,Sdencina Rosso (Schioppettino-Refosco) Tenuta Stella,Sdencina Rosso (Schioppettino-Refosco) Tenuta Stella,,BOTTLE,2019,3500,,50,,Sdencina Rosso,Tenuta Stella,wine_01h0sq47maz1xvs8ynjz652m5z,,42.611565
+TRUE,,RED,Merlot Tunella,Merlot Tunella,,BOTTLE,2021,3500,,50,,Merlot,La Tunella,wine_01h0qzm19rx4g8k56bt6t842he,,26.012545
+TRUE,,RED,Merlot Vistorta Conte Brandolini,Merlot Vistorta Conte Brandolini,,BOTTLE,2015,5400,,50,,Il Vistorta Merlot,Conte Brandolini,wine_01gzr4kt3q8mp8305kt2cmh353,,44.62743
+TRUE,,RED,Schioppettino Borgo Conventi,Schioppettino Borgo Conventi,,BOTTLE,2019,3900,,50,,Schioppettino Venezia Giulia,Borgo Conventi,wine_01h0my5svsjpk5gfgmyf0ma68n,,40.38241
+TRUE,,RED,Pignolo Tunella,Pignolo Tunella,,BOTTLE,2018,5500,,50,,Pignolo,La Tunella,wine_01h0qzm19qmqqjt6pz68djmjwb,,33.3733
+TRUE,,RED,Vespa Rosso (Merlot–Refosco–Cab. Sauv.) Bastianich,Vespa Rosso (Merlot–Refosco–Cab. Sauv.) Bastianich,,BOTTLE,2016,6000,,50,,Vespa Rosso,Bastianich,wine_01h0my5sgpmh61m2zhaysas144,,43.69109
+TRUE,,RED,Barbera d’Alba Oddero,Barbera d’Alba Oddero,,BOTTLE,2020,3800,,50,,Barbera D''Alba,Oddero,wine_01h0my5sdaqkhbqya18v7nz9q6,,31.780483
+TRUE,,RED,Dolcetto d’Alba Ceretto,Dolcetto d’Alba Ceretto,,BOTTLE,2021,3500,,50,,Dolcetto D''Alba Rossana,Ceretto,wine_01gzr4kt6epdnjf9qax3c3x132,,33.24568
+TRUE,,RED,Nebbiolo d'Alba Albino Rocca,Nebbiolo d'Alba Albino Rocca,,BOTTLE,2021,4500,,50,,Nebbiolo d''Alba,Albino Rocca,wine_01gzr4kt6wd89wz0mavcrbxenm,,39.303463
+TRUE,,RED,Barolo Ceretto,Barolo Ceretto,,BOTTLE,2018,12000,,50,,Barolo,Ceretto,wine_01gzr4kt6dg12ga74cyqmag57t,,33.145924
+TRUE,,RED,Barolo Castiglione Vietti,Barolo Castiglione Vietti,,BOTTLE,2019,12000,,50,,Barolo Castiglione,Vietti,wine_01gzr4kt7rmtqah8vf04j2jwxa,,43.99639
+TRUE,,RED,Barolo Brunate Ceretto,Barolo Brunate Ceretto,,BOTTLE,2016,21000,,50,,Barolo Brunate,Ceretto,wine_01gzr4kt6eyea97wmmagbfda3y,,43.48478
+TRUE,,RED,Barbaresco Asili Ca Del Baio,Barbaresco Asili Ca Del Baio,,BOTTLE,2019,10000,,50,,Asili Barbaresco,Ca’ del Baio,wine_01h0my5sc8rj85z2agynpqdy1c,,49.2175
+TRUE,,RED,Barbaresco Masseria Vietti,Barbaresco Masseria Vietti,,BOTTLE,2019,22000,,50,,Barbaresco Masseria,Vietti,wine_01gzr4kt7rvmcx88gn29mpy8g6,,41.242188
+TRUE,,RED,Barbaresco Gaja,Barbaresco Gaja,,BOTTLE,2017,42000,,50,,Barbaresco,Gaja,wine_01gzr4ksd3m8y62ggabzd1kdmg,66104,31.460903
+TRUE,,RED,Barbaresco Sori Tildin Gaja,Barbaresco Sori Tildin Gaja,,BOTTLE,1996,80500,,50,,Sorì Tildìn (Barbaresco) Langhe,Gaja,wine_01gzr4ksppz9ywca81hkm70s5r,66134,43.09851
+TRUE,,RED,Villa Antinori Rosso Antinori,Villa Antinori Rosso Antinori,,BOTTLE,2020,3500,,50,,Villa Antinori Rosso,Antinori,wine_01gzr4ksd1h92b8zw54j1dbj0q,1656,73.31497
+TRUE,,RED,"Chianti Classico ""Pèppoli"" Antinori","Chianti Classico ""Pèppoli"" Antinori",,BOTTLE,2021,3800,,50,,Pèppoli Chianti Classico,Antinori,wine_01gzr4ksd1qj0jje38pjazzgjz,1655,43.288284
+TRUE,,RED,Chianti Classico Riserva La Forra Tenuta Di Nozzole,Chianti Classico Riserva La Forra Tenuta Di Nozzole,,BOTTLE,2019,5200,,50,,Nozzole Chianti Classico Riserva,Tenuta di Nozzole,wine_01gzr4kt84cmhk8z6y4gc6w8r9,,53.80918
+TRUE,,RED,Pomino Rosso (Pinot Nero) Frescobaldi,Pomino Rosso (Pinot Nero) Frescobaldi,,BOTTLE,2020,3600,,50,,Pomino Rosso (Pinot Nero),Castello Pomino,wine_01gzr4kss4x8xbvw2spdwcpnzd,1136952,40.761475
+TRUE,,RED,Rosso di Montalcino Biondi Santi,Rosso di Montalcino Biondi Santi,,BOTTLE,2019,12000,,50,,Rosso di Montalcino,Biondi-Santi,wine_01gzr4kt7vqgypgv5wdesvhzj3,,44.04319
+TRUE,,RED,Guidalberto Tenuta San Guido,Guidalberto Tenuta San Guido,,BOTTLE,2021,9000,,50,,Guidalberto,Tenuta San Guido,wine_01gzr4ksnx8asdj89jfbepz68c,5080,47.92361
+TRUE,,RED,Pino di Biserno Tenuta di Biserno Lodovico Antinori,Pino di Biserno Tenuta di Biserno Lodovico Antinori,,BOTTLE,2020,10000,,50,,Il Pino di Biserno,Biserno,wine_01gzr4ktfgp9e2x9h8da6w61wy,,85.18706
+TRUE,,RED,Brunello di Montalcino Pian Delle Vigne Antinori,Brunello di Montalcino Pian Delle Vigne Antinori,,BOTTLE,2018,10500,,50,,Pian delle Vigne Brunello di Montalcino,Antinori,wine_01gzr4ksswss4ksj7tngxj6dk5,1675,46.34144
+TRUE,,RED,Brunello di Montalcino Vigna Marrucheto Banfi,Brunello di Montalcino Vigna Marrucheto Banfi,,BOTTLE,2017,10500,,50,,Vigna Marrucheto Brunello di Montalcino,Banfi,wine_01gzr4ksgcez09p3mmj3mtfe1m,9665437,48.044712
+TRUE,,RED,Brunello di Montalcino Vignaferrovia Antinori,Brunello di Montalcino Vignaferrovia Antinori,,BOTTLE,2016,19500,,50,,Pian delle Vigne Vignaferrovia Brunello di Montalcino Riserva,Antinori,wine_01gzr4ksswmqzp04j2hn059yky,1247975,39.212467
+TRUE,,RED,Brunello di Montalcino Biondi Santi,Brunello di Montalcino Biondi Santi,,BOTTLE,2013,30000,,50,,Brunello di Montalcino,Biondi-Santi,wine_01gzr4ksd3w8328ttr5b1njkxs,1558589,46.800186
+TRUE,,RED,Brunello di Montalcino Biondi Santi,Brunello di Montalcino Biondi Santi,,BOTTLE,2016,37000,,50,,Brunello di Montalcino,Biondi-Santi,wine_01gzr4ksd3w8328ttr5b1njkxs,1558589,46.800186
+TRUE,,RED,Brunello di Montalcino Biondi Santi,Brunello di Montalcino Biondi Santi,,BOTTLE,2017,37000,,50,,Brunello di Montalcino,Biondi-Santi,wine_01gzr4ksd3w8328ttr5b1njkxs,1558589,46.800186
+TRUE,,RED,Brunello di Montalcino Riserva Biondi Santi,Brunello di Montalcino Riserva Biondi Santi,,BOTTLE,2016,110000,,50,,Brunello di Montalcino Riserva,Biondi-Santi,wine_01gzr4ksd9rdtvnd5fjvjwac8b,82698,48.487366
+TRUE,,RED,Tignanello Antinori,Tignanello Antinori,,BOTTLE,2020,20000,,50,,Tignanello,Antinori,wine_01gzr4ksswn8cnrh7jb8qff1wy,1652,37.087296
+TRUE,,RED,Dedicato a Walter (Cabernet Franc) Poggio al Tesoro,Dedicato a Walter (Cabernet Franc) Poggio al Tesoro,,BOTTLE,2015,27000,,50,,Dedicato a Walter Bolgheri Superiore,Poggio Al Tesoro,wine_01gzr4ksdgh54v8hf7ph1gh46z,1420000,51.746063
+TRUE,,RED,Sassicaia (Cab. Sauv.–Cab. Franc) Tenuta San Guido,Sassicaia (Cab. Sauv.–Cab. Franc) Tenuta San Guido,,BOTTLE,2019,41000,,50,,Sassicaia,Tenuta San Guido,wine_01gzr4ksd13hpy7q0n03dkf2wb,5078,44.910614
+TRUE,,RED,Ornellaia (Cab. Sauv.– Mer.–Cab. F.–Petit Verdot) Tenuta dell'Ornellaia,Ornellaia (Cab. Sauv.– Mer.–Cab. F.–Petit Verdot) Tenuta dell'Ornellaia,,BOTTLE,2019,37000,,50,,Ornellaia,Ornellaia,wine_01hfvgk1q39g2jv68bzta79nbe,,41.25741
+TRUE,,RED,Ornellaia (Cab. Sauv.– Mer.–Cab. F.–Petit Verdot) Tenuta dell'Ornellaia,Ornellaia (Cab. Sauv.– Mer.–Cab. F.–Petit Verdot) Tenuta dell'Ornellaia,,BOTTLE,2020,37000,,50,,Ornellaia,Ornellaia,wine_01hfvgk1q39g2jv68bzta79nbe,,41.25741
+TRUE,,RED,"Chianti Classico Vigneto ""Bellavista"" Castello di Ama","Chianti Classico Vigneto ""Bellavista"" Castello di Ama",,BOTTLE,2015,32000,,50,,Vigneto Bellavista Chianti Classico,Castello di Ama,wine_01gzr4kss5z5bbr4hnsrf4t5b8,1647685,50.386387
+TRUE,,RED,"Chianti Classico Vigneto ""La Casuccia"" Castello di Ama","Chianti Classico Vigneto ""La Casuccia"" Castello di Ama",,BOTTLE,2013,32000,,50,,Vigneto La Casuccia Chianti Classico Gran Selezione,Castello di Ama,wine_01gzr4kss5r52yc8xcfn7xh7qj,1180658,47.69981
+TRUE,,WHITE,Palazzi Tenuta di Trinoro,Palazzi Tenuta di Trinoro,,BOTTLE,2015,39000,,50,,Bianco di Trinoro,Tenuta di Trinoro,wine_01gzr4kt81tmc3ctvxqtct4x2m,,47.921947
+TRUE,,RED,Lodovico Tenuta Di Biserno,Lodovico Tenuta Di Biserno,,BOTTLE,2019,120000,,50,,Lodovico,Biserno,wine_01h0my5sr74yzfbj0q7yfkkmg7,,44.383354
+TRUE,,RED,Montiano (Merlot) Cotarella,Montiano (Merlot) Cotarella,,BOTTLE,2019,14500,,50,,Montiano,Cotarella,wine_01gzr4ktvv996ctebcg07w2w3t,,39.853325
+TRUE,,RED,Gutturnio Riserva Tenuta Pozzolo,Gutturnio Riserva Tenuta Pozzolo,,BOTTLE,2019,2700,,50,,Gutturnio Riserva,Pozzolo,wine_01hcwsykxc6a7s7z6xwnxakten,,42.45447
+TRUE,,RED,Cumaro Rosso Conero Riserva (Montepulciano) Umani Ronchi,Cumaro Rosso Conero Riserva (Montepulciano) Umani Ronchi,,BOTTLE,2018,4800,,50,,Cùmaro Conero Riserva,Umani Ronchi,wine_01gzr4kt6y85rz65yhd1c6wx1e,,55.58512
+TRUE,,RED,Pelago (Cab. Sauv–Montepulciano–Merlot) Umani Ronchi,Pelago (Cab. Sauv–Montepulciano–Merlot) Umani Ronchi,,BOTTLE,2018,6500,,50,,Pelago Marche Rosso,Umani Ronchi,wine_01gzr4ktsxpkg24amr15814y8x,,45.195663
+TRUE,,RED,Mossone (Merlot) Stefano Antonucci,Mossone (Merlot) Stefano Antonucci,,BOTTLE,2018,9000,,50,,Mossone,Azienda Santa Barbara - Stefano Antonucci,wine_01gzr4ksqqvvpe7zfap6ewmv8a,2542844,35.289207
+TRUE,,RED,"Primitivo di Manduria ""Rosso di Vespa” Bruno Vespa","Primitivo di Manduria ""Rosso di Vespa” Bruno Vespa",,BOTTLE,2021,3200,,50,,Il Rosso dei Vespa Primitivo di Manduria,Vespa,wine_01h0my5sjat0va60rhms3m59s8,,81.876305
+TRUE,,RED,"Primitivo di Manduria “Raccontami"" Bruno Vespa","Primitivo di Manduria “Raccontami"" Bruno Vespa",,BOTTLE,2019,6000,,50,,Raccontami Primitivo di Manduria,Vespa,wine_01h0qzm023mh9s9jjd32spm5nn,,50.432724
+TRUE,,RED,Harmonium (Nero d'Avola) Firriato,Harmonium (Nero d'Avola) Firriato,,BOTTLE,2018,4900,,50,,Harmonium Nero d''Avola,Firriato,wine_01h0qzm14pzd1ph8rcr79nwbf5,,38.72027
+TRUE,,RED,Reseca (Nerello mascalese) Gulfi,Reseca (Nerello mascalese) Gulfi,,BOTTLE,2015,5100,,50,,Reseca,Gulfi,wine_01gzr4kths8ytbymxznp09befv,,33.17463
+TRUE,,RED,Etna Rosso Munjebel Frank Cornlissen,Etna Rosso Munjebel Frank Cornlissen,,BOTTLE,2021,7700,,50,,MunJebel Rosso,Frank Cornelissen,wine_01h0qzm1bwdqt9nfpb5qxwyvps,,48.83441
+TRUE,,RED,Syrah Maroccoli Planeta,Syrah Maroccoli Planeta,,BOTTLE,2018,6000,,50,,Maroccoli Syrah,Planeta,wine_01gzr4kssa0d01856gqtswwq77,4994,41.95378
+TRUE,,RED,Santa Cecilia (Nero d'avola) Planeta,Santa Cecilia (Nero d'avola) Planeta,,BOTTLE,2018,6000,,50,,Santa Cecilia Nero d''Avola,Planeta,wine_01gzr4kssa7297yvqc3y3x7kjb,5002,40.260498
+TRUE,,RED,Terre Brune (Carignano del Sulcis) Santadi,Terre Brune (Carignano del Sulcis) Santadi,,BOTTLE,2018,9500,,50,,Terre Brune Superiore Carignano del Sulcis,Santadi,wine_01gzr4ksd5hs1kypzwwahstsxb,17998,52.243446
+TRUE,,RED,Bourgogne Hautes Cotes De Beaune Domaine Lucien Jacob,Bourgogne Hautes Cotes De Beaune Domaine Lucien Jacob,,BOTTLE,2019,9500,,50,,Bourgogne Hautes-Côtes de Beaune,Domaine Lucien Jacob,wine_01h0my5swfx863trys48d929qs,,47.245026
+TRUE,,RED,Volnay 1er Cru Robardelle Reyane & Pascal Bouley,Volnay 1er Cru Robardelle Reyane & Pascal Bouley,,BOTTLE,2019,11500,,50,,Volnay 1er Cru ''Robardelle'',Domaine Réyane et Pascal Bouley,wine_01harvcmcqyfpc5svnb9tv8fe4,,52.39176
+TRUE,,RED,Pommard Reyane & Pascal Bouley,Pommard Reyane & Pascal Bouley,,BOTTLE,2019,11500,,50,,Pommard,Domaine Réyane et Pascal Bouley,wine_01harvcm2zw2nwy4gkqejg8xye,,38.95478
+TRUE,,RED,Pommard Chanson,Pommard Chanson,,BOTTLE,2021,13000,,50,,Pommard,Chanson,wine_01gzr4ktkqjpms3cqysfeyt2kp,,28.03709
+TRUE,,RED,Nuits-Saint-Georges Chanson,Nuits-Saint-Georges Chanson,,BOTTLE,2017,11200,,50,,Nuits-Saint-Georges,Chanson,wine_01gzr4ktkq0n3z684qjkvgyj3w,,34.90476
+TRUE,,RED,Nuits-Saint-Georges Aurelien Verdet,Nuits-Saint-Georges Aurelien Verdet,,BOTTLE,2019,14000,,50,,Nuits-Saint-Georges,Aurélien Verdet,wine_01havwee2bw4czc2fkw8bg6nme,,50.34592
+TRUE,,RED,Morey Saint Denis Aurelien Verdet,Morey Saint Denis Aurelien Verdet,,BOTTLE,2019,16000,,50,,Morey-Saint-Denis,Aurélien Verdet,wine_01hcwvb3khkjxhcvnbvq1b8mdh,,53.129654
+TRUE,,RED,Volnay 1er Cru Fremiets Marchand Tawse,Volnay 1er Cru Fremiets Marchand Tawse,,BOTTLE,2018,21000,,50,,Volnay 1er Cru ''Fremiets'',Domaine Tawse,wine_01hawwcxndk7tcd8yhedb4cq6x,,39.316204
+TRUE,,RED,Bonnes Mares Grand Cru Lucien de Moine,Bonnes Mares Grand Cru Lucien de Moine,,BOTTLE,2015,83000,,50,,Bonnes-Mares Grand Cru,Lucien le Moine,wine_01h0r2pp6qc07hsx8fgqhkgaqh,,49.388683
+TRUE,,RED,Nuits St. Georges 1er Cru Domaine Des Perdrix,Nuits St. Georges 1er Cru Domaine Des Perdrix,,BOTTLE,2013,25000,,50,,Nuits-Saint-Georges Aux Perdrix Premier Cru,Domaine des Perdrix,wine_01h4pmmgj4gywhcb38aqmmk9wb,,40.802143
+TRUE,,RED,Vacqueyras Le Village Montirius,Vacqueyras Le Village Montirius,,BOTTLE,2020,5000,,50,,Le Village Vacqueyras,Montirius,wine_01gzr4ktvyw9ns9whe0403abb1,,43.443848
+TRUE,,RED,Cote-Rotie' Domanie Burgaud,Cote-Rotie' Domanie Burgaud,,BOTTLE,2017,17000,,50,,Côte-Rôtie,Bernard Burgaud,wine_01harvcmbbbe9rxzfpkqp0j6nz,,31.941536
+TRUE,,RED,Merlot Vistorta Conte Brandolini,Merlot Vistorta Conte Brandolini,,MAGNUM,2013,13000,,50,,Il Vistorta Merlot,Conte Brandolini,wine_01gzr4kt3q8mp8305kt2cmh353,,44.62743
+TRUE,,RED,Braida Nuova Borgo Conventi,Braida Nuova Borgo Conventi,,MAGNUM,2013,8700,,50,,Braida Nuova,Borgo Conventi,wine_01gzr4kt5fecne1525skqy0xh1,,54.245613
+TRUE,,RED,"Valpolicella “Ripasso” Palazzo delle Torre"" Allegrini","Valpolicella “Ripasso” Palazzo delle Torre"" Allegrini",,MAGNUM,2019,10000,,50,,Palazzo della Torre,Allegrini,wine_01h0my5sa02ad24d2x408hzb0v,,44.55046
+TRUE,,RED,Valpolicella Ripasso Zenato,Valpolicella Ripasso Zenato,,MAGNUM,2018,12500,,50,,Ripassa Valpolicella Ripasso Superiore,Zenato,wine_01gzr4ksd1fnr67jf8jfan1y6x,1380075,36.898117
+TRUE,,RED,Venegazzù Capo di Stato Loredan Gasparini,Venegazzù Capo di Stato Loredan Gasparini,,MAGNUM,2016,24000,,50,,Capo di Stato,Loredan Gasparini,wine_01gzr4kt32adfgha7rj4d20qxn,,62.259983
+TRUE,,RED,Amarone Costasera Riserva Masi,Amarone Costasera Riserva Masi,,MAGNUM,2016,37000,,50,,Amarone della Valpolicella Classico Riserva Costasera,Masi,wine_01gzr4kt1x6ajfw8xnmfax6dmj,,30.237885
+TRUE,,RED,Blauburgunder Riserva Mazon Hofstätter,Blauburgunder Riserva Mazon Hofstätter,,MAGNUM,2019,17500,,50,,Mazon Riserva,J. Hofstätter,wine_01h0qzm1vf1xzamprrnxx0043s,,34.08167
+TRUE,,RED,"Blauburgunder Barthenau ""Vigna S.Urbano"" Hofstätter","Blauburgunder Barthenau ""Vigna S.Urbano"" Hofstätter",,MAGNUM,2013,29000,,50,,Barthenau Vigna S. Urbano,J. Hofstätter,wine_01h0b4rjgpder3smhfakv2fcdv,,41.579964
+TRUE,,RED,Lagrein Riserva Taber Cant. Bolzano,Lagrein Riserva Taber Cant. Bolzano,,MAGNUM,2018,19000,,50,,Lagrein Riserva Taber,Cantina Bolzano / Kellerei Bozen,wine_01h0my5rkg9tcrx4kt4gktkckn,,35.02071
+TRUE,,RED,Barbaresco Asili Ca Del Baio,Barbaresco Asili Ca Del Baio,,MAGNUM,2019,23000,,50,,Asili Barbaresco,Ca’ del Baio,wine_01h0my5sc8rj85z2agynpqdy1c,,49.2175
+TRUE,,RED,Barolo Castiglione Vietti,Barolo Castiglione Vietti,,MAGNUM,2019,22000,,50,,Barolo Castiglione,Vietti,wine_01gzr4kt7rmtqah8vf04j2jwxa,,43.99639
+TRUE,,RED,Barolo Brunate Ceretto,Barolo Brunate Ceretto,,MAGNUM,2016,43000,,50,,Barolo Brunate,Ceretto,wine_01gzr4kt6eyea97wmmagbfda3y,,43.48478
+TRUE,,RED,Barolo Bussia Ceretto,Barolo Bussia Ceretto,,MAGNUM,2015,55000,,50,,Bussia Barolo,Ceretto,wine_01gzr4kt6eya318dp2ab2ndw5q,,42.187836
+TRUE,,RED,Barbaresco Masseria Vietti,Barbaresco Masseria Vietti,,MAGNUM,2019,48000,,50,,Barbaresco Masseria,Vietti,wine_01gzr4kt7rvmcx88gn29mpy8g6,,41.242188
+TRUE,,RED,Pino di Biserno Tenuta di Biserno Lodovico Antinori,Pino di Biserno Tenuta di Biserno Lodovico Antinori,,MAGNUM,2020,24000,,50,,Il Pino di Biserno,Biserno,wine_01gzr4ktfgp9e2x9h8da6w61wy,,85.18706
+TRUE,,RED,Tignanello Antinori,Tignanello Antinori,,MAGNUM,2020,45000,,50,,Tignanello,Antinori,wine_01gzr4ksswn8cnrh7jb8qff1wy,1652,37.087296
+TRUE,,RED,Brunello di Montalcino Pian Delle Vigne Antinori,Brunello di Montalcino Pian Delle Vigne Antinori,,MAGNUM,2018,22000,,50,,Pian delle Vigne Brunello di Montalcino,Antinori,wine_01gzr4ksswss4ksj7tngxj6dk5,1675,46.34144
+TRUE,,RED,Brunello di Montalcino Biondi Santi,Brunello di Montalcino Biondi Santi,,MAGNUM,2017,85000,,50,,Brunello di Montalcino,Biondi-Santi,wine_01gzr4ksd3w8328ttr5b1njkxs,1558589,46.800186
+TRUE,,RED,Sassicaia (Cab. Sauv.–Cab. Franc) Tenuta San Guido,Sassicaia (Cab. Sauv.–Cab. Franc) Tenuta San Guido,,MAGNUM,2019,98000,,50,,Sassicaia,Tenuta San Guido,wine_01gzr4ksd13hpy7q0n03dkf2wb,5078,44.910614
+TRUE,,RED,Sassicaia (Cab. Sauv.–Cab. Franc) Tenuta San Guido,Sassicaia (Cab. Sauv.–Cab. Franc) Tenuta San Guido,,MAGNUM,2018,90000,,50,,Sassicaia,Tenuta San Guido,wine_01gzr4ksd13hpy7q0n03dkf2wb,5078,44.910614
+TRUE,,RED,Sassicaia (Cab. Sauv.–Cab. Franc) Tenuta San Guido,Sassicaia (Cab. Sauv.–Cab. Franc) Tenuta San Guido,,MAGNUM,2007,98000,,50,,Sassicaia,Tenuta San Guido,wine_01gzr4ksd13hpy7q0n03dkf2wb,5078,44.910614
+TRUE,,RED,Sassicaia (Cab. Sauv.–Cab. Franc) Tenuta San Guido,Sassicaia (Cab. Sauv.–Cab. Franc) Tenuta San Guido,,MAGNUM,2006,98000,,50,,Sassicaia,Tenuta San Guido,wine_01gzr4ksd13hpy7q0n03dkf2wb,5078,44.910614
+TRUE,,RED,Sassicaia (Cab. Sauv.–Cab. Franc) Tenuta San Guido,Sassicaia (Cab. Sauv.–Cab. Franc) Tenuta San Guido,,MAGNUM,2005,98000,,50,,Sassicaia,Tenuta San Guido,wine_01gzr4ksd13hpy7q0n03dkf2wb,5078,44.910614
+TRUE,,RED,Lodovico Tenuta di Biserno Lodovico Antinori,Lodovico Tenuta di Biserno Lodovico Antinori,,MAGNUM,2019,180000,,50,,Lodovico,Biserno,wine_01h0my5sr74yzfbj0q7yfkkmg7,,59.391388
+TRUE,,RED,Lodovico Tenuta di Biserno Lodovico Antinori,Lodovico Tenuta di Biserno Lodovico Antinori,,MAGNUM,2015,270000,,50,,Lodovico,Biserno,wine_01h0my5sr74yzfbj0q7yfkkmg7,,59.391388
+TRUE,,RED,Nuits-Saint-Georges 1er Cru Alain Michelot,Nuits-Saint-Georges 1er Cru Alain Michelot,,MAGNUM,1996,59000,,50,,Nuits-Saint-Georges 1er Cru ''Les Saint Georges'',Domaine Alain Michelot,wine_01gzr4ksv5b6dv4e44317fymyq,1927193,43.41373
+TRUE,,RED,Les 8 Ouvrées 1er Cru Domaine Des Perdrix,Les 8 Ouvrées 1er Cru Domaine Des Perdrix,,MAGNUM,2013,62500,,50,,Les 8 Ouvrèes Nuits-Saint-Georges Premier Cru ''Aux Perdrix'',Domaine des Perdrix,wine_01hawwcxcf5n3hadkfgxecekjr,,51.82602
+TRUE,,ROSE,Rosè Et Or (6 litri) Minuty,Rosè Et Or (6 litri) Minuty,,MATHUSALEM,2018,45000,,50,,Rose et Or,Minuty,wine_01h0my5t6ek7b2kpec0cffk0w7,,41.425064
+TRUE,,RED,Blauburgunder Riserva Mazon (3litri) Hofstätter,Blauburgunder Riserva Mazon (3litri) Hofstätter,,JEROBOAM,2018,36000,,50,,Mazon Riserva,J. Hofstätter,wine_01h0qzm1vf1xzamprrnxx0043s,,34.08167
+TRUE,,RED,"Blauburgunder Barthenau ""Vigna S. Urbano"" (3litri) Hofstätter","Blauburgunder Barthenau ""Vigna S. Urbano"" (3litri) Hofstätter",,JEROBOAM,2005,46000,,50,,Barthenau Vigna S. Urbano,J. Hofstätter,wine_01h0b4rjgpder3smhfakv2fcdv,,47.30211
+TRUE,,RED,Tignanello (3 Litri) Antinori,Tignanello (3 Litri) Antinori,,JEROBOAM,2020,88500,,50,,Tignanello,Antinori,wine_01gzr4ksswn8cnrh7jb8qff1wy,1652,37.087296
+TRUE,,RED,Ornellaia (3 Litri) Tenuta dell'Ornellaia,Ornellaia (3 Litri) Tenuta dell'Ornellaia,,JEROBOAM,2019,174000,,50,,Ornellaia,Ornellaia,wine_01hfvgk1q39g2jv68bzta79nbe,,41.25741
+TRUE,,RED,Sassicaia (3litri) Tenuta San Guido,Sassicaia (3litri) Tenuta San Guido,,JEROBOAM,2004,195000,,50,,Sassicaia,Tenuta San Guido,wine_01gzr4ksd13hpy7q0n03dkf2wb,5078,44.910614
+TRUE,,RED,Lodovico (3litri) Tenuta di Biserno,Lodovico (3litri) Tenuta di Biserno,,JEROBOAM,2017,250000,,50,,Lodovico,Biserno,wine_01h0my5sr74yzfbj0q7yfkkmg7,,44.383354
+TRUE,,RED,Guidalberto (6 litri) Tenuta San Guido,Guidalberto (6 litri) Tenuta San Guido,,MATHUSALEM,2017,115000,,50,,Guidalberto,Tenuta San Guido,wine_01gzr4ksnx8asdj89jfbepz68c,5080,47.92361
+TRUE,,RED,Ornellaia (6 litri) Tenuta dell’Ornellaia,Ornellaia (6 litri) Tenuta dell’Ornellaia,,MATHUSALEM,2015,415000,,50,,Ornellaia,Ornellaia,wine_01hfvgk1q39g2jv68bzta79nbe,,41.25741
+TRUE,,RED,Barolo Castiglione Vietti,Barolo Castiglione Vietti,,HALF_BOTTLE,2019,5500,,50,,Barolo Castiglione,Vietti,wine_01gzr4kt7rmtqah8vf04j2jwxa,,43.99639
+TRUE,,RED,Venegazzù Capo di Stato Loredan Gasparini,Venegazzù Capo di Stato Loredan Gasparini,,HALF_BOTTLE,2016,5400,,50,,Capo di Stato,Loredan Gasparini,wine_01gzr4kt32adfgha7rj4d20qxn,,62.259983
+TRUE,,RED,"Chianti Classico ""Pèppoli"" Antinori","Chianti Classico ""Pèppoli"" Antinori",,HALF_BOTTLE,2022,5400,,50,,Pèppoli Chianti Classico,Antinori,wine_01gzr4ksd1qj0jje38pjazzgjz,1655,43.288284
+TRUE,,RED,Amarone della Valpolicella Costasera Masi,Amarone della Valpolicella Costasera Masi,,HALF_BOTTLE,2017,6600,,50,,Costasera Amarone della Valpolicella Classico,Masi,wine_01gzr4ksd1hjdw9h6nhb6ar8vq,21929,37.237732
+TRUE,,RED,Ornellaia (Cab. Sauv.– Mer.–Cab. F.–Petit Verdot) Tenuta dell’Ornellaia,Ornellaia (Cab. Sauv.– Mer.–Cab. F.–Petit Verdot) Tenuta dell’Ornellaia,,HALF_BOTTLE,2019,21000,,50,,Ornellaia,Ornellaia,wine_01hfvgk1q39g2jv68bzta79nbe,,41.25741
+TRUE,,DESSERT,"Recioto di Soave ""Le Colombare"" 500 ml Pieropan","Recioto di Soave ""Le Colombare"" 500 ml Pieropan",,HALF_LITER,2018,5200,,50,,Le Colombare Recioto di Soave,Pieropan,wine_01gzr4ksj4ze4d48mpakx2fn7g,22948,49.628227
+TRUE,,WHITE,Maximo (Botrytis Cinerea) 375 ml Umani Ronchi,Maximo (Botrytis Cinerea) 375 ml Umani Ronchi,,HALF_BOTTLE,2014,4300,,50,,Maximo Marche Bianco,Umani Ronchi,wine_01gzr4ktsx5x6gn5he1zatqjcz,,44.317863
+TRUE,,WHITE,Angialis 375 ml Argiolas,Angialis 375 ml Argiolas,,HALF_BOTTLE,2016,7500,,50,,Angialis Isola dei Nuraghi,Argiolas,wine_01gzr4ksrxd6tvkzjej7b1156n,1678436,34.680965
+TRUE,,SPARKLING,Prosecco Brut DOCG Adami,Prosecco Brut DOCG Adami,,BOTTLE,,2500,,50,,Valdobbiadene Cuvée Brut,So Prosecco,wine_01h0my5rc9ex24y13150cfyabp,,
+TRUE,,FORTIFIED,Cartizze DRY docg Adami,Cartizze DRY docg Adami,,BOTTLE,,5500,,50,,Doc''s Old Tawny Port,Doc Adams,wine_01h0my5rc9sc4kgfyagy0bzenm,,
+TRUE,,SPARKLING,Ferrari Perlè F.lli Lunelli,Ferrari Perlè F.lli Lunelli,,BOTTLE,2017,7000,,50,,Riserva Lunelli,Ferrari,wine_01gzr4ksccj35519kgnp4kw2ym,,
+TRUE,,SPARKLING,Ferrari Rose' F.lli Lunelli,Ferrari Rose' F.lli Lunelli,,BOTTLE,2016,9000,,50,,Riserva Lunelli,Ferrari,wine_01gzr4ksccj35519kgnp4kw2ym,,
+TRUE,,SPARKLING,Giulio Ferrrari Rose' F.lli Lunelli,Giulio Ferrrari Rose' F.lli Lunelli,,BOTTLE,2009,39000,,50,,'Giulio Ferrari'' Riserva del Fondatore,Ferrari,wine_01gzr4ksccq9qvb5ca95t2nzgm,,
+TRUE,,WHITE,Riserva Bruno Lunelli F.lli Lunelli,Riserva Bruno Lunelli F.lli Lunelli,,BOTTLE,2006,120000,,50,,La Réserve de Bruno,Bruno Cormerais,wine_01gzr4ksccy7w7sgfv1g5hhygr,,
+TRUE,,SPARKLING,Franciacorta Brut Il Mosnel,Franciacorta Brut Il Mosnel,,BOTTLE,,4400,,50,,Franciacorta Brut,Mosnel,wine_01h0f3cmbs8fbbastjd1d0scyd,,
+TRUE,,SPARKLING,Franciacorta Cuvèe Prestige Rose' Cà del Bosco,Franciacorta Cuvèe Prestige Rose' Cà del Bosco,,BOTTLE,,10000,,50,,Franciacorta Cuvée Prestige,Ca' del Bosco,wine_01gzr4kscc4rdc6dnh9v5jabtr,,
+TRUE,,SPARKLING,Franciacorta Sàten Cà del Bosco,Franciacorta Sàten Cà del Bosco,,BOTTLE,2018,9600,,50,,Franciacorta Selezione Saten,Villa Franciacorta,wine_01gzr4kscctqhph2xexmv6f05f,,
+TRUE,,SPARKLING,Vranken Diamant Rose' Pommery,Vranken Diamant Rose' Pommery,,BOTTLE,,12000,,50,,Diamant Brut Champagne,Vranken,wine_01hj11cjc8b1qegsgkkta75sa3,,
+TRUE,,SPARKLING,Delamotte Blanc de Blancs,Delamotte Blanc de Blancs,,BOTTLE,,15000,,50,,Blanc de Blancs Brut,Georges Blanc,wine_01gzr4ks6dq25v3tm7a6p8kjc5,,
+TRUE,,SPARKLING,Delamotte Blanc de Blancs,Delamotte Blanc de Blancs,,BOTTLE,2014,23000,,50,,Blanc de Blancs Brut,Georges Blanc,wine_01gzr4ks6dq25v3tm7a6p8kjc5,,
+TRUE,,SPARKLING,Comtes De Champagne Grands Crus Blanc de Blancs,Comtes De Champagne Grands Crus Blanc de Blancs,,BOTTLE,2007,30000,,50,,Crémant de Bourgogne Brut,Cave des Grands Crus Blancs,wine_01gzr4ktnegae0w97737z5x8xg,,
+TRUE,,SPARKLING,Krug Gran Cuvee',Krug Gran Cuvee',,BOTTLE,2006,64000,,50,,Private Cuvée,Krug,wine_01gzr4ks7h5x1nhhc1jnbgbg29,,
+TRUE,,FORTIFIED,Dom Perignon Vintage,Dom Perignon Vintage,,BOTTLE,2012,45000,,50,,Vintage Porto,Dom Joaquim,wine_01gzr4ksd1q5hvwrcr5dxtbzer,,
+TRUE,,ROSE,Dom Perignon Rose',Dom Perignon Rose',,BOTTLE,2006,74000,,50,,Rose in Fior,Vigne delle Rose,wine_01gzr4ksd5bcha6deg56c5pjb5,,
+TRUE,,SPARKLING,Cristal Louis Roederer,Cristal Louis Roederer,,BOTTLE,2013,40000,,50,,Cristal Vinothèque,Louis Roederer,wine_01gzr4ks5tqthh4jv8natgmek8,,
+TRUE,,SPARKLING,Jacques Selosse Initial,Jacques Selosse Initial,,BOTTLE,,45000,,50,,Anselme Selosse Lubie,Jacques Selosse,wine_01gzr4ktsdjr7edgveykk4hs4s,,
+TRUE,,SPARKLING,Jacques Selosse Substance,Jacques Selosse Substance,,BOTTLE,,64000,,50,,Anselme Selosse Lubie,Jacques Selosse,wine_01h0my5rrs2chf0z84bhxkd4mg,,
+TRUE,,SPARKLING,"Salon Cuvee ""S"" Le Mesnil","Salon Cuvee ""S"" Le Mesnil",,BOTTLE,2012,155000,,50,,Sublime Rosé Brut Champagne Grand Cru ''Le Mesnil-sur-Oger'',Le Mesnil,wine_01gzr4ksd7vexbj0rhdtag7bxq,,
+TRUE,,SPARKLING,Laurent-Perrier Brut,Laurent-Perrier Brut,,HALF_BOTTLE,,4100,,50,,Ultra Brut Champagne (Brut Nature),Laurent-Perrier,wine_01hg8mjpwsn8dcsmz7028z122j,,
+TRUE,,SPARKLING,Laurent-Perrier Millesimè Riserva (Magnum),Laurent-Perrier Millesimè Riserva (Magnum),,MAGNUM,1997,42000,,50,,Brut Millésimé Champagne,Laurent-Perrier,wine_01gzr4ks5h7z6yfdmcpd6fmyrq,,
+TRUE,,SPARKLING,Franciacorta Cuvèe Prestige Rose' Cà del Bosco,Franciacorta Cuvèe Prestige Rose' Cà del Bosco,,BOTTLE,,20000,,50,,Franciacorta Cuvée Prestige,Ca' del Bosco,wine_01gzr4kscc4rdc6dnh9v5jabtr,,
+TRUE,,SPARKLING,Ferrari Perlè F.lli Lunelli (Magnum),Ferrari Perlè F.lli Lunelli (Magnum),,MAGNUM,,15000,,50,,Riserva Lunelli,Ferrari,wine_01gzr4ksccj35519kgnp4kw2ym,,
+TRUE,,SPARKLING,Cristal Louis Roederer (Magnum),Cristal Louis Roederer (Magnum),,MAGNUM,2007,81000,,50,,Cristal Vinothèque,Louis Roederer,wine_01gzr4ks5tqthh4jv8natgmek8,,
+TRUE,,WHITE,Les Clos Pompadour Millesime' (Magnum),Les Clos Pompadour Millesime' (Magnum),,MAGNUM,2004,140000,,50,,Les Colomines Muscat Sec,Les Domaines Magnus,wine_01h4pmmgfjhmvej5vw76f61wm0,,
+TRUE,,RED,Dom Perignon Vintage (Magnum),Dom Perignon Vintage (Magnum),,MAGNUM,2010,135000,,50,,Henry''s Drive Magnus Shiraz,Vintage Longbottom,wine_01gzr4ksd1q5hvwrcr5dxtbzer,,
+TRUE,,SPARKLING,Comtes De Champagne Grands Crus Blanc de Blancs (Mathusalem),Comtes De Champagne Grands Crus Blanc de Blancs (Mathusalem),,MATHUSALEM,2007,490000,,50,,Crémant de Bourgogne Brut,Cave des Grands Crus Blancs,wine_01gzr4ktnegae0w97737z5x8xg,,
+TRUE,,ROSE,Rosè Cotes de Provence Minuty,Rosè Cotes de Provence Minuty,,HALF_LITER,2021,3500,,50,,M Minuty Léamati,Minuty,wine_01gzr4ktexn9xwhpchjtcn8zrw,,
+TRUE,,ROSE,"Rosè Cotes de Provence Limited Edition ""BY HANNA KL"" Minuty","Rosè Cotes de Provence Limited Edition ""BY HANNA KL"" Minuty",,BOTTLE,2022,4600,,50,,M Minuty Limited Edition Rosé,Minuty,wine_01gzr4kt6hh5sw2327j7sb154y,,
+TRUE,,ROSE,Rock Angel Caves D'Esclans,Rock Angel Caves D'Esclans,,BOTTLE,2021,8200,,50,,Rock Angel Rosé,Château d'Esclans,wine_01h0my5stsq2fm3vxq59r7mber,,
+TRUE,,WHITE,Friulano Borgo conventi,Friulano Borgo conventi,,BOTTLE,2021,3500,,50,,I Fiori del Borgo Tocai Friulano,Borgo Conventi,wine_01h0my5svsr3rckavnrj23y3f9,,
+TRUE,,RED,Pinot Grigio Lis Neris,Pinot Grigio Lis Neris,,BOTTLE,2021,3800,,50,,Venezia Giulia ''Lis Neris'' Rosso,Lis Neris,wine_01h0qzm1m1t5h2ryxmg6myf3ce,,
+TRUE,,WHITE,Vinnae Ribolla Gialla Jermann,Vinnae Ribolla Gialla Jermann,,BOTTLE,2021,4300,,50,,Ribolla Gialla,Consorzio Ribolla Gialla Dell'Alto Livenza,wine_01h0b4rjgjga7vp2k26xpckg4h,,
+TRUE,,WHITE,Sauvignon Jermann,Sauvignon Jermann,,BOTTLE,2022,4100,,50,,Marlborough Sauvignon Blanc,Sauvignon Republic,wine_01h0qzm233ts18z51y3panax31,,
+TRUE,,RED,Chardonnay Sanct Valentin St. Michele Appiano,Chardonnay Sanct Valentin St. Michele Appiano,,BOTTLE,2020,5500,,50,,Papiano di Papiano,Villa Papiano,wine_01gzr4ksmv69qe8d1n72sn0x7d,,
+TRUE,,WHITE,Sauvignon Sanct Valentin St. Michele Appiano,Sauvignon Sanct Valentin St. Michele Appiano,,BOTTLE,2021,5500,,50,,Marlborough Sauvignon Blanc,Sauvignon Republic,wine_01gzr4ksmvsfn18zf94zmgm0dw,,
+TRUE,,RED,"Gorgona ""Vermentino"" Frescobaldi","Gorgona ""Vermentino"" Frescobaldi",,BOTTLE,2021,15500,,50,,Tenuta Frescobaldi di Castiglioni,Frescobaldi,wine_01gzr4ksh5f1nj385xzscxxae8,,
+TRUE,,RED,Ornellaia Bianco Tente Dell'Ornellaia,Ornellaia Bianco Tente Dell'Ornellaia,,BOTTLE,2019,35000,,50,,Ornellaia,Ornellaia,wine_01gzr4kt84n0w4rmwssegaeea7,,
+TRUE,,WHITE,Riesling Trinbach,Riesling Trinbach,,BOTTLE,2021,4000,,50,,Cuvée Trimbach Alsace,Trimbach,wine_01h4pmmfxk5j7h7fk6r7zetk3r,,
+TRUE,,WHITE,Bourgogne Hautes- Cotes de Nuits Guy & Yvan Dufouleur,Bourgogne Hautes- Cotes de Nuits Guy & Yvan Dufouleur,,BOTTLE,2019,5200,,50,,Bourgogne Hautes Cotes de Nuits Blanc,Guy & Yvan Dufouleur,wine_01h4pmmgww35thmf7a3w68b60x,,
+FALSE,,WHITE,Bourgogne Cote d'Or Patrick Javillier,Bourgogne Cote d'Or Patrick Javillier,,BOTTLE,2019,6000,,50,,Cuvée Oligocène Bourgogne,Patrick Javillier,,,
+TRUE,,WHITE,Puligny-Montrachet Domaine de la Vougeraie,Puligny-Montrachet Domaine de la Vougeraie,,BOTTLE,2019,12500,,50,,Puligny-Montrachet 1er Cru Garenne,Château de Puligny Montrachet,wine_01hfxnejh716y8pc2za77g3wwj,,
+FALSE,,RED,Chassagne Montrachet 1er Cru Lucien le Moine,Chassagne Montrachet 1er Cru Lucien le Moine,,BOTTLE,2018,24900,,50,,Chassagne-Montrachet 1er Cru ''Les Chaumees'',Château de Chassagne-Montrachet,,,
+TRUE,,WHITE,Chardonnay Beringer,Chardonnay Beringer,,BOTTLE,2020,3300,,50,,Beringer Bros. Bourbon Barrel Aged Chardonnay,Beringer,wine_01gzr4ktq878pbm290ebb47z7j,,
+TRUE,,DESSERT,Valpolicella Le Salette,Valpolicella Le Salette,,BOTTLE,2021,3300,,50,,Le Traversagne Recioto della Valpolicella Classico,Le Salette,wine_01gzr4ksneh3813h3tt6jy3d40,,
+TRUE,,RED,Valpolicella Classico Superiore Zymè,Valpolicella Classico Superiore Zymè,,BOTTLE,2018,5700,,50,,Valpo Valpolicella Classico Superiore,Antica Valpolicella,wine_01gzr4kt33m0jtyrnyt6q8sb3j,,
+TRUE,,RED,Valpolicella Ripasso Sartori,Valpolicella Ripasso Sartori,,BOTTLE,2020,3800,,50,,Ripasso Valpolicella Classico Superiore,Antica Valpolicella,wine_01gzr4kt26br4sca9r1fgpjfmy,,
+TRUE,,RED,Valpolicella “Ripasso” Campofiorin Masi,Valpolicella “Ripasso” Campofiorin Masi,,BOTTLE,2019,4000,,50,,Ripasso Valpolicella Classico Superiore,Antica Valpolicella,wine_01gzr4kt1xkn9a0dhjgrp1qk93,,
+TRUE,,WHITE,Cabernet Az. Agricola Sutto,Cabernet Az. Agricola Sutto,,BOTTLE,2021,3200,,50,,Bianco di Sutto,Sutto,wine_01hcwsykyg43n6pwsph3g19nd9,,
+TRUE,,RED,"Merlot ""Ad Nonam"" Tenuta Mosole","Merlot ""Ad Nonam"" Tenuta Mosole",,BOTTLE,2018,5700,,50,,IX Ad Nonam,Mosole,wine_01gzr4kt31h001j97ye508b9pf,,
+TRUE,,DESSERT,Venegazzù della Casa (Cab. Sauv.–Merlot–Cab. F.–Malbec) Loredan Gasparini,Venegazzù della Casa (Cab. Sauv.–Merlot–Cab. F.–Malbec) Loredan Gasparini,,BOTTLE,2017,4900,,50,,Grappa di Venegazzù della Casa,Loredan Gasparini,wine_01gzr4kt325ke5a89bn0htwnth,,
+TRUE,,RED,Carmenere Punto Zero,Carmenere Punto Zero,,BOTTLE,2018,4800,,50,,Punto Merlot,Punto Zero,wine_01hcwvb3jp1e7p4swv330665sj,,
+TRUE,,RED,Terregiunte Masi-Vespa,Terregiunte Masi-Vespa,,BOTTLE,2016,17000,,50,,Il Bruno dei Vespa Primitivo Salento,Vespa,wine_01hcw4dg60gshxfbyy8d1aq4wv,,
+TRUE,,RED,Amarone della Valpolicella Reius Sartori,Amarone della Valpolicella Reius Sartori,,BOTTLE,2017,9500,,50,,Amarone della Valpolicella,Amarone Raimondi,wine_01gzr4kt26232dp76ndrqwzen3,,
+TRUE,,RED,Amarone della Valpolicella Zenato,Amarone della Valpolicella Zenato,,BOTTLE,2018,11500,,50,,Amarone della Valpolicella Classico Riserva (Sergio Zenato),Zenato,wine_01gzr4ksd2ry507c65jp5spd8w,,
+TRUE,,RED,Amarone della Valpolicella Quintarelli,Amarone della Valpolicella Quintarelli,,BOTTLE,2013,44000,,50,,Amarone della Valpolicella Classico Selezione Giuseppe Quintarelli,Quintarelli Giuseppe,wine_01gzr4kt26xa2kf0g9zy74sr0a,,
+TRUE,,RED,Blauburgunder Mazon Riserva Hofstätter,Blauburgunder Mazon Riserva Hofstätter,,BOTTLE,2019,6300,,50,,Mazon Riserva,J. Hofstätter,wine_01h0qzm1vf1xzamprrnxx0043s,,
+TRUE,,RED,"Pinot Nero ""Sanct Valentin"" St. Michele Appiano","Pinot Nero ""Sanct Valentin"" St. Michele Appiano",,BOTTLE,2020,8200,,50,,Papiano di Papiano,Villa Papiano,wine_01gzr4ksmwhbcdak4ythj1qxp6,,
+TRUE,,RED,"Blauburgunder Barthenau ""Vigna S.Urbano"" Hofstätter","Blauburgunder Barthenau ""Vigna S.Urbano"" Hofstätter",,BOTTLE,2017,15000,,50,,Barthenau Vigna S. Urbano,J. Hofstätter,wine_01h0b4rjgpder3smhfakv2fcdv,,
+TRUE,,RED,Teroldego Morei Foradori,Teroldego Morei Foradori,,BOTTLE,2021,6500,,50,,Foradori - Teroldego,Foradori,wine_01gzr4ksncz52p49tm11n5n31d,,
+TRUE,,SPARKLING,San Leonardo (Cab. Sauv.–Carmenere–Merlot) Marchesi Guerrieri Gonzaga,San Leonardo (Cab. Sauv.–Carmenere–Merlot) Marchesi Guerrieri Gonzaga,,BOTTLE,2017,20000,,50,,Riserva Marchesi Guerrieri Gonzaga - Blanc de Blancs Extra Brut,San Leonardo,wine_01gzr4ksnyrhxzs3mytd8sngpx,,
+TRUE,,RED,Cabernet Sauvignon Lis Neris,Cabernet Sauvignon Lis Neris,,BOTTLE,2020,4300,,50,,Venezia Giulia ''Lis Neris'' Rosso,Lis Neris,wine_01h0qzm1m0jdc2sp5dgy3mp5mn,,
+TRUE,,RED,Red Angel (Pinot Nero) Jermann,Red Angel (Pinot Nero) Jermann,,BOTTLE,2020,4500,,50,,Red Blend,Angel Negro,wine_01h0my5stt4sndtsf3fs72vtta,,
+TRUE,,WHITE,Refosco Castello di Buttrio,Refosco Castello di Buttrio,,BOTTLE,2019,3800,,50,,Torre Butria,Castello di Buttrio,wine_01h0my5t56e15chnz3q71c9nyw,,
+TRUE,,RED,Sosso' (Merlot-Refosco-Pignolo) Livio Felluga,Sosso' (Merlot-Refosco-Pignolo) Livio Felluga,,BOTTLE,2016,9000,,50,,Pignolo,Livio Felluga,wine_01gzr4kskwd3k439cn7cg476ak,,
+TRUE,,RED,Barolo Vignarionda Oddero,Barolo Vignarionda Oddero,,BOTTLE,2009,37000,,50,,Barolo,Oddero,wine_01h0my5sf7ezertz80v77fs706,,
+TRUE,,RED,Barbaresco Camp Gros Martinenga Marchesi di Gresy,Barbaresco Camp Gros Martinenga Marchesi di Gresy,,BOTTLE,2015,19500,,50,,Barbaresco Camp Gros Martinenga Riserva,Marchesi di Gresy,wine_01gzr4kt5eynzg79s7cxm5kd9x,,
+TRUE,,WHITE,Le Volte Tenuta dell'Ornellaia,Le Volte Tenuta dell'Ornellaia,,BOTTLE,2021,4800,,50,,Coda di Volpe,Monte Volpe,wine_01gzr4ksd17ecsm6py4s6fhjwr,,
+TRUE,,RED,Rosso di Montalcino Banfi,Rosso di Montalcino Banfi,,BOTTLE,2020,3500,,50,,Rosso di Montalcino,Cantina di Montalcino,wine_01gzr4ksd25nca47c19y0xnp9c,,
+TRUE,,DESSERT,Cabreo Rosso il Borgo (Sangiovese–Cab. Sauv.) Folonari,Cabreo Rosso il Borgo (Sangiovese–Cab. Sauv.) Folonari,,BOTTLE,2019,9000,,50,,Cabreo Il Borgo Grappa,Cabreo,wine_01gzr4ksd6ajsehb43hs03rwa5,,
+TRUE,,RED,Il Pareto (Cabernet Sauvignon) Folonari,Il Pareto (Cabernet Sauvignon) Folonari,,BOTTLE,2019,13500,,50,,Cabernet Sauvignon - Corvina,Folonari,wine_01gzr4ksd9ptp4r68vg492ppq5,,
+TRUE,,RED,Mormoreto (Cab. S.–Cab. F.–Petit V.–Mer.) Frescobaldi,Mormoreto (Cab. S.–Cab. F.–Petit V.–Mer.) Frescobaldi,,BOTTLE,2015,11000,,50,,Tenuta Frescobaldi di Castiglioni,Frescobaldi,wine_01gzr4ksd6jw3tbb78vdgp2x03,,
+TRUE,,RED,Montesodi (Sangiovese) Frescobaldi,Montesodi (Sangiovese) Frescobaldi,,BOTTLE,2014,11000,,50,,Montesodi Jorinde Voigt,Frescobaldi,wine_01gzr4ksd6kt9h5gqgv603dqxw,,
+TRUE,,RED,Brunello di Montalcino Vigna Ripe al Convento Frescobaldi,Brunello di Montalcino Vigna Ripe al Convento Frescobaldi,,BOTTLE,2016,19500,,50,,Brunello di Montalcino,Cantina di Montalcino,wine_01gzr4kte8rkzw0egt83t0drhj,,
+TRUE,,RED,Guado al Tasso Antinori,Guado al Tasso Antinori,,BOTTLE,2020,22000,,50,,Tenuta Guado al Tasso Matarocchio,Antinori,wine_01gzr4kssww5k215dr9ea2695w,,
+TRUE,,RED,Luce Della Vite Frescobaldi,Luce Della Vite Frescobaldi,,BOTTLE,2016,24000,,50,,Tenuta Frescobaldi di Castiglioni,Frescobaldi,wine_01h0my5rm9jp96emkssr3n64wy,,
+FALSE,,RED,Biserno (Cab. F.–Mer.–Cab. S.–Petit Verdot) Tenuta di Biserno Lodovico Antinori,Biserno (Cab. F.–Mer.–Cab. S.–Petit Verdot) Tenuta di Biserno Lodovico Antinori,,BOTTLE,2019,25000,,50,,Il Pino di Biserno,Biserno,,,
+TRUE,,RED,Massetino Tenuta dell'Ornellaia,Massetino Tenuta dell'Ornellaia,,BOTTLE,2020,58000,,50,,Tenuta Mascontina Groppello Garda Classico,Masserino,wine_01gzr4kt7p6pjy25vtpkmbkqkp,,
+TRUE,,ROSE,Solaia Antinori,Solaia Antinori,,BOTTLE,2020,58500,,50,,Rosé Antinori,Antinori,wine_01gzr4ksd3d7r1nat6d0mmwhhg,,
+TRUE,,ROSE,Solaia Antinori,Solaia Antinori,,BOTTLE,2019,56000,,50,,Rosé Antinori,Antinori,wine_01gzr4ksd3d7r1nat6d0mmwhhg,,
+TRUE,,ROSE,Solaia Antinori,Solaia Antinori,,BOTTLE,2015,70000,,50,,Rosé Antinori,Antinori,wine_01gzr4ksd3d7r1nat6d0mmwhhg,,
+TRUE,,ROSE,Solaia Antinori,Solaia Antinori,,BOTTLE,2010,59000,,50,,Rosé Antinori,Antinori,wine_01gzr4ksd3d7r1nat6d0mmwhhg,,
+TRUE,,ROSE,Matarocchio Antinori,Matarocchio Antinori,,BOTTLE,2017,75000,,50,,Rosé Antinori,Antinori,wine_01gzr4ksswxb1ke92qa2sv7v67,,
+TRUE,,RED,Masseto (Merlot) Tenuta dell'Ornellaia,Masseto (Merlot) Tenuta dell'Ornellaia,,BOTTLE,2017,120000,,50,,Masseto,Masseto,wine_01hfv4gwtds4hbaabqffvmwyyp,,
+TRUE,,RED,Masseto (Merlot) Tenuta dell'Ornellaia,Masseto (Merlot) Tenuta dell'Ornellaia,,BOTTLE,2018,120000,,50,,Masseto,Masseto,wine_01hfv4gwtds4hbaabqffvmwyyp,,
+TRUE,,RED,Masseto (Merlot) Tenuta dell'Ornellaia,Masseto (Merlot) Tenuta dell'Ornellaia,,BOTTLE,2019,135000,,50,,Masseto,Masseto,wine_01hfv4gwtds4hbaabqffvmwyyp,,
+TRUE,,WHITE,Pino' (Pinot nero) Gulfi,Pino' (Pinot nero) Gulfi,,BOTTLE,2015,11500,,50,,Pinot Gris,Pino,wine_01gzr4kthsatasn5e09e3yszbr,,
+TRUE,,DESSERT,Turriga (Cannonau-Carignano) Argiolas,Turriga (Cannonau-Carignano) Argiolas,,BOTTLE,2018,15000,,50,,Antonio Argiolas 100 Cannonau di Sardegna Passito,Argiolas,wine_01gzr4ksrwyrtxrwcmh0h2ma30,,
+TRUE,,WHITE,Bourgogne Terres de Famille Domaine de la Vougeraie,Bourgogne Terres de Famille Domaine de la Vougeraie,,BOTTLE,2020,6800,,50,,Chardonnay Terres de Famille,Domaine de la Vougeraie,wine_01gzr4kt1wbp3q1kfj1mrwfyzg,,
+TRUE,,RED,Le Corton Grand Cru Bouchard,Le Corton Grand Cru Bouchard,,BOTTLE,2016,37500,,50,,Corton Grand Cru,Château Corton C,wine_01gzr4ksxc0r8422hdta23cq9y,,
+TRUE,,RED,Chorey les Beaune LeRoy,Chorey les Beaune LeRoy,,BOTTLE,1999,1.7,,50,,Chorey-lès-Beaune,Château de Chorey,wine_01hczek1ex2z6hqxezg5105104,,
+TRUE,,RED,Chateauneuf-du-Pape Clos de L'oratoire,Chateauneuf-du-Pape Clos de L'oratoire,,BOTTLE,2020,12000,,50,,Châteauneuf-du-Pape,Le Clos de la Font du Pape,wine_01hj17f1r7qw61seyt22rdqw3y,,
+TRUE,,RED,Chateau Clarke Edmond de Rothschild,Chateau Clarke Edmond de Rothschild,,BOTTLE,2012,7500,,50,,Barons Edmond Benjamin de Rothschild Haut-Médoc,Baron Edmond de Rothschild,wine_01hj17rdks52fqbm1ny9cgc2te,,
+TRUE,,RED,Boidron St-Georges St-Emilion Chateau Calon,Boidron St-Georges St-Emilion Chateau Calon,,BOTTLE,2010,6000,,50,,Château Puy St. Georges Saint-Georges-Saint-Émilion,Château St. Georges,wine_01gzr4ktnx2vt8yn0ts1nyyfhr,,
+FALSE,,RED,Chateau La Roque Famille Beaumartin,Chateau La Roque Famille Beaumartin,,BOTTLE,2017,9000,,50,,La Cupa Pin Saint Loup,Château La Roque,,,
+TRUE,,RED,Malbec Alta Vista,Malbec Alta Vista,,BOTTLE,2020,4600,,50,,Alto Agrelo Grande Reserve Malbec,Alta Vista,wine_01h0my5t4cwx9r9nfzga6cxh0b,,
+TRUE,,WHITE,Merlot Castello di Buttrio,Merlot Castello di Buttrio,,MAGNUM,2019,12000,,50,,Torre Butria,Castello di Buttrio,wine_01h0my5t552km278pra85cvx0k,,
+TRUE,,DESSERT,Venegazzù della Casa Loredan Gasparini,Venegazzù della Casa Loredan Gasparini,,MAGNUM,2018,11000,,50,,Grappa di Venegazzù della Casa,Loredan Gasparini,wine_01gzr4kt325ke5a89bn0htwnth,,
+TRUE,,DESSERT,Amarone della Valpolicella Allegrini,Amarone della Valpolicella Allegrini,,MAGNUM,2017,27000,,50,,Giovanni Allegrini Recioto della Valpolicella Classico,Allegrini,wine_01h0my5sa34h23fs9v85bm5gda,,
+TRUE,,DESSERT,Cabreo Rosso il Borgo Folonari,Cabreo Rosso il Borgo Folonari,,MAGNUM,2018,17000,,50,,Cabreo Il Borgo Grappa,Cabreo,wine_01gzr4ksd6ajsehb43hs03rwa5,,
+FALSE,,RED,Biserno (Cab. F.–Merlot–Cab. Sauv.–Petit Verdot) Tenuta di Biserno Lodovico Antinori,Biserno (Cab. F.–Merlot–Cab. Sauv.–Petit Verdot) Tenuta di Biserno Lodovico Antinori,,MAGNUM,2016,69000,,50,,Il Pino di Biserno,Biserno,,,
+FALSE,,RED,Biserno (Cab. F.–Merlot–Cab. Sauv.–Petit Verdot) Tenuta di Biserno Lodovico Antinori,Biserno (Cab. F.–Merlot–Cab. Sauv.–Petit Verdot) Tenuta di Biserno Lodovico Antinori,,MAGNUM,2020,69000,,50,,Il Pino di Biserno,Biserno,,,
+TRUE,,ROSE,Solaia Antinori,Solaia Antinori,,MAGNUM,2016,115000,,50,,Rosé Antinori,Antinori,wine_01gzr4ksswxb1ke92qa2sv7v67,,
+TRUE,,RED,Masseto (Merlot) Tenuta dell’Ornellaia,Masseto (Merlot) Tenuta dell’Ornellaia,,MAGNUM,2015,270000,,50,,Masseto,Masseto,wine_01hfv4gwtds4hbaabqffvmwyyp,,
+TRUE,,RED,Gevrey-Chambertin Alain Jeanniard,Gevrey-Chambertin Alain Jeanniard,,MAGNUM,2019,26400,,50,,Gevrey-Chambertin Monopole,Château de Gevrey Chambertin,wine_01h0qzm16wpj80nq4tqqr08a2a,,
+TRUE,,RED,Nuits-Saint-Georges 1er Cru Domaine de la Vougeraie,Nuits-Saint-Georges 1er Cru Domaine de la Vougeraie,,MAGNUM,2019,33000,,50,,Monopole Nuits-Saint-Georges 1er Cru ''Clos de Thorey'',Domaine de la Vougeraie,wine_01h0qzm2hq17vqry5xdz5gwv7y,,
+FALSE,,RED,Lagrein Dunkel Collection (3litri) Cantina Gries,Lagrein Dunkel Collection (3litri) Cantina Gries,,JEROBOAM,2018,18000,,50,,Lagrein Südtirol,Muri-Gries,,,
+TRUE,,RED,Valpolicella “Ripasso” Campofiorin (3litri) Masi,Valpolicella “Ripasso” Campofiorin (3litri) Masi,,JEROBOAM,2015,18000,,50,,Ripasso Valpolicella Classico Superiore,Antica Valpolicella,wine_01gzr4kt1xkn9a0dhjgrp1qk93,,
+TRUE,,WHITE,Le Volte Dell'Ornellaia Tenuta dell'Ornellaia,Le Volte Dell'Ornellaia Tenuta dell'Ornellaia,,BOTTLE,2021,22000,,50,,Coda di Volpe,Monte Volpe,wine_01gzr4ksd17ecsm6py4s6fhjwr,,
+TRUE,,RED,La Vite Lucente (3 Litri) Frescobaldi,La Vite Lucente (3 Litri) Frescobaldi,,JEROBOAM,2020,30000,,50,,Tenuta Frescobaldi di Castiglioni,Frescobaldi,wine_01h0my5rm9t1289514mmb8xrf1,,
+TRUE,,RED,Brunello di Montalcino Castel Giocondo Frescobaldi,Brunello di Montalcino Castel Giocondo Frescobaldi,,BOTTLE,2018,38000,,50,,Brunello di Montalcino,Cantina di Montalcino,wine_01gzr4ksd1np5f3w5nnv3jq79q,,
+TRUE,,RED,Le Serre Nuove (3litri) Tenuta dell'Ornellaia,Le Serre Nuove (3litri) Tenuta dell'Ornellaia,,JEROBOAM,2019,45000,,50,,Le Vigne Nuove Sangiovese,Drei Donà - Tenuta La Palazza,wine_01gzr4kt84p32acb7v4yb1s1mc,,
+TRUE,,RED,Mormoreto (3litri) Frescobaldi,Mormoreto (3litri) Frescobaldi,,JEROBOAM,1997,77000,,50,,Tenuta Frescobaldi di Castiglioni,Frescobaldi,wine_01gzr4ksd6jw3tbb78vdgp2x03,,
+TRUE,,RED,Luce Della Vite (3 Litri) Frescobaldi,Luce Della Vite (3 Litri) Frescobaldi,,JEROBOAM,2019,91000,,50,,Tenuta Frescobaldi di Castiglioni,Frescobaldi,wine_01h0my5rm9jp96emkssr3n64wy,,
+FALSE,,RED,Les 5 1er Cru (3litri) Domaine des Perdrix,Les 5 1er Cru (3litri) Domaine des Perdrix,,JEROBOAM,2009,86200,,50,,Les 8 Ouvrèes Nuits-Saint-Georges Premier Cru ''Aux Perdrix'',Domaine des Perdrix,,,
+TRUE,,WHITE,Le Volte (6 litri) Tenuta Sdell'Ornellaia,Le Volte (6 litri) Tenuta Sdell'Ornellaia,,MATHUSALEM,2017,45000,,50,,Coda di Volpe,Monte Volpe,wine_01gzr4ksd17ecsm6py4s6fhjwr,,
+TRUE,,RED,La Vite Lucente (6 Litri) Frescobaldi,La Vite Lucente (6 Litri) Frescobaldi,,MATHUSALEM,2020,60000,,50,,Tenuta Frescobaldi di Castiglioni,Frescobaldi,wine_01h0my5rm9t1289514mmb8xrf1,,
+TRUE,,DESSERT,Venegazzù della Casa (12litri) Loredan Gasparini,Venegazzù della Casa (12litri) Loredan Gasparini,,BALTHAZAR,2015,120000,,50,,Grappa di Venegazzù della Casa,Loredan Gasparini,wine_01gzr4kt325ke5a89bn0htwnth,,
+TRUE,,RED,Pinot Grigio Lis Neris,Pinot Grigio Lis Neris,,HALF_BOTTLE,2021,1600,,50,,Venezia Giulia ''Lis Neris'' Rosso,Lis Neris,wine_01h0qzm1m1t5h2ryxmg6myf3ce,,
+TRUE,,SPARKLING,Laurent-Perrier Brut,Laurent-Perrier Brut,,HALF_BOTTLE,,4100,,50,,Ultra Brut Champagne (Brut Nature),Laurent-Perrier,wine_01hg8mjpwsn8dcsmz7028z122j,,
+TRUE,,RED,Blauburgunder Hofstätter,Blauburgunder Hofstätter,,HALF_BOTTLE,2020,1800,,50,,Blauburgunder Riserva,J. Hofstätter,wine_01h0qzm1vfg6y9zb95tbjqdykm,,
+TRUE,,RED,Cabernet Sauvignon Lis Neris,Cabernet Sauvignon Lis Neris,,HALF_BOTTLE,2019,1900,,50,,Venezia Giulia ''Lis Neris'' Rosso,Lis Neris,wine_01h0qzm1m0jdc2sp5dgy3mp5mn,,
+TRUE,,DESSERT,Venegazzù della Casa Loredan Gasparini,Venegazzù della Casa Loredan Gasparini,,HALF_BOTTLE,2018,3000,,50,,Grappa di Venegazzù della Casa,Loredan Gasparini,wine_01gzr4kt325ke5a89bn0htwnth,,
+TRUE,,RED,Brunello di Montalcino Castel Giocondo Frescobaldi,Brunello di Montalcino Castel Giocondo Frescobaldi,,HALF_BOTTLE,2016,4900,,50,,Brunello di Montalcino,Cantina di Montalcino,wine_01gzr4ksd1np5f3w5nnv3jq79q,,
+TRUE,,RED,Luce Della Vite Frescobaldi,Luce Della Vite Frescobaldi,,HALF_BOTTLE,2015,9500,,50,,Tenuta Frescobaldi di Castiglioni,Frescobaldi,wine_01h0my5rm9jp96emkssr3n64wy,,
+TRUE,,WHITE,Ramandolo 500 ml Ronco Vieri,Ramandolo 500 ml Ronco Vieri,,HALF_LITER,2018,2600,,50,,L''Avi de +500,Varietal 500,wine_01h0qzm041gjhtw1awh3762416,,
+FALSE,,DESSERT,Eiswein 375 ml Edith Michlits,Eiswein 375 ml Edith Michlits,,HALF_BOTTLE,2018,6900,,50,,Eiswein,Michlits Stadlmann,,,
+TRUE,,DESSERT,Sauternes 375 ml Ier Grand Cru Chateau Guiraud,Sauternes 375 ml Ier Grand Cru Chateau Guiraud,,HALF_BOTTLE,2017,9000,,50,,Petit Guiraud Sauternes,Château Guiraud,wine_01gzr4ktwd8ype1jjcb9f8t312,,

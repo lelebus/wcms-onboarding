@@ -7,7 +7,6 @@ def clean_rows(dataframe):
 
     # price to cents or to zero, if no price
     wines['price'] = wines['price'].fillna(0)
-    wines['price'] = wines['price'].apply(lambda x: int(x) * 100)
 
     # show wines with price 0
     wines[wines['price'] == 0]

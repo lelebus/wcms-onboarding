@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 
-def query_es(name, winery_name, wine_type):
+def query_conditions(name: str, winery_name: str, wine_type: str):
     # build query
     conditions = [
         {
@@ -34,17 +34,56 @@ def query_es(name, winery_name, wine_type):
         conditions.append(
             {
                 "term": {
-                    "type.keyword": wine_type
+                    "type.keyword": wine_type.upper()
                 }
             })
 
+    return conditions
+
+
+def query_es(name: str, winery_name: str, wine_type: str):
+    """Perform query on ElasticSearch index.
+
+    Parameters
+    ----------
+    name : str
+        name of the wine
+    winery_name : str
+        name of the winery
+    wine_type : str
+        wine type, e.g. RED, WHITE etc
+
+    Returns
+    -------
+    match : dict
+        Matching entry in the index.
+
+        `None` if no match is found.
+
+        Otherwise, the keys are:
+        - `id`
+        - `type`
+        - `name`
+        - `seo_name`
+        - `winery_id`
+        - `winery_name`
+        - `winery_seo_name`
+
+    score : float
+        Matching score as calculated by ElasticSearch.
+
+        `0` if no match is found.
+
+        Run `query_explanation`
+        for the explanation of the score.
+    """
     # perform query
     url = 'https://es.vinoteqa.com/wines/_search'
     headers = {'Content-Type': 'application/json'}
     query = {
         "query": {
             "bool": {
-                "must": conditions,
+                "must": query_conditions(name, winery_name, wine_type),
             }
         },
         "size": 1
@@ -63,6 +102,44 @@ def query_es(name, winery_name, wine_type):
     except Exception as e:
         print(f'ERROR ({name} - {winery_name})', e)
         return None, 0
+
+
+def query_explain(name: str, winery_name: str, wine_type: str):
+    """Perform query on ElasticSearch index
+    and get explanation for how the score is computed.
+
+    Parameters
+    ----------
+    name : str
+        name of the wine
+    winery_name : str
+        name of the winery
+    wine_type : str
+        wine type, e.g. RED, WHITE etc
+
+    Returns
+    -------
+    explanation : dict
+        Breakdown of the score components.
+        `None` if no match is found.
+    """
+    match, score = query_es(name, winery_name, wine_type)
+    if match is None:
+        print('No match')
+        return
+
+    # perform explanation query
+    url = 'https://es.vinoteqa.com/wines/_explain/' + match['id']
+    headers = {'Content-Type': 'application/json'}
+    query = {
+        "query": {
+            "bool": {
+                "must": query_conditions(name, winery_name, wine_type),
+            }
+        }
+    }
+
+    return requests.post(url, headers=headers, json=query).json()
 
 
 def search_rows(rows):

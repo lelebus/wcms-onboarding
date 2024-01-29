@@ -33,8 +33,13 @@ def query_conditions(name: str, winery_name: str, wine_type: str):
     if wine_type is not None and wine_type != 'nan':
         conditions.append(
             {
-                "term": {
-                    "type.keyword": wine_type.upper()
+                "constant_score": {
+                    "filter": {
+                        "term": {
+                            "type.keyword": wine_type.upper()
+                        }
+                    },
+                    'boost': 0
                 }
             })
 

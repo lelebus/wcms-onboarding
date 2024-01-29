@@ -30,7 +30,7 @@ def query_conditions(name: str, winery_name: str, wine_type: str):
         }
     ]
 
-    if wine_type is not None and str(wine_type) != 'nan':
+    if wine_type is not None and wine_type != 'nan':
         conditions.append(
             {
                 "term": {
@@ -41,7 +41,51 @@ def query_conditions(name: str, winery_name: str, wine_type: str):
     return conditions
 
 
-def query_es(name: str, winery_name: str, wine_type: str):
+def query_es(name: str, winery_name: str, wine_type: str, num_matches: int = 1):
+    """Perform query on ElasticSearch index.
+
+    Parameters
+    ----------
+    name : str
+        name of the wine
+    winery_name : str
+        name of the winery
+    wine_type : str
+        wine type, e.g. RED, WHITE etc
+    num_matches : int
+        Number of matches, sorted by decreasing score. by default 1
+
+    Returns
+    -------
+    response : list of dict
+        Response json of the ElasticSearch query.
+
+        `None` if no match is found.
+    
+        Run `query_es_clean` for getting the first match and the score as separated values.
+
+    """
+    # perform query
+    url = 'https://es.vinoteqa.com/wines/_search'
+    headers = {'Content-Type': 'application/json'}
+    query = {
+        "query": {
+            "bool": {
+                "must": query_conditions(name, winery_name, wine_type),
+            }
+        },
+        "size": num_matches
+    }
+
+    try:
+        response = requests.post(url, headers=headers, json=query)
+        return response.json()
+    except Exception as e:
+        print(f'ERROR ({name} - {winery_name})', e)
+        return None
+
+
+def query_es_clean(name: str, winery_name: str, wine_type: str):
     """Perform query on ElasticSearch index.
 
     Parameters
@@ -77,31 +121,16 @@ def query_es(name: str, winery_name: str, wine_type: str):
         Run `query_explanation`
         for the explanation of the score.
     """
-    # perform query
-    url = 'https://es.vinoteqa.com/wines/_search'
-    headers = {'Content-Type': 'application/json'}
-    query = {
-        "query": {
-            "bool": {
-                "must": query_conditions(name, winery_name, wine_type),
-            }
-        },
-        "size": 1
-    }
-
-    try:
-        response = requests.post(url, headers=headers, json=query)
-        response_json = response.json()
-        hits = response_json['hits']['hits']
-
-        if len(hits) > 0:
-            match = hits[0]['_source']
-            return match, hits[0]['_score']
-        else:
-            return None, 0
-    except Exception as e:
-        print(f'ERROR ({name} - {winery_name})', e)
+    response_json = query_es(name, winery_name, wine_type, 1)
+    
+    if response_json is None:
         return None, 0
+
+    hits = response_json['hits']['hits']
+    if len(hits) > 0:
+        match = hits[0]['_source']
+        return match, hits[0]['_score']
+    return None, 0
 
 
 def query_explain(name: str, winery_name: str, wine_type: str):
@@ -123,7 +152,7 @@ def query_explain(name: str, winery_name: str, wine_type: str):
         Breakdown of the score components.
         `None` if no match is found.
     """
-    match, score = query_es(name, winery_name, wine_type)
+    match, score = query_es_clean(name, winery_name, wine_type)
     if match is None:
         print('No match')
         return
@@ -198,7 +227,7 @@ def search_rows(rows):
             pass
 
         # perform search
-        match, score = query_es(search_name, search_winery, search_type)
+        match, score = query_es_clean(search_name, search_winery, search_type)
         if match is not None:
             d['matched_name'] = match['name']
             d['matched_winery_name'] = match['winery_name']

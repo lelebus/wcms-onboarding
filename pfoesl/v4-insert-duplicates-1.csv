@@ -1,0 +1,5 @@
+wine_id,external_id,size,vintage,price,info,storage_area,quantity,internal_notes
+wine_01gzr4ktj419z7pn8xx273q7w8,402.0,BOTTLE,2017,6400,,,0,"purchase_price: 27.50 € , supplier: Akos, retail_price: 55.36 € , glass_price: € 10.67"
+wine_01gzr4ktj419z7pn8xx273q7w8,403.0,BOTTLE,2017,6300,,,1,"purchase_price: 27.50 € , supplier: Akos, retail_price: 55.36 € , glass_price: € 10.50"
+wine_01h0qzm1g3a94dphd4pkjrhdts,99.0,BOTTLE,2016,6100,,,2,"purchase_price: 24.60 € , supplier: WD, retail_price: 49.52 € , glass_price: € 10.17"
+wine_01h0qzm1g3a94dphd4pkjrhdts,106.0,BOTTLE,2016,6100,,,5,"purchase_price: 24.60 € , supplier: WD, retail_price: 49.52 € , glass_price: € 10.17"

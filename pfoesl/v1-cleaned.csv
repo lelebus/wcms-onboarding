@@ -1,0 +1,473 @@
+external_id,size,name,winery_name,vintage,supplier,purchase_price,price,retail_price,glass_price,quantity
+1,BOTTLE,Le Petit,Weingut Manincor,2018,WD, 37.40 € , 80.00 € , 75.29 € , € 13.33 ,6
+2,BOTTLE,"Gewürztraminer Passito ""Cresta""",Weingut Hans Rottensteiner,2017,WD, 20.90 € , 57.00 € , 42.07 € , € 9.50 ,9
+3,BOTTLE,Rosenmuskateller Rosis,Kellerei Bozen,2020,FW, 18.00 € , 53.00 € , 36.23 € , € 8.83 ,9
+4,BOTTLE,Sweet Claire ,Weingut Lieselehof,2017,Liesele, 39.90 € , 77.00 € , 80.32 € , € 12.83 ,5
+5,BOTTLE,Sweet Claire Quintessenz,Weingut Lieselehof,2015,Liesele, 94.73 € , 199.00 € , 190.69 € , € 33.17 ,2
+6,BOTTLE,"Merlino 19,07 (missing vintage)",Pojer & Sandri,,FW, 19.85 € , 55.00 € , 39.96 € , € 9.17 ,6
+7,BOTTLE,Moscato D´Asti Santo Stefano,Ceretto,2019,FW, 10.20 € , 39.00 € , 20.53 € , € 6.50 ,18
+8,BOTTLE,Ben Rye Passito di Pantelleria,Donnafugata,2020,WD, 24.90 € , 66.00 € , 50.12 € , € 11.00 ,4
+9,BOTTLE,Kracher Beerenauslese Non vintage,Kracher,0,WD, 15.90 € , 49.00 € , 32.01 € , € 8.17 ,2
+10,BOTTLE,Palladius Pfösl Prosecco Millesimato  (inkl. Etikett) ,Palladius,2021,FW, 5.50 € , 25.00 € , 11.07 € , € 4.17 ,576
+11,BOTTLE,Valdobbiadene Superiore,Canella,,ob, 7.86 € , 29.00 € , 15.82 € , € 4.83 ,76
+11,BOTTLE,Lieselehof Brut - Bio I SG,Weingut Lieselehof,2017,Liesele, 34.50 € , 75.00 € , 69.45 € , € 12.50 ,6
+12,BOTTLE,Arunda Cuvée Marianne Extra Brut I PN,Arunda,,FW, 20.00 € , 53.00 € , 40.26 € , € 8.83 ,3
+13,BOTTLE,"Arunda Rosè Brut I PB, PN",Arunda,,WD, 20.00 € , 55.00 € , 40.26 € , € 9.17 ,22
+14,BOTTLE,"Arunda 0,375 Brut sekt (minibar)",Arunda,,WD, 8.60 € , 29.00 € , 17.31 € , € 4.83 ,5
+14.4,BOTTLE,Brut Nature,Stocker,2017,WD, 24.00 € , 59.00 € , 48.31 € , € 9.83 ,9
+15,BOTTLE,"Miau, Methodo Ancestrale",Pranzegg,,WD, 12.17 € , 40.00 € , 24.50 € , € 6.67 ,2
+16,BOTTLE,Kettmeir Riserva Extra Brut 1919,Kettmeir,2016,WD, 36.80 € , 73.00 € , 74.08 € , € 12.17 ,4
+17,BOTTLE,Haderburg brut,haderburg,,WD, 18.90 € , 51.00 € , 38.05 € , € 8.50 ,14
+18,BOTTLE,Blanc de Blanc 600 Pas Dose,Kellerei Kurtatsch,2017,FW, 23.00 € , 58.00 € , 46.30 € , € 9.67 ,16
+19,BOTTLE,Quirinus Brut,Weingut St. Quirinus,,WD, 19.90 € , 55.00 € , 40.06 € , € 9.17 ,8
+19,BOTTLE,Nature Trento DOC,Corvée,,Akos, 14.90 € , 44.00 € , 29.99 € , € 7.33 ,83
+20,BOTTLE,Brut Perlè - Ferrari I CH,Ferrari,2017,O, 34.46 € , 71.00 € , 69.37 € , € 11.83 ,7
+21,BOTTLE,Riserva Lunelli  - Ferrari,Ferrari,2015,Karner, 51.23 € , 99.00 € , 103.13 € , € 16.50 ,4
+22,BOTTLE,Blauwal Riserva ,Cesconi,2014,WD, 33.90 € , 70.00 € , 68.24 € , € 11.67 ,8
+23,BOTTLE,"Ferrari Riserva (2007 -79,00€)",Giulio Ferrari,2009,Karner, 135.00 € , 248.00 € , 271.76 € , € 41.33 ,2
+24,MAGNUM,Ferrari Riserva 2009 Magnum,Giulio Ferrari,2009,WD, 210.00 € , 450.00 € , 422.73 € , € 75.00 ,1
+25,BOTTLE,Franciacorta Nature Blanc de Blanc,Cavalleri,,O, 23.56 € , 59.00 € , 47.43 € , € 9.83 ,4
+26,BOTTLE,Farfalla Collection noir,Ballabio,,WD, 18.70 € , 55.00 € , 37.64 € , € 9.17 ,5
+27,BOTTLE,Barbalonga Saten,Barbalonga,,WD, 16.50 € , 46.00 € , 33.21 € , € 7.67 ,10
+28,BOTTLE,Cuvee 60 Blanc de blancs,Casa Caterina,,WD, 21.90 € , 57.00 € , 44.08 € , € 9.50 ,4
+29,BOTTLE,Bellavista Alma Gran Cuvee Brut,Bellavista,,WD, 23.66 € , 59.00 € , 47.63 € , € 9.83 ,1
+30,BOTTLE,Rose ,Contadi Castaldi,,O, 17.19 € , 52.00 € , 34.60 € , € 8.67 ,13
+33,BOTTLE,A Lorenzo 180 Millesimato 2°Edizione DOC,L. Bellani,,Karner, 26.00 € , 62.00 € , 52.34 € , € 10.33 ,7
+34,BOTTLE,"Champagner Premier Cru - Guy Larmandier I CH, PN",Guy Larmandier,,FW, 25.50 € , 61.00 € , 51.33 € , € 10.17 ,5
+35,BOTTLE,"Champagne rose  majeur Ayala I CH, PN, PM",Ayala,,WS, 48.50 € , 97.00 € , 97.63 € , € 16.17 ,3
+36,BOTTLE,Champagner Brut Rose,Billecart Salmon,,WS, 63.50 € , 127.00 € , 127.83 € , € 21.17 ,2
+37,BOTTLE,"Champagne Ruinart Brut I PN, CH, PM",Ruinart,,O, 56.25 € , 106.00 € , 113.23 € , € 17.67 ,2
+39,BOTTLE,Coup de Coer Extra Brut,Monmarthe,,Cuzziol, 34.80 € , 72.00 € , 70.05 € , € 12.00 ,11
+40,BOTTLE,Champagne Cristal,Louis Roederer,2013,WD, 199.00 € , 368.00 € , 400.59 € , € 61.33 ,2
+41,BOTTLE,Champagne Dom Ruinart Blanc de Blanc,Ruinart,2009,WD, 189.00 € , 320.00 € , 380.46 € , € 53.33 ,2
+42,BOTTLE,Champagne Coutier,Coutier,2011,Michl, 39.15 € , 87.00 € , 78.81 € , € 14.50 ,7
+44,BOTTLE,"Champagne 1er Cru Tradtion I PN, CH, PM",Gosset-Brabant,,Karner, 31.20 € , 67.00 € , 62.81 € , € 11.17 ,8
+45,BOTTLE,"Champagne Carte Blanche 1er Cru I PN, CH, PM",L. Bénard-Pituois,,Karner, 23.40 € , 56.00 € , 47.10 € , € 9.33 ,3
+46,BOTTLE,Champagne Origin.al I PN,Henri Dosnon,,Karner, 32.00 € , 68.00 € , 64.42 € , € 11.33 ,4
+47,BOTTLE,"Champagne Memoire Extra Brut I PN, PM, CH",Huré Frères,,Karner, 62.00 € , 132.00 € , 124.81 € , € 22.00 ,5
+48,BOTTLE,Champagne  Tradition,Michel Laval,,WD, 26.90 € , 63.00 € , 54.15 € , € 10.50 ,18
+49,BOTTLE,Champagne Legras Haas Extra Brut Chouilly grand cru,Legras Haas,,WD, 42.00 € , 89.00 € , 84.55 € , € 14.83 ,6
+50,BOTTLE,Cremant de Loire non dosè / CB,Chateau Pierre-Bise,2018,WD, 18.00 € , 53.00 € , 36.23 € , € 8.83 ,3
+51,BOTTLE,Premiere Cuvee Extra brut,Bruno Paillard,,Cuzziol, 41.50 € , 92.00 € , 83.54 € , € 15.33 ,8
+52,BOTTLE,Premiere Cuvee Rose Extra brut,Bruno Paillard,,Cuzziol, 48.90 € , 98.00 € , 98.44 € , € 16.33 ,2
+53,BOTTLE,Assemblage Millesime,Bruno Paillard,2012,Cuzziol, 63.00 € , 127.00 € , 126.82 € , € 21.17 ,2
+54,BOTTLE,Kalkspitz,Christoph Hoch,,Cuzziol, 10.50 € , 39.00 € , 21.14 € , € 6.50 ,10
+54.5,BOTTLE,Zero Infinito,Pojer & Sandri,,FW, 13.00 € , 40.00 € , 26.17 € , € 6.67 ,20
+54.6,BOTTLE,Marsili Rosato,Tenuta di castellare,,Akos, 13.90 € , 43.00 € , 27.98 € , € 7.17 ,7
+55,BOTTLE,L´Incantatrice,Cantina Lunae,,Akos, 10.70 € , 40.00 € , 21.54 € , € 6.67 ,11
+56,BOTTLE,Pure and Naked,Weingut am Stein,,WD, 18.60 € , 48.00 € , 37.44 € , € 8.00 ,9
+56.4,BOTTLE,Brut Reserve ,Bründelmayer,,Akos, 22.95 € , 58.00 € , 46.20 € , € 9.67 ,3
+57,BOTTLE,Fantasie der Schieferterassen,Heymann-Löwenstein,2008,Cuzziol, 48.00 € , 97.00 € , 96.62 € , € 16.17 ,2
+58,BOTTLE,Weissburgunder Sirmian,Kellerei Nals Margreid,2021,FW, 17.00 € , 42.00 € , 34.22 € , € 7.00 ,81
+58,BOTTLE,Weissburgunder ,Romen,2022,Romen, 10.00 € , 40.00 € , 20.13 € , € 6.67 ,18
+59,MAGNUM,Weißburgunder Tecum (Magnum),Weingut Castelfeder,2015,Castelfeder, 33.00 € , 79.00 € , 66.43 € , € 13.17 ,1
+60,BOTTLE,Weissburgunder Vorberg Riserva,Kellerei Terlan ,2020,O, 20.00 € , 55.00 € , 40.26 € , € 9.17 ,16
+60.5,MAGNUM,Weissburgunder Vorberg Magnum,Kellerei Terlan ,2016,Karner, 49.85 € , 120.00 € , 100.35 € , € 20.00 ,4
+61,BOTTLE,Weissburgunder Rarity,Kellerei Terlan ,2007,Karner, 86.85 € , 169.00 € , 174.83 € , € 28.17 ,1
+61.2,BOTTLE,Weissburgunder Rarity,Kellerei Terlan ,2010,OBK, 107.50 € , 217.00 € , 216.40 € , € 36.17 ,1
+62,BOTTLE,Weißburgunder Riserva St. Sebastian,Schloss Englar,2019,FW, 14.95 € , 44.00 € , 30.09 € , € 7.33 ,3
+63,BOTTLE,Weißburgunder ,Weingut Wassererhof,2019,O, 11.80 € , 39.00 € , 23.75 € , € 6.50 ,19
+64,BOTTLE,Weißburgunder Art,Weingut Abraham,2019,WD, 31.00 € , 90.00 € , 62.40 € , € 15.00 ,-1
+65,BOTTLE,Weißburgunder Renaissance,Gumphof,2019,WD, 26.50 € , 62.00 € , 53.34 € , € 10.33 ,1
+67,MAGNUM,Weißburgunder muschelkalk magnum,Abraham,2018,WD, 39.00 € , 79.00 € , 78.51 € , € 13.17 ,-4
+68,BOTTLE,Weißburgunder Muschelkalk,Abraham,2020,WD, 16.90 € , 52.00 € , 34.02 € , € 8.67 ,12
+69,BOTTLE,Weißburgunder Amphora,Weingut Hochklaus,2020,Hochklaus, 22.10 € , 54.00 € , 44.49 € , € 9.00 ,7
+70,BOTTLE,Weißburgunder Himmelsleiter,castel Juval,2020,WD, 19.60 € , 60.00 € , 39.45 € , € 10.00 ,13
+71,BOTTLE,Weißburgunder Kardatsch,Untermoserhof - Georg Ramoser,2021,FW, 13.90 € , 43.00 € , 27.98 € , € 7.17 ,9
+72,BOTTLE,Chardonnay Löwengang,Weingut Alois Lageder,2019,WD, 44.50 € , 93.00 € , 89.58 € , € 15.50 ,6
+72.3,BOTTLE,Chardonnay Gottesacker,Martin Abraham,2021,WD, 16.90 € , 50.00 € , 34.02 € , € 8.33 ,16
+73,BOTTLE,Chardonnay AU,Kellerei Tiefenbrunner,2017,FW, 45.00 € , 105.00 € , 90.59 € , € 17.50 ,6
+74,BOTTLE,"Chardonnay AU AT Tempus (2014,15 u 16)",Kellerei Tiefenbrunner,,Cuzziol, 55.00 € , 116.00 € , 110.72 € , € 19.33 ,9
+75,BOTTLE,"Chardonnay Riserva ""Burgum Novum""",Weingut Castelfeder,2019,Karner/Castelfeder, 19.11 € , 53.00 € , 38.47 € , € 8.83 ,10
+76,BOTTLE,Chardonnay Riserva Lina,Weingut Bergmannhof,2021,WD, 19.00 € , 54.00 € , 38.25 € , € 9.00 ,8
+78,BOTTLE,Chardonnay Lafoà,Kellerei Schreckbichl,2021,WD, 18.20 € , 53.00 € , 36.64 € , € 8.83 ,6
+79,BOTTLE,Chardonnay Ateyon  ,Weingut Loacker,2021,WD, 14.50 € , 43.00 € , 29.19 € , € 7.17 ,11
+80,BOTTLE,Chardonnay Donà d'Or,Weingut Hartmann Donà,2013,Akos, 37.50 € , 85.00 € , 75.49 € , € 14.17 ,4
+81,BOTTLE,Chardonnay Fluch und Segen,Martin Gschraffer,2021,Martin Gschraffer, 21.70 € , 57.00 € , 43.68 € , € 9.50 ,9
+82,BOTTLE,Chardonnay Alte Reben,Berhard Huber,,WD, 30.50 € , 67.00 € , 61.40 € , € 11.17 ,1
+83,BOTTLE,Chardonnay Foll,Cantina Toblino,2019,Cuzziol, 14.50 € , 42.00 € , 29.19 € , € 7.00 ,27
+84,BOTTLE,Chardonnay Moraine,Untermoserhof - Georg Ramoser,2020,WD, 19.00 € , 54.00 € , 38.25 € , € 9.00 ,11
+84.5,BOTTLE,Chardonnay Kreuzweg,Castelferder,2019,WD, 65.00 € , 130.00 € , 130.85 € , € 21.67 ,12
+85,BOTTLE,Pinot Grigio - Castel Ringberg ,Weingut Elena Walch,2022,FW, 17.05 € , 47.00 € , 34.32 € , € 7.83 ,6
+86,BOTTLE,Pinot Grigio - Aristos,Eisacktaler kellerei,2019,WD, 11.50 € , 40.00 € , 23.15 € , € 6.67 ,2
+87,BOTTLE,Pinot Grigio - Punggl,Nals Margreid,2021,WD, 11.85 € , 41.00 € , 23.85 € , € 6.83 ,20
+88,BOTTLE,Pinot Grigio Porer,Weingut Alois Lageder,2021,WD, 14.45 € , 42.00 € , 29.09 € , € 7.00 ,16
+89,BOTTLE,Pinot Grigio Puiten ,Kellerei Schreckbichl,2020,WD, 10.20 € , 36.00 € , 20.53 € , € 6.00 ,7
+90,BOTTLE,Pinot Grigio Riserva Giatl,Weingut Peter Zemmer,2020,WD, 16.90 € , 46.00 € , 34.02 € , € 7.67 ,10
+91,BOTTLE,Müller Thurgau Sass Rigais,Weingut Manni Nössing,2022,FW, 10.50 € , 39.00 € , 21.14 € , € 6.50 ,17
+92,BOTTLE,Müller Thurgau Vigna Feldmarschall,Schlosskellerei Tiefenbrunner,2020,FW, 33.25 € , 69.00 € , 66.93 € , € 11.50 ,16
+93,BOTTLE,Müller Thurgau Vigna Feldmarschall,Schlosskellerei Tiefenbrunner,2010,FW, 28.75 € , 75.00 € , 57.87 € , € 12.50 ,3
+94,BOTTLE,Vigna Feldmarschall Vendemia Tardiva,Schlosskellerei Tiefenbrunner,2016,Cuzziol, 75.00 € , 76.00 € , 150.98 € , € 12.67 ,3
+95,BOTTLE,Kerner Karneid,Weingut Franz Gojer,2022,WD, 9.95 € , 39.00 € , 20.03 € , € 6.50 ,11
+96,BOTTLE,Kerner Aurona,Kellerei Laimburg,2015,WD, 16.90 € , 52.00 € , 34.02 € , € 8.67 ,5
+97,BOTTLE,Kerner ,Rielinger,2022,WD, 13.60 € , 40.00 € , 27.38 € , € 6.67 ,10
+98,BOTTLE,Kerner ,Weingut Villscheiderhof,2022,WD, 9.90 € , 36.00 € , 19.93 € , € 6.00 ,14
+99,BOTTLE,Grüner Veltliner Hautnah,Weingut Garlider,2016,WD, 24.60 € , 61.00 € , 49.52 € , € 10.17 ,2
+100,BOTTLE,Grüner Veltliner ,Weingut Garlider,2020,WD, 11.80 € , 39.00 € , 23.75 € , € 6.50 ,13
+101,BOTTLE,Grüner Veltliner R,Köfererhof,2022,WD, 15.90 € , 49.00 € , 32.01 € , € 8.17 ,11
+102,BOTTLE,Grüner Veltliner ,Pacherhof,2022,Karner, 12.67 € , 41.00 € , 25.50 € , € 6.83 ,9
+103,BOTTLE,Sylvaner Alte Rebe,Weingut Pacherhof,2019,Karner, 20.59 € , 56.00 € , 41.45 € , € 9.33 ,8
+104,BOTTLE,Sylvaner Praepositus,Stiftskellerei Neustift,2019,Neustift, 14.10 € , 42.00 € , 28.38 € , € 7.00 ,5
+105,BOTTLE,Sylvaner,Weingut Thomas Dorfmann,2019,Akos, 14.38 € , 42.00 € , 28.95 € , € 7.00 ,21
+106,BOTTLE,Sylvaner Hautnah,Weingut Garlider,2016,WD, 24.60 € , 61.00 € , 49.52 € , € 10.17 ,5
+107.2,BOTTLE,Silvaner,Daniel Sigmund,2021,Lebewein, 13.90 € , 43.00 € , 27.98 € , € 7.17 ,6
+107.3,BOTTLE,Sylvaner,Zöhlhof,2021,Lebewein, 13.70 € , 43.00 € , 27.58 € , € 7.17 ,5
+107.4,BOTTLE,Einstein Sylvaner,Zöhlhof,2021,Lebewein, 25.00 € , 61.00 € , 50.33 € , € 10.17 ,3
+107.4,BOTTLE,Riesling,Daniel Sigmund,2022,Lebewein, 15.90 € , 49.00 € , 32.01 € , € 8.17 ,6
+108,BOTTLE,Riesling,Weingut Falkenstein,2021,FW, 13.50 € , 45.00 € , 27.18 € , € 7.50 ,15
+109,BOTTLE,Riesling private reserve (reserviert),Weingut Falkenstein,2015,FW, 15.45 € , 55.00 € , 35.00 € , € 9.17 ,0
+110,BOTTLE,Riesling Anadûron,Weingut Falkenstein,2018,FW, 28.40 € , 62.00 € , 35.00 € , € 10.33 ,15
+111,BOTTLE,Riesling Windbichl,castel Juval,2020,WD, 26.90 € , 70.00 € , 54.15 € , € 11.67 ,9
+113,BOTTLE,Riesling Lehengut,Weingut Lehengut,2021,Karner, 12.00 € , 40.00 € , 24.16 € , € 6.67 ,21
+114,BOTTLE,Riesling Dorfmann,Weingut Thomas Dorfmann,2020,O, 14.38 € , 41.00 € , 28.95 € , € 6.83 ,7
+115,BOTTLE,Riesling Praepositus,Stiftskellerei Neustift,2017,Neustift, 15.50 € , 49.00 € , 31.20 € , € 8.17 ,2
+116,BOTTLE,Riesling ,Weingut Hochklaus,2021,Hochklaus, 19.50 € , 54.00 € , 39.25 € , € 9.00 ,37
+117,BOTTLE,Sauvignon Voglar ,Weingut Peter Dipoli,2020,FW, 15.50 € , 45.00 € , 31.20 € , € 7.50 ,11
+118,BOTTLE,Sauvignon St. Valentin ,Kellerei St. Michael Eppan,2020,WD, 17.70 € , 51.00 € , 35.63 € , € 8.50 ,4
+119,BOTTLE,Sauvignon Lafoà,Kellerei Schreckbichl,2021,Schreckbichl, 18.90 € , 54.00 € , 38.05 € , € 9.00 ,14
+120,BOTTLE,Sauvignon,Weingut Wassererhof,2020,O, 10.90 € , 41.00 € , 21.94 € , € 6.83 ,16
+121,BOTTLE,Sauvignon Riserva,Weingut Wassererhof,2019,O, 23.86 € , 57.00 € , 48.03 € , € 9.50 ,4
+122,BOTTLE,Sauvignon Private reserve,Weingut Falkenstein,2012,FW, 15.70 € , 55.00 € , 31.60 € , € 9.17 ,7
+123,BOTTLE,Sauvignon Rachtl,Kellerei Tiefenbrunner,2018,FW, 35.00 € , 83.00 € , 70.46 € , € 13.83 ,2
+124,BOTTLE,Sauvignon Lieben Aich,Manincor,2020,Karner, 43.24 € , 92.00 € , 87.04 € , € 15.33 ,6
+125,BOTTLE,Sauvignon Quarz,Kellerei Terlan ,2020,Karner, 36.00 € , 85.00 € , 72.47 € , € 14.17 ,10
+127,BOTTLE,Sauvignon Oberberg,Weingut Kornell,2020,Karner, 19.90 € , 56.00 € , 40.06 € , € 9.33 ,18
+128,BOTTLE,Sauvignon Tasnim Bio,Weingut Loacker,2019,WD, 11.80 € , 41.00 € , 23.75 € , € 6.83 ,8
+129,BOTTLE,Cosmas,Weingut Kornell,2022,Karner, 9.90 € , 37.00 € , 19.93 € , € 6.17 ,44
+131,BOTTLE,Sauvignon Mathias,Weingut Pfitscher,2019,WD, 24.00 € , 59.00 € , 48.31 € , € 9.83 ,5
+132,BOTTLE,Gewürztraminer Selida,Kellerei Tramin,2022,FW, 9.90 € , 35.00 € , 19.93 € , € 5.83 ,-1
+133,BOTTLE,Gewürztraminer Nussbaumer,Kellerei Tramin,2021,WD, 19.90 € , 60.00 € , 40.06 € , € 10.00 ,11
+134,BOTTLE,Gewürztraminer  Orange,Schloss Englar,2020,FW, 13.00 € , 42.00 € , 26.17 € , € 7.00 ,14
+135,BOTTLE,Gewürztraminer Upupa Orange,Martin Abraham,2020,WD, 19.90 € , 55.00 € , 40.06 € , € 9.17 ,4
+136,BOTTLE,Gewürztraminer Riserva Exilissi,Baron di Pauli,2018,FW, 23.40 € , 59.00 € , 47.10 € , € 9.83 ,7
+137,BOTTLE,Gewürztraminer Tardus,Schlosskellerei Tiefenbrunner,2019,FW, 22.35 € , 58.00 € , 44.99 € , € 9.67 ,18
+138,BOTTLE,Gewürztraminer St. Valentin,Kellerei St. Michael Eppan,2021,WD, 19.10 € , 54.00 € , 38.45 € , € 9.00 ,17
+139,BOTTLE,Gewürztraminer Epokale (1x Daniel 2011),Kellerei Tramin,2015,Alka, 95.00 € , 200.00 € , 191.24 € , € 33.33 ,2
+139,BOTTLE,Gewürztraminer am Sand,Alois Lageder,2021,WD, 16.60 € , 46.00 € , 33.42 € , € 7.67 ,8
+139,BOTTLE,Solaris Anterui,Urban Visintin,2019,Liesele, 12.00 € , 41.00 € , 24.16 € , € 6.83 ,33
+140,BOTTLE,Vino del Passo - Green Mountain Wine,Weingut Lieselehof,2019,Liesele, 39.50 € , 82.00 € , 79.51 € , € 13.67 ,8
+140.2,BOTTLE,Le Viogn,Tröpfltalhof,2021,WD, 17.20 € , 52.00 € , 34.62 € , € 8.67 ,4
+141.2,BOTTLE,Shades of Gris Project XXX,Kellerei Kaltern,2020,WD, 19.90 € , 55.00 € , 40.06 € , € 9.17 ,7
+142.2,BOTTLE,Muscaris Sulis,Weingut Edmund Pomella,2022,Pomella, 14.70 € , 44.00 € , 29.59 € , € 7.33 ,14
+142,BOTTLE,Julian - Bio,Weingut Lieselehof,2019,Liesele, 20.70 € , 50.00 € , 41.67 € , € 8.33 ,8
+143,BOTTLE,Julian Orange - Bio,Weingut Lieselehof,2020,Liesele, 31.20 € , 64.00 € , 62.81 € , € 10.67 ,8
+143.4,BOTTLE,De Vite (bestellt),Weingut Hofstätter,2022,O, 9.43 € , 37.00 € , 18.98 € , € 6.17 ,35
+144,BOTTLE,Manna,Franz Haas,2022,FW, 17.15 € , 49.00 € , 34.52 € , € 8.17 ,30
+144.3,BOTTLE,Aichberg,Kornell,2020,WD, 19.90 € , 54.00 € , 40.06 € , € 9.00 ,8
+145,BOTTLE,Beyond The Clouds,Weingut Elena Walch,2021,O, 52.00 € , 99.00 € , 104.68 € , € 16.50 ,9
+146,BOTTLE,Beyond the Clouds Argentum Bonum,Weingut Elena Walch,2012,O, 60.60 € , 132.00 € , 121.99 € , € 22.00 ,1
+147,BOTTLE,Reserve della Contessa  ,Weingut Manincor,2022,OB, 13.75 € , 42.00 € , 27.68 € , € 7.00 ,4
+148,BOTTLE,Private Cuvèe,Weingut Pacherhof,2019,Karner, 27.46 € , 66.00 € , 55.28 € , € 11.00 ,14
+149,BOTTLE,TERLANER Cuvee rarity 2008,Kellerei Terlan ,2008,Karner, 108.00 € , 207.00 € , 217.40 € , € 34.50 ,3
+150,BOTTLE,TERLANER Primo Grande Cuvee,Kellerei Terlan ,2019,WD, 125.00 € , 250.00 € , 251.63 € , € 41.67 ,4
+150.2,BOTTLE,TERLANER Primo Grande Cuvee,Kellerei Terlan ,2020,OBK, 134.00 € , 270.00 € , 269.74 € , € 45.00 ,2
+151,BOTTLE,LR,Kellerei Schreckbichl,2017,WD, 56.00 € , 130.00 € , 112.73 € , € 21.67 ,1
+152,BOTTLE,LR,Kellerei Schreckbichl,2019,WD, 64.00 € , 125.00 € , 128.83 € , € 20.83 ,6
+152,BOTTLE,Appius,Kellerei St. Michael eppan,2016,Karner, 77.00 € , 159.00 € , 155.00 € , € 26.50 ,1
+153,BOTTLE,Caroline,Weingut Pranzegg,2018,Karner, 18.62 € , 52.00 € , 37.48 € , € 8.67 ,6
+154,BOTTLE,Eart,Bergmannhof,2020,WD, 24.00 € , 58.00 € , 48.31 € , € 9.67 ,8
+155,BOTTLE,Dolomytos Weiss,Ansitz Dolomythos,2016,WS, 31.75 € , 68.00 € , 63.91 € , € 11.33 ,8
+156,BOTTLE,Dolomytos Weiss,Ansitz Dolomythos,2007,WS, 40.90 € , 89.00 € , 82.33 € , € 14.83 ,3
+156.5,BOTTLE,Dona Blanc,Hartmann Dona,2019,Akos, 19.90 € , 54.00 € , 40.06 € , € 9.00 ,9
+157,BOTTLE,Ros`Anna Lacrima di Morro dÀlba,Tenuta di Fra  ,,Daniel, 8.85 € , 37.00 € , 17.82 € , € 6.17 ,0
+158,BOTTLE,Rosé,Kellerei Nals Margreid,2021,FW, 7.35 € , 33.00 € , 14.80 € , € 5.50 ,0
+160,BOTTLE,Le Rose de Manincor,Weingut Manincor,2022,O, 14.85 € , 44.00 € , 29.89 € , € 7.33 ,9
+161,BOTTLE,upupa Rosa,Abraham,2022,WD, 12.50 € , 41.00 € , 25.16 € , € 6.83 ,9
+161,BOTTLE,Rose Si,Duemani,2022,WD, 21.50 € , 57.00 € , 43.28 € , € 9.50 ,12
+161,BOTTLE,Lagrein Rosé,Hochklasus,2021,Hochklaus, 12.50 € , 40.00 € , 25.16 € , € 6.67 ,13
+162,BOTTLE,Lagrein Rose,Rottensteiner,2022,Karner, 7.50 € , 35.00 € , 15.10 € , € 5.83 ,9
+163,BOTTLE,Nosiola Bio,Salvetta,2016,Akos, 11.50 € , 38.00 € , 23.15 € , € 6.33 ,4
+164,BOTTLE,Pinot Grigio - bio,Cesconi,2022,WD, 11.20 € , 40.00 € , 22.55 € , € 6.67 ,17
+165,BOTTLE,Massifitti Trebbiano di Soave,Suavia,2020,Cuzziol, 11.50 € , 40.00 € , 23.15 € , € 6.67 ,0
+166,BOTTLE,Monte Carbonare,Suavia,2021,Cuzziol, 12.60 € , 42.00 € , 25.36 € , € 7.00 ,18
+167,BOTTLE,Opera Semplice,Suavia,,Cuzziol, 18.00 € , 53.00 € , 36.23 € , € 8.83 ,9
+168,BOTTLE,Pinot Grigio Sturm,Tenuta Sturm,2018,Karner, 11.00 € , 36.00 € , 22.14 € , € 6.00 ,11
+169,BOTTLE,Adelchi Ribolla Gialla,Venica e Venica,2021,WD, 17.30 € , 52.00 € , 34.82 € , € 8.67 ,6
+170.2,BOTTLE,Ribolla,Gravner,2012,Karner, 72.10 € , 145.00 € , 145.14 € , € 24.17 ,3
+170.2,BOTTLE,Ribolla,Gravner,2015,Karner, 66.00 € , 132.00 € , 132.86 € , € 22.00 ,2
+170,BOTTLE,Friulano,Ronco Severo,2020,WD, 20.50 € , 55.00 € , 41.27 € , € 9.17 ,5
+171,BOTTLE,Greco di Tufo - Cutizzi,Feudi San Gregorio,2018,Akos, 9.50 € , 36.00 € , 19.12 € , € 6.00 ,0
+172,BOTTLE,Fiano di Avellino - Pietra calda,Feudi San Gregorio,2018,Akos, 9.50 € , 36.00 € , 19.12 € , € 6.00 ,10
+173,BOTTLE,Chardonnay ,Monteverro,2016,Karner, 61.00 € , 123.00 € , 122.79 € , € 20.50 ,3
+174,BOTTLE,Vermentino BIO,Monteverro,2021,Karner, 11.50 € , 40.00 € , 23.15 € , € 6.67 ,13
+175,BOTTLE,Riesling Herzu,Germano Ettore,2021,WD, 19.30 € , 54.00 € , 38.85 € , € 9.00 ,10
+176,BOTTLE,Grillo,Caruso & M,2022,WD, 8.90 € , 37.00 € , 17.92 € , € 6.17 ,11
+177,BOTTLE,Arneis  Camestri,Marco Porello,2022,Cuzziol, 8.70 € , 36.00 € , 17.51 € , € 6.00 ,9
+178,BOTTLE,Derthona Timorasso,Borgogno,2021,WD, 23.90 € , 58.00 € , 48.11 € , € 9.67 ,6
+179,BOTTLE,Derthona Timorasso Colli Torinesi,Mariotto,2021,WD, 10.69 € , 39.00 € , 21.52 € , € 6.50 ,6
+179.5,BOTTLE,Cairossa Bianco,Caiarossa,2021,Akos, 15.50 € , 50.00 € , 31.20 € , € 8.33 ,2
+179,BOTTLE,Reiterpfad,Von Winning,2018,WD, 23.50 € , 59.00 € , 47.31 € , € 9.83 ,8
+180,BOTTLE,Riesling Spätlese Trocken,Karthäuserhof,2008,Michl, 28.00 € , 63.00 € , 63.00 € , € 10.50 ,-2
+181,BOTTLE,Riesling Alte Rebe,Karthäuserhof,2014,Michl, 19.90 € , 55.00 € , 63.00 € , € 9.17 ,5
+182,BOTTLE,Alte Reben Riesling,Van Volxem,2021,Karner, 19.36 € , 54.00 € , 38.97 € , € 9.00 ,5
+183,BOTTLE,Riesling Scharzhofberger,Van Volxem,2020,Karner, 39.20 € , 82.00 € , 78.91 € , € 13.67 ,5
+184,BOTTLE,Riesling Röttgen,Heymann-Löwenstein,2019,WD, 43.50 € , 89.00 € , 87.57 € , € 14.83 ,3
+184.3,BOTTLE,Riesling Bernkasteller Badstube Kabi,J.J.Prüm,2021,Akos, 27.95 € , 58.00 € , 56.26 € , € 9.67 ,6
+184.5,BOTTLE,Riesling Graacher Himmelreich Auslese,J.J.Prüm,2021,Akos, 49.25 € , 95.00 € , 99.14 € , € 15.83 ,3
+185,BOTTLE,Riesling Quarzit,Peter Jakob Kühn,2021,WD, 21.50 € , 50.00 € , 43.28 € , € 8.33 ,11
+186,BOTTLE,Riesling Nikolaus,Peter Jakob Kühn,2020,WD, 51.90 € , 95.00 € , 104.47 € , € 15.83 ,9
+187,BOTTLE,Riesling Stettener stein GG,Weingut am Stein,2019,WD, 38.90 € , 80.00 € , 78.31 € , € 13.33 ,2
+188,BOTTLE,Riesling Teufelskopf Erste Lage,W.E. Frank,,Michl, 26.60 € , 63.00 € , 53.55 € , € 10.50 ,0
+189,BOTTLE,Riesling Tonschiefer,Weingut Dönnhof,2022,FW, 13.95 € , 43.00 € , 28.08 € , € 7.17 ,16
+190,BOTTLE,Riesling hermannhöhle GG,Weingut Dönnhof,2020,FW, 44.50 € , 98.00 € , 89.58 € , € 16.33 ,3
+191,MAGNUM,Riesling Dellchen magnum,Weingut Dönnhof,2018,FW, 79.50 € , 164.00 € , 160.03 € , € 27.33 ,0
+192,MAGNUM,Riesling Dellchen magnum,Weingut Dönnhof,2016,FW, 85.00 € , 171.00 € , 171.11 € , € 28.50 ,1
+193,BOTTLE,Riesling Frühlingsplätzchen GG,Schönleber,2018,Cuzziol, 43.50 € , 89.00 € , 87.57 € , € 14.83 ,6
+194,BOTTLE,Weissburgunder RS,Salwey,2019,Cuzziol, 14.50 € , 43.00 € , 29.19 € , € 7.17 ,11
+195,BOTTLE,Grauburgunder Henkenberg GG,Salwey,2018,Cuzziol, 25.90 € , 61.00 € , 52.14 € , € 10.17 ,3
+196,BOTTLE,Graue Freyheit,Heinrich,2020,WD, 22.00 € , 57.00 € , 44.29 € , € 9.50 ,8
+197,BOTTLE,Sauvignon Sernau,Tement,2018,WD, 33.90 € , 69.00 € , 68.24 € , € 11.50 ,3
+198,BOTTLE,Grüner Veltliner Vogelsang ,Bründelmayer,2022,WD, 19.90 € , 54.00 € , 40.06 € , € 9.00 ,-1
+199,BOTTLE,Ried Pfeningberg Riesling 1 Lage,Proidl,2017,WD, 29.10 € , 65.00 € , 58.58 € , € 10.83 ,3
+200,BOTTLE,Riesling federspiel,Weingut Knoll,2017,WD, 17.90 € , 52.00 € , 36.03 € , € 8.67 ,0
+201,BOTTLE,"Riesling Himmelreich Kabinett 16,95",Markus Molitor,2020,Akos, 21.50 € , 55.00 € , 43.28 € , € 9.17 ,2
+202,BOTTLE,Riesling Trabener Würzgarten Kabinett Feinherb,Martin Müllen,2020,Michl, 17.80 € , 52.00 € , 35.83 € , € 8.67 ,0
+203,BOTTLE,Chardonnay Santa Barbara,Joel Gott,2017,Michl, 21.80 € , 57.00 € , 43.88 € , € 9.50 ,1
+204,BOTTLE,Chardonnay,Sandhi,2018,Michl, 31.15 € , 67.00 € , 62.70 € , € 11.17 ,2
+205,BOTTLE,Chablis Bearoy 1er Cru,Geoffroy,2021,Cuzziol, 22.50 € , 58.00 € , 45.29 € , € 9.67 ,6
+206,BOTTLE,Borgogne Les Sétilles,Olivier Leflaive,2020,WD, 30.40 € , 70.00 € , 61.20 € , € 11.67 ,10
+207,BOTTLE,Meursault Charrons,Michel bouzereau,2019,WD, 52.20 € , 98.00 € , 105.08 € , € 16.33 ,0
+208,BOTTLE,Pouilly Fumé Cuvee riquette ,Domaine de Bel Air,2021,Cuzziol, 16.50 € , 46.00 € , 33.21 € , € 7.67 ,6
+209,BOTTLE,Pouilly Fumé,Ladoucette,2021,WD, 24.90 € , 60.00 € , 50.12 € , € 10.00 ,8
+210,BOTTLE,Sancerre Etienne Silex,H Bourgois,2015,WD, 47.90 € , 89.00 € , 96.42 € , € 14.83 ,6
+211,BOTTLE,Clos David Chenin Blanc,Arnaud Lambert,2016,Cuzziol, 21.50 € , 57.00 € , 43.28 € , € 9.50 ,3
+212,BOTTLE,Chassagne Montrachet Les Fairendes 1er Cru,Domaine Coffinet-Duvernay,2018,Cuzziol, 56.50 € , 112.00 € , 113.73 € , € 18.67 ,2
+213,BOTTLE,Viré Clessé,Comte Lafon,2021,Cuzziol, 27.00 € , 65.00 € , 54.35 € , € 10.83 ,11
+214,BOTTLE,Mercurey Les Rochelles,Domaine Mia,2020,Cuzziol, 28.50 € , 64.00 € , 57.37 € , € 10.67 ,5
+215,BOTTLE,Isarcus ,Griesbauerhof,2020,O, 12.60 € , 40.00 € , 25.36 € , € 6.67 ,2
+216,BOTTLE,Vernatsch 69` ,Rielinger,2020,WD, 13.10 € , 40.00 € , 26.37 € , € 6.67 ,14
+216.5,BOTTLE,Mitter Vernatsch,Hartmann Dona,2022,Akos, 14.00 € , 42.00 € , 28.18 € , € 7.00 ,63
+217,BOTTLE,Upupa rot,Weingut Abraham,2019,WD, 11.80 € , 38.00 € , 23.75 € , € 6.33 ,-1
+218,BOTTLE,Hoamet,Bergmannhof,2020,WD, 14.50 € , 41.00 € , 29.19 € , € 6.83 ,16
+219,BOTTLE,Dona Rouge,Weingut Hartmann Donà,2012,Akos, 19.95 € , 53.00 € , 40.16 € , € 8.83 ,7
+220,BOTTLE,Sankt Anna,Weingut in der Eben,2018,WD, 10.90 € , 36.00 € , 21.94 € , € 6.00 ,5
+221,MAGNUM,"Gschleier - Magnum 28,60€",Kellerei Girlan,2020,FW, 12.80 € , 40.00 € , 25.77 € , € 6.67 ,4
+222,BOTTLE,Erbe und auftrag,Andi Sölva,2020,Michl, 17.90 € , 53.00 € , 36.03 € , € 8.83 ,0
+223,BOTTLE,Campill,Weingut Pranzegg,2018,Karner, 16.12 € , 44.00 € , 32.45 € , € 7.33 ,16
+224,BOTTLE,Vino rosso leggero,Weingut Pranzegg,2022,Karner, 11.10 € , 38.00 € , 22.34 € , € 6.33 ,-2
+224,BOTTLE,Kalterersee Auslese Römigberg,Weingut Alois Lageder,2018,O, 9.54 € , 36.00 € , 19.20 € , € 6.00 ,3
+225,BOTTLE,Kalterersee Auslese Leuchtenberg,Kellerei Kaltern,2018,FW, 6.90 € , 33.00 € , 13.89 € , € 5.50 ,3
+226,BOTTLE,Kalterersee Auslese Kalkofen,Weingut Baron di Pauli,2017,FW, 9.60 € , 36.00 € , 19.32 € , € 6.00 ,3
+227,BOTTLE,"Magdalener klassisch HUB - 1,5  31,5",Untermoserhof - Georg Ramoser,2021,FW, 14.15 € , 43.00 € , 28.48 € , € 7.17 ,12
+228,BOTTLE,Magdalener Vigna Premstrallerhof,Rottensteiner,2022,WD, 8.60 € , 36.00 € , 17.31 € , € 6.00 ,34
+229,BOTTLE,Gran Marie Magdalener klassisch ,Weingut Fliederhof,2021,WD, 16.50 € , 46.00 € , 33.21 € , € 7.67 ,9
+230,BOTTLE,Prior Rot,Wingut Edmund Pomella,2022,Pomella, 12.30 € , 41.00 € , 24.76 € , € 6.83 ,24
+231,MAGNUM,"Blauburgunder Matan Riserva - Magnum 54,00€",Weingut Pfitscher,2020,O, 23.50 € , 61.00 € , 47.31 € , € 10.17 ,8
+237,BOTTLE,Blauburgunder Fuxleiten,Weingut Pfitscher,2022,O, 14.00 € , 42.00 € , 28.18 € , € 7.00 ,30
+231.2,BOTTLE,Blauburgunder Vigna das Langenfeld,Weingut Pfitscher,2019,WD, 89.00 € , 180.00 € , 179.16 € , € 30.00 ,3
+232,BOTTLE,Blauburgunder ,Weingut Gottardi,2019,FW, 17.20 € , 50.00 € , 34.62 € , € 8.33 ,35
+233,MAGNUM,Mazzon Blauburgunder Magnum,Weingut Gottardi,2013,FW, 37.50 € , 85.00 € , 75.49 € , € 14.17 ,2
+234,BOTTLE,Blauburgunder Riserva,Weingut Gottardi,2017,FW, 29.25 € , 65.00 € , 58.88 € , € 10.83 ,12
+234,MAGNUM,"Blauburgunder Riserva 1,5l",Weingut Gottardi,2017,FW, 63.00 € , 135.00 € , 126.82 € , € 22.50 ,1
+235,BOTTLE,Blauburgunder selection,Weingut Gottardi,2015,FW, 37.00 € , 90.00 € , 74.48 € , € 15.00 ,9
+236,BOTTLE,Blauburgunder Riserva Mazon,Weingut Hofstätter,2019,O, 28.75 € , 65.00 € , 57.87 € , € 10.83 ,19
+238,BOTTLE,Blauburgunder Riserva Oxenreiter,Weingut Steinhaushof,2013,WD, 18.50 € , 50.00 € , 37.24 € , € 8.33 ,5
+239,BOTTLE,Blauburgunder Doná Noir ,Weingut Hartmann Donà,2015,Akos, 47.50 € , 96.00 € , 95.62 € , € 16.00 ,5
+240,BOTTLE,Blauburgunder Riserva limited edition,Weingut Plonerhof,2016,WD, 37.70 € , 86.00 € , 75.89 € , € 14.33 ,0
+241,BOTTLE,Blauburgunder Riserva Exklusiv,Weingut Plonerhof,2019,WD, 29.50 € , 65.00 € , 59.38 € , € 10.83 ,7
+242,BOTTLE,Blauburgunder Schwarze Madonna,Weingut Klosterhof,2019,WD, 18.50 € , 53.00 € , 37.24 € , € 8.83 ,1
+243,BOTTLE,Pinot Nero Riserva Burgum Novum,Weingut Castelfeder,2018,WD, 22.00 € , 58.00 € , 44.29 € , € 9.67 ,12
+244,BOTTLE,Blauburgunder Art,Weingut Abraham,2018,WD, 45.90 € , 105.00 € , 92.40 € , € 17.50 ,10
+245,BOTTLE,Blauburgunder,Weingut Abraham,2019,WD, 24.30 € , 59.00 € , 48.92 € , € 9.83 ,7
+246,BOTTLE,Blauburgunder Violette,Von winning,2015,Cuzziol, 49.00 € , 92.00 € , 96.00 € , € 15.33 ,5
+246.1,BOTTLE,Pinot Noir ,Gantenbein,2021,FW, 115.00 € , 260.00 € , 96.00 € , € 43.33 ,1
+247,BOTTLE,Spätburgunder Alte reben,Berhard Huber,,WD, 29.90 € , 66.00 € , 60.19 € , € 11.00 ,0
+439,BOTTLE,Maddalena Nera,Langut Buchner - Rainer Uhl,2019,Uhl, 17.08 € , 46.00 € , 34.38 € , € 7.67 ,-1
+248,BOTTLE,Trattmann riserva,Kellerei Girlan,2009,OB, 30.33 € , 85.00 € , 61.05 € , € 14.17 ,0
+249,BOTTLE,Curlan riserva,Kellerei Girlan,2019,FW, 66.50 € , 140.00 € , 133.86 € , € 23.33 ,4
+250,BOTTLE,Vigna Ganger riserva,Kellerei Girlan,2019,WD, 88.90 € , 185.00 € , 178.96 € , € 30.83 ,1
+249,BOTTLE,Lagrein Porphyr Riserva,Kellerei Terlan ,2020,Karner, 35.60 € , 85.00 € , 71.66 € , € 14.17 ,8
+250,BOTTLE,Lagrein Riserva Taber,Kellerei Bozen,2020,O, 30.97 € , 70.00 € , 62.34 € , € 11.67 ,15
+251,MAGNUM,Lagrein Riserva Taber Magnum,Kellerei Bozen,2016,O, 61.50 € , 134.00 € , 123.80 € , € 22.33 ,0
+253,BOTTLE,Lagrein Mirell ,Ansitz Waldgries,2019,Karner, 28.51 € , 64.00 € , 57.39 € , € 10.67 ,1
+254,MAGNUM,"Lagrein Mirell 1,5l",Ansitz Waldgries,2018,Karner, 59.66 € , 130.00 € , 120.10 € , € 21.67 ,1
+254,BOTTLE,Lagrein Riserva,Ansitz Waldgries,2021,Karner, 17.50 € , 50.00 € , 35.23 € , € 8.33 ,15
+255,BOTTLE,Lagrein Riserva,Abtei Muri-Gries,2020,O, 20.90 € , 60.00 € , 42.07 € , € 10.00 ,17
+256,BOTTLE,Lagrein Carano Riserva,Weingut Baron di Pauli,2019,FW, 23.85 € , 59.00 € , 48.01 € , € 9.83 ,23
+257,BOTTLE,Lagrein Linticlarus Riserva,Tiefenbrunner,2020,FW, 23.75 € , 59.00 € , 47.81 € , € 9.83 ,3
+259,BOTTLE,Lagrein Riserva bist Herbst 2023 ausverkauft,Nusser,2018,WD, 19.60 € , 53.00 € , 39.45 € , € 8.83 ,0
+260,BOTTLE,Lagrein Icona,Weingut Heiner,2020,Heiner, 11.50 € , 38.00 € , 23.15 € , € 6.33 ,12
+261,BOTTLE,Lagrein Burgum Novum ,Weingut Castelfeder,2019,WD, 18.50 € , 51.00 € , 37.24 € , € 8.50 ,53
+262,BOTTLE,Lagrein Riserva Klosteranger,Abtei Muri-Gries,2020,WD, 52.00 € , 118.00 € , 104.68 € , € 19.67 ,13
+263,MAGNUM,Lagrein Riserva Klosteranger (Magnum),Abtei Muri-Gries,2015,FW, 104.90 € , 203.00 € , 211.16 € , € 33.83 ,3
+264,BOTTLE,Lagrein Ottanta,Egger ramer,2019,WS, 30.00 € , 66.00 € , 60.39 € , € 11.00 ,6
+265,MAGNUM,Lamarein Magnum,Erbhof Unterganzner,2021,WS/O, 94.00 € , 260.00 € , 189.22 € , € 43.33 ,1
+266,BOTTLE,Lamarein,Erbhof Unterganzner,2021,WS/O, 49.34 € , 130.00 € , 99.32 € , € 21.67 ,20
+267,BOTTLE,Merlot Riserva Siebeneich,Kellerei Terlan ,2020,O, 13.80 € , 46.00 € , 27.78 € , € 7.67 ,12
+269,BOTTLE,Merlot XV BIO,Weingut Alois Lageder,2020,Karner, 12.85 € , 41.00 € , 25.87 € , € 6.83 ,4
+270,BOTTLE,MR 20,Pitzner,2020,WD, 25.60 € , 59.00 € , 51.53 € , € 9.83 ,13
+271,BOTTLE,Brenntal,Kellerei Kurtatsch,2020,O, 34.00 € , 76.00 € , 68.44 € , € 12.67 ,16
+272,BOTTLE,Merlot Riserva Bio,Stachelburg,2018,WD, 14.80 € , 43.00 € , 29.79 € , € 7.17 ,14
+274,BOTTLE,Merlot Riserva,Clemens Waldthaler,2017,WD, 12.90 € , 42.00 € , 25.97 € , € 7.00 ,8
+276,BOTTLE,Staffes Merlot Riserva,Weingut Kornell,2019,WD, 17.90 € , 51.00 € , 36.03 € , € 8.50 ,9
+277,BOTTLE,MCM Merlot,Weingut Alois Lageder,2019,WD, 36.80 € , 79.00 € , 74.08 € , € 13.17 ,5
+278,BOTTLE,Merlot Kressfeld,Kornell,2015,Karner, 41.90 € , 92.00 € , 84.34 € , € 15.33 ,7
+279,BOTTLE,Riserva Gant,Kellerei Andrian,2018,Karner, 32.00 € , 68.00 € , 64.42 € , € 11.33 ,15
+280,BOTTLE,Cabernet Sauvignon CS,Weingut Heiner,2019,O, 17.60 € , 50.00 € , 35.43 € , € 8.33 ,4
+281,BOTTLE,Istrice Cabernet Sauvignon,Weingut Elena Walch,2020,FW, 17.70 € , 46.00 € , 35.63 € , € 7.67 ,13
+282,BOTTLE,Cabernet  Sauvignon Riserva ,Erbhof Unterganzner,2019,FW, 21.70 € , 58.00 € , 43.68 € , € 9.67 ,11
+284,BOTTLE,Toren Cabernet Sauvignon,Tiefenbrunner,2015,FW, 63.00 € , 135.00 € , 126.82 € , € 22.50 ,1
+285,BOTTLE,Cabernet Staffes,Kornell,2020,Karner, 17.90 € , 53.00 € , 36.03 € , € 8.83 ,15
+286,BOTTLE,Cabernet Freienfeld,Kellerei Kuirtatsch,2018,O, 32.00 € , 85.00 € , 64.42 € , € 14.17 ,7
+287,BOTTLE,Feldherr,Weingut Lieselehof,2016,Liesele, 28.50 € , 64.00 € , 57.37 € , € 10.67 ,1
+288,BOTTLE,Planties Rot,St. Quirinus,2019,WD, 29.90 € , 66.00 € , 60.19 € , € 11.00 ,18
+289,BOTTLE,Cabernet Sauvignon Lafoà,Kellerei Schreckbichl,2018,O, 42.00 € , 89.00 € , 84.55 € , € 14.83 ,11
+290,BOTTLE,"Cabernet Löwengang Rarum (gem Kiste, 70,00€ pro Flasche) 1998,1996, 2003, 2005, 2007, 2010;",Alois Lageder,,Lageder, 70.00 € , 159.00 € , 140.91 € , € 26.50 ,3
+291,BOTTLE,Turmhof Cabernet Sauvignon,Schlosskellerei Tiefenbrunner,2021,Cuzziol/FW, 12.50 € , 39.00 € , 25.16 € , € 6.50 ,19
+292,BOTTLE,Risorgimento,LPR,2015,WD, 119.00 € , 229.00 € , 239.55 € , € 38.17 ,8
+292.5,BOTTLE,Syrah Marra,Niedrist,2019,FW, 27.90 € , 64.00 € , 56.16 € , € 10.67 ,6
+293,BOTTLE,Reserve del Conte - Bio,Weingut Manincor,2021,O, 13.75 € , 43.00 € , 27.68 € , € 7.17 ,21
+294,BOTTLE,Palestina,Lentsch,2020,WD, 20.90 € , 52.00 € , 42.07 € , € 8.67 ,55
+295,BOTTLE,Palestina (reserviert),Lentsch,2009,WD, 27.90 € , 69.00 € , 56.16 € , € 11.50 ,0
+296,BOTTLE,Learn,Glassierhof,2016,WD, 21.30 € , 56.00 € , 42.88 € , € 9.33 ,11
+297,BOTTLE,Iugum,Weingut Peter Dipoli,2017,FW, 28.00 € , 61.00 € , 56.36 € , € 10.17 ,17
+298,BOTTLE,Frauenriegel,Weingut Peter Dipoli,2019,FW, 32.60 € , 75.00 € , 65.62 € , € 12.50 ,5
+299,BOTTLE,Brenntal,Weingut Peter Dipoli,2019,FW, 41.50 € , 95.00 € , 83.54 € , € 15.83 ,10
+300,BOTTLE,Tres,Kellerei Kurtatsch,2015,WD, 113.00 € , 212.00 € , 227.47 € , € 35.33 ,0
+301,BOTTLE,Hexagon,Pitzner,2021,WD, 57.50 € , 109.00 € , 115.75 € , € 18.17 ,10
+302,BOTTLE,Hexagon,Pitzner,2016,Karner, 29.70 € , 84.00 € , 59.79 € , € 14.00 ,9
+303,BOTTLE,Linticlarus Cuvee,Schlosskellerei Tiefenbrunner,2020,FW, 26.00 € , 65.00 € , 52.34 € , € 10.83 ,29
+304,MAGNUM,Linticlarus Cuvee Magnum,Schlosskellerei Tiefenbrunner,2020,FW, 60.00 € , 132.00 € , 120.78 € , € 22.00 ,34
+304,BOTTLE,Anticus Riserva,Nals Margreid,2018,WD/O, 32.55 € , 68.00 € , 65.52 € , € 11.33 ,3
+305,BOTTLE,Cornelius ,Kellerei Schreckbichl,2019,Karner, 19.50 € , 54.00 € , 39.25 € , € 9.00 ,1
+306,BOTTLE,Centa Merlot Cabernet,Weingut Gerd Pomella,2015,FW, 12.95 € , 38.00 € , 26.07 € , € 6.33 ,9
+307,BOTTLE,Soma Merlot Cabernet Franc,Kellerei Kurtatsch,2019,O, 15.50 € , 45.00 € , 31.20 € , € 7.50 ,-2
+308,BOTTLE,Composition Reif ,Erbhof Unterganzner,2021,FW / Karner, 37.40 € , 96.00 € , 75.29 € , € 16.00 ,13
+309,MAGNUM,Composition Reif Magnum,Erbhof Unterganzner,2021,WD, 69.00 € , 155.00 € , 138.90 € , € 25.83 ,1
+310,BOTTLE,Athos,Ansitz Dolomytos Sacker,2016,WD, 32.90 € , 70.00 € , 66.23 € , € 11.67 ,12
+311,BOTTLE,Skythos,Ansitz Dolomytos Sacker,2016,Karner, 29.90 € , 66.00 € , 60.19 € , € 11.00 ,23
+312,BOTTLE,Castel Campan - Bio,Weingut Manincor,2016,Manincor, 55.60 € , 118.00 € , 111.92 € , € 19.67 ,6
+313,BOTTLE,Composition Reif ,Erbhof Unterganzner,2020,FW, 31.90 € , 68.00 € , 64.21 € , € 11.33 ,6
+314,BOTTLE,Merlot Campo al Lago,Tenuta Inama,2020,WD, 15.00 € , 44.00 € , 30.20 € , € 7.33 ,3
+315,BOTTLE,Teroldego dannato,Redondel,2016,Akos, 14.60 € , 44.00 € , 29.39 € , € 7.33 ,11
+316,BOTTLE,Teroldego Beatome,Redondel,2011,Akos, 25.60 € , 65.00 € , 51.53 € , € 10.83 ,19
+316,BOTTLE,San Leonardo,San Leonardo,2000,Karner, 74.50 € , 148.00 € , 149.97 € , € 24.67 ,3
+317,BOTTLE,Erminio cabernet Franc,Grigolli Bruno,2018,FW, 25.00 € , 62.00 € , 50.33 € , € 10.33 ,13
+318,BOTTLE,Granato,Foradori Elisabetta,2019,WD, 42.02 € , 92.00 € , 84.59 € , € 15.33 ,5
+319,BOTTLE,Sassirossi,Masut de Rive,2020,Cuzziol, 9.00 € , 36.00 € , 18.12 € , € 6.00 ,10
+320,BOTTLE,Amarone Vigneto Ravazoll,Cà la Bionda,2016,FW, 38.00 € , 71.00 € , 76.49 € , € 11.83 ,6
+321,BOTTLE,Amarone ,Bertani,2007,Karner, 77.30 € , 149.00 € , 155.60 € , € 24.83 ,1
+322,BOTTLE,Valpolicella Classico Superiore,Cà la Bionda,2020,FW, 15.30 € , 45.00 € , 30.80 € , € 7.50 ,6
+324,BOTTLE,Lorenzo - Verdichio dei Castelli di Jesi,Tenuta di Fra  ,2019,Daniel, 12.21 € , 39.00 € , 24.58 € , € 6.50 ,7
+325,BOTTLE,Lacrima di Morro d´Alba,Tenuta di Fra  ,2019,Daniel, 19.26 € , 54.00 € , 38.77 € , € 9.00 ,12
+326,BOTTLE,Cuvee ,Tenuta di Fra  ,2019,Daniel, 15.80 € , 49.00 € , 31.81 € , € 8.17 ,3
+327,BOTTLE,Primo Ballo- Verdicchio die castelli die Jesi,Tenuta di Fra  ,2020,Daniel, 8.20 € , 37.00 € , 16.51 € , € 6.17 ,6
+328,BOTTLE,Dolcetto d'Alba,Conterno Fantino,2021,karner, 8.98 € , 37.00 € , 18.08 € , € 6.17 ,9
+329,BOTTLE,Quatr nas,Rocche die manzoni,2015,Karner, 27.90 € , 64.00 € , 56.16 € , € 10.67 ,9
+330,BOTTLE,Nebbiolo d'Alba V. sibi et paucis,Sandrone Luciano,2016,FW, 25.50 € , 61.00 € , 51.33 € , € 10.17 ,7
+331,BOTTLE,Nebbiolo d'Alba Valmaggiore ,Sandrone Luciano,2019,FW, 17.00 € , 51.00 € , 34.22 € , € 8.50 ,3
+332,BOTTLE,Nebbiolo Langhe, San Biagio,2018,WS, 11.80 € , 40.00 € , 23.75 € , € 6.67 ,8
+333,BOTTLE,Barolo Vigna Sori Ginestra,Conterno Fantino,2014,karner, 48.50 € , 108.00 € , 97.63 € , € 18.00 ,7
+334,BOTTLE,Barolo Vigna Pressenda,Conterno Fantino,2014,karner, 36.00 € , 84.00 € , 72.47 € , € 14.00 ,0
+335,BOTTLE,Barolo Vigna del Gris,Conterno Fantino,2014,karner, 48.45 € , 99.00 € , 97.53 € , € 16.50 ,3
+336,BOTTLE,Barolo Vigna del Gris,Conterno Fantino,2012,karner, 55.00 € , 120.00 € , 110.72 € , € 20.00 ,3
+337,BOTTLE,Barolo Le Vigne,Sandrone Luciano,2018,FW, 51.00 € , 124.00 € , 102.66 € , € 20.67 ,3
+338,BOTTLE,Barolo Le Vigne,Sandrone Luciano,2014,FW, 51.00 € , 125.00 € , 102.66 € , € 20.83 ,4
+339,BOTTLE,Barolo Le Vigne,Sandrone Luciano,,FW, 51.00 € , 126.00 € , 102.66 € , € 21.00 ,0
+340,BOTTLE,Barolo Le Vigne,Sandrone Luciano,2009,FW, 88.50 € , 174.00 € , 178.15 € , € 29.00 ,3
+341,BOTTLE,Barolo Le Vigne,Sandrone Luciano,2016,FW, 51.00 € , 280.00 € , 102.66 € , € 46.67 ,1
+342,BOTTLE,Barolo Le Vigne s.e.p.,Sandrone Luciano,2012,FW, 75.00 € , 160.00 € , 150.98 € , € 26.67 ,2
+343,BOTTLE,Barolo Le Vigne s.e.p.,Sandrone Luciano,2011,FW, 75.00 € , 161.00 € , 150.98 € , € 26.83 ,1
+343,BOTTLE,Barolo Le Vigne sibi et paucis,Sandrone Luciano,2007,FW, 81.00 € , 190.00 € , 163.05 € , € 31.67 ,4
+344,BOTTLE,Barolo Aleste,Sandrone Luciano,2014,FW, 59.00 € , 127.00 € , 118.77 € , € 21.17 ,5
+345,BOTTLE,Barolo Aleste,Sandrone Luciano,2018,FW, 59.00 € , 128.00 € , 118.77 € , € 21.33 ,3
+346,BOTTLE,Barolo Cannubi Boschis sibi et paucis,Sandrone Luciano,2009,FW, 75.00 € , 183.00 € , 150.98 € , € 30.50 ,1
+347,BOTTLE,Barolo Marcenasco,Ratti Renato,2018,FW, 28.00 € , 62.00 € , 56.36 € , € 10.33 ,5
+348,BOTTLE,Barolo Falletto,Bruno Giacosa,2012,Matma, 110.00 € , 220.00 € , 221.43 € , € 36.67 ,6
+349,BOTTLE,Barolo Gattera,Mauro Veglio,2018,Cuzziol, 33.00 € , 69.00 € , 66.43 € , € 11.50 ,17
+350,BOTTLE,Barbera d´alba Cascina,Mauro Veglio,2020,Cuzziol, 21.00 € , 56.00 € , 42.27 € , € 9.33 ,8
+350,MAGNUM,Barolo Cannubi Boschis sibi et paucis Magnum,Sandrone Luciano,2009,FW, 155.00 € , 336.00 € , 312.02 € , € 56.00 ,2
+351,BOTTLE,Barbaresco Rabajà,Giuseppe Cortese,2018,FW, 35.75 € , 72.00 € , 71.96 € , € 12.00 ,1
+352,BOTTLE,Barbaresco Ovello,Produttori di Barbaresco,2017,FW, 26.00 € , 62.00 € , 52.34 € , € 10.33 ,4
+353,BOTTLE,Barbaresco Riserva Basarin BIO,Punset,2015,WD, 28.90 € , 65.00 € , 58.18 € , € 10.83 ,7
+354,BOTTLE,Chianti Classico,Isole e Olena,2019,FW, 15.80 € , 42.00 € , 31.81 € , € 7.00 ,8
+355,BOTTLE,Chianti Classico Riserva,Caparsa,2017,Cuzziol, 23.00 € , 58.00 € , 46.30 € , € 9.67 ,4
+356,BOTTLE,Chianti Classico ,Fontodi,2020,karner, 22.90 € , 55.00 € , 46.10 € , € 9.17 ,12
+357,BOTTLE,Chianti Classico Vigna del Sorbo,Fontodi,2013,karner, 59.90 € , 121.00 € , 120.58 € , € 20.17 ,2
+358,BOTTLE,Flaccianello,Fontodi,2019,karner, 99.00 € , 195.00 € , 199.29 € , € 32.50 ,4
+359,BOTTLE,Chianti Classico Castello Fonterutoli,Mazzei,1999,Karner, 40.00 € , 92.00 € , 80.52 € , € 15.33 ,1
+360,BOTTLE,Rosso di Montalcino,Tenuta Collosorbo,2021,FW, 10.90 € , 39.00 € , 21.94 € , € 6.50 ,10
+361,BOTTLE,Brunello di Montalcino,Tenuta Collosorbo,2018,FW, 25.00 € , 61.00 € , 50.33 € , € 10.17 ,8
+362,BOTTLE,Brunello di Montalcino,Tenuta Mastrojanni,2016,FW, 37.80 € , 80.00 € , 76.09 € , € 13.33 ,6
+363,BOTTLE,Brunello di Montalcino Cupano BIO,Tenuta Cupano ,2012,WD, 67.20 € , 139.00 € , 135.27 € , € 23.17 ,2
+364,BOTTLE,Flaccianello,Poggio di Sotto,2016,Karner, 134.60 € , 245.00 € , 270.95 € , € 40.83 ,2
+366,BOTTLE,Caiarossa,Caiarossa,2016,Akos, 28.00 € , 83.00 € , 56.36 € , € 13.83 ,1
+367,BOTTLE,Caiarossa,Caiarossa,2019,Akos, 34.00 € , 84.00 € , 68.44 € , € 14.00 ,12
+367,BOTTLE,Caiarossa,Caiarossa,2012,Akos, 28.00 € , 84.00 € , 56.36 € , € 14.00 ,13
+368,BOTTLE,Aria di Caiarossa,Caiarossa,2013,Akos, 15.00 € , 52.00 € , 30.20 € , € 8.67 ,9
+369,BOTTLE,Aria di Caiarossa,Caiarossa,2019,Akos, 16.00 € , 53.00 € , 32.21 € , € 8.83 ,12
+369,BOTTLE,Le Pergole Torte,Montevertine,2020,FW, 85.00 € , 260.00 € , 240.00 € , € 43.33 ,5
+370,BOTTLE,Montevertine,Montevertine,2019,FW, 36.00 € , 78.00 € , 72.47 € , € 13.00 ,3
+370.2,BOTTLE,La Massa,La Massa,2019,Karner, 13.97 € , 43.00 € , 28.12 € , € 7.17 ,4
+372,BOTTLE,Giorgio Primo,La Massa,2019,Karner, 80.08 € , 154.00 € , 161.20 € , € 25.67 ,3
+371,BOTTLE,"Brunello di Montalcino ""Le Lucere""",San Filippo,2016,Mahatma, 69.90 € , 145.00 € , 140.71 € , € 24.17 ,5
+373,BOTTLE,Insoglio del Cinghiale,Tenuta di Biserno,2021,FW, 15.90 € , 45.00 € , 32.01 € , € 7.50 ,17
+374,BOTTLE,Il Pino di Biserno,Tenuta di Biserno,2019,Karner, 28.45 € , 68.00 € , 57.27 € , € 11.33 ,5
+375,BOTTLE,Tignanello ,Antinori,2018,Karner, 64.68 € , 155.00 € , 130.20 € , € 25.83 ,3
+376,BOTTLE,Tignanello ,Antinori,2019,Karner, 79.95 € , 165.00 € , 160.94 € , € 27.50 ,4
+377,BOTTLE,Sassicaia,Tenuta San Guido,2011,O, 143.75 € , 290.00 € , 289.37 € , € 48.33 ,1
+378,BOTTLE,Sassicaia,Tenuta San Guido,2012,O, 143.75 € , 299.00 € , 289.37 € , € 49.83 ,2
+379,BOTTLE,Cabernet Franc,Duemani,2018,WD, 84.00 € , 180.00 € , 169.09 € , € 30.00 ,3
+380,BOTTLE,Barolo Cannubi Boschis ,Sandrone Luciano,2007,Mahatma, 161.00 € , 318.00 € , 324.09 € , € 53.00 ,4
+381,BOTTLE,Barolo Le Vigne,Sandrone Luciano,2011,Mahatma, 61.00 € , 135.00 € , 122.79 € , € 22.50 ,1
+382,BOTTLE,Vite talin,Sandrone Luciano,2013,FW, 185.00 € , 450.00 € , 372.41 € , € 75.00 ,1
+383,BOTTLE,Vite talin,Sandrone Luciano,2016,FW, 185.00 € , 440.00 € , 372.41 € , € 73.33 ,2
+384,BOTTLE,Masseto,Tenuta dell'Ornellaia,2013,Mahatma, 535.00 € , 980.00 € ," 1,076.96 € ", € 163.33 ,2
+385,BOTTLE,Concerto Fonterutoli,Mazzei,2018,WD, 45.90 € , 94.00 € , 92.40 € , € 15.67 ,6
+386,BOTTLE,Verruzzo,Monteverro,2017,karner, 10.90 € , 38.00 € , 21.94 € , € 6.33 ,15
+387,BOTTLE,Terra di monteverro,Monteverro,2017,karner, 29.00 € , 65.00 € , 58.38 € , € 10.83 ,14
+389,BOTTLE,Aglianico del Vulture Superiore - Fontanelle Riserva,Basilisco,2013,Akos, 15.00 € , 44.00 € , 30.20 € , € 7.33 ,4
+390,BOTTLE,Aglianico del Vulture Superiore - Fontanelle Riserva,Basilisco,2015,Akos, 15.00 € , 43.00 € , 30.20 € , € 7.17 ,3
+391,BOTTLE,Montepulciano Riserva,Castorani,2017,WD, 17.30 € , 56.00 € , 34.82 € , € 9.33 ,6
+392,BOTTLE,Rocce e fiori,Gianni Sinesi,2018,WD, 22.90 € , 58.00 € , 46.10 € , € 9.67 ,7
+393,BOTTLE, Primitivo di Manduria Dunico,Feline,2018,WD, 23.50 € , 56.00 € , 47.31 € , € 9.33 ,-2
+393,BOTTLE,Es ,Fino Gianfranco,2021,WD, 46.50 € , 95.00 € , 93.60 € , € 15.83 ,7
+394,BOTTLE,Tancredi,Donnafugata,2018,O, 26.64 € , 62.00 € , 53.63 € , € 10.33 ,1
+395,BOTTLE,Mille e una notte,Donnafugata,2016,Karner, 43.08 € , 102.00 € , 86.72 € , € 17.00 ,6
+396,BOTTLE,Zisola Doppiozeta Noto Rosso,Mazzei,2016,WD, 19.90 € , 55.00 € , 40.06 € , € 9.17 ,1
+397,BOTTLE,Nero D´Avola Bio,Caruso e M,2020,WD, 8.90 € , 34.00 € , 17.92 € , € 5.67 ,17
+398,BOTTLE,Etna Rosso - Calderara Sottana,Tenuta delle Terre Nere,2015,Akos, 33.50 € , 79.00 € , 67.44 € , € 13.17 ,-1
+399,BOTTLE,Etna Rosso - Calderara Sottana,Tenuta delle Terre Nere,2016,Akos, 33.50 € , 79.00 € , 67.44 € , € 13.17 ,0
+400,BOTTLE,Etna Rosso - Calderara Sottana,Tenuta delle Terre Nere,2020,Akos, 42.50 € , 91.00 € , 85.55 € , € 15.17 ,5
+401,BOTTLE,Etna Rosso - Prephylloxera,Tenuta delle Terre Nere,2017,Akos, 57.50 € , 113.00 € , 115.75 € , € 18.83 ,5
+402,BOTTLE,Etna Rosso - Santo Spirito,Tenuta delle Terre Nere,2017,Akos, 27.50 € , 64.00 € , 55.36 € , € 10.67 ,0
+403,BOTTLE,"Etna Rosso - Feudo di Mezzo ""santo spirito""",Tenuta delle Terre Nere,2017,Akos, 27.50 € , 63.00 € , 55.36 € , € 10.50 ,1
+404,BOTTLE,"Etna Rosso - Feudo di Mezzo ""Moganazzi""",Tenuta delle Terre Nere,2018,Akos, 34.75 € , 71.00 € , 69.95 € ,,0
+405,BOTTLE,Etna Rosso - Feudo di Mezzo (nicht gekommen letztes mal),Alta Mora,2014,WD, 30.90 € , 67.00 € , 62.20 € , € 11.17 ,2
+406,BOTTLE,Etna Bianco,Alta Mora,2020,WD, 16.20 € , 51.00 € , 32.61 € , € 8.50 ,4
+407,BOTTLE,"Etna Rosso - Feudo di Mezzo ""Il quadro delle rose""",Tenuta delle Terre Nere,2015,Akos, 24.75 € , 61.00 € , 49.82 € , € 10.17 ,0
+408,BOTTLE,Etna Rosso - Prephylloxera,Tenuta delle Terre Nere,2015,Akos, 77.50 € , 165.00 € , 156.01 € , € 27.50 ,2
+409,BOTTLE,Etna Rosso -Archineri,Pietrdolce,2016,Cuzziol, 24.50 € , 60.00 € , 49.32 € , € 10.00 ,11
+410,BOTTLE,Etna Rosso - Santo Spirito,Pietrdolce,2017,Cuzziol, 24.50 € , 60.00 € , 49.32 € , € 10.00 ,6
+409,BOTTLE,Gevrey Chambertin,Lucien Boillot,2020,FW, 39.50 € , 82.00 € , 79.51 € , € 13.67 ,2
+410,BOTTLE,Bourgogne Pinot Noir,Rossignol,2019,Cuzziol, 25.50 € , 61.00 € , 51.33 € , € 10.17 ,4
+411,BOTTLE,Pinot Noir Nuits St. Georg Vaucrains 1. Cru,Chezeaux,2015,WD, 52.38 € , 113.00 € , 105.44 € , € 18.83 ,1
+412,BOTTLE,Chateau Clinet,Chateau Clinet,2014,WD, 74.90 € , 139.00 € , 150.77 € , € 23.17 ,1
+413,BOTTLE,Chateau La Fleur Peyrabon,Chateau La Fleur Peyrabon,2015,WD, 33.00 € , 67.00 € , 66.43 € , € 11.17 ,2
+414,BOTTLE,Chateau Tour Haut Caussan,Medoc,2014, WD , 20.50 € , 53.00 € , 41.27 € , € 8.83 ,3
+415,BOTTLE,Chateau Citran Haut medoc,Haut Medo,2018,WD, 23.90 € , 60.00 € , 48.11 € , € 10.00 ,6
+416,BOTTLE,Chateau Citran Haut medoc,Haut Medo,2009,WD, 33.00 € , 75.00 € , 66.43 € , € 12.50 ,5
+416,BOTTLE,Chateau Dassault,Chateau Dassault,1999,WD, 51.90 € , 119.00 € , 104.47 € , € 19.83 ,2
+417,BOTTLE,Chateau Pontet Canet,Chateau Pontet Canet,2018,WD, 119.00 € , 239.00 € , 239.55 € , € 39.83 ,2
+418,BOTTLE,Chateau La Couspaude,Chateau La Couspaude,2009,WD, 49.90 € , 110.00 € , 100.45 € , € 18.33 ,2
+420,BOTTLE,Clos Moleton - Saumur Champigny,Arnauld Lambert,2019,Cuzziol, 35.00 € , 72.00 € , 70.46 € , € 12.00 ,6
+421,BOTTLE,Les Bonneveaux,P´Tit Domain,2019,WD, 36.90 € , 74.00 € , 74.28 € , € 12.33 ,5
+422,BOTTLE,La Rocheuse,Domaine d`Accent,2020,Vinum, 14.90 € , 45.00 € , 29.99 € , € 7.50 ,1
+422,BOTTLE,Chateau Musar Red,Chateau Musar,2012,WD, 36.90 € , 82.00 € , 74.28 € , € 13.67 ,6
+423,BOTTLE,Grande reserve,Ixsir,2014,WD, 34.50 € , 76.00 € , 69.45 € , € 12.67 ,3
+424,BOTTLE,le dix de Los vasos,Los vasos,2017,WD, 44.80 € , 87.00 € , 90.18 € , € 14.50 ,7
+425,BOTTLE,Caro Malbec Cab. S.,Bodegas Caro,2018,WD, 45.90 € , 94.00 € , 92.40 € , € 15.67 ,5
+426,BOTTLE,Malbec Riserva,Prodiga,2017,WD, 18.00 € , 53.00 € , 36.23 € , € 8.83 ,3
+426,BOTTLE,Rioja Riserva ,Heredia Tondonia,2006,WD, 31.90 € , 69.00 € , 64.21 € , € 11.50 ,0
+427,BOTTLE,Rioja Riserva Vina Ardanza,la Rioja Alta,2012,Michl, 18.00 € , 56.00 € , 36.23 € , € 9.33 ,2
+428,BOTTLE,Ribera del Duero,AALTO,2020,WD, 41.50 € , 90.00 € , 83.54 € , € 15.00 ,3
+429,BOTTLE,Mother's Milk Shiraz,First Drop,2019,WD, 21.00 € , 56.00 € , 42.27 € ,,2
+431,BOTTLE,Cabernet Cuvee Alexandra,Lapostolle,2015,Michl, 18.00 € , 53.00 € , 36.23 € , € 8.83 ,0
+432,BOTTLE,Dancing Crow Cabernet Sauvignon,Dancing Crow Vineyard,2017,WD, 26.90 € , 63.00 € , 54.15 € , € 10.50 ,8
+433,BOTTLE,Gevrey Chambertin Premier Cru,Jaques Prieur,2010,Patrick, 200.00 € , 324.00 € , 324.00 € , € 54.00 ,3
+434,BOTTLE,Castillo Y Gay Gran Reserve Especial,Marqués de Murietta,2010,Patrick, 200.00 € , 299.00 € , 279.00 € , € 49.83 ,4
+435,BOTTLE,Chateau Mouton Rothschild,Chateau Mouton Rothschild,1993,Patrick, 420.00 € , 84.00 € , 845.46 € , € 14.00 ,5
+436,BOTTLE,Lagrein,Weingut Hartmann Donà,2016,Akos, 11.25 € , 38.00 € , 22.65 € , € 6.33 ,0
+437,BOTTLE,"Blauburgunder Noir Nina 0,5L",Langut Buchner - Rainer Uhl,2016,Uhl, 16.39 € , 43.00 € , 32.99 € , € 7.17 ,0
+438,BOTTLE,"Blauburgunder Noir Carina 0,5L",Langut Buchner - Rainer Uhl,2016,Uhl, 16.39 € , 43.00 € , 32.99 € , € 7.17 ,0
+439,BOTTLE,"Raritätenkiste  65,00 pro Flasche",Nals Margreid,2015,OB, 193.60 € , 44.00 € , 389.72 € , € 7.33 ,6

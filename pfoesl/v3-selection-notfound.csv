@@ -1,0 +1,13 @@
+ok,external_id,type,name,winery_name,storage_area,size,vintage,price,info,quantity,internal_notes,matched_name,matched_winery_name,matched_id,matched_original_id,score
+TRUE,15,,"Miau, Methodo Ancestrale",Pranzegg,,BOTTLE,,4000,,2,"purchase_price: 12.17 € , supplier: WD, retail_price: 24.50 € , glass_price: € 6.67",,,wine_01h0qzm1cs1mkvyp4ahb94kk4y,,
+TRUE,65,,Weißburgunder Renaissance,Gumphof,,BOTTLE,2019,6200,,1,"purchase_price: 26.50 € , supplier: WD, retail_price: 53.34 € , glass_price: € 10.33",,,wine_01h0qzm1tf5drhq0ne7ne18vq9,,
+TRUE,139,,Solaris Anterui,Urban Visintin,,BOTTLE,2019,4100,,33,"purchase_price: 12.00 € , supplier: Liesele, retail_price: 24.16 € , glass_price: € 6.83",,,wine_01hnb31vydqebfd38qnby9qrpq,,
+TRUE,144.3,,Aichberg,Kornell,,BOTTLE,2020,5400,,8,"purchase_price: 19.90 € , supplier: WD, retail_price: 40.06 € , glass_price: € 9.00",,,wine_01hnb372b19er1rn6hfr7zfpea,,
+TRUE,161,,Lagrein Rosé,Hochklasus,,BOTTLE,2021,4000,,13,"purchase_price: 12.50 € , supplier: Hochklaus, retail_price: 25.16 € , glass_price: € 6.67",,,wine_01hnb3avzxxt33kk0b5rt6vvq6,,
+TRUE,184.3,,Riesling Bernkasteller Badstube Kabi,J.J.Prüm,,BOTTLE,2021,5800,,6,"purchase_price: 27.95 € , supplier: Akos, retail_price: 56.26 € , glass_price: € 9.67",,,wine_01hawwcx5cr5w2ch9spkxj6768,,
+TRUE,184.5,,Riesling Graacher Himmelreich Auslese,J.J.Prüm,,BOTTLE,2021,9500,,3,"purchase_price: 49.25 € , supplier: Akos, retail_price: 99.14 € , glass_price: € 15.83",,,wine_01harvcmd1f1tkr6mzwx92pktr,,
+TRUE,270,,MR 20,Pitzner,,BOTTLE,2020,5900,,13,"purchase_price: 25.60 € , supplier: WD, retail_price: 51.53 € , glass_price: € 9.83",,,wine_01hnb3y8w9bzymra06agn44pq3,,
+TRUE,294,,Palestina,Lentsch,,BOTTLE,2020,5200,,55,"purchase_price: 20.90 € , supplier: WD, retail_price: 42.07 € , glass_price: € 8.67",,,wine_01h0qzm1thqfyyqrkgaxp1wg9p,,
+TRUE,296,,Learn,Glassierhof,,BOTTLE,2016,5600,,11,"purchase_price: 21.30 € , supplier: WD, retail_price: 42.88 € , glass_price: € 9.33",,,wine_01havweeze1kk5k84069y9vqgn,,
+TRUE,301,,Hexagon,Pitzner,,BOTTLE,2021,10900,,10,"purchase_price: 57.50 € , supplier: WD, retail_price: 115.75 € , glass_price: € 18.17",,,wine_01hnb4qs0tdg1e56bfctkfxpjm,,
+TRUE,302,,Hexagon,Pitzner,,BOTTLE,2016,8400,,9,"purchase_price: 29.70 € , supplier: Karner, retail_price: 59.79 € , glass_price: € 14.00",,,wine_01hnb4qs0tdg1e56bfctkfxpjm,,

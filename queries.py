@@ -2,6 +2,11 @@ import requests
 from typing import Union
 
 
+URL_INDEX = 'https://es.vinoteqa.com/wines'
+URL_SEARCH = URL_INDEX + '/_search'
+URL_EXPLAIN = URL_INDEX + '/_explain'
+
+
 def query_conditions(name: str, winery_name: str, wine_type: str):
     # build query
     conditions = [
@@ -70,7 +75,6 @@ def query_es(name: str, winery_name: str, wine_type: str, num_matches: int = 1):
 
     """
     # perform query
-    url = 'https://es.vinoteqa.com/wines/_search'
     headers = {'Content-Type': 'application/json'}
     query = {
         "query": {
@@ -82,14 +86,14 @@ def query_es(name: str, winery_name: str, wine_type: str, num_matches: int = 1):
     }
 
     try:
-        response = requests.post(url, headers=headers, json=query)
+        response = requests.post(URL_SEARCH, headers=headers, json=query)
         return response.json()
     except Exception as e:
         print(f'ERROR ({name} - {winery_name})', e)
         return None
 
 
-def query_es_clean(name: str, winery_name: str, wine_type: str):
+def query_es_clean(name: str, winery_name: str, wine_type: str, match_rank: int = 1):
     """Perform query on ElasticSearch index.
 
     Parameters
@@ -100,6 +104,8 @@ def query_es_clean(name: str, winery_name: str, wine_type: str):
         name of the winery
     wine_type : str
         wine type, e.g. RED, WHITE etc
+    match_rank : int, optional
+        which ranked result to get, by default 1
 
     Returns
     -------
@@ -125,15 +131,15 @@ def query_es_clean(name: str, winery_name: str, wine_type: str):
         Run `query_explanation`
         for the explanation of the score.
     """
-    response_json = query_es(name, winery_name, wine_type, 1)
+    response_json = query_es(name, winery_name, wine_type, match_rank)
 
     if response_json is None:
         return None, 0
 
     hits = response_json['hits']['hits']
-    if len(hits) > 0:
-        match = hits[0]['_source']
-        return match, hits[0]['_score']
+    if len(hits) > match_rank-1:
+        match = hits[match_rank-1]['_source']
+        return match, hits[match_rank-1]['_score']
     return None, 0
 
 
@@ -169,7 +175,7 @@ def query_explain(name: str, winery_name: str, wine_type: str, matched_id: str =
         matched_id = match['id']
 
     # perform explanation query
-    url = 'https://es.vinoteqa.com/wines/_explain/' + matched_id
+    url = URL_EXPLAIN + '/' + matched_id
     headers = {'Content-Type': 'application/json'}
     query = {
         "query": {
@@ -195,19 +201,27 @@ def query_by_id(wine_id: Union[str, list]):
         response of the query.
     """
 
-    url = 'https://es.vinoteqa.com/wines/_search'
     headers = {'Content-Type': 'application/json'}
 
     query = {
         "query": {
-            "ids": {
-            "values": wine_id
+            "terms": {
+                "_id": wine_id,
+                "boost": 1.0
             }
-        }
+        },
+        "size": len(wine_id),
+        "sort": [
+            {
+                "_id": {
+                    "order": "asc"
+                }
+            }
+        ]
     }
 
     try:
-        response = requests.post(url, headers=headers, json=query)
+        response = requests.post(URL_SEARCH, headers=headers, json=query)
 
         hits = response.json()['hits']['hits']
         if len(hits) == 0:

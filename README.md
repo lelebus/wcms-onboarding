@@ -13,6 +13,7 @@ This table provides an overview of the purpose and formatting of the documents o
 | ---------------------------- | ------------------------------------------------------------------------------ | --------- |
 | `v0-original`                | Raw input file from the client.                                                | input     |
 | `v1-cleaned.csv`             | Input file with formatted headers.                                             | input     |
+| `v2-dropped.csv`             | Input File with formatted headers and content. Used to add wines manually.     | input     |
 | `v2-cleaned.csv`             | Input File with formatted headers and content. Used to find matches in DB.     | input     |
 | `v3-matches-sure.csv`        | Wines matched automatically with the DB. No further check.                     | matches   |
 | `v3-matches-check.csv`       | Wines matched automatically with the DB. Manual check needed.                  | matches   |
@@ -48,6 +49,30 @@ Contents must be formatted so that these types are respected:
 | `quantity`       | `int`   |
 | `internal_notes` | `str`   |
 
+The `size` field has only some allowed values. The standard mapping is this:
+
+```python
+{
+    '0.375': 'HALF_BOTTLE',
+    '0.5': 'HALF_LITER',
+    '0.75': 'BOTTLE',
+    '1': 'LITER',
+    '1.5': 'MAGNUM',
+    '3': 'JEROBOAM',
+    '4.5': 'REHOBOAM',
+    '5': 'BORDEAUX_JEROBOAM',
+    '6': 'MATHUSALEM',
+    '9': 'SALMANAZAR',
+    '12': 'BALTHAZAR',
+    '15': 'NEBUCHADNEZZAR',
+    '18': 'MELCHIOR',
+    '20': 'SOLOMON',
+    '25': 'SOVEREIGN',
+    '27': 'GOLIATH',
+    '30': 'MELCHIZEDEK'
+}
+```
+Where the key is the bottle size in liters.
 
 ### v3
 These files are generated after the automatic matching. In addition to the fields in `v2`, these are added:

@@ -1,0 +1,181 @@
+external_id,name,winery_name,type,storage_area,size,vintage,price,info,quantity,internal_notes,reason
+843,distillato di genziana,Boroni,,,al bicchiere,,5.0,,,,"size is ""al bicchiere"""
+844,distillato di ginepro,Boroni,,,al bicchiere,,5.0,,,,"size is ""al bicchiere"""
+845,distillato di mele,Capovilla,,,al bicchiere,,12.0,,,,"size is ""al bicchiere"""
+847,grappa classica,Borgo Scuro,,,al bicchiere,,5.0,,,,"size is ""al bicchiere"""
+848,grappa prosecco cherry,Borgo Scuro,,,al bicchiere,,5.0,,,,"size is ""al bicchiere"""
+849,prime uve bianche,Bonaventura Maschio,,,al bicchiere,,,,,,"size is ""al bicchiere"""
+850,prime uve nere,Bonaventura Maschio,,,al bicchiere,,,,,,"size is ""al bicchiere"""
+851,grappa di raboso,Le Crode di Vincenzo Agostini,,,al bicchiere,,,,,,"size is ""al bicchiere"""
+852,grappa quero vas,Le Crode di Vincenzo Agostini,,,al bicchiere,,,,,,"size is ""al bicchiere"""
+860,ballantines,,,,al bicchiere,,7.0,,,,"size is ""al bicchiere"""
+861,glen grant 5yo,,,,al bicchiere,,7.0,,,,"size is ""al bicchiere"""
+862,jack daniels,,,,al bicchiere,,7.0,,,,"size is ""al bicchiere"""
+863,chivas regal 12 yo,,,,al bicchiere,,7.0,,,,"size is ""al bicchiere"""
+864,the macallan amber,,,,al bicchiere,,7.0,,,,"size is ""al bicchiere"""
+865,the macallan 12 yo,,,,al bicchiere,,7.0,,,,"size is ""al bicchiere"""
+866,glen fiddich,,,,al bicchiere,,7.0,,,,"size is ""al bicchiere"""
+868,lagavulin 16 yo,,,,al bicchiere,,8.0,,,,"size is ""al bicchiere"""
+869,laphroaig quarter cask,,,,al bicchiere,,8.0,,,,"size is ""al bicchiere"""
+870,glenmorangie 10yo,,,,al bicchiere,,8.0,,,,"size is ""al bicchiere"""
+871,glenmorangie lasanta sherry cask 12yo,,,,al bicchiere,,10.0,,,,"size is ""al bicchiere"""
+872,glenmorangie quinta ruban port cask 12yo,,,,al bicchiere,,10.0,,,,"size is ""al bicchiere"""
+873,glenmorangie nectar d'or sauternes cask12yo,,,,al bicchiere,,10.0,,,,"size is ""al bicchiere"""
+874,springbank 10 yo,,,,al bicchiere,,7.0,,,,"size is ""al bicchiere"""
+875,m.couvreur fleeting oltre 10 anni quercia e pedro ximenez,,,,al bicchiere,,14.0,,,,"size is ""al bicchiere"""
+876,m.couvreur blossoming auld sherried oltre 18 anni,,,,al bicchiere,,18.0,,,,"size is ""al bicchiere"""
+877,ardbeg 10 yo (torbato),,,,al bicchiere,,10.0,,,,"size is ""al bicchiere"""
+878,ben romach,,,,al bicchiere,,10.0,,,,"size is ""al bicchiere"""
+879,cao ila connoisseurs choice 2004 (torbato),,,,al bicchiere,,12.0,,,,"size is ""al bicchiere"""
+880,cao ila coopers choice 1991,,,,al bicchiere,,14.0,,,,"size is ""al bicchiere"""
+882,caol ila 12 yo,,,,al bicchiere,,12.0,,,,"size is ""al bicchiere"""
+883,caol ila the coopers silver seal 17 yo,,,,al bicchiere,,14.0,,,,"size is ""al bicchiere"""
+885,villa zarri 25 anni,,,,al bicchiere,,22.0,,,,"size is ""al bicchiere"""
+886,villa zarri 23 anni,,,,al bicchiere,,22.0,,,,"size is ""al bicchiere"""
+887,villa zarri 10 anni,,,,al bicchiere,,12.0,,,,"size is ""al bicchiere"""
+889,the forgotten casks,,,,al bicchiere,,7.0,,,,"size is ""al bicchiere"""
+890,poire peyrot,,,,al bicchiere,,7.0,,,,"size is ""al bicchiere"""
+891,peyrot xo,,,,al bicchiere,,9.0,,,,"size is ""al bicchiere"""
+892,remy martin,,,,al bicchiere,,7.0,,,,"size is ""al bicchiere"""
+893,hennessy xo,,,,al bicchiere,,22.0,,,,"size is ""al bicchiere"""
+895,park grande champagne,,,,al bicchiere,,12.0,,,,"size is ""al bicchiere"""
+897,louise royer xo,,,,al bicchiere,,22.0,,,,"size is ""al bicchiere"""
+898,a.e.dor xo,,,,al bicchiere,,22.0,,,,"size is ""al bicchiere"""
+899,moulin rouge xo fillioux,,,,al bicchiere,,20.0,,,,"size is ""al bicchiere"""
+901,bas armagnac dartigalongue,,,,al bicchiere,,10.0,,,,"size is ""al bicchiere"""
+903,bas armagnac clos martin 8 yo,,,,al bicchiere,,10.0,,,,"size is ""al bicchiere"""
+904,bas armagnac darroze les grandes assemblages 12yo €,,,,al bicchiere,,10.0,,,,"size is ""al bicchiere"""
+907,dos maderas 10 yo,,,,al bicchiere,,10.0,,,,"size is ""al bicchiere"""
+908,abuelo 15 yo napoleon,,,,al bicchiere,,14.0,,,,"size is ""al bicchiere"""
+909,diplomatico,,,,al bicchiere,,12.0,,,,"size is ""al bicchiere"""
+910,millionario 15 res.,,,,al bicchiere,,14.0,,,,"size is ""al bicchiere"""
+911,homere clement rhum agricole martinique,,,,al bicchiere,,12.0,,,,"size is ""al bicchiere"""
+912,homere clement rhum agricole vieux,,,,al bicchiere,,14.0,,,,"size is ""al bicchiere"""
+913,nation peruano 8 yo,,,,al bicchiere,,10.0,,,,"size is ""al bicchiere"""
+914,nation jamaica sherry finish 5 yo,,,,al bicchiere,,12.0,,,,"size is ""al bicchiere"""
+917,ramos pinto rp10,,,,al bicchiere,,10.0,,,,"size is ""al bicchiere"""
+918,churchill vintage,,,,al bicchiere,16,16.0,,,,"size is ""al bicchiere"""
+920,mamont vodka,,,,al bicchiere,,12.0,,,,"size is ""al bicchiere"""
+925,gjkon,,,,al bicchiere,,,,,,"size is ""al bicchiere"""
+842,grappe e distillati,,,,BOTTLE,,PREZZI AL BICCHIERE,,,,"price is ""PREZZI AL BICCHIERE"""
+884,brandy,,,,BOTTLE,,PREZZI AL BICCHIERE,,,,"price is ""PREZZI AL BICCHIERE"""
+888,cognac,,,,BOTTLE,,PREZZI AL BICCHIERE,,,,"price is ""PREZZI AL BICCHIERE"""
+900,armagnac,,,,BOTTLE,,PREZZI AL BICCHIERE,,,,"price is ""PREZZI AL BICCHIERE"""
+906,rhum,,,,BOTTLE,,PREZZI AL BICCHIERE,,,,"price is ""PREZZI AL BICCHIERE"""
+916,porto,,,,BOTTLE,,PREZZI AL BICCHIERE,,,,"price is ""PREZZI AL BICCHIERE"""
+919,vodka,,,,BOTTLE,,PREZZI AL BICCHIERE,,,,"price is ""PREZZI AL BICCHIERE"""
+18,champagne millesimato,Laurent Perrier,,,BOTTLE,04,95.0,,,,quantity is too long
+39,champagne,Krug,,,MAGNUM,,900.0,,,,quantity is too long
+41,champagne collection 244,Roederer,,,BOTTLE,,110.0,,,,quantity is too long
+54,champagne la grande annéé,Bollinger,,,BOTTLE,,190.0,,,,quantity is too long
+76,franciacorta cabochon fuoriserie,Monte Rossa,,,BOTTLE,,100.0,,,,quantity is too long
+85,spumante riserva del fondatore,Giulio Ferrari,,,BOTTLE,8,210.0,,,,quantity is too long
+94,cartizze valdobbiadene docg prosecco superiore dry,Agostinetto,,,BOTTLE,21,48.0,,,,quantity is too long
+107,gewurztraminer,Elena Walch,,,BOTTLE,,27.0,,,,quantity is too long
+108,gewurztraminer,Alois Lageder,,,BOTTLE,,30.0,,,,quantity is too long
+110,"gewurztraminer ""kolbenhof""",Tenuta J. Hofstätter,,,BOTTLE,,70.0,,,,quantity is too long
+111,gewurztraminer,Abbazia di Novacella,,,BOTTLE,,33.0,,,,quantity is too long
+116,manna,Franz Haas,,,BOTTLE,,64.0,,,,quantity is too long
+119,"kerner ""praepositus""",Abbazia di Novacella,,,BOTTLE,,42.0,,,,quantity is too long
+120,kerner kofererhof,Kofererhof,,,BOTTLE,,39.0,,,,quantity is too long
+122,"pinot bianco ""moriz""",Tramin,,,BOTTLE,,30.0,,,,quantity is too long
+123,"pinot bianco ""kristallberg""",Elena Walch,,,BOTTLE,22,42.0,,,,quantity is too long
+124,pinot bianco,Elena Walch,,,BOTTLE,,24.0,,,,quantity is too long
+127,riesling,Pacherhof,,,BOTTLE,,45.0,,,,quantity is too long
+133,sylvaner,Kofererhof,,,BOTTLE,,29.0,,,,quantity is too long
+136,sylvaner,Abbazia di Novacella,,,BOTTLE,,27.0,,,,quantity is too long
+138,terlaner doc,Cantina di Terlano,,,BOTTLE,22,42.0,,,,quantity is too long
+146,sauvignon,Schioppetto,,,BOTTLE,18,42.0,,,,quantity is too long
+147,sauvignon,Silvio Jermann,,,BOTTLE,,42.0,,,,quantity is too long
+149,sauvignon zittelle,Miani ,,,BOTTLE,19,110.0,,,,quantity is too long
+152,vintage tunina,Silvio Jermann,,,MAGNUM,,150.0,,,,quantity is too long
+160,ribolla gialla,Damijan,,,BOTTLE,19,55.0,,,,quantity is too long
+165,pinot grigio,Az. Agricola Toros,,,BOTTLE,,60.0,,,,quantity is too long
+169,bianco kaplja,Damijan,,,BOTTLE,,74.0,,,,quantity is too long
+182,soave classico doc i palchi foscarino grande cuvée,Az. Agr. Inama,,,BOTTLE,,80.0,,,,quantity is too long
+183,soave classico doc i palchi foscarino grande cuvée,Az. Agr. Inama,,,MAGNUM,,160.0,,,,quantity is too long
+184,soave classico doc foscarino,Az. Agr. Inama,,,BOTTLE,,50.0,,,,quantity is too long
+188,sauvignon vulcaia fumé,Az. Agr. Inama,,,BOTTLE,,75.0,,,,quantity is too long
+193,bucce,Marco Mosconi,,,BOTTLE,,34.0,,,,quantity is too long
+203,fiano salento igp,Vespa Vignaioli,,,BOTTLE,,18.0,,,,quantity is too long
+235,grüner veltliner federspiel,Nikolaihof,,,BOTTLE,,45.0,,,,quantity is too long
+242,chablis,Chanson,,,BOTTLE,21,60.0,,,,quantity is too long
+246,chablis les lys premier cru,Domaine Daniel-Etienne Defaix,,,BOTTLE,,90.0,,,,quantity is too long
+248,riesling réserve,Domaine Weinbach,,,BOTTLE,20,54.0,,,,quantity is too long
+251,sancerre,Pascal Jolivet,,,BOTTLE,22,70.0,,,,quantity is too long
+265,whispering angel,Caves d’Esclans,,,BOTTLE,,,,,,quantity is too long
+271,valpolicella classico,Azienda Agricola Quintarelli,,,MAGNUM,,340.0,,,,quantity is too long
+273,rosso del bepi,Azienda Agricola Quintarelli,,,BOTTLE,,190.0,,,,quantity is too long
+280,rosso bio animaversa,Monteversa,,,BOTTLE,,45.0,,,,quantity is too long
+291,venegazzù della casa,Loredan e Gasparini,,,BOTTLE,18,48.0,,,,quantity is too long
+300,rosso phigaia,Serafini Vidotto,,,BOTTLE,,45.0,,,,quantity is too long
+302,rosso dell’abbazia,Serafini Vidotto,,,BOTTLE,17,60.0,,,,quantity is too long
+319,valpolicella superiore ripassa,Zenato,,,BOTTLE,,52.0,,,,quantity is too long
+324,corvina veronese la poja,Allegrini,,,BOTTLE,,180.0,,,,quantity is too long
+328,veronese palazzo della torre,Allegrini,,,BOTTLE,,39.0,,,,quantity is too long
+331,la grola rosso veronese,Allegrini,,,BOTTLE,18,55.0,,,,quantity is too long
+338,3monelli rosso verona,Marco Mosconi ,,,BOTTLE,,,,,,quantity is too long
+340,valpolicella ripasso,Paolo Cottini,,,BOTTLE,,36.0,,,,quantity is too long
+343,amarone classico,Paolo Cottini,,,BOTTLE,,56.0,,,,quantity is too long
+349,amarone costasera,Masi,,,MAGNUM,,185.0,,,,quantity is too long
+352,amarone della valpolicella,Corte Giara,,,BOTTLE,,,,,,quantity is too long
+354,amarone s. urbano,Speri,,,BOTTLE,,90.0,,,,quantity is too long
+356,amarone s.urbano,Speri,,,BOTTLE,13,78.0,,,,quantity is too long
+357,valpolicella s.urbano,Speri,,,BOTTLE,15,37.0,,,,quantity is too long
+362,merlot cabernet,La Montecchia,,,BOTTLE,,28.0,,,,quantity is too long
+377,merlot campo del lago colli berici,Az. Agr. Inama,,,BOTTLE,,55.0,,,,quantity is too long
+378,carmenere più,Az. Agr. Inama,,,BOTTLE,20,30.0,,,,quantity is too long
+379,carmenere carminium colli berici,Az. Agr. Inama,,,BOTTLE,,70.0,,,,quantity is too long
+382,"cabernet sauvignon ""bradisismo"" colli berici doc",Az. Agr. Inama,,,BOTTLE,,60.0,,,,quantity is too long
+409,lagrein collection,Cantina di Bolzano Gries / Santa Maddalena,,,BOTTLE,22,36.0,,,,quantity is too long
+410,lagrein collection,Cantina di Bolzano Gries / Santa Maddalena,,,MAGNUM,21,75.0,,,,quantity is too long
+411,pinot nero thalman riserva,Cantina di Bolzano Gries / Santa Maddalena,,,BOTTLE,,60.0,,,,quantity is too long
+413,st.maddalena,Cantina di Bolzano Gries / Santa Maddalena,,,BOTTLE,21,24.0,,,,quantity is too long
+421,blauburgunder meczan,Tenuta J. Hofstätter ,,,BOTTLE,,36.0,,,,quantity is too long
+432,cabernet riserva,Alois Lageder,,,BOTTLE,,33.0,,,,quantity is too long
+433,cabernet sauvignon cor romigberg,Alois Lageder,,,BOTTLE,,85.0,,,,quantity is too long
+434,cabernet riserva,Alois Lageder,,,MAGNUM,,68.0,,,,quantity is too long
+443,pinot nero mazzon,Gottardi,,,BOTTLE,,,,,,quantity is too long
+454,lagrein ansitz mirell,Waldgries,,,BOTTLE,19,80.0,,,,quantity is too long
+455,lagrein,Waldgries,,,BOTTLE,,34.0,,,,quantity is too long
+457,lagrein riserva mantsch,Colterenzio,,,BOTTLE,,,,,,quantity is too long
+464,merlot,Elena Walch,,,BOTTLE,,27.0,,,,quantity is too long
+465,merlot riserva vigna kastelaz,Elena Walch,,,BOTTLE,,75.0,,,,quantity is too long
+469,pinot nero ludwig,Elena Walch,,,BOTTLE,20,75.0,,,,quantity is too long
+471,lagrein,Franz Haas,,,BOTTLE,,,,,,quantity is too long
+476,praepositus lagrein riserva,Abbazia di Novacella,,,BOTTLE,,58.0,,,,quantity is too long
+478,pinot nero riserva praepositus,Abbazia di Novacella,,,BOTTLE,,64.0,,,,quantity is too long
+480,st.magdalener,Abbazia di Novacella,,,BOTTLE,,22.0,,,,quantity is too long
+487,pinot nero lonzblau,Silvio Jermann,,,BOTTLE,16,99.0,,,,quantity is too long
+495,cabernet franc,Castelvecchio,,,BOTTLE,20,30.0,,,,quantity is too long
+505,blumeri,Schioppetto,,,BOTTLE,13,65.0,,,,quantity is too long
+512,rosso nestri,Meroi,,,BOTTLE,,35.0,,,,quantity is too long
+540,cabernet sauvignon,Lis Neris,,,BOTTLE,,36.0,,,,quantity is too long
+558,sito moresco,Gaja,,,BOTTLE,,75.0,,,,quantity is too long
+581,nebbiolo,Az. Agr. G.D. Vajra,,,BOTTLE,,38.0,,,,quantity is too long
+582,dolcetto,Az. Agr. G.D. Vajra,,,BOTTLE,20,25.0,,,,quantity is too long
+584,barolo bricco ambrogio,Paolo Scavino,,,BOTTLE,,,,,,quantity is too long
+585,barolo bric del fiasc,Paolo Scavino,,,BOTTLE,,,,,,quantity is too long
+586,barolo enrico scavino,Paolo Scavino,,,BOTTLE,,,,,,quantity is too long
+595,ornellaia,Tenuta dell'Ornellaia,,,BOTTLE,20,250.0,,,,quantity is too long
+619,bruciato,Marchesi Antinori,,,BOTTLE,21,57.0,,,,quantity is too long
+622,brunello di montalcino castel giocondo,Marchesi Frescobaldi,,,BOTTLE,,65.0,,,,quantity is too long
+631,rosso di montalcino,Corte dei Venti,,,BOTTLE,,35.0,,,,quantity is too long
+677,pelago,Umani Ronchi,,,BOTTLE,14,66.0,,,,quantity is too long
+678,cumaro,Umani Ronchi,,,BOTTLE,,58.0,,,,quantity is too long
+681,primitivo di manduria il rosso dei vespa,Vespa Vignaioli,,,BOTTLE,,35.0,,,,quantity is too long
+682,primitivo di manduria “raccontami”,Vespa Vignaioli,,,BOTTLE,18,55.0,,,,quantity is too long
+696,passorosso,Passopisciaro,,,BOTTLE,,51.0,,,,quantity is too long
+698,camelot,Firriato,,,BOTTLE,,63.0,,,,quantity is too long
+699,nero d'avola chiaramonte,Firriato,,,BOTTLE,,32.0,,,,quantity is too long
+807,rosso double,Masi,,,BOTTLE,,,,,,quantity is too long
+809,riesling beerenauslese,Stift Klosterneuburg,,,BOTTLE,,65.0,,,,quantity is too long
+822,auslese,Kracher,,,HALF_BOTTLE,17,50.0,,,,quantity has a decimal
+826,"moscato rosa ""praepositus""",Abbazia di Novacella,,,BOTTLE,20,55.0,,,,quantity has a decimal
+857,grappa williams,Roner,,,BOTTLE,,,,,,quantity has a decimal
+867,glenfiddish special reserve,,,,BOTTLE,,,,,,quantity has a decimal
+881,caol ila 1990 17 anni,,,,BOTTLE,,,,,,quantity has a decimal
+902,bas armagnac datigalongue hors d’age,,,,BOTTLE,,,,,,quantity has a decimal
+921,moskovskaya,,,,BOTTLE,,,,,,quantity has a decimal
+922,belvedere,,,,BOTTLE,,,,,,quantity has a decimal
+923,belvedere altitude edition,,,,BOTTLE,,,,,,quantity has a decimal

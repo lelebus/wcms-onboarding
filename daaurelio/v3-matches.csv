@@ -1,0 +1,523 @@
+external_id,type,name,winery_name,storage_area,size,vintage,price,info,quantity,internal_notes,matched_name,matched_winery_name,matched_id,matched_original_id,score
+2,SPARKLING,champagne rosé,Ruinart,,HALF_BOTTLE,,85.0,,23.0,,Brut Rosé Champagne,Ruinart,wine_01h0f3cmbmtvmkd6m243g38m9r,,35.16826
+3,SPARKLING,champagne blanc de blanc,Ruinart,,HALF_BOTTLE,,80.0,,19.0,,Blanc de Blancs Brut Champagne,Ruinart,wine_01gzr4ksd2c8ryrf1nbh9jb83z,,42.043827
+4,RED,venegazzù della casa,Loredan e Gasperin,,HALF_BOTTLE,17.0,25.0,,0.0,,Venegazzù Della Casa,Loredan Gasparini,wine_01gzr4kt325ke5a89bn0htwnth,,44.021877
+5,RED,santa maddalena,Cantina di Bolzano,,HALF_BOTTLE,21.0,15.0,,0.0,,Stieler St. Maddalena Classico,Cantina Bolzano / Kellerei Bozen,wine_01h0my5tb9sb2bcpqx8b4jv48j,,28.332169
+6,RED,lagrein,Cantina di Bolzano,,HALF_BOTTLE,2021.0,15.0,,0.0,,Lagrein,Cantina Bolzano / Kellerei Bozen,wine_01h0my5rkfn2n674ha22pp9c5t,,28.67239
+6,RED,lagrein,Cantina di Bolzano,,HALF_BOTTLE,2022.0,15.0,,0.0,,Lagrein,Cantina Bolzano / Kellerei Bozen,wine_01h0my5rkfn2n674ha22pp9c5t,,28.67239
+7,WHITE,terlaner,Cantina di Terlano,,HALF_BOTTLE,21.0,24.0,,0.0,,Terlaner,Terlan (Terlano),wine_01gzr4ksn5hrrj46e95x5nft46,,50.26354
+8,RED,blauburgunder meczan,Tenuta J. Hofstätter,,HALF_BOTTLE,21.0,18.0,,0.0,,Joseph Meczan Pinot Nero - Blauburgunder Alto Adige,J. Hofstätter,wine_01gzr4kskmqsygy5twfbkqscmt,,41.70811
+9,RED,cabernet sauvignon,Lis Neris,,HALF_BOTTLE,19.0,18.0,,0.0,,Cabernet Sauvignon,Lis Neris,wine_01h0qzm1m0jdc2sp5dgy3mp5mn,,33.560932
+9,RED,cabernet sauvignon,Lis Neris,,HALF_BOTTLE,20.0,18.0,,0.0,,Cabernet Sauvignon,Lis Neris,wine_01h0qzm1m0jdc2sp5dgy3mp5mn,,33.560932
+10,RED,valpolicella ripasso campofiorin,Masi,,HALF_BOTTLE,20.0,23.0,,0.0,,Campofiorin Ripasso,Masi,wine_01gzr4kt1xkn9a0dhjgrp1qk93,,36.31962
+11,RED,barbaresco dop,Gaja,,HALF_BOTTLE,19.0,130.0,,10.0,,Barbaresco,Gaja,wine_01gzr4ksd3m8y62ggabzd1kdmg,,30.750607
+12,RED,ripassa,Zenato,,HALF_BOTTLE,19.0,27.0,,0.0,,Ripassa Valpolicella Ripasso Superiore,Zenato,wine_01gzr4ksd1fnr67jf8jfan1y6x,,31.84356
+13,RED,amarone classico classico,Zenato,,HALF_BOTTLE,17.0,42.0,,0.0,,Amarone della Valpolicella Classico,Zenato,wine_01gzr4ksd2ry507c65jp5spd8w,,34.698193
+14,WHITE,gewurztraminer ceslar,Cantina di Bolzano,,HALF_BOTTLE,21.0,16.0,,4.0,,Ceslar Gewürztraminer,Cantina Bolzano / Kellerei Bozen,wine_01h0my5rkqbb3j0f3arg0mf2m2,,33.52042
+17,SPARKLING,champagne cuvée brut,Laurent Perrier,,BOTTLE,,80.0,,2.0,,Cuvée Extra Brut Champagne,Laurent-Perrier,wine_01gzr4ks5hp4606ztvg3mv55wf,,39.0179
+19,SPARKLING,champagne millesimato,Laurent Perrier,,MAGNUM,8.0,,,2.0,,Crémant Champagne,Laurent-Perrier,wine_01gzr4ks5hnj390zn3y1mzg0ds,,34.31709
+20,SPARKLING,champagne cuvée rosé,Laurent Perrier,,BOTTLE,,110.0,,3.0,,Champagne Cuvée Rosé Robe Zèbre,Laurent-Perrier,wine_01gzr4ks5hf8552h0nbe1h1h3s,,40.13383
+21,SPARKLING,champagne cuvée rosé,Laurent Perrier,,MAGNUM,,230.0,,2.0,,Champagne Cuvée Rosé Robe Zèbre,Laurent-Perrier,wine_01gzr4ks5hf8552h0nbe1h1h3s,,40.13383
+22,SPARKLING,champagne rosé,J.M. Gobillard et Fils,,BOTTLE,,,,13.0,,Brut Rosé Champagne,J.M. Gobillard & Fils,wine_01gzr4ks5k4qtn5npr60e2rt4j,,44.837807
+23,SPARKLING,champagne rosé millesimé,J.M. Gobillard et Fils,,MAGNUM,14.0,,,2.0,,Millesime Rosé Brut Champagne,J.M. Gobillard & Fils,wine_01gzr4ks5kmab15rpdg1a2qmh0,,49.677406
+24,SPARKLING,champagne blanc de blanc,J.M. Gobillard et Fils,,BOTTLE,,80.0,,83.0,,Blanc de Blancs Chardonnay Brut Champagne,J.M. Gobillard & Fils,wine_01gzr4ks5k6ak3y9g7ejccn89n,,50.413788
+25,SPARKLING,champagne blanc de blanc brut,J.M. Gobillard et Fils,,MAGNUM,,160.0,,14.0,,Blanc de Blancs Chardonnay Brut Champagne,J.M. Gobillard & Fils,wine_01gzr4ks5k6ak3y9g7ejccn89n,,52.585953
+26,SPARKLING,champagne privilege des moines,J.M. Gobillard et Fils,,BOTTLE,,80.0,,10.0,,Privilege des Moines Brut Champagne,J.M. Gobillard & Fils,wine_01gzr4ks5k1kgj587bjxt5bmxj,,57.36509
+27,SPARKLING,champagne blanc de noirs brut,J.M. Gobillard et Fils,,BOTTLE,,80.0,,3.0,,Blanc de Noirs Brut Champagne,J.M. Gobillard & Fils,wine_01gzr4ks5k1n7gs6yac49487z1,,50.715263
+28,SPARKLING,champagne brut,Gimonnet & Fils,,BOTTLE,,80.0,,0.0,,Chardonnay Brut Champagne Premier Cru,Pierre Gimonnet & Fils,wine_01gzr4ksvfgrc285c6yxqxf23v,,29.328571
+29,SPARKLING,champagne,Dom Perignon,,MAGNUM,10.0,850.0,,1.0,,Oenothèque Brut Champagne,Dom Pérignon,wine_01gzr4ksd86zp7p57wrwa5y92d,,38.154243
+30,SPARKLING,champagne,Dom Perignon ,,BOTTLE,2008.0,,,1.0,,Oenothèque Brut Champagne,Dom Pérignon,wine_01gzr4ksd86zp7p57wrwa5y92d,,38.154243
+31,SPARKLING,champagne,Dom Perignon,,BOTTLE,10.0,400.0,,1.0,,Oenothèque Brut Champagne,Dom Pérignon,wine_01gzr4ksd86zp7p57wrwa5y92d,,38.154243
+32,SPARKLING,champagne,Dom Perignon,,BOTTLE,12.0,380.0,,2.0,,Oenothèque Brut Champagne,Dom Pérignon,wine_01gzr4ksd86zp7p57wrwa5y92d,,38.154243
+33,SPARKLING,champagne,Dom Perignon,,BOTTLE,13.0,380.0,,12.0,,Oenothèque Brut Champagne,Dom Pérignon,wine_01gzr4ksd86zp7p57wrwa5y92d,,38.154243
+34,SPARKLING,champagne brut royale reserve,Philipponnat,,BOTTLE,,85.0,,2.0,,Royale Réserve Brut Champagne,Philipponnat,wine_01gzr4ks63nx7n95vw12dcynhy,,40.840416
+35,SPARKLING,champagne brut,Petrois Moriset,,BOTTLE,,80.0,,2.0,,L'Assemblage Brut Champagne,Pertois-Moriset,wine_01h4pmmghf450gmej3xcj6c3vs,,43.206783
+36,SPARKLING,champagne assemblage,Petrois Moriset,,BOTTLE,,90.0,,1.0,,L'Assemblage Brut Champagne,Pertois-Moriset,wine_01h4pmmghf450gmej3xcj6c3vs,,46.445194
+37,RED,champagne 168 edition,Krug,,BOTTLE,,450.0,,0.0,,Arlberg Edition,Weingut Krug,wine_01gzr4ks7jx3mr4qdap01vn0ys,,23.34658
+38,SPARKLING,champagne grande cuvée,Krug,,BOTTLE,17.0,450.0,,0.0,,Grande Cuvée,Krug,wine_01gzr4ks7h5x1nhhc1jnbgbg29,,29.56721
+40,SPARKLING,champagne reserve imperiale,Moet & Chandon,,MAGNUM,,210.0,,4.0,,Réserve Impériale Brut Champagne,Moët & Chandon,wine_01gzr4ks6axf9040f937x9p6wx,,44.23155
+42,SPARKLING,champagne collection 243,Roederer,,MAGNUM,,220.0,,5.0,,Collection 243 Champagne,Louis Roederer,wine_01gzr4ks5tefbv8mz37yrb2ndk,,38.93904
+43,SPARKLING,champagne cristal,Roederer,,BOTTLE,13.0,420.0,,1.0,,Cristal Brut Champagne (Millésimé),Louis Roederer,wine_01gzr4ks5tqthh4jv8natgmek8,,32.009605
+44,SPARKLING,champagne collection 242,Roederer,,BOTTLE,,95.0,,0.0,,Collection 242 Champagne,Louis Roederer,wine_01gzr4ks5tkz3teyz5d7mgv3q3,,38.93904
+45,SPARKLING,champagne collection 242,Roederer,,MAGNUM,17.0,160.0,,0.0,,Collection 242 Champagne,Louis Roederer,wine_01gzr4ks5tkz3teyz5d7mgv3q3,,38.93904
+46,SPARKLING,champagne vintage rosé,Veuve Cliquot,,BOTTLE,12.0,140.0,,6.0,,Vintage Rosé Brut Champagne,Veuve Clicquot,wine_01gzr4ks5vqd44r3ahjcpe303m,,43.823845
+47,SPARKLING,champagne cuvée saint petersbourg,Veuve Cliquot,,BOTTLE,,90.0,,6.0,,Cuvée Saint-Pétersbourg Brut Champagne,Veuve Clicquot,wine_01gzr4ks5vtmcbtxja8zx2ax6e,,49.64695
+48,SPARKLING,champagne blanc de blanc,Ruinart,,BOTTLE,,140.0,,1.0,,Blanc de Blancs Brut Champagne,Ruinart,wine_01gzr4ksd2c8ryrf1nbh9jb83z,,42.043827
+49,SPARKLING,champagne blanc de blanc,Ruinart,,MAGNUM,,320.0,,5.0,,Blanc de Blancs Brut Champagne,Ruinart,wine_01gzr4ksd2c8ryrf1nbh9jb83z,,42.043827
+50,SPARKLING,champagne rosé,Ruinart,,BOTTLE,,140.0,,13.0,,Brut Rosé Champagne,Ruinart,wine_01h0f3cmbmtvmkd6m243g38m9r,,35.16826
+51,SPARKLING,champagne rosé,Ruinart,,MAGNUM,,320.0,,9.0,,Brut Rosé Champagne,Ruinart,wine_01h0f3cmbmtvmkd6m243g38m9r,,35.16826
+52,SPARKLING,champagne special cuvée,Bollinger,,BOTTLE,,110.0,,27.0,,Special Cuvée Brut Aÿ Champagne,Bollinger,wine_01gzr4ks77wsdabt6vnn27vs4y,,36.435703
+53,SPARKLING,champagne special cuvée,Bollinger,,MAGNUM,,240.0,,6.0,,Special Cuvée Brut Aÿ Champagne,Bollinger,wine_01gzr4ks77wsdabt6vnn27vs4y,,36.435703
+55,SPARKLING,champagne rosé,Bollinger,,BOTTLE,,110.0,,4.0,,Rosé Brut Champagne,Bollinger,wine_01gzr4ks77z0y7cq2wp8xbrtm4,,32.57768
+56,SPARKLING,champagne b13,Bollinger,,BOTTLE,,240.0,,0.0,,B13 Champagne,Bollinger,wine_01gzr4ks777d7y0zsgcdwyt6fv,,40.097008
+57,SPARKLING,champagne special cuvee 007,Bollinger,,BOTTLE,,130.0,,9.0,,Champagne Special Cuvée 007 Limited Edition,Bollinger,wine_01gzr4ks779f55kpwmw7s0wtjp,,43.50515
+58,SPARKLING,champagne,Bollinger,,MAGNUM,,230.0,,0.0,,B13 Champagne,Bollinger,wine_01gzr4ks777d7y0zsgcdwyt6fv,,29.949715
+59,SPARKLING,champagne extra brut,Gosset,,BOTTLE,,90.0,,1.0,,Extra Brut Champagne,Gosset,wine_01h0f3cmbt0m9fwkwy9qde52r2,,35.186077
+60,SPARKLING,champagne brut nature,Dechannes,,BOTTLE,,85.0,,19.0,,Non Deux Vallons Les Riceys Brut Nature Champagne,Christophe Dechannes,wine_01h0sq48385z365xsxy2g90wef,,30.682571
+61,SPARKLING,champagne n.7,Ayala,,BOTTLE,,,,2.0,,No. 7 Brut Champagne,Ayala,wine_01h4pmmgfkwrvpmj4dgf2x4x0r,,35.618523
+62,SPARKLING,champagne grand brut,Perrier et Jouet,,MAGNUM,,,,1.0,,Grand Brut Champagne,Perrier-Jouët,wine_01h0f3cmbmghj9f4c14wg390vb,,48.694214
+63,SPARKLING,champagne millesime rare,Rare,,BOTTLE,,,,1.0,,Rare Brut Champagne (Millésimé),Rare Champagne,wine_01h0f3cmbnr3rhpe7sdt8pdkrw,,33.56346
+65,SPARKLING,franciacorta grande cuvée alma brut,Bellavista,,BOTTLE,,80.0,,12.0,,Franciacorta Grande Cuvée Alma Brut,Bellavista,wine_01gzr4ktfz8rdfpgmgkvghev9h,,42.61658
+66,SPARKLING,franciacorta grande cuvée alma brut,Bellavista,,MAGNUM,,150.0,,1.0,,Franciacorta Grande Cuvée Alma Brut,Bellavista,wine_01gzr4ktfz8rdfpgmgkvghev9h,,42.61658
+67,SPARKLING,franciacorta cuvee,Bellavista,,MAGNUM,2005.0,,,1.0,,Franciacorta Cuvée Brut,Bellavista,wine_01gzr4ktfzk1e79z65vsz8rfe4,,33.23684
+68,SPARKLING,franciacorta cuvée prestige,Ca' del Bosco,,BOTTLE,,80.0,,6.0,,Franciacorta Cuvée Prestige,Ca' del Bosco,wine_01gzr4kscc5tkafqr60hga5xms,,41.750637
+69,SPARKLING,franciacorta cuvée prestige,Ca' del Bosco,,MAGNUM,,160.0,,0.0,,Franciacorta Cuvée Prestige,Ca' del Bosco,wine_01gzr4kscc5tkafqr60hga5xms,,41.750637
+70,SPARKLING,franciacorta brut,Enrico Gatti,,BOTTLE,,50.0,,173.0,,Franciacorta Brut,Enrico Gatti,wine_01gzr4ksd14s1xkmrd0bbyr38y,,46.69078
+71,SPARKLING,franciacorta brut,Enrico Gatti,,MAGNUM,,105.0,,4.0,,Franciacorta Brut,Enrico Gatti,wine_01gzr4ksd14s1xkmrd0bbyr38y,,46.69078
+72,SPARKLING,franciacorta prima cuvée brut,Monte Rossa,,BOTTLE,,54.0,,0.0,,Prima Cuvée Brut,Monte Rossa,wine_01h0f3cmbp34yv40bzye7qmxmc,,41.708824
+73,SPARKLING,franciacorta prima cuvée brut,Monte Rossa,,MAGNUM,,100.0,,0.0,,Prima Cuvée Brut,Monte Rossa,wine_01h0f3cmbp34yv40bzye7qmxmc,,41.708824
+74,SPARKLING,franciacorta brut p.r. blanc de blancs,Monte Rossa,,BOTTLE,,,,0.0,,Franciacorta Blanc de Blancs,Monte Rossa,wine_01h0qzm0xq8f85fqsma958apd6,,45.1369
+75,SPARKLING,franciacorta satèn,Monte Rossa,,MAGNUM,,80.0,,0.0,,Franciacorta,Monte Rossa,wine_01h0qzm0xr7brz4evbgqa6hq5k,,35.999573
+77,SPARKLING,franciacorta animante extra brut,Barone Pizzini,,BOTTLE,,60.0,,8.0,,Animante Franciacorta Extra Brut,Barone Pizzini,wine_01gzr4ksctc3v9gsjyyxb2pnm1,,50.452248
+78,SPARKLING,franciacorta golf 1927 brut,Barone Pizzini,,BOTTLE,,65.0,,4.0,,Golf 1927 Franciacorta,Barone Pizzini,wine_01gzr4ksctpg7xgfcd5g3n4mew,,56.099262
+79,SPARKLING,franciacorta satèn,Barone Pizzini,,BOTTLE,19.0,,,1.0,,Satén Franciacorta,Barone Pizzini,wine_01gzr4ksct8de7tv33rh98x28c,,48.24391
+80,SPARKLING,spumante brut,Maso Martis,,BOTTLE,,60.0,,16.0,,Brut,Maso Martis,wine_01gzr4kth05rj3yfx8pw5c7rar,,28.262117
+81,SPARKLING,spumante brut millesimato,Maso Martis,,MAGNUM,16.0,105.0,,1.0,,Brut,Maso Martis,wine_01gzr4kth05rj3yfx8pw5c7rar,,28.262117
+82,SPARKLING,spumante ferrari perlé,Ferrari,,BOTTLE,18.0,65.0,,6.0,,Perlé,Ferrari,wine_01gzr4ksccj35519kgnp4kw2ym,,30.799446
+83,SPARKLING,spumante ferrari perlé,Ferrari,,MAGNUM,12.0,160.0,,6.0,,Perlé,Ferrari,wine_01gzr4ksccj35519kgnp4kw2ym,,30.799446
+84,SPARKLING,spumante riserva del fondatore,Giulio Ferrari,,MAGNUM,8.0,420.0,,1.0,,'Giulio Ferrari' Riserva del Fondatore,Ferrari,wine_01gzr4kscc3eq3g9mgs0f5ns3f,,32.75046
+86,SPARKLING,spumante riserva lunelli,Giulio Ferrari,,BOTTLE,6.0,250.0,,0.0,,Riserva Lunelli,Ferrari,wine_01gzr4ksccy7w7sgfv1g5hhygr,,33.964485
+87,SPARKLING,spumante cuvée voyage,Frescobaldi,,BOTTLE,,38.0,,3.0,,Leonia Cuvée Voyage Brut,Frescobaldi,wine_01gzr4ksh5xsax54mcqey9ac0a,,34.181103
+88,SPARKLING,spumante riesling brut,P. J. Kuhn,,BOTTLE,19.0,50.0,,15.0,,Riesling Brut,P. J. Valckenberg,wine_01havwedsarphpz9a94ae7j999,,27.492357
+89,SPARKLING,spumante lamm n.12 extra brut,Winkler,,BOTTLE,,65.0,,7.0,,Winkler Lamm N°12 Extra Brut,Sektmanufaktur Winkler,wine_01hgz9qxsrgr2yy1jx2tphxy26,,44.06537
+90,SPARKLING,spumante extra brut,Loredan Gasparini,,BOTTLE,1979.0,45.0,,0.0,,Tasso Extra Brut,Loredan Gasparini,wine_01gzr4kt322pft98ak5cwp56hf,,47.309612
+90,SPARKLING,spumante extra brut,Loredan Gasparini,,BOTTLE,2019.0,45.0,,0.0,,Tasso Extra Brut,Loredan Gasparini,wine_01gzr4kt322pft98ak5cwp56hf,,47.309612
+92,SPARKLING,valdobbiadene docg prosecco superiore extra dry,Agostinetto,,BOTTLE,,25.0,,82.0,,Le Croe Prosecco Extra Dry,Ivan Agostinetto,wine_01h4pmmfn1bhy4r693y64y3av7,,32.775066
+93,SPARKLING,valdobbiadene docg vigna del baffo,Agostinetto,,BOTTLE,,,,4.0,,Vigna del Baffo,Agostinetto,wine_01hcw4dg67js82xzgvfs7qe87r,,47.492153
+95,SPARKLING,"valdobbiadene prosecco superiore docg ""bareta"" brut",Merotto,,BOTTLE,,30.0,,42.0,,Bareta Prosecco Superiore Valdobbiadene Brut,Merotto,wine_01gzr4ksmj1fgx4y85arwnmz4z,,43.378677
+96,SPARKLING,"valdobbiadene prosecco superiore docg ""castè"" extra dry",Merotto,,BOTTLE,,30.0,,0.0,,Castè Millesimato Valdobbiadene Prosecco Superiore Extra Dry,Merotto,wine_01gzr4ksmkpq46zary6fk6etzb,,46.26282
+97,SPARKLING,valdobbiadene prosecco superiore docg brut,Nino Franco,,BOTTLE,,30.0,,24.0,,Valdobbiadene Prosecco Superiore Brut,Nino Franco,wine_01h0f3cmbqsqwcha34gb7p1zqt,,44.70482
+98,SPARKLING,prosecco millesimato brut,Ardenghi,,BOTTLE,,30.0,,0.0,,Prosecco Millesimato Brut,Ardenghi,wine_01h0f3cmcjmdfs9ap36t9jy0pn,,39.675293
+99,SPARKLING,"valdobbiadene prosecco superiore docg ""fagher"" brut",Le Colture,,BOTTLE,,25.0,,0.0,,Fagher Valdobbiadene Prosecco Superiore Brut,Le Colture,wine_01h0f3cmc6c68qtfrvzymyxx9d,,49.17128
+100,SPARKLING,"valdobbiadene prosecco superiore docg ""fagher"" brut",Le Colture,,MAGNUM,,50.0,,16.0,,Fagher Valdobbiadene Prosecco Superiore Brut,Le Colture,wine_01h0f3cmc6c68qtfrvzymyxx9d,,49.17128
+101,SPARKLING,prosecco extra dry,Borgo Antico,,BOTTLE,,28.0,,0.0,,Conegliano Valdobbiadene Prosecco Superiore Extra Dry,Borgo Antico,wine_01h0my5rmdw84q412j6etvndn7,,37.068283
+102,SPARKLING,valdobbiadene docg brut,Ra Spondes de Edy,,BOTTLE,,,,44.0,,Valdobbiadene Brut,Ca dei Berti,wine_01gzr4ksczxcd0gdpw958m3kkp,,15.229813
+106,WHITE,"gewurztraminer ""nussbaumer""",Tramin,,BOTTLE,20.0,60.0,,12.0,,Nussbaumer Gewürztraminer,Tramin,wine_01h0sq47xgwvqvqhjhsn8v8t7z,,42.89731
+109,WHITE,gewurztraminer,Franz Haas,,BOTTLE,20.0,48.0,,17.0,,Gewürztraminer,Franz Haas,wine_01h0qzm1c5mgvt987p9cn1pw6c,,34.447685
+113,WHITE,gewurtztraminer,Pacherhof,,BOTTLE,21.0,45.0,,8.0,,Gewürztraminer,Pacherhof,wine_01h0qzm2wz5355bbkp2p0jjmvn,,34.749996
+114,WHITE,gewurtztraminer,Kofererhof,,BOTTLE,21.0,38.0,,4.0,,Gewürztraminer,Köfererhof,wine_01h0qzm243csdpy1n0d5yg5w9q,,35.007305
+115,WHITE,"gewurtztraminer ""ceslar""",Cantina di Bolzano,,BOTTLE,21.0,28.0,,8.0,,Ceslar Gewürztraminer,Cantina Bolzano / Kellerei Bozen,wine_01h0my5rkqbb3j0f3arg0mf2m2,,33.156715
+117,WHITE,manna,Franz Haas,,MAGNUM,20.0,120.0,,20.0,,Manna Schweizer,Franz Haas,wine_01h0my5rjcmap9n1dhfr7akpc4,,37.84336
+118,WHITE,kerner,Abbazia di Novacella,,BOTTLE,20.0,30.0,,0.0,,Kerner,Abbazia di Novacella (Stiftskellerei Neustift),wine_01h0my5rbqjpgn2ad4n76skame,,34.979115
+121,WHITE,müller thurgau,Elena Walch,,BOTTLE,21.0,23.0,,4.0,,Müller Thurgau Vigneti delle Dolomiti,Elena Walch,wine_01gzr4kt16pch5qe8pvsprny59,,46.595673
+125,WHITE,pinot grigio,Tramin,,BOTTLE,22.0,27.0,,11.0,,Pinot Grigio,Tramin,wine_01gzr4kskv55t2p8j39hygb7rv,,32.966114
+126,WHITE,"riesling ""castel ringberg""",Elena Walch,,BOTTLE,22.0,42.0,,32.0,,Riesling Alto Adige Castel Ringberg,Elena Walch,wine_01gzr4kt16f17zam1j4yf46d5m,,54.80188
+128,WHITE,sauvignon,Tramin,,BOTTLE,22.0,30.0,,10.0,,Sauvignon,Tramin,wine_01h0sq47xg356xrc149jc9jyw0,,27.840218
+129,WHITE,sauvignon,Elena Walch,,BOTTLE,22.0,27.0,,15.0,,Sauvignon (Selezione),Elena Walch,wine_01gzr4kt166rvjfq0d1bxknga8,,40.10962
+130,WHITE,souvignier gris piwi,Thomas Niedermayr,,BOTTLE,18.0,40.0,,3.0,,Souvignier Gris,Thomas Niedermayr,wine_01h0sq47txvvc83qgy7dc4rt8a,,50.8776
+131,WHITE,weissburgunder 76,Thomas Niedermayr,,BOTTLE,17.0,50.0,,3.0,,T.N. 76 Weissburgunder,Thomas Niedermayr,wine_01h0sq47tvxg5azsn3km5twd46,,50.01368
+132,WHITE,riesling r,Kofererhof,,BOTTLE,22.0,,,12.0,,Riesling R,Köfererhof,wine_01h0qzm243m9mgprm568qz799x,,41.350376
+134,WHITE,müller thurgau,Kofererhof,,BOTTLE,,26.0,,0.0,,Müller Thurgau,Köfererhof,wine_01h0qzm24309y7fez1p3dg633p,,42.95652
+135,WHITE,sylvaner,Pacherhof,,BOTTLE,22.0,36.0,,8.0,,Sylvaner,Pacherhof,wine_01h0qzm2wzfm3vjryzbpj6dfgg,,36.839127
+137,WHITE,sylvaner stiftsgarten,Abbazia di Novacella,,BOTTLE,19.0,98.0,,6.0,,Sylvaner,Abbazia di Novacella (Stiftskellerei Neustift),wine_01h0my5rbqjahehkbytmbt92af,,34.57176
+141,WHITE,chardonnay sharis igt,Livio Felluga,,BOTTLE,22.0,36.0,,3.0,,Sharis,Livio Felluga,wine_01gzr4kskvdx4mbc559tkc254n,,51.82858
+142,WHITE,chardonnay,Silvio Jermann,,BOTTLE,21.0,40.0,,6.0,,Chardonnay,Jermann,wine_01h0qzm233prkg8gewmdrc384y,,22.517906
+143,WHITE,chardonnay,Borgo Conventi,,BOTTLE,21.0,19.0,,1.0,,Chardonnay Collio,Borgo Conventi,wine_01h0my5svsb3tqw2qc9c8ctgpw,,36.039474
+144,WHITE,luna di ponca,Borgo Conventi,,MAGNUM,19.0,,,1.0,,Luna di Ponca,Borgo Conventi,wine_01h0my5svs5xhctxyaajwv9pc8,,53.33581
+145,WHITE,chardonnay zittelle,Miani,,BOTTLE,20.0,110.0,,4.0,,Zitelle Chardonnay,Miani,wine_01gzr4ksk6sb13qcsmvv0pps89,,39.364685
+148,WHITE,sauvignon,Miani,,BOTTLE,18.0,110.0,,6.0,,Sauvignon,Miani,wine_01gzr4ksk6kca5fk97j9mzfq9j,,27.757942
+150,WHITE,sauvignon,Miani Zitelle,,MAGNUM,17.0,220.0,,1.0,,Sauvignon,Miani,wine_01gzr4ksk6kca5fk97j9mzfq9j,,27.757942
+151,WHITE,vintage tunina,Silvio Jermann,,BOTTLE,20.0,70.0,,0.0,,Vintage Tunina,Jermann,wine_01h0qzm2337vfbvx938w74edx3,,35.388374
+153,WHITE,friulano,Miani ,,BOTTLE,22.0,56.0,,4.0,,Friulano,Miani,wine_01gzr4ksk6ekbbq8wmtd487ka3,,32.85518
+154,WHITE,friulano doc collio ronco delle cime,Venica,,BOTTLE,21.0,60.0,,15.0,,Ronco delle Cime Friulano,Venica & Venica,wine_01gzr4ksm6mkthf9bqjqqykg6b,,53.77433
+155,WHITE,friulano,Schioppetto,,BOTTLE,21.0,42.0,,15.0,,Collio Friulano,Schiopetto,wine_01h4pmmfqcb5pvevmfry1h2yq3,,31.524925
+156,WHITE,friulano,Simon Komjanc,,BOTTLE,19.0,21.0,,0.0,,Friulano,Simon Komjanc,wine_01gzr4ktwpsqybttdg9se536qn,,44.48999
+157,WHITE,friulano isonzo del friuli doc,Borgo Conventi,,BOTTLE,21.0,21.0,,8.0,,Friulano Isonzo del Friuli,Borgo Conventi,wine_01h0my5svsx07kwrzf2w1s08fv,,55.714993
+158,WHITE,friulano,Az. Agricola Toros,,BOTTLE,22.0,45.0,,10.0,,Friulano,Az. Agricola Sosol Ivan,wine_01gzr4kt5hg5n3yv7k9z9esr2g,,26.03665
+159,WHITE,friulano,Meroi,,BOTTLE,21.0,50.0,,5.0,,Friulano,Meroi,wine_01gzr4ksmhs6v0f0xjpn2z8kvg,,34.826187
+161,WHITE,ribolla gialla,La Viarte,,BOTTLE,21.0,39.0,,5.0,,Ribolla Gialla,La Viarte,wine_01gzr4kt12mgdgn26fzsw0avbg,,42.431587
+162,WHITE,ribolla gialla,Tenuta Stella,,BOTTLE,19.0,,,1.0,,Ribolla Gialla,Tenuta Stella,wine_01h0qzm1qd8km47xh7qfxcr9c8,,40.973816
+163,WHITE,ribolla gialla collio,Ronco Blanchis,,BOTTLE,22.0,,,6.0,,Collio Ribolla Gialla,Ronco Blanchis,wine_01h0my5snd96mn289t7y79g9gb,,53.59286
+164,WHITE,pinot grigio,Borgo Conventi,,BOTTLE,21.0,21.0,,10.0,,Pinot Grigio Collio,Borgo Conventi,wine_01h0my5svs6pknqe0a5jpyarwx,,40.094204
+166,WHITE,pinot bianco,Az. Agricola Toros,,BOTTLE,21.0,60.0,,5.0,,Pinot Bianco,Toros Franco,wine_01gzr4kskxfcqagvk5g53wzxbz,,23.65385
+167,WHITE,sauvignon ronco delle mele doc collio,Venica,,BOTTLE,21.0,80.0,,11.0,,Ronco delle Mele Sauvignon,Venica & Venica,wine_01gzr4ksm64xrr18y47rpcfxx0,,50.45636
+168,WHITE,nekaj friulano,Damijan,,BOTTLE,18.0,63.0,,1.0,,Nekaj,Damijan Podversic,wine_01gzr4kt12hbzsg49mgzn084w8,,41.169792
+170,WHITE,malvasia la mont di zuc,Miani,,BOTTLE,19.0,75.0,,5.0,,La Mont di Zuc Malvasia,Miani,wine_01gzr4ksk70fp2721gy3gz4e65,,46.00968
+171,WHITE,ograde bianco,Skerk,,BOTTLE,20.0,70.0,,6.0,,Ograde,Skerk,wine_01gzr4kt178ft7kv0547wzknns,,36.388996
+172,WHITE,vitovska,Kante,,BOTTLE,19.0,,,1.0,,Vitovska,Kante,wine_01h0qzm23hc7qc3mcyrrqc612s,,35.063496
+173,WHITE,uve carate bianco doc,Castello di Buttrio,,BOTTLE,20.0,75.0,,6.0,,Uve Carate Bianco Riserva,Castello di Buttrio,wine_01h0my5vq7crbtnpjbgjds5vm0,,49.74727
+174,WHITE,malvasia,Tenuta Stella,,BOTTLE,21.0,,,1.0,,Malvasia,Tenuta Stella,wine_01h0r2pphqsh3ngv75nd3ay79m,,33.37852
+175,WHITE,malvasia,Schioppetto,,BOTTLE,21.0,42.0,,5.0,,Collio Malvasia,Schiopetto,wine_01h0r2pphpphfg2h3d6rwsh4rc,,30.532513
+176,WHITE,malvasia,Amphoreus Paraschos,,BOTTLE,19.0,75.0,,4.0,,Amphoreus Malvasia,Paraschos,wine_01gzr4kskw404repbg20j5saxe,,33.287582
+179,WHITE,soave classico montesei classico,Le Battistelle,,BOTTLE,22.0,18.0,,10.0,,Montesei Soave Classico,Le Battistelle,wine_01gzr4ksjspmv5j12n5tb3edhh,,53.16902
+180,WHITE,soave,Bertani,,BOTTLE,22.0,33.0,,4.0,,Soave,Bertani,wine_01h0my5smqbp0bgpbgfsab37ae,,32.53723
+181,WHITE,soave cuvée speciale,Az. Agr. Inama,,BOTTLE,21.0,,,3.0,,Soave Classico Cuvée Speciale,Inama Azienda Agricola,wine_01hykdmhgkxcdw3pnyn6vvcxs7,,32.297928
+185,WHITE,soave classico doc foscarino,Az. Agr. Inama,,MAGNUM,20.0,110.0,,4.0,,Vigneti di Foscarino Soave Classico,Inama Azienda Agricola,wine_01gzr4ksj2fpj9y86d5mgsbeh1,,35.65683
+186,WHITE,soave classico du lot collection,Az. Agr. Inama,,BOTTLE,18.0,75.0,,11.0,,Vigneto du Lot Soave Classico,Inama Azienda Agricola,wine_01gzr4ksj2nsn8mkdb3we32281,,35.150215
+187,WHITE,soave classico du lot collection,Az. Agr. Inama,,MAGNUM,18.0,140.0,,3.0,,Vigneto du Lot Soave Classico,Inama Azienda Agricola,wine_01gzr4ksj2nsn8mkdb3we32281,,35.150215
+189,WHITE,sauvignon vulcaia fumé,Az. Agr. Inama,,MAGNUM,20.0,140.0,,4.0,,Vulcaia Fume Sauvignon del Veneto,Inama Azienda Agricola,wine_01gzr4ksj2vhr6mzr4an8szhym,,32.885674
+190,WHITE,lugana oasi mantellina,Allegrini,,BOTTLE,22.0,33.0,,5.0,,Oasi Mantellina Lugana,Allegrini,wine_01h0r2ppd5v4crsdwkrrep85qc,,50.54815
+191,WHITE,incrocio manzoni,Loredan Gasparini,,BOTTLE,23.0,,,0.0,,Manzoni Bianco,Loredan Gasparini,wine_01gzr4kt32xvsftnykq08qghcp,,48.66353
+194,WHITE,vivo vino bianco,De Martin A &G,,BOTTLE,23.0,,,6.0,,Vivo,De Martin,wine_01hcwsyk6w0nxhar8eesd8n2sq,,31.689941
+195,WHITE,pinot grigio,Marco Levis,,BOTTLE,20.0,,,5.0,,Pinot Grigio,Cottini Marco,wine_01gzr4ktv1s5zyznndsq7mv06m,,22.623251
+198,WHITE,cervaro della sala,Marchesi Antinori,,BOTTLE,13.0,120.0,,2.0,,Castello della Sala Cervaro della Sala,Antinori,wine_01gzr4ksd3b397szz15dat7s7b,,45.07734
+199,WHITE,cervaro della sala,Marchesi Antinori,,BOTTLE,14.0,120.0,,0.0,,Castello della Sala Cervaro della Sala,Antinori,wine_01gzr4ksd3b397szz15dat7s7b,,45.07734
+202,ROSE,prenhite verdeca salento igp,Vespa Vignaioli,,BOTTLE,,,,0.0,,Flarò Rosato Salento,Vespa,wine_01h0f3cmb5dcaehj5rmzbkbbjv,,32.68573
+207,WHITE,"vermentino di sardegna ""cala silente""",Santadi,,BOTTLE,19.0,21.0,,2.0,,Cala Silente Vermentino di Sardegna,Santadi,wine_01gzr4ktjm6m40fkh1xb3pg7nz,,48.14473
+208,SPARKLING,vernaccia extra,Produttori riuniti,,BOTTLE,68.0,,,1.0,,Prosecco Extra Dry,Riunite,wine_01h4pmmfhwmzmhsthdbx4mezgd,,24.346653
+211,WHITE,rossj bass langhe dop,Gaja,,BOTTLE,21.0,104.0,,4.0,,Rossj-Bass Langhe,Gaja,wine_01gzr4kspp0wnh0289kv106za8,,40.500366
+212,WHITE,rossj bass langhe dop,Gaja,,BOTTLE,22.0,90.0,,6.0,,Rossj-Bass Langhe,Gaja,wine_01gzr4kspp0wnh0289kv106za8,,40.500366
+213,WHITE,gavi di gavi,Nicola Bergaglio,,BOTTLE,20.0,21.0,,0.0,,Gavi del Comune di Gavi Rovereto,Nicola Bergaglio,wine_01h0my5sm412xccyqa93738axf,,51.38848
+216,WHITE,verdicchio di jesi superiore massaccio,Tenute San Sisto,,BOTTLE,20.0,28.0,,17.0,,Massacio Verdicchio dei Castelli di Jesi Classico Superiore,Tenute San Sisto,wine_01gzr4ksq1qykwetyb3dj5ystz,,56.572277
+220,WHITE,furore bianco fiorduva,Marisa Cuomo,,BOTTLE,18.0,82.0,,1.0,,Fiorduva Costa d'Amalfi,Marisa Cuomo,wine_01gzr4ksrwdkrra2nm7tw2367y,,45.86937
+221,WHITE,furore bianco fiorduva,Marisa Cuomo,,BOTTLE,21.0,78.0,,0.0,,Fiorduva Costa d'Amalfi,Marisa Cuomo,wine_01gzr4ksrwdkrra2nm7tw2367y,,45.86937
+222,WHITE,furore bianco fiorduva,Marisa Cuomo,,BOTTLE,22.0,42.0,,1.0,,Fiorduva Costa d'Amalfi,Marisa Cuomo,wine_01gzr4ksrwdkrra2nm7tw2367y,,45.86937
+225,WHITE,sambrena bianco igt,Tenuta La Novella,,BOTTLE,19.0,20.0,,5.0,,Sambrena Bianco,Tenuta la Novella,wine_01gzr4ksspkbvw3vgs2s7xz8fx,,48.174927
+228,WHITE,"grüner veltliner ""federspiel rotes tor""",Franz Hirtzberger,,BOTTLE,13.0,60.0,,4.0,,Rotes Tor - Grüner Veltliner Federspiel,Franz Hirtzberger,wine_01gzr4ksyfrz0kkpxwekfvjsny,,57.33407
+229,WHITE,viognier sauvignon equinoxe,l’Arjolle,,BOTTLE,22.0,36.0,,4.0,,Equinoxe Viognier - Sauvignon,Domaine de l'Arjolle,wine_01h0sq48faa3xcjh4ghkfe0vyq,,36.52983
+230,WHITE,riesling klausberg private reserve,Nikolaihof,,BOTTLE,9.0,90.0,,3.0,,Riesling Privatreserve Klausberg,Nikolaihof,wine_01gzr4ksxre3d9t02jc83v0epk,,38.686752
+231,WHITE,riesling smaragd wachau,Nikolaihof,,BOTTLE,16.0,72.0,,3.0,,Wachau,Nikolaihof,wine_01gzr4ksxr1v7gc7x4s1e2wx2p,,36.83021
+232,WHITE,riesling vom stein federspiel,Nikolaihof,,BOTTLE,11.0,72.0,,1.0,,Vom Stein Riesling Federspiel,Nikolaihof,wine_01gzr4ksxrqgbhfev2hgw64r3c,,47.978592
+233,WHITE,riesling federspiel,Nikolaihof,,BOTTLE,20.0,,,6.0,,Federspiel Riesling,Nikolaihof,wine_01gzr4ksxrn0y668kcb0xg986w,,36.862446
+234,WHITE,veltriner fruhroter,Nikolaihof,,BOTTLE,11.0,40.0,,4.0,,Frühroter Veltliner,Nikolaihof,wine_01gzr4ksxrrm0vvx6f8dgkn2em,,41.29824
+236,WHITE,grüner veltliner smaragd,Nikolaihof,,BOTTLE,15.0,73.0,,3.0,,Smaragd Grüner Veltliner,Nikolaihof,wine_01gzr4ksxrbs7241fkvcz4x1sy,,42.238983
+237,WHITE,riesling steiner hund,Nikolaihof,,BOTTLE,15.0,73.0,,4.0,,Steiner Hund Riesling,Nikolaihof,wine_01gzr4ksxrefatrxczxqtsvryj,,45.51622
+238,WHITE,grüner veltliner,Stift Kloster Neuburg,,BOTTLE,21.0,35.0,,3.0,,Grüner Veltliner,Stift Altenburg,wine_01harvcmkaxmsjtkh1agzw6t3s,,32.32847
+239,WHITE,weißburgunder,Stift Kloster Neuburg,,BOTTLE,21.0,35.0,,5.0,,Weissburgunder Trocken,Kloster Eberbach,wine_01harvcmbrynyqeyj6809sf3r7,,22.231384
+240,WHITE,chardonnay,Stift Kloster Neuburg,,BOTTLE,21.0,66.0,,0.0,,Prätlatenwein Chardonnay,Stift Altenburg,wine_01harvcmka32y2b22jcvkqmrz3,,23.977938
+241,WHITE,riesling federspiel,Rudi Pichler,,BOTTLE,18.0,40.0,,0.0,,Riesling Federspiel,Rudi Pichler,wine_01gzr4ksyd2wdv2s8nnfpx4zth,,48.029877
+243,WHITE,chablis mise tardive bio,Domaine Pattes Loup,,BOTTLE,20.0,75.0,,0.0,,Chablis Vent d'Ange Mise Tardive,Domaine Pattes Loup,wine_01h4pmmgxbn7p793hya7p0wh2a,,53.90708
+244,WHITE,chablis vielles vignes,Domaine Daniel-Etienne Defaix,,BOTTLE,20.0,70.0,,5.0,,Chablis Vieilles Vignes,Daniel-Etienne Defaix,wine_01gzr4ksxbpt4cx0151eag3hfs,,56.376144
+245,WHITE,chablis premier cru vaillon,Domaine Daniel-Etienne Defaix,,BOTTLE,10.0,90.0,,7.0,,Chablis Premier Cru 'Vaillon',Daniel-Etienne Defaix,wine_01gzr4ksxbmkpye4mw7bfefwes,,61.14361
+247,WHITE,équinoxe viognier sauvignon,Domaine Daniel-Etienne Defaix,,BOTTLE,22.0,33.0,,0.0,,Equinoxe Viognier - Sauvignon,Domaine de l'Arjolle,wine_01h0sq48faa3xcjh4ghkfe0vyq,,24.218742
+249,RED,muscat réserve,Domaine Weinbach,,BOTTLE,11.0,54.0,,3.0,,Pinot Noir Réserve,Domaine Weinbach,wine_01hcwsykc5wa6cb8bhqw0d5s2f,,28.756222
+250,WHITE,pinot blanc,Domaine Weinbach,,BOTTLE,20.0,40.0,,5.0,,Pinot Blanc,Domaine Weinbach,wine_01hawwcxa5ss4dv66h835pr4kq,,32.03237
+252,WHITE,chardonnay saint aubin,Domaine Morey Coffinet,,BOTTLE,20.0,88.0,,2.0,,Saint-Aubin 1er Cru 'Les Frionnes',Morey-Coffinet,wine_01gzr4ktjv09qdhbna7zbff4g9,,43.049706
+253,ROSE,"rosé ""esprit gassier""",Château Gassier,,BOTTLE,21.0,33.0,,0.0,,Esprit Gassier,Château Gassier,wine_01h0my5vcz375gy7awwx0mypkq,,47.887074
+254,WHITE,chablis,Thomas Pico,,BOTTLE,20.0,,,0.0,,Chablis,Domaine Pico-Race,wine_01h4pmmh0xg2e8f46rq4twhjc9,,22.139402
+255,WHITE,chardonnay bourgogne,Antoine Jobard,,BOTTLE,20.0,35.0,,0.0,,Bourgogne Blanc,Francois et Antoine Jobard,wine_01h0my5rk4rg3vcxm4cdvexqeb,,28.314064
+256,WHITE,"puligny montrachet premier cru ""les nosroyes""",Genot Boulanger,,BOTTLE,20.0,160.0,,2.0,,Puligny-Montrachet Les Nosroyes,Domaine Génot-Boulanger,wine_01gzr4ks785556sg6czyafpfvf,,56.226856
+257,WHITE,"puligny montrachet premier cru ""la garenne""",Genot Boulanger,,BOTTLE,20.0,270.0,,2.0,,Puligny-Montrachet Premier Cru 'La Garenne',Domaine Génot-Boulanger,wine_01gzr4ks79q2qv8mtg363gpbb2,,56.05717
+258,WHITE,les tilles blanc meursault,Domaine Pierre Labet ,,BOTTLE,20.0,150.0,,3.0,,Meursault 'Les Tillets',Pierre Labet - François Labet,wine_01gzr4ksvky18s8564e3rnyaay,,43.799652
+259,WHITE,chardonnay,Weingut Martin Wassmer,,BOTTLE,21.0,,,6.0,,Castellberg Chardonnay,Martin Waßmer,wine_01hczek1mdk68dadjvsbvjb7sa,,34.18036
+262,WHITE,"garganega ""bucce"" macerato",Marco Mosconi,,BOTTLE,19.0,34.0,,0.0,,Bucce Bianco,Marco Mosconi,wine_01gzr4ksrdzpgyrysf1yma27hj,,45.90336
+262,WHITE,"garganega ""bucce"" macerato",Marco Mosconi,,BOTTLE,20.0,34.0,,0.0,,Bucce Bianco,Marco Mosconi,wine_01gzr4ksrdzpgyrysf1yma27hj,,45.90336
+267,RED,espirit grassier,ed limitata,,BOTTLE,,,,2.0,,Cressier,Domaine de la Rochette,wine_01h0b4rjh2jfjjhrpyv1aqxg1s,,11.806257
+272,RED,alzero,Azienda Agricola Quintarelli,,BOTTLE,14.0,450.0,,4.0,,Veneto Alzero Cabernet,Quintarelli Giuseppe,wine_01gzr4kt26xhkmtjx7mheggxeb,,31.566286
+274,RED,rosso del bepi,Azienda Agricola Quintarelli,,MAGNUM,14.0,450.0,,2.0,,Veneto Rosso del Bepi,Quintarelli Giuseppe,wine_01gzr4kt26xfc975m5cvpkaqye,,35.82295
+275,RED,amarone,Azienda Agricola Quintarelli,,BOTTLE,12.0,407.0,,5.0,,Amarone della Valpolicella Classico,Quintarelli Giuseppe,wine_01gzr4kt26xa2kf0g9zy74sr0a,,27.019684
+276,RED,amarone,Azienda Agricola Quintarelli,,BOTTLE,13.0,410.0,,3.0,,Amarone della Valpolicella Classico,Quintarelli Giuseppe,wine_01gzr4kt26xa2kf0g9zy74sr0a,,27.019684
+277,RED,amarone,Azienda Agricola Quintarelli,,MAGNUM,11.0,860.0,,1.0,,Amarone della Valpolicella Classico,Quintarelli Giuseppe,wine_01gzr4kt26xa2kf0g9zy74sr0a,,27.019684
+278,RED,amarone,Azienda Agricola Quintarelli,,MAGNUM,12.0,890.0,,2.0,,Amarone della Valpolicella Classico,Quintarelli Giuseppe,wine_01gzr4kt26xa2kf0g9zy74sr0a,,27.019684
+281,RED,rosso bio animaversa,Monteversa,,MAGNUM,15.0,90.0,,0.0,,Animaversa Rosso,Monteversa,wine_01gzr4kt10qc7jgh83x7ttneyz,,45.521275
+282,RED,rosso bio versacinto,Monteversa,,BOTTLE,19.0,25.0,,5.0,,Versacinto Rosso,Monteversa,wine_01gzr4kt00c3esv9y0zbcb08ct,,46.82744
+284,RED,carmenere barbane,Bonotto Delle Tezze,,BOTTLE,20.0,21.0,,6.0,,Barabane Carmenère,Bonotto delle Tezze,wine_01gzr4kt2db2g6kx1r2eakhz12,,60.228363
+285,RED,malanotte,Bonotto Delle Tezze,,BOTTLE,15.0,48.0,,1.0,,Malanotte del Piave,Bonotto delle Tezze,wine_01gzr4kt2dy32an57cqjpe1d4n,,54.917957
+286,RED,raboso,Bonotto Delle Tezze,,BOTTLE,16.0,30.0,,1.0,,Raboso,Bonotto delle Tezze,wine_01gzr4kt2d9gsxk7hs7rgdx6m1,,54.81023
+287,RED,raboso,Bonotto Delle Tezze,,BOTTLE,19.0,30.0,,6.0,,Raboso,Bonotto delle Tezze,wine_01gzr4kt2d9gsxk7hs7rgdx6m1,,54.81023
+288,RED,raboso,Bonotto Delle Tezze,,BOTTLE,17.0,30.0,,12.0,,Raboso,Bonotto delle Tezze,wine_01gzr4kt2d9gsxk7hs7rgdx6m1,,54.81023
+290,RED,falconera,Loredan Gasparini,,MAGNUM,16.0,,,1.0,,Falconera,Loredan Gasparini,wine_01gzr4kt32ewr0eybk2rkht02t,,55.23294
+292,RED,venegazzù della casa,Loredan e Gasparini,,MAGNUM,18.0,100.0,,4.0,,Venegazzù Della Casa,Loredan Gasparini,wine_01gzr4kt325ke5a89bn0htwnth,,63.27506
+293,RED,venegazzù capo di stato,Loredan e Gasparini,,BOTTLE,18.0,80.0,,8.0,,Capo di Stato,Loredan Gasparini,wine_01gzr4kt32adfgha7rj4d20qxn,,61.12466
+294,RED,venegazzù capo di stato,Loredan e Gasparini,,MAGNUM,17.0,180.0,,1.0,,Capo di Stato,Loredan Gasparini,wine_01gzr4kt32adfgha7rj4d20qxn,,61.12466
+295,RED,venegazzù capo di stato,Loredan e Gasparini,,MAGNUM,18.0,180.0,,3.0,,Capo di Stato,Loredan Gasparini,wine_01gzr4kt32adfgha7rj4d20qxn,,61.12466
+296,RED,venegazzù capo di stato,Loredan e Gasparini,,JEROBOAM,12.0,260.0,,1.0,,Capo di Stato,Loredan Gasparini,wine_01gzr4kt32adfgha7rj4d20qxn,,61.12466
+297,RED,venegazzù capo di stato,Loredan e Gasparini,,JEROBOAM,13.0,250.0,,1.0,,Capo di Stato,Loredan Gasparini,wine_01gzr4kt32adfgha7rj4d20qxn,,61.12466
+298,RED,venegazzù capo di stato,Loredan e Gasparini,,JEROBOAM,15.0,240.0,,1.0,,Capo di Stato,Loredan Gasparini,wine_01gzr4kt32adfgha7rj4d20qxn,,61.12466
+301,WHITE,rosso phigaia magnum,Serafini Vidotto,,MAGNUM,20.0,90.0,,1.0,,Phigaia El Blanco,Serafini & Vidotto,wine_01gzr4ksjs8n8yfpj04t7xfcy8,,51.18908
+304,RED,valpolicella superiore il vegro (ripassa),Brigaldara,,BOTTLE,20.0,36.0,,10.0,,Valpolicella Ripasso Classico Superiore Il Vegro,Brigaldara,wine_01gzr4kt1vn9r93hj39fqz2w46,,47.704777
+305,RED,valpolicella superiore il vegro (ripassa),Brigaldara,,MAGNUM,19.0,80.0,,2.0,,Valpolicella Ripasso Classico Superiore Il Vegro,Brigaldara,wine_01gzr4kt1vn9r93hj39fqz2w46,,47.704777
+306,RED,amarone della valpolicella classico,Brigaldara,,BOTTLE,18.0,58.0,,23.0,,Amarone della Valpolicella Classico,Brigaldara,wine_01gzr4kt1kbmsycmmjvxb5sjza,,45.637806
+307,RED,amarone della valpolicella classico,Brigaldara,,MAGNUM,17.0,130.0,,1.0,,Amarone della Valpolicella Classico,Brigaldara,wine_01gzr4kt1kbmsycmmjvxb5sjza,,45.637806
+308,RED,amarone della valpolicella case vecie,Brigaldara,,MAGNUM,19.0,120.0,,0.0,,Amarone della Valpolicella Case Vecie,Brigaldara,wine_01gzr4kt1pj91atgn0kgsats8d,,54.73249
+309,RED,amarone della valpolicella case vecie,Brigaldara,,BOTTLE,17.0,65.0,,3.0,,Amarone della Valpolicella Case Vecie,Brigaldara,wine_01gzr4kt1pj91atgn0kgsats8d,,54.73249
+310,RED,valpolicella superiore case vecie,Brigaldara,,BOTTLE,21.0,35.0,,12.0,,Valpolicella Superiore Case Vecie,Brigaldara,wine_01gzr4ktqj2rdvppama70h18zk,,51.82582
+311,RED,valpolicella superiore case vecie,Brigaldara,,MAGNUM,19.0,,,2.0,,Valpolicella Superiore Case Vecie,Brigaldara,wine_01gzr4ktqj2rdvppama70h18zk,,51.82582
+313,RED,cabernet hora sexta,Mosole,,BOTTLE,15.0,35.0,,1.0,,Hora Sexta,Mosole,wine_01gzr4kt31h6z0388gjv7qa5wa,,47.74344
+314,RED,merlot ad nonam,Mosole,,BOTTLE,16.0,52.0,,7.0,,IX Ad Nonam,Mosole,wine_01gzr4kt31h001j97ye508b9pf,,46.017982
+316,RED,amarone cru monte ca’bianca,Lorenzo Begali,,MAGNUM,6.0,140.0,,1.0,,Riserva Monte Ca' Bianca Amarone della Valpolicella Classico,Begali Lorenzo,wine_01h0my5sj015s9n4wet3ckmmxf,,45.379883
+317,RED,amarone cru monte ca’bianca,Lorenzo Begali,,MAGNUM,13.0,150.0,,2.0,,Riserva Monte Ca' Bianca Amarone della Valpolicella Classico,Begali Lorenzo,wine_01h0my5sj015s9n4wet3ckmmxf,,45.379883
+320,RED,valpolicella superiore ripassa,Zenato,,MAGNUM,19.0,110.0,,1.0,,Ripassa Valpolicella Ripasso Superiore,Zenato,wine_01gzr4ksd1fnr67jf8jfan1y6x,,40.528343
+321,RED,amarone della valpolicella,Zenato,,BOTTLE,18.0,64.0,,8.0,,Amarone della Valpolicella Classico,Zenato,wine_01gzr4ksd2ry507c65jp5spd8w,,35.974293
+322,RED,amarone della valpolicella,Zenato,,MAGNUM,18.0,,,3.0,,Amarone della Valpolicella Classico,Zenato,wine_01gzr4ksd2ry507c65jp5spd8w,,35.974293
+325,RED,amarone,Allegrini,,BOTTLE,17.0,100.0,,0.0,,Amarone per l'Ermitage,Allegrini,wine_01hawwd0bbyd9xrgczv3rj3965,,30.972265
+326,RED,amarone,Allegrini,,BOTTLE,18.0,100.0,,0.0,,Amarone per l'Ermitage,Allegrini,wine_01hawwd0bbyd9xrgczv3rj3965,,30.972265
+327,RED,amarone corte giara,Allegrini,,BOTTLE,17.0,66.0,,0.0,,Amarone per l'Ermitage,Allegrini,wine_01hawwd0bbyd9xrgczv3rj3965,,30.972265
+327,RED,amarone corte giara,Allegrini,,BOTTLE,19.0,66.0,,0.0,,Amarone per l'Ermitage,Allegrini,wine_01hawwd0bbyd9xrgczv3rj3965,,30.972265
+327,RED,amarone corte giara,Allegrini,,BOTTLE,20.0,66.0,,0.0,,Amarone per l'Ermitage,Allegrini,wine_01hawwd0bbyd9xrgczv3rj3965,,30.972265
+329,RED,veronese palazzo della torre,Allegrini,,MAGNUM,20.0,75.0,,2.0,,Palazzo della Torre,Allegrini,wine_01h0my5sa02ad24d2x408hzb0v,,45.14376
+330,RED,veronese palazzo della torre,Allegrini,,JEROBOAM,10.0,140.0,,1.0,,Palazzo della Torre,Allegrini,wine_01h0my5sa02ad24d2x408hzb0v,,45.14376
+333,RED,valpolicella,Le Salette,,BOTTLE,22.0,24.0,,16.0,,Valpolicella Classico,Le Salette,wine_01gzr4ksneh3813h3tt6jy3d40,,30.585228
+334,RED,valpolicella superiore ripasso “i progni”,Le Salette,,BOTTLE,20.0,39.0,,11.0,,I Progni Valpolicella Ripasso Classico Superiore,Le Salette,wine_01gzr4ksneesb4jq9k2x60d66a,,48.556534
+335,RED,amarone la marega,Le Salette,,BOTTLE,16.0,80.0,,5.0,,La Marega Amarone della Valpolicella Classico,Le Salette,wine_01gzr4ksnecqykpmga7rqv3mnv,,38.714188
+336,RED,amarone pergole vecie,Le Salette,,BOTTLE,16.0,120.0,,2.0,,Pergole Vece Amarone della Valpolicella Classico,Le Salette,wine_01gzr4ksnesshftek77cb9m595,,40.71918
+341,RED,valpolicella ripasso,Paolo Cottini,,BOTTLE,,33.0,,0.0,,Valpolicella Ripasso Classico,Paolo Cottini,wine_01gzr4ktv02wgvybjr2gygmq9j,,45.732124
+342,RED,valpolicella ripasso magnum,Paolo Cottini,,MAGNUM,21.0,80.0,,3.0,,Valpolicella Ripasso Classico,Paolo Cottini,wine_01gzr4ktv02wgvybjr2gygmq9j,,45.732124
+345,RED,valpolicella ripassa campofiorin,Masi,,BOTTLE,20.0,37.0,,22.0,,Campofiorin Ripasso,Masi,wine_01gzr4kt1xkn9a0dhjgrp1qk93,,35.254868
+346,RED,valpolicella ripassa campofiorin,Masi,,MAGNUM,20.0,68.0,,5.0,,Campofiorin Ripasso,Masi,wine_01gzr4kt1xkn9a0dhjgrp1qk93,,35.254868
+347,RED,amarone costasera,Masi,,BOTTLE,18.0,65.0,,15.0,,Costasera Amarone della Valpolicella Classico,Masi,wine_01gzr4ksd1hjdw9h6nhb6ar8vq,,28.529268
+348,RED,amarone costasera,Masi,,BOTTLE,17.0,65.0,,0.0,,Costasera Amarone della Valpolicella Classico,Masi,wine_01gzr4ksd1hjdw9h6nhb6ar8vq,,28.529268
+350,DESSERT,amarone campolongo,Masi,,BOTTLE,13.0,145.0,,2.0,,Campolongo di Torbe Recioto Amarone,Masi,wine_01gzr4kt1ypn3ac2a9w36spxgf,,29.38105
+355,RED,valpolicella ripasso,Speri,,BOTTLE,21.0,35.0,,15.0,,Valpolicella Ripasso Classico Superiore,Speri,wine_01h0f3cmc1c8z5234nqaa8pfqv,,36.4918
+359,RED,amarone della valpolicella,Villa Spinosa,,BOTTLE,18.0,,,16.0,,Amarone della Valpolicella Classico,Villa Spinosa,wine_01gzr4kt2zbw18c2fchaw7w9fx,,45.177464
+360,RED,valpolicella classico jago,Villa Spinosa,,BOTTLE,19.0,,,12.0,,Jago Valpolicella Ripasso Classico Superiore,Villa Spinosa,wine_01gzr4kt2zbw2my3v34wq0f78n,,44.960278
+363,RED,carmenere progetto recupero,La Montecchia,,BOTTLE,20.0,32.0,,2.0,,Carménère,La Victoria,wine_01gzr4kt3st0tje9v26atam5z9,,14.622675
+364,RED,carmenere progetto recupero,La Montecchia,,BOTTLE,21.0,32.0,,25.0,,Carménère,La Victoria,wine_01gzr4kt3st0tje9v26atam5z9,,14.622675
+366,RED,carmenere rosso,Az. Agr. Puntozero,,BOTTLE,16.0,48.0,,4.0,,Mmast 24 Il Rosso,Az. Agr. Lagaria,wine_01h0my5sgh0hrbc4kfthtgmfz6,,26.113937
+367,RED,tai rosso,Az. Agr. Puntozero,,BOTTLE,18.0,48.0,,1.0,,Mmast 24 Il Rosso,Az. Agr. Lagaria,wine_01h0my5sgh0hrbc4kfthtgmfz6,,26.113937
+368,RED,merlot,Az. Agr. Puntozero,,BOTTLE,15.0,75.0,,2.0,,V3 Cabernet - Merlot,AZ Master,wine_01hfxnejv8kyr0gq91v9sdfsht,,16.00619
+370,RED,amarone valpolicella classico,Az. Agr. Nicolis,,MAGNUM,10.0,170.0,,2.0,,Amarone della Valpolicella Classico,Nicolis,wine_01h0my5ttsac23kqqm00dtc28s,,30.420498
+372,RED,carmenere riserva oratorio di san lorenzo,Az. Agr. Inama,,BOTTLE,13.0,70.0,,2.0,,Carmenere Riserva Colli Berici Oratorio Di San Lorenzo,Inama Azienda Agricola,wine_01gzr4ksj23ffbkh5qny4h0eef,,41.387524
+373,RED,carmenere riserva oratorio di san lorenzo,Az. Agr. Inama,,BOTTLE,16.0,70.0,,4.0,,Carmenere Riserva Colli Berici Oratorio Di San Lorenzo,Inama Azienda Agricola,wine_01gzr4ksj23ffbkh5qny4h0eef,,41.387524
+374,RED,carmenere riserva oratorio di san lorenzo,Az. Agr. Inama,,BOTTLE,17.0,110.0,,11.0,,Carmenere Riserva Colli Berici Oratorio Di San Lorenzo,Inama Azienda Agricola,wine_01gzr4ksj23ffbkh5qny4h0eef,,41.387524
+375,RED,carmenere riserva oratorio di san lorenzo,Az. Agr. Inama,,MAGNUM,16.0,140.0,,2.0,,Carmenere Riserva Colli Berici Oratorio Di San Lorenzo,Inama Azienda Agricola,wine_01gzr4ksj23ffbkh5qny4h0eef,,41.387524
+376,RED,carmenere riserva oratorio di san lorenzo,Az. Agr. Inama,,MAGNUM,17.0,250.0,,3.0,,Carmenere Riserva Colli Berici Oratorio Di San Lorenzo,Inama Azienda Agricola,wine_01gzr4ksj23ffbkh5qny4h0eef,,41.387524
+380,RED,carmenere carminium colli berici,Az. Agr. Inama,,MAGNUM,18.0,150.0,,7.0,,Carminium,Inama Azienda Agricola,wine_01gzr4ksj2fbszz2e93w7ae373,,34.46232
+381,RED,carmenere più veneto rosso igt,Az. Agr. Inama,,MAGNUM,18.0,70.0,,1.0,,Carmenérè Piu,Inama Azienda Agricola,wine_01gzr4ksj203xw884yjtqh67mv,,34.01399
+383,RED,"cabernet sauvignon ""bradisismo"" colli berici doc",Az. Agr. Inama,,MAGNUM,19.0,120.0,,5.0,,Bradisismo Cabernet Sauvignon,Inama Azienda Agricola,wine_01gzr4ksj2gey2q6e02g2fpvkw,,36.217598
+385,RED,secco,Bertani,,MAGNUM,19.0,90.0,,5.0,,Secco-Bertani Verona,Bertani,wine_01h0my5smqb19595f6zje2ebbe,,29.447283
+386,RED,recioto valpolicella amarone,Bertani,,BOTTLE,1975.0,840.0,,1.0,,Amarone della Valpolicella,Bertani,wine_01h0my5smqjv1sbfwwyz6m6d4d,,34.588852
+387,RED,amarone valpolicella classico,Bertani,,BOTTLE,12.0,125.0,,1.0,,Amarone della Valpolicella Classico,Bertani,wine_01gzr4ksd304mne6hz94hhd71x,,37.39216
+388,RED,amarone valpolicella classico,Bertani,,MAGNUM,12.0,330.0,,2.0,,Amarone della Valpolicella Classico,Bertani,wine_01gzr4ksd304mne6hz94hhd71x,,37.39216
+390,RED,pinot nero,Pian delle vette,,BOTTLE,19.0,,,12.0,,Pinot Nero,Pian Delle Vette,wine_01gzr4ksjskbxc0yfsqynm1bsf,,50.475784
+392,RED,valpolicella superiore,Le Guaite di Noemi,,BOTTLE,12.0,48.0,,18.0,,Valpolicella Superiore,Le Guaite di Noemi,wine_01h0r2pp6hjmx4x0hmnac7sh9w,,50.78446
+393,RED,valpolicella superiore,Le Guaite di Noemi,,MAGNUM,12.0,105.0,,0.0,,Valpolicella Superiore,Le Guaite di Noemi,wine_01h0r2pp6hjmx4x0hmnac7sh9w,,50.78446
+394,RED,valpolicella ripasso,Le Guaite di Noemi,,BOTTLE,17.0,66.0,,5.0,,Valpolicella Ripasso,Le Guaite di Noemi,wine_01h0qzm1ah92xnjrdyk63cqjx7,,52.91756
+395,RED,valpolicella ripasso,Le Guaite di Noemi,,MAGNUM,12.0,132.0,,2.0,,Valpolicella Ripasso,Le Guaite di Noemi,wine_01h0qzm1ah92xnjrdyk63cqjx7,,52.91756
+396,RED,amarone,Le Guaite di Noemi,,BOTTLE,11.0,86.0,,8.0,,Amarone,Le Guaite di Noemi,wine_01h0qzm1ah0vtwpv9qj3nmb9za,,47.66317
+397,RED,amarone,Le Guaite di Noemi,,MAGNUM,11.0,180.0,,3.0,,Amarone,Le Guaite di Noemi,wine_01h0qzm1ah0vtwpv9qj3nmb9za,,47.66317
+399,RED,pinot nero cors,Val De Pol,,BOTTLE,21.0,45.0,,37.0,,Pinot Noir Córs,Val de Pol,wine_01havwedqbvzakn3x9m9xmnp2s,,40.246483
+400,RED,pinot nero frazesca,Val De Pol,,BOTTLE,20.0,75.0,,3.0,,Pinot Noir Frazesca,Val de Pol,wine_01hymq9x82graq51kw46rqhwbb,,41.9657
+401,RED,pinot nero corletta,Val De Pol,,BOTTLE,19.0,98.0,,0.0,,Pinot Noir Corletta,Val de Pol,wine_01hykgsqcwjd7f2d4dcejt8szn,,42.646347
+403,RED,ammonite rosso,Az. Agr. Montebrecale,,BOTTLE,20.0,30.0,,20.0,,Mmast 24 Il Rosso,Az. Agr. Lagaria,wine_01h0my5sgh0hrbc4kfthtgmfz6,,26.113937
+405,RED,silenzio rosso,A & G De Martin,,BOTTLE,23.0,,,10.0,,Silenzio Rosso,De Martin,wine_01j03q7h0tpxaadj5r88edzvty,,34.041847
+408,RED,blauburgunder,Cantina di Bolzano Gries / Santa Maddalena,,BOTTLE,2021.0,30.0,,0.0,,Blauburgunder,Muri-Gries,wine_01h4pmmfh9y763t8kv4m3vcvsv,,29.947487
+408,RED,blauburgunder,Cantina di Bolzano Gries / Santa Maddalena,,BOTTLE,2022.0,30.0,,0.0,,Blauburgunder,Muri-Gries,wine_01h4pmmfh9y763t8kv4m3vcvsv,,29.947487
+412,RED,pinot nero riserva,Cantina di Bolzano Gries / Santa Maddalena,,BOTTLE,16.0,48.0,,0.0,,Pinot Nero Riserva,Cantina Bolzano / Kellerei Bozen,wine_01h0my5rkkz7e1ctk8vjw3m1xt,,31.265074
+414,RED,lagrein taber,Cantina di Bolzano Gries / Santa Maddalena,,BOTTLE,20.0,75.0,,2.0,,Lagrein Riserva Taber,Cantina Bolzano / Kellerei Bozen,wine_01h0my5rkg9tcrx4kt4gktkckn,,37.393192
+415,RED,lagrein taber,Cantina di Bolzano Gries / Santa Maddalena,,MAGNUM,16.0,150.0,,3.0,,Lagrein Riserva Taber,Cantina Bolzano / Kellerei Bozen,wine_01h0my5rkg9tcrx4kt4gktkckn,,37.393192
+416,RED,merlot lagrein mauritius,Cantina di Bolzano Gries / Santa Maddalena,,BOTTLE,19.0,70.0,,4.0,,Mauritius,Cantina Bolzano / Kellerei Bozen,wine_01h0my5rkkpyzqr21yc1p3a36s,,35.35969
+417,RED,merlot lagrein mauritius,Cantina di Bolzano Gries / Santa Maddalena,,MAGNUM,16.0,130.0,,1.0,,Mauritius,Cantina Bolzano / Kellerei Bozen,wine_01h0my5rkkpyzqr21yc1p3a36s,,35.35969
+422,RED,lagrein steinraffler,Tenuta J. Hofstätter ,,BOTTLE,19.0,55.0,,18.0,,Steinraffler Lagrein Alto Adige,J. Hofstätter,wine_01h0qzm1vfz8drpdxm807pj2np,,47.9286
+423,DESSERT,sant’urbano barthenau,Tenuta J. Hofstätter ,,BOTTLE,16.0,90.0,,0.0,,Barthenau  Grappa,J. Hofstätter,wine_01h0qzm1vgyxfa7zjz9v28qp79,,43.566967
+424,DESSERT,sant’urbano barthenau,Tenuta J. Hofstätter ,,BOTTLE,19.0,98.0,,3.0,,Barthenau  Grappa,J. Hofstätter,wine_01h0qzm1vgyxfa7zjz9v28qp79,,43.566967
+425,DESSERT,sant’urbano barthenau,Tenuta J. Hofstätter ,,MAGNUM,16.0,200.0,,2.0,,Barthenau  Grappa,J. Hofstätter,wine_01h0qzm1vgyxfa7zjz9v28qp79,,43.566967
+428,WHITE,blauburgunder,Alois Lageder,,BOTTLE,21.0,30.0,,7.0,,Grauburgunder,Alois Kirchen,wine_01h0my5rfgsmxdcx5shfs30e0c,,23.560108
+429,RED,lagrein,Alois Lageder,,BOTTLE,21.0,30.0,,3.0,,Lagrein,Alois Lageder,wine_01h0my5rfenkygvkpqp8876v1w,,43.07624
+430,RED,lagrein conus riserva (bio),Alois Lageder,,BOTTLE,20.0,42.0,,6.0,,Conus Lagrein,Alois Lageder,wine_01h0my5rfepyykhadhhm51kgjf,,55.55652
+431,RED,cabernet riserva,Alois Lageder,,BOTTLE,2.0,33.0,,2.0,,Cabernet Riserva,Alois Lageder,wine_01h0my5rfe67d9v2w4ykcaxxj1,,41.74007
+436,RED,pinot nero,Carlotto Ferruccio,,BOTTLE,20.0,57.0,,21.0,,Pinot Nero,Ferruccio Carlotto,wine_01h0qzm14rvs6qaxj9sdpw9x91,,51.319305
+437,RED,pinot nero,Carlotto Ferruccio,,MAGNUM,21.0,123.0,,3.0,,Pinot Nero,Ferruccio Carlotto,wine_01h0qzm14rvs6qaxj9sdpw9x91,,51.319305
+438,RED,lagrein riserva di ora in ora,Carlotto Ferruccio,,BOTTLE,20.0,45.0,,24.0,,Lagrein Riserva,Ferruccio Carlotto,wine_01h0qzm14vm0hjzj9mpj4tbwep,,54.41565
+440,RED,lagrein,Cantina di Termeno,,BOTTLE,22.0,30.0,,3.0,,Lagrein,Cantina Kurtatsch,wine_01h0my5rkgjx4mn5zrvc6zntfr,,18.49376
+441,RED,lagrein urban riserva,Cantina di Termeno,,BOTTLE,20.0,66.0,,11.0,,Chianti Classico Riserva,Terreno,wine_01h0sq47sky50txs6fvfrs91q3,,24.442425
+444,RED,pinot nero riserva,Gottardi,,BOTTLE,17.0,75.0,,9.0,,Pinot Nero,Tenuta Gottardi,wine_01gzr4ksebrh0qmjah9pq4h94q,,31.231266
+445,RED,pinot nero,Gottardi,,MAGNUM,18.0,140.0,,0.0,,Pinot Nero,Tenuta Gottardi,wine_01gzr4ksebrh0qmjah9pq4h94q,,31.231266
+447,RED,gschleier vecchie vigne,Girlan,,BOTTLE,,,,0.0,,Gschleier Vernatsch Alte Reben,Girlan,wine_01h0b4rjgxsqh9zf0h82pxmsgh,,35.519474
+448,RED,vigna ganger,Girlan,,BOTTLE,,,,0.0,,Vigna Ganger Pinot Noir Riserva,Girlan,wine_01h0qzm1pmtysvk48mrdbc8n5b,,35.33372
+450,RED,teroldego rotaliano,Barone De Cles,,BOTTLE,17.0,34.0,,0.0,,Teroldego Rotaliano,Barone de Cles,wine_01gzr4ksept90kbx29dmt7d681,,42.034748
+450,RED,teroldego rotaliano,Barone De Cles,,BOTTLE,19.0,34.0,,0.0,,Teroldego Rotaliano,Barone de Cles,wine_01gzr4ksept90kbx29dmt7d681,,42.034748
+452,RED,teroldego rotaliano,Cantina Rotaliana,,BOTTLE,13.0,56.0,,6.0,,Teroldego Rotaliano,Cantina Rotaliana,wine_01gzr4ksep6128dec5t061bhfs,,48.740562
+458,RED,merlot siebeneich riserva,Schreckbichl/Colterenzio,,BOTTLE,19.0,39.0,,0.0,,Siebeneich Merlot Riserva,Colterenzio (Schreckbichl),wine_01gzr4kt49gx3e29tj6x388br0,,57.26326
+459,RED,merlot siebeneich riserva,Schreckbichl/Colterenzio,,BOTTLE,21.0,39.0,,6.0,,Siebeneich Merlot Riserva,Colterenzio (Schreckbichl),wine_01gzr4kt49gx3e29tj6x388br0,,57.26326
+460,RED,blauburgunder,Schreckbichl/Colterenzio,,BOTTLE,22.0,30.0,,10.0,,Pinot Nero (Blauburgunder),Colterenzio (Schreckbichl),wine_01gzr4ksktq9tnae6gf7ykec8g,,44.460827
+461,RED,blauburgunder riserva st.daniel,Schreckbichl/Colterenzio,,BOTTLE,20.0,39.0,,5.0,,Cornell Schwarzhaus Blauburgunder Riserva,Colterenzio (Schreckbichl),wine_01gzr4kt4911nesvhjze30kfaz,,47.07491
+462,RED,lagrein mantsch,Schreckbichl/Colterenzio,,BOTTLE,17.0,39.0,,0.0,,Mantsch Lagrein Riserva,Colterenzio (Schreckbichl),wine_01gzr4kt492y5tscpcks9sqjjr,,56.172436
+462,RED,lagrein mantsch,Schreckbichl/Colterenzio,,BOTTLE,20.0,39.0,,0.0,,Mantsch Lagrein Riserva,Colterenzio (Schreckbichl),wine_01gzr4kt492y5tscpcks9sqjjr,,56.172436
+466,RED,lagrein riserva castel ringberg,Elena Walch,,BOTTLE,20.0,54.0,,24.0,,Lagrein Riserva Vigna Castel Ringberg,Elena Walch,wine_01gzr4kt16y83ba9q9yymzgvav,,60.58138
+467,RED,lagrein,Elena Walch,,BOTTLE,22.0,32.0,,23.0,,Lagrein (Selezione),Elena Walch,wine_01gzr4kt167mtk5dh65r8c5744,,44.651344
+468,RED,blauburgunder,Elena Walch,,BOTTLE,22.0,33.0,,9.0,,Pinot Nero (Blauburgunder) (Selezione),Elena Walch,wine_01gzr4kskrkbf2tqztzzwvke8m,,42.861786
+472,RED,pinot nero schweizer,Franz Haas,,BOTTLE,19.0,70.0,,0.0,,Pinot Nero Schweizer,Franz Haas,wine_01h0qzm1c5nxx59wbtgq5ejaxd,,45.25595
+472,RED,pinot nero schweizer,Franz Haas,,BOTTLE,20.0,70.0,,0.0,,Pinot Nero Schweizer,Franz Haas,wine_01h0qzm1c5nxx59wbtgq5ejaxd,,45.25595
+473,RED,pinot nero,Franz Haas,,BOTTLE,21.0,54.0,,4.0,,Pinot Nero,Franz Haas,wine_01gzr4ksknmd61hkk9sxtdtzj7,,36.86567
+474,RED,pinot nero magnum,Franz Haas,,BOTTLE,18.0,110.0,,0.0,,Pinot Nero,Franz Haas,wine_01gzr4ksknmd61hkk9sxtdtzj7,,36.86567
+474,RED,pinot nero magnum,Franz Haas,,BOTTLE,21.0,110.0,,0.0,,Pinot Nero,Franz Haas,wine_01gzr4ksknmd61hkk9sxtdtzj7,,36.86567
+477,RED,pinot nero riserva vigna oberhof suedtirol,Abbazia di Novacella,,BOTTLE,19.0,110.0,,0.0,,Praepositus Pinot Nero Riserva,Abbazia di Novacella (Stiftskellerei Neustift),wine_01h0my5rbq7r0ddcqzc552cjcr,,36.673023
+479,RED,lagrein,Abbazia di Novacella,,BOTTLE,22.0,29.0,,24.0,,Lagrein,Abbazia di Novacella (Stiftskellerei Neustift),wine_01h0my5rbq2gyn9nn6hc7aft0f,,35.45262
+482,WHITE,praesulis,Marcus Prackwierser,,BOTTLE,18.0,,,1.0,,Praesulis Gewürztraminer,Markus Prackwieser Gump Hof,wine_01h0qzm1tfsa2r791abqhxexke,,37.30983
+484,RED,pinot nero schwarze madonna,Tenuta Klosterhof,,BOTTLE,18.0,62.0,,9.0,,Schwarze Madonna Pinot Noir,Klosterhof,wine_01h0r2ppgh5n5xvsmz8m7q4793,,43.834988
+489,RED,rosso,Miani,,BOTTLE,20.0,130.0,,6.0,,Rosso,Miani,wine_01gzr4ksk6snjfev5zvksfyc4k,,28.68148
+490,RED,refosco cossut,Miani,,BOTTLE,20.0,160.0,,5.0,,Cossut Refosco,Miani,wine_01gzr4ksk7dfr3jwtwh28199qb,,41.261436
+491,RED,refosco la mont di zuc,Miani ,,BOTTLE,19.0,,,1.0,,Refosco La Mont di Zuc,Miani,wine_01hbdjk67w2rwwke03vs8wzr5d,,46.677467
+492,WHITE,filip merlot,Miani,,BOTTLE,20.0,,,5.0,,Filip Bianco,Miani,wine_01gzr4ksk65fcggsd24w1585ma,,36.613544
+494,RED,cabernet franc,Castelvecchio,,BOTTLE,19.0,30.0,,0.0,,Cabernet Franc Carso,Castelvecchio,wine_01h0qsxmyh0nmv6eaad90k4mrv,,30.642319
+496,RED,cabernet sauvignon,Castelvecchio,,BOTTLE,20.0,30.0,,10.0,,Cabernet Sauvignon Carso,Castelvecchio,wine_01h0qsxmyh5aktavf2cmn9z1k9,,28.452951
+497,RED,sagrado,Castelvecchio,,BOTTLE,11.0,42.0,,1.0,,Sagrado Rosso,Castelvecchio,wine_01h0qsxmyj8rxqbdb87nmxr85n,,34.8826
+498,RED,sagrado,Castelvecchio,,BOTTLE,18.0,42.0,,5.0,,Sagrado Rosso,Castelvecchio,wine_01h0qsxmyj8rxqbdb87nmxr85n,,34.8826
+500,RED,cabernet franc isonzo,Borgo Conventi,,BOTTLE,22.0,21.0,,19.0,,Cabernet Franc Isonzo del Friuli,Borgo Conventi,wine_01h0my5svsf7x5sc2e4g58drcv,,46.224884
+501,RED,refosco isonzo,Borgo Conventi,,BOTTLE,22.0,21.0,,5.0,,Refosco Isonzo del Friuli,Borgo Conventi,wine_01h0my5svsjr6syym41s3dbch4,,46.445396
+502,RED,schiopettino,Borgo Conventi,,BOTTLE,19.0,,,10.0,,Schioppettino Venezia Giulia,Borgo Conventi,wine_01h0my5svsjpk5gfgmyf0ma68n,,39.652573
+504,RED,rivarossa,Schioppetto,,BOTTLE,18.0,45.0,,11.0,,Rivarossa,Schiopetto,wine_01h0sq495bq0crm1j4777thkcb,,39.43502
+506,RED,blumeri,Schioppetto,,BOTTLE,18.0,65.0,,9.0,,Podere dei Blumeri,Schiopetto,wine_01h0qsxnxacdt0tcyyvv0x1xwv,,35.822407
+507,WHITE,cabernet sauvignon,Schioppetto,,BOTTLE,20.0,33.0,,0.0,,Collio Sauvignon,Schiopetto,wine_01havwee8npbsdnr96ax62jmbm,,27.185787
+508,WHITE,cabernet sauvignon magnum,Schioppetto,,BOTTLE,20.0,70.0,,0.0,,Collio Sauvignon,Schiopetto,wine_01havwee8npbsdnr96ax62jmbm,,27.185787
+510,RED,pinot nero,Antico Broilo,,JEROBOAM,15.0,,,1.0,,Pinot Nero,Antico Broilo,wine_01gzr4kt49jzd4tzge684qsvcj,,45.615005
+513,RED,rosso nestri,Meroi,,BOTTLE,,35.0,,0.0,,Nèstri,Meroi,wine_01gzr4ksmh829j6kcj7eqh0trh,,38.916054
+515,RED,pignolo,Cantina Produttori di Cormons,,BOTTLE,15.0,36.0,,0.0,,Pignolo,Cormòns,wine_01havwef3yeavg0c71aeq5e40q,,34.947693
+517,RED,cabernet merlot vertigo,Livio Felluga,,BOTTLE,21.0,28.0,,10.0,,Vertigo,Livio Felluga,wine_01gzr4kskv9y7t62t3vethmey1,,50.428932
+519,RED,rosso collio riserva degli orzoni,Marco Felluga Russiz sup.,,BOTTLE,18.0,75.0,,3.0,,Collio Rosso Riserva Degli Orzoni,Russiz Superiore,wine_01gzr4ksfwh3ezsq5hzzr4qn57,,46.720528
+520,RED,cabernet franc isonzo,Marco Felluga Russiz sup.,,BOTTLE,21.0,45.0,,9.0,,Cabernet Franc Collio,Marco Felluga,wine_01gzr4ksfwjny7m6dh44pt6wqk,,40.80524
+521,RED,cabernet franc,Marco Felluga Russiz sup.,,BOTTLE,21.0,,,0.0,,Cabernet Franc Collio,Marco Felluga,wine_01gzr4ksfwjny7m6dh44pt6wqk,,40.80524
+522,RED,cabernet franc,Marco Felluga Russiz sup.,,MAGNUM,21.0,,,3.0,,Cabernet Franc Collio,Marco Felluga,wine_01gzr4ksfwjny7m6dh44pt6wqk,,40.80524
+524,RED,refosco peduncolo rosso,Az. Agr. La Viarte,,BOTTLE,10.0,55.0,,2.0,,Refosco Peduncolo Rosso,La Viarte,wine_01gzr4kt121ec59k0b7fbamj7a,,44.565495
+525,RED,refosco riserva,Az. Agr. La Viarte,,BOTTLE,14.0,60.0,,6.0,,Refosco Peduncolo Rosso,La Viarte,wine_01gzr4kt121ec59k0b7fbamj7a,,33.611946
+526,RED,merlot riserva,Az. Agr. La Viarte,,BOTTLE,14.0,54.0,,8.0,,Merlot Riserva,La Viarte,wine_01gzr4kt1210tgjcx0whv4h0me,,35.490932
+527,RED,schiopettino,Az. Agr. La Viarte,,BOTTLE,11.0,46.0,,5.0,,Schioppettino di Prepotto,La Viarte,wine_01gzr4kt12nnbt042e54sfm5g1,,34.401943
+528,RED,tazzelenghe,Az. Agr. La Viarte,,BOTTLE,12.0,66.0,,5.0,,Tazzelenghe,La Viarte,wine_01gzr4kt12tewzagdf8f1x00pv,,40.964622
+529,RED,tazzelenghe,Az. Agr. La Viarte,,BOTTLE,13.0,66.0,,6.0,,Tazzelenghe,La Viarte,wine_01gzr4kt12tewzagdf8f1x00pv,,40.964622
+531,RED,skala merlot,Alexis Paraschos,,BOTTLE,15.0,75.0,,6.0,,Skala selezione,Paraschos,wine_01gzr4kskwpmp2pd6nezhks0z8,,37.583473
+533,RED,merlot colli orientali,Castello di Buttrio,,MAGNUM,19.0,75.0,,2.0,,Merlot,Castello di Buttrio,wine_01h0my5t552km278pra85cvx0k,,37.359886
+534,RED,merlot colli orientali,Castello di Buttrio,,BOTTLE,20.0,35.0,,31.0,,Merlot,Castello di Buttrio,wine_01h0my5t552km278pra85cvx0k,,37.359886
+535,RED,refosco colli orientali,Castello di Buttrio,,MAGNUM,19.0,75.0,,3.0,,Refosco,Castello di Buttrio,wine_01h0my5t56e15chnz3q71c9nyw,,41.538563
+536,RED,refosco colli orientali,Castello di Buttrio,,BOTTLE,20.0,35.0,,36.0,,Refosco,Castello di Buttrio,wine_01h0my5t56e15chnz3q71c9nyw,,41.538563
+538,RED,tazzelenghe,Conte d’Attimis Maniago,,MAGNUM,2016.0,,,1.0,,Tazzelenghe,Conte d'Attimis Maniago,wine_01gzr4ksk9fckkrc2bmpcwyynn,,58.41409
+541,RED,cabernet sauvignon,Lis Neris,,MAGNUM,20.0,75.0,,5.0,,Cabernet Sauvignon,Lis Neris,wine_01h0qzm1m0jdc2sp5dgy3mp5mn,,33.560932
+544,RED,barolo brunate,Ceretto,,BOTTLE,15.0,155.0,,4.0,,Barolo Brunate,Ceretto,wine_01gzr4kt6eyea97wmmagbfda3y,,42.9335
+545,RED,barolo brunate,Ceretto,,BOTTLE,19.0,155.0,,2.0,,Barolo Brunate,Ceretto,wine_01gzr4kt6eyea97wmmagbfda3y,,42.9335
+546,RED,barbaresco,Ceretto,,BOTTLE,19.0,65.0,,0.0,,Barbaresco,Ceretto,wine_01gzr4kt6e8t3kr0338y8df3ry,,33.64099
+547,RED,barbaresco,Ceretto,,BOTTLE,20.0,65.0,,0.0,,Barbaresco,Ceretto,wine_01gzr4kt6e8t3kr0338y8df3ry,,33.64099
+548,RED,barbaresco asili,Ceretto,,BOTTLE,15.0,250.0,,1.0,,Barbaresco Asili,Ceretto,wine_01gzr4kt6enqzcxbj3s8h0xebm,,45.078583
+549,RED,monsordo,Ceretto,,BOTTLE,21.0,45.0,,5.0,,Monsordo Rosso,Ceretto,wine_01gzr4kt6e4ng9xz5qjspjhnze,,39.41345
+551,RED,barolo dagromis,Gaja,,BOTTLE,18.0,120.0,,1.0,,Dagromis Barolo,Gaja,wine_01gzr4ksppt0jb18tnmca890vq,,43.990604
+552,RED,barolo dagromis,Gaja,,BOTTLE,19.0,110.0,,4.0,,Dagromis Barolo,Gaja,wine_01gzr4ksppt0jb18tnmca890vq,,43.990604
+553,RED,barbaresco,Gaja,,BOTTLE,13.0,280.0,,0.0,,Barbaresco,Gaja,wine_01gzr4ksd3m8y62ggabzd1kdmg,,30.750607
+554,RED,barbaresco,Gaja,,BOTTLE,16.0,280.0,,0.0,,Barbaresco,Gaja,wine_01gzr4ksd3m8y62ggabzd1kdmg,,30.750607
+555,RED,barbaresco,Gaja,,BOTTLE,19.0,260.0,,3.0,,Barbaresco,Gaja,wine_01gzr4ksd3m8y62ggabzd1kdmg,,30.750607
+556,RED,barbaresco,Gaja,,BOTTLE,20.0,300.0,,3.0,,Barbaresco,Gaja,wine_01gzr4ksd3m8y62ggabzd1kdmg,,30.750607
+557,RED,barbaresco,Gaja,,MAGNUM,16.0,650.0,,1.0,,Barbaresco,Gaja,wine_01gzr4ksd3m8y62ggabzd1kdmg,,30.750607
+559,RED,sperss barolo langhe,Gaja,,BOTTLE,14.0,380.0,,2.0,,Sperss Barolo,Gaja,wine_01gzr4kspp7qb0nmb3p3cs0zz4,,40.26275
+560,RED,sperss barolo langhe,Gaja,,BOTTLE,17.0,360.0,,3.0,,Sperss Barolo,Gaja,wine_01gzr4kspp7qb0nmb3p3cs0zz4,,40.26275
+561,RED,barbera,Gaja,,BOTTLE,73.0,,,1.0,,Sitorey Barbera Piemonte,Gaja,wine_01gzr4kspp341g9v4c03j8tk8b,,26.866016
+563,RED,gattinara,Travaglini,,BOTTLE,19.0,55.0,,0.0,,Gattinara,Travaglini,wine_01gzr4kse5wjgcss9qwt3q80az,,37.150337
+564,RED,gattinara,Travaglini,,BOTTLE,20.0,55.0,,3.0,,Gattinara,Travaglini,wine_01gzr4kse5wjgcss9qwt3q80az,,37.150337
+565,RED,gattinara magnum,Travaglini,,BOTTLE,15.0,120.0,,1.0,,Gattinara,Travaglini,wine_01gzr4kse5wjgcss9qwt3q80az,,37.150337
+566,RED,gattinara magnum,Travaglini,,BOTTLE,20.0,120.0,,3.0,,Gattinara,Travaglini,wine_01gzr4kse5wjgcss9qwt3q80az,,37.150337
+568,RED,nebbiolo roero riserva sudisfà,Az. Agr. Negro,,BOTTLE,,70.0,,0.0,,Sudisfà Roero Riserva,Negro Angelo,wine_01gzr4ktrf6jmyd1egy7bpg47n,,40.66241
+569,RED,barolo serralunga,Az. Agr. Negro,,BOTTLE,16.0,85.0,,3.0,,Le Coste di Monforte Barolo,Az. Agr. Lalù,wine_01h0my5skdkm2mqejppe7rbac0,,27.322092
+570,RED,barbaresco basarin,Az. Agr. Negro,,BOTTLE,20.0,,,2.0,,Barbaresco Basarin,Negro Angelo,wine_01gzr4kts27p4kajygc89h1rdr,,36.502106
+572,RED,ciabot roero riserva magnum,Az. Agr. Negro,,MAGNUM,19.0,75.0,,1.0,,Ciabot San Giorgio Roero Riserva,Negro Angelo,wine_01gzr4ktrgy02hyz452fwfj5yy,,33.29668
+577,RED,nebbiolo amfora selezione,Az. Vinicola Reva,,BOTTLE,20.0,42.0,,0.0,,Nebbiolo d'Alba Amphora,Réva,wine_01h0sq4955hzyzvm3q29kdngrj,,31.963207
+579,RED,barolo albe,Az. Agr. G.D. Vajra,,BOTTLE,18.0,70.0,,8.0,,Albe Barolo,G.D. Vajra,wine_01gzr4ksd3h1yg01e98qnrzvhg,,51.383125
+580,RED,barbera,Az. Agr. G.D. Vajra,,BOTTLE,21.0,35.0,,2.0,,Barbera d'Alba,G.D. Vajra,wine_01gzr4ktqwb8d4n7sy21d6txkb,,43.292988
+587,RED,barolo,Paolo Scavino,,BOTTLE,18.0,,,0.0,,Barolo,Paolo Scavino,wine_01gzr4kt65sc8enqkpar1x64sa,,40.718014
+588,RED,nebbiolo,Paolo Scavino,,BOTTLE,22.0,,,41.0,,Langhe Nebbiolo,Paolo Scavino,wine_01gzr4kt65wzp111shvf0m3tm0,,39.582596
+591,RED,lagone igt,Aia Vecchia,,BOTTLE,16.0,25.0,,0.0,,Lagone Toscana,Aia Vecchia,wine_01gzr4ksd558zx02qhdjp1wpbj,,41.119663
+592,RED,lagone igt,Aia Vecchia,,MAGNUM,17.0,70.0,,1.0,,Lagone Toscana,Aia Vecchia,wine_01gzr4ksd558zx02qhdjp1wpbj,,41.119663
+594,DESSERT,rosso masseto,Tenuta dell'Ornellaia,,BOTTLE,15.0,2000.0,,1.0,,Passito Rosso,Tenuta Ulisse,wine_01h0sq47mp1wq5gx9m6b817gdz,,18.958641
+597,RED,rosso serre nuove,Tenuta dell'Ornellaia,,BOTTLE,20.0,70.0,,2.0,,Terre di Fianello Rosso,Tenuta Placidi,wine_01gzr4ksgmzp25ka5m6b367ph7,,17.088152
+598,WHITE,le volte,Tenuta dell'Ornellaia,,BOTTLE,21.0,40.0,,7.0,,Coda di Volpe,Tenuta Santianni,wine_01h0sq47189p6d8b5sqs48pk1a,,16.254955
+599,WHITE,le volte,Tenuta dell'Ornellaia,,MAGNUM,20.0,80.0,,0.0,,Coda di Volpe,Tenuta Santianni,wine_01h0sq47189p6d8b5sqs48pk1a,,16.254955
+599,WHITE,le volte,Tenuta dell'Ornellaia,,MAGNUM,21.0,80.0,,0.0,,Coda di Volpe,Tenuta Santianni,wine_01h0sq47189p6d8b5sqs48pk1a,,16.254955
+601,RED,nobile di montepulciano,Avignonesi,,BOTTLE,15.0,45.0,,0.0,,Vino Nobile di Montepulciano,Avignonesi,wine_01gzr4ktfg81zfn733zbm1gzcr,,37.87303
+603,RED,chianti classico riserva,Ormanni,,BOTTLE,15.0,39.0,,0.0,,Riserva Chianti Classico,Ormanni,wine_01hawwcw6wg973p2sxwtyzkxgr,,42.24562
+604,RED,chianti classico riserva,Ormanni,,MAGNUM,15.0,80.0,,2.0,,Riserva Chianti Classico,Ormanni,wine_01hawwcw6wg973p2sxwtyzkxgr,,42.24562
+606,RED,brunello di montalcino sugarille pieve s. restituita,Gaja,,BOTTLE,18.0,220.0,,0.0,,Pieve Santa Restituta Sugarille Brunello di Montalcino,Gaja,wine_01gzr4ksppp4ped8xmb00b4cq4,,54.190914
+608,RED,monsenese chianti classico riserva,San Leonino,,BOTTLE,17.0,27.0,,10.0,,Monsenese Chianti Classico Riserva,San Leonino,wine_01gzr4ksp0ppcqzxp5f1hkvdnj,,56.199177
+610,RED,cabernet sauvignon,Tenuta Il Fantone,,BOTTLE,19.0,42.0,,1.0,,Gibbione Cabernet Sauvignon,Tenuta Il Corno,wine_01h0qsxn415qvwz8q4n7jkh2ph,,23.374271
+611,RED,syrah lago nero,Tenuta Il Fantone,,BOTTLE,19.0,40.0,,4.0,,Lago Nero Syrah,Il Fantone,wine_01h0qzm0bqr1zrsgq719tckdac,,51.288315
+615,RED,brunello di montalcino pian delle vigne,Marchesi Antinori,,BOTTLE,18.0,85.0,,3.0,,Pian delle Vigne Brunello di Montalcino,Antinori,wine_01gzr4ksswss4ksj7tngxj6dk5,,47.26583
+616,RED,guado al tasso bolgheri superiore,Marchesi Antinori,,BOTTLE,17.0,180.0,,5.0,,Tenuta Guado al Tasso Bolgheri Superiore,Antinori,wine_01gzr4kssww5k215dr9ea2695w,,50.461697
+617,RED,tignanello,Marchesi Antinori,,BOTTLE,20.0,190.0,,4.0,,Tignanello,Antinori,wine_01gzr4ksswn8cnrh7jb8qff1wy,,38.30335
+618,RED,tignanello,Marchesi Antinori,,MAGNUM,20.0,,,1.0,,Tignanello,Antinori,wine_01gzr4ksswn8cnrh7jb8qff1wy,,38.30335
+620,RED,chianti peppoli,Marchesi Antinori,,BOTTLE,21.0,37.0,,2.0,,Pèppoli Chianti Classico,Antinori,wine_01gzr4ksd1qj0jje38pjazzgjz,,39.254143
+623,RED,merlot lamaione,Marchesi Frescobaldi,,BOTTLE,14.0,72.0,,4.0,,Amarone,Marchesi Fumanelli,wine_01gzr4kte1a91fk2e3qpka5ywd,,20.894983
+624,RED,merlot lamaione,Marchesi Frescobaldi,,BOTTLE,18.0,72.0,,6.0,,Amarone,Marchesi Fumanelli,wine_01gzr4kte1a91fk2e3qpka5ywd,,20.894983
+627,RED,rosso di montalcino,Mastrojanni,,BOTTLE,20.0,40.0,,7.0,,Rosso di Montalcino,Mastrojanni,wine_01gzr4kt24smq1ccqhfwz72d3r,,41.149044
+628,RED,brunello di montalcino,Mastrojanni,,BOTTLE,14.0,90.0,,3.0,,Brunello di Montalcino,Mastrojanni,wine_01gzr4ksd7xxn6av2sket6k35p,,43.80076
+629,RED,brunello di montalcino,Mastrojanni,,BOTTLE,17.0,90.0,,5.0,,Brunello di Montalcino,Mastrojanni,wine_01gzr4ksd7xxn6av2sket6k35p,,43.80076
+632,RED,brunello di montalcino,Corte dei Venti,,BOTTLE,14.0,80.0,,4.0,,Brunello di Montalcino,Corte dei Venti,wine_01gzr4ktf7t4gxxbpvmmpf0c9r,,45.06018
+633,RED,brunello di montalcino dama elena,Corte dei Venti,,BOTTLE,12.0,95.0,,1.0,,Brunello di Montalcino,Corte dei Venti,wine_01gzr4ktf7t4gxxbpvmmpf0c9r,,45.06018
+635,RED,lucente rosso,Az. Agr. Tenuta Luce,,BOTTLE,20.0,48.0,,0.0,,Lucente,Tenuta Luce,wine_01h0my5rm9t1289514mmb8xrf1,,38.68521
+637,RED,morellino di scansano belgvardo riserva,Marchesi Mazzei,,BOTTLE,17.0,30.0,,2.0,,Morellino di Scansano,Marchesi Bassini,wine_01h0my5rcx7p1ba7wn5wr7ndht,,33.296955
+639,RED,le difese,Tenuta San Guido,,BOTTLE,22.0,42.0,,12.0,,Le Difese,Tenuta San Guido,wine_01gzr4ksd26w035f1fyngbtc2g,,47.768513
+640,RED,guidalberto,Tenuta San Guido,,BOTTLE,21.0,60.0,,8.0,,Guidalberto,Tenuta San Guido,wine_01gzr4ksnx8asdj89jfbepz68c,,47.622505
+641,RED,sassicaia bolgheri,Tenuta San Guido,,BOTTLE,12.0,400.0,,3.0,,Sassicaia,Tenuta San Guido,wine_01gzr4ksd13hpy7q0n03dkf2wb,,44.904766
+642,RED,sassicaia bolgheri,Tenuta San Guido,,BOTTLE,16.0,400.0,,4.0,,Sassicaia,Tenuta San Guido,wine_01gzr4ksd13hpy7q0n03dkf2wb,,44.904766
+643,RED,sassicaia bolgheri,Tenuta San Guido,,BOTTLE,17.0,380.0,,6.0,,Sassicaia,Tenuta San Guido,wine_01gzr4ksd13hpy7q0n03dkf2wb,,44.904766
+644,RED,sassicaia bolgheri,Tenuta San Guido,,BOTTLE,18.0,380.0,,5.0,,Sassicaia,Tenuta San Guido,wine_01gzr4ksd13hpy7q0n03dkf2wb,,44.904766
+646,RED,rosso,Urlari Pervale,,BOTTLE,16.0,28.0,,12.0,,Perpava Toscana Rosso,Azienda Agricola Urlari,wine_01h0sq4953b3pw9dfefrp3b24y,,21.212578
+647,RED,rosso magnum,Urlari Pervale,,BOTTLE,17.0,60.0,,3.0,,Perpava Toscana Rosso,Azienda Agricola Urlari,wine_01h0sq4953b3pw9dfefrp3b24y,,21.212578
+649,RED,ruit hora bolgheri,Caccia al Piano,,BOTTLE,17.0,35.0,,0.0,,Ruit Hora,Caccia Al Piano,wine_01gzr4kte7hc3zc6zdyb4xbm77,,57.682083
+650,RED,ruit hora bolgheri,Caccia al Piano,,BOTTLE,19.0,35.0,,0.0,,Ruit Hora,Caccia Al Piano,wine_01gzr4kte7hc3zc6zdyb4xbm77,,57.682083
+654,RED,nobile di montepulciano,Az. Agr. S. Caterina Tenuta Tre Rose,,BOTTLE,19.0,1.25,,1.0,,Barco Reale di Carmignano,Tenuta Caterina,wine_01h0my5vpy1gcq0qeh95ajaxhb,,31.234663
+656,RED,brunello di montalcino,Vigna Spuntali,,BOTTLE,16.0,85.0,,4.0,,Brunello di Montalcino,Vigna Italia,wine_01gzr4ktfgqekfabyzp5zxf0vf,,27.569374
+658,RED,brunello di montalcino campogiovanni,San Felice,,BOTTLE,18.0,90.0,,0.0,,Campogiovanni Brunello di Montalcino,San Felice,wine_01gzr4ksnxaeasvb34fq7d0yfv,,50.88932
+659,RED,il grigio riserva,San Felice,,BOTTLE,19.0,36.0,,5.0,,Il Grigio Chianti Classico Riserva,San Felice,wine_01gzr4ksnxyxh0ekpdej4hsr16,,37.466072
+660,RED,rosso di montalcino,San Felice,,BOTTLE,21.0,33.0,,0.0,,Campogiovanni Rosso di Montalcino,San Felice,wine_01gzr4ksnzaxcbtwvxec1bkq36,,38.000523
+662,RED,brunello di montalcino,Biondi Santi,,BOTTLE,68.0,,,1.0,,Brunello di Montalcino,Biondi-Santi,wine_01gzr4ksd3w8328ttr5b1njkxs,,46.361633
+664,RED,acciaiolo,Castello d’Albola,,BOTTLE,9.0,,,1.0,,Acciaiolo,Castello di Albola,wine_01gzr4kss4tf89w83fd0zxphba,,25.799255
+666,RED,rosso di montalcino,Val di Suga,,BOTTLE,20.0,45.0,,10.0,,Rosso di Montalcino,Val di Suga,wine_01h0my5rna6qjgwz453k5x70dv,,46.43
+667,RED,brunello di montalcino,Val di Suga,,BOTTLE,16.0,,,0.0,,Brunello di Montalcino,Val di Suga,wine_01gzr4ktff2k9dm5jfszkq1y2y,,49.081715
+669,RED,brunello di montalcino,La Fiorita,,BOTTLE,5.0,,,1.0,,Brunello di Montalcino,La Fiorita,wine_01gzr4ksd7kj5wb0kgzygg4y9h,,41.837925
+671,RED,brunello di montalcino santa restituta,Gaja,,BOTTLE,18.0,,,3.0,,Pieve Santa Restituta Brunello di Montalcino,Gaja,wine_01gzr4ksd4mq78mgrkc03t10kd,,47.125782
+674,SPARKLING,lambrusco,Otello Ceci,,BOTTLE,,24.0,,11.0,,Lambrusco,Ceci,wine_01gzr4ktkc3jwq4pmw4shy2vhc,,28.81002
+683,RED,nero di troia “helena”,Vespa Vignaioli,,BOTTLE,15.0,90.0,,8.0,,Helena Nero di Troia,Vespa,wine_01h0sq485cf1nqhasg8jh3db3f,,48.565407
+685,RED,salice rosso centopietre,Petrelli,,BOTTLE,13.0,20.0,,0.0,,Centopietre,Petrelli,wine_01gzr4kthdewjje85dhzvxz1xf,,44.174034
+688,RED,i vigneri,Vigneri,,BOTTLE,16.0,40.0,,2.0,,Primitivo I Muri,Vigneti del Salento,wine_01gzr4ktj2gank402qxdy31rzq,,16.13794
+689,RED,i vigneri,Vigneri,,BOTTLE,17.0,36.0,,9.0,,Primitivo I Muri,Vigneti del Salento,wine_01gzr4ktj2gank402qxdy31rzq,,16.13794
+691,RED,santa cecilia,Planeta,,BOTTLE,11.0,48.0,,5.0,,Santa Cecilia Nero d'Avola,Planeta,wine_01gzr4kssa7297yvqc3y3x7kjb,,36.9368
+692,RED,santa cecilia,Planeta,,BOTTLE,17.0,54.0,,1.0,,Santa Cecilia Nero d'Avola,Planeta,wine_01gzr4kssa7297yvqc3y3x7kjb,,36.9368
+693,RED,burdese,Planeta,,BOTTLE,3.0,55.0,,2.0,,Burdese,Planeta,wine_01gzr4kssapwrxcn16321rp8r5,,39.446606
+694,RED,burdese,Planeta,,BOTTLE,5.0,55.0,,5.0,,Burdese,Planeta,wine_01gzr4kssapwrxcn16321rp8r5,,39.446606
+701,RED,etna rosso diciassettesalme,Cottanera,,BOTTLE,19.0,32.0,,9.0,,Etna Contrada Diciassettesalme Rosso,Cottanera,wine_01gzr4kthqgny88c4v2vf0vw05,,48.861786
+702,RED,etna rosso riserva contrada zottorinoto,Cottanera,,BOTTLE,16.0,100.0,,6.0,,Etna Riserva Contrada Zottorinoto Rosso,Cottanera,wine_01gzr4kthqw7kxmbvvy4pwfhyk,,56.89429
+704,RED,nero d’avola,Fondo Antico,,BOTTLE,16.0,20.0,,0.0,,Nero d’Avola,Fondo Antico,wine_01h0qzm0yaesvbdpvp1qqczxyk,,43.935947
+705,RED,il canto togliere,Fondo Antico,,BOTTLE,12.0,25.0,,5.0,,Il Canto,Fondo Antico,wine_01h0qzm0yhmbh6nzdnyxarxm76,,45.489838
+707,RED,rosso don pietro togliere,Spadafora,,BOTTLE,7.0,35.0,,2.0,,Don Pietro Rosso,Spadafora,wine_01h0my5sbc8bcczptwejbqv15j,,41.136642
+709,RED,etna rosso volcano,Az. Agr. Monte Rosso,,BOTTLE,19.0,42.0,,8.0,,Rosso,Monte Rosso,wine_01h0r2pq9ewvhpb8zw03r0byyq,,33.113533
+713,RED,terre brune superiore,Santadi,,BOTTLE,18.0,70.0,,2.0,,Terre Brune Carignano,Santadi,wine_01gzr4ktjm8dkrt75756qxtjj0,,40.28228
+714,RED,terre brune superiore,Santadi,,BOTTLE,19.0,70.0,,3.0,,Terre Brune Carignano,Santadi,wine_01gzr4ktjm8dkrt75756qxtjj0,,40.28228
+715,RED,carignano del sulcis rocca rubia riserva,Santadi,,BOTTLE,12.0,40.0,,1.0,,Rocca Rubia Riserva  Carignano del Sulcis,Santadi,wine_01gzr4ktjmcfzn05yx5t4mn8c7,,54.64672
+716,RED,carignano del sulcis rocca rubia riserva,Santadi,,BOTTLE,17.0,38.0,,1.0,,Rocca Rubia Riserva  Carignano del Sulcis,Santadi,wine_01gzr4ktjmcfzn05yx5t4mn8c7,,54.64672
+717,RED,carignano del sulcis rocca rubia riserva,Santadi,,BOTTLE,20.0,38.0,,6.0,,Rocca Rubia Riserva  Carignano del Sulcis,Santadi,wine_01gzr4ktjmcfzn05yx5t4mn8c7,,54.64672
+719,RED,cannonau sileno,Ferruccio Deiana,,BOTTLE,14.0,40.0,,0.0,,Sìleno Cannonau di Sardegna,Ferruccio Deiana,wine_01h0qsxnxayc2hj3984b7n327y,,52.441402
+721,RED,rosso iselis,Argiolas,,BOTTLE,12.0,36.0,,5.0,,Iselis Rosso,Argiolas,wine_01gzr4ksrw2bqyh2jn76zzvd2g,,40.399284
+722,RED,cannonau costera,Argiolas,,BOTTLE,14.0,40.0,,0.0,,Costera Cannonau di Sardegna,Argiolas,wine_01gzr4ksrw6f44hg3y15z0dm2c,,40.203777
+723,RED,cannonau costera,Argiolas,,BOTTLE,16.0,40.0,,1.0,,Costera Cannonau di Sardegna,Argiolas,wine_01gzr4ksrw6f44hg3y15z0dm2c,,40.203777
+724,RED,cannonau costera,Argiolas,,BOTTLE,19.0,38.0,,3.0,,Costera Cannonau di Sardegna,Argiolas,wine_01gzr4ksrw6f44hg3y15z0dm2c,,40.203777
+725,RED,turriga,Argiolas,,BOTTLE,16.0,126.0,,1.0,,Turriga Isola dei Nuraghi,Argiolas,wine_01gzr4ksrwyrtxrwcmh0h2ma30,,31.415573
+726,RED,turriga,Argiolas,,BOTTLE,19.0,130.0,,6.0,,Turriga Isola dei Nuraghi,Argiolas,wine_01gzr4ksrwyrtxrwcmh0h2ma30,,31.415573
+730,RED,marzemino d'isera trentino superiore,Cantina d'Isera,,BOTTLE,19.0,30.0,,7.0,,Marzemino d'Isera Trentino Superiore,Cantina d'Isera,wine_01h0my5tdv3kn0dshw4b4beanw,,57.81127
+732,RED,rosso tre monelli,Marco Mosconi,,BOTTLE,21.0,34.0,,0.0,,3 Monelli Rosso,Marco Mosconi,wine_01gzr4kt3n9y350gb92mb4eykp,,45.469395
+734,RED,rosso di malbec e corvina passo doble tierra soleada,Masi Tupungato,,BOTTLE,20.0,45.0,,0.0,,Tupungato Passo Doble Malbec - Corvina,Masi,wine_01gzr4kt1x8zgb41hy82arnsar,,37.04518
+743,RED,chateau margaux gran cru classé,Chateau Margaux,,BOTTLE,97.0,1250.0,,2.0,,Château Margaux (Premier Grand Cru Classé),Château Margaux,wine_01gzr4ksd1akapybfvb7s0hpgb,,42.156975
+745,RED,chateau mouton rothshild grand cru classé,Chateau Mouton Rothshild,,BOTTLE,1.0,1200.0,,2.0,,Château Mouton Rothschild Pauillac,Château Mouton Rothschild,wine_01hnb0hkvm8gyrqky2hqcgj1zw,,52.133186
+747,RED,chateau,Chateau Mouton Rothshild,,BOTTLE,12.0,66.0,,6.0,,Château Mouton Rothschild Pauillac,Château Mouton Rothschild,wine_01hnb0hkvm8gyrqky2hqcgj1zw,,37.857254
+748,WHITE,bordeaux legende,Chateau Mouton Rothshild,,BOTTLE,19.0,24.0,,6.0,,Aile d'Argent Blanc Bordeaux,Château Mouton Rothschild,wine_01gzr4ktmj017r654w11v6xrpf,,37.27203
+749,RED,rouge legende medoc,Chateau Mouton Rothshild,,BOTTLE,19.0,36.0,,3.0,,Graves Rouge,Château Moutin,wine_01h4pmmh0fwehf5zarb0qzk8a3,,27.216904
+752,RED,château cote daugay,Château Carteau,,BOTTLE,16.0,60.0,,7.0,,Côte Daugay Saint-Émilion,Château Carteau Matras,wine_01hcw4dfa59hwpe65nb2e2vnj7,,35.8608
+754,RED,chateauneuf du pape clos du roi,Château Gigognan,,BOTTLE,17.0,55.0,,5.0,,Clos du Roi Châteauneuf-du-Pape,Château Gigognan,wine_01gzr4ktp1nzm6q2g96vdmrx31,,53.72177
+755,RED,cotes du rhone,Château Gigognan,,BOTTLE,17.0,27.0,,0.0,,Côtes-du-Rhône,Château Gigognan,wine_01gzr4ktp113q424zmxnz51q2y,,40.163372
+757,RED,bourgogne pinot noir,Chanson,,BOTTLE,22.0,63.0,,17.0,,Pinot Noir Le Bourgogne,Chanson,wine_01gzr4kskmw4fy19jzht6zhdjw,,29.377144
+758,RED,rouge pernande verglesses,Chanson,,BOTTLE,17.0,70.0,,6.0,,Pernand-Vergelesses Rouge,Chanson,wine_01gzr4ktkqh9dajz0a36gwb8q8,,36.284897
+760,RED,fronsac,Chateau Moulin Haut-Laroque,,BOTTLE,11.0,45.0,,0.0,,Fronsac,Château Moulin Haut-Laroque,wine_01h4pmmgvxwcwkrdxbbcnw1c6f,,50.252636
+761,RED,chateau de fussignac,Chateau Moulin Haut-Laroque,,BOTTLE,11.0,55.0,,0.0,,Blaye - Côtes de Bordeaux Vieilles Vignes,Château Haut Moulin,wine_01h0sq486smt8csd4tw4kdsypn,,29.906445
+763,RED,bourgogne hout cotes de beaune,Domaine George Joillot,,BOTTLE,21.0,55.0,,10.0,,Bourgogne Hautes Côtes de Beaune Rouge,Domaine Joillot,wine_01gzr4kswpzy8aw70fmc6tmrbf,,33.961567
+764,RED,pommarde vielles vignes,Domaine George Joillot,,BOTTLE,21.0,80.0,,4.0,,Pommard Vieilles Vignes,Domaine Joillot,wine_01gzr4kswwa9kbr7jctt0ww223,,36.67695
+766,RED,sancerre rouge,Domaine Reverdy Ducroux,,BOTTLE,17.0,37.0,,2.0,,Beau Regard Sancerre Rouge,Domaine Reverdy Ducroux,wine_01gzr4kst8v9n2vd1rchqd6zxn,,46.46463
+772,RED,chateauneuf-du-pape,Clos de l’Oratoire des Papes,,BOTTLE,21.0,80.0,,13.0,,Châteauneuf-du-Pape Rouge,Clos de l’Oratoire des Papes,wine_01hj17f1r7qw61seyt22rdqw3y,,58.09182
+774,RED,chateauneuf-du-pape,E. Guigal,,BOTTLE,17.0,94.0,,4.0,,Châteauneuf-du-Pape,E. Guigal,wine_01gzr4kt5x32prhtc8gkf0thv1,,42.097233
+776,RED,margaux,Chateau Rauzan-Segla,,BOTTLE,16.0,90.0,,6.0,,Ségla Margaux,Château Rauzan-Ségla,wine_01h0my5scr44t8h51k3wmz08m6,,44.60781
+778,RED,pinot noir paradoxe,Domaine de l'Arjolle,,BOTTLE,20.0,48.0,,5.0,,Paradoxe,Domaine de l'Arjolle,wine_01h4pmmgx2eayk6z2c4vs6nanz,,40.05163
+780,ROSE,rosé bio,Rumor Cotes de Provence,,BOTTLE,22.0,66.0,,5.0,,Rosé,Vallons de Provence,wine_01h0sq4836v6y012ecqt8420hg,,25.074947
+783,RED,zinfandel,Caymus,,BOTTLE,11.0,68.0,,0.0,,Zinfandel,Caymus,wine_01gzr4ksd6wvsz364s9pjnbqsv,,30.26806
+784,RED,cabernet sauvignon special selection,Caymus,,BOTTLE,9.0,480.0,,3.0,,Special Selection Cabernet Sauvignon,Caymus,wine_01gzr4ksd2nxf9ey8vpbdc7rmd,,37.94664
+785,RED,cabernet sauvignon special selection,Caymus,,BOTTLE,95.0,520.0,,1.0,,Special Selection Cabernet Sauvignon,Caymus,wine_01gzr4ksd2nxf9ey8vpbdc7rmd,,37.94664
+786,RED,cabernet sauvignon napa valley,Caymus,,BOTTLE,95.0,190.0,,2.0,,Cabernet Sauvignon,Caymus,wine_01h0my5s9z57g1sdmyg485w9by,,29.437462
+787,RED,cabernet sauvignon napa valley,Caymus,,BOTTLE,96.0,190.0,,0.0,,Cabernet Sauvignon,Caymus,wine_01h0my5s9z57g1sdmyg485w9by,,29.437462
+788,RED,cabernet sauvignon napa valley,Caymus,,BOTTLE,11.0,150.0,,0.0,,Cabernet Sauvignon,Caymus,wine_01h0my5s9z57g1sdmyg485w9by,,29.437462
+790,RED,primus alto de casablanca,Veramonte,,BOTTLE,97.0,,,0.0,,Alto de Casablanca Cabernet Sauvignon,Veramonte,wine_01h0my5vte6ye13d4athn5s1t0,,40.38922
+793,RED,cabernet sauvignon,Neil Ellis,,BOTTLE,12.0,39.0,,0.0,,Cabernet Sauvignon,Neil Ellis,wine_01havwef9kyrnhd7ygekkcvdpj,,44.692463
+795,RED,pinotage,Leibach,,BOTTLE,15.0,45.0,,4.0,,Pinotage,Laibach,wine_01hcwvb4b7b1rt6nj5j9ehtwgp,,34.210617
+798,RED,aurelio merlot ticino,Cantina il Cavaliere,,BOTTLE,17.0,70.0,,6.0,,Aurelio 1899 Riserva,Cantina Il Cavaliere,wine_01h0qsxmza17x6tsgb8vn47g0y,,39.40232
+801,RED,schlatter spatburgunder,Weingut Martin Wassmer,,BOTTLE,19.0,70.0,,12.0,,Schlatter Maltesergarten Spätburgunder,Martin Waßmer,wine_01hczek1m2mk4bydp0bvj5tsnd,,47.31562
+804,RED,pinot noir,Stift Klosterneuburg,,BOTTLE,20.0,45.0,,4.0,,Reserve Pinot Noir,Stiftskellerei Klosterneuburg,wine_01hcwsykc593ev99ksj1x0g5w0,,27.8527
+805,RED,shiraz cabernet australia,Penley Estate,,BOTTLE,98.0,,,1.0,,Wild Fermant Shiraz,Penley Estate,wine_01hfxnejwdjbr2nshmx1as699z,,38.527054
+810,WHITE,riesling auslese,Haart Goldtrpfchen,,BOTTLE,20.0,,,4.0,,Mosel Riesling,Julian Haart,wine_01h0r2pqd21d8e99wp4b2829jt,,23.019022
+811,DESSERT,grüne veltliner eiswein,Stift Klosterneuburg,,BOTTLE,,65.0,,0.0,,Grüner Veltliner Eiswein,Stiftskellerei Klosterneuburg,wine_01hcwvb4ax2swexewnper7rg7n,,37.12416
+813,DESSERT,eiswein,Michlits,,HALF_BOTTLE,18.0,75.0,,0.0,,Eiswein,Michlits Stadlmann,wine_01h0r2pq3zz1vyxcn1frb0960q,,28.716343
+817,RED,sauternes chateau saint michel 375 ml,Chateau Saint Michel,,HALF_BOTTLE,,60.0,,0.0,,Lussac-Saint-Emilion,Château Saint-Michel,wine_01gzr4ktp0dn9ss4g3c2ecgv88,,27.915777
+819,DESSERT,sauternes,Chateau d’Yquem ,,BOTTLE,90.0,1000.0,,1.0,,Sauternes,Château d'Yquem,wine_01gzr4ksd26n053njzs52q1crp,,40.114105
+820,WHITE,sussenberg gruner veltriner,Nikolaihof Wachau,,BOTTLE,99.0,150.0,,1.0,,Sussenberg Grüner Veltliner,Nikolaihof,wine_01gzr4ksxrw112p2xyzp422yqa,,45.026577
+821,DESSERT,trockenbeerenauslese,Nikolaihof Wachau,,BOTTLE,1.0,140.0,,2.0,,Trockenbeerenauslese,Nikolaihof,wine_01gzr4ksxrsw8fv4jnz39yfssp,,33.791595
+824,DESSERT,"kerner ""praepositus"" passito",Abbazia di Novacella,,BOTTLE,20.0,60.0,,9.0,,Praepositus Kerner Passito,Abbazia di Novacella (Stiftskellerei Neustift),wine_01h0my5rbqghbxfyn67gef4skv,,49.88761
+829,DESSERT,recioto della valpolicella,Brigaldara,,BOTTLE,16.0,,,1.0,,Recioto della Valpolicella Classico,Brigaldara,wine_01gzr4ktqj38q4f41mkzewxjca,,42.57328
+830,DESSERT,recioto della valpolicella,Secondo Marco ,,BOTTLE,16.0,,,1.0,,Recioto della Valpolicella,Secondo Marco,wine_01h0qzm1fsqrcjv66fmqz4ns4a,,51.376556
+832,RED,"recioto valpolicella “le salette""",Pergole Vece,,HALF_LITER,16.0,65.0,,0.0,,Le Petit Vice Cabernet Sauvignon,Vice Versa,wine_01gzr4kt00e5xp4w63xc7c6t5d,,19.228432
+836,SPARKLING,grand cru,Moretti,,BOTTLE,,15.0,,0.0,,Grande Reserve Brut Champagne,Louis Morette & Co,wine_01havwedtj86dpwn03qr76nah2,,15.953562
+839,WHITE,bionda,Birra di Parma,,BOTTLE,,8.0,,0.0,,Bianca,Castello di Cigognola,wine_01h0qsxmxb7gkbwdb09bjg40vs,,11.277357
+853,DESSERT,grappa di barbaresco,Gaja,,BOTTLE,,,,1.0,,Grappa di Barbaresco,Gaja,wine_01gzr4kspptt1t5ab443rbvc0r,,37.430214
+854,DESSERT,grappa di costa russi,Gaja,,BOTTLE,,,,1.0,,Costa Russi Grappa,Gaja,wine_01gzr4ksppww3pp0aw2kya3ehv,,44.09342
+855,DESSERT,grappa di barolo,Gaja,,BOTTLE,,,,1.0,,Grappa di Barolo,Gaja,wine_01gzr4ksppve1be5wcxsf7bwnj,,36.65119
+856,DESSERT,grappa sarpa oro,Poli,,BOTTLE,,,,1.0,,Sarpa Oro di Poli Grappa,Poli Distillerie,wine_01harvcm21hcms0qt4zsvddvmf,,34.57259
+858,DESSERT,camomilla e con grappa,Negroni,,BOTTLE,,,,0.0,,Trevisana Grappa,Negroni,wine_01harvcm20dhyevw8xrwxp44m7,,33.37478

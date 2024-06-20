@@ -9,6 +9,8 @@ The onboarding phase follows this pipeline:
 ### Overview
 This table provides an overview of the purpose and formatting of the documents of each onboarding.
 
+TODO: write spec for `v3-selection.csv` files.
+
 | Name                         | Description                                                                    | Purpose   |
 | ---------------------------- | ------------------------------------------------------------------------------ | --------- |
 | `v0-original`                | Raw input file from the client.                                                | input     |
@@ -48,6 +50,8 @@ Contents must be formatted so that these types are respected:
 | `info`           | `str`   |
 | `quantity`       | `int`   |
 | `internal_notes` | `str`   |
+
+Important: remove all rows that have a null name
 
 The `size` field has only some allowed values. The standard mapping is this:
 

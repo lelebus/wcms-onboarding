@@ -1,4 +1,25 @@
 external_id,name,winery_name,type,storage_area,size,vintage,price,info,quantity,internal_notes,reason
+15,,,,,BOTTLE,,,,,,name is empty
+103,,,,,BOTTLE,,,,,,name is empty
+139,,,,,BOTTLE,,,,,,name is empty
+177,,,,,BOTTLE,,,,,,name is empty
+196,,,,,BOTTLE,,,,,,name is empty
+200,,,,,BOTTLE,,,,,,name is empty
+204,,,,,BOTTLE,,,,,,name is empty
+209,,,,,BOTTLE,,,,,,name is empty
+214,,,,,BOTTLE,,,,,,name is empty
+218,,,,,BOTTLE,,,,,,name is empty
+223,,,,,BOTTLE,,,,,,name is empty
+226,,,,,BOTTLE,,,,,,name is empty
+260,,,,,BOTTLE,,,,,,name is empty
+263,,,,,BOTTLE,,,,,,name is empty
+574,,,,,BOTTLE,,,,,,name is empty
+575,,,,,BOTTLE,,,,,,name is empty
+710,,,,,BOTTLE,,,,,,name is empty
+727,,,,,BOTTLE,,,,,,name is empty
+739,,,,,BOTTLE,,,,,,name is empty
+834,,,,,BOTTLE,,,,,,name is empty
+841,,,,,BOTTLE,,,,,,name is empty
 843,distillato di genziana,Boroni,,,al bicchiere,,5.0,,,,"size is ""al bicchiere"""
 844,distillato di ginepro,Boroni,,,al bicchiere,,5.0,,,,"size is ""al bicchiere"""
 845,distillato di mele,Capovilla,,,al bicchiere,,12.0,,,,"size is ""al bicchiere"""

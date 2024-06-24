@@ -46,12 +46,26 @@ Contents must be formatted so that these types are respected:
 | `storage_area`   | `str`   |
 | `size`           | `str`   |
 | `vintage`        | `int`   |
-| `price`          | `float` |
+| `price`          | `int`   |
 | `info`           | `str`   |
 | `quantity`       | `int`   |
 | `internal_notes` | `str`   |
 
-Important: remove all rows that have a null name
+Important: remove all rows that have a null `name` and/or `winery_name`
+
+The `type` field should always be filled. Most onboarding sheets provided by the customers are divided by type.
+This makes it easy to add the type manually.
+
+The possible values for `type` are:
+```python
+[
+    "RED",
+    "WHITE",
+    "SPARKLING",
+    "ROSE",
+    "DESSERT"
+]
+```
 
 The `size` field has only some allowed values. The standard mapping is this:
 

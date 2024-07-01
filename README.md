@@ -11,18 +11,22 @@ This table provides an overview of the purpose and formatting of the documents o
 
 TODO: write spec for `v3-selection.csv` files.
 
-| Name                         | Description                                                                    | Purpose   |
-| ---------------------------- | ------------------------------------------------------------------------------ | --------- |
-| `v0-original`                | Raw input file from the client.                                                | input     |
-| `v1-cleaned.csv`             | Input file with formatted headers.                                             | input     |
-| `v2-dropped.csv`             | Input File with formatted headers and content. Used to add wines manually.     | input     |
-| `v2-cleaned.csv`             | Input File with formatted headers and content. Used to find matches in DB.     | input     |
-| `v3-matches-sure.csv`        | Wines matched automatically with the DB. No further check.                     | matches   |
-| `v3-matches-check.csv`       | Wines matched automatically with the DB. Manual check needed.                  | matches   |
-| `v3-not-found.csv`           | Wines not successfully matched automatically with the DB. Manual check needed. | matches   |
-| `v3-selection.csv`           | Wines matched manually with the DB.                                            | matches   |
-| `v3-selection-not-found.csv` | Wines not successfully matched manually.                                       | matches   |
-| `v4-insert.csv`              | Wines to be inserted in `user_wines`.                                          | insertion |
+| Name                           | Description                                                                    | Purpose   |
+| ------------------------------ | ------------------------------------------------------------------------------ | --------- |
+| `v0-original`                  | Raw input file from the client.                                                | input     |
+| `v1-cleaned.csv`               | Input file with formatted headers.                                             | input     |
+| `v2-dropped.csv`               | Input File with formatted headers and content. Used to add wines manually.     | input     |
+| `v2-cleaned.csv`               | Input File with formatted headers and content. Used to find matches in DB.     | input     |
+| `v3-matches-sure.csv`          | Wines matched automatically with the DB. No further check.                     | matches   |
+| `v3-matches.csv`               | Wines matched automatically with the DB. Manual check needed.                  | matches   |
+| `v3-not-found.csv`             | Wines not successfully matched automatically with the DB. Manual check needed. | matches   |
+| `v3-selection.csv`             | Matches manually confirmed to be correct                                       | matches   |
+| `v3-selection-not-found.csv`   | Wines not successfully matched manually.                                       | matches   |
+| `v3-selection+manual.csv`      | Wines matched manually with the DB.                                            | matches   |
+| `v4-insert.csv`                | Wines to be inserted in `user_wines`.                                          | insertion |
+| `v4-insert-duplicates.csv`     | Duplicates of wines in `v4-insert.csv`.                                        | info      |
+| `v4-mismatched.csv`            | Wines in `v3-matches.csv` that were matched wrongly.                           | info      |
+| `v4-mismatched-duplicates.csv` | Wines to be inserted in `user_wines`.                                          | info      |
 
 ## Content description
 This section gives an overview on the formatting standards for headers and contents of the intermediate files.

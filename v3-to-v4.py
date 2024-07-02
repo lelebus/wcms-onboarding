@@ -5,30 +5,49 @@ import os
 import sys
 import urllib3
 
-from dotenv import load_dotenv
-from matching_alg import create_matches
+import pandas as pd
+
+from utils import VColumns
 from urllib3.exceptions import InsecureRequestWarning
 
-import matching_selection as selection
+V3_SELECTION_FILENAME = "v3-selection.ods"
+
+
+def generate_insert_sheet(root, sheet_name):
+    print("\nSheet:", sheet_name)
+    df = pd.read_excel(os.path.join(root, V3_SELECTION_FILENAME), sheet_name=sheet_name)
+    df = df.rename(columns={"matched_id": "wine_id"})
+    print("Total wines:", df.shape[0])
+
+    df = df[[el in (1, True) for el in df["ok"]]]
+    ok_wines = len(df)
+    print("Ok wines:", ok_wines)
+
+    return df[VColumns.v4()]
+
+
+def main(root):
+    print("Root:", root)
+    print("File:", V3_SELECTION_FILENAME)
+
+    df = pd.concat(
+        [
+            generate_insert_sheet(root, s)
+            for s in ("selection", "selection+manual", "not-found")
+        ],
+        ignore_index=True,
+    )
+
+    df = df.drop_duplicates()
+    ok_wines = len(df)
+    print("\nDuplicates removed:", len(df) - ok_wines)
+
+    df.to_csv(os.path.join(root, "v4-insert.csv"), index=False)
+
 
 if __name__ == "__main__":
-    load_dotenv()
-
     if len(sys.argv) != 2:
-        raise ValueError("Please provide the folder containing v2-cleaned.csv")
-
+        raise ValueError("Please provide the folder containing v3-selection.ods")
     urllib3.disable_warnings(InsecureRequestWarning)  # Disable SSL warnings
 
-    V3_FILENAMES = [
-        "v3-selection.csv",
-        "v3-selection-not-found.csv",
-        "v3-selection+manual.csv",
-        "v3-matches-sure.csv",
-    ]
-
-    v3_filepaths = [
-        os.path.join("onboardings", sys.argv[1], name) for name in V3_FILENAMES
-    ]
-
-    selection.generate_insert_file(v3_filepaths)
-    # create_matches(sys.argv[1], "v2-cleaned.csv")
+    main(os.path.join("onboardings", sys.argv[1]))

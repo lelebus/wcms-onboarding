@@ -8,7 +8,7 @@ class VColumns:
     @classmethod
     def read_columns(cls):
         """Read columns from files"""
-        print("Reading columns...")
+        # print("Reading columns...")
         cls.col_mapping = {}
         with open("utils/columns/v2.json") as f:
             cls.col_mapping["v2"] = json.load(f)

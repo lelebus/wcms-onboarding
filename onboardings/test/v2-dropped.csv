@@ -1,0 +1,306 @@
+external_id,name_one,name_two,size,winery_name,country,vintage,currency,price,quantity,Unnamed: 10,reason
+15,,,,,,,,,,,name is empty
+103,,,,,,,,,,,name is empty
+139,,,,,,,,,,,name is empty
+177,,,,,,,,,,,name is empty
+196,,,,,,,,,,,name is empty
+200,,,,,,,,,,,name is empty
+204,,,,,,,,,,,name is empty
+209,,,,,,,,,,,name is empty
+214,,,,,,,,,,,name is empty
+218,,,,,,,,,,,name is empty
+223,,,,,,,,,,,name is empty
+226,,,,,,,,,,,name is empty
+260,,,,,,,,,,,name is empty
+263,,,,,,,,,,,name is empty
+574,,,,,,,,,,,name is empty
+575,,,,,,,,,,,name is empty
+710,,,,,,,,,,,name is empty
+727,,,,,,,,,,,name is empty
+739,,,,,,,,,,,name is empty
+834,,,,,,,,,,,name is empty
+841,,,,,,,,,,,name is empty
+835,Birre,,,,,,,,,,grappe or beer
+836,Grand Cru ,,,Moretti,,,€,"€ 15,00",,,grappe or beer
+837,Weissen,,,Aynger,,,€,"€ 6,00",,,grappe or beer
+838,Chiara 4.9 ,,,Dolomiti,,,€,"€ 6,00",,,grappe or beer
+839,Bionda ,,,Birra di Parma,,,€,"€ 8,00",,,grappe or beer
+840,Scura ,,,Kozen,,,€,"€ 6,00",,,grappe or beer
+842,Grappe e Distillati,,,,,,,PREZZI AL BICCHIERE,,,grappe or beer
+843,Distillato di genziana ,,al bicchiere,Boroni,,,€,"€ 5,00",,,grappe or beer
+844,Distillato di ginepro,,al bicchiere,Boroni,,,€,"€ 5,00",,,grappe or beer
+845,Distillato di Mele,,al bicchiere,Capovilla,,,€,"€ 12,00","0,5",,grappe or beer
+846,Grappa di Capo di Stato,,,,,,,,1,,grappe or beer
+847,Grappa Classica,,al bicchiere,Borgo Scuro,,,€,"€ 5,00",,,grappe or beer
+848,Grappa Prosecco Cherry,,al bicchiere,Borgo Scuro,,,€,"€ 5,00",8,,grappe or beer
+849,Prime Uve Bianche,,al bicchiere,Bonaventura Maschio,,,,,2,,grappe or beer
+850,Prime Uve Nere,,al bicchiere,Bonaventura Maschio,,,,,1,,grappe or beer
+851,Grappa di Raboso,,al bicchiere,Le Crode di Vincenzo Agostini,,,,,3,,grappe or beer
+852,Grappa Quero Vas,,al bicchiere,Le Crode di Vincenzo Agostini,,,,,1,,grappe or beer
+853,Grappa di Barbaresco,,,Gaja,,,,,1,,grappe or beer
+854,Grappa di Costa Russi,,,Gaja,,,,,1,,grappe or beer
+855,Grappa di Barolo,,,Gaja,,,,,1,,grappe or beer
+856,Grappa Sarpa Oro,,,Poli,,,,,1,,grappe or beer
+857,Grappa Williams,,,Roner,,,,,"0,5",,grappe or beer
+858,Camomilla e Con Grappa,,,Negroni,,,,,,,grappe or beer
+859,Whiskies,,,,,,,,,,grappe or beer
+860,Ballantines,,al bicchiere,,,,€,"€ 7,00",1,,grappe or beer
+861,Glen Grant 5yo,,al bicchiere,,,,€,"€ 7,00",1,,grappe or beer
+862,Jack Daniels,,al bicchiere,,,,€,"€ 7,00",1,,grappe or beer
+863,Chivas Regal 12 yo,,al bicchiere,,,,€,"€ 7,00",1,,grappe or beer
+864,The Macallan Amber,,al bicchiere,,,,€,"€ 7,00","0,5",,grappe or beer
+865,The Macallan 12 yo,,al bicchiere,,,,€,"€ 7,00",,,grappe or beer
+866,Glen Fiddich,,al bicchiere,,,,€,"€ 7,00","0,5",,grappe or beer
+867,Glenfiddish Special Reserve,,,,,,,,"0,5",,grappe or beer
+868,Lagavulin 16 yo,,al bicchiere,,,,€,"€ 8,00","2,5",,grappe or beer
+869,Laphroaig Quarter Cask,,al bicchiere,,,,€,"€ 8,00","0,5",,grappe or beer
+870,Glenmorangie 10yo,,al bicchiere,,,,€,"€ 8,00",1,,grappe or beer
+871,Glenmorangie Lasanta Sherry Cask 12yo,,al bicchiere,,,,€,"€ 10,00","0,5",,grappe or beer
+872,Glenmorangie Quinta Ruban Port Cask 12yo,,al bicchiere,,,,€,"€ 10,00",1,,grappe or beer
+873,Glenmorangie Nectar d'Or Sauternes Cask12yo,,al bicchiere,,,,€,"€ 10,00",1,,grappe or beer
+874,Springbank 10 yo,,al bicchiere,,,,€,"€ 7,00","0,5",,grappe or beer
+875,M.Couvreur Fleeting oltre 10 anni quercia e pedro ximenez,,al bicchiere,,,,€,"€ 14,00","0,5",,grappe or beer
+876,M.Couvreur Blossoming Auld Sherried oltre 18 anni,,al bicchiere,,,,€,"€ 18,00","1,5",,grappe or beer
+877,Ardbeg 10 yo (torbato),,al bicchiere,,,,€,"€ 10,00","5,5",,grappe or beer
+878,Ben Romach,,al bicchiere,,,,€,"€ 10,00","0,5",,grappe or beer
+879,Cao Ila Connoisseurs choice 2004 (Torbato),,al bicchiere,,,,€,"€ 12,00",,,grappe or beer
+880,Cao Ila Coopers choice 1991,,al bicchiere,,,,€,"€ 14,00","0,5",,grappe or beer
+881,Caol Ila 1990 17 anni ,,,,,,,,"0,5",,grappe or beer
+882,Caol Ila 12 yo,,al bicchiere,,,,€,"€ 12,00",,,grappe or beer
+883,Caol Ila The Coopers Silver Seal 17 yo,,al bicchiere,,,,€,"€ 14,00","0,5",,grappe or beer
+884,Brandy,,,,,,,PREZZI AL BICCHIERE,,,grappe or beer
+885,Villa Zarri 25 anni,,al bicchiere,,,,€,"€ 22,00",1,,grappe or beer
+886,Villa Zarri 23 anni,,al bicchiere,,,,€,"€ 22,00",1,,grappe or beer
+887,Villa Zarri 10 anni,,al bicchiere,,,,€,"€ 12,00",6,,grappe or beer
+888,Cognac,,,,,,,PREZZI AL BICCHIERE,,,grappe or beer
+889,The Forgotten Casks,,al bicchiere,,,,€,"€ 7,00","0,5",,grappe or beer
+890,Poire Peyrot,,al bicchiere,,,,€,"€ 7,00",1,,grappe or beer
+891,Peyrot xo,,al bicchiere,,,,€,"€ 9,00",,,grappe or beer
+892,Remy Martin,,al bicchiere,,,,€,"€ 7,00","1,5",,grappe or beer
+893,Hennessy xo,,al bicchiere,,,,€,"€ 22,00","0,5",,grappe or beer
+894,Hennessy XO Extra Old,,,,,,,,1,,grappe or beer
+895,Park Grande Champagne,,al bicchiere,,,,€,"€ 12,00","0,5",,grappe or beer
+896,A.E. Dor xo Cognac Grande Champagne,,,,,,,,1,,grappe or beer
+897,Louise Royer xo,,al bicchiere,,,,€,"€ 22,00","0,5",,grappe or beer
+898,A.E.Dor xo,,al bicchiere,,,,€,"€ 22,00",1,,grappe or beer
+899,Moulin rouge xo Fillioux,,al bicchiere,,,,€,"€ 20,00",,,grappe or beer
+900,Armagnac,,,,,,,PREZZI AL BICCHIERE,,,grappe or beer
+901,Bas Armagnac Dartigalongue,,al bicchiere,,,,€,"€ 10,00",1,,grappe or beer
+902,Bas Armagnac Datigalongue hors d’age,,,,,,,,"0,5",,grappe or beer
+903,Bas Armagnac Clos Martin 8 yo,,al bicchiere,,,,€,"€ 10,00","1,5",,grappe or beer
+904,Bas Armagnac Darroze Les Grandes Assemblages 12yo €,,al bicchiere,,,,€,"€ 10,00","0,5",,grappe or beer
+905,Bas Armagnac Les Sables Fauves ,,,,,,,,1,,grappe or beer
+906,Rhum,,,,,,,PREZZI AL BICCHIERE,,,grappe or beer
+907,Dos Maderas 10 yo,,al bicchiere,,,,€,"€ 10,00","1,5",,grappe or beer
+908,Abuelo 15 yo Napoleon,,al bicchiere,,,,€,"€ 14,00",,,grappe or beer
+909,Diplomatico,,al bicchiere,,,,€,"€ 12,00",,,grappe or beer
+910,Millionario 15 res.,,al bicchiere,,,,€,"€ 14,00","0,5",,grappe or beer
+911,Homere Clement rhum agricole martinique,,al bicchiere,,,,€,"€ 12,00",2,,grappe or beer
+912,Homere Clement rhum agricole vieux,,al bicchiere,,,,€,"€ 14,00",1,,grappe or beer
+913,Nation Peruano 8 yo,,al bicchiere,,,,€,"€ 10,00","0,5",,grappe or beer
+914,Nation Jamaica sherry finish 5 yo,,al bicchiere,,,,€,"€ 12,00","0,5",,grappe or beer
+915,Santa Teresa Metodo Solera,,,,,,,,1,,grappe or beer
+916,Porto,,,,,,,PREZZI AL BICCHIERE,,,grappe or beer
+917,Ramos Pinto RP10,,al bicchiere,,,,€,"€ 10,00","0,5",,grappe or beer
+918,Churchill Vintage,,al bicchiere,,,16,€,"€ 16,00",,,grappe or beer
+919,Vodka,,,,,,,PREZZI AL BICCHIERE,,,grappe or beer
+920,Mamont Vodka,,al bicchiere,,,,€,"€ 12,00",1,,grappe or beer
+921,Moskovskaya,,,,,,,,"0,5",,grappe or beer
+922,Belvedere,,,,,,,,"1,5",,grappe or beer
+923,Belvedere Altitude edition,,,,,,,,"0,5",,grappe or beer
+924,Saké,,,,,,,,,,grappe or beer
+925,Gjkon,,al bicchiere,,,,€,,,,grappe or beer
+926,Vermouth,,,,,,,,,,grappe or beer
+927,Vermouth Tenuta Fertuna ,,,,,,,,4,,grappe or beer
+928,Lynx vermouth bianco,,,,,,,,1,,grappe or beer
+1,Demi: 375 ml,,,,,,,,,,winery_name is null
+16,Champagne & ...,,,,,,,,,,winery_name is null
+64,Metodo Classico,,,,,,,,,,winery_name is null
+91,Prosecco,,,,,,,,,,winery_name is null
+104,Vini Bianchi,,,,,,,,,,winery_name is null
+105,Trentino Alto Adige,,,,,,,,,,winery_name is null
+112,Gewurztraminer Praepositus,,,,,,,,,,winery_name is null
+140,Friuli Venezia Giulia,,,,,,,,,,winery_name is null
+178,Veneto,,,,,‘19,€,,,,winery_name is null
+197,Umbria,,,,,,,,,,winery_name is null
+201,Puglia,,,,,,,,,,winery_name is null
+205,Sardegna,,,,,,,,,,winery_name is null
+210,Piemonte,,,,,,,,,,winery_name is null
+215,Marche,,,,,,,,,,winery_name is null
+219,Campania,,,,,,,,,,winery_name is null
+224,Toscana,,,,,,,,,,winery_name is null
+227,Vini bianchi esteri,,,,,,,,,,winery_name is null
+261,"Altri vini biodinamici, biologici e naturali",,,,,,,,,,winery_name is null
+264,Vini Rosati,,,,,,,,,,winery_name is null
+266,Rumor Cotes de Provence,,,,,,,,,,winery_name is null
+268,Vini Rossi,,,,,,,,,,winery_name is null
+269,Veneto,,,,,,,,,,winery_name is null
+270,Azienda Agricola Quintarelli,,,,,,,,,,winery_name is null
+279,Monteversa,,,,,,,,,,winery_name is null
+283,Bonotto Delle Tezze,,,,,,,,,,winery_name is null
+289,Loredan e Gasparini,,,,,,,,,,winery_name is null
+299,Serafini Vidotto,,,,,,,,,,winery_name is null
+303,Brigaldara,,,,,,,,,,winery_name is null
+312,Mosole,,,,,,,,,,winery_name is null
+315,Lorenzo Begali,,,,,,,,,,winery_name is null
+318,Zenato,,,,,,,,,,winery_name is null
+323,Allegrini,,,,,,,,,,winery_name is null
+332,Le Salette,,,,,,,,,,winery_name is null
+337,Marco Mosconi,,,,,,,,,,winery_name is null
+339,Paolo Cottini,,,,,,,,,,winery_name is null
+344,Masi,,,,,,,,,,winery_name is null
+351,Corte Giara,,,,,,,,,,winery_name is null
+353,Speri,,,,,,,,,,winery_name is null
+358,Villa Spinosa,,,,,,,,,,winery_name is null
+361,La Montecchia,,,,,,,,,,winery_name is null
+365,Azienda Agricola Puntozero,,,,,,,,,,winery_name is null
+369,Azienda Agricola Nicolis,,,,,,,,,,winery_name is null
+371,Azienda Agricola Inama,,,,,,,,,,winery_name is null
+384,Bertani,,,,,,,,,,winery_name is null
+389,Pian della Vette,,,,,,,,,,winery_name is null
+391,Le Guaite di Noemi,,,,,,,,,,winery_name is null
+398,Val de Pol,,,,,,,,,,winery_name is null
+402,Azienda Agricola Montebrecale,,,,,,,,,,winery_name is null
+404,A & G De Martin,,,,,,,,,,winery_name is null
+406,Trentino Alto Adige,,,,,,,,,,winery_name is null
+407,Cantina di Bolzano Gries / Santa Maddalena,,,,,,,,,,winery_name is null
+418,Gumphof,,,,,,,,,,winery_name is null
+420,Tenuta J. Hofstätter,,,,,,,,,,winery_name is null
+427,Alois Lageder,,,,,,,,,,winery_name is null
+435,Carlotto Ferruccio,,,,,,,,,,winery_name is null
+439,Cantina di Termeno,,,,,,,,,,winery_name is null
+442,Gottardi,,,,,,,,,,winery_name is null
+446,Girlan,,,,,,,,,,winery_name is null
+449,Barone de Cles,,,,,,,,,,winery_name is null
+451,Cantina Rotaliana,,,,,,,,,,winery_name is null
+453,Waldgries,,,,,,,,,,winery_name is null
+456,Schreckbichl/Colterenzio,,,,,,,,,,winery_name is null
+463,Elena Walch,,,,,,,,,,winery_name is null
+470,Franz Haas,,,,,,,,,,winery_name is null
+475,Abbazia di Novacella,,,,,,,,,,winery_name is null
+481,Marcus Prackwierser,,,,,,,,,,winery_name is null
+483,Tenuta Klosterhof,,,,,,,,,,winery_name is null
+485,Friuli Venezia Giulia,,,,,,,,,,winery_name is null
+486,Silvio Jermann,,,,,,,,,,winery_name is null
+488,Miani,,,,,,,,,,winery_name is null
+493,Castelvecchio,,,,,,,,,,winery_name is null
+499,Borgo Conventi,,,,,,,,,,winery_name is null
+503,Schioppetto,,,,,,,,,,winery_name is null
+509,Antico Broilo,,,,,,,,,,winery_name is null
+511,Meroi,,,,,,,,,,winery_name is null
+514,Cantina Produttori di Cormons,,,,,,,,,,winery_name is null
+516,Livio Felluga,,,,,,,,,,winery_name is null
+518,Russiz Superiore Marco Felluga,,,,,,,,,,winery_name is null
+523,Azienda Agricola La Viarte,,,,,,,,,,winery_name is null
+530,Alexis Paraschos,,,,,,,,,,winery_name is null
+532,Castello di Buttrio,,,,,,,,,,winery_name is null
+537,Conte d’Attimis Maniago,,,,,,,,,,winery_name is null
+539,Lis Neris,,,,,,,,,,winery_name is null
+542,Piemonte,,,,,,,,,,winery_name is null
+550,Gaja,,,,,,,,,,winery_name is null
+562,Travaglini,,,,,,,,,,winery_name is null
+567,Azienza Agricola Negro,,,,,,,,,,winery_name is null
+571,Ciabot Roero Riserva,,,,,,,,,,winery_name is null
+573,Vietti,,,,,,,,,,winery_name is null
+576,Azienda Vinicola Reva,,,,,,,,,,winery_name is null
+578,G.D.Vajra,,,,,,,,,,winery_name is null
+583,Paolo Scavino,,,,,,,,,,winery_name is null
+589,Toscana,,,,,,,,,,winery_name is null
+590,Aia Vecchia,,,,,,,,,,winery_name is null
+593,Tenuta dell'Ornellaia,,,,,,,,,,winery_name is null
+600,Avignonesi,,,,,,,,,,winery_name is null
+602,Ormanni,,,,,,,,,,winery_name is null
+605,Gaja,,,,,,,,,,winery_name is null
+607,San Leonino,,,,,,,,,,winery_name is null
+609,Tenuta “Il Fantone”,,,,,,,,,,winery_name is null
+612,Fratini,,,,,,,,,,winery_name is null
+614,Marchesi Antinori,,,,,,,,,,winery_name is null
+621,Marchesi Frescobaldi,,,,,,,,,,winery_name is null
+626,Mastrojanni,,,,,,,,,,winery_name is null
+630,Corte dei Venti,,,,,,,,,,winery_name is null
+634,Azienda Agricola Tenuta Luce,,,,,,,,,,winery_name is null
+636,Marchesi Mazzei,,,,,,,,,,winery_name is null
+638,Tenuta San Guido,,,,,,,,,,winery_name is null
+645,Urlari Pervale,,,,,,,,,,winery_name is null
+648,Caccia al Piano,,,,,,,,,,winery_name is null
+651,Mosenese,,,,,,,,,,winery_name is null
+653,Az. Agricola S.Caterina Tenuta Tre Rose,,,,,,,,,,winery_name is null
+655,Vigna Spuntali,,,,,,,,,,winery_name is null
+657,San Felice,,,,,,,,,,winery_name is null
+661,Biondi Santi,,,,,,,,,,winery_name is null
+663,Castello d’Albola,,,,,,,,,,winery_name is null
+665,Val di Suga,,,,,,,,,,winery_name is null
+668,La Fiorita,,,,,,,,,,winery_name is null
+670,Gaja,,,,,,,,,,winery_name is null
+672,Emilia Romagna,,,,,,,,,,winery_name is null
+673,Otello Ceci,,,,,,,,,,winery_name is null
+675,Marche,,,,,,,,,,winery_name is null
+676,Umani Ronchi,,,,,,,,,,winery_name is null
+679,Puglia,,,,,,,,,,winery_name is null
+680,Vespa Vignaioli,,,,,,,,,,winery_name is null
+684,Petrelli,,,,,,,,,,winery_name is null
+686,Sicilia,,,,,,,,,,winery_name is null
+687,Vigneri,,,,,,,,,,winery_name is null
+690,Planeta,,,,,,,,,,winery_name is null
+695,Passopisciaro,,,,,,,,,,winery_name is null
+697,Firriato,,,,,,,,,,winery_name is null
+700,Cottanera,,,,,,,,,,winery_name is null
+703,Fondo Antico,,,,,,,,,,winery_name is null
+706,Spadafora,,,,,,,,,,winery_name is null
+708,Azienda Agricola Monte Rosso,,,,,,,,,,winery_name is null
+711,Sardegna,,,,,,,,,,winery_name is null
+712,Santadi,,,,,,,,,,winery_name is null
+718,Ferruccio Deiana,,,,,,,,,,winery_name is null
+720,Argiolas,,,,,,,,,,winery_name is null
+728,"Altri vini biodinamici, biologici e naturali",,,,,,,,,,winery_name is null
+729,Cantina d'Isera,,,,,,,,,,winery_name is null
+731,Marco Mosconi,,,,,,,,,,winery_name is null
+733,Masi Tupungato,,,,,,,,,,winery_name is null
+735,Vinicentanni,,,,,,,,,,winery_name is null
+740,Vini Rossi Esteri,,,,,,,,,,winery_name is null
+741,Francia,,,,,,,,,,winery_name is null
+742,Chateau Margaux,,,,,,,,,,winery_name is null
+744,Chateau Mouton Rothshild,,,,,,,,,,winery_name is null
+746,Chateau Clarke Rothshild,,,,,12,,,1,,winery_name is null
+750,Dourthe n 1 Bordeaux,,,,,14,,,1,,winery_name is null
+751,Château Carteau,,,,,,,,1,,winery_name is null
+753,Château Gigognan,,,,,,,,,,winery_name is null
+756,Chanson,,,,,,,,,,winery_name is null
+759,Chateau Moulin Haut-Laroque,,,,,,,,,,winery_name is null
+762,Domaine George Joillot,,,,,,,,,,winery_name is null
+765,Domaine Reverdy Ducroux,,,,,,,,,,winery_name is null
+767,M.Chapuotier,,,,,,,,,,winery_name is null
+771,Clos de l’Oratoire des Papes,,,,,,,,,,winery_name is null
+773,E. Guigal,,,,,,,,,,winery_name is null
+775,Chateau Rauzan-Segla,,,,,,,,,,winery_name is null
+777,Domaine de l'Arjolle,,,,,,,,,,winery_name is null
+779,Rumor Cotes de Provence,,,,,,,,,,winery_name is null
+781,U.S.A.,,,,,,,,,,winery_name is null
+782,Caymus,,,,,,,,,,winery_name is null
+789,Cile,,,,,,,,,,winery_name is null
+791,Sud Africa,,,,,,,,,,winery_name is null
+792,Neil Ellis,,,,,,,,,,winery_name is null
+794,Laibach,,,,,,,,,,winery_name is null
+796,Svizzera,,,,,,,,,,winery_name is null
+797,Cantina il Cavaliere,,,,,,,,,,winery_name is null
+799,Germania,,,,,,,,,,winery_name is null
+800,Weingut Martin Wassmer,,,,,,,,,,winery_name is null
+802,Austria,,,,,,,,,,winery_name is null
+803,Stift Kloster Neuburg,,,,,,,,,,winery_name is null
+806,Argentina,,,,,,,,,,winery_name is null
+808,Vini da dessert,,,,,,,,,,winery_name is null
+812,al calice,,,,AUT,,€,"€ 10,00",,,winery_name is null
+814,al calice,,,,AUT,,€,"€ 10,00",,,winery_name is null
+816,al calice,,,,AUT,,€,"€ 10,00",,,winery_name is null
+818,al calice,,,,FRA,,€,"€ 10,00",,,winery_name is null
+823,al calice,,,,,,€,"€ 8,00",,,winery_name is null
+825,al calice,,,,,,€,"€ 8,00",,,winery_name is null
+827,al calice,,,,,,€,"€ 8,00",,,winery_name is null
+831,al calice,,,,,,€,"€ 7,00",,,winery_name is null
+833,al calice,,,,,,€,"€ 8,00",,,winery_name is null
+39,Champagne ,,Magnum,Krug,FRA,,€,"€ 900,00","2 166 ed, 2 Grande cuvee pre 08",,quantity does not correspond to pattern
+41,Champagne ,Collection 244,,Roederer,FRA,,€,"€ 110,00","10 244, 3 242, 2 243",,quantity does not correspond to pattern
+76,Franciacorta,Cabochon Fuoriserie ,,Monte Rossa,ITA,,€,"€ 100,00","7 n. 023, 5 n. 024",,quantity does not correspond to pattern
+160,Ribolla gialla,,,Damijan,,19,€,"€ 55,00",Togliere,,quantity does not correspond to pattern
+822,Auslese ,,375 ml,Kracher,,17,€,"€ 50,00","3,5",,quantity does not correspond to pattern
+826,"Moscato Rosa ""Praepositus""",,,Abbazia di Novacella,,‘20,€,"€ 55,00","2,5",,quantity does not correspond to pattern

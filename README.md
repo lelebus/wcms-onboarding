@@ -2,7 +2,7 @@
 
 ## Pipeline
 The onboarding phase follows this pipeline:
-![image](onboarding_pipeline.jpg)
+![image](resources/onboarding_pipeline.jpg)
 
 ## Intermediate files
 
@@ -41,21 +41,23 @@ It might be the case that 2 original fields must be joined in order to be mapped
 
 ### v2
 Contents must be formatted so that these types are respected:
-| Field name       | dtype   |
-| ---------------- | ------- |
-| `external_id`    | `float` |
-| `name`           | `str`   |
-| `winery_name`    | `str`   |
-| `type`           | `str`   |
-| `storage_area`   | `str`   |
-| `size`           | `str`   |
-| `vintage`        | `int`   |
-| `price`          | `int`   |
-| `info`           | `str`   |
-| `quantity`       | `int`   |
-| `internal_notes` | `str`   |
+| Field name       | dtype   | meaning                            |
+| ---------------- | ------- | ---------------------------------- |
+| `external_id`    | `float` | unique id to easily identify wines |
+| `name`           | `str`   | name of the wine                   |
+| `winery_name`    | `str`   | name of the winery                 |
+| `type`           | `str`   | wine type (RED, WHITE etc.)        |
+| `storage_area`   | `str`   | storage area of the wines          |
+| `size`           | `str`   | bottle format                      |
+| `vintage`        | `int`   | vintage year                       |
+| `price`          | `int`   | price in **cents**                 |
+| `info`           | `str`   | extra information                  |
+| `quantity`       | `int`   | number of bottles present          |
+| `internal_notes` | `str`   | internal notes for the wine        |
 
+TODO: align order with `resources/v2-columns.json` and `resources/v3-columns.json`
 Important: remove all rows that have a null `name` and/or `winery_name`
+
 
 The `type` field should always be filled. Most onboarding sheets provided by the customers are divided by type.
 This makes it easy to add the type manually.
@@ -102,9 +104,9 @@ These files are generated after the automatic matching. In addition to the field
 | Field name            | dtype   |
 | --------------------- | ------- |
 | `matched_id`          | `str`   |
+| `matched_type`        | `str`   |
 | `matched_name`        | `str`   |
 | `matched_winery_name` | `str`   |
-| `matched_original_id` | `str`   |
 | `score`               | `float` |
 
 #### v3-selection
@@ -125,7 +127,7 @@ These files only have these fields:
 | `external_id`    | `float` |
 | `size`           | `float` |
 | `vintage`        | `int`   |
-| `price`          | `float` |
+| `price`          | `int`   |
 | `info`           | `str`   |
 | `storage_area`   | `str`   |
 | `quantity`       | `int`   |

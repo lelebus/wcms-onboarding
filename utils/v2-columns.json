@@ -1,0 +1,13 @@
+[
+    "external_id",
+    "type",
+    "name",
+    "winery_name",
+    "info",
+    "size",
+    "vintage",
+    "price",
+    "quantity",
+    "storage_area",
+    "internal_notes"
+]

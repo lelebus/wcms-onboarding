@@ -1,0 +1,5 @@
+external_id,type,name,winery_name,info,size,vintage,price,quantity,storage_area,internal_notes,matched_id,matched_type,matched_name,matched_winery_name,score
+192,,ribolla gialla,Loredan Gasparini,,BOTTLE,2022.0,3500,0,,,,,,,
+206,,capichera bianco igt,Capichera,,BOTTLE,2005.0,5200,2,,,,,,,
+217,,pecorino santa maria,Vinicentanni,,BOTTLE,2021.0,0,5,,,,,,,
+828,,"recioto valpolicella “le salette""",Traversagne,,BOTTLE,2016.0,4800,2,,,,,,,

@@ -1,6 +1,3 @@
-# selection.generate_insert_file("daaurelio/v3-selection.csv")
-# selection.generate_insert_file("daaurelio/v3-selection-not-found.csv")
-
 import os
 import sys
 import urllib3
@@ -13,7 +10,7 @@ from urllib3.exceptions import InsecureRequestWarning
 V3_SELECTION_FILENAME = "v3-selection.ods"
 
 
-def generate_insert_sheet(root, sheet_name):
+def get_insert_dataframe(root, sheet_name):
     print("\nSheet:", sheet_name)
     df = pd.read_excel(os.path.join(root, V3_SELECTION_FILENAME), sheet_name=sheet_name)
     df = df.rename(columns={"matched_id": "wine_id"})
@@ -32,7 +29,7 @@ def main(root):
 
     df = pd.concat(
         [
-            generate_insert_sheet(root, s)
+            get_insert_dataframe(root, s)
             for s in ("selection", "selection+manual", "not-found")
         ],
         ignore_index=True,

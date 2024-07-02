@@ -3,6 +3,8 @@ import json
 import requests
 import pandas as pd
 
+from utils import VColumns, fill_empty
+
 
 def prepare_request(url_addition: str) -> dict:
     return {
@@ -87,10 +89,6 @@ def search_rows(rows):
     dataframe : list
     """
     matches = []
-    with open("utils/v2-columns.json") as f:
-        cols_v2 = json.load(f)
-    with open("utils/v3-columns.json") as f:
-        cols_v3 = json.load(f)
 
     for i, row in enumerate(rows):
         search_name = row["name"] if not pd.isna(row["name"]) else ""
@@ -99,9 +97,9 @@ def search_rows(rows):
 
         # fill rows
         d = {}
-        for k in cols_v2:
+        for k in VColumns.v2():
             d[k] = row[k]
-        for k in cols_v3:
+        for k in VColumns.v3():
             d[k] = None
 
         # add columns for analysis
@@ -126,9 +124,10 @@ def search_rows(rows):
     return matches
 
 
-def create_matches(root, filename):
+def create_matches(root):
     # read wines
-    wines = pd.read_csv(os.path.join(root, filename))
+    wines = pd.read_csv(os.path.join(root, "v2-cleaned.csv"))
+    wines = fill_empty(wines, VColumns.v2())
     print(f"Total rows: {wines.shape[0]}")
     print()
 
@@ -144,12 +143,7 @@ def create_matches(root, filename):
     )
     print()
 
-    # select columns of interest, and order them
-    with open("utils/v2-columns.json") as f:
-        cols = json.load(f)
-    with open("utils/v3-columns.json") as f:
-        cols += json.load(f)
-    matches = matches[cols]
+    matches = matches[VColumns.v2() + VColumns.v3()]
 
     # remove not matched rows
     valid_matches = matches[matches["matched_id"].notnull()]

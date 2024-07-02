@@ -1,26 +1,26 @@
-external_id,type,name,winery_name,info,size,vintage,price,quantity,storage_area,internal_notes,matched_id,matched_type,matched_name,matched_winery_name,score
-2,,champagne rosé,Ruinart,,HALF_BOTTLE,,8500,23,,,wine_01h0f3cmbmtvmkd6m243g38m9r,SPARKLING,Brut Rosé Champagne,Ruinart,35.16839
-3,,champagne blanc de blanc,Ruinart,,HALF_BOTTLE,,8000,19,,,wine_01gzr4ksd2c8ryrf1nbh9jb83z,SPARKLING,Blanc de Blancs Brut Champagne,Ruinart,42.044037
-188,,sauvignon vulcaia fumé,Az. Agr. Inama,,BOTTLE,2020.0,7500,18,,,wine_01gzr4ksj2vhr6mzr4an8szhym,WHITE,Vulcaia Fume Sauvignon del Veneto,Inama Azienda Agricola,32.88581
-188,,sauvignon vulcaia fumé,Az. Agr. Inama,,BOTTLE,2021.0,7500,6,,,wine_01gzr4ksj2vhr6mzr4an8szhym,WHITE,Vulcaia Fume Sauvignon del Veneto,Inama Azienda Agricola,32.88581
-189,,sauvignon vulcaia fumé,Az. Agr. Inama,,MAGNUM,2020.0,14000,4,,,wine_01gzr4ksj2vhr6mzr4an8szhym,WHITE,Vulcaia Fume Sauvignon del Veneto,Inama Azienda Agricola,32.88581
-190,,lugana oasi mantellina,Allegrini,,BOTTLE,2022.0,3300,5,,,wine_01h0r2ppd5v4crsdwkrrep85qc,WHITE,Oasi Mantellina Lugana,Allegrini,50.548325
-191,,incrocio manzoni,Loredan Gasparini,,BOTTLE,2023.0,0,0,,,wine_01gzr4kt32xvsftnykq08qghcp,WHITE,Manzoni Bianco,Loredan Gasparini,48.66369
-193,,bucce,Marco Mosconi,,BOTTLE,2019.0,3400,2,,,wine_01gzr4ksrdzpgyrysf1yma27hj,WHITE,Bucce Bianco,Marco Mosconi,45.903522
-203,,fiano salento igp,Vespa Vignaioli,,BOTTLE,2019.0,1800,1,,,wine_01h0f3cmb5j2qpstypqd1ckxfc,WHITE,Vespino Fiano Salento,Vespa,39.203403
-207,,"vermentino di sardegna ""cala silente""",Santadi,,BOTTLE,2019.0,2100,2,,,wine_01gzr4ktjm6m40fkh1xb3pg7nz,WHITE,Cala Silente Vermentino di Sardegna,Santadi,48.14486
-208,,vernaccia extra,Produttori riuniti,,BOTTLE,1968.0,0,1,,,wine_01h4pmmfhwmzmhsthdbx4mezgd,SPARKLING,Prosecco Extra Dry,Riunite,24.346607
-211,,rossj bass langhe dop,Gaja,,BOTTLE,2021.0,10400,4,,,wine_01gzr4kspp0wnh0289kv106za8,WHITE,Rossj-Bass Langhe,Gaja,40.500477
-212,,rossj bass langhe dop,Gaja,,BOTTLE,2022.0,9000,6,,,wine_01gzr4kspp0wnh0289kv106za8,WHITE,Rossj-Bass Langhe,Gaja,40.500477
-213,,gavi di gavi,Nicola Bergaglio,,BOTTLE,2020.0,2100,0,,,wine_01h0my5sm412xccyqa93738axf,WHITE,Gavi del Comune di Gavi Rovereto,Nicola Bergaglio,51.388622
-216,,verdicchio di jesi superiore massaccio,Tenute San Sisto,,BOTTLE,2020.0,2800,17,,,wine_01gzr4ksq1qykwetyb3dj5ystz,WHITE,Massacio Verdicchio dei Castelli di Jesi Classico Superiore,Tenute San Sisto,56.572227
-280,,rosso bio animaversa,Monteversa,,BOTTLE,2016.0,4500,9,,,wine_01gzr4kt10qc7jgh83x7ttneyz,RED,Animaversa Rosso,Monteversa,45.521362
-281,,rosso bio animaversa,Monteversa,,MAGNUM,2015.0,9000,0,,,wine_01gzr4kt10qc7jgh83x7ttneyz,RED,Animaversa Rosso,Monteversa,45.521362
-282,,rosso bio versacinto,Monteversa,,BOTTLE,2019.0,2500,5,,,wine_01gzr4kt00c3esv9y0zbcb08ct,RED,Versacinto Rosso,Monteversa,46.827522
-819,,sauternes,Chateau d’Yquem ,,BOTTLE,1990.0,100000,1,,,wine_01gzr4ksd26n053njzs52q1crp,DESSERT,Sauternes,Château d'Yquem,40.112442
-820,,sussenberg gruner veltriner,Nikolaihof Wachau,,BOTTLE,1999.0,15000,1,,,wine_01gzr4ksxrw112p2xyzp422yqa,WHITE,Sussenberg Grüner Veltliner,Nikolaihof,45.02675
-821,,trockenbeerenauslese,Nikolaihof Wachau,,BOTTLE,2001.0,14000,2,,,wine_01gzr4ksxrsw8fv4jnz39yfssp,DESSERT,Trockenbeerenauslese,Nikolaihof,33.791706
-824,,"kerner ""praepositus"" passito",Abbazia di Novacella,,BOTTLE,2020.0,6000,9,,,wine_01h0my5rbqghbxfyn67gef4skv,DESSERT,Praepositus Kerner Passito,Abbazia di Novacella (Stiftskellerei Neustift),49.824368
-829,,recioto della valpolicella,Brigaldara,,BOTTLE,2016.0,0,1,,,wine_01gzr4ktqj38q4f41mkzewxjca,DESSERT,Recioto della Valpolicella Classico,Brigaldara,42.571457
-830,,recioto della valpolicella,Secondo Marco ,,BOTTLE,2016.0,0,1,,,wine_01h0qzm1fsqrcjv66fmqz4ns4a,DESSERT,Recioto della Valpolicella,Secondo Marco,51.374527
-832,,"recioto valpolicella “le salette""",Pergole Vece,,HALF_LITER,2016.0,6500,0,,,wine_01gzr4kt00e5xp4w63xc7c6t5d,RED,Le Petit Vice Cabernet Sauvignon,Vice Versa,19.228502
+external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantity,storage_area,internal_notes,matched_id,matched_type,matched_name,matched_winery_name,score
+2,,champagne rosé,Ruinart,,HALF_BOTTLE,,8500,0,23,,,wine_01h0f3cmbmtvmkd6m243g38m9r,SPARKLING,Brut Rosé Champagne,Ruinart,35.16839
+3,,champagne blanc de blanc,Ruinart,,HALF_BOTTLE,,8000,0,19,,,wine_01gzr4ksd2c8ryrf1nbh9jb83z,SPARKLING,Blanc de Blancs Brut Champagne,Ruinart,42.044037
+188,,sauvignon vulcaia fumé,Az. Agr. Inama,,BOTTLE,2020.0,7500,0,18,,,wine_01gzr4ksj2vhr6mzr4an8szhym,WHITE,Vulcaia Fume Sauvignon del Veneto,Inama Azienda Agricola,32.88581
+188,,sauvignon vulcaia fumé,Az. Agr. Inama,,BOTTLE,2021.0,7500,0,6,,,wine_01gzr4ksj2vhr6mzr4an8szhym,WHITE,Vulcaia Fume Sauvignon del Veneto,Inama Azienda Agricola,32.88581
+189,,sauvignon vulcaia fumé,Az. Agr. Inama,,MAGNUM,2020.0,14000,0,4,,,wine_01gzr4ksj2vhr6mzr4an8szhym,WHITE,Vulcaia Fume Sauvignon del Veneto,Inama Azienda Agricola,32.88581
+190,,lugana oasi mantellina,Allegrini,,BOTTLE,2022.0,3300,0,5,,,wine_01h0r2ppd5v4crsdwkrrep85qc,WHITE,Oasi Mantellina Lugana,Allegrini,50.548325
+191,,incrocio manzoni,Loredan Gasparini,,BOTTLE,2023.0,0,0,0,,,wine_01gzr4kt32xvsftnykq08qghcp,WHITE,Manzoni Bianco,Loredan Gasparini,48.66369
+193,,bucce,Marco Mosconi,,BOTTLE,2019.0,3400,0,2,,,wine_01gzr4ksrdzpgyrysf1yma27hj,WHITE,Bucce Bianco,Marco Mosconi,45.903522
+203,,fiano salento igp,Vespa Vignaioli,,BOTTLE,2019.0,1800,0,1,,,wine_01h0f3cmb5j2qpstypqd1ckxfc,WHITE,Vespino Fiano Salento,Vespa,39.203403
+207,,"vermentino di sardegna ""cala silente""",Santadi,,BOTTLE,2019.0,2100,0,2,,,wine_01gzr4ktjm6m40fkh1xb3pg7nz,WHITE,Cala Silente Vermentino di Sardegna,Santadi,48.14486
+208,,vernaccia extra,Produttori riuniti,,BOTTLE,1968.0,0,0,1,,,wine_01h4pmmfhwmzmhsthdbx4mezgd,SPARKLING,Prosecco Extra Dry,Riunite,24.346607
+211,,rossj bass langhe dop,Gaja,,BOTTLE,2021.0,10400,0,4,,,wine_01gzr4kspp0wnh0289kv106za8,WHITE,Rossj-Bass Langhe,Gaja,40.500477
+212,,rossj bass langhe dop,Gaja,,BOTTLE,2022.0,9000,0,6,,,wine_01gzr4kspp0wnh0289kv106za8,WHITE,Rossj-Bass Langhe,Gaja,40.500477
+213,,gavi di gavi,Nicola Bergaglio,,BOTTLE,2020.0,2100,0,0,,,wine_01h0my5sm412xccyqa93738axf,WHITE,Gavi del Comune di Gavi Rovereto,Nicola Bergaglio,51.388622
+216,,verdicchio di jesi superiore massaccio,Tenute San Sisto,,BOTTLE,2020.0,2800,0,17,,,wine_01gzr4ksq1qykwetyb3dj5ystz,WHITE,Massacio Verdicchio dei Castelli di Jesi Classico Superiore,Tenute San Sisto,56.572227
+280,,rosso bio animaversa,Monteversa,,BOTTLE,2016.0,4500,0,9,,,wine_01gzr4kt10qc7jgh83x7ttneyz,RED,Animaversa Rosso,Monteversa,45.521362
+281,,rosso bio animaversa,Monteversa,,MAGNUM,2015.0,9000,0,0,,,wine_01gzr4kt10qc7jgh83x7ttneyz,RED,Animaversa Rosso,Monteversa,45.521362
+282,,rosso bio versacinto,Monteversa,,BOTTLE,2019.0,2500,0,5,,,wine_01gzr4kt00c3esv9y0zbcb08ct,RED,Versacinto Rosso,Monteversa,46.827522
+819,,sauternes,Chateau d’Yquem ,,BOTTLE,1990.0,100000,0,1,,,wine_01gzr4ksd26n053njzs52q1crp,DESSERT,Sauternes,Château d'Yquem,40.112442
+820,,sussenberg gruner veltriner,Nikolaihof Wachau,,BOTTLE,1999.0,15000,0,1,,,wine_01gzr4ksxrw112p2xyzp422yqa,WHITE,Sussenberg Grüner Veltliner,Nikolaihof,45.02675
+821,,trockenbeerenauslese,Nikolaihof Wachau,,BOTTLE,2001.0,14000,0,2,,,wine_01gzr4ksxrsw8fv4jnz39yfssp,DESSERT,Trockenbeerenauslese,Nikolaihof,33.791706
+824,,"kerner ""praepositus"" passito",Abbazia di Novacella,,BOTTLE,2020.0,6000,0,9,,,wine_01h0my5rbqghbxfyn67gef4skv,DESSERT,Praepositus Kerner Passito,Abbazia di Novacella (Stiftskellerei Neustift),49.824368
+829,,recioto della valpolicella,Brigaldara,,BOTTLE,2016.0,0,0,1,,,wine_01gzr4ktqj38q4f41mkzewxjca,DESSERT,Recioto della Valpolicella Classico,Brigaldara,42.571457
+830,,recioto della valpolicella,Secondo Marco ,,BOTTLE,2016.0,0,0,1,,,wine_01h0qzm1fsqrcjv66fmqz4ns4a,DESSERT,Recioto della Valpolicella,Secondo Marco,51.374527
+832,,"recioto valpolicella “le salette""",Pergole Vece,,HALF_LITER,2016.0,6500,0,0,,,wine_01gzr4kt00e5xp4w63xc7c6t5d,RED,Le Petit Vice Cabernet Sauvignon,Vice Versa,19.228502

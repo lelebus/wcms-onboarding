@@ -5,6 +5,8 @@ import pandas as pd
 
 import odswriter as ods
 
+from utils import VColumns, fill_empty
+
 
 class V3SpreadsheetWriter:
     OUTPUT_FILENAME = "v3-selection-draft.ods"
@@ -15,43 +17,35 @@ class V3SpreadsheetWriter:
         self._read_sheets()
         self._save()
 
-    def _write_selection_manual(self, cols):
-        df = pd.DataFrame(columns=self.df_m.columns)
-        df["ok"] = False
-        df = df[cols]
-
-        return df
-
     @classmethod
-    def get_cols(cls):
-        with open("utils/v2-columns.json") as f:
-            cols = json.load(f)
-        with open("utils/v3-columns.json") as f:
-            cols += json.load(f)
-        return ["ok"] + cols
+    def _fill_ok_formulas(cls, df):
+        return [ods.Formula(f"NOT(ISBLANK(B{i}))") for i in range(2, len(df) + 2)]
 
     def _read_sheets(self):
-        df_m = pd.read_csv(os.path.join(self.root, "v3-matches.csv"))
-        df_m["ok"] = False
+        # selection
+        df_s = pd.read_csv(os.path.join(self.root, "v3-matches.csv"))
+        df_s["ok"] = False
+        self.df_s = fill_empty(df_s, VColumns.v3_selection())  # select and sort columns
+        # self.df_s = df_s[VColumns.v3_selection()]  # select and sort columns
 
+        # selection+manual
+        df_sm = pd.DataFrame(columns=VColumns.v3_not_found())
+        df_sm["ok"] = self._fill_ok_formulas(df_s)
+        self.df_sm = fill_empty(df_sm, VColumns.v3_not_found())
+
+        # not-found
         df_nf = pd.read_csv(os.path.join(self.root, "v3-not-found.csv"))
-        df_nf["ok"] = [
-            ods.Formula(f"NOT(ISBLANK(M{i}))") for i in range(2, len(df_nf) + 2)
-        ]
+        df_nf["ok"] = self._fill_ok_formulas(df_nf)
+        self.df_nf = fill_empty(df_nf, VColumns.v3_not_found())
 
-        df_empty = pd.DataFrame(columns=df_m.columns)
-        df_empty["ok"] = False
+        # not-clear
+        self.df_nc = pd.DataFrame(columns=VColumns.v2())
 
+        # not-clear-from-v2
         if os.path.exists(os.path.join(self.root, "v2-dropped.csv")):
-            self.df_d = pd.read_csv(os.path.join(self.root, "v2-dropped.csv"))
+            self.df_nc2 = pd.read_csv(os.path.join(self.root, "v2-dropped.csv"))
         else:
-            self.df_d = df_empty
-
-        cols = self.get_cols()
-        self.df_m = df_m[cols]
-        self.df_nf = df_nf[cols]
-        self.df_empty = df_empty[cols]
-        self.df_sm = self._write_selection_manual(cols)
+            self.df_nc2 = None
 
     def _save(self):
         with ods.writer(os.path.join(self.root, self.OUTPUT_FILENAME)) as odsfile:
@@ -63,8 +57,10 @@ class V3SpreadsheetWriter:
                     "not-clear",
                     "not-clear-from-v2",
                 ],
-                [self.df_m, self.df_empty, self.df_nf, self.df_empty, self.df_d],
+                [self.df_s, self.df_sm, self.df_nf, self.df_nc, self.df_nc2],
             ):
+                if df is None:
+                    continue
                 sheet = odsfile.new_sheet(sheet_name)
                 sheet.writerow(df.columns)
                 for i, row in df.fillna("").iterrows():
@@ -76,3 +72,4 @@ if __name__ == "__main__":
         raise ValueError("Please provide the folder containing v2-cleaned.csv")
 
     V3SpreadsheetWriter(os.path.join("onboardings", sys.argv[1]))
+    print(f"Created {sys.argv[1]}/v3-selection-draft.ods")

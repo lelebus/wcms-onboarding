@@ -1,6 +1,9 @@
 import os
+import json
 import requests
 import pandas as pd
+
+from utils import VColumns, fill_empty
 
 
 def prepare_request(url_addition: str) -> dict:
@@ -86,29 +89,18 @@ def search_rows(rows):
     dataframe : list
     """
     matches = []
+
     for i, row in enumerate(rows):
         search_name = row["name"] if not pd.isna(row["name"]) else ""
         search_winery = row["winery_name"] if not pd.isna(row["winery_name"]) else ""
         search_type = row["type"] if not pd.isna(row["type"]) else None
 
-        d = {
-            "external_id": row["external_id"],
-            "name": search_name,
-            "winery_name": search_winery,
-            "type": row["type"],
-            "storage_area": row["storage_area"],
-            "size": row["size"],
-            "vintage": row["vintage"],
-            "price": row["price"],
-            "info": row["info"],
-            "quantity": row["quantity"],
-            "internal_notes": row["internal_notes"],
-            "matched_name": None,
-            "matched_winery_name": None,
-            "matched_id": None,
-            "matched_original_id": None,
-            "score": None,
-        }
+        # fill rows
+        d = {}
+        for k in VColumns.v2():
+            d[k] = row[k]
+        for k in VColumns.v3():
+            d[k] = None
 
         # add columns for analysis
         try:
@@ -120,16 +112,11 @@ def search_rows(rows):
         # perform search
         match, score = query_es(search_name, search_winery, search_type)
         if match is not None:
+            d["matched_id"] = match["id"]
+            d["matched_type"] = match["type"]
             d["matched_name"] = match["name"]
             d["matched_winery_name"] = match["winery"]["name"]
-            d["type"] = match["type"]
-            d["matched_id"] = match["id"]
             d["score"] = score
-
-            try:
-                d["matched_original_id"] = match["original_id"]
-            except:
-                d["matched_original_id"] = None
 
         matches.append(d)
         print(f"{i+1} of {len(rows)}".ljust(50), end="\r")
@@ -137,9 +124,10 @@ def search_rows(rows):
     return matches
 
 
-def create_matches(root, filename):
+def create_matches(root):
     # read wines
-    wines = pd.read_csv(os.path.join(root, filename))
+    wines = pd.read_csv(os.path.join(root, "v2-cleaned.csv"))
+    wines = fill_empty(wines, VColumns.v2())
     print(f"Total rows: {wines.shape[0]}")
     print()
 
@@ -155,27 +143,7 @@ def create_matches(root, filename):
     )
     print()
 
-    matches = matches[
-        [
-            "external_id",
-            "type",
-            "name",
-            "winery_name",
-            "storage_area",
-            "size",
-            "vintage",
-            "price",
-            "info",
-            "quantity",
-            "internal_notes",
-            "matched_name",
-            "matched_winery_name",
-            "matched_id",
-            "matched_original_id",
-            "score",
-        ]
-    ]
-    matches.head()
+    matches = matches[VColumns.v2() + VColumns.v3()]
 
     # remove not matched rows
     valid_matches = matches[matches["matched_id"].notnull()]

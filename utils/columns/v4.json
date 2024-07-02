@@ -1,0 +1,12 @@
+{
+    "wine_id": "str",
+    "external_id": "str",
+    "size": "str",
+    "vintage": "int",
+    "price": "int",
+    "purchase_price": "int",
+    "info": "str",
+    "storage_area": "str",
+    "quantity": "int",
+    "internal_notes": "str"
+}

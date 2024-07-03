@@ -6,8 +6,83 @@ from utils import VColumns, fill_empty
 from utils.match_filtering import check_match
 
 
+class MySheet(ods.Sheet):
+    def __init__(self, dom, name="Sheet 1", cols=None):
+        super().__init__(dom, name, cols)
+        self.name = name
+
+    def writerows(self, rows):
+        """Override the writerows method to add conditional formatting to the sheet.
+        The conditional formatting makes the rows green if the value in column A is 1.
+        """
+        super().writerows(rows)
+        conditional_formats = self.dom.createElement("calcext:conditional-formats")
+
+        conditional_format = self.dom.createElement("calcext:conditional-format")
+        conditional_format.setAttribute(
+            "calcext:target-range-address", f"'{self.name}.A1:'{self.name}.R1048576'"
+        )
+        condition = self.dom.createElement("calcext:condition")
+        condition.setAttribute("calcext:apply-style-name", "Good")
+        condition.setAttribute("calcext:value", "formula-is([.$A1]=1)")
+        condition.setAttribute("calcext:base-cell-address", f"{self.name}.A1")
+
+        conditional_format.appendChild(condition)
+        conditional_formats.appendChild(conditional_format)
+        self.table.appendChild(conditional_formats)
+
+
+class MyOdsWriter(ods.ODSWriter):
+    def new_sheet(self, name=None, cols=None):
+        """
+        Create a new sheet in the spreadsheet and return it so content can be added.
+        :param name: Optional name for the sheet.
+        :param cols: Specify the number of columns, needed for compatibility in some cases
+        :return: Sheet object
+        """
+        sheet = MySheet(self.dom, name, cols)
+        self.sheets.append(sheet)
+        return sheet
+
+
 def fill_ok_formulas(df):
     return [ods.Formula(f'IF(ISBLANK(B{i}); ""; 1)') for i in range(2, len(df) + 2)]
+
+
+class BaseSpreadsheetWriter:
+    def __init__(self, root, OUTPUT_FILENAME):
+        self.root = root
+        self.OUTPUT_FILENAME = OUTPUT_FILENAME
+
+    # TODO: make this work
+    # Should be achievable by inserting the contents
+    # of resources/styles.xml in the zip file
+    @staticmethod
+    def write_conditional_formatting(sheet):
+        conditional_formats = sheet.dom.createElement("calcext:conditional-formats")
+
+        conditional_format = sheet.dom.createElement("calcext:conditional-format")
+        conditional_format.setAttribute(
+            "calcext:target-range-address", f"'{sheet.name}.A1:'{sheet.name}.R1048576'"
+        )
+        condition = sheet.dom.createElement("calcext:condition")
+        condition.setAttribute("calcext:apply-style-name", "Good")
+        condition.setAttribute("calcext:value", "formula-is([.$A1]=1)")
+        condition.setAttribute("calcext:base-cell-address", f"{sheet.name}.A1")
+
+        conditional_format.appendChild(condition)
+        conditional_formats.appendChild(conditional_format)
+        sheet.table.appendChild(conditional_formats)
+
+    def save(self, sheet_names, dfs):
+        with MyOdsWriter(os.path.join(self.root, self.OUTPUT_FILENAME)) as odsfile:
+            for sheet_name, df in zip(sheet_names, dfs):
+                sheet = odsfile.new_sheet(sheet_name)
+                sheet.writerow(df.columns)
+                for _, row in df.fillna("").iterrows():
+                    sheet.writerow(row)
+                self.write_conditional_formatting(sheet)
+        print(f"Saved to {os.path.join(self.root, self.OUTPUT_FILENAME)}")
 
 
 class V3SpreadsheetWriter:
@@ -18,7 +93,7 @@ class V3SpreadsheetWriter:
         self.df_valid_matches, self.df_not_matched = self._fill_sheets(
             df_valid_matches, df_not_matched
         )
-        self._save()
+        self.save()
 
     @classmethod
     def _fill_ok(cls, df):
@@ -48,27 +123,21 @@ class V3SpreadsheetWriter:
 
         return df_valid_matches, df_not_matched
 
-    def _save(self):
-        print(f"Saving to {os.path.join(self.root, self.OUTPUT_FILENAME)}")
-        with ods.writer(os.path.join(self.root, self.OUTPUT_FILENAME)) as odsfile:
-            for sheet_name, df in zip(
-                ["Auto (select correct)", "Manual (DO NOT TOUCH)"],
-                [self.df_valid_matches, self.df_not_matched],
-            ):
-                sheet = odsfile.new_sheet(sheet_name)
-                sheet.writerow(df.columns)
-                for _, row in df.fillna("").iterrows():
-                    sheet.writerow(row)
+    def save(self):
+        super().save(
+            ["Auto (select correct)", "Manual (DO NOT TOUCH)"],
+            [self.df_valid_matches, self.df_not_matched],
+        )
 
 
-class V4SpreadsheetWriter:
+class V4SpreadsheetWriter(BaseSpreadsheetWriter):
     OUTPUT_FILENAME = "v4-matches-draft.ods"
 
     def __init__(self, root):
         self.root = root
 
         self._read_sheets()
-        self._save()
+        self.save()
 
     def _read_sheets(self):
         df_selection = pd.read_excel(
@@ -92,14 +161,8 @@ class V4SpreadsheetWriter:
         self.df_auto = fill_empty(df_auto, VColumns.v3_selection())
         self.df_manual = fill_empty(df_manual, VColumns.v3_not_found())
 
-    def _save(self):
-        print(f"Saving to {os.path.join(self.root, self.OUTPUT_FILENAME)}")
-        with ods.writer(os.path.join(self.root, self.OUTPUT_FILENAME)) as odsfile:
-            for sheet_name, df in zip(
-                ["Auto (DO NOT TOUCH)", "Manual (insert ids)"],
-                [self.df_auto, self.df_manual],
-            ):
-                sheet = odsfile.new_sheet(sheet_name)
-                sheet.writerow(df.columns)
-                for _, row in df.fillna("").iterrows():
-                    sheet.writerow(row)
+    def save(self):
+        super().save(
+            ["Auto (DO NOT TOUCH)", "Manual (insert ids)"],
+            [self.df_auto, self.df_manual],
+        )

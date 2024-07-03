@@ -3,6 +3,7 @@ import pandas as pd
 import odswriter as ods
 
 from utils import VColumns, fill_empty
+from utils.match_filtering import check_match
 
 
 def fill_ok_formulas(df):
@@ -22,11 +23,25 @@ class V3SpreadsheetWriter:
     @classmethod
     def _fill_ok(cls, df):
         """To be modified for finding sure matches"""
-        return [None for _ in range(len(df))]
+        to_fill = []
+        for _, row in df.iterrows():
+            is_exact = check_match(
+                row["name"],
+                row["winery_name"],
+                row["type"],
+                row["matched_name"],
+                row["matched_winery_name"],
+                row["matched_type"],
+            )
+            to_fill.append(is_exact)
+
+        print(f"Found {sum(to_fill)} exact matches")
+        return [1 if el else None for el in to_fill]
 
     def _fill_sheets(self, df_valid_matches, df_not_matched):
         df_valid_matches = fill_empty(df_valid_matches, VColumns.v3_selection())
         df_valid_matches["ok"] = self._fill_ok(df_valid_matches)
+        df_valid_matches = df_valid_matches.sort_values("ok", ascending=False)
 
         df_not_matched = fill_empty(df_not_matched, VColumns.v3_not_found())
         df_not_matched["ok"] = fill_ok_formulas(df_not_matched)

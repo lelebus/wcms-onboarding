@@ -15,9 +15,9 @@ def fill_empty(df, columns):
     for column in columns:
         if column not in df.columns:
             df[column] = default_values[VColumns.all_columns(get_types=True)[column]]
-        # df[column].fillna(
-        #     default_values[VColumns.all_columns(get_types=True)[column]], inplace=True
-        # )
+        df[column].fillna(
+            default_values[VColumns.all_columns(get_types=True)[column]], inplace=True
+        )
     return df[columns]
 
 

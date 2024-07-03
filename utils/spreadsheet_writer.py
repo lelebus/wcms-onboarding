@@ -37,7 +37,7 @@ class V3SpreadsheetWriter:
         print(f"Saving to {os.path.join(self.root, self.OUTPUT_FILENAME)}")
         with ods.writer(os.path.join(self.root, self.OUTPUT_FILENAME)) as odsfile:
             for sheet_name, df in zip(
-                ["Selection", "Not Matched (DO NOT TOUCH)"],
+                ["Auto (select correct)", "Manual (DO NOT TOUCH)"],
                 [self.df_valid_matches, self.df_not_matched],
             ):
                 sheet = odsfile.new_sheet(sheet_name)
@@ -57,11 +57,12 @@ class V4SpreadsheetWriter:
 
     def _read_sheets(self):
         df_selection = pd.read_excel(
-            os.path.join(self.root, "v3-selection.ods"), sheet_name="Selection"
+            os.path.join(self.root, "v3-selection.ods"),
+            sheet_name="Auto (select correct)",
         )
         df_not_matched = pd.read_excel(
             os.path.join(self.root, "v3-selection.ods"),
-            sheet_name="Not Matched (DO NOT TOUCH)",
+            sheet_name="Manual (DO NOT TOUCH)",
         )
 
         matches_mask = df_selection["ok"].apply(lambda x: x in (1, True))
@@ -80,7 +81,7 @@ class V4SpreadsheetWriter:
         print(f"Saving to {os.path.join(self.root, self.OUTPUT_FILENAME)}")
         with ods.writer(os.path.join(self.root, self.OUTPUT_FILENAME)) as odsfile:
             for sheet_name, df in zip(
-                ["Selection (DO NOT TOUCH)", "Not Matched"],
+                ["Auto (DO NOT TOUCH)", "Manual (insert ids)"],
                 [self.df_auto, self.df_manual],
             ):
                 sheet = odsfile.new_sheet(sheet_name)

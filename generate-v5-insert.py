@@ -36,6 +36,7 @@ def main(root):
     print(f"Total inserted: {len(df_auto) + len(df_manual)}")
 
     df_insert = pd.concat([df_auto, df_manual])
+    df_insert = df_insert.rename(columns={"matched_id": "wine_id"})
 
     fill_empty(df_insert, VColumns.v5()).to_csv(
         os.path.join(root, "v5-insert.csv"), index=False
@@ -57,7 +58,7 @@ def main(root):
 
     with ods.writer(os.path.join(root, "v5-to-forward.ods")) as odsfile:
         for sheet_name, df in zip(
-            ["From list", "From matching"],
+            ["From List", "From Matching"],
             [df_forward_v2, df_forward],
         ):
             sheet = odsfile.new_sheet(sheet_name)

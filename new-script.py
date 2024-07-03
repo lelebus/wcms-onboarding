@@ -1,0 +1,15 @@
+import os
+import sys
+import urllib3
+
+from urllib3.exceptions import InsecureRequestWarning
+
+from utils import V4SpreadsheetWriter
+
+
+if __name__ == "__main__":
+    if len(sys.argv) != 2:
+        raise ValueError("Please provide the folder containing v2-cleaned.csv")
+    urllib3.disable_warnings(InsecureRequestWarning)  # Disable SSL warnings
+
+    V4SpreadsheetWriter(os.path.join("onboardings", sys.argv[1]))

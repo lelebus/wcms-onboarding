@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 from typing import Tuple
-from utils import VColumns, fill_empty
+from utils import VColumns, complete_columns
 
 
 def prepare_request(url_addition: str) -> dict:
@@ -139,7 +139,7 @@ def create_matches(root) -> Tuple[pd.DataFrame, pd.DataFrame]:
     """
     # read wines
     df_wines = pd.read_csv(os.path.join(root, "v2-cleaned.csv"))
-    df_wines = fill_empty(df_wines, VColumns.v2())
+    df_wines = complete_columns(df_wines, VColumns.v2())
     print(f"Total rows: {df_wines.shape[0]}")
     print()
 

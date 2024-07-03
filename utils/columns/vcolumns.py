@@ -14,8 +14,8 @@ class VColumns:
             cls.col_mapping["v2"] = json.load(f)
         with open("utils/columns/v3.json") as f:
             cls.col_mapping["v3"] = json.load(f)
-        with open("utils/columns/v4.json") as f:
-            cls.col_mapping["v4"] = json.load(f)
+        with open("utils/columns/v5.json") as f:
+            cls.col_mapping["v5"] = json.load(f)
 
     @classmethod
     def get_v(cls, v, get_types) -> Union[dict, list]:
@@ -42,9 +42,9 @@ class VColumns:
         return cls.get_v("v3", get_types)
 
     @classmethod
-    def v4(cls, get_types=False) -> Union[dict, list]:
-        """Get only v3 columns"""
-        return cls.get_v("v4", get_types)
+    def v5(cls, get_types=False) -> Union[dict, list]:
+        """Get only v5 columns"""
+        return cls.get_v("v5", get_types)
 
     @classmethod
     def v3_selection(cls, get_types=False) -> Union[dict, list]:
@@ -75,7 +75,7 @@ class VColumns:
             "matched_id": str,
             **cls.v2(True),
             **cls.v3(True),
-            **cls.v4(True),
+            **cls.v5(True),
         }
         if get_types:
             return res

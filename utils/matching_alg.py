@@ -1,9 +1,9 @@
 import os
-import json
 import requests
 import pandas as pd
 
-from utils import VColumns, fill_empty
+from typing import Tuple
+from utils import VColumns, complete_columns
 
 
 def prepare_request(url_addition: str) -> dict:
@@ -124,37 +124,45 @@ def search_rows(rows):
     return matches
 
 
-def create_matches(root):
+def create_matches(root) -> Tuple[pd.DataFrame, pd.DataFrame]:
+    """Match wines in v2-cleaned.csv with wines in Elasticsearch.
+
+    Parameters
+    ----------
+    root : str
+        path to folder containing v2-cleaned.csv
+
+    Returns
+    -------
+    pd.DataFrame, pd.DataFrame
+        valid_matches, not_matched
+    """
     # read wines
-    wines = pd.read_csv(os.path.join(root, "v2-cleaned.csv"))
-    wines = fill_empty(wines, VColumns.v2())
-    print(f"Total rows: {wines.shape[0]}")
+    df_wines = pd.read_csv(os.path.join(root, "v2-cleaned.csv"))
+    df_wines = complete_columns(df_wines, VColumns.v2())
+    print(f"Total rows: {df_wines.shape[0]}")
     print()
 
     # run algorithm
     print("Searching ...")
-    wines_list = wines.to_dict("records")
+    wines_list = df_wines.to_dict("records")
     matches_list = search_rows(wines_list)
 
     # generate new dataframe
-    matches = pd.DataFrame(matches_list)
+    df_matches = pd.DataFrame(matches_list)
     print(
-        f"Total rows: {matches.shape[0]} (should be {wines.shape[0]} - same number of rows as original)"
+        f"Total rows: {df_matches.shape[0]} (should be {df_wines.shape[0]} - same number of rows as original)"
     )
     print()
 
-    matches = matches[VColumns.v2() + VColumns.v3()]
+    df_matches = df_matches[VColumns.v2() + VColumns.v3()]
 
     # remove not matched rows
-    valid_matches = matches[matches["matched_id"].notnull()]
-    not_matched = matches[matches["matched_id"].isnull()]
+    df_valid_matches = df_matches[df_matches["matched_id"].notnull()]
+    df_not_matched = df_matches[df_matches["matched_id"].isnull()]
 
-    output_path = os.path.join(root, "v3-matches.csv")
-    valid_matches.to_csv(output_path, index=False)
-
-    output_path = os.path.join(root, "v3-not-found.csv")
-    not_matched.to_csv(output_path, index=False)
-
-    print(f"Valid matches: {valid_matches.shape[0]}")
-    print(f"Not matched: {not_matched.shape[0]}")
+    print(f"Valid matches: {df_valid_matches.shape[0]}")
+    print(f"Not matched: {df_not_matched.shape[0]}")
     print()
+
+    return df_valid_matches, df_not_matched

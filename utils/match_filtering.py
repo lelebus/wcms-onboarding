@@ -20,6 +20,10 @@ def check_match(
     retrieved_winery_name,
     retrieved_type,
 ):
+    if query_winery_name == "":
+        retrieved_name = retrieved_name + " " + retrieved_winery_name
+        retrieved_winery_name = ""
+
     is_exact_name = sorted(
         _analyze_text_local(query_name, return_tokens=True)
     ) == sorted(_analyze_text_local(retrieved_name, return_tokens=True))

@@ -1,5 +1,5 @@
 external_id,name,winery_name,type,storage_area,size,vintage,price,info,quantity,internal_notes
-2,champagne rosé,Ruinart,,,HALF_BOTTLE,,8500,,23,
+2,champagne rosé,Ruinart,SPARKLING,,HALF_BOTTLE,,8500,,23,
 3,champagne blanc de blanc,Ruinart,,,HALF_BOTTLE,,8000,,19,
 188,sauvignon vulcaia fumé,Az. Agr. Inama,,,BOTTLE,2020,7500,,18,
 188,sauvignon vulcaia fumé,Az. Agr. Inama,,,BOTTLE,2021,7500,,6,

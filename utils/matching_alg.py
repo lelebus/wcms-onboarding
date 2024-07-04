@@ -14,6 +14,9 @@ def prepare_request(url_addition: str) -> dict:
 
 
 def query_es(name, winery_name, wine_type):
+    if winery_name == "":
+        winery_name = name
+
     # build query
     conditions = [
         {
@@ -36,10 +39,15 @@ def query_es(name, winery_name, wine_type):
         },
     ]
 
-    if wine_type is not None and str(wine_type) != "nan":
-        conditions.append({"term": {"type.keyword": wine_type}})
+    condition_not = None
+    # Only force red wines
+    if wine_type is not None:
+        if str(wine_type) == "RED":
+            conditions.append({"term": {"type.keyword": wine_type}})
+        else:
+            condition_not = {"term": {"type.keyword": "RED"}}
 
-    # perform query
+    # write query
     query = {
         "query": {
             "bool": {
@@ -48,6 +56,9 @@ def query_es(name, winery_name, wine_type):
         },
         "size": 1,
     }
+
+    if condition_not is not None:
+        query["query"]["bool"]["must_not"] = condition_not
 
     try:
         req_prep = prepare_request("wines/_search")

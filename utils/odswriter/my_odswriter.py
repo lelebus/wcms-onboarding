@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-import odswriter as ods
+import utils.odswriter as ods
 
 from utils import VColumns, fill_empty
 from utils.match_filtering import check_match
@@ -10,26 +10,6 @@ class MySheet(ods.Sheet):
     def __init__(self, dom, name="Sheet 1", cols=None):
         super().__init__(dom, name, cols)
         self.name = name
-
-    def writerows(self, rows):
-        """Override the writerows method to add conditional formatting to the sheet.
-        The conditional formatting makes the rows green if the value in column A is 1.
-        """
-        super().writerows(rows)
-        conditional_formats = self.dom.createElement("calcext:conditional-formats")
-
-        conditional_format = self.dom.createElement("calcext:conditional-format")
-        conditional_format.setAttribute(
-            "calcext:target-range-address", f"'{self.name}.A1:'{self.name}.R1048576'"
-        )
-        condition = self.dom.createElement("calcext:condition")
-        condition.setAttribute("calcext:apply-style-name", "Good")
-        condition.setAttribute("calcext:value", "formula-is([.$A1]=1)")
-        condition.setAttribute("calcext:base-cell-address", f"{self.name}.A1")
-
-        conditional_format.appendChild(condition)
-        conditional_formats.appendChild(conditional_format)
-        self.table.appendChild(conditional_formats)
 
 
 class MyOdsWriter(ods.ODSWriter):
@@ -55,8 +35,6 @@ class BaseSpreadsheetWriter:
         self.OUTPUT_FILENAME = OUTPUT_FILENAME
 
     # TODO: make this work
-    # Should be achievable by inserting the contents
-    # of resources/styles.xml in the zip file
     @staticmethod
     def write_conditional_formatting(sheet):
         conditional_formats = sheet.dom.createElement("calcext:conditional-formats")

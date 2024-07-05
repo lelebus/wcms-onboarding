@@ -23,7 +23,8 @@ Franciacorta Grande Cuvee „Bellavista“					0,75 l - 57 €
 + 1,5 l  + 3 l  + 6 l  + 9 l
 
 CHAMPAGNER LEGRAS & HAAS							0,75 l - 69 €
-0,375 l - 45 €
+
+CHAMPAGNER LEGRAS & HAAS 0,375 l - 45 €
 
 Ruinart Brut										0,75 l - 105 €
 
@@ -113,7 +114,7 @@ Sylvaner „Alte Reben“ Pacher Hof						0,75 l - 46 €
 
 RIESLING DÖNNHOFF „TONSCHIEFER“						0,75 l - 37 €
 
-RIESLING „VINSCHGAU“ - FALKENSTEIN        trebicchieri, Gambero Rosso		0,75 l - 38 €
+RIESLING „VINSCHGAU“ - FALKENSTEIN        (trebicchieri, Gambero Rosso)		0,75 l - 38 €
 
 Riesling „Geieregg“ Weingut Himmelreich					0,75 l - 40 €
 
@@ -201,7 +202,7 @@ PRIMO TERLANER  “I -Grande” Cuvèe						0,75 l – 240 €
 TYPE_RED
 
 
-Vernatsch Muri  Liter
+Vernatsch Muri  + 1 l
 
 VERNATSCH „SCHICKENBURG“ - KELLEREI MERAN				0,75 l - 26 €
 
@@ -341,6 +342,7 @@ Spätburgunder  „N°2“  Weingut Adenauer Ahrweiler Deutschland 0,75 L – 43
 
 Spätburgunder „Kleine Kammer“ Weingut Adenauer Ahrweiler Deutschland
 											0,75 l – 63 €
+
 Spätburgunder „Rosenthal“ Weingut Adenauer Ahrweiler Deutschland
 											0,75 l – 83 €
 
@@ -370,12 +372,12 @@ James Suckling  99/100  , Robert Parker  98/100
 Brunello Di Montalcino Talenti ‘Piero’ 	    		0,75 l - 150 €  toskana
  James Suckling 100 Punkte,    Falstaff 99 Punkte
 
-“TESTAMATTA” BIBI GRAETZ   Robert Parker  96 Punkte		0,75 L – 109 € TOSKANA
+“TESTAMATTA” BIBI GRAETZ   (Robert Parker  96 Punkte)		0,75 L – 109 € TOSKANA
 
 “TIGNANELLO” – Tignanello - ANTINOri			0,75 l - 118 €  TOSKANA
 + 1,5 l
 
-“Luce” Tenuta Luce    James Suckling 99 Punkte			0,75 l – 158 € Toskana
+“Luce” Tenuta Luce    (James Suckling 99 Punkte)			0,75 l – 158 € Toskana
 
 “ORNELLAIA”  IL VIGORE  BOLGHERI  SUPERIORE		0,75 l – 255 € Toskana
 + 1,5 l   + 3 l
@@ -388,8 +390,7 @@ BARBARESCO - GAJA 						0,75 l - 250 €  PIEMONT
 
 CABERNET SAUVIGNON DARMAGI - GAJA			0,75 l - 290 €  PIEMONT
 
-AMARONE DELLA VALPOLICELLA - PIETRO DEL CERO		0,75 l - 118 € Lombardai
-CA DEI FRATI
+AMARONE DELLA VALPOLICELLA - PIETRO DEL CERO CA DEI FRATI		0,75 l - 118 € Lombardai
 
 rosso dogato  Merotto
 +1,5 l  +  3 l  +  6 l
@@ -403,11 +404,10 @@ contrada diciassettesalme  etna cattanera
 syrah  calle al fico  petra
 
 
-SASSICAIA - TENUTA SAN GUIDO Toskana
-wir führen verschiedene Jahrgänge vom Kultwein Sassicaia	Preise auf Anfrage
-Abbiamo anche dirverse annate del supertuscan Sassicaia	prezzo su richiesta
-
-Jahrgänge: 2004, 2011, 2012, 2016, 2017, 2018, 2019, 2020
+SASSICAIA - TENUTA SAN GUIDO 2004 2011 2012 2016 2017 2018 2019 2020
+Wir führen verschiedene Jahrgänge vom Kultwein Sassicaia. Preise auf Anfrage
+Abbiamo anche dirverse annate del supertuscan Sassicaia. Prezzo su richiesta
+ 
 
 
 TYPE_MAGNUM
@@ -445,11 +445,11 @@ Gambero Rosso 3 bicchieri
 LAGREIN RISERVA “PORPHYR” - KELLEREI TERLAN					154 €
 
 “AMISTAR” CUVÉE MAGNUM - PETER SÖLVA						108 €
- WineHunter Award Platinum & Gold
+WineHunter Award Platinum & Gold
 
 „Anticus“ Merlot Cabernet Riserva Kellerei Nals - Magreid			132 €
 
-“Lacus”  Weingut Walter Schullian Jährlich nur 150 Flaschen		155 €
+“Lacus”  Weingut Walter Schullian (Jährlich nur 150 Flaschen)		155 €
 
 le cupole rosso toscana  3 l
 
@@ -475,7 +475,7 @@ GOLDMUSKATELLER - KELLEREI KALTERN						0,75 l – 26 €
 
 
 
-PETIT MANSENG - KELLEREI ST. PAULS						0,50 l – 43 €
+PETIT MANSENG - KELLEREI ST. PAULS						+ 0,50 l – 43 €
 
 
 

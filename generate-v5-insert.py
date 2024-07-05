@@ -39,9 +39,9 @@ def main(root):
     df_insert = df_insert.rename(columns={"matched_id": "wine_id"})
 
     fill_empty(df_insert, VColumns.v5()).to_csv(
-        os.path.join(root, "v5-insert.csv"), index=False
+        os.path.join(root, "v5-insert-draft.csv"), index=False
     )
-    print(f"Saved to {os.path.join(root, 'v5-insert.csv')}")
+    print(f"Saved to {os.path.join(root, 'v5-insert-draft.csv')}")
 
     ############## Forward ############
     df_forward = fill_empty(df_forward, VColumns.v2())
@@ -56,16 +56,18 @@ def main(root):
         df_forward_v2 = fill_empty(pd.DataFrame(), VColumns.v2())
     print(f"To forward from v2-dropped.csv: {len(df_forward_v2)}")
 
-    with ods.writer(os.path.join(root, "v5-to-forward.ods")) as odsfile:
+    with ods.writer(os.path.join(root, "v5-forward-draft.ods")) as odsfile:
         for sheet_name, df in zip(
             ["From List", "From Matching"],
             [df_forward_v2, df_forward],
         ):
+            if len(df) == 0:
+                continue
             sheet = odsfile.new_sheet(sheet_name)
             sheet.writerow(df.columns)
             for _, row in df.fillna("").iterrows():
                 sheet.writerow(row)
-    print(f"Saved to {os.path.join(root, 'v5-to-forward.ods')}")
+    print(f"Saved to {os.path.join(root, 'v5-forward-draft.ods')}")
 
 
 if __name__ == "__main__":

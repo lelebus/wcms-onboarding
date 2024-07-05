@@ -78,23 +78,23 @@ The `size` field has only some allowed values. The standard mapping is this:
 
 ```python
 {
-  "HALF_BOTTLE" : 0.375
-  "HALF_LITER" : 0.5
-  "BOTTLE" : 0.75
-  "LITER" : 1
-  "MAGNUM" : 1.5
-  "JEROBOAM" : 3
-  "REHOBOAM" : 4.5
-  "BORDEAUX_JEROBOAM" : 5
-  "MATHUSALEM" : 6      # default 6l
-  "IMPERIAL" : 6        # alternative name for 6l
-  "SALMANAZAR" : 9
-  "BALTHAZAR" : 12
-  "NEBUCHADNEZZAR" : 15
-  "MELCHIOR" : 18
-  "SOLOMON" : 20
-  "SOVEREIGN" : 25
-  "GOLIATH" : 27
+  "HALF_BOTTLE" : 0.375,
+  "HALF_LITER" : 0.5,
+  "BOTTLE" : 0.75,
+  "LITER" : 1,
+  "MAGNUM" : 1.5,
+  "JEROBOAM" : 3,
+  "REHOBOAM" : 4.5,
+  "BORDEAUX_JEROBOAM" : 5,
+  "MATHUSALEM" : 6,      # default 6l
+  "IMPERIAL" : 6,        # alternative name for 6l
+  "SALMANAZAR" : 9,
+  "BALTHAZAR" : 12,
+  "NEBUCHADNEZZAR" : 15,
+  "MELCHIOR" : 18,
+  "SOLOMON" : 20,
+  "SOVEREIGN" : 25,
+  "GOLIATH" : 27,
   "MELCHIZEDEK" : 30
 }
 ```

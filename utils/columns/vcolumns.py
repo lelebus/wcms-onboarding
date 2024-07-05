@@ -1,3 +1,4 @@
+import os
 import json
 from typing import Union
 
@@ -10,11 +11,12 @@ class VColumns:
         """Read columns from files"""
         # print("Reading columns...")
         cls.col_mapping = {}
-        with open("utils/columns/v2.json") as f:
+        column_folder = os.path.join(os.environ["PROJECT_ROOT"], "utils", "columns")
+        with open(os.path.join(column_folder, "v2.json")) as f:
             cls.col_mapping["v2"] = json.load(f)
-        with open("utils/columns/v3.json") as f:
+        with open(os.path.join(column_folder, "v3.json")) as f:
             cls.col_mapping["v3"] = json.load(f)
-        with open("utils/columns/v5.json") as f:
+        with open(os.path.join(column_folder, "v5.json")) as f:
             cls.col_mapping["v5"] = json.load(f)
 
     @classmethod

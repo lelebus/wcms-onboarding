@@ -1,4 +1,4 @@
-SPARKLING
+TYPE_SPARKLING
 
 
 PROSECCO CARMINA „LOGGIA“							0,75 l - 22 €
@@ -34,12 +34,15 @@ Ruinart Brut Rose’									0,75 l - 130 €
 CHAMPAGNER Dom Perignon VINTAGE					0,75 l - 290 €
 
 
-CHAMPAGNE DE VENOGE Princes
-De Blanc de Blanc								0,75 l - 115 €
-Rose										0,75 l - 120 €
-Blanc de Noirs									0,75 l - 115 €
+CHAMPAGNE DE VENOGE Princes			De Blanc de Blanc								0,75 l - 115 €
 
-ROSE
+CHAMPAGNE DE VENOGE Princes			Rose										0,75 l - 120 €
+
+CHAMPAGNE DE VENOGE Princes			Blanc de Noirs									0,75 l - 115 €
+
+
+TYPE_ROSE
+
 
 ROSALIE Cuvee KELLEREI MERAN							0,75 l - 25 €
 
@@ -59,7 +62,7 @@ Lagrein Rose` - Pfannenstielhof        (Sieger beim Autochtona Award)		0,75 l - 
 
 
 
-WHITE
+TYPE_WHITE
 
 
 Soave Classico Bio Pieropan		Veneto				0,75 l – 28 €
@@ -195,7 +198,8 @@ PRIMO TERLANER  “I -Grande” Cuvèe						0,75 l – 240 €
  Gambero Rosso
 
 
-RED
+TYPE_RED
+
 
 Vernatsch Muri  Liter
 
@@ -406,7 +410,8 @@ Abbiamo anche dirverse annate del supertuscan Sassicaia	prezzo su richiesta
 Jahrgänge: 2004, 2011, 2012, 2016, 2017, 2018, 2019, 2020
 
 
-MAGNUM
+TYPE_MAGNUM
+
 
 Südtiroler Sekt Brut Riserva „36“  Kellerei Meran					88 €
 
@@ -459,7 +464,7 @@ podere le ripi Amar d. fallia  6 l toscana rosso
 amarone d. v.  sant  antonio 6 l
 
 
-DESSERT
+TYPE_DESSERT
 
 
 GOLDMUSKATELLER - KELLEREI KALTERN						0,75 l – 26 €

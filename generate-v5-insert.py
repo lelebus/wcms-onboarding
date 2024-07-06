@@ -1,12 +1,13 @@
 import os
 import sys
 import urllib3
-
 import pandas as pd
 import odswriter as ods
 
-from utils import VColumns, fill_empty
+from dotenv import load_dotenv
 from urllib3.exceptions import InsecureRequestWarning
+
+from utils import VColumns, fill_empty
 
 
 V4_MATCHES_FILENAME = "v4-matches.ods"
@@ -71,6 +72,8 @@ def main(root):
 
 
 if __name__ == "__main__":
+    load_dotenv()
+
     if len(sys.argv) != 2:
         raise ValueError("Please provide the folder containing v3-selection.ods")
     urllib3.disable_warnings(InsecureRequestWarning)  # Disable SSL warnings

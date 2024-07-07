@@ -91,9 +91,9 @@ git commit -m "v0: start <CLIENT_NAME> onboarding"
 
 ### v1-start.csv (.txt): true input file
 This file contains the contents of `v0-original`, but in a more machine-friendly format.
- - copy the contents of `v0-original` in `v1-start`:
-   - If `v0-original` is a spreadsheet (`.xlsx`, `.ods` etc.), `v1-start` should be a `.csv` file.
-   - If `v0-original` is a document (`.docx`, `.odt` etc.), `v1-start` should be a `.txt` file.
+ - Copy the contents of `v0-original` in `v1-start`:
+   - if `v0-original` is a spreadsheet (`.xlsx`, `.ods` etc.), `v1-start` should be a `.csv` file;
+   - if `v0-original` is a document (`.docx`, `.odt` etc.), `v1-start` should be a `.txt` file.
  - Some manual cleanup of `v1-start` may be performed if deemed necessary.
  - If there are multiple `v0-original` files, create also multiple `v1-start` files.
  - Commit your changes
@@ -103,7 +103,7 @@ git commit -m: "v1: add v1-start"
 ```
 
 **IMPORTANT**:
- - It might happen that you need to modify `v1-start` while processing it in the next step. In case this happens, commit the changes as you do them
+ - It might happen that you need to modify `v1-start` while processing it in the next step. In case this happens, commit the changes as you do them:
 ```bash
 git add onboardings/<CLIENT_NAME>/v1-start*
 git commit -m: "v1: cleanup v1-start"
@@ -112,9 +112,9 @@ git commit -m: "v1: cleanup v1-start"
 ### v2-cleaned.csv
 This is the file that will be given as input to the matching algorithm, so it must be formatted in a standard way.
 
- - Create a notebook in the onboarding folder, and name it `v1-to-v2.ipynb`. The final output of this notebook should be `v2-cleaned.csv`
- - only a single `v2-cleaned.csv` must exist
- - Perform all the necessary preprocessing in this notebook. The fields that should be present are in the table below.
+ - Create a notebook in the onboarding folder, and name it `v1-to-v2.ipynb`. The final output of this notebook should be `v2-cleaned.csv`.
+ - Only a single file `v2-cleaned.csv` must exist.
+ - Perform all the necessary preprocessing in this notebook. The fields that must be present are shown in the table below.
    - you can use the class `VColumns` in the `utils` module to get the necessary columns
  - Commit your changes
 ```bash
@@ -139,62 +139,76 @@ Here are all the fields that must be present in `v2-cleaned.csv`:
 | `internal_notes` | `str` | internal notes for the wine        |
 
 **Important**:
- - no null values must be present. For removing null values, use `fill_empty` from `utils`.
+ - no null values should be present. For removing null values, use `fill_empty` from `utils`.
  - if it is not possible to separate `name` and `winery_name`, leave `winery_name` empty and put everything in `name`.
 
+**VERY IMPORTANT!!:**
+ - `price` and `purchase_price` must be expressed as an `int` in **cents**, **NOT IN EUR!!**
+
+See more info in the Appendix.
 
 
-### v3
-These files are generated after the automatic matching. In addition to the fields in `v2`, these are added:
+### v3-selection.ods
+This file contains the wines matched by the matching algorithm. Some matches need to be checked manually.
+ - run the matching script to generate the draft file `v3-selection-draft.ods`
+```bash
+python generate-v3-selection.py <CLIENT_NAME>
+```
+ - Commit your changes
+```bash
+git add onboardings/<CLIENT_NAME>/v3-selection-draft.ods
+git commit -m: "v3: add v3-selection-draft.ods"
+```
+ - create a copy of the draft file, and name it `v3-selection.ods`
+ - manually review the matches in the sheet `AUTO (select correct)`
+   - put a 1 in the field `ok` if the match is correct, otherwise leave it empty or write 0
+ - Commit your changes:
+```bash
+git add onboardings/<CLIENT_NAME>/v3-selection.ods
+git commit -m: "v3: add v3-selection.ods"
+```
 
-| Field name            | dtype   |
-| --------------------- | ------- |
-| `matched_id`          | `str`   |
-| `matched_type`        | `str`   |
-| `matched_name`        | `str`   |
-| `matched_winery_name` | `str`   |
-| `score`               | `float` |
+### v4-matching.ods
+This file contains the wines that were marked as not correct in the previous step, as well as the wines that were not matched with any wine in the database.
+ - Run the script to generate the draft file `v4-matches-draft.ods`
+```bash
+python generate-v4-matches.py <CLIENT_NAME>
+```
+- commit your changes:
+```bash
+git add onboardings/<CLIENT_NAME>/v4-matches-draft.ods
+git commit -m: "v4: add v4-matches-draft.ods"
+```
+ - Create a copy of the draft file, and name it `v4-matches.ods`.
+ - Manually insert `matched_id` in the sheet `Manual (insert id)`:
+   - to find the id, search the wine in the admin portal and copy its id;
+   - if the wine is not present at all in the database, add it manually. Perform the search again and copy its id.
+ - If the wine that needs to be matched is unclear, leave `matched_id` empty.
 
-#### v3-selection
-The `v3-selection-*` files have also this field added:
-| Field name | dtype  |
-| ---------- | ------ |
-| `ok`       | `bool` |
 
-Which says whether the match is correct or not.
+### v5-insert.csv and v5-forward.ods
+ - Run the script to generate the draft files `v5-insert-draft.csv` and `v5-forward-draft.ods`:
+```bash
+python generate-v5-insert.py <CLIENT_NAME>
+```
+- commit your changes:
+```bash
+git add onboardings/<CLIENT_NAME>/v5-insert-draft.csv
+git add onboardings/<CLIENT_NAME>/v5-forward-draft.ods
+git commit -m: "v5: add v5-insert-draft.ods and v5-forward-draft.ods"
+```
+ - copy the files and remove `"draft"` from their name
+   - they should be fine as they are. If not, perform the necessary manual changes
+- commit your changes:
+```bash
+git add onboardings/<CLIENT_NAME>/v5-insert.csv
+git add onboardings/<CLIENT_NAME>/v5-forward.ods
+git commit -m: "v5: add v5-insert.ods and v5-forward.ods"
+```
+ - upload `v5-insert.csv` in the onboarding portal
+ - send `v5-forward.csv` to the client for clarification
 
-
-### v4
-These files only have these fields:
-
-| Field name       | dtype |
-| ---------------- | ----- |
-| `wine_id`        | `str` |
-| `external_id`    | `str` |
-| `size`           | `str` |
-| `vintage`        | `int` |
-| `price`          | `int` |
-| `purchase_price` | `int` |
-| `info`           | `str` |
-| `storage_area`   | `str` |
-| `quantity`       | `int` |
-| `internal_notes` | `str` |
-
-`price` and `purchase_price` are expressed in cents.
-
-In the order exactly specified here and in utils/v4-columns.json
-
-## Note for older onboardings
-The onbarding procedure was different for these restaurants:
- - damichele
- - dolomiti-lodge-alvera
- - laite
- - mondschein
- - pfoesl
- - vinessa
- - tivoli-cortina
- - daaurelio
-
+Congratulations! The onboarding procedure is now complete.
 
 # Appendix
 These are details for v2.

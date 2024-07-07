@@ -89,6 +89,7 @@ This is the original file provided by the client.
 ```bash
 git add onboardings/<CLIENT_NAME>/v0-original*
 git commit -m "v0: start <CLIENT_NAME> onboarding"
+git push --set-upstream origin onboarding/<CLIENT_NAME>
 ```
 
 ### v1-start.csv (.txt): true input file
@@ -103,6 +104,7 @@ This file contains the contents of `v0-original`, but in a more machine-friendly
 ```bash
 git add onboardings/<CLIENT_NAME>/v1-start*
 git commit -m: "v1: add v1-start"
+git push
 ```
 
 **IMPORTANT**:
@@ -110,6 +112,7 @@ git commit -m: "v1: add v1-start"
 ```bash
 git add onboardings/<CLIENT_NAME>/v1-start*
 git commit -m: "v1: cleanup v1-start"
+git push
 ```
 
 ### v2-cleaned.csv
@@ -123,6 +126,7 @@ This is the file that will be given as input to the matching algorithm, so it mu
 ```bash
 git add onboardings/<CLIENT_NAME>/v2-cleaned.csv
 git commit -m: "v2: add v2-cleaned.csv"
+git push
 ```
 More details in the Appendix.
 
@@ -144,6 +148,7 @@ python generate-v3-selection.py <CLIENT_NAME>
 ```bash
 git add onboardings/<CLIENT_NAME>/v3-selection-draft.ods
 git commit -m: "v3: add v3-selection-draft.ods"
+git push
 ```
  - create a copy of the draft file, and name it `v3-selection.ods`
  - manually review the matches in the sheet `AUTO (select correct)`
@@ -152,6 +157,7 @@ git commit -m: "v3: add v3-selection-draft.ods"
 ```bash
 git add onboardings/<CLIENT_NAME>/v3-selection.ods
 git commit -m: "v3: add v3-selection.ods"
+git push
 ```
 
 ### v4-matching.ods
@@ -160,16 +166,23 @@ This file contains the wines that were marked as not correct in the previous ste
 ```bash
 python generate-v4-matches.py <CLIENT_NAME>
 ```
-- commit your changes:
+- Commit your changes:
 ```bash
 git add onboardings/<CLIENT_NAME>/v4-matches-draft.ods
 git commit -m: "v4: add v4-matches-draft.ods"
+git push
 ```
  - Create a copy of the draft file, and name it `v4-matches.ods`.
  - Manually insert `matched_id` in the sheet `Manual (insert id)`:
    - to find the id, search the wine in the admin portal and copy its id;
    - if the wine is not present at all in the database, add it manually. Perform the search again and copy its id.
- - If the wine that needs to be matched is unclear, leave `matched_id` empty.
+   - If the wine that needs to be matched is unclear, leave `matched_id` empty.
+- Commit your changes:
+```bash
+git add onboardings/<CLIENT_NAME>/v4-matches.ods
+git commit -m: "v4: add v4-matches.ods"
+git push
+```
 
 
 ### v5-insert.csv and v5-forward.ods
@@ -177,7 +190,7 @@ git commit -m: "v4: add v4-matches-draft.ods"
 ```bash
 python generate-v5-insert.py <CLIENT_NAME>
 ```
-- commit your changes:
+- Commit your changes:
 ```bash
 git add onboardings/<CLIENT_NAME>/v5-insert-draft.csv
 git add onboardings/<CLIENT_NAME>/v5-forward-draft.ods
@@ -185,7 +198,7 @@ git commit -m: "v5: add v5-insert-draft.ods and v5-forward-draft.ods"
 ```
  - copy the files and remove `"draft"` from their name
    - they should be fine as they are. If not, perform the necessary manual changes
-- commit your changes:
+- Commit your changes:
 ```bash
 git add onboardings/<CLIENT_NAME>/v5-insert.csv
 git add onboardings/<CLIENT_NAME>/v5-forward.ods

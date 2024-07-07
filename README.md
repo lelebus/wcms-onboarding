@@ -63,26 +63,28 @@ This table provides an overview of the purpose and formatting of all the interme
 
 ## Detailed steps
 ### Getting started
-First, switch to the `main` branch and git pull to ensure that you are up to date with the latest changes:
+Perform these steps before each new onboarding:
+
+ - Switch to the `main` branch and `git pull` to ensure that you are up-to-date with the latest changes:
 ```bash
 git checkout main
 git pull
 ```
 
-Create a dedicated git branch for the onboarding of each client. Execute the following command to create and switch to this branch:
+ - Create a dedicated branch for the onboarding of each client. Execute the following command to create and switch to this branch:
 ```bash
 git checkout -b onboarding/<CLIENT_NAME>
 ```
 
 **IMPORTANT**:
- - Ensure you commit your changes to the onboarding branch after completing each of the subsequent steps.
- - Only merge the onboarding branch into `main` once you have finished all the steps.
+ - Commit your changes to `onboarding/<CLIENT_NAME>` after completing each of the subsequent steps.
+ - Only merge `onboarding/<CLIENT_NAME>` into `main` once you have finished all the steps. More details at the end on how to do this in the correct way.
 
 ### v0-original: Beginning of the onboarding
 This is the original file provided by the client.
  - Create the onboarding folder `onboardings/<CLIENT NAME>`.
  - Put the file provided by the client in the onboarding folder, name it `v0-original` and keep the file extension unchanged.
- - it might be the case that you have multiple files from the client. In that case, name them `v0-original-1`, `v0-original-2` etc.
+ - There might be multiple files from the client. In that case, name them `v0-original-1.&`, `v0-original-2` etc.
  - Commit your changes:
 ```bash
 git add onboardings/<CLIENT_NAME>/v0-original*
@@ -91,11 +93,12 @@ git commit -m "v0: start <CLIENT_NAME> onboarding"
 
 ### v1-start.csv (.txt): true input file
 This file contains the contents of `v0-original`, but in a more machine-friendly format.
- - Copy the contents of `v0-original` in `v1-start`:
+ - Create `v1-start`:
    - if `v0-original` is a spreadsheet (`.xlsx`, `.ods` etc.), `v1-start` should be a `.csv` file;
-   - if `v0-original` is a document (`.docx`, `.odt` etc.), `v1-start` should be a `.txt` file.
- - Some manual cleanup of `v1-start` may be performed if deemed necessary.
- - If there are multiple `v0-original` files, create also multiple `v1-start` files.
+   - if `v0-original` is a document (`.docx`, `.odt` etc.), `v1-start` should be a `.txt` file;
+   - if there are multiple `v0-original` files, create also multiple `v1-start` files and name them accordingly.
+ - Copy the contents of `v0-original` in `v1-start`.
+ - Perform some manual cleanup of `v1-start` if deemed necessary.
  - Commit your changes
 ```bash
 git add onboardings/<CLIENT_NAME>/v1-start*
@@ -110,42 +113,25 @@ git commit -m: "v1: cleanup v1-start"
 ```
 
 ### v2-cleaned.csv
-This is the file that will be given as input to the matching algorithm, so it must be formatted in a standard way.
+This is the file that will be given as input to the matching algorithm, so it must have a standard format.
 
  - Create a notebook in the onboarding folder, and name it `v1-to-v2.ipynb`. The final output of this notebook should be `v2-cleaned.csv`.
  - Only a single file `v2-cleaned.csv` must exist.
- - Perform all the necessary preprocessing in this notebook. The fields that must be present are shown in the table below.
-   - you can use the class `VColumns` in the `utils` module to get the necessary columns
- - Commit your changes
+ - Perform all the necessary preprocessing in this notebook. The fields that must be present are shown in the appendix.
+   - You can use the class `VColumns` in the `utils` module to get the necessary columns.
+ - Commit your changes:
 ```bash
 git add onboardings/<CLIENT_NAME>/v2-cleaned.csv
 git commit -m: "v2: add v2-cleaned.csv"
 ```
+More details in the Appendix.
 
-Here are all the fields that must be present in `v2-cleaned.csv`:
-| Field name       | dtype | meaning                            |
-| ---------------- | ----- | ---------------------------------- |
-| `external_id`    | `str` | unique id to easily identify wines |
-| `type`           | `str` | wine type (RED, WHITE etc.)        |
-| `name`           | `str` | name of the wine                   |
-| `winery_name`    | `str` | name of the winery                 |
-| `info`           | `str` | extra information                  |
-| `size`           | `str` | bottle format                      |
-| `vintage`        | `int` | vintage year                       |
-| `price`          | `int` | price in **cents**                 |
-| `purchase_price` | `int` | purchase price in **cents**        |
-| `quantity`       | `int` | number of bottles present          |
-| `storage_area`   | `str` | storage area of the wines          |
-| `internal_notes` | `str` | internal notes for the wine        |
-
-**Important**:
- - no null values should be present. For removing null values, use `fill_empty` from `utils`.
- - if it is not possible to separate `name` and `winery_name`, leave `winery_name` empty and put everything in `name`.
+**IMPORTANT**:
+ - No null values should be present. For removing null values, use `fill_empty` from `utils`.
+ - If it is not possible to separate `name` and `winery_name`, leave `winery_name` empty and put everything in `name`.
 
 **VERY IMPORTANT!!:**
- - `price` and `purchase_price` must be expressed as an `int` in **cents**, **NOT IN EUR!!**
-
-See more info in the Appendix.
+ - `price` and `purchase_price` are in **cents**, **NOT IN EUR!!**
 
 
 ### v3-selection.ods
@@ -208,47 +194,134 @@ git commit -m: "v5: add v5-insert.ods and v5-forward.ods"
  - upload `v5-insert.csv` in the onboarding portal
  - send `v5-forward.csv` to the client for clarification
 
+
+### Merge into `main`
+After you completed all the steps, the onboarding branch is ready to be merged into `main`. We do a squashed merge commit, in order not clutter `main` with commits of intermediate steps.
+
+ - Make sure to be in the correct branch `onboarding/<CLIENT_NAME>`. If not, check it out:
+```bash
+git checkout onboarding/<CLIENT_NAME>
+```
+ - Merge `main` into the onboarding branch and solve merge conflicts:
+```bash
+git merge main
+```
+ - Run again `v1-to-v2.ipynb` and all the scripts `generate-v*.py` to make sure nothing broke in the merge.
+   - If something broke, make sure to correct the errors.
+ - Checkout the main branch:
+```bash
+git checkout main
+```
+ - Merge squash `main` with `onboarding/<CLIENT_NAME>`:
+```bash
+git merge --squash onboarding/<CLIENT_NAME>
+```
+ - Edit the commit message as follows:
+```txt
+onboarding: <CLIENT_NAME>
+```
+ - push to remote:
+```bash
+git push
+```
+### Archive onboarding branch
+The old onboarding branch is now stale, and is no longer useful. Instead of deleting it, we archive it for future bookkeeping.
+ - Checkout again `onboarding/<CLIENT_NAME>`:
+```bash
+git checkout onboarding/<CLIENT_NAME>
+```
+Tag the commit pointed by `onboarding/<CLIENT_NAME>`:
+```bash
+git tag archive/onboarding/<CLIENT_NAME>
+```
+Delete the onboarding branch:
+```bash
+git branch -d onboarding/<CLIENT_NAME>
+```
+
 Congratulations! The onboarding procedure is now complete.
 
-# Appendix
-These are details for v2.
 
+# Appendix
+## Details for v2-cleaned.csv
+### Fields
+
+| Field name       | dtype | meaning                            |
+| ---------------- | ----- | ---------------------------------- |
+| `external_id`    | `str` | unique id to easily identify wines |
+| `type`           | `str` | wine type (RED, WHITE etc.)        |
+| `name`           | `str` | name of the wine                   |
+| `winery_name`    | `str` | name of the winery                 |
+| `info`           | `str` | extra information                  |
+| `size`           | `str` | bottle format                      |
+| `vintage`        | `int` | vintage year                       |
+| `price`          | `int` | price in **cents**                 |
+| `purchase_price` | `int` | purchase price in **cents**        |
+| `quantity`       | `int` | number of bottles present          |
+| `storage_area`   | `str` | storage area of the wines          |
+| `internal_notes` | `str` | internal notes for the wine        |
+
+The field names are returned by `utils.VColumns.v2()`.
+
+The possible values of the fields `type` and `size` are retured by `vvalues.Type.get()` and `vvalues.Size.get()` in the `vvalues` module from `utils`:
+
+```python
+from utils import vvalues
+```
+
+
+### Field: `type`
 The `type` field should always be filled. Most onboarding sheets provided by the customers are divided by type.
 This makes it easy to add the type manually.
 
-The possible values for `type` are:
+To obtain the possible values of `type`:
+```python
+possible_types = vvalues.Type.get()
+```
+Which returns:
 ```python
 [
-    "RED",
-    "WHITE",
-    "SPARKLING",
-    "ROSE",
-    "DESSERT"
+  "RED",
+  "WHITE",
+  "SPARKLING",
+  "ROSE",
+  "DESSERT"
 ]
 ```
 
-The `size` field has only some allowed values. The standard mapping is this:
+### Field: `size`
+Like before, the `size` field should always be filled. The usual wine bottle is 0.75 liters.
 
+To obtain the possible values of `size`:
 ```python
-{
-  "HALF_BOTTLE" : 0.375,
-  "HALF_LITER" : 0.5,
-  "BOTTLE" : 0.75,
-  "LITER" : 1,
-  "MAGNUM" : 1.5,
-  "JEROBOAM" : 3,
-  "REHOBOAM" : 4.5,
-  "BORDEAUX_JEROBOAM" : 5,
-  "MATHUSALEM" : 6,      # default 6l
-  "IMPERIAL" : 6,        # alternative name for 6l
-  "SALMANAZAR" : 9,
-  "BALTHAZAR" : 12,
-  "NEBUCHADNEZZAR" : 15,
-  "MELCHIOR" : 18,
-  "SOLOMON" : 20,
-  "SOVEREIGN" : 25,
-  "GOLIATH" : 27,
-  "MELCHIZEDEK" : 30
-}
+possible_sizes = vvalues.Size.get()
 ```
-Where the key is the bottle size in liters.
+Which returns:
+```python
+[
+  "HALF_BOTTLE"
+  "HALF_LITER"
+  "BOTTLE"
+  "LITER"
+  "MAGNUM"
+  "JEROBOAM"
+  "REHOBOAM"
+  "BORDEAUX_JEROBOAM"
+  "MATHUSALEM"
+  "IMPERIAL"
+  "SALMANAZAR"
+  "BALTHAZAR"
+  "NEBUCHADNEZZAR"
+  "MELCHIOR"
+  "SOLOMON"
+  "SOVEREIGN"
+  "GOLIATH"
+  "MELCHIZEDEK"
+]
+```
+To get the mapping from size in liters to size name:
+```python
+size_to_name = vvalues.Size.get_mapping()
+size_to_name_alternative = vvalues.Size.get_mapping_alternative()
+```
+Where in the alternative mapping the 6l bottle is called `IMPERIAL` instead of `MATHUSALEM`.

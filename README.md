@@ -1,62 +1,114 @@
-# Onboarding procedure
+# Getting started: Installation
+The necessary Python modules to make the onboarding work are in `requirements.txt`.
 
-## Pipeline
-The onboarding phase follows this pipeline:
+It is highly recommended to use virtual environments, in order not to pollute your system Python installation.
+To do this, you can use either `venv` or `conda`.
+
+### Create virtual environments with venv
+First, create a local `venv` virtual environment:
+```bash
+python3 -m venv venv
+```
+This will create a folder called `venv` in your working directory.
+
+Note: If `venv` is not installed on your local machine, you can install it using your system package manager.
+
+After you created the virtual environment, you must activate it:
+```bash
+source venv/bin/activate
+```
+
+You can now install the necessary Python modules:
+```bash
+pip install -r requirements.txt
+```
+Note: make sure to run this command within your virtual environment only,
+otherwise the packages will be installed on your system Python installation,
+which is not recommended.
+
+If you wish to exit from the virtual environment, run:
+```bash
+deactivate
+```
+If you wish to delete the virtual environment, just remove the `venv` folder.
+
+### Create virtual environments with conda
+As an alternative, you can use `conda` to manage your virtual environments
+You can check the [docs](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) for how to do it.
+
+
+# Onboarding procedure
+The onboarding is a semi-automatized process, where a matching algorithm tries to match the wines provided by the client with the wines in our database. Some manual data cleaning and checks are necessary.
+
+## Pipeline overview
 ![image](resources/onboarding_pipeline.jpg)
 
-## Intermediate files
 
-### Overview
-This table provides an overview of the purpose and formatting of the documents of each onboarding.
+This table provides an overview of the purpose and formatting of all the intermediate files. More details can be found below.
 
-TODO: write spec for `v3-selection.csv` files.
+| Name                     | Description                                                                |
+| ------------------------ | -------------------------------------------------------------------------- |
+| `v0-original`            | Raw input file from the client. Usually docx or xlsx.                      |
+| `v1-start`               | input file in txt or csv format.                                           |
+| `v2-dropped.csv`         | Wines where formatting is too messy. Will be a tab in `v5-forward.ods`     |
+| `v2-cleaned.csv`         | Input File with formatted headers and content. Used to find matches in DB. |
+| `v3-selection-draft.ods` | Wines matched with the DB, matches must be manually checked.               |
+| `v3-selection.ods`       | Manual check of the matches done.                                          |
+| `v4-matches-draft.ods`   | Wines that were matches wrongly, where ids must be inserted manually.      |
+| `v4-matches.ods`         | Wines with where all the matches manually checked and ids added.           |
+| `v5-insert.csv`          | File formatted for insertion.                                              |
+| `v5-forward.ods`         | Wines where ids were not found, to forward to the client                   |
 
-| Name                           | Description                                                                    | Purpose   |
-| ------------------------------ | ------------------------------------------------------------------------------ | --------- |
-| `v0-original`                  | Raw input file from the client.                                                | input     |
-| `v1-cleaned.csv`               | Input file with formatted headers.                                             | input     |
-| `v2-dropped.csv`               | Input File with formatted headers and content. Used to add wines manually.     | input     |
-| `v2-cleaned.csv`               | Input File with formatted headers and content. Used to find matches in DB.     | input     |
-| `v3-matches-sure.csv`          | Wines matched automatically with the DB. No further check.                     | matches   |
-| `v3-matches.csv`               | Wines matched automatically with the DB. Manual check needed.                  | matches   |
-| `v3-not-found.csv`             | Wines not successfully matched automatically with the DB. Manual check needed. | matches   |
-| `v3-selection.csv`             | Matches manually confirmed to be correct                                       | matches   |
-| `v3-selection-not-found.csv`   | Wines not successfully matched manually.                                       | matches   |
-| `v3-selection+manual.csv`      | Wines matched manually with the DB.                                            | matches   |
-| `v4-insert.csv`                | Wines to be inserted in `user_wines`.                                          | insertion |
-| `v4-insert-duplicates.csv`     | Duplicates of wines in `v4-insert.csv`.                                        | info      |
-| `v4-mismatched.csv`            | Wines in `v3-matches.csv` that were matched wrongly.                           | info      |
-| `v4-mismatched-duplicates.csv` | Wines to be inserted in `user_wines`.                                          | info      |
+## Detailed steps
+### Getting started
+First, switch to the `main` branch and git pull to ensure that you are up to date with the latest changes:
+```bash
+git checkout main
+git pull
+```
 
-## Content description
-This section gives an overview on the formatting standards for headers and contents of the intermediate files.
+Create a dedicated git branch for the onboarding of each client. Execute the following command to create and switch to this branch:
+```bash
+git checkout -b onboarding/<CLIENT_NAME>
+```
 
-### v1
-The file `v1-cleaned.csv` has the same contents as `v0-original`. The difference is in the fields, which must be renamed according to the standard specified in `v2`.
+**IMPORTANT**:
+ - Ensure you commit your changes to the onboarding branch after completing each of the subsequent steps.
+ - Only merge the onboarding branch into `main` once you have finished all the steps.
 
-Missing fields are ignored.
+### v0-original: Beginning of the onboarding
+ - Create the onboarding folder `onboardings/<CLIENT NAME>`.
+ - Put the file provided by the client in the onboarding folder, name it `v0-original` and keep the file extension unchanged.
+ - Commit your changes.
 
-It might be the case that 2 original fields must be joined in order to be mapped to one of the standard fields. In that case, fields get the suffixes `_one`, `_two` etc.
+### v1-start.csv (.txt): true input file
+This file contains the contents of `v0-original`, but converted in a more machine-friendly format.
+
+If `v0-original` is a spreadsheet (`.xlsx`, `.ods` or similar), `v1-start` should be a `.csv` file.
+Otherwise, it should be a `.txt` file.
+
+Some manual cleanup of `v1-start` may be performed if deemed necessary.
 
 
-### v2
+### v2-cleaned.csv
+Create a notebook in the
+
 Contents must be formatted so that these types are respected:
 | Field name       | dtype | meaning                            |
 | ---------------- | ----- | ---------------------------------- |
 | `external_id`    | `str` | unique id to easily identify wines |
+| `type`           | `str` | wine type (RED, WHITE etc.)        |
 | `name`           | `str` | name of the wine                   |
 | `winery_name`    | `str` | name of the winery                 |
-| `type`           | `str` | wine type (RED, WHITE etc.)        |
-| `storage_area`   | `str` | storage area of the wines          |
+| `info`           | `str` | extra information                  |
 | `size`           | `str` | bottle format                      |
 | `vintage`        | `int` | vintage year                       |
 | `price`          | `int` | price in **cents**                 |
-| `purchase_price` | `int` | price in **cents**                 |
-| `info`           | `str` | extra information                  |
+| `purchase_price` | `int` | purchase price in **cents**        |
 | `quantity`       | `int` | number of bottles present          |
+| `storage_area`   | `str` | storage area of the wines          |
 | `internal_notes` | `str` | internal notes for the wine        |
 
-TODO: align order with `resources/v2-columns.json` and `resources/v3-columns.json`
 Important: remove all rows that have a null `name` and/or `winery_name`
 
 
@@ -141,13 +193,12 @@ These files only have these fields:
 In the order exactly specified here and in utils/v4-columns.json
 
 ## Note for older onboardings
-The onbarding procedure was not clearly defined yet for these restaurants:
+The onbarding procedure was different for these restaurants:
  - damichele
  - dolomiti-lodge-alvera
  - laite
  - mondschein
  - pfoesl
  - vinessa
-
-Therefore, the onboarding there does not exactly follow the procedure described above.
-A major difference is that `v3-matches-sure.csv` is not used. Instead, only `v3-matches-check.csv` is, which is therefore called `v3-matches.csv`.
+ - tivoli-cortina
+ - daaurelio

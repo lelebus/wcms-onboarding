@@ -6,6 +6,7 @@ To do this, you can use either `venv` or `conda`.
 
 ### Create virtual environments with venv
 First, create a local `venv` virtual environment:
+
 ```bash
 python3 -m venv venv
 ```
@@ -14,12 +15,14 @@ This will create a folder called `venv` in your working directory.
 *Note*: If `venv` is not installed on your local machine, you can install it using your system package manager.
 
 After you create the virtual environment, you must activate it:
+
 ```bash
 source venv/bin/activate
 ```
 *Note*: when you start a new VScode bash session, the virtual environment is activated automatically
 
 You can now install the necessary Python modules:
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -28,6 +31,7 @@ otherwise the packages will be installed on your system Python installation,
 which is not recommended.
 
 If you wish to exit from the virtual environment, run:
+
 ```bash
 deactivate
 ```
@@ -66,26 +70,31 @@ This table provides an overview of the purpose and formatting of all the interme
 Perform these steps before each new onboarding:
 
  - Switch to the `main` branch and `git pull` to ensure that you are up-to-date with the latest changes:
+ - 
 ```bash
 git checkout main
 git pull
 ```
 
  - Create a dedicated branch for the onboarding of each client. Execute the following command to create and switch to this branch:
+
 ```bash
 git checkout -b onboarding/<CLIENT_NAME>
 ```
 
 **IMPORTANT**:
+
  - Commit your changes to `onboarding/<CLIENT_NAME>` after completing each of the subsequent steps.
  - Only merge `onboarding/<CLIENT_NAME>` into `main` once you have finished all the steps. More details at the end on how to do this in the correct way.
 
 ### v0-original: Beginning of the onboarding
 This is the original file provided by the client.
+
  - Create the onboarding folder `onboardings/<CLIENT NAME>`.
  - Put the file provided by the client in the onboarding folder, name it `v0-original` and keep the file extension unchanged.
  - There might be multiple files from the client. In that case, name them `v0-original-1.&`, `v0-original-2` etc.
  - Commit your changes:
+
 ```bash
 git add onboardings/<CLIENT_NAME>/v0-original*
 git commit -m "v0: start <CLIENT_NAME> onboarding"
@@ -94,6 +103,7 @@ git push --set-upstream origin onboarding/<CLIENT_NAME>
 
 ### v1-start.csv (.txt): true input file
 This file contains the contents of `v0-original`, but in a more machine-friendly format.
+
  - Create `v1-start`:
    - if `v0-original` is a spreadsheet (`.xlsx`, `.ods` etc.), `v1-start` should be a `.csv` file;
    - if `v0-original` is a document (`.docx`, `.odt` etc.), `v1-start` should be a `.txt` file;
@@ -101,6 +111,7 @@ This file contains the contents of `v0-original`, but in a more machine-friendly
  - Copy the contents of `v0-original` in `v1-start`.
  - Perform some manual cleanup of `v1-start` if deemed necessary.
  - Commit your changes
+
 ```bash
 git add onboardings/<CLIENT_NAME>/v1-start*
 git commit -m: "v1: add v1-start"
@@ -123,6 +134,7 @@ This is the file that will be given as input to the matching algorithm, so it mu
  - Perform all the necessary preprocessing in this notebook. The fields that must be present are shown in the appendix.
    - You can use the class `VColumns` in the `utils` module to get the necessary columns.
  - Commit your changes:
+
 ```bash
 git add onboardings/<CLIENT_NAME>/v2-cleaned.csv
 git commit -m: "v2: add v2-cleaned.csv"
@@ -131,29 +143,37 @@ git push
 More details in the Appendix.
 
 **IMPORTANT**:
+
  - No null values should be present. For removing null values, use `fill_empty` from `utils`.
  - If it is not possible to separate `name` and `winery_name`, leave `winery_name` empty and put everything in `name`.
 
 **VERY IMPORTANT!!:**
+
  - `price` and `purchase_price` are in **cents**, **NOT IN EUR!!**
 
 
 ### v3-selection.ods
 This file contains the wines matched by the matching algorithm. Some matches need to be checked manually.
+
  - run the matching script to generate the draft file `v3-selection-draft.ods`
+
 ```bash
 python generate-v3-selection.py <CLIENT_NAME>
 ```
+
  - Commit your changes
+
 ```bash
 git add onboardings/<CLIENT_NAME>/v3-selection-draft.ods
 git commit -m: "v3: add v3-selection-draft.ods"
 git push
 ```
+
  - create a copy of the draft file, and name it `v3-selection.ods`
  - manually review the matches in the sheet `AUTO (select correct)`
    - put a 1 in the field `ok` if the match is correct, otherwise leave it empty or write 0
  - Commit your changes:
+
 ```bash
 git add onboardings/<CLIENT_NAME>/v3-selection.ods
 git commit -m: "v3: add v3-selection.ods"
@@ -162,22 +182,28 @@ git push
 
 ### v4-matching.ods
 This file contains the wines that were marked as not correct in the previous step, as well as the wines that were not matched with any wine in the database.
+
  - Run the script to generate the draft file `v4-matches-draft.ods`
+
 ```bash
 python generate-v4-matches.py <CLIENT_NAME>
 ```
+
 - Commit your changes:
+
 ```bash
 git add onboardings/<CLIENT_NAME>/v4-matches-draft.ods
 git commit -m: "v4: add v4-matches-draft.ods"
 git push
 ```
+
  - Create a copy of the draft file, and name it `v4-matches.ods`.
  - Manually insert `matched_id` in the sheet `Manual (insert id)`:
    - to find the id, search the wine in the admin portal and copy its id;
    - if the wine is not present at all in the database, add it manually. Perform the search again and copy its id.
    - If the wine that needs to be matched is unclear, leave `matched_id` empty.
-- Commit your changes:
+ - Commit your changes:
+
 ```bash
 git add onboardings/<CLIENT_NAME>/v4-matches.ods
 git commit -m: "v4: add v4-matches.ods"
@@ -187,23 +213,29 @@ git push
 
 ### v5-insert.csv and v5-forward.ods
  - Run the script to generate the draft files `v5-insert-draft.csv` and `v5-forward-draft.ods`:
+
 ```bash
 python generate-v5-insert.py <CLIENT_NAME>
 ```
+
 - Commit your changes:
+
 ```bash
 git add onboardings/<CLIENT_NAME>/v5-insert-draft.csv
 git add onboardings/<CLIENT_NAME>/v5-forward-draft.ods
 git commit -m: "v5: add v5-insert-draft.ods and v5-forward-draft.ods"
 ```
+
  - copy the files and remove `"draft"` from their name
    - they should be fine as they are. If not, perform the necessary manual changes
-- Commit your changes:
+ - Commit your changes:
+
 ```bash
 git add onboardings/<CLIENT_NAME>/v5-insert.csv
 git add onboardings/<CLIENT_NAME>/v5-forward.ods
 git commit -m: "v5: add v5-insert.ods and v5-forward.ods"
 ```
+
  - upload `v5-insert.csv` in the onboarding portal
  - send `v5-forward.csv` to the client for clarification
 
@@ -212,47 +244,65 @@ git commit -m: "v5: add v5-insert.ods and v5-forward.ods"
 After you completed all the steps, the onboarding branch is ready to be merged into `main`. We do a squashed merge commit, in order not clutter `main` with commits of intermediate steps.
 
  - Make sure to be in the correct branch `onboarding/<CLIENT_NAME>`. If not, check it out:
+
 ```bash
 git checkout onboarding/<CLIENT_NAME>
 ```
+
  - Merge `main` into the onboarding branch and solve merge conflicts:
+
 ```bash
 git merge main
 ```
+
  - Run again `v1-to-v2.ipynb` and all the scripts `generate-v*.py` to make sure nothing broke in the merge.
    - If something broke, make sure to correct the errors.
  - Checkout the main branch:
+
 ```bash
 git checkout main
 ```
+
  - Merge squash `main` with `onboarding/<CLIENT_NAME>`:
+
 ```bash
 git merge --squash onboarding/<CLIENT_NAME>
 ```
+
  - Edit the commit message as follows:
+
 ```txt
 onboarding: <CLIENT_NAME>
 ```
+
  - push to remote:
+
 ```bash
 git push
 ```
+
 ### Archive onboarding branch
 The old onboarding branch is now stale, and is no longer useful. Instead of deleting it, we archive it for future bookkeeping.
+
  - Checkout again `onboarding/<CLIENT_NAME>`:
+
 ```bash
 git checkout onboarding/<CLIENT_NAME>
 ```
+
 Tag the commit pointed by `onboarding/<CLIENT_NAME>`:
+
 ```bash
 git tag archive/onboarding/<CLIENT_NAME>
 ```
+
 Delete the onboarding branch:
+
 ```bash
 git branch -d onboarding/<CLIENT_NAME>
 ```
 
-Congratulations! The onboarding procedure is now complete.
+**Congratulations! The onboarding procedure is now complete.**
 
 
 # Appendix
@@ -288,10 +338,13 @@ The `type` field should always be filled. Most onboarding sheets provided by the
 This makes it easy to add the type manually.
 
 To obtain the possible values of `type`:
+
 ```python
 possible_types = vvalues.Type.get()
 ```
+
 Which returns:
+
 ```python
 [
   "RED",
@@ -306,10 +359,13 @@ Which returns:
 Like before, the `size` field should always be filled. The usual wine bottle is 0.75 liters.
 
 To obtain the possible values of `size`:
+
 ```python
 possible_sizes = vvalues.Size.get()
 ```
+
 Which returns:
+
 ```python
 [
   "HALF_BOTTLE"
@@ -332,9 +388,12 @@ Which returns:
   "MELCHIZEDEK"
 ]
 ```
+
 To get the mapping from size in liters to size name:
+
 ```python
 size_to_name = vvalues.Size.get_mapping()
 size_to_name_alternative = vvalues.Size.get_mapping_alternative()
 ```
+
 Where in the alternative mapping the 6l bottle is called `IMPERIAL` instead of `MATHUSALEM`.

@@ -1,10 +1,28 @@
-# Installation
+# Vinoteqa Onboarding Process
+
+This repository has been created to smoothly on-board a new user on the Vinoteqa platform, stress free and even when your drunk :)
+
+## Table of contents
+
+- [Getting started](#getting-started)
+- [Pipeline Overview](#pipeline-overview)
+- [Usage](#usage)
+- [Appendix](#appendix)
+- [Support](#support)
+
+## Getting Started
+
+To get you started with onboarding new clients, and get you up to speed with all the necessary tools, follow the steps below:
+
+### Python Modules
+
 The necessary Python modules to make the onboarding work are in `requirements.txt`.
 
 It is highly recommended to use virtual environments, in order not to pollute your system Python installation.
 To do this, you can use either `venv` or `conda`.
 
-### Create virtual environments with venv
+#### Create virtual environments with venv
+
 First, create a local `venv` virtual environment:
 
 ```bash
@@ -38,17 +56,16 @@ deactivate
 
 If you wish to delete the virtual environment, just delete the `venv` folder.
 
-### Create virtual environments with conda
+#### Create virtual environments with conda
+
 As an alternative, you can use `conda` to manage your virtual environments
 You can check the [docs](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) for how to do it.
 
+## Pipeline Overview
 
-# Onboarding procedure
 The onboarding is a semi-automatized process, where a matching algorithm tries to match the wines provided by the client with the wines in our database. Some manual data cleaning and checks are necessary.
 
-## Pipeline overview
 ![image](resources/onboarding_pipeline.jpg)
-
 
 This table provides an overview of the purpose and formatting of all the intermediate files. More details can be found below.
 
@@ -65,18 +82,18 @@ This table provides an overview of the purpose and formatting of all the interme
 | `v5-insert.csv`          | File formatted for insertion.                                              |
 | `v5-forward.ods`         | Wines where ids were not found, to forward to the client                   |
 
-## Detailed steps
-### Getting started
-Perform these steps before each new onboarding:
+## Usage
 
- - Switch to the `main` branch and `git pull` to ensure that you are up-to-date with the latest changes:
- - 
+Make sure to **always** execute the a `git pull` command before each new onboarding:
+
+1. Switch to the `main` branch and `git pull` to ensure that you are up-to-date with the latest changes:
+ 
 ```bash
 git checkout main
 git pull
-```
+  ```
 
- - Create a dedicated branch for the onboarding of each client. Execute the following command to create and switch to this branch:
+2. Create a dedicated branch for the onboarding of **each** client. Execute the following command to create and switch to this branch:
 
 ```bash
 git checkout -b onboarding/<CLIENT_NAME>
@@ -148,7 +165,6 @@ More details in the Appendix.
  - If it is not possible to separate `name` and `winery_name`, leave `winery_name` empty and put everything in `name`.
 
 **VERY IMPORTANT!!:**
-
  - `price` and `purchase_price` are in **cents**, **NOT IN EUR!!**
 
 
@@ -305,9 +321,9 @@ git branch -d onboarding/<CLIENT_NAME>
 **Congratulations! The onboarding procedure is now complete.**
 
 
-# Appendix
-## Details for v2-cleaned.csv
-### Fields
+## Appendix
+### Details for v2-cleaned.csv
+#### Fields
 
 | Field name       | dtype | meaning                            |
 | ---------------- | ----- | ---------------------------------- |
@@ -333,7 +349,7 @@ from utils import vvalues
 ```
 
 
-### Field: `type`
+#### Field: `type`
 The `type` field should always be filled. Most onboarding sheets provided by the customers are divided by type.
 This makes it easy to add the type manually.
 
@@ -355,7 +371,7 @@ Which returns:
 ]
 ```
 
-### Field: `size`
+#### Field: `size`
 Like before, the `size` field should always be filled. The usual wine bottle is 0.75 liters.
 
 To obtain the possible values of `size`:
@@ -397,3 +413,7 @@ size_to_name_alternative = vvalues.Size.get_mapping_alternative()
 ```
 
 Where in the alternative mapping the 6l bottle is called `IMPERIAL` instead of `MATHUSALEM`.
+
+### Support
+
+For support, please contact [vinoteqa@gmail.com](mailto:vinoteqa@gmail.com).

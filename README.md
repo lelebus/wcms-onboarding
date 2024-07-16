@@ -38,7 +38,7 @@ This will create a folder called `venv` in your working directory.
 source venv/bin/activate
 ```
 
-*Note*: when you start a new VScode bash session, the virtual environment is activated automatically
+*Note*: when you start a new VS Code bash session, the virtual environment is activated automatically
 
  - Install the required Python modules:
 
@@ -74,20 +74,20 @@ This table provides an overview of the purpose and formatting of all the interme
 
 | Name                     | Description                                                                |
 | ------------------------ | -------------------------------------------------------------------------- |
-| `v0-original`            | Raw input file from the client. Usually docx or xlsx.                      |
-| `v1-start`               | input file in txt or csv format.                                           |
+| `v0-original`            | Raw input file from the client. Usually DOCX or XLSX.                      |
+| `v1-start`               | input file in TXT or CSV format.                                           |
 | `v2-cleaned.csv`         | Input File with formatted headers and content. Used to find matches in DB. |
 | `v2-dropped.csv`         | Wines where formatting is too messy. Will be a tab in `v5-forward.ods`     |
 | `v3-selection-draft.ods` | Wines matched with the DB, matches must be manually checked.               |
 | `v3-selection.ods`       | Manual check of the matches done.                                          |
-| `v4-matches-draft.ods`   | Wines that were matches wrongly, where ids must be inserted manually.      |
-| `v4-matches.ods`         | Wines with where all the matches manually checked and ids added.           |
+| `v4-matches-draft.ods`   | Wines that were matches wrongly, where IDs must be inserted manually.      |
+| `v4-matches.ods`         | Wines with where all the matches manually checked and IDs added.           |
 | `v5-insert.csv`          | File formatted for insertion.                                              |
-| `v5-forward.ods`         | Wines where ids were not found, to forward to the client                   |
+| `v5-forward.ods`         | Wines where IDs were not found, to forward to the client                   |
 
 ## Usage
 
-Make sure to **always** execute the a `git pull` command before each new onboarding:
+Make sure to **always** execute the `git pull` command before each new onboarding:
 
 1. Switch to the `main` branch and `git pull` to ensure that you are up-to-date with the latest changes:
 
@@ -141,6 +141,7 @@ git push
 
 **IMPORTANT**:
  - It might happen that you need to modify `v1-start` while processing it in the next step. In case this happens, commit the changes as you do them:
+
 ```bash
 git add onboardings/<CLIENT_NAME>/v1-start*
 git commit -m: "v1: cleanup v1-start"
@@ -175,7 +176,7 @@ git push
 ### v3-selection.ods
 This file contains the wines matched by the matching algorithm. Some matches need to be checked manually.
 
- - run the matching script to generate the draft file `v3-selection-draft.ods`
+ - Run the matching script to generate the draft file `v3-selection-draft.ods`
 
 ```bash
 python generate-v3-selection.py <CLIENT_NAME>
@@ -189,9 +190,9 @@ git commit -m: "v3: add v3-selection-draft.ods"
 git push
 ```
 
- - create a copy of the draft file, and name it `v3-selection.ods`
- - manually review the matches in the sheet `AUTO (select correct)`
-   - put a 1 in the field `ok` if the match is correct, otherwise leave it empty or write 0
+ - Create a copy of the draft file, and name it `v3-selection.ods`.
+ - Manually review the matches in the sheet `AUTO (select correct)`:
+   - put a 1 in the field `ok` if the match is correct, otherwise leave it empty or write 0.
  - Commit and push to remote:
 
 ```bash
@@ -219,9 +220,9 @@ git push
 
  - Create a copy of the draft file, and name it `v4-matches.ods`.
  - Manually insert `matched_id` in the sheet `Manual (insert id)`:
-   - to find the id, search the wine in the admin portal and copy its id;
-   - if the wine is not present at all in the database, add it manually. Perform the search again and copy its id.
-   - If the wine that needs to be matched is unclear, leave `matched_id` empty.
+   - to find the ID, search the wine in the admin portal and copy its ID;
+   - if the wine is not present at all in the database, add it manually. Perform the search again and copy its ID;
+   - if the wine that needs to be matched is unclear, leave `matched_id` empty.
  - Commit and push to remote:
 
 ```bash
@@ -246,8 +247,8 @@ git add onboardings/<CLIENT_NAME>/v5-forward-draft.ods
 git commit -m: "v5: add v5-insert-draft.ods and v5-forward-draft.ods"
 ```
 
- - copy the files and remove `"draft"` from their name
-   - they should be fine as they are. If not, perform the necessary manual changes
+ - Copy the files and remove `"draft"` from their name:
+   - they should be fine as they are. If not, perform the necessary manual changes.
  - Commit and push to remote:
 
 ```bash
@@ -256,8 +257,8 @@ git add onboardings/<CLIENT_NAME>/v5-forward.ods
 git commit -m: "v5: add v5-insert.ods and v5-forward.ods"
 ```
 
- - upload `v5-insert.csv` in the onboarding portal
- - send `v5-forward.csv` to the client for clarification
+ - Upload `v5-insert.csv` in the onboarding portal.
+ - Send `v5-forward.csv` to the client for clarification.
 
 
 ### Merging Procedure
@@ -276,7 +277,7 @@ git pull
 ```
 
 **IMPORTANT**:
-  - Do these steps **exactly** in the order specified here, in order to be checked out on `onboarding/<CLIENT_NAME>`
+  - Do these steps **exactly** in the order specified here, in order to be checked out on `onboarding/<CLIENT_NAME>`.
 
 #### Solve merge conflicts
  - Merge `main` into `onboarding/<CLIENT_NAME>` and solve possible merge conflicts:
@@ -285,8 +286,8 @@ git pull
 git merge main
 ```
 
- - Run `v1-to-v2.ipynb` and all the scripts `generate-v*.py` again, to make sure nothing broke in the merge.
-   - If something broke, make sure to correct the errors.
+ - Run `v1-to-v2.ipynb` and all the scripts `generate-v*.py` again, to make sure nothing broke in the merge:
+   - if something broke, make sure to correct the errors.
 
 #### Merge into `main`
 
@@ -308,7 +309,7 @@ git merge --squash onboarding/<CLIENT_NAME>
 onboarding: <CLIENT_NAME>
 ```
 
- - push to remote:
+ - Push to remote:
 
 ```bash
 git push
@@ -323,14 +324,14 @@ The old onboarding branch is now stale, and no longer needs to be used. For futu
 git checkout onboarding/<CLIENT_NAME>
 ```
 
-Tag the commit pointed by `onboarding/<CLIENT_NAME>` and push to remote:
+ - Tag the commit pointed by `onboarding/<CLIENT_NAME>` and push to remote:
 
 ```bash
 git tag archive/onboarding/<CLIENT_NAME>
 git push
 ```
 
-Delete `onboarding/<CLIENT_NAME>`:
+ - Delete `onboarding/<CLIENT_NAME>`:
 
 ```bash
 git branch -d onboarding/<CLIENT_NAME>
@@ -345,7 +346,7 @@ git branch -d onboarding/<CLIENT_NAME>
 
 | Field name       | dtype | meaning                            |
 | ---------------- | ----- | ---------------------------------- |
-| `external_id`    | `str` | unique id to easily identify wines |
+| `external_id`    | `str` | unique ID to easily identify wines |
 | `type`           | `str` | wine type (RED, WHITE etc.)        |
 | `name`           | `str` | name of the wine                   |
 | `winery_name`    | `str` | name of the winery                 |
@@ -360,7 +361,7 @@ git branch -d onboarding/<CLIENT_NAME>
 
 The field names are returned by `utils.VColumns.v2()`.
 
-The possible values of the fields `type` and `size` are retured by `vvalues.Type.get()` and `vvalues.Size.get()` in the `vvalues` module from `utils`:
+The possible values of the fields `type` and `size` are returned by `vvalues.Type.get()` and `vvalues.Size.get()` in the `vvalues` module from `utils`:
 
 ```python
 from utils import vvalues

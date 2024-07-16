@@ -1,6 +1,6 @@
 # Vinoteqa Onboarding Process
 
-This repository has been created to smoothly on-board a new user on the Vinoteqa platform, stress free and even when your drunk :)
+This repository has been created to smoothly on-board a new user on the Vinoteqa platform, stress-free and even when you're drunk :)
 
 ## Table of contents
 
@@ -23,7 +23,7 @@ To do this, you can use either `venv` or `conda`.
 
 #### Create virtual environments with venv
 
-First, create a local `venv` virtual environment:
+ - Create a local `venv` virtual environment:
 
 ```bash
 python3 -m venv venv
@@ -32,29 +32,32 @@ This will create a folder called `venv` in your working directory.
 
 *Note*: If `venv` is not installed on your local machine, you can install it using your system package manager.
 
-After you create the virtual environment, you must activate it:
+ - Activate the virtual environment:
 
 ```bash
 source venv/bin/activate
 ```
+
 *Note*: when you start a new VScode bash session, the virtual environment is activated automatically
 
-You can now install the necessary Python modules:
+ - Install the required Python modules:
 
 ```bash
 pip install -r requirements.txt
 ```
-*Note*: make **absolutely sure** to run this command within your virtual environment only,
+
+**IMPORTANT**:
+ - make **absolutely sure** to run this command within your virtual environment only,
 otherwise the packages will be installed on your system Python installation,
 which is not recommended.
 
-If you wish to exit from the virtual environment, run:
+To exit from the virtual environment, run:
 
 ```bash
 deactivate
 ```
 
-If you wish to delete the virtual environment, just delete the `venv` folder.
+If you wish to *completely* delete the virtual environment, just delete the `venv` folder.
 
 #### Create virtual environments with conda
 
@@ -87,7 +90,7 @@ This table provides an overview of the purpose and formatting of all the interme
 Make sure to **always** execute the a `git pull` command before each new onboarding:
 
 1. Switch to the `main` branch and `git pull` to ensure that you are up-to-date with the latest changes:
- 
+
 ```bash
 git checkout main
 git pull
@@ -102,7 +105,8 @@ git checkout -b onboarding/<CLIENT_NAME>
 **IMPORTANT**:
 
  - Commit your changes to `onboarding/<CLIENT_NAME>` after completing each of the subsequent steps.
- - Only merge `onboarding/<CLIENT_NAME>` into `main` once you have finished all the steps. More details at the end on how to do this in the correct way.
+ - Merge `onboarding/<CLIENT_NAME>` into `main` only **after** you have finished all the steps. Please refer to [Merging Procedure](#merging-procedure) for further details.
+
 
 ### v0-original: Beginning of the onboarding
 This is the original file provided by the client.
@@ -110,7 +114,7 @@ This is the original file provided by the client.
  - Create the onboarding folder `onboardings/<CLIENT NAME>`.
  - Put the file provided by the client in the onboarding folder, name it `v0-original` and keep the file extension unchanged.
  - There might be multiple files from the client. In that case, name them `v0-original-1.&`, `v0-original-2` etc.
- - Commit your changes:
+ - Commit and push to remote:
 
 ```bash
 git add onboardings/<CLIENT_NAME>/v0-original*
@@ -147,17 +151,17 @@ git push
 This is the file that will be given as input to the matching algorithm, so it must have a standard format.
 
  - Create a notebook in the onboarding folder, and name it `v1-to-v2.ipynb`. The final output of this notebook should be `v2-cleaned.csv`.
- - Only a single file `v2-cleaned.csv` must exist.
- - Perform all the necessary preprocessing in this notebook. The fields that must be present are shown in the appendix.
+   - Only a single file `v2-cleaned.csv` must exist.
+ - Perform all the necessary preprocessing in this notebook.
+   - More details about the necessary fields in the [Appendix](#appendix).
    - You can use the class `VColumns` in the `utils` module to get the necessary columns.
- - Commit your changes:
+ - Commit and push to remote:
 
 ```bash
 git add onboardings/<CLIENT_NAME>/v2-cleaned.csv
 git commit -m: "v2: add v2-cleaned.csv"
 git push
 ```
-More details in the Appendix.
 
 **IMPORTANT**:
 
@@ -188,7 +192,7 @@ git push
  - create a copy of the draft file, and name it `v3-selection.ods`
  - manually review the matches in the sheet `AUTO (select correct)`
    - put a 1 in the field `ok` if the match is correct, otherwise leave it empty or write 0
- - Commit your changes:
+ - Commit and push to remote:
 
 ```bash
 git add onboardings/<CLIENT_NAME>/v3-selection.ods
@@ -205,7 +209,7 @@ This file contains the wines that were marked as not correct in the previous ste
 python generate-v4-matches.py <CLIENT_NAME>
 ```
 
-- Commit your changes:
+- Commit and push to remote:
 
 ```bash
 git add onboardings/<CLIENT_NAME>/v4-matches-draft.ods
@@ -218,7 +222,7 @@ git push
    - to find the id, search the wine in the admin portal and copy its id;
    - if the wine is not present at all in the database, add it manually. Perform the search again and copy its id.
    - If the wine that needs to be matched is unclear, leave `matched_id` empty.
- - Commit your changes:
+ - Commit and push to remote:
 
 ```bash
 git add onboardings/<CLIENT_NAME>/v4-matches.ods
@@ -234,7 +238,7 @@ git push
 python generate-v5-insert.py <CLIENT_NAME>
 ```
 
-- Commit your changes:
+- Commit and push to remote:
 
 ```bash
 git add onboardings/<CLIENT_NAME>/v5-insert-draft.csv
@@ -244,7 +248,7 @@ git commit -m: "v5: add v5-insert-draft.ods and v5-forward-draft.ods"
 
  - copy the files and remove `"draft"` from their name
    - they should be fine as they are. If not, perform the necessary manual changes
- - Commit your changes:
+ - Commit and push to remote:
 
 ```bash
 git add onboardings/<CLIENT_NAME>/v5-insert.csv
@@ -256,24 +260,37 @@ git commit -m: "v5: add v5-insert.ods and v5-forward.ods"
  - send `v5-forward.csv` to the client for clarification
 
 
-### Merge into `main`
+### Merging Procedure
 After you completed all the steps, the onboarding branch is ready to be merged into `main`. We do a squashed merge commit, in order not clutter `main` with commits of intermediate steps.
 
- - Make sure to be in the correct branch `onboarding/<CLIENT_NAME>`. If not, check it out:
+#### Get up-to-date with remote
+ - Make sure to be up-to-date with all changes on both `main` and `onboarding/<CLIENT_NAME>`:
+   1. checkout `main` and git pull;
+   2. do the same for `onboarding/<CLIENT_NAME>`:
 
 ```bash
+git checkout main
+git pull
 git checkout onboarding/<CLIENT_NAME>
+git pull
 ```
 
- - Merge `main` into the onboarding branch and solve merge conflicts:
+**IMPORTANT**:
+  - Do these steps **exactly** in the order specified here, in order to be checked out on `onboarding/<CLIENT_NAME>`
+
+#### Solve merge conflicts
+ - Merge `main` into `onboarding/<CLIENT_NAME>` and solve possible merge conflicts:
 
 ```bash
 git merge main
 ```
 
- - Run again `v1-to-v2.ipynb` and all the scripts `generate-v*.py` to make sure nothing broke in the merge.
+ - Run `v1-to-v2.ipynb` and all the scripts `generate-v*.py` again, to make sure nothing broke in the merge.
    - If something broke, make sure to correct the errors.
- - Checkout the main branch:
+
+#### Merge into `main`
+
+ - Checkout to `main`:
 
 ```bash
 git checkout main
@@ -297,22 +314,23 @@ onboarding: <CLIENT_NAME>
 git push
 ```
 
-### Archive onboarding branch
-The old onboarding branch is now stale, and is no longer useful. Instead of deleting it, we archive it for future bookkeeping.
+#### Archive onboarding branch
+The old onboarding branch is now stale, and no longer needs to be used. For future bookkeeping, we archive it instead of deleting it.
 
- - Checkout again `onboarding/<CLIENT_NAME>`:
+ - Checkout again to `onboarding/<CLIENT_NAME>`:
 
 ```bash
 git checkout onboarding/<CLIENT_NAME>
 ```
 
-Tag the commit pointed by `onboarding/<CLIENT_NAME>`:
+Tag the commit pointed by `onboarding/<CLIENT_NAME>` and push to remote:
 
 ```bash
 git tag archive/onboarding/<CLIENT_NAME>
+git push
 ```
 
-Delete the onboarding branch:
+Delete `onboarding/<CLIENT_NAME>`:
 
 ```bash
 git branch -d onboarding/<CLIENT_NAME>

@@ -20,6 +20,7 @@ def fill_empty(df, columns):
                 default_values[VColumns.all_columns(get_types=True)[column]],
                 inplace=True,
             )
+            df[column] = df[column].astype(VColumns.all_columns(get_types=True)[column])
         except KeyError:
             pass
     return df[columns]

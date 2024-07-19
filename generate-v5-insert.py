@@ -17,13 +17,11 @@ def main(root):
     print("Root:", root)
     print("File:", V4_MATCHES_FILENAME)
 
-    df_auto = pd.read_excel(
-        os.path.join(root, V4_MATCHES_FILENAME), sheet_name="Auto (DO NOT TOUCH)"
-    )
-    df_manual_all = pd.read_excel(
-        os.path.join(root, V4_MATCHES_FILENAME), sheet_name="Manual (insert ids)"
-    )
+    df_auto = pd.read_excel(os.path.join(root, V4_MATCHES_FILENAME), sheet_name=0)
+    df_manual_all = pd.read_excel(os.path.join(root, V4_MATCHES_FILENAME), sheet_name=1)
+
     df_manual_mask = df_manual_all["ok"].apply(lambda x: x in (1, True, "1", "True"))
+
     df_manual = df_manual_all.loc[df_manual_mask].copy()
     df_forward = df_manual_all.loc[~df_manual_mask].copy()
 

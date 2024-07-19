@@ -328,13 +328,21 @@ git checkout onboarding/<CLIENT_NAME>
 
 ```bash
 git tag archive/onboarding/<CLIENT_NAME>
-git push
+git checkout archive/onboarding/<CLIENT_NAME>
+git push origin tag archive/onboarding/<CLIENT_NAME>
 ```
 
- - Delete `onboarding/<CLIENT_NAME>`:
+ - Delete `onboarding/<CLIENT_NAME>` locally and on remote:
 
 ```bash
 git branch -d onboarding/<CLIENT_NAME>
+git push origin -d onboarding/<CLIENT_NAME>
+```
+
+ - Checkout `main`:
+
+```bash
+git checkout main
 ```
 
 **Congratulations! The onboarding procedure is now complete.**

@@ -135,7 +135,7 @@ This file contains the contents of `v0-original`, but in a more machine-friendly
 
 ```bash
 git add onboardings/<CLIENT_NAME>/v1-start*
-git commit -m: "v1: add v1-start"
+git commit -m "v1: add v1-start"
 git push
 ```
 
@@ -144,7 +144,7 @@ git push
 
 ```bash
 git add onboardings/<CLIENT_NAME>/v1-start*
-git commit -m: "v1: cleanup v1-start"
+git commit -m "v1: cleanup v1-start"
 git push
 ```
 
@@ -160,7 +160,7 @@ This is the file that will be given as input to the matching algorithm, so it mu
 
 ```bash
 git add onboardings/<CLIENT_NAME>/v2-cleaned.csv
-git commit -m: "v2: add v2-cleaned.csv"
+git commit -m "v2: add v2-cleaned.csv"
 git push
 ```
 
@@ -186,7 +186,7 @@ python generate-v3-selection.py <CLIENT_NAME>
 
 ```bash
 git add onboardings/<CLIENT_NAME>/v3-selection-draft.ods
-git commit -m: "v3: add v3-selection-draft.ods"
+git commit -m "v3: add v3-selection-draft.ods"
 git push
 ```
 
@@ -197,7 +197,7 @@ git push
 
 ```bash
 git add onboardings/<CLIENT_NAME>/v3-selection.ods
-git commit -m: "v3: add v3-selection.ods"
+git commit -m "v3: add v3-selection.ods"
 git push
 ```
 
@@ -214,7 +214,7 @@ python generate-v4-matches.py <CLIENT_NAME>
 
 ```bash
 git add onboardings/<CLIENT_NAME>/v4-matches-draft.ods
-git commit -m: "v4: add v4-matches-draft.ods"
+git commit -m "v4: add v4-matches-draft.ods"
 git push
 ```
 
@@ -227,7 +227,7 @@ git push
 
 ```bash
 git add onboardings/<CLIENT_NAME>/v4-matches.ods
-git commit -m: "v4: add v4-matches.ods"
+git commit -m "v4: add v4-matches.ods"
 git push
 ```
 
@@ -244,7 +244,7 @@ python generate-v5-insert.py <CLIENT_NAME>
 ```bash
 git add onboardings/<CLIENT_NAME>/v5-insert-draft.csv
 git add onboardings/<CLIENT_NAME>/v5-forward-draft.ods
-git commit -m: "v5: add v5-insert-draft.ods and v5-forward-draft.ods"
+git commit -m "v5: add v5-insert-draft.ods and v5-forward-draft.ods"
 ```
 
  - Copy the files and remove `"draft"` from their name:
@@ -254,7 +254,7 @@ git commit -m: "v5: add v5-insert-draft.ods and v5-forward-draft.ods"
 ```bash
 git add onboardings/<CLIENT_NAME>/v5-insert.csv
 git add onboardings/<CLIENT_NAME>/v5-forward.ods
-git commit -m: "v5: add v5-insert.ods and v5-forward.ods"
+git commit -m "v5: add v5-insert.ods and v5-forward.ods"
 ```
 
  - Upload `v5-insert.csv` in the onboarding portal.

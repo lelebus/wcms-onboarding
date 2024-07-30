@@ -192,7 +192,8 @@ git push
 
  - Create a copy of the draft file, and name it `v3-selection.ods`.
  - Manually review the matches in the sheet `AUTO (select correct)`:
-   - put a 1 in the field `ok` if the match is correct, otherwise leave it empty or write 0.
+   - put `1` in the field `ok` if the match is correct, otherwise leave it empty or write `0`.
+     - Suggestion: add conditional formatting such that the rows with `ok` equals to `1` become green.
  - Commit and push to remote:
 
 ```bash
@@ -223,6 +224,7 @@ git push
    - to find the ID, search the wine in the admin portal and copy its ID;
    - if the wine is not present at all in the database, add it manually. Perform the search again and copy its ID;
    - if the wine that needs to be matched is unclear, leave `matched_id` empty.
+     - Suggestion: add conditional formatting such that the rows with `ok` equals to `1` become green.
  - Commit and push to remote:
 
 ```bash

@@ -227,7 +227,7 @@ git push
      - Suggestion: add conditional formatting such that the rows with `ok` equals to `1` become green.
  - Commit and push to remote:
 
-```bash
+```bash<z
 git add onboardings/<CLIENT_NAME>/v4-matches.ods
 git commit -m "v4: add v4-matches.ods"
 git push
@@ -337,8 +337,8 @@ git push origin tag archive/onboarding/<CLIENT_NAME>
  - Delete `onboarding/<CLIENT_NAME>` locally and on remote:
 
 ```bash
-git branch -d onboarding/<CLIENT_NAME>
 git push origin -d onboarding/<CLIENT_NAME>
+git branch -d onboarding/<CLIENT_NAME>
 ```
 
  - Checkout `main`:

@@ -193,7 +193,7 @@ git push
  - Create a copy of the draft file, and name it `v3-selection.ods`.
  - Manually review the matches in the sheet `AUTO (select correct)`:
    - put `1` in the field `ok` if the match is correct, otherwise leave it empty or write `0`.
-     - Suggestion: add conditional formatting such that the rows with `ok` equals to `1` become green.
+     - **Suggestion**: add conditional formatting such that the rows with `ok` equals to `1` become green. See section [Conditional Formatting](#conditional-formatting) in the Appendix for how to do it.
  - Commit and push to remote:
 
 ```bash
@@ -224,7 +224,7 @@ git push
    - to find the ID, search the wine in the admin portal and copy its ID;
    - if the wine is not present at all in the database, add it manually. Perform the search again and copy its ID;
    - if the wine that needs to be matched is unclear, leave `matched_id` empty.
-     - Suggestion: add conditional formatting such that the rows with `ok` equals to `1` become green.
+     - **Suggestion**: add conditional formatting such that the rows with `ok` equals to `1` become green. See section [Conditional Formatting](#conditional-formatting) in the Appendix for how to do it.
  - Commit and push to remote:
 
 ```bash<z
@@ -442,6 +442,56 @@ size_to_name_alternative = vvalues.Size.get_mapping_alternative()
 ```
 
 Where in the alternative mapping the 6l bottle is called `IMPERIAL` instead of `MATHUSALEM`.
+
+
+### Conditional Formatting
+In order to facilitate the manual check and insertion of `matched_id` in `v3-selection.ods` and `v4-matching.ods`, applying conditional formatting to the rows of the spreadsheets is strongly advised.
+
+The suggestion is to mark the rows that were checked out as **green**.
+
+#### Google Sheets
+Upload the ods file to Google Sheets and open it with Google Sheets. After you have opened the file:
+ - **Select** all the cells with `Ctrl+A`.
+ - On the upper menubar, click on `Format`.
+ - Click on `Conditional formatting`.
+ - In the resulting lateral menubar:
+   - Make sure you are on the `Single Color` submenu;
+   - Make sure that `Apply to Range` is set to `A1:R___`, where `___` is the number of rows in the file;
+   - In `Format cells if...` select `Custom formula is`;
+   - In `Value Formula` write `=$A1=1`;
+   - In `Formatting Style` select the default **green** style;
+     - If no such style is present, create one with a light green background;
+   - Click on `Done` and close the submenu.
+
+#### Excel
+Open the file with Excel. If prompted to repair the file, do it.
+ - **Select** all the cells with `Ctrl+A`.
+ - Click on `Conditional Formatting`. You can find it in `Home/Styles`.
+ - Click on `New Rule`.
+ - In the resulting lateral menubar:
+   - Make sure that `Apply to` is set to `A1:R___`, where `___` is the number of rows in the file;
+   - Click on `Format cells where a formula is true`;
+   - In `Input a formula` write `=$A1=1`;
+   - In `Format Style` select the default **green** style;
+     - If no such style is present, create one with a light green background;
+   - Click on `Done` and close the submenu.
+
+#### LibreOffice Calc
+Open the file with LibreOffice Calc.
+ - **Select** all the cells with `Ctrl+A`.
+ - On the upper menubar, click on `Format`.
+ - Hover on `Conditional` and click on `Condition...`.
+ - In the resulting pop-up window:
+   - Make sure that `Range` is set to `A1:R___`, where `___` is the number of rows in the file;
+   - In `Condition 1` select `Formula is`;
+   - In the formula field write `=$A1=1`;
+   - In `Apply Style` select `Good`;
+     - If no such style is present, create one with a light green background;
+   - Click on `OK`.
+
+**Note**: this may change in different versions of LibreOffice, so your mileage might vary.
+
+
 
 ### Support
 

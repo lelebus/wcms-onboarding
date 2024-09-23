@@ -16,6 +16,14 @@ This repository has been created to smoothly on-board a new user on the Vinoteqa
 
 To get you started with onboarding new clients, and get you up to speed with all the necessary tools, follow the steps below:
 
+### Environment file
+
+Copy the environment file and fill out the necessary variables.
+
+```
+cp .env.example .env
+```
+
 ### Python Modules
 
 The necessary Python modules to make the onboarding work are in `requirements.txt`.
@@ -157,7 +165,7 @@ git push
 This is the file that will be given as input to the matching algorithm, so it must have a standard format.
 
 1. Create a notebook in the onboarding folder, and name it `v1-to-v2.ipynb`. The final output of this notebook should be `v2-cleaned.csv`.
-  - For faster development, use the the template file in the `/resources` folder.
+  - For faster development, copy the the template file [resources/v1-to-v2.ipynb](resources/v1-to-v2.ipynb)
 
 2. Perform all the necessary preprocessing in this notebook.
    - More details about the necessary fields in the [Appendix](#appendix).

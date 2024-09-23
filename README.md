@@ -127,6 +127,8 @@ git push --set-upstream origin onboarding/<CLIENT_NAME>
 ### v1-start.csv (.txt): true input file
 This file contains the contents of `v0-original`, but in a more machine-friendly format.
 
+This step is also where we manually split wines with different vintages on the same line, into multiple lines, and where we delete empty lines.
+
  - Create `v1-start`:
    - if `v0-original` is a spreadsheet (`.xlsx`, `.ods` etc.), `v1-start` should be a `.csv` file;
    - if `v0-original` is a document (`.docx`, `.odt` etc.), `v1-start` should be a `.txt` file;
@@ -142,6 +144,7 @@ git push
 ```
 
 **IMPORTANT**:
+ - Name columns for sales and purchase price `eur_sales_price` and `eur_purchase_price` to avoid errors down the pipeline.
  - It might happen that you need to modify `v1-start` while processing it in the next step. In case this happens, commit the changes as you do them:
 
 ```bash
@@ -153,12 +156,14 @@ git push
 ### v2-cleaned.csv
 This is the file that will be given as input to the matching algorithm, so it must have a standard format.
 
- - Create a notebook in the onboarding folder, and name it `v1-to-v2.ipynb`. The final output of this notebook should be `v2-cleaned.csv`.
-   - Only a single file `v2-cleaned.csv` must exist.
- - Perform all the necessary preprocessing in this notebook.
+1. Create a notebook in the onboarding folder, and name it `v1-to-v2.ipynb`. The final output of this notebook should be `v2-cleaned.csv`.
+  - For faster development, use the the template file in the `/resources` folder.
+
+2. Perform all the necessary preprocessing in this notebook.
    - More details about the necessary fields in the [Appendix](#appendix).
    - You can use the class `VColumns` in the `utils` module to get the necessary columns.
- - Commit and push to remote:
+
+3. Commit and push to remote:
 
 ```bash
 git add onboardings/<CLIENT_NAME>/v2-cleaned.csv
@@ -168,6 +173,7 @@ git push
 
 **IMPORTANT**:
 
+ - At the end of this step only a single file `v2-cleaned.csv` must exist.
  - No null values should be present. For removing null values, use `fill_empty` from `utils`.
  - If it is not possible to separate `name` and `winery_name`, leave `winery_name` empty and put everything in `name`.
 

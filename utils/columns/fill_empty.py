@@ -23,7 +23,12 @@ def fill_empty(df, columns):
             df[column] = df[column].astype(VColumns.all_columns(get_types=True)[column])
         except KeyError:
             pass
-    return df[columns]
+
+
+    # Suggestion: do not remove preexisting columns that are not in the list of columns to fill
+    return df
+
+    # return df[columns]
 
 
 # TODO: Explain clearly the purpose of this function and rename it accordingly

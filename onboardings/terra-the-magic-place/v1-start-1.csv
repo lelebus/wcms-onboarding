@@ -1,0 +1,733 @@
+"storage_area","type","size","name","information","dosage",,"winery_name","vintage","purchase_price","quantity","other_vintages","visible","unclear","sales_price","glass_price","internal_notes"
+4,,,"RED MOON",,,,,,,5,,1,,,,
+5,,,"Cuvée Marianna ",,"Extra Brut","80%chardonnay, 20%pinot noir","Arunda Vivaldi",,22.5,3,,1,,73,12,
+6,,,"Arunda Riserva Millesimato",,"Extra Brut","60%chardonnay, 40%pinot noir","Arunda Vivaldi",2016,25,2,"2017-1",1,,81,13,
+7,,,"Arunda Rosé ",,"Brut","50%pinot blanc, 50%pinot noir","Arunda Vivaldi",,20.5,,,1,,67,11,
+8,,,"Comitissa Riserva",,"Pas Dosé","35%chardonnay, 50%pinot blanc, 15%pinot noir","Lorenz Martini",2018,22.5,2,"2019-2",1,,73,12,
+9,,,"Haderburg ",,"Brut","85%chardonnay, 15%pinot noir","L. Ochsenreiter",,18.1,3,,1,,60,10,
+10,,,"Haderburg Pas Dosé",,"Pas Dosé","85%chardonnay,15% pinot noir","L. Ochsenreiter",2019,24.5,3,,1,,79,13,
+11,,,"Arunda Parlein ","BIO","Brut","chardonnay","Arunda Vivaldi",,21.5,,,1,,70,11,
+12,,,"Haderburg Riserva Hausmannhof",,"Brut","chardonnay","L. Ochsenreiter",2013,42,1,"2009-2 ",1,,116,19,
+13,,,"Praeclarus Cuvée St. Pauls ",,"Brut","chardonnay","St. Pauls",,16.5,3,,1,,56,9,
+14,,,"Athesis ",,"Brut","chardonnay, pinot blanc, pinot nero","Kettmeir",2019,18.5,1,"2020-2 ",1,,62,10,
+15,,,"Blanc de Rouge ",,"Extra Dry","vernatsch","Hartmann Donà",,15.75,3,,1,,56,9,
+16,,,"Kettmeir ",,"Pas Dosé","chardonnay","Kettmeir",,22.65,5,,1,,74,12,
+17,,,"1919 Riserva",,"Extra Brut","chardonnay, pinot noir","Kettmeir",2017,30.2,6,,1,,83,13,
+23,,,"Ferrari Perlé",,"Brut","chardonnay","Cantine Ferrari",2017,28.5,1,"2016-1  2018-1",1,,87,14,
+24,,,"Dorigati Methius Riserva",,"Brut","60%chardonnay, 40%pinot noir","Dorigati",2018,29.3,3,,1,,81,13,
+25,,,"Giulio Ferrari Riserva del  Fondatore ",,"Extra Brut","chardonnay","Cantine Ferrari",2010,135,3,,1,,270,45,
+26,,,"Ferrari Perlé Zero",,"Brut nature","chardonnay","Cantine Ferrari",2010,49.9,2,"2014-1",1,,110,18,
+27,,,"Giulio Ferrari Rosé Riserva ",,"Extra Brut","pinot noir, chardonnay ",,2008,179,1,,1,,380,63,
+28,,,"Art",,"Brut","chardonnay",,,15.1,7,,1,,56,9,
+30,,,"Franciacorta Bellavista Alma Grande Cuvée",,"Brut","79%chardonnay, 20%pinot noir, 1%pinot blanc","Bellavista",,26.5,3,,1,,85,14,
+31,,,"Bellavista Rose Grand Cuvee ",,"Pas Dosé","65%chardonnay,35% pinot noir","Bellavista",,38,2,"2016-1",1,,105,17,"43% in Holz, mind. 5 JahreReifung im Keller"
+32,,,"Bellavista Vittorio Moretti ",,"Extra Brut","50%chardonnay, 50%pinot noir","Bellavista",2013,89.9,1,"2016-1 ",1,,198,32,
+34,,,"Blanc de Blanc",,"Brut","chartonnay","Casa Caterina",,24.9,3,,1,,81,,
+36,,,"Bellavista Gran Cuvee Satèn",,"Brut","chardonnay","Bellavista",2017,39,1,"2018-1",1,,107,17,
+39,,,"Buvoli Tre Extra Brut",,"Extra Brut","pinot noir","Buvoli",,18.9,4,,1,,63,10,
+40,,,"Bisol Crede Prosecco DOCG",,"Brut","prosecco","Bisol",,10.9,1,,1,,43,7,
+41,,,"Prosecco di Conegliano ",,"Extra Dry","prosecco","Cà del Ru",,7.8,,,1,,32,5,
+43,,,"Blanc de Blanc 2012",,"Brut","chardonnay","Hoffmann & Rathbone",2012,42.9,14,,1,,118,19,
+44,,,"Classic Curée",,"Brut","Pinot noir, chardonnay, meunier","Hoffmann & Rathbone",2014,38.8,3,,1,,107,17,
+45,,,"Rosé Reserve",,"Brut",,"Hoffmann & Rathbone",2012,44.7,10,,1,,123,20,
+47,,,"Fleury Fleur de l'Europe Nature","BIO","Brut nature","85% pinot noir, 15% Chardonny","Fleury",,42,5,,1,,116,19,
+49,,,"Dom Perignon Rosé ",,"Brut",,"Moet & Chandon",2000,289.4,2,,1,,570,95,
+50,,,"Bollinger Special Cuvée",,"Brut","pinot noir, chardonnay, pinot meunier","Bollinger ",,59.5,3,,1,,131,21,"Bollinger hat mindestens 3 Jahre Kellerreife."
+51,,,"Ruinart Brut",,"But","40%chardonnay, 50-55%pinot noir, 5-10%pinot meunier","Ruinart",,55.5,3,,1,,122,20,"Handlese, BSA"
+52,,,"Ruinart Brut Rosé",,"Brut","45%chardonnay, 55%pinot noir","Ruinart",,85,3,,1,,187,31,"Handlese, BSA"
+53,,,"Louis Roederer Brut Premier",,"Brut","40%pinot noir, 40%chardonnay, 20%pnot meunier","Luis Roederer",,54.5,3,,1,,120,19,"Weine im Eichenfass gereift, mind. 3 Jahre im Keller, mind. 6 Monate nach dem Degorgement"
+54,,,"Louis Roederer  Cristal",,"Brut","60%pinot noir, 40%chardonnay","Luis Roederer",2015,255,3,,1,,490,81,"6 Jahre im Keller, mind. 8 Monate in der Flasche nach dem Degorgement"
+55,,,"Benoit Lahaye Blanc des Noirs","BIO","Extra Brut","pinot noir","Benoit Lahaye",,47,2,,1,,103,17,
+56,,,"Benoit Lahaye GC Nature ","BIO","Brut nature","90%pinot noir, 10% chardonnay","Benoit Lahaye",,47,5,,1,,110,18,
+57,,,"Benoit Lahaye Nature Grand Violaine","BIO","Brut nature","50%pinot noir, 50%chardonnay","Benoit Lahaye",2018,79,2,,1,,174,28,
+58,,,"Lacourte-Godbillon ""Terroirs d'Eceuil""  1er Cru",,"Extra Brut","85% Pinot Noir, 15% Chardonnay. Vendange 2018, 35% vins de réserve","Lacourte-Godbillon",,39,3,,1,,107,,
+59,,,"Benoit Lahaye ""Le Jardin de la Grosse Pierre""","BIO","Brut nature","Pinot Noir, Pinot Meunier, Pinot Blanc, Chardonnay, 
+Arbanne, Petit Meslier, altri","Benoit Lahaye",2018,84,1,,1,,185,30,
+60,,,"Dom Perignon",,"Brut","chardonnay, pinot noir","Moet & Chandon",2012,249.9,2,,1,,490,81,
+61,,,"Billecart-Salmon Brut Réserve",,"Brut","pinot noir, chardonnay, pinot meunier","Billecart-Salmon",,45,2,,1,,124,20,
+62,,,"Billecart-Salmon Rosé",,"Brut","chardonnay, pinot meunier, pinot noir","Billecart-Salmon",,72,3,,1,,158,26,
+63,,,"Bruno Paillard Blanc de Blancs Réserve Cuvée Grand Cru",,"Extra Brut","chardonnay","Bruno Paillard",,73.9,2,,1,,163,27,"4 Jahre auf der Hefe"
+64,,,"""Latitude"" ","BIO","Extra Brut","chardonnay","Larmandier-Bernier",,48,6,,1,,121,20,
+65,,,"""Longitude"" 1er Cru","BIO","Extra Brut","chardonnay","Larmandier-Bernier",,65,7,,1,,143,23,
+66,,,"""Terre de Vertus"" 1er Cru ","BIO","Pas Dosé","chardonnay","Larmandier-Bernier",2016,79,4,,1,,174,28,
+68,,,"""Les Chemins d'Avize"" Blanc de blancs Grand Cru","BIO","Extra Brut","chardonnay","Larmandier-Bernier",2014,105,3,,1,,231,38,
+69,,,"Rosé de Saignée 1er Cru Extra Brut","BIO","Brut","pinot noir, pinot gris","Larmandier-Bernier",,75.2,4,,1,,165,27,
+70,,,"Blanc de Blancs",,"Brut","chardonnay","Diebolt-Vallois",,35.2,1,,1,,97,16,
+72,,,"Tarlant Zero Brut Nature",,"Brut nature","chardonnay, pinot noir, pinot meunier","Tarlant ",,39.8,5,,1,,109,18,
+74,,,"Bam! Blanc de blancs Brut nature",,"Brut nature","pinot Blanc (18%), Arbanne (18%) e petit Meslier (64%)","tarlant ",,120,4,,1,,264,44,
+75,,,"Rosé Cuvée de Reserve",,"Brut","20%pinot noir, 80%pinot meunier","Alain Couvreur",,26.5,5,,1,,85,14,
+76,,,"Royal Reserve Brut",,,"65%pinot noir, 30%chardonnay, 5%pinot meunier","Philipponat",,42,3,,1,,116,19,"teilweise BSA, Holzausbau, 3 Jahre in der Flasche auf der Hefe"
+77,,,"Purity",,"Brut nature","meunier","F. Moreau",,41.8,2,,1,,115,19,
+80,,,"Laurent Perrier Brut ",,,"45%chardonnay,40% pinot noir, 15%pinot meunier",,,41,3,,1,,113,18,"10-20% ReserveWeine, 3 Jahre Reifung"
+81,,,"Laurent Perrier Ultra Brut",,,"55% Chardonnay, 45% pinot noir",,,52.5,3,,1,,116,19,
+82,,,"Laurent Perrier Millesimé",,,"50%chardonnay, 50%pinot noir",,2008,62.9,1,"2012-2",1,,138,23,
+85,,"PICCOLO","Arunda Brut",,,"50%chardonnay, 30%pinot blanc, 20%pinot noir","Arunda Vivaldi",,8.1,6,,1,,33,5,
+86,,"PICCOLO","Ruinart Brut ",,,"40%chardonnay, 50-55%pinot noir, 5-10%pinot meunier","Ruinart",,33.9,3,,1,,93,15,
+89,,"MAGNUM","Ruinart Brut",,,,,,129,0,"nicht gelistet",0,,275,,
+90,,"MAGNUM","""Longitude"" Blanc de blancs 1er Cru","BIO",,"chardonnay","Larmandier-Bernier",,82.72,0,,1,,230,38,
+91,,"MAGNUM","Cuvée Marianne",,,,,,41,1,,1,,113,18,
+93,,"MAGNUM","cuvée marianne",,,"80%chardonnay, 20%pinot noir",,,42,1,,1,,123,20,
+94,,"MAGNUM","MADEIRA",,,,,,33.5,2,,1,,92,15,
+100,"WHITE",,"Weissburgunder Platt& Riegl",,,,"Kellerei Girlan",2021,9.7,1,"2023-2 ",1,,39,6,
+101,"WHITE",,"Weissburgunder Schulthauser",,,,"Kellerei St. Michael Eppan",2021,9.8,1,"2022-1 2023-1 ",1,,39,6,
+102,"WHITE",,"Weissburgunder Praesulis",,,,"Gumphof",2022,14.3,3,,1,,49,8,
+103,"WHITE",,"Weissburgunder Longorei",,,,"Pfitscher",2022,9.6,3,,1,,38,6,
+104,"WHITE",,"Weissburgunder Barthenau ",,,,"Hofstätter",2020,21.7,3,,1,,71,11,
+105,"WHITE",,"Vinschgau Weissburgunder",,,,"Castel Juval",2021,11.7,5,,1,,45,7,
+107,"WHITE",,"Weissburgunder Kristallberg",,,,"Elena Walch",2022,17.3,3,,1,,58,9,"350m.ü.M, 1/3 in franz. EichenBarriques vergoren und dann Reifung für 5 Monate. Cuvee im Frühling"
+108,"WHITE",,"Weißburgunder Klaser  Riserva Salamander",,,,"Niklaserhof",2020,14.3,1,,1,,49,8,"550.m.ü.M, Gärung in 500 l Eichenholzfässern bleibt dort für 12 Monate auf der Feinhefe und danach weitere 6 Monate auf der Feinhefe im Stahltank"
+109,"WHITE",,"Weissburgunder Strahler",,,,"Stroblhof",2022,12.5,3,,1,,48,7,"400-500m.ü.M, Traubengemisch (2012 z.B. mit 4 % Pinot Grigio und Chardonnay), Gärung; 22 Tage im Edelstahltank & Eichenfässern, ohne BSA, Ausbau; 6 Monate 50% in Eichenhlzfässern auf der Hefe, 50% Edelstahlbehälter"
+110,"WHITE",,"Weissburgunder Riserva Renaissance",,,,"Gumphof",2019,26.5,0,"nicht gelistet",0,,85,14,
+111,"WHITE",,"Weißburgunder Riserva Helios",,,,"Kränzel",2020,26.5,2,,1,,85,14,
+112,"WHITE",,"Weissburgunder Alte Reben",,,,"K. Martini & Sohn",2019,25,1,"2021-2",1,,81,13,"250m.ü.M, 4 h Maischestandzeit, Gärung; im grossen Holzfass, Ausbau; 5 Monate auf der Feinhefe im Stahltank"
+114,"WHITE",,"Weissburgunder Vom Muschelkalk",,,,"Weingut Abraham",2022,18.9,3,,1,,63,10,
+117,"WHITE",,"Weissburgunder Plötzner",,,,"St. Pauls",2022,7,11,,1,,31,5,"500-700m.ü.M, Gärung; grossem Holzfass, Ausbau; 5-7 Monate auf der Feinhefe mit teilweise BSA"
+119,"WHITE",,"Weissburgunder Prunar ",,,,"Erste & Neue ",2015,7.2,2,"2012-1",1,,30,5,"500m.ü.M. Gärung; grossen Holzfass & Edelstahltank, anschliessende Lagerung auf der Feinhefe"
+121,"WHITE",,"Weissburgunder Riserva Vorberg ",,,,"Kellerei Terlan",2021,21.4,2,,1,,70,11,"600-950m.ü.M. Handlese, Gärung; grossen Eichenfass, Ausbau; BSA und Reife für 12 Monate auf der Feinhefe im traditionellen Holzfass"
+122,"WHITE",,"Weissburgunder Sirmian",,,,"Nals Margreid",2021,17,3,,1,,57,9,"Ausbau"
+123,"WHITE",,"Weissburgunder St. Valentin ",,,,"St. Michael Eppan",2020,19.1,1,"2021-2",1,,63,10,"450-600m.ü.M. Handlese, Gärung; BSA und Ausbau von 50% auf der Hefe in BarriquesTonneau. Rest in grossen Eichenholzfässern.  Nach 1 Jahr Assemblage, danach 6 Monate im Stahltank"
+126,"WHITE",,"Terlaner Weissburgunder De Silva ",,,,"Peter Sölva & Söhne",2020,12.95,2,"2021-1 ",1,,49,8,"500m.ü.M. nach der Vergärung auf der feinen Hefe bis zur Abfüllung. "
+127,"WHITE",,"Terlaner Weissburgunder Rarity",,,,"Kellerei Terlan",2009,105.1,5,,1,,230,38,
+128,"WHITE",,"Terlaner Weissburgunder Rarity",,,,"Kellerei Terlan",2006,130.5,3,,1,,260,43,
+129,"WHITE",,"Terlaner Weissburgunder Rarity",,,,,2010,102,0,"nicht gelistet",0,,220,,
+132,"WHITE",,"Chardonnay Kreuth",,,,"Kellerei Terlan",2021,14.5,3,,1,,50,8,"250-420m.ü.M. Hadlese, Gärung; grossen Eichenholzfass, Ausbau; BSA und 8 Monate auf der Feinhefe im traditionellen Holzfass"
+133,"WHITE",,"CH19",,,,"Pitzner",2019,25.9,3,,1,,84,13,
+134,"WHITE",,"Chardonnay St. Valentin ",,,,"St. Michael Eppan",2021,19.4,1,"2022-2",1,,64,10,
+136,"WHITE",,"Chardonnay Cardellino ",,,,"Elena Walch",2023,14.4,3,,1,,49,8,"400.m.ü.M. Vinifizierung; langer Hefekontakt, 15% werden in franz. EichenBarrique vergoren und reifen 5 Monate. Assemblage im Frühjahr"
+137,"WHITE",,"Chardonnay Marei ",,,,"Castel Salegg",2020,15,2,"2021-1",1,,51,8,
+140,"WHITE",,"Chardonnay Riserva",,,,"Happacherhof",2020,16,2,"2021-1",1,,54,9,"Vergärung im grossen Eichenhlzfass mit anschliessender 15 Monatiger reife"
+141,"WHITE",,"Chardonnay Ogeaner",,,,"Armin Kobler",2021,9.1,2,"2018-1",1,,37,6,"209.m.ü.M. Vinifizierung; auf der Feinhefe im Stahlfass mit teilweise BSA, keine Weinsteinstabilisierung"
+143,"WHITE",,"Chardonnay Ateyon ","BIO",,"(10%Kerner)","Loacker Schwarhof",2022,15.25,3,,1,,52,8,"Holzausbau mit wöchentlicher Batonnage und spontangärung"
+144,"WHITE",,"Chardonnay Lafoa",,,,"Schreckbichl Colterenzio",2022,19.9,3,,1,,66,10,"400-550m.ü.M. Ganztraubenpressung. Gärung; neuen und gebrauchten Barriques, BSA. Ausbau; 10 Monate auf der Feinhefe mit regelmässiger Batonnage. Mind. 6 Monate in der Flasche"
+145,"WHITE",,"Donà d'Or",,"bei Terlan","chardonnay","Hartmann Donà",2015,58.16,0,,1,,128,21,"260-320m.ü.M. Gärung"
+148,"WHITE",,"Chardonnay Löwengang ","BIO",,,"Tenutae Lageder",2020,48.55,4,"2021-1 ",1,,122,20,"230-330m.ü.M. Gärung"
+149,"WHITE",,"Chardonnay Löwengang ","BIO",,,"Tenutae Lageder",2017,49.5,0,"nicht gelistet",0,,109,18,"230-330m.ü.M. Gärung"
+151,"WHITE",,"Chardonnay Schwarzhaus",,,,"Stroblhof",2017,12.5,1,"2019-1 2022-1 ",1,,48,7,"350m.ü.M. Gärung"
+152,"WHITE",,"Chardonnay Baron Salvadori ",,,,"Nals Margreid",2020,25,2,,1,,81,13,"12 Monate im Tonneau"
+153,"WHITE",,"Chardonnay Sophie ","BIO",,"(6% Viognier)","Manincor",2022,27.5,5,,1,,88,14,"350-40m.ü.M. 4 h Mazeration. Gärung; spontan in Holzfässern verschiedener grössen und Traubeneigener Hefe, BSA. Ausbau;  9 Monate auf der Feinhefe"
+159,"WHITE",,"Chardonnay Riserva Troy",,,,"Kellerei Tramin",2020,52,16,,1,,114,19,
+166,"WHITE",,"Riesling Praepositus",,,,"Stiftskellerei Neustift",2018,18.9,1,"2020-1",1,,63,10,"650-700m.ü.M. 2/3 Mitte Oktober, 1/3 Spätlese mitte Dezember. Vergärung & Ausbau im Edelstahltank. 9 Monate Flaschenreifung"
+168,"WHITE",,"Riesling R",,,,"Köfererhof",2022,18.1,2,,1,,60,10,"700m.ü.M. Handlese. Gärung & Ausbau im Stahl."
+169,"WHITE",,"Riesling Viel Anders",,,,"Röckhof",2018,10.5,1,,1,,41,6,"550-650m.ü.M. Ernte im Oktober/November/Anfang Januar. Handlese. Gärung & Ausbau im Edelstahltank für 8 Monate"
+172,"WHITE",,"Riesling Kaiton",,,,"Kuenhof - Peter Pliger",2021,15.9,2,"2022-1",1,,54,8,"550-700m.ü.M. Gärung; spontan 50% im grossen Akazienholzfass, 50% im Edelstahltank. Ausbau; 8 Monate auf der Feinhefe"
+173,"WHITE",,"Riesling",,,,"Falkensteiner - Franz Pratzner",2022,17.9,2,,1,,60,9,"600-900m.ü.M. Handlese. Gärung im AkazienHolzfass. Ausbau"
+174,"WHITE",,"Riesling Unterortl",,,,"Castel Juval - Unterortl",2021,18.9,1,"2023-2 ",1,,63,10,
+175,"WHITE",,"Riesling Ringberg",,,,"Elena Walch",2021,18.9,3,"2019-1 ",1,,63,10,"400m.ü.M. Gärung"
+176,"WHITE",,"Riesling Windbichel",,,,"Castel Juval - Unterortl",2022,29.9,3,,1,,86,14,
+177,"WHITE",,"Riesling Surmont","Bio",,,"Alois Lageder",2021,16.5,3,,1,,56,9,"520-750m.ü.M. Gärung"
+179,"WHITE",,"Riesling ",,,,"Pacherhof",2022,16.2,3,,1,,55,9,
+180,"WHITE",,"Riesling ",,,,"Andi Sölva",2018,14.8,2,,1,,51,8,
+183,"WHITE",,"Kerner",,,,"Pacherhof",2021,13.6,1,"2022-1 2023-1 ",1,,47,7,"700m.ü.M. Handlese. Vinifizierung im Stahlbehälter für 6 Monate auf der Hefe"
+184,"WHITE",,"Rielinger Kontur ","BIO",,,"Rielinger",2020,25,6,"2021-4",1,,81,13,"600-750m.ü.M. Gärung"
+185,"WHITE",,"Kerner Praepositus",,,,"Stiftskellerei Neustift",2022,15.5,3,,1,,53,8,"650-700m.ü.M Gärung & Ausbau im Edelstahltank. 3 Monate Flaschenlagerung"
+186,"WHITE",,"Kerner Aristos",,,,"Eisacktaler Kellerei",2020,13.3,1,"2016-1 2021-1 ",1,,46,7,"700-800m.ü.M. Gärung"
+187,"WHITE",,"Kerner Sabiona",,,,"Eisacktaler Kellerei",2020,24.5,3,,1,,79,13,"750m.ü.M. Gärung"
+188,"WHITE",,"Kerner",,,,"Köfererhof",2021,12.7,1,"2023-2",1,,49,8,"650m.ü.M.  Edelstahl"
+191,"WHITE",,"Kerner",,,,"Taschlerhof",2023,11.7,3,,1,,45,7,"Stahltank"
+194,"WHITE",,"Viognier Leviogn","BIO",,,"Tröpfltalhof",2021,17.2,3,,1,,58,9,
+198,"WHITE",,"Sylvaner ",,,,"Kuenhof - Peter Pliger",2022,15.3,2,"2023-1",1,,52,8,"550-700m.ü.M. Handlese. Gärung: 50% grossen Holzfass 50% Edelstahltanks. Ausbau; 8 Monate auf der Feinhefe zu 2/3  im grossen Holzfass, der Rest im Edelstahltanks."
+199,"WHITE",,"Sylvaner Sabiona",,,,"Eisacktaler Kellerei",2019,26,2,"2020-1",1,,84,13,"650m.ü.M. Gärung"
+200,"WHITE",,"Sylvaner BIO","BIO",,,"Garlider",2021,12.3,2,"2021-1",1,,47,7,"600-800m.ü.M. Gärung & Ausbau im Holzfass"
+201,"WHITE",,"Sylvaner Praepositus",,,,"Stiftskellerei Neustift",2021,15.4,1,"2022-2",1,,52,8,"600-700m.ü.M.  Gärung"
+202,"WHITE",,"Sylvaner",,,,"Taschlerhof",2022,10.7,3,,1,,42,6,"Gärung & Ausbau 30% in grossen Akazienholzfässern, 70% im Stahltank."
+203,"WHITE",,"Sylvaner",,,,"Pacherhof",2019,13.1,1,"2021-1 2022-1",1,,46,7,"620m.ü.M. Handlese. Vinifikation im Stahlbehälter, anschliessend 8 Monate auf der Feinhefe. "
+206,"WHITE",,"Sylvaner Hautnah","BIO",,,"Garlider",2017,24.6,1,"2018-2",1,,80,13,
+210,"WHITE",,"Veltliner",,,,"Kuenhof - Peter Pliger",2015,11.3,1," 2020-1 2014-1",1,,44,7,"550-700m.ü.M. Gärung; 50% grosses Holzfass 50% Edelstahltank. Ausbau; 8 Monate 2/3 im grossen Holzfass, Rest im Edelstahltank auf der Feinhefe"
+211,"WHITE",,"Veltliner BIO","BIO",,,"Garlider",2020,11.8,3,,1,,46,7,"600-650m.ü.M. Gärung & Ausbau im Holzfass"
+213,"WHITE",,"Veltliner",,,,"Köfererhof",2018,15.9,1,"R 2022-2",1,,54,8,"700m.ü.M.6h Mazeration.  Gärung"
+221,"WHITE",,"Sauvignon Tannenberg","BIO",,,"Manincor",2020,20.5,1,"2021-1 2022-1 ",1,,67,11,"300m.ü.M. 12h Mazeration. Gärung"
+223,"WHITE",,"Sauvignon Floreado",,,,"Kellerei Andrian",2022,9.8,3,,1,,39,6,"260-380m.ü.M. Gärung"
+224,"WHITE",,"Sauvignon Mantele",,,,"Nals Margreid",2020,15,3,,1,,51,8,"7 Monate im Edelstahltank und Holzfass."
+226,"WHITE",,"Sauvignon Stern",,,,"Kellerei Kaltern",2021,10.2,2,,1,,40,6,"500m.ü.M. Gärung"
+227,"WHITE",,"Sauvignon Lafoa ",,,,"Schreckbichl ",2021,18.9,1,"2022-3 ",1,,63,10,"430m.ü.M. Vinifikation: 8 Monate auf der Hefe. 50% im Edelstahlbehälter, 50% im Bariques mit BSA. "
+232,"WHITE",,"Sauvignon Lieben Aich Bio ","BIO",,,"Manincor",2016,36.04,0,"nicht gelistet",0,,115,19,
+233,"WHITE",,"Sauvignon Lieben Aich Bio ","BIO",,,"Manincor",2021,46,7,,1,,98,16,"300m.ü.M. 12h Mazeration. Gärung"
+235,"WHITE",,"Sauvignon Lieben Aich Bio ","BIO",,,"Manincor",2020,46,6,,1,,105,17,
+237,"WHITE",,"Sauvignon Quarz",,,,"Kellerei Terlan",2021,37,12,,1,,95,15,
+238,"WHITE",,"Sauvignon Quarz",,,,"Kellerei Terlan",2022,39,12,"nicht gelistet",0,,107,,
+242,"WHITE",,"Sauvignon Schliff",,,,"St. Pauls",2020,25.2,3,,1,,81,13,"700m.ü.M.  100% im Edelstahl, Abfüllung im November"
+243,"WHITE",,"Sauvignon Myra",,,,"Waldgries",2022,13.4,2,"2023-1",1,,46,7,"550m.ü.M. Ausbau; 90% Stahl, 10% Barriques. Ein Teil wird mit ganzen Beeren vergoren. "
+244,"WHITE",,"Sauvignon St. Valentin",,,,"St. Michael Eppan",2022,19.4,1," 2023-2",1,,64,10,
+246,"WHITE",,"Sauvignon Andrius",,,,"Kellerei Andrian",2020,18.4,0,"2021-2",1,,61,10,"260-380m.ü.M. Gärung"
+247,"WHITE",,"Sauvignon Praesulis",,,,"Gumphof",2022,14.7,5,,1,,50,8,
+249,"WHITE",,"Sauvignon",,,,"Thurnhof",2018,11.3,1," 2022-2",1,,44,7,"grösster Teil der Reben auf 800m.ü.M.  Ausbau"
+250,"WHITE",,"Sauvignon Anphora","Bio",,,"Tröpfltalhof",2018,42,5,,1,,116,,
+255,"WHITE",,"Huaber Weingort ",,,,"Vontavon Albert - Teis",2011,,7,,1,,7,1,"Der Wein wird Vergärt, Ausgebaut und Abgefüllt von Alois Lageder"
+257,"WHITE",,"Müller Thurgau Feldmarschall",,,,"Tiefenbrunner",2020,34.9,5,,1,,96,15,"650m.ü.M.   Gärung"
+259,"WHITE",,"Müller Thurgau",,,,"Castel Juval - Unterortl",2021,11.2,2,,1,,44,7,"750-850m.ü.M. Gärung"
+264,"WHITE",,"Pinot Grigio Porer",,,,"Alois Lageder",2021,14.45,3,,1,,50,8,"230-420m.ü.M. Gärung"
+268,"WHITE",,"Pinot Grigio Unterebner ",,,,"Kellerei Tramin",2021,19.8,3,"2022-2 ",1,,65,10,"430m.ü.M. Gärung"
+273,"WHITE",,"Grauer Burgunder Klausner",,,,"Armin Kobler",2021,9.1,2,"2018-1 ",1,,37,6,"209m.ü.M. Vinifizierung im Stahlfass ohne BSA. Keine Weinstabilisierung."
+274,"WHITE",,"Pinot Grigio St. Valentin",,,,"St. Michael Eppan",2021,21.5,0,"2022-2",1,,70,11,
+275,"WHITE",,"Pinot Grigio Punggl",,,,"Nals Margreid",2021,12.4,1,"2022-2",1,,48,7,"7 Monate im Edelstahltank und Holzfass."
+276,"WHITE",,"Pinot Grigio Ringberg",,,,"Elena Walch",2022,17.3,2,"2021-1",1,,58,9,"350m.ü.M. Gärung; 85% Stahltank, 15% im franz. Eiche mit BSA. Cuvee im Frühjahr."
+281,"WHITE",,"Liebenstein",,,"chardonnay, weissburgunder","Baron Longo",2020,22,3,,1,,72,11,"Gärung im Stahltank. Ausbau auf der Hefe für 6 Monate im Stahlfass und Akazienhlzfass."
+282,"WHITE",,"Zeus",,,"Chardonnay, Gewürztraminer und Sauvignon","Oxenreiter",,27.5,3,,1,,88,14,"Gärung im Stahltank. Ausbau auf der Hefe für 6 Monate im Stahlfass und Akazienhlzfass."
+283,"WHITE",,"Stoan ",,,"60%chardonnay, 25%sauvignon, 10%pinot blanc, 5%gewürztraminer","Kellerei Tramin",2022,19.9,3,,1,,66,10,"400-550m.ü.M. Gärung"
+284,"WHITE",,"Amistar Cuvée Bianco",,,"80% chardonnay, 20% sauvignon","Peter Sölva & Söhne",2022,25,2,,1,,81,13,"260-380m.ü.M. Gärung"
+285,"WHITE",,"Nova Domus ",,,,,2021,29.1,2,,1,,83,13,"250-500m.ü.M. Handlese. Gärung im Eichenfass 30hl. Partieller BSA (Weissburgunder & Chardonnay). 12 Monate Reife im Holzfasss 50%, 50% Tonneau, Assemblage 3 Monate vor der Abfüllung."
+286,"WHITE",,"Dona Blanc ",,,"60%pinot blanc, 40%chardonnay","Hartmann Donà",2019,21.5,0,"2020-3",1,,79,13,"Gärung "
+289,"WHITE",,"Die Perle",,"nummer im keller ändern","pinot grigio, riesling, assyrtiko, sauvignon…","Ansitz Dolomythos - Panta Rei",2005,40,0,"nicht gelistet",0,"x",120,20,
+290,"WHITE",,"Mittelberg Weiss Trias",,,"90%chardonnay, 5%petit Mangseng, 5%incrocio manzoni","Weingut Niedrist",2021,20.9,3,,1,,69,11,"450-500m.ü.M. Gärung"
+291,"WHITE",,"Reseve della Contessa Bio ","BIO",,"60%pinot blanc, 30%chardonnay, 10%sauvignon","Manincor",2023,14.2,3,,1,,49,8,"300m.ü.M. 6h Mazeratin. Gärung"
+292,"WHITE",,"Beyound the Clouds",,,"chardonnay, …","Elena Walch",2022,59,3,"nicht gelistet",0,,120,20,"gemeinsames Abpressen und vergären der verschiedenen Trauben im franz Barriques. 3 Monate wöchentliche Batonnage. 10 Monate Reifung im Barrique. 6 Monate Flaschenlagerung."
+293,"WHITE",,"Casòn Hirschprunn ","BIO",,"viognier, petit manseng","Tenutae Lageder",2020,30,2,"2021-1 ",1,,84,14,"230-360m.ü.M. Gärung"
+294,"WHITE",,"Grande Cuvee ",,,"90% Pinot blanc, 7% Chardonnay, 3% Sauvignon","Kellerei Terlan",2020,149.9,3,,1,,330,54,"Gärung im Eichenholzfass. BSA und Ausbau für 12 Monate auf der Feinhefe im grossen Holzfass. Cuvee, Danach 4 Monate im Stahltank"
+295,"WHITE",,"Adamantis",,,"Sylvaner, Grüner Veltliner, Pinot Grigio und Kerner",,2020,68,3,,1,,150,24,
+296,"WHITE",,"Private Cuvée",,,"Grüner Veltliner, Sauvignon, Riesling","Pacherhof",2020,27.9,0,"2021-8",1,,89,14,
+307,"WHITE",,"Gewürztraminer St. Valentin",,,,"St. Michael Eppan",2021,19.1,1,"2022-1 ",1,,63,10,"300-500m.ü.M. Handlese. Vinifikation im Stahltank."
+309,"WHITE",,"Gewürztraminer",,,,"Pacherhof",2022,16.9,3,,1,,57,9,"650m.ü.M. Handlese. Gärung"
+311,"WHITE",,"Gewürztraminer Feld",,,,"Armin Kobler",2022,10.6,2,,1,,42,6,"214m.ü.M. Vinifikation im Stahlfass auf der Feinhefe. Kein BSA. Keine Weinstabilisierung."
+316,"WHITE",,"Gewürztraminer Exilissi Sell ",,,,"Baron di Pauli",2016,24.7,2,,1,,80,13,"480-550m.ü.M. Mehrtägige Mazeration. Gärung"
+321,"WHITE",,"Gewürztraminer Kolbenhof",,,,"Hofstätter",2020,21.5,2,,1,,70,11,"einige Stunden Kontakt mit Schalen. Reifung für 8 Monate auf der Feinhefe mit wöchentlicher Batonnage"
+323,"WHITE",,"Gewürztraminer Kolbenhof",,,,"Hofstätter",2009,25.05,1,"2007-1",1,,81,13,"einige Stunden Kontakt mit Schalen. Reifung für 8 Monate auf der Feinhefe mit wöchentlicher Batonnage"
+325,"WHITE",,"Gewürztraminer Nussbaumer",,,,"Kellerei Tramin",2022,21.5,3,,1,,70,11,"350-550m.ü.M. Gärung"
+331,"WHITE",,"Gewürztraminer ",,,,"Gumphof",2018,11.65,2,,1,,45,7,"Vinifikation"
+333,"WHITE",,"Gewürztraminer Kastelaz",,,,"Elena Walch",2022,26.9,3,,1,,86,14,"350.m.ü.M. Maischekontakt von 6h. Gärung"
+334,"WHITE",,"Gewürztraminer Epokale",,,,"Kellerei Tramin",2016,,6,,1,,165,27,
+335,"WHITE",,"Gewürztraminer Epokale",,,,"Kellerei Tramin",2015,65,3,,1,,175,29,
+339,"WHITE",,"Goldmuskateller",,,,"Bessererhof",2013,7.75,2,,1,,32,5,"Ausbau"
+340,"WHITE",,"Goldmuskateller",,,,"Klosterhof",2012,7.9,3,,1,,33,5,"450.m.ü.M.  Gärung"
+341,"WHITE",,"Moscato Giallo BIO","BIO",,,"Manincor",2021,12.2,2,,1,,47,7,"350m.ü.M. 12h Mazeration. Gärung"
+342,"WHITE",,"Flow",,,"trebbiano, vermentino, malvasia bianca, canaiolo bianco …","AMProjects",2022,48,10,,1,,106,17,
+343,"WHITE",,"Nosiola",,,,"Cesconi",2020,11.2,2,"2011-1",1,,44,7,
+344,"WHITE",,"Terre Bianche",,,,"De Vigili",2020,9.5,14,,1,,38,6,
+347,"WHITE",,"Ribolla Zuc di Volpe",,,"Ribolla ( autochton)","Volpe Pasini",2013,10.25,3,,1,,40,6,"Gärung: Stahltank. Ausbau"
+348,"WHITE",,"Sauvignon de la Tour ",,,,"Villa Russiz",2017,23,2,"2020-1 ",1,,75,12,"Handlese. Kelterung der ganzen Trauben. Mind. 7 Monate auf der Hefe. Abfüllung nach 9 Monaten."
+349,"WHITE",,"Friulano Collio ",,,"tocai friulano","Villa Russiz",2021,12.3,3,,1,,47,7,"Handlese. 12h Maischezeit. Geringer Teil in 225l Eichenholzfässer gegärt. 10 Monate auf der Hefe. Nach 12 Monaten wird er abgefüllt."
+351,"WHITE",,"Sauvignon",,,,"Puiatti",2017,9,5,,1,,36,6,
+352,"WHITE",,"Madre ","BIO",,"incrocio manzoni 6.0.13","Italo Cescon",2019,19.5,6,,1,,65,10,
+353,"WHITE",,"Soave Vintage ",,,"25-30%garganega, 25%trebbiano, 20%tocai, 15%cortese, riesling italico, pinot blanc, chardonnay ","bertani",2016,9,1,,1,,36,6,
+354,"WHITE",,"Lugana Brolettino ",,,"turbiana","Cà dei Frati",2021,14.2,1,"2022-2 ",1,,49,8,"Gärung: Stahltank.  Ausbau: Barriques für 10 Monate mit teilweise BSA. 3 Monate Flaschenlagerung."
+356,"WHITE",,"Derthona Timorasso ",,,"timorasso","Mariotto Claudo",2019,11.2,1," 2021-2",1,,44,7,"250-300m.ü.M. Handlese. Auf der Hefe gelagert."
+357,"WHITE",,"Blanc de Morgex et de La Salle ""Nathan"" ",,,"prié blanc","Ermes Pavese",2012,12.5,4,,1,,48,7,"900-1200m.ü.M. Handlese. Handgepresst. Mazeration für 48h. Ausbau: 1 Jahr 70% im franz. Barriques, mit batonnage, 30% im Stahlfass. 10 Moante Flaschenlagerung."
+358,"WHITE",,"Petite Arvine ",,,"petite arvine","Les Crêtes",2018,10.9,2,,1,,43,7,"550-650m.ü.M. Handlese. Gärung"
+359,"WHITE",,"Chardonnay",,,,"Les Crêtes",2016,13.55,1,"2018-3 ",1,,47,7,"600-850m.ü.M. Handlese. Gärung"
+360,"WHITE",,"Sopraquota 900",,,"petite arvine","Rosset",2020,32.7,0,,1,,90,14,
+361,"WHITE",,"Chardonnay ",,,,"Monteverro",2018,68.9,1,"2021-2 ",1,,152,25,"Pressen der ganzen Beeren. Natürliche Gärung. Ausbau"
+362,"WHITE",,"Solosole Bolgheri Vermentino",,,,"Tenuta al Tesoro",2017,30.7,16,,1,,84,14,
+363,"WHITE",,"Viognier Ars Magna",,,"viognier","Omina Romana",2020,35.9,3,,1,,99,16,
+367,"WHITE",,"Verdicchio Jesi Classico Superiore ""Il Coroncino"" ",,,,"Coroncino",2013,7.8,2,,1,,32,5,"12 Monate im Stahl."
+368,"WHITE",,"Massaccio Verdicchio Superiore",,,,"fazi battaglia",2016,,3,,1,,33,5,
+370,"WHITE",,"Chardonnay",,,,"Planeta",2014,16.2,3,,1,,55,9,"Ausbau"
+377,"WHITE",,"Grüner Veltliner Federspiel Rotes Tor",,,"Wachau","Hirtzberger",2021,25,3,,1,,81,13,
+378,"WHITE",,"Grüner Veltliner Smaragd Hochrain",,,"Wachau","Rudi Pichler",2021,35.5,0,"nicht gelistet",0,,98,16,"6 Jahre im Barrique. Nicht Filtriert. 4 Generation. einziges Spanisches Weingut, dass eigene Fässer aus amerikanischer Eiche produziert ( nur eigengebrauch)."
+379,"WHITE",,"Grüner Veltliner Steinertal Smaragd",,,"Wachau","Alzinger",2016,32,0,"nicth gelistet",0,,88,14,
+380,"WHITE",,"Grüner Veltliner Smaragd Ried Loibenberg",,,"Wachau","E. Knoll",2019,33.5,1,,1,,92,15,
+381,"WHITE",,"Grüner Veltliner Smaragd Ried Loibenberg",,,"Wachau","E. Knoll",2008,62.5,2,,1,,138,22,
+382,"WHITE",,"Grüner Veltliner Grub",,,"Kamptal","Hirsch",2019,31.9,3,,1,,88,14,
+383,"WHITE",,"Grüner Veltliner Langenloiser Alter Reben","BIO",,"Kamptal","Bründlmayr",2020,38,5,,1,,105,17,
+384,"WHITE",,"Grüner Veltliner Alte Reben ",,,"Kremstal","Nigl",2012,13.8,1,,1,,48,7,"600-750m.ü.M. Gärbehälter"
+385,"WHITE",,"Grüner Veltliner Kalkvogel GV",,,"Weinviertel","Zillinger",2020,28.1,5,,1,,77,,
+386,"WHITE",,"Grüner Veltliner Radikal GV",,,"Weinviertel","Zillinger",2019,47.9,6,,1,,105,,
+388,"WHITE",,"Riesling Steinterassen  Federspiel ",,,"Wachau","Hirtzberger",2019,29,2,"2022-1",1,,80,13,
+390,"WHITE",,"Riesling Smaragd Achleiten",,,"Wachau","Domäne Wachau",2016,21.5,2,,1,,70,11,
+391,"WHITE",,"Riesling Smaragd Ried Kellerberg",,,"Wachau","E. Knoll",2022,43,6,,1,,118,19,
+392,"WHITE",,"Riesling - Kamptaler Terrassen",,,"Kamptal","Bründlmayr",2021,12.95,3,,1,,49,,
+393,"WHITE",,"Riesling - Zöbinger Heiligenstein Lyra",,,"Kamptal","Bründlmayr",2016,43.5,1,,1,,120,,
+394,"WHITE",,"Sauvignon Grassnitzberg ",,,"Steiermark","Tement",2019,25.9,2,"2020-1 ",1,,84,13,"Ausbau"
+395,"WHITE",,"Sauvignon Blanc Klausen ",,,"Steiermark","Neumeister",2012,16.1,2,,1,,54,9,"340m.ü.M. Rebalter; 10-25 Jahre. Gärung; Kaltmazeration 18-24h, fermentation im grossen Holz. Ausbau; 8 Monate im Holz auf der Hefe."
+401,"WHITE",,"Riesling Steinreich",,,"Mosel","Clüsserath",2018,23.5,1,"2019-1 2021-1",1,,76,12,
+402,"WHITE",,"Riesling Blauschiefer",,,"Mosel","Dr. Loosen",2018,14.1,2,"2021-1",1,,48,8,
+403,"WHITE",,"Red Slate Dry (=Rotschiefer) QbA",,,"Mosel","Dr. Loosen",2022,11.85,3,,1,,46,,
+404,"WHITE",,"Riesling Schieferterrassen",,,"Mosel","Heymann-Löwenstein",2019,23.9,3,,1,,78,12,
+405,"WHITE",,"Graacher Domprobst GG",,,"Mosel","Dr. Loosen",2021,32.5,2,,1,,89,,
+406,"WHITE",,"Erdener Treppchen GG Alte Reben",,,"Mosel","Dr. Loosen",2018,36.95,0,,1,,102,,
+407,"WHITE",,"Riesling Wehlener Sonnenuhr - Spätlese ",,,"Mosel","Markus Molitor",2020,26.5,3,,1,,85,,
+408,"WHITE",,"Riesling Wehlener Sonnenuhr  BKS Ring ",,,"Mosel","Kerpen",2018,19,2,,1,,63,10,
+409,"WHITE",,"Zeltinger Sonnenuhr - Auslese ***",,,"Mosel","Markus Molitor",2019,94.5,2,,1,,208,,
+410,"WHITE",,"Wehlener Sonnenuhr Alte Reben GG",,,"Mosel","Prüm",2013,49.5,5,,1,,109,,
+411,"WHITE",,"Riesling Tonschiefer ",,,"Nahe","Dönnhoff",2022,14.95,3,,1,,51,8,"Handlese. Vergärung und Reife im Edelstahl und grossen Holzfass"
+412,"WHITE",,"Riesling Hermannshöhle - Grösses Gewachs",,,"Nahe","Dönnhoff",2022,84.95,2,,1,,187,,
+413,"WHITE",,"Dellchen - GG Grösses Gewachs",,,"Nahe","Dönnhoff",2021,79.75,2,,1,,175,,
+414,"WHITE",,"Riesling Kalkmergel",,,"Pfalz","Knipser",2015,13.78,4,,1,,48,7,
+416,"WHITE",,"Riesling Ungeheuer GG",,,"Pfalz","von Winning",2020,37.5,2,,1,,103,17,"Seit 1744, der Grossvater baute das Weingut nach dem 2. Weltkrieg wieder auf. 105-275m.ü.M. "
+418,"WHITE",,"Riesling Westhofen",,,"Rheinhessen","Wittmann",2021,29,3,,1,,80,13,"spontan vergoren. Ausbau"
+420,"WHITE",,"Riesling Kiedrich Turmberg ",,,"Rheingau","Robert Weil",2015,21.4,1,,1,,70,11,"Baut nur Riesling an. Handlese, beginnt selten vor Oktober und dauert bis zu 8 Wochen( nur die beste Qualität). Rebalter; 50+."
+421,"WHITE",,"Silvaner Eigenart",,,"Franken","Max Müller",2012,13,23,,1,,67,11,
+422,"WHITE",,"Grauer Burgunder Kähner GG",,,"Baden","Franz Keller",2021,26.15,4,,1,,84,14,
+423,"WHITE",,"Grauer Burgunder Schlossberg GG",,,"Baden","Franz Keller",2021,32.9,2,,1,,90,,
+424,"WHITE",,"Illusion",,,"Ahrtal","Meyer-Näkel",2021,23,6,,1,,75,,
+427,"WHITE",,"Chablis Vaillon 1er Cru",,,,"Domaine Christian Moreau",2022,34,6,,1,,94,,"The soil is also from the Kimmeridgien period with clay-limestone marls very rich of marine fossils, and most specifically small oyster fossils, called Exogyra Virgula., 73 Jahre alte Rebstöcke 55% Stahl, 45% in Holz (2-3-4 Jahre, weniger als 5 % neues Holz für 8 Monate, Malolactic conversion"
+428,"WHITE",,"Bourgogne Blanc Chardonnay",,,,"Michel Bouzereau & Fils",2021,28,3,,1,,90,14,"1 Jahr in 15% neuen Barique. 2 Monate im Tank. Seit 1991,leitet der Sohn Jean-Baptist (Oenologe) dass Weingut mit seinem Vater Michel."
+429,"WHITE",,"Chablis ""Vielles Vignes"" ",,,,"Bessin Tremblay",2020,18.8,2,,1,,62,10,"Rebalter"
+430,"WHITE",,"Chablis ""La Fourchaume"" 1er Cru",,,,"Jean-Claude Bessin",2018,32,0,"2021-6 ",1,,88,14,"Rebalter; 10-80 Jahre. 4. Generation. 12h Maischestandzeit. 21 Tage fermentation. Ausbau; 9 Monate 15% Im Barriques, 85% im Stahl auf der Feinhefe."
+431,"WHITE",,"Chablis ""La Forêt"" 1er Cru ",,,,"Bessin-Temblay",2022,44,5,,1,,121,20,"Rebalter"
+432,"WHITE",,"Chablis ""Valmur"" Grand Cru",,,,"Bessin-Temblay",2021,48,2,,1,,106,17,"Rebalter"
+433,"WHITE",,"Chablis "" Les Clos"" Grand Cru",,,,"Domaine Christian Moreau",2021,58,4,,1,,128,21,"Ausbau im Holz und Flaschenlagerung. Domaine seit Generationen im Besitz, einer der ältesten & meist respektierten Namen in der Chablis."
+434,"WHITE",,"Chablis Vaillon",,,,"Moreau",2021,33,1,,1,,91,15,
+435,"WHITE",,"Chablis Mont De Milieu",,,,"De Fleys",2020,43.5,5,,1,,120,,
+436,"WHITE",,"Pernand-Vergelesses",,,,"Domaine Denis Père e Fils",2021,39.95,3,,1,,110,,
+437,"WHITE",,"St. Romain",,,,"Domain Père Germain",2021,31.95,2,,1,,88,14,"Ausbau im Holz und Flaschenlagerung. Domaine seit Generationen im Besitz, einer der ältesten & meist respektierten Namen in der Chablis."
+438,"WHITE",,"Mersault ""Les Genevrières""",,,,"Michel Bouzereau & Fils",2022,112,3,,1,,246,41,
+439,"WHITE",,"Mersault ""Les Grands Charrons""",,,,"Michel Bouzereau & Fils",2021,48,0,,1,,106,17,"1 Jahr in 25% neuen Barrique. 3 Monate im Tank. Seit 1991,leitet der Sohn Jean-Baptist (Oenologe) dass Weingut mit seinem Vater Michel."
+440,"WHITE",,"Meursault 1er Cru ""Les Perrières"" ",,,,"Michel Bouzereau & Fils",2021,150,2,,1,,330,55,"16-18 Monate in 30% neuen Barrique. Seit 1991,leitet der Sohn Jean-Baptist (Oenologe) dass Weingut mit seinem Vater Michel."
+441,"WHITE",,"Mersault ""Les Tessons"" ",,,,"Michel Bouzereau & Fils",2020,80,1,"2021-6 ",1,,176,29,"16-18 Moante in 1/3 neuen Barrique. Seit 1991,leitet der Sohn Jean-Baptist (Oenologe) dass Weingut mit seinem Vater Michel."
+442,"WHITE",,"Mersault-Blagny Premier Cru ",,,,"Chapelle de Blagny",2019,70.4,5,,1,,155,,
+443,"WHITE",,"Puligny Montrachet ",,,,"Bachelet-Monnot",2021,64,0,"nicht gelistet",0,,141,23,"Handlese. Giebt es seit 2005, sind zwei Brüder."
+444,"WHITE",,"Batard-Montrachet Grand Cru",,,,"Bachelet-Monnot",2018,250,1,,1,,550,91,
+445,"WHITE",,"Chassagne Montrachet",,,,"Philippe Colin",2020,38,1,,1,,105,17,"Die Domaine Philippe Colin giebt es seit 2004."
+446,"WHITE",,"Chassagne Montrachet 1er Cru ""Chenevottes"" ",,,,"Philippe Colin",2021,50,0,"nicth gelistet",0,,110,18,"Die Domaine Philippe Colin giebt es seit 2004."
+448,"WHITE",,"Macon La Roche Vineuse Blanc ""Les Cras""",,,,"Olivier Merlin",2017,18.42,4,,1,,61,10,
+449,"WHITE",,"Saint Veran ""Le Grand Bussière""",,,,"Olivier Merlin",2017,18.42,6,,1,,61,10,
+450,"WHITE",,"Pouilly Fuissé  ""Sur la Roche""",,,,"Olivier Merlin",2017,22.39,0,"nicht gelistet",0,,73,12,
+452,"WHITE",,"Sancerre ""Les Monts Damnés"" ",,,"Sauvignon Blanc","Pascal Cotat",2020,32,5,,1,,88,14,"300m.ü.M. Rebalter; 40Jahre. Ökologischer Anbau. Spontane Vergärung. 8 Monate auf der Hefe in gebrauchten barrique. Vater & Sohn. Sie lesen ihre Trauben mindestens 10 Tage später als die anderen. Nach dem Pressen kommt der Wein in Holzfässer (normalerweise in dieser Region in Stahltanks), und einzigartig für die Sancerre, dass ihre Weine nicht Filtriert oder geschönt werden."
+453,"WHITE",,"Sancerre ""La Grande Côte"" ",,,"Sauvignon Blanc","Pascal Cotat",2020,32,4,,1,,88,14,"Rebalter; 40 Jahre. spontane Gärung, 8 Monate in gebrauchten Barrique. Vater & Sohn. Sie lesen ihre Trauben mindestens 10 Tage später als die anderen. Nach dem Pressen kommt der Wein in Holzfässer (normalerweise in dieser Region in Stahltanks), und einzigartig für die Sancerre, dass ihre Weine nicht Filtriert oder geschönt werden."
+454,"WHITE",,"L'Etoile Savagnin",,,"Jura France","Montbourgeau",2018,29,3,,1,,80,13,
+455,"WHITE",,"Condrieu",,,,"Duclaux",2020,40,0,"nicth gelistet",0,,110,18,"im Stahl ausgebaut."
+456,"WHITE",,"Châteauneuf-du-pape ",,,,"Vieux Télégrapf",2021,45,3,,1,,124,20,
+461,"WHITE",,"Artemis Karamolegos ""Pyritis""",,,"Assyrtiko","Santorini",2020,35,2,,1,,96,16,
+462,"WHITE",,"Vina Tondonia Blanco Reserva ",,,"90% Viura, 10% Malvasia","López de Heredia",2007,28.5,0,"nicht gelistet",0,,96,16,"6 Jahre im Barrique. Nicht Filtriert. 4 Generation. einziges Spanisches Weingut, dass eigene Fässer aus amerikanischer Eiche produziert ( nur eigengebrauch)."
+463,"WHITE",,"Sauvignon Blanc Little Beauty Black Edition",,,"New Zealand Marlborough","Vinultra",2018,40.7,5,,1,,112,18,
+464,"WHITE",,"Heida",,,"Savagnin Blanc (Heida, Paien)",,2015,18.5,2,,1,,62,10,
+469,"WHITE","PICCOLO","Weissburgunder Schulthauser",,,,"St. Michael Eppan",2021,5.4,0,"2022-2",1,,26,4,"480-600m.ü.M. grösser Teil im Stahltank ausgebaut, ein kleiner Teil im Holzfass."
+470,"WHITE","PICCOLO","Weissburgunder Plattenriegel",,,,"Kellerei Girlan",2019,5.25,1,"2020-2",1,,25,4,"400m.ü.M. Handlese. Gärung"
+471,"WHITE","PICCOLO","Chardonnay Lafoa",,,,"Schreckbichl Colterenzio",2022,12.9,3,,1,,49,8,
+473,"WHITE","PICCOLO","Sauvignon St. Valentin",,,,"St. Michael Eppan",2021,9.7,1,"2022-2",1,,39,6,"Kellerei mit 350 Genossenschaftsmitglieder und Weinbauern"
+474,"WHITE","PICCOLO","Terlaner ",,,"60% Weissburgunder, 30% Chardonnay, 10% Sauvignon","Kellerei Terlan",2022,7.6,3,,1,,32,5,"250-900m.ü.M. Handlese. Gärung; Stahltank. Ausbau; auf der Feinhefe, 80% im Stahl, 20% im grossen Holzfass. Assemblage, 1 Monat vor der Abfüllung."
+475,"WHITE","PICCOLO","Pinot Grigio ",,,,"Alois Lageder",2022,5.15,3,,1,,25,4,
+479,"WHITE","MAGNUM","Weissburgunder Riserva Barthenau ",,,,"Hofstätter",2018,,1,,1,,115,19,
+480,"WHITE","MAGNUM","Weissburgunder Riserva Vorberg",,,,"Kellerei Terlan",2015,54.7,2,,1,,120,20,"250-900m.ü.M. Handlese. Gärung"
+483,"WHITE","MAGNUM","Troy",,,,,2020,110,2,,1,,242,40,
+484,"WHITE","MAGNUM","Nova Domus ",,,,,2007,38,1,,1,,135,22,"250-900m.ü.M.  Gärung; im grossen Eichenfass. Pinot & Chardonnay mit BSA. Ausbau; 12 Monate auf der Feinhefe, 50% grosses Holzfass, 50% Tonneau. Assemblage 3 Monate vor der Abfüllung."
+487,"WHITE","MAGNUM","Sauvingon Quarz ",,,,"Kellerei Terlan",2021,76.9,1,"2020-2",1,,169,28,"Gärung und Reife für 9 Monate auf der Feinhefe, 50% grosses Holzfass, 50% Tonneau. Assemblage, 3 Monate vor der Abfüllung."
+489,"WHITE","MAGNUM","Sauvignon Lafoa ",,,,"Schreckbichl Colterenzio",2021,41,1,,1,,115,19,"Gärung; 50% Edelstahl, 50%Holzfass/Barrique (Teilweise BSA). Ausbau; 8 Monate auf der Hefe."
+490,"WHITE","MAGNUM","Stoan ",,,"chardonnay, pinot blanc, sauvignon, gewürztraminer","Kellerei Tramin",2016,39.9,1,,1,,110,18,"400-600m.ü.M. "
+491,"WHITE","MAGNUM","Kerner",,,,"Köfererhof",2012,,1,,1,,78,13,
+492,"WHITE","MAGNUM","Kerner ",,,,"Taschlerhof",2011,24,1,,1,,78,12,
+493,"WHITE","MAGNUM","Grüner Veltliner BIO",,,,"Garlider",2010,25,1,,1,,81,13,
+499,,,"Lagrein Kretzer ",,,,"Muri Gries",2023,8.7,3,,1,,35,5,"260m.ü.m.M. Gärung"
+501,,,"Lagrein Rosé ",,,,"Rottensteiner",2021,7.1,1,,1,,30,5,"Ausbau"
+508,,,"La Rose de Manincor BIO","BIO",,"Lagrein, Merlot, Cabernet, Pinot Noir, Petit Verdot, Tempranillo, Syrah","Manincor",2023,15.5,3,,1,,53,8,"250m.ü.M. 6-12h Maischestandzeit.  Most vergärt in Holzfässern zum Teil spontan mit Traubeneigener Hefe. 5 Moante Hozfassreife auf der Feinhefe."
+514,,,"Rosa dei Frati",,,"Groppello, Marzemino, Sangiovese, Barbera","Cà dei Frati",2023,10,2,"2021-1  ",1,,40,6,"Gärung; Stahltank.  80% BSA. Ausbau; 6 Monate auf der Feinhefe im Stahlfass, 2 Monate Flaschenlagerung"
+531,"RED",,"Vernatsch Mirum",,,,"Kandlerhof",2021,23.9,3,,1,,78,12,
+532,"RED",,"St. Magdalener Glögglhof",,,,"Franz Gojer",2023,9.5,2,"2019-1  ",1,,38,6,
+533,"RED",,"St. Magdalener ",,,"94% Vernatsch, 6% Lagrein","Wassererhof",2020,7,2,,1,,31,5,"350m.ü.M. Gärung"
+534,"RED",,"St. Magdalener Antheos  ",,,"Edelvernatsch, Garuvernatsch, Tschaggelevernatsch, Mittervernatsch, historische Vernatscharten und Lagrein","Ansitz Waldgries",2021,16.2,1,"2022-2",1,,55,9,"250m.ü.M. Gärung; 20% mit ganzen Trauben, lange Maischestandzet. Ausbau; grosses Holzfass"
+535,"RED",,"Dona Rouge ",,,"Vernatsch, 2% Lagrein, 3% Blauburgunder","Hartmann Donà",2017,20.3,2,,1,,67,11,"450m.ü.M. Ausbau; 23 Monate im Holzfass, 2 Jahre Flaschenreife"
+538,"RED",,"Isarcus",,,,"Griesbauerhof",2021,14.9,2,,1,,51,8,
+542,"RED",,"Zweigelt Roan  ",,,,"Bessererhof",2016,12.1,1,"2019-2 ",1,,47,7,
+548,"RED",,"Blauburgunder Riserva Maglen",,,,"Kellerei Tramin",2021,24.5,8,,1,,73,12,
+549,"RED",,"Blauburgunder Riserva Maglen",,,,"Kellerei Tramin",2020,22.5,6,"2019-1",1,,79,13,"350-700m.ü.M. Gärung"
+550,"RED",,"Blauburgunder Vom Roten Kalk ",,,,"Weingut Abraham",2021,27.9,4,,1,,89,14,
+552,"RED",,"Blauburgunder Hausmannshof Riserva ",,,,"Haderburg",2017,36.5,4,"2018-3",1,,100,16,"350-550m.ü.M. Gärung"
+553,"RED",,"Blauburgunder Castel Juval ",,,,"Castel Juval - Unterortl",2018,18.5,1,"2019-2",1,,62,10,
+554,"RED",,"Blauburgunder Lafoa",,,,"Schreckbichl Colterenzio",2019,27.9,2,"2020-1",1,,89,14,"400m.ü.M. Gärung"
+555,"RED",,"Blauburgunder Riserva Trattmann Mazon",,,,"Kellerei Girlan",2021,26.9,3,,1,,86,14,
+557,"RED",,"Pinot Noir Gols",,,,"Griesser",2018,12.9,7,,1,,51,8,"400m.ü.M. Gärung; im grossen Holzfass mit 2 Wochen Maischekontakt und Unterstossen des Trester. Ausbau; BSA, 1 Jahr im Eichenfass 500l, 8-10 Moante im grossen Eichenfass. 1 Jahr Flaschenlagerung."
+558,"RED",,"Blauburgunder Riserva Matán ",,,,"Ansitz Pfitscher",2020,28,1," 2021-2 ",1,,90,14,
+560,"RED",,"Blauburgunder Pigeno",,,,"Stroblhof",2020,18,1,"2021-2",1,,60,10,"500.mü.M. Gärung"
+561,"RED",,"Blauburgunder Riserva",,,,"Stroblhof",2018,28.9,1,"2019-2",1,,88,14,"500m.ü.M. Gärung"
+562,"RED",,"Blauburgunder Barthenau Vigna San Urbano ",,,,"Hofstätter",2018,45.8,2,"2011-1 2019-1",1,,120,20,"Gärung; 10 Tage mit 25% intakten Trauben und Umwälzung. Ausbau; 14 Monate in kleinen Eichenholzfässern, assamblage, 7 Monate im grossen Eichenholzfass, Abfüllung, 12 Monate Flaschenlagerung."
+563,"RED",,"Blauburgunder Praesulis",,,,"Gumphof",2021,20.5,1,,1,,67,11,"Gärung; 10 Tage mit 25% intakten Trauben und Umwälzung. Ausbau; 14 Monate in kleinen Eichenholzfässern, assamblage, 7 Monate im grossen Eichenholzfass, Abfüllung, 12 Monate Flaschenlagerung."
+564,"RED",,"Blauburgunder Riserva Renaissance",,,,"Gumphof",2019,45.9,4,,1,,101,16,"Gärung; 10 Tage mit 25% intakten Trauben und Umwälzung. Ausbau; 14 Monate in kleinen Eichenholzfässern, assamblage, 7 Monate im grossen Eichenholzfass, Abfüllung, 12 Monate Flaschenlagerung."
+566,"RED",,"Blauburgunder Krafuss ",,,,"Tenutae Lageder",2020,37.4,1,"2022-2 ",1,,103,17,"BIO, 450-520m.ü.M. Gärung; spntan ca. 14 Tage. Ausbau; 12 Monate teilweise im Edelstahl, teilweise in kleinen Holzfässern 225l, (franz.Eiche 1/3 neu)"
+567,"RED",,"Blauburgunder Mason di Mason",,,,"Manincor",2019,59,1,"2020-2  ",1,,130,21,"400-450m.ü.M. Gärung; Holzbottich, spontan mit Traubeneigener Hefe. Mazeration 2 Wochen mit Untertauchen der Trester.Ausbau; 12 Monate im Barrique 25% neu, auf der Feinhefe. "
+571,"RED",,"Blauburgunder Riserva",,,,"Laimburg",2020,13.6,1,"2021-2 ",1,,47,7,"350-550m.ü.M. Holz ausbau für 15 Monate"
+572,"RED",,"Blauburgunder Riserva Abtei",,,,"Muri Gries",2020,18.6,3,,1,,62,10,"500-600m.ü.M. Gärung; edelstahl. Ausbau; BSA, 12 Monate in kleinen Holzfässern."
+573,"RED",,"Blauburgunder Riserva Monticol",,,,"Kellerei Terlan",2018,20.3,1,"2021-1 2020-1 2016-1",1,,67,11,"450-760m.ü.M. Handlese. Gärung; Edelstahltank. Ausbau; BSA, 12 Monate 50% in grossen Holz, 50% in Barrique(1/3neu). 3 Monate Flaschenlagerung."
+574,"RED",,"Blauburgunder Saltner ",,,,"Kellerei Kaltern",2017,13.2,1,"2021-2 ",1,,46,7,"400-500m.ü.M. Gärung; Holzgärbottich, 2 wöchige Mazeration. Ausbau; BSA; 12 Monate im Tonneau."
+575,"RED",,"Blauburgunder Sanct Valentin",,,,"St. Michael Eppan",2020,26.5,2,"2021-1 ",1,,85,14,
+577,"RED",,"Blauburgunder Turmhof ",,,,"Tiefenbrunner",2021,15,3,,1,,51,8,"450-550m.ü.M. Gärung; Edelstahltank. Ausbau; BSA, 8 Monate in grossen und kleinen Eichenfässern"
+579,"RED",,"Dona Noir ",,,,"Hartmann Donà",2015,52,3,,1,,114,19,"Gärung"
+584,"RED",,"Vinschgau Blauburgunder Sonnenberg ",,,,"Kellerei Meran",2011,8,2,"2012-1",1,,33,5,
+585,"RED",,"Blauburgunder Bachgart",,,,"Hemberg - Klaus Lentsch",2011,10.2,2,,1,,40,6,"400-600m.ü.M. Gärung; im Holz für ca. 2 Wochen. Ausbau;  20 Monate Barrique mit BSA, einige Monate Flaschenlagerung."
+586,"RED",,"Blauburgunder Panigl",,,,"Klosterhof",2012,14,2,,1,,48,8,"Gärung; spontan im offenen Holzbottich. Ausbau; BSA, Barrique"
+587,"RED",,"Blauburgunder Schwarze Madonna",,,,"Klosterhof",2019,18.5,3,,1,,62,10,
+588,"RED",,"Blauburgunder Riserva Linticlarus",,,,"Tiefenbrunner",2020,29,4,,1,,80,13,"400-500m.ü.M. Gärung; Edelstahltank. Ausbau; BSA, 12 Monate im EichenBarrique. 6 Monate grosses Holzfass. 1 Jahr Flaschenlagerung."
+589,"RED",,"Blauburgunder Ludwig",,,,"Elena Walch",2018,27.5,1,"2020-2 ",1,,88,14,"550-600m.ü.M. Gärung"
+596,"RED",,"Merlot Riserva Siebeneich ",,,,"Schreckbichl Colterenzio",2021,15.9,3,,1,,54,8,"Gärung; Edelstahltank, mit Umwälzen der Maische. Ausbau; 17§ in Barrique, 2/3 in 35hl Holzfässern für 18 Monate. 12 Monate Flaschenreifung."
+597,"RED",,"Merlot Riserva Staffes ",,,,"Kornellhof",2019,16.9,0,"nicht gelistet",0,,57,9,"270-320m.ü.m.M. Gärung; Holzbottich mit Maischekontakt für 12 tage. Ausbau; Säureabbau, 22 Monate in Barrique und Tonneau "
+600,"RED",,"Merlot Brenntal ",,,,"Kellerei Kurtatsch",2020,34,3,,1,,94,15,"Gärung"
+604,"RED",,"Merlot Riserva Siebeneich",,,,"Kellerei Bozen",2019,23,2,"2020-1",1,,75,12,"Gärung"
+607,"RED",,"Merlot MCM BIO",,,,"Tenutae Lageder",2019,34.5,2,"2020-1",1,,95,15,"230m.ü.M. Gärung, spontan ca 15 Tage mit BSA im Edelstahltank. Ausbau; 18 Monate in kleinen franz. EichenBarrque 1/3 neu."
+612,"RED",,"Merlot Villa Karneid ",,,,"Castelfeder",2011,7.95,1,"2013-1",1,,33,5,"Gärung"
+613,"RED",,"Merlot Calldiv ",,,,"von Braunbach",2011,10,1,"2012-1",1,,40,6,
+614,"RED",,"Merlot Freiherr",,,"90% Merlot, 10% Cabernet","Kellerei Meran",2011,16,2,,1,,54,9,"330m.ü.M. Gärung"
+616,"RED",,"Merlot Nussleiten ",,,,"Salegg",2019,34.5,2,,1,,95,15,"230m.ü.M. Gärung"
+617,"RED",,"Merlot Raut",,,,"Waldthaler",2014,23.6,1,,1,,77,12,
+618,"RED",,"Merlot Mühlweg ",,,"versch. Klone des Merlot und 5% Cabernet Franc","Weingut Niedrist ",2012,24.4,1,"2019-2 ",1,,79,13,"400m.ü.M. Gärung"
+625,"RED",,"Cabernet Sauvignon Lafoa",,,,"Schreckbichl Colterenzio",2022,55,2,"2020-1",1,,121,20,"430m.ü.M. Gärung; Maischgärng für 10 Tage mit Umwälzung, Mazeration für 10-14 Tage. Ausbau; neue & gebrauchte Barique mit BSA, 18 Monate mit mehrmaligem ""umziehen"". Grobfiltration "
+628,"RED",,"Cabernet Riserva Pfarrhof ",,,"95% Cabernet Sauvignon, 5% Merlot","Kellerei Kaltern",2010,17.9,1,,1,,78,13,"Gärung; Maischgärung im Holzbottich, 4 wöchige Mazeration, BSA. Ausbau;  18 Monate im Barrique 50%neu. Leichte Filtration"
+630,"RED",,"Cabernet Löwengang ",,,,,2003,,0,"nicht gelistet",0,,120,20,
+632,"RED",,"Löwengang Uvaggio Storico","BIO",,,"Tenutae Lageder",2019,57.9,3,,1,,127,21,"BIO, 230-330m.ü.M. als Traubenverschnitt gekeltert. Gärung; spontane Maischgärung für 15 Tage, BSA im Stahltank. Ausbau; kleine Holzfässer 225l franz. Eiche 1/3neu."
+633,"RED",,"Cabernet Sauvignon Cor Römigberg",,,,,2018,36.9,6,,1,,101,16,
+635,"RED",,"Cabernet Cor Römigberg ",,,"Cabernet Sauvignon, Petit Verdot","Tenutae Lageder",2008,52.25,4,,1,,120,20,"BIO, 250-330m.ü.M. Gärung; spontane Maischegärung für 15 Tage, BSA im Stahltank. Ausbau; 18 Monate in franz. Eiche von 150 & 225l, 1/2 Neu. "
+637,"RED",,"Cabernet Cor Römigberg ",,,,"Tenutae Lageder",2004,42,0,"nicht gelistet",0,,130,21,
+638,"RED",,"cabernet cor Römigberg",,,,"Tenutae Lageder",2018,44.2,3,,1,,120,20,
+640,"RED",,"Cabernet Riserva Burgum Novum ",,,,"Castelfeder",2012,14.9,2,"2016-1 ",1,,51,8,"Gärung; Umpumpen des Mostes1x täglich, für die intakthaltung mit den Schalen. BSA. Ausbau; 15 Monate in kleinen Barrique 50% neu. Schonenden Eiweissklärung. Flaschenlagerung 6 Monate."
+641,"RED",,"Cabernet Riserva Kampill",,,"Cabernet Sauvignon, Cabernet Franc","Unterganzner",2016,18.5,0,"2019-2",1,,62,10,"Gärung; Maischekontakt von 10 Tagen, Edelstahltank. Ausbau; BSA, 1-18 Monate in franz. EichenBarrique 50%neu. "
+644,"RED",,"Cabernet Riserva Kirchhügel ",,,"85% Cabernet Sauvignon, 15% Cabernet Franc","Kellerei Kurtatsch",2011,9.3,1,"2012-1",1,,37,6,"Gärung; Rotortank. Ausbau; 14 Monate Barrique, danach im grossen Holzfass"
+645,"RED",,"Cabernet Freienfeld ",,,"Cabernet Sauvignon","Kellerei Kurtatsch",2017,39.9,1,"2020-2",1,,110,18,"Gärung; Rotortank. Ausbau; 50%neu, 50% 2-4 Jahre alten Barrique für 14 Moante. Assemblage im grossen Holzfass. Lange Flaschenlagerung."
+649,"RED",,"Cabernet Sauvignon ",,,,"Tiefenbrunner",2022,15,2,,1,,51,8,"230-320m.ü.M. Gärung; Edelstahltank. Ausbau; BA, 8 Monate in grossen und kleinen EichenHolzfässern."
+654,"RED",,"Cabernet Franc Amistar",,,"Cabernet Franc","Peter Sölva & Söhne",2020,37.9,1,"2016-1",1,,104,17,"Gärug; Edelstahltank. Ausbau; BSA, 1 Jahr in Barrique 1/3neu"
+656,"RED",,"Cabernet Istrice",,,"90% Cabernet Sauvignon, 10% cabernet Franc","Elena Walch",2018,17.9,2,"2019-1 2022-2 ",1,,60,9,"400m.ü.M. Gärung"
+657,"RED",,"Cabernet Riserva Ringberg",,,"Cabernet sauvignon","Elena Walch",2018,32.3,2,"2021-1",1,,89,14,"350m.ü.M. Gärung"
+658,"RED",,"Cabernet Mumelter",,,"Cabernet Sauvignon, Cabernet Franc","Kellerei Bozen",2017,25,3,,1,,81,13,"330m.ü.M. Gärung"
+659,"RED",,"Cabernet Riserva Siemegg",,,"70% Cabernet Sauvignon, 30% Cabernet Franc","Kellerei Terlan",2012,10.84,1,,1,,42,7,"250-399m.ü.M. Handlese. Gärung; Edelstahltank mit Maischebewegung. Ausbau; BA, 12 Monate 70% grossen Holzfass, 30% in Barrique 1/3neu. Assemblage 3 Monate vor der Flaschenabfüllung."
+660,"RED",,"Cabernet Raut",,,,"Waldthaler",2009,21.1,2,,1,,69,11,
+661,"RED",,"Barleith",,,"Cabernet s. , cabernet f. ","Tröpfltalhof",2020,37.9,3,,1,,104,17,"Gärung; spontan in der Tonamphore, 8 wochen auf der Schale. Ausbau; 1  Jahr im Eichenfass, dann zurück in die Amphore."
+666,"RED",,"Lagrein Risera",,,,"Kiemberger",2018,18.9,3,,1,,63,10,
+667,"RED",,"Lagrein Riserva Weingarten Klosteranger",,,,"Abtei Muri",2018,52,3,,1,,114,19,
+668,"RED",,"Lagrein Villa Schmid ",,,"Lagrein","Schmid-Oberrautner",2011,8.3,1,,1,,34,5,"Handlese. Gärung; natürliche Maischegärung Holzfass. Ausbau; BSA un Reife im EichenHolzfass, 20% amerikanischen Barrique."
+671,"RED",,"Lagrein Gran Lareyn BIO",,,"Lagrein","Loacker Schwarhof",2020,14.6,1,"2021-2 ",1,,50,8,"Gärung; Rotortank. Ausbau; 12 Moante in Barrique, anschliessend lagerung im grossen Holzfass"
+672,"RED",,"Lagrein Frauenhügel",,,"Lagrein","Kellerei Kurtatsch",2018,18,2,"2021-1 ",1,,60,10,"Gärung; Rotortank. Ausbau; 12 Moante in Barrique, anschliessend lagerung im grossen Holzfass"
+673,"RED",,"Lagrein ",,,,"Rottensteiner",2019,9.2,1,"2020-6",1,,37,6,"Gärung"
+674,"RED",,"Lagrein Grieser Riserva Select",,,,"Rottensteiner",2017,16.6,1,"2021-2 ",1,,56,9,"Ausbau"
+675,"RED",,"Lagrein Riserva Thurnhof ",,,,"Andreas Berger",2016,16.9,1,"2018-1 2021-1 ",1,,57,9,"Ausbau"
+677,"RED",,"Lagrein Riserva",,,,"Griesbauerhof",2016,20.9,1," 2017-1 2020-1 ",1,,69,11,"300m.ü.M. seit 1785 im Besitz der Fam. Mumentaler"
+679,"RED",,"Lagrein Riserva",,,"Lagrein ( Kurzstiel und Langstiel)","Unterganzner",2018,18.6,2,"2019-1",1,,62,10,"Gärung; Edelstahltank, Maischekontaktzeit von 8 Tagen. Ausbau; BSA, 15-18 Monate in kleinnen Holzfässern"
+680,"RED",,"Lagrein Riserva Taber",,,,"Kellerei Bozen",2021,31.9,3,,1,,90,15,"250m.ü.M. Gärung"
+682,"RED",,"Lagrein Riserva Prestige Line ",,,,"Kellerei Bozen",2018,19,2,"2020-2",1,,63,10,"Gärung"
+686,"RED",,"Lagrein Riserva",,,,"Waldgries",2021,17.5,4,,1,,59,9,"Gärung; Maischestandzeit bis zu 35 Tagen im Bottich, 10% mit ganzen Trauben vergoren.. Ausbau; 1/3 grosses Holzfass, 2/3 Barrique für 12 Monate"
+688,"RED",,"Lagrein Mirell",,,,"Waldgries",2020,31,3,,1,,87,14,"Gärung; Maischenstandzeit bis zu 35 Tagen im Bottich, 10% der Taruebn werden spätreif gelesen. Ausbau; Barrique"
+689,"RED",,"Roblinus de Waldgries",,,,"Waldgries",2018,64.9,0,"nicht gelistet",0,,143,23,"250m.ü.M."
+691,"RED",,"Lagrein Riserva Carano",,,,"Baron di Pauli",2016,22.4,2,"2019-1 ",1,,73,12,"Gärung; spontangärung im offenen Gärbehälter, Maischemazeration von 25 Tagen. Ausbau; Barrique 50%neu, BSA, 18 Monate im kleinen Fass"
+692,"RED",,"Lagrein Riserva Kristan",,,,"Egger Ramer",2011,15,1,"2012-1 2021-1",1,,51,8,"12 Monate im grossen Holzfass."
+693,"RED",,"Lagrein Riserva BIO",,,,"Happacherhof",2019,15.3,3,,1,,52,8,"Maischegärung, anschliessende 15 Monate im Eichenfass."
+694,"RED",,"Lagrein Riserva",,,,"Messnerhof",2011,12.3,1,"2012-1",1,,47,7,"Ausbau;zu je  1/3 im grossen Holzfass, Tooneau 500l, gebrauchte Barrique für 18 Monate."
+695,"RED",,"Lagrein",,,,"Putzenhof",2011,9.15,2,,1,,37,6,"Gärung"
+696,"RED",,"Lagrein Riserva",,,,"Reyter Hof",2013,15.9,1,"2015-2",1,,54,8,
+697,"RED",,"Lagrein Raut",,,,"Waldthaler",2009,21.1,1,,1,,69,11,"Seit 1983 werden unter dem geschützten Markenzeichen RAUT die hochwertigsten Weine unserer Auer Lagen abgefüllt.
+Weine aus selektioniertem Lesegut der Sorten Merlot, Lagrein und Cabernet gekeltert und mit größter Sorgfalt nach traditionellen Methoden ausgebaut. Reife in der Regel für 3-4 Jahre in Eichenfässern 225-500l.
+Erst nach einigen weiteren Monaten Flaschenreife verlässt ein echter RAUT unsere Keller."
+698,"RED",,"Lagrein ",,,,"Muri Gries",2016,6.95,5,"2020-2",1,,31,5,"260m.ü.M. Gärung"
+699,"RED",,"Lagrein Riserva Abtei",,,,"Muri Gries",2020,20.9,3,"2021-2",1,,69,11,"260-280m.ü.M. Gärung; Edelstahltank für 14 Tage, BSA. Ausbau; 15 Monate im kleinen Holzfass. "
+702,"RED",,"Lagrein Calldiv ",,,,"von Braunbach",2011,8,3,,1,,33,5,"mehrjährigem Lagerungs-und Reifungsprozess"
+703,"RED",,"Lagrein aus Gries Blacedelle ",,,,"Niedermayr",2011,8.25,2,,1,,34,5,"Gärung"
+704,"RED",,"Lagrein aus Gries Riserva",,,,"Niedermayr",2011,14.2,3,,1,,49,8,"Gärung"
+705,"RED",,"Lagrein Gries Riserva",,,,"Nals Margreid",2015,19.5,2,"2020-1",1,,65,10,"138 Weinbauern. 6 Monate Holzfass."
+706,"RED",,"Lagrein Gries Riserva",,,,"Kellerei Terlan",2021,17.7,3,,1,,59,9,"250-500m.ü.M. Handlese. Gärung; Maischevergärung mit Umwälzen im Edelstahltank. Ausbau; 12 Monate im grossen Holz 70% , 30% im Barrique 1/3 neu, mit BSA. Assemblage 3 Monate vor der Flaschenabfüllung"
+707,"RED",,"Lagrein Riserva Porphyr ",,,,"Kellerei Terlan",2017,42.5,1,"2015-1 2021-1 ",1,,117,19,"250-500m.ü.M. Handlese. Gärung"
+709,"RED",,"Lagrein Riserva BIO",,,,"Nusserhof",2017,19.6,1,"2019-1 ",1,,65,10,"Gärung mit Natur Hefe im Stahltank, 30 Monate im grossen Holzfass. 30 Monate Flaschenlagerung"
+710,"RED",,"Lagrein Riserva Barbagol ",,,,"Laimburg",2020,18.4,3,,1,,61,10,"20 Moante im Holz"
+711,"RED",,"Lagrein Rubatsch BIO",,,,"Manincor",2016,21.4,1,"2017-1  2019-1",1,,70,11,"250m.ü.M. Gärung; spontan im Holzbottich. 2 Wochen Mazerationszeit mit Umwälzen. Ausbau; 4 Monate in Barrique, jedes 10 Fass neu."
+713,"RED",,"Lagrein Urban",,,,"Kellerei Tramin",2011,22,1,"2019-1 2020-1 ",1,,72,11,"Gärung; Holzfass. Ausbau; BSA, franz EichenBarrique, danach grosses Holzfass für 14 Monate. 1 Jahr Flaschenlagerung."
+716,"RED",,"Lamarein ",,,,"Unterganzner",2022,41.96,3,,1,,115,19,
+720,"RED",,"Kirchegg ",,,"80%merlot, 20% cabernet sauvignon","Hofstätter",2009,10.2,2,,1,,40,6,"Gärung"
+722,"RED",,"Amistar Rot Edizione",,,"lagrein, merlot, cabernet s., cabernet f., petit verdot","Peter Sölva & Söhne",2019,37.9,1,,1,,104,17,
+723,"RED",,"Athos",,,"merlot, cab. F. cab. S","Ansitz Dolomythos",2014,25,3,"2015-3",1,,81,13,
+724,"RED",,"Löwengang Uvaggio Storico","BIO",,"Carmenère, Cabernet Franc, Cabernet Sauvignon, Petit Verdot","Tenutae Lageder",2018,57.9,3,,1,,127,21,"BIO, 230-330m.ü.M. als Traubenverschnitt gekeltert. Gärung; spontane Maischgärung für 15 Tage, BSA im Stahltank. Ausbau; kleine Holzfässer 225l franz. Eiche 1/3neu."
+728,"RED",,"Viribus Wein",,,,,2016,,9,,1,,115,19,
+732,"RED",,"Loam ",,,"50% Cabernet Sauvignon, 20% Cabernet Franc, 30% Merlot","Kellerei Tramin",2021,31.5,4,,1,,87,14,"Gärung"
+734,"RED",,"Arzio ",,,"50%merlot,25% cabernet s., 25%cabernet f. ","Baron di Pauli",2020,28.8,3,,1,,85,14,"Gärung; spontan im Holzgärbottich, 3 wöchige Maischemazeration. Ausbau; Barrique 70%neu, BSA, 16 Monate im kleinen Fass. Abfüllung Ende Mai"
+735,"RED",,"Col de Rey ",,,"50%lagrein, 30%petit verdot, 20%tannat","Laimburg",2018,27.5,3,,1,,88,14,"250-350m.ü.M. Ausbau"
+738,"RED",,"Cason Hirschprunn Rot BIO",,,"merlot, cabernet s., cabernet f. , lagrein, syrah","Tenutae Lageder",2018,25.7,1,"2016-1 2019-1",1,,83,13,"230-360m.ü.M. Gärung"
+743,"RED",,"Rubin",,,"70%merlot, 30%cabernet Sauvignon","Happacherhof",2018,14.5,3,,1,,50,8,"Maischegärung. Ausbau"
+745,"RED",,"Feldherr BIO ",,,"cabernet s., cabernet f., carménère","Lieselehof",2016,28.5,3,,1,,78,13,"24 Monate im kleinen Holzaff. Unfiltriert, 6 Monate Flaschengärung"
+746,"RED",,"Cassiano BIO",,,"50%merlot, 40%cabernet Franc, 6%tempranillo, 4%syrah","Manincor",2019,21.6,3,,1,,71,11,"250-280m.ü.M. Gärung; einzeln, spontan im Holzbottich, Mazerationszeit je nach Traube 10-20 Tage. Ausbau; 18 Monate im Barrique 1/3neu. "
+748,"RED",,"Anticus Riserva Baron Salvadori",,,"merlot, cabernet","Nals Margreid",2019,25.5,2,,1,,82,13,"138 Weinbauern. 20 Monate Barriqueausgebaut."
+751,"RED",,"Cornell Cornelius ",,,"20% cabernet sauvignon, 80% merlot","Schreckbichl Colterenzio",2016,18.5,1,"2017-1",1,,62,10,"250-430m.ü.M. Gärung; Maischegärunf für 7-10 Tage. Ausbau; BSA in barrique. Assembalge im Frühjahr, 14 Monate in kleinen Eichenfässsern. Grobfilterung. 12 Monate Flaschenlagerung."
+753,"RED",,"Composition Reif ",,,"cabernet s., cabernet f., merlot, petit verdot, lagrein","Unterganzner",2018,27.5,5,,1,,88,14,"Gärung; Edelstahltank, Maischestandzeit: 10 Tage beim Cabernet, 7 Tage beim Lagrein. Ausbau; BSA, 18 Monate in neuen EichenBarrique"
+755,"RED",,"Mauritius ",,,"lagrein, merlot","Kellerei Bozen",2000,,1,,1,,65,10,"250m.ü.M. Gärung"
+757,"RED",,"Cuvée Linticlarus ",,,"55% cabernet, 45% merlot","Tiefenbrunner",2014,24.9,5,"2012-1",1,,81,13,"280-300m.ü.M. Gärung"
+760,"RED",,"Reserve del Conte Manincor BIO",,,"35% lagrein, 40% merlot, 25% cabernet","Manincor",2020,14.2,1,"2021-1 2022-1",1,,49,8,"250m.ü.M. Jede Charge wird separat gekeltert, immer mit Maischegärung, zum Tel spontan mit Traubeneigenen Hefe in Holz-, Beton- und Edelstahlbottich. 10 Tage Mazeration, 1x am Tag Umwälzen. Ausbau; 12 Monate im Holz verschiedener grössen. "
+767,"RED",,"Teroldego Rotaliano ",,,,"Foradori",2016,14,1,"2018-1 2019-1 ",1,,48,8,"im Holzfass300l ausgebaut."
+769,"RED",,"Teroldego Granato","BIO",,,"Foradori",2021,42.5,3,,1,,117,19,"Gärung"
+770,"RED",,"Teroldego Ottavio ",,,,"De Viglili",2018,28,2,,1,,90,14,"200m.ü.M. Gärung"
+771,"RED",,"San Leonardo ",,,"cabenet s., carmenère, merlot","Tenuta San Leonardo",2017,69.9,1,"2018-2",1,,154,25,"Handlese. 18-24 Monate franz. Barrique."
+772,"RED",,"Teroldego Diedri Riserva",,,,"Dorigati",2010,13.9,3,,1,,48,7,"Gärung; langer Maischekontakt. Ausbau; 12 Monate in kleinen Eichenfässern, 6 Moante im Stahlbehälter. 6 Monate Flaschenlagerung."
+777,"RED",,"Inferno Valtellina Superiore DOCG Riserva",,,,"Rainoldi",2019,25.3,19,,1,,82,13,
+778,"RED",,"Sassella Valtellina Superiore ",,,"nebbiolo","Mamete Prevostini",2014,10.6,2,,1,,42,6,"450-650m.ü.M. Gärung"
+779,"RED",,"Sfursat 5 Stelle",,,"chiavennasca","Negri Nino",2011,51.48,1,"2017-2 ",1,,113,18,"400-450m.Ü.M. Handlese. Gärung; 3 Tage Mazeration, 16 Tage Fermentation. Ausbau; 24 Monate in neue franz. Barrique mit BSA. 4 Monate Flaschengärung."
+780,"RED",,"Ronchedone ",,,"marzemino, sangiovese, 10% cabernet","Cà dei Frati",2014,11.9,2,"2012-1",1,,46,7,"Gärung; langer Maischekontakt, Mazeration im Stahltank. Ausbau; BSA im Barrique. 14 Monate im Barrique. 10 Monate Flaschengärung. "
+781,"RED",,"Sforzato Albareda ",,,"nebbiolo","Mamete Prevostini",2011,39.8,0,"2017-2 ",1,,109,18,"350-550.m.ü.M. Handlese. 22 Tage Mazeration auf der Schale. Ausbau"
+782,"RED",,"Sassella Riserva ""Rocce Rosse""",,,"nebbiolo","AR.PE.PE.",2016,56,2,,1,,123,20,"4 Jahre im Holz50hl"
+783,"RED",,"Sassella Valtellina Superiore  Sommarovina",,,,,2015,17.2,5,,1,,58,9,
+786,"RED",,"La Poja ",,,"corvina veronese","Allegrini",2017,79.9,2,"2000-1 ",1,,176,29,"320m.ü.M. Handlese. Gärung; 12-15 Tage Fermentation. BSA im Barrique. Ausbau; 20 Monate im franz. Neuen Barrique, 10 Monate Flaschenlagerung."
+787,"RED",,"La Grola ",,,"corvina, corvinone, oseleta, syrah","Allegrini",2014,15.6,3,,1,,62,10,"310m.ü.M. Handlese. Gärung; im Stahltank mit Umwäzen. BSA im Barrique.  Ausbau; 16 Monate im Eichenholz ( 2te Belegung), 10 Monate Flaschenlagerung"
+788,"RED",,"Amarone della Valpolicella ",,,"corvina, rondinella","Bertani",2005,70.05,1,"2010-1",1,,180,30,"Handlese. Gärung; trocknung bis mitte Januar, 120-125 Oechslegrad. Vergärung von ca. 50 Tagen. Ausbau; 6 Jahre reifeung in Fäassern aus slawonischer Eiche 60hl. 1 Jahr Flaschenreife."
+789,"RED",,"Amarone della Valpolicella",,,"corvina veronese, rondinella, oseleta","Allegrini",2017,55,1,"2018-1  2019-1",1,,130,21,"Handlese. Trauben 3-4 Monate Luftgetrockent. 25 Tage Gärung im Stahl mit Umwälzen. Ausbau; 18 Moante im kleinen Holzfass, 7 Monate im grossen Slow. Eichenfass. 14 Monate Flaschenlagerung"
+790,"RED",,"Amarone della Valpolicella",,,"60% Corvina, 20% Rondinella, 10% Oseleta, 10% Croatina","Dal Forno Romano",2008,330,2,,1,,590,98,"Handese. 3 Monate Lufttrocknen.nur Reben älter als 10 Jahre. Fermentation 15 Tage. Ausbau"
+791,"RED",,"Vaio Amaron Serego Aleghieri",,,"65% Corvina, 20% Rondinella, 15% Molinara","Masi",2015,49.9,2,,1,,110,18,"Handlese. Trocknung. 3 Jhare in slov. Eiche. 4 Monate im Kirschenholz."
+792,"RED",,"Amarone della Valpolicella",,,"55% Corvina-Croatina-Nebbiolo, 30% Rondinella-Sangiovese,  15% cabernet Sauvignon","Quintarelli Giuseppe",2011,275,2,,1,,605,100,"Fermentation 45 Tage. Ausbau"
+794,"RED",,"Amarone della Valpolicella Telos",,,"70% corvina, 20% rondinella, 5% croatina, 5% oseleta","Sant Antonio",2015,32,1,,1,,88,14,"350m.ü.M. Handlese. Ausbau"
+795,"RED",,"Amarone della Valpolicella Casa dei Bepi ",,,"75% corvina veronese, 20% rondinella, 5% molinara","Viviani",2013,45.5,2,,1,,118,19,"450m.ü.M. "
+796,"RED",,"Amarone della Valpolicella ",,,"corvina, rondinella, oseleta, croatina","Zenato",2017,40.04,1,"2017-2 Riserva 79",1,,110,18,"Ausbau"
+797,"RED",,"Amarone della Valpolicella ",,,"45% corvinone, 25%  corvina gentile, 20% rondinella, 10% croatina","Marion",2014,40.9,1," 2018-2 ",1,,112,18,"Trocknung bis Ende Dezember- Anfrang Januar. 20 Tage kaltmazeration. BSA für 40 Tage. Holz- & slawonischer Eichenausbau für 36 Monate."
+798,"RED",,"Amarone della Valpolicella ",,,"60 % Corvina veronese, 15% Corvinone, 20%  rondinella, 5% croatina","Roccolo Grassi",2015,42,3,,1,,116,19,"200-250m.ü.M. Ernte Ende September, trocknung bis erste Dezember Woche. Gärung; Stahltank, Kaltmazeration von6-7 Tage. Fermentation für 21 Tage. BSA im Holz. Ausbau; in 50% neuen franz. Barrique 225l für 26 Moante. 1 Jahr Flaschenalgerung."
+799,"RED",,"Amarone della Valpolicella Riserva",,,"70% corvina & corvinone, 20% rondinella, 10% oselata","Musella",2016,29.9,1,,1,,82,13,"trocknung bis Januar. Ausbau"
+800,"RED",,"Cabernet Sauvignon S. Cristina ",,,,"Zenato",2010,9.84,3,,1,,39,6,"Gärung; 2 Wochen im Stahl mit Umwälzen. Ausbau; 18 Moante in neuen und alten Barrique. Assemblage, einige Monate im Stahl. 6 Monate Flaschenlagerung."
+801,"RED",,"Merlot La Sansonina",,,,"Sansonina",2006,25.75,2,,1,,83,13,
+802,"RED",,"Valpolicella Classico Superiore",,,"60% corvina, 15% corvinone,20% rondinella, 5% croatina","Roccolo Grassi",2013,15,2,,1,,51,8,"200-250m.ü.M. Gärung"
+803,"RED",,"Valpolicella Superiore ",,,"70 %corvina & corvina grossa, 20 %rondinella, 5% croatina, 5%oseleta","Dal Forno Romano",2012,72.8,3,,1,,160,26,"45 tage trocknung. Gärung"
+804,"RED",,"Valpolicella Superiore ",,,"corvina, corvinone, rondinella, cabernet s., nebbiolo, croatina, sangiovese","Quintarelli Giuseppe",2012,70.9,1,"2016-2",1,,156,25,
+805,"RED",,"Valpolicella La Bandina",,,"70% corvina, 20% rondinella,5%  croatina, 5%oseleta","San Antonio",2008,17.2,1,"2018-1 2019-1 ",1,,58,9,"300m.ü.M. Handlese. BSA im Holz. Batonnage 1x im Monate im ersten Jahr.   Ausbau"
+806,"RED",,"Valpolicella Superiore ",,,"70 % Corvina & Corvinone, 20% rondinella, 10% barbera","Musella",2017,9.9,2,"2013-1",1,,39,6,"Gärung"
+807,"RED",,"Campo Morar Valpolicella Ripasso",,,"75% Corvina veronese, 20% Rondinella, 5% Molinara","Viviani",2015,15.7,1,"2017-1",1,,53,8,
+808,"RED",,"Valpolicella Superiore Ripasso",,,"85% Corvina veronese, 10% Rondinella, 5% Oseleta","Zenato",2018,14.2,2,,1,,49,8,"250-300m.ü.M. Handlese. Gärung"
+809,"RED",,"Brentino ",,,"55%  Merlot, 45% Cabernet sauvignon","Maculan",2011,8.85,3,,1,,36,5,"Handlese. Gärung; Stahltank. Ausbau; 50% im Stahl, 50% für 1 Jahr im franz. Eichenbarrique."
+810,"RED",,"Fratta",,,"cabernet sauvignon, merlot","Maculan",2012,41.9,1,"2015-2 ",1,,115,19,"Handlese. Gärung"
+811,"RED",,"Amarone Riserva",,,,"Bertani",2009,64.75,1,,1,,165,27,
+812,"RED",,"Secco Vintage",,,,,2015,9.3,6,,1,,37,6,
+813,"RED",,"Amarone della Valpolicecca",,,,"Bertani",2012,,12,,1,,159,26,
+815,"RED",,"Focus ",,,"Merlot","Pasini Volpe",2007,17.9,2,,1,,60,9,"Fermentation im neuen Barrique für 12 Monate. 12 Moante Flaschenlagerung."
+816,"RED",,"Merlot Graf de la Tour ",,,"Merlot","Villa Russiz",2018,29.9,3,,1,,82,13,"Handlese. Gärung; 20 Tage. Ausbau; 24 Moante in franz. Barrique 225l. Assemblage, im Stahl. 10 Moante Flaschenlagerung. "
+817,"RED",,"Prelit ",,,"70% Merlot, 30% Cabernet sauvignon","Podversic Damijan",2014,23.76,2,,1,,77,12,"Gärung"
+818,"RED",,"Breg ",,,"merlot, cabernet sauvignon Pignolo","Gravner",2003,125.4,1,"2007-1 ",1,,276,45,"Gärung im Holz. Ausbau; 5 Jahre im Eichenholz, 5 Jahre Flaschenlagerung. Keine Schönung, filtration"
+819,"RED",,"Rujno ",,,"Merlot","Gravner",1999,146.4,1,"2003-1 ",1,,322,53,"Fermentation spontan für 5 Wochen.Ausbau; im Eichenholz 228l für 36 Monate. 6 Jahre in der Flasche. Keine Schönung, Filtration. "
+820,"RED",,"Refosco dal Peduncolo Rosso",,,"Refosco dal Peduncolo Rosso","Felluga Livio",2007,14.4,2,,1,,49,8,"Handlese. Gärung"
+825,"RED",,"Chianti Classico Gran Selezione Castello di Brolio ",,,"80% Sangiovese, 10% Cabernet Sauvignon,  5% Merlot, 5% Petit Verdot ","Barone Ricasoli",2016,31.5,3,,1,,87,14,"250-450m.ü.M. Gärung"
+826,"RED",,"Chianti Classico ",,,"96% Sangiovese, 4% Merlot","Castello di Ama",2021,18.6,3,,1,,62,10,"Handlese. Gärung; im Stahltank mit Umwälzung für 21-23 Tage. BSA. Ausbau; Assemblage, danach 12 Monate in neue und alte Barrique. "
+827,"RED",,"Chianti Ducale Oro Riserva ",,,"80% Sangiovese, 10% Cabernet s., 10% Merlot","Ruffino",2009,18.5,3,,1,,62,10,"Nur die besten Jahre! Handlese. Ausbau; 36 Monate, davon 12 in grossen Eichenholzfässern. 6 Monate Flaschenlagerung."
+828,"RED",,"Chianti Classico",,,"95% Sangiovese, 5% Canaiolo","San Giusto a Rentennano",2017,12.8,2,,1,,49,8,"Gärung; 14 Tage auf der Schale. Ausbau; 12 Monate in Eichenholz, Tonnenau und Barrique."
+829,"RED",,"Chianti Cassico","bio",,"sangioves","Fontodi",2020,25,2,"2021-1",1,,81,13,
+830,"RED",,"Chianti Classico Riserva Le Baroncole",,,"97% Sangiovese, 3% Canaiolo","San Giusto a Rentennano",2017,23.4,2,"2020-1",1,,76,12,"Gärung"
+831,"RED",,"Chianti Classico Castello di Fonterutoli",,,"92% Sangiovese, 8% Malvasia nera & Colorino ","Marchesi Mazzei",2008,24.9,2,,1,,81,13,"220-520m.ü.M. Handlese. Gärung;15-18 Tage Mazeration. Ausbau; 20 Monate im kleinen Eichenfässern 500l, 60% neue franz. Eiche."
+832,"RED",,"Chianti Classico Granz Selezione San Lorenzo",,,": 80% Sangiovese, 13% Merlot, 7% Malvasia Nera","Castello di Ama",2019,40,3,,1,,110,18,
+833,"RED",,"Chianti Classico ",,,"90% Sangiovese, 10% Merlot, Cabernet s., Canaiolo","Poggio al Sole",2010,8.4,3,,1,,54,9,"Handlese. Gärung"
+834,"RED",,"Chianti Classico Riserva Vigna il Poggiale ",,,"90% Sangiovese, 5% Canaiolo, 5% Ciliegino","Castellare",2013,29.3,1,"2019-2 ",1,,81,13,"350-400m.ü.M. Gärung; Stahltank, Fermentation von 16-23 Tage. Ausbau; in 20% neuen Barrique 225l für 12- 18 Moante. 12 Monate Flaschenlagerung "
+835,"RED",,"Chianti Rufina Riserva Nipozzano ",,,"90% Sangiovese, 10 % malvasia
+nera /colorino / merlot/ cabernet Sauvignon","Marchesi de Frescobaldi",2009,10.33,2,"2013-1",1,,41,6,"250-500m.ü.M. Handlese. Gärung; Stahltank, Fermentation für 13 Tage. Mazeration für 25 Tage mit Umwälzen.BSA. Ausbau; 24 Monate im Barrique. 3 Moante Flaschenlagerung."
+836,"RED",,"Montesodi IGT",,,"Sangiovese","Marchesi de Frescobaldi",2016,29.5,3,,1,,81,13,"400m.ü.M. Handlese. Gärung; Stahltank, Fermentation von 35 Tagen.BSA. Ausbau; 18 Moante im Eichenholz. 6 Monate in der Flasche."
+837,"RED",,"Chianti Classico ",,,"90% Sangiovese, 5% Cabernet s., 5% Merlot","Castello di Rampolla",2010,17.82,1,"2018-3 2010-1",1,,60,9,"380m.ü.M. Gärung; 7 Tage Fermentation. Mazeration auf der Schale 30 tage. BSA. Ausbau; 12 Monate im Eichenholz 25/30hl, Barrique 225l, Tonneau 500l. 6 Monate Flaschenlagerung."
+838,"RED",,"Chianti Classico BIO",,,"sangiovese, cabernet s.","Querciabella",2010,19.8,4,,1,,65,10,"biodinamic,"
+839,"RED",,"Giorgio Primo ",,,"60% Cabernet s., 35% Merlot, 5% Petit verdot","Fattoria La Massa",2017,75.9,2,,1,,167,27,"360m.ü.M. Ausbau; in neuen Barrique für 18 Monate, ."
+842,"RED",,"Camartina Bio ",,,"70% Cabernet sauvignon, 30% Sangiovese","Querciabella",2008,79.2,0,"nicht gelistet",0,,174,29,"biodinamic, 1 Jahr im franz. Barrique. 25% neu. 6 Monate Flaschenlagerung."
+843,"RED",,"Guado al Tasso ",,,"55% Cabernet s., 25% Merlot, 18% Cabernet f. 2% Petit verdot","Marchesi Antinori",2005,100.8,0,"nicht gelistet",0,,230,38,"Fermentation 15-20 Tage. 1 Jahr in franz. Barrique mit BSA. Assemlage, 6 Monate Barrique."
+845,"RED",,"Guado al Tasso ",,,"60% Cabernet s., 30% Merlot, 10% Syrah","Marchesi Antinori",2001,85,3,,1,,215,35,"Fermentation 15-20 tage im Stahl. 1 Jahr in franz. Barrique mit BSA. Assemblage, 14 Monate Barrique, 1 Jahr Flaschenlagerung."
+846,"RED",,"Le Stanze ",,,"80% Cabernet s.,20% Merlot","Poliziano",2017,33.8,2,,1,,93,15,"250-350m.ü.M. Gärung"
+847,"RED",,"Bolgheri Rosso",,," Cabernet s.,   Cabernet f.,  Merlot","Grattamacco / Collemassari",2012,17.9,1,"2019-2 ",1,,60,9,
+849,"RED",,"Grattamacco Rosso Bolgheri Superiore",,,"65% Cabernet s., 20% Merlot,  15% Sangiovese","Grattamacco / Collemassari",2015,68.9,1,"2018-3 ",1,,152,25,"Handlese. Gärung"
+850,"RED",,"Insoglio del Cinghiale ",,,"30% Syrah, cabernet f., merlot, petit verdot","Tenuta Campo di Sasso / Lodovico Antinori",2021,16.9,1,"2022-2",1,,57,9,
+851,"RED",,"Monteverro ",,,"45% Cabernet s., 35% Cabernet f., 10% Merlot,10%  Petit verdot","Monteverro",2012,109.7,0,"2019-1 ",1,,241,40,"Gärung"
+852,"RED",,"Tinata Monteverro ",,,"70% Syrah, 30% Grenache","Monteverro",2010,58,3,,1,,128,21,"Gärung"
+854,"RED",,"Sassicaia ",,,,"Tenut San Guido ",2021,290,3,,1,,590,98,
+855,"RED",,"Sassicaia ",,,"85% Cabernet sauvignon, 15% Cabernet franc","Tenuta San Guido",2017,125.4,0,"nicht gelistet",0,,360,60,"100-300m.ü.M. Gärung; im Stahltank, ca. 2 Wochen auf der Schale mit Umwälzen, BSA im Stahltank. Ausbau; 24 Monate im franz. Eichenbarrqiue. Flaschenlagerung."
+856,"RED",,"Sassobucato",,,"50% Merlot, 50% Cabernet sauvignon","Azienda Agricola Russo",2018,14.5,2,,1,,50,8,"80m.ü.m. Handlese. Gärung; im Stahl, Fermentation für 12 Tage. Mazeration für 15 Tage. BSA. Ausbau; 16 Moante in franz. EichenBarrique. 8 Moante Flaschenlagerung."
+858,"RED",,"50 & 50 ",,,"Sangiovese & Merlot","Capannelle & Avignonesi",2007,89,1,"2018-2 ",1,,196,32,"Gärung; im Holz, Mazeration für 15-20 Tage. Ausbau; 18 Monate im franz. Eichenbarrique ( Mittlere Tostatur)"
+859,"RED",,"Camarcanda",,,"50% Merlot, 40% Cabernet s., 10% Cabernet f.","Gaja-Ca'Marcanda",2018,110,1,,1,,242,40,
+861,"RED",,"Castello di Bolgheri - Bolgheri Superiore",,,"cabernet s., merlot, cabernet f. ","Castello di Bolgheri",2019,46,2,,1,,101,16,"Handlese. Gärung"
+862,"RED",,"Paleo ",,,"cabernet franc","Le Macchiole",2018,56,2,,1,,123,20,
+863,"RED",,"Paleo ",,,"cabernet franc","Le Macchiole",2019,94.38,7,,1,,208,34,
+864,"RED",,"Messorio",,,"Merlot","Le Macchiole",2019,188.76,2,,1,,415,69,"Lese in der 1 & 2 Septemberwoche. Gärung"
+866,"RED",,"Tignanello ",,,"80% Sangiovese, 15%Cabernet s., 5% Cabernet f. ","Marchesi Antinori",2020,85.4,1,,1,,188,31,
+867,"RED",,"Solaia",,,"75% Cabernet s, 20% Sangiovese, 5% Cabernet f.","Marchesi Antinori",2013,170,1,,1,,374,62,"BSA im Barrique. Ausbau; 18 Moante in franz. Und ungarischen EichenBarrique. Assemblage, kurze Flaschenlagerung."
+868,"RED",,"Solaia",,,,,2020,273,2,,1,,601,100,"BSA im Barrique. Ausbau; 18 Moante in franz. Und ungarischen EichenBarrique. Assemblage, kurze Flaschenlagerung."
+870,"RED",,"Solaia",,,"75% Cabernet s., 20% Sangiovese, 5% Cabernet franc","Marchesi Antinori",2006,358.6,1,,1,,750,125,"BSA im Barrique. Ausbau; 18 Moante in neuen  franz.  EichenBarrique. Assemblage, 1 Jahr Flaschenlagerung."
+872,"RED",,"Desiderio  ",,,"85% Merlot, 15% Cabernet sauvignon","Avignonesi",2019,36,3,,1,,99,16,"Ausbau"
+873,"RED",,"Cabreo Il Borgo ",,,"70% Sangiovese, 30% Cabernet sauvignon","Tenute del Cabreo Folonari",2016,31.9,1,"2016-1 2017-1 2020-1 ",1,,88,14,"300m.ü.M. Gärung im Stahltank. Mazeration für 15-18 Tage. Ausbau; Assemblage, in franz. Eichenfässern 30% neu, 40% zweite Belgeung, 30% dritte Belegung. 16-18 Moante. 6 Monate Flaschenlagerung."
+875,"RED",,"Siepi ",,,"50% Sangiovese, 50% Merlot","Marchesi Mazzei",2006,75.6,1,"2016-1",1,,230,38,"260m.ü.m. Handlese. Gärung; Mazeration 14 Tage Merlot, 16 Tage Sangiovese.Ausbau; Merlot, 18 Monate in kleinen franz. EichenBarique 225l. Sangiovese, 16 Monate in klienen franz. EichenBarrqiue 225l. 8 Monate Flaschenlagerung."
+876,"RED",,"Siepi ",,,"50% Sangiovese, 50% Merlot","Marchesi Mazzei",2005,119.8,2,,1,,260,43,"260m.ü.m. Handlese. Gärung; Mazeration 14 Tage Merlot, 16 Tage Sangiovese.Ausbau; Merlot, 18 Monate in kleinen franz. EichenBarique 225l. Sangiovese, 16 Monate in klienen franz. EichenBarrqiue 225l. 8 Monate Flaschenlagerung."
+877,"RED",,"Lucente",,,"merlot, sangiovese, cabernet s.","Frescobaldi",2019,23.9,2,"2020-1",1,,78,12,
+879,"RED",,"Cepparello",,,"Sangiovese","Isole e Olena",2019,85,1,,1,,195,32,"350-450 m.ü.M. Handlese. Gärung; Mazeration 21-28 Tage mit Umwälzen. Ausbau; 18 Monate in Barrique 225l, (95% franz. Eichenholz, 3% amerikanisches Holz, 1/3 neu.)"
+880,"RED",,"Percarlo ",,,"Sangiovese","San Giusto a Rentennano",2014,50.8,3,,1,,112,18,"Gärung"
+881,"RED",,"Saffredi",,,,"Le Pupille",2019,76.9,2,"2021-1  ",1,,169,28,
+883,"RED",,"Le Serre Nuove dell'Ornellaia",,,"52% Merlot, 28% Cabernet s., 12% Petit verdot, 8% Cabernet f.","Tenuta Ornellaia",2020,39.9,1,,1,,110,18,"Handlese. Gärung; Fermentation im Stahl für 1 Woche. Mazeration 10 Tage. BSA. Ausbau; 15 Monate in Barrique, 25% neue, 75% zweite Belegung. Nach 12 Monaten Assemblage. 3 Monate Barrique. 6 Monate Flaschenlagerung."
+887,"RED",,"Petra",,,"cabernet sauvignon, merlot","Petra",2018,34.5,1,"2020-2",1,,95,15,"Gärung; natürlich im Holz. Ausbau; in franz. Barrique(leichte Tostatur, kleiner teil sind neu) mit BSA für 18 Monate. Einige Monate Flaschenlagerung."
+888,"RED",,"Le Difese",,,"70% Cabernet sauvignon, 30% Sangiovese","Tenuta San Guido",2013,14.3,2,"2011-1",1,,49,8,"Gärung; im Stahltank. Mazeration für 12-14 Tage Cabernet sauvignon, 15-18 Tage Sangiovese. Ausbau; 12 Monate in franz. EichenBarrique und ein kleiner Teil in amerikanischen Barrique."
+889,"RED",,"Guidalberto ",,,"60% Cabernet sauvignon, 40% Merlot","Tenuta San Guido",2016,41.7,2,"2022-1 ",1,,115,19,"Gärung"
+891,"RED",,"Flaccianello Bio ",,,,,2017,99,1,"2019-2 ",1,,218,36,
+893,"RED",,"Barbicone ",,,"80% sangiovese, colorino, cannaiolo, ciliegiolo, 20% giacomino","Azienda Agricola Russo",2009,12.5,3,,1,,48,7,"80m.ü.M. Handlese. Gärung"
+894,"RED",,"Il Pareto ",,,"cabernet sauvignon","Tenuta di Nozzole - Folonari",2018,41.52,3,,1,,114,19,"350m.ü.M. Gärung: im Stahltank. Mazeration auf der Schale für 15 Tage.  BSA. Ausbau"
+895,"RED",,"Il Pareto ",,,"cabernet sauvignon","Tenuta di Nozzole - Folonari",2006,35,3,,1,,135,22,"350m.ü.M. Gärung: im Stahltank. Mazeration auf der Schale für 15 Tage.  BSA. Ausbau"
+896,"RED",,"Fidenzio ",,,"cabernet s., cabernet f., merlot","Podere San Luigi",2008,35.64,1,"2009-2",1,,98,16,
+897,"RED",,"La Mandria Del Pari ",,,"cabernet sauvignon","Azienda Agricola Russo",2009,19.8,3,,1,,65,10,"18 Monate im neuen Barrique"
+898,"RED",,"Vigna d´Alceo ",,,"cabernet sauvignon, petit verdot","Castello di Rampolla",2011,110.4,2,"2004-1",1,,243,40,"380m.ü.M. Gärung; 7 Tage Fermentation. Mazeration auf der Schale 30 Tage. BSA. Ausbau; 14-16 Monate in Barrique 225l, Tonneau 500l. 24 Monate Flaschenlagerung."
+899,"RED",,"La Ricolma",,,"Merlot","San Giusto a Rentennano",2009,43.96,2,"2018-1 ",1,,121,20,"Gärung"
+900,"RED",,"Cont´Ugo ",,,"Merlot","Marchesi Antinori",2011,24.7,3,,1,,80,13,"Gärung"
+901,"RED",,"Casalferro ",,,"Merlot","Barone Ricasoli",2010,22.44,3,,1,,73,12,"350-400m.ü.M. Gärung"
+902,"RED",,"Syrah Perbruno ",,,"Syrah","I Giusti & Zanza",2011,11.09,3,,1,,43,7,"Ausbau"
+904,"RED",,"Brunello di Montalcino ",,,,"Uccelliera",2018,44,2,,1,,121,20,
+905,"RED",,"Brunello d Montalcino Vigna Spunali",,,"sangiovese","Val di Suga",2013,38,1,,1,,105,17,
+907,"RED",,"Brunello di Montalcino ",,,"Sangiovese","Casanova di Neri",2018,43.56,3,,1,,120,19,"Handlese. Gärung"
+908,"RED",,"Brunello di Montalcino Castelgiocondo",,,"Sangiovese","Frescobaldi",2015,35.5,1,"2012-1 2019-1  2016-1",1,,98,16,"250-450m.ü.M. Handlese. Gärung"
+909,"RED",,"Brunello di Montalcino Il Divasco ",,,"Sangiovese","La Rasina",2004,53,2,"2012-1 ",1,,117,19,"Gärung; Mazeration auf der Schale für 15 Tage im Stahl. Ausbau; 1 Jahr im kleinen Holzfass, weitere 12 Monate in grossen Holzfässern.. 15 Monate Flaschenlagerung. "
+910,"RED",,"Brunello di Montalcino ",,,"Sangiovese","Poggio di Sotto",2011,114.8,2,,1,,253,42,"200-450m.ü.M. andlese. Gärung; Holzbottich, spontane Fermenation, Lange Mazeration mit Umwälzen. Ausbau; 48 Monate in Eichenholz 30hl. 8 Monate Flaschenlagerung. "
+911,"RED",,"Brunello di Montalcino",,,"Sangiovese","Tenuta Il Poggione",2015,38.4,3,,1,,106,17,"Handlese. Gärung"
+912,"RED",,"Brunello di Montalcino ",,,"Sangiovese","Pian dell'Orino",2009,91.2,3,,1,,201,33,"340m.ü.M. Gärung"
+913,"RED",,"Brunello di Montalcino",,,"sangiovese","Pietroso",2015,30,1,"2017-2",1,,97,16,
+915,"RED",,"Brunello di Montalcino Luce",,,"Sangiovese","Frescobaldi",2008,70.2,2,,1,,154,25,"36 Monate in Holz und Barrique ( franz. und sloven.)"
+916,"RED",,"Rosso di Montalcino",,,"Sangiovese","Biondi e Santi",2019,52.5,2,,1,,116,19,"250-500m.ü.M. Ausbau"
+917,"RED",,"Rosso di Montalcino ",,,"Sangiovese","Casanuova di Neri",2011,15.5,3,,1,,53,8,"Handlese. Gärung"
+918,"RED",,"Rosso di Montalcino ",,,"Sangiovese","Lisini",2010,15.3,3,,1,,52,8,"BSA. 6 Monate im Eichenholz. 3 Monate Flaschenlagerung."
+919,"RED",,"Rosso di Montalcino ",,,"Sangiovese","Pian dell'Orino",2014,36,1,"2016-2 ",1,,99,16,"Gärung"
+921,"RED",,"Brunello di Montalcino Vigna del Lago",,,"sangiovese","Val di Suga",2013,34.9,2,,1,,96,15,
+923,"RED",,"Morellino di Scansano ",,,"85% Sangiovese, 15% Ciliegiolo,Colorino,Alicante,Syrah","Podere 414",2012,6.89,2,"2011-1",1,,31,5,"Gärung"
+924,"RED",,"Morellino Poggiargentiera",,,,"Capatosta",2008,17.3,2,"2011-1",1,,58,9,
+926,"RED",,"Le Pergole Torte",,,"sangioves",,2018,101.95,0,"nicht gelistet",0,,224,37,
+927,"RED",,"Le Pergole Torte ",,,"Sangiovese","Montevertine",2020,112.2,4,,1,,247,41,
+929,"RED",,"Barbaresco Ronchi ",,,"Nebbilo","Rocca Albino",2016,33.5,0,"nicht gelistet ",0,,92,15,"240m.ü.m. Ausbau; 80% in deutschen & österreichischen Eichenholz20hl, 20% in franz. Barrique für 2 Jahre."
+931,"RED",,"Barbaresco ",,,,"Angelo Gaja",2011,186,2,,1,,409,68,"Preis"
+932,"RED",,"Barbaresco ",,,"Nebbiolo","Bruno Rocca",2017,30.78,1,,1,,85,14,"Gärung"
+933,"RED",,"Barbaresco Rabaja ",,,"Nebbiolo","Bruno Rocca",2012,65.97,1,"2019-2 ",1,,145,24,"BIO. Gärung, Klatmazeration, 3 Wochen fermentation, spontanvergärung. Ausbau; in 20% neuen und 80% gebrauchten Barrique für 14 - 18 Monate."
+934,"RED",,"Barbaresco Valeriano",,,"nebbiolo","La Spinetta",2009,116.95,2,,1,,257,42,"450m.ü.M. auf Kalkböden Gärung; 7-8 tag Fermentation. BSA im Barrique. Ausbau; franz. Barrique (mittlere Tostatur) für 32 -34 Monate. 3 Monate im Stahl. Dann 5-6 Jahre Monate Flaschenlagerung. Keine Schönung, Filtration"
+935,"RED",,"Barbaresco Vigneto Starderi",,,"Nebbilo",,2010,99.9,2,,1,,220,36,
+938,"RED",,"Barbaresco Vigneto Starderi ",,,"Nebbiolo","La Spinetta",2012,107,2,,1,,235,39,"270m.ü.M. Gärung; 7-8 tag Fermentation. BSA im Barrique. Ausbau; franz. Barrique (mittlere Tostatur) für 20-22 Monate. 3 Monate im Stahl. 12 Monate Flaschenlagerung. Keine Schönung, Filtration"
+939,"RED",,"Barbaresco Vigneto Starderi ",,,"Nebbiolo","La Spinetta",2005,93.2,1,,1,,215,35,"270m.ü.M. Gärung; 7-8 tag Fermentation. BSA im Barrique. Ausbau; franz. Barrique (mittlere Tostatur) für 20-22 Monate. 3 Monate im Stahl. 12 Monate Flaschenlagerung. Keine Schönung, Filtration"
+940,"RED",,"Costa Russi ",,,"Nebbiolo","Angelo Gaja",1999,180,1,,1,,465,77,"Ausbau zuerst in franz. Barrique, danach in slow. Grossen Holzfässern für 18-26 Monate. Flaschenlagerung."
+941,"RED",,"Barbera d'Asti Cotamiole ",,,"Barbera","Prunotto",2008,,3,,1,,48,8,"Gärung; 15 Tage Mazeration mit 4x täglichem Umwälzen. Ausbau; BSA, 12 Monate in franz. EichenBarrqiue. "
+942,"RED",,"Barbera d'Asti Bricco dell'Uccellone",,,"Barbera","Braida",2015,33.5,1,"2014-1",1,,92,15,"Gärung; Mazeration auf der Schale für 20 tage. Ausbau; 12 Moante im EichenHolzfass 225l, 12 Monate Flaschenlagerung."
+943,"RED",,"Barbera d'Asti Ca di Pian ",,,"Barbera","La Spinetta",2011,13.62,1,"2017-1 2019-1",1,,47,7,"300m.ü.M. Gärung; 7-8 Tage. BSA im Holz. Ausbau; 12 Monate in franz. Barrique ( mittlere Tostatur). 6 Monate im Stahl. 12 Monate Flaschenlagerung. Keine Schönung, Filtration"
+946,"RED",,"Barbera d'Asti Superiore Vanet",,,"Barbera","Cascina Ferro",2011,10.3,3,,1,,41,6,"250m.ü.M. Handlese. Gärung"
+947,"RED",,"Barbera d'Alba Trevigne ",,,"Barbera","Clerico Domenico",2011,10.8,3,,1,,42,7,"Handlese. Gärung; Mazeration auf der Schale für 10-14 Tage. Ausbau, 12-16 Monate in franz. EichenBarrique (5%neu / 50% zweit Belegung)"
+948,"RED",,"Barbera d'Alba Gepin",,,"Barbera","Rocca Albino",2011,14.5,1,"2016-1 2017-1",1,,50,8,"240m.ü.M. Ausbau; 14 Monate 80% in deutschen & österreichischen Eichenholz, 20% in franz. Barrique"
+949,"RED",,"Barbera del Monferrato Rivalta ",,,"Barbera","Villa Sparina",2003,27.3,2,,1,,88,14,"300-320m.ü.M. Handlese. Gärung; Fermentation 2 Wochen. BSA. Ausbau; 12 Moante 20% im stahl, 80% in Barrique. 1 Jahr Flaschenlagerung. "
+950,"RED",,"Barolo Prapò",,,"Nebbiolo","Germano Ettore",2009,30.9,0,"nicht gelistet",0,,85,14,"350-370m.ü.M. Gärung; 30 Tage auf der Schale. Ausbau; 24 Monate in Eichenholz, 15 Monate Flaschenlagerung. "
+952,"RED",,"Barolo Cascina Francia ",,,,"Conterno Giacomo",2018,159.72,2,,1,,351,58,"21 Monate Barrique."
+955,"RED",,"Barolo ",,,"Nebbiolo","Elio Altare",2013,59.7,2,,1,,131,21,"Gärung"
+956,"RED",,"Barolo Aeroplan Servaj ",,,"Nebbiolo","Clerico Domenico",2011,79.15,2,,1,,174,29,"Handlese. Gärung; Mazeration auf der Schale im Rotortank für 30 Tage. Ausbau; 26-36 Monate in franz. EichenBarrique (80% neu, 20% zweite Belegung)"
+959,"RED",,"Barolo Pajana ",,,"Nebbiolo","Clerico Domenico",2006,89.25,3,,1,,196,32,"Handlese. Gärung; im Rotortank auf der Schale für 20-30 Tage. Ausbau; 24-30 Monate in franz. Barrique (80% neu, 20% zweite Belegung)"
+960,"RED",,"Barolo Vigna Cappella di Santo Stefano",,,"Nebbiolo","Rocche dei Manzoni",2015,54.65,1,,1,,125,20,"BIO. Gärung; 20-25 Tage auf der Schale. Ausbau, 28 Monate in eichenholz. 12 Monate Flaschenlagerung."
+961,"RED",,"Barolo Riserva",,,,"Marchesi di Barolo",2008,74,3,,1,,163,27,
+962,"RED",,"Barolo Sori Ginestra ",,,"Nebbiolo","Conterno Fantino",2011,58.75,1,"2012-2 ",1,,129,21,"340-360m.ü.M. Handlese. Gärung; Mazeration auf der Schale für 8-15 Tage im Stahltank. Ausbau; 24 Monate in franz. Barrique, 12 Monate Flaschenlagerung."
+963,"RED",,"Barolo",,,"Nebbiolo","Cerviano Abbona",2016,35.5,3,,1,,98,16,"Gärung"
+965,"RED",,"Barolo Romirasco ",,,"Nebbiolo","Conterno Aldo",2006,166.55,1,"2005-2",1,,366,61,"Gärung"
+967,"RED",,"Arte",,,"90% Nebbiolo, 10% Barbera","Clerico Domenico",2012,19.5,1,"2014-2",1,,65,10,"Barbera,Gärung im Rotortank für 10-12 Tage. Nebbiolo für 12-14 Tage. Ausbau; 16-18 Monate in neuen franz. Barrique."
+969,"RED",,"Dolcetto Papá Celso ",,,"Dolcetto","Marziano Abbona",2011,9.4,3,"2014-1",1,,38,6,"Gärung; Fermentation 5-7 Tage im Stahl. Ausbau; 10 Monate im Stahl, 2 Monate Flaschenlagerung."
+970,"RED",,"Nebbiolo ",,,"Nebbiolo","Elio Altare",2018,19.5,3,,1,,65,10,"Gärung"
+971,"RED",,"Nebbiolo Langhe ",,,,"La Spinetta",2012,12.6,2,,1,,48,8,"270m.ü.M. Rebalter"
+972,"RED",,"Lessona",,,"Nebbiolo","Proprietà Sperino",2011,32,0,"nicht gelistet",0,,88,14,"280-350m.ü.M."
+973,"RED",,"Monprà",,,"50% Nebbiolo, 50% Barbera","Conterno Fantino",2012,22.18,1,"2020-2 ",1,,72,12,"Gärung"
+976,"RED",,"Montepulciano d'Abruzzo ",,,"Montepulciano d´Abruzzo","Praesidium",2005,27.8,2,,1,,89,14,"Gärung"
+977,"RED",,"Montepulciano d´Abruzzo ",,,,"Villa Gemma Masciarelli",2006,45,2,"2018-1",1,,124,20,"400m.ü.mM. "
+978,"RED",,"Montepulciano d´Abruzzo Riserva Zanna",,,"Montepulciano","Illuminati",2008,12.5,2,,1,,48,7,"287m.ü.M. Gärung"
+979,"RED",,"Montepulciano Marina Cvetic",,,,"Masciarelli",2009,16,2,,1,,54,9,"24 Monate in franz. Barrique."
+984,"RED",,"Fobiano ",,,"70% Merlot, 30% Cabernet s. ","La Carraia",2009,15.4,3,,1,,52,8,"Gärung"
+985,"RED",,"Rosso di Montefalco Sallustio BIO",,,"60% Sangiovese, 25% Barbera, 15% Sagrantino","Di Filippo",2011,8.13,3,,1,,33,5,"Gärung"
+986,"RED",,"Sagrantino di Montefalco BIO",,,"Sagrantino","Di Filippo",2008,21.2,1,"2019-2 ",1,,70,11,"Gärung; traditionell, verlängert. Ausbau; 18-24 Monate in Barrique & Tonneau."
+987,"RED",,"Campoleone ",,,"50% Sangiovese, 50% Merlot","Lamborghini",2010,18.7,1,,1,,62,10,"Gärung; Mazeration von 18 tage auf der Schale, BSA. Ausbau; separat für 12 Moante in franz. EichenBarrique. 6 Monate Flaschenlagerung."
+988,"RED",,"Montefalco 25 Anni ",,,"Sagrantino","Arnaldo Caprai",2009,56.25,2,"2010-1",1,,,124,20
+995,"RED",,"Kurni",,,"Montepulciano","Oasi degli Angeli",2019,94.55,3,,1,,208,34,"ein Teil der Trauben werden getrocknet. 12 Monate in Barrique"
+1000,"RED",,"Montiano ",,,"Merlot","Cotarella",2016,39.9,2,"2018-1",1,,110,18,"300m.ü.M. Gärung; Mazeration auf der Schale für 15 Tage im Stahl, BSA im Barrique. Ausbau; 12 Monate in franz. Barrique."
+1005,"RED",,"Contado Riserva ",,,"Aglianico","Di Majo Norante",2009,8.22,5,,1,,34,5,"100m.ü.M. Gärung; traditionell, Mazeration auf der Schale für 1 Monat, BSA. Ausbau; ein Teil in mittleren Holzbottich, rest im Stahl. 6 Monate Flaschenlagerung."
+1006,"RED",,"Don Luigi ",,,"90% Montepulciano, 10% Aglianico","Di Majo Norante",2009,18.48,1,"2011-1",1,,61,10,"100m.ü.M. Gärung; traditionell, Mazeration auf der Schale für 1 Monat, BSA. Ausbau; in neuen Barrique für 12 Monate. 6 Monate Flaschenlagerung."
+1011,"RED",,"Terra di Lavoro ",,,"90% Aglianico, 10% Piedirosso","Galardi",2009,35.1,3,,1,,97,16,"400m.ü.M. Gärung"
+1016,"RED",,"""Jo"" Negroamaro Salento",,,"Negramaro","Gianfranco Fino",2012,33.66,2,,1,,93,15,"Handlese. Gärung; im Stahltank. Mazeration für 3-4 Wochen. Ausbau; 12 Monate in franz. EichenBarrique 50%neu, mit täglicher Batonnage. 6 Monate Flaschenlagerun. Keine schönug, filtration"
+1018,"RED",,"Selvarosso Riserva Salice Salentino",,,"85% Negroamaro, 15% Malvasia nera","Cantine due Palme",2010,13.86,1,,1,,48,7,"Handlese. Gärung"
+1019,"RED",,"Il Falcone Riserva ",,,"70& Nero di troia, 30% Montepulciano","Tenuta Rivera",2007,11.4,2,,1,,44,7,"400m.ü.M. Gärung; 15 Tage mit Umwälzen. Ausbau; 14 Monate 50% in franz.Eichen Barrique, 50% im grossenEichenHolz. 1 Jahr Flaschenlagerung."
+1024,"RED",,"La Firma ",,,"Aglianico del vulture","Cantine del Notaio",2010,25.7,1," 2011-1",1,,83,13,"Handlese. Gärung; Mazeration 20 Tage. Ausbau; 12 Moante in  Holz unf Tonneau, (in einer Grotte von Fulkangestein). 1 Jahr Flaschenlagerung."
+1034,"RED",,"Rocca Rubia Riserva",,,"carignano ","Santadi",2020,14.4,2,,1,,49,8,"10-12 Monate in Barrique. Einige Monate Flaschenlagerung."
+1035,"RED",,"Barrua - Isola die Nuraghi",,,"carignano, cabernet s., merlot","Agricola Punica",2010,27.5,2,,1,,88,14,"Handlese. Gärung"
+1036,"RED",,"Turriga ",,,"cannonau, malvasia nera, carignano, bovale sardo","Argiolas",2010,75.24,1,"2019-1 ",1,,166,27,"230m.ü.M. Handlese. Gärung"
+1037,"RED",,"Terre Brune Carignano del Sulcis Superiore",,,"95% Carignano, 5% Bovaleddu","Santadi",2009,36.4,1,"2019-2 ",1,,100,16,"Handlese. Gärung"
+1042,"RED",,"Noá",,,"40% Nero d'avola, 30% Merlot, c30% Cabernet s.","Cusumano",2016,20.2,2,,1,,67,11,"Handlese. Gärung"
+1043,"RED",,"Tancredi ",,,"nero d'avola, cabernet sauvignon, tannat","Donnafugata",2008,17.5,1,"2013-1 2009-1",1,,59,9,"200-600m.ü.M. Gärung; Fermentation im Stahl mit Mazeration auf der Schale für 12 Tage. Ausbau; mit BSA, 14 Monate in franz.Barrique und Tonneau (neu und zweite Belegung). 24 Moante Flaschenlagerung."
+1044,"RED",,"Camelot ",,,"cabernet sauvignon, merlot","Firriato",2010,17.55,2,,1,,59,9,"235m.ü.M. Handlese. Gärung"
+1045,"RED",,"Don Antonio ",,,"Nero d'avola","Morgante",2010,16.63,3,,1,,56,9,"450-550 m.ü.M. Gärung; im Stahl, Mazeration auf der Schale für 20 Tage. BSA im Stahl. Ausbau; 12 Monate in neuen franz. Barrique 225l, 12 Monate Flaschenlagerung."
+1046,"RED",,"Mille e una Notte ",,,"Nero d'avola","Donnafugata",2018,43.1,1,"2019-1",1,,119,19,"200-600m.ü.M. Gärung; im Stahl, Mazeration auf der Schale für 12 Tage. Ausbau; 15-16 Monate in neuen franz. Barrique. 30 Monate Flaschenlagerung."
+1047,"RED",,"Cabernet Sauvignon Burdese ",,,"70% Cabernet sauvignon, 30% Cabernet Franc","Planeta",2013,15.5,1,,1,,53,8,"Gärung"
+1050,"RED",,"Rosso Etna ",,,"nerello mascalese, nerello cappuccio","Le Vigne di Eli",2014,10.3,3,,1,,41,6,
+1052,"RED",,"Karasi",,,"Arein Noir","Zorah Wines",2014,14.9,8,,1,,51,8,"1400m.ü.M. Gärung; im Stahl. Ausbau;12 Monate in Amphoren, einige davon Vergraben in der Erde. 6 Monate Flaschenlagerung( Karas = Name der Amphoren)"
+1053,"RED",,"Tinto Valbuena 5° anno",,,,"vega Sicilia",2009,99,0,"nicht gelistet",0,,218,36,
+1054,"RED",,"Priorat Aguilera",,,"garnacha","L'infernal",2014,,1,,1,,165,27,
+1055,"RED",,"Herdia Tondonia tinto reserva",,,"75%tempranillo, 15%grenache, 10% Graziano e Mazuelo","Vina tondonia",2009,28.5,4,,1,,78,13,
+1056,"RED",,"Bourgogne ""Cuvée Gravel"" ",,,"Pinot Noir","C&C Maréchal",2016,22.9,6,"2017-6",1,,75,12,"Handlese. Gärung"
+1058,"RED",,"Gevrey Chambertin ""Les Crais""",,,,"Pièrre Naigeon",2020,65,6,,1,,143,23,"Handlese. Natürliche Fermentation. Für 16-18 Monate im Barrique ausgebaut."
+1059,"RED",,"Vosne Romanée",,,,"Jean-Marc Millot",2020,70,1,,1,,154,25,
+1060,"RED",,"Clos de la Roche Grand Cru ",,,,"Louis Remy",2006,125,0,"nicht gelistet",0,,295,49,
+1061,"RED",,"Amiot Servelle Chambolle Musigny 1er Cru ""Les Amoureuses"" ",,,,,2019,270,2,,1,,594,99,
+1062,"RED",,"Clos de la Roche Grand Cru ",,,,"Louis Remy",2013,125,0,"nicht gelistet",0,,275,45,"240-280m.ü.M. Familienunternehmen seit ca. 1820."
+1063,"RED",,"Amiot Servelle Chambolle Musigny 1er Cru ""Les Charmes"" ",,,,"Amiot Servelle",2020,89,3,,1,,196,32,"BIO. 18 Moante in franz. Eichenfässern (30%neu)"
+1066,"RED",,"Chambolle-Musigny",,,,"Amiot Servelle",2021,60,2,,1,,132,22,"BIO. Alles Handarbeit, er benutzt keine Maschienen, weder für die Ernte noch fürs Pressen, auch die Abfüllung und verkorkung.. Weine werden in Eichenfässern ausgebaut mit BSA. Jean-Marc hat die Domaine 1997 nach langjährigem Familienstreit übernommen."
+1067,"RED",,"Nuits-St.-Georges ""Les Charmottes""",,,,"Chicotot",2015,36,0,"2018-3 ",1,,99,16,
+1068,"RED",,"Nuits-St.-Georges 1er Cru Les Rues de Chaux",,,,"Chicotot",2021,78,6,,1,,172,28,
+1069,"RED",,"Aloxe-Corton 1er Cru Les Vergots",,,,"Domaine Follin-Arbelet",2019,77.5,2,,1,,171,,
+1070,"RED",,"Pommard 1er Cru ""Grand Clos des Epenots""",,,,"De Courcel",2018,99,2,"2019-3",1,,218,36,"seit mehr als 400 Jahren im Familienbesitz."
+1071,"RED",,"Volnay 1er Cru ""Fremiets""",,,,"Joseph Voillot",2022,69,6,,1,,152,25,
+1072,"RED",,"Vosne Romanée Les Souchots 1erCru",,,,"Jean-Marc Millot",2020,160,2,"2021-1",1,,352,58,
+1073,"RED",,"Terra 1261 Spätburgunder",,,,"Weingut Benedikt Baltes ",2015,,0,,1,,175,29,
+1074,"RED",,"Spätburgunder Silberberg",,,,"Mayer Näkel",2021,62,6,,1,,136,22,
+1075,"RED",,"Spätburgunder Schlossberg GG",,,"merlot 6e%, cabernet sauvignon 30%, cabernet franc","Franz Keller",2021,72.5,3,,1,,160,26,"in Barrique ausgebaut. Bauen den Wein BIO, teilweise Biodynamic an. "
+1076,"RED",,"Châteaux Petit-Figeac Grand Cru",,,"Cabernet Sauvignon, Cabernet Franc et 1/3 de Merlot",,2018,75.5,2,,1,,166,27,"BIO"
+1077,"RED",,"Château Clinet Pomerol",,,"merlot, cabernet franc, cabernet sauvignon","Château Clinet",2008,67,1,,1,,147,24,"Ausbau"
+1078,"RED",,"Château Pichon-Longueville-Baron ",,,"76% cabernet sauvignon, 24% merlot","Château Pichon Longueville",2012,76.5,2,,1,,195,32,"Mazeration mit Schale. Fermentation 3-4 Wochen, mit BSA. Barriqueausbau."
+1079,"RED",,"Château Pontet Canet",,,"cabernet sauvignon, merlot, c. franc, petit verdot","Château Pontet-Canet",2019,169,1,,1,,372,61,"Erster Jahrgang der Biodynamisch ist. Gärung natürlich, mazeration für 3-4 Wochen. Barrique ausgebaut, 1/3 in Amphoren."
+1080,"RED",,"Les Tourelles du Châteaux Pichon Longueville",,,"merlot 6e%, cabernet sauvignon 30%, cabernet franc","Château Pichon Longueville Comtesse de Lalande",2019,55.5,2,,1,,122,20,"in Barrique ausgebaut. Bauen den Wein BIO, teilweise Biodynamic an. "
+1081,"RED",,"Chateaux Palmer Margaux",,,"Cabernet Sauvignon, Merlot, Petit Verdot","Château Palmer",2009,283,1,,1,,623,103,
+1082,"RED",,"Château Margaux 1er GCC",,,"55% Cabernet sauvignon, 40% Merlot, 5% Cabernet franc","Château Margaux",2008,319,2,,1,,702,116,"Barriqueausbau"
+1083,"RED",,"Château Mouton Rothschild GCC",,,"83% Cabernet sauvignon, 17% Merlot","Château Mounton Rothschild",2008,342,2,,1,,752,125,"Barriqueausbau"
+1084,"RED",,"Château Lafite Rothschild GCC ???",,,"80-90% Cabernet sauvignon, 5-20% Merlot, 0-5% Cabernet Franc","Château Lafite Rothschild",2008,650,1,,1,,1430,238,"18-20 Monate in neuen Barrique"
+1085,"RED",,"Angelus 1er GCC",,,"Merlot, Cabernet Franc, Cabernet Sauvignon",,2009,314,1,,1,,691,115,
+1086,"RED",,"Château Montrose 2eme Cru Classe",,,,"Château Montrose",2011,92,1,,1,,202,33,
+1089,"RED",,"Crozes-Hermitage Rouge ""Le Rouvre"" BIO",,,"syrah","Yann Chave",2019,23,3,,1,,75,12,"Rebalter"
+1090,"RED",,"Hermitage  BIO",,,"syrah","Yann Chave",2018,63,6,,1,,139,23,"Rebalter"
+1091,"RED",,"Côte-Rôtie ",,,"syrah","Terres Rôties",2009,34.5,3,"2010-3",1,,95,15,"Seit 3 Generationen der Familie Guigal."
+1092,"RED",,"Châteauneuf du Pape"" La Crau 2010""",,,"grenache, mourvèdre, syrah, cinsault","Le Vieux Télégraphe",2016,47,1,"2020-3",1,,120,20,"180-325m.ü.M."
+1093,"RED",,"Crozes-Hermitage ",,,"Syrah","Domaine Combier ",2010,16.8,3,,1,,56,9,"seit 1980 BIO."
+1094,"RED",,"Crozes-Hermitage ""Clos des Grives""",,,"Syrah","Domaine Combier ",2010,29.5,1,,1,,81,13,"seit 1980 BIO."
+1095,"RED",,"Hermitage  ",,,,"Guigal",2013,42,0,"nicht gelistet",0,,116,19,
+1096,"RED",,"Gigondas",,,"70% Grenache, 20 % Syrah, 10% Mourvèdre,","Guigal",2003,17,0,,1,,67,11,
+1097,"RED",,"Cristom Louise",,,,,2019,69.3,3,,1,,152,25,
+1098,"RED",,"Pinot Noir Black Edition",,,,"Vinultra",2014,53.4,5,,1,,117,19,
+1099,"RED",,"Pinot Noir Kellerei Girlan",,,,"Kellerei Girlan",2019,6.25,2,"2020-1",1,,29,4,"Handlese. Gärung; im Stahl, BSA. Ausbau; 15 Monate in kleinen & grossen Holzfässern. 6 Monate Flaschenlagerung."
+1101,"RED",,"St. Magdalener",,,"95% Edelvernatsch, 5% Lagrein","Rottensteiner",2020,4.2,2,"2021-1 ",1,,21,3,"400-500m.ü.M. "
+1103,"RED",,"Merlot ",,,,"Alois Lageder",2020,5.5,3,,1,,26,4,"230-320m.ü.M. Rebalter"
+1104,"RED",,"Lagrein Kellerei Tramin",,,,"Kellerei Tramin",2022,4.9,4,,1,,24,3,"250-400m.ü.M. Gärung"
+1105,"RED",,"Amistar ",,,"Lagrein, Merlot, Cabernet s., 5% Cabernet f.,5%  Petit verdot","Peter Sölva & Söhne",2020,10.5,2,,1,,41,6,"10 % Trockenbeeren (am Stock getrocknet). Gärung"
+1106,"RED",,"Cabernet Istrice ",,,"90% Cabernet sauvignon, 10% Cabernet Franc","Elena Walch",2018,10.8,1,"2020-1 2022-1 ",1,,42,7,"Gärung"
+1110,"RED",,"Barolo Sori Ginestra ",,,"Nebbiolo","Conterno Fantino",2011,31.5,1,"2018-2",1,,87,14,"Ausbau im Holz und Barrique."
+1115,"RED",,"Ornellaia ",,,"53% Cabernet s., 39% Merlot, 4% Cabernet f., 4% Petit verdot","Tenuta dell'Ornellaia",2015,87.12,2,"2016-1 ",1,,192,31,"Handlese. Gärung; 1 Woche im Stahltank, Maischestandzeit 10-15 Tage. BSA im Eichenbarrqiue 70% neu. 18 Monate in Barrqiue, nach 12 Monaten wird dass Cuvee gemacht."
+1116,"RED",,"Tignanello",,,,"Antinori",2016,38.81,0,"nicht gelistet",0,,107,17,"12 Monate im Eichenfass."
+1118,"RED",,"Brunello di Montalcino",,,"Sangiovese","Ciacci Piccolomini",2013,15.2,0,"nicht gelister",0,,52,8,"mind. 2 Jahre im Eichenfass. Mind.  4 Monate Flaschenreifung."
+1119,"RED",,"Cabreo Il Borgo ",,,"70% Sangiovese, 30% Cabernet sauvignon","Tenute di Cabreo Folonari",2009,15.6,1,"2016-2 ",1,,53,8,"Gärung; Mazeration auf der Schale 10-18 Tage. Fermentaion mit BSA. Ausbau; Cuvee, in franz. EichenBarrqiue ausgebaut 30%neu, 16-18 Moante. 6 Monate Flaschenlagerung."
+1120,"RED",,"Chianti Classico  ",,,"Sangiovese","Fontodi",2009,7.3,0,"nicht gelistet",0,,31,5,"Gärung"
+1127,"RED","MAGNUM","Blauburgunder Barthenau Vigna San Urbano",,,,"Hofstätter",2016,101,1,,1,,222,37,"Gärung; 10 Tage mit 25% intakten Trauben und Umwälzung. Ausbau; 14 Monate in kleinen Eichenholzfässern, assamblage, 7 Monate im grossen Eichenholzfass, Abfüllung, 12 Monate Flaschenlagerung."
+1128,"RED","MAGNUM","Pinot Nero Riserva Trattmann",,,,"Kellerei Girlan",2021,58,1,,1,,128,21,"400m.ü.M. Handlese. Gärung; Stahlfässer für 18-20 Tage. Ausbau; Bsa, 15 Monate in kleinen und grossen Holzfässern. 8 Monate Flaschenlagerung"
+1129,"RED","MAGNUM","Mason di Mason",,,,"Manincor",2020,131,1,,1,,288,48,
+1130,"RED","MAGNUM","Vinschgau Blauburgunder ",,,,"Marinushof",2009,29,1,,1,,80,13,
+1131,"RED","MAGNUM","Amistar Cabernet Franc",,,"Lagrein, Merlot, Cabernet s., 5% abernet f.,5%  Petit verdot","Peter Sölva & Söhne",2007,44.5,1,,1,,122,20,"10 % Trockenbeeren (am Stock getrocknet). Gärung"
+1132,"RED","MAGNUM","Cabernet Löwengang ",,,"Cabernet sauvignon, Cabernet Franc, Carmenere, Merlot","Tenutae Lageder",2007,62.5,1,,1,,145,24,"230-330m.ü.M. BIO. Rebalter"
+1133,"RED","MAGNUM","Cabernet Riserva",,,"Cabernet Sauvignon, Cabernet Franc","Unterganzner",2004,39.5,1,,1,,109,18,"Rebalter"
+1134,"RED","MAGNUM","Amistar Rot Edizione ",,,"Lagrein, Merlot, Cabernet s., 5% Cabernet f., 5% Petit verdot","Peter Sölva & Söhne",2008,64,1,,1,,141,23,"Kompromisslose Selektion der besten Barrqiue. 250-450m.ü.M. Nach einem Jahr im Barrique wird ""herausesucht"" und danach dass Cuvee nochmals 1 jahr gelagert"
+1136,"RED","MAGNUM","Euforius ",,,"50%  Cabernet, 30% Lagrein, 20% Merlot","Niedermayr",2009,33,1,,1,,91,15,"Gärung"
+1138,"RED","MAGNUM","Composition Reif ",,,"Cabernet s., Cabernet f., Merlot, Petit verdot, Lagrein","Unterganzner",2017,55.4,1,,1,,122,20,"Gärung; Edelstahltank, Maischekontakt von 10 tagen cabernet, 7 Tage Lagrein. Ausbau;18 Monate mit BSA in neuen aus überwiegend franz. Barrique."
+1139,"RED","MAGNUM","Lacus Selection  ",,,"70% Cabernte franc, 30% Merlot","Walter Schullian",2010,76.3,2,,1,,168,27,"lacus ist lateinisch für See. 250m.ü.M. Gärung; spontan im offenen Holzfass mit Salasso 20%, mit umwälzen. Ausbau; in neuen und gebrauchten Barrique. Keine schönung, keine Filtration"
+1140,"RED","MAGNUM","Arzio ",,,"50% Merlot, 25% Cabernet sauvignon, 25% Cabernet franc","Baron di Pauli",2018,70.2,1,,1,,175,29,"250-380m.ü.M. Gärung; spontan im Holzbottich, 5 Wochen Maischemazeration. Ausbau; 18 Monate Barrique60%neu, BSA, "
+1141,"RED","MAGNUM","Lagrein Riserva",,,,"Kiemberger",2013,31,3,,1,,120,20,"17§ der Trauben werden getrocknet. Gärung"
+1142,"RED","MAGNUM","Lagrein Mirell ",,,,"Ansitz Waldgries",2013,48.1,2,,1,,118,19,"Gärung; Maischenstandzeit bis zu 35 Tagen im Bottich, 10% der Taruebn werden spätreif gelesen. Ausbau; Barrique"
+1143,"RED","MAGNUM","Lagrein Riserva Abtei",,,,"Muri Gries",2016,38.9,1,,1,,107,17,"260-280m.ü.M. Gärung; Edelstahltank für 14 Tage, BSA. Ausbau; 15 Monate im kleinen Holzfass. "
+1144,"RED","MAGNUM","Lagrein Riserva Taber",,,,"Kellerei Bozen",2013,43.55,1,,1,,120,19,"250m.ü.M. Gärung"
+1145,"RED","MAGNUM","Lagrein Riserva Porphyr ",,,,"Kellerei Terlan",2015,56.9,1,,1,,125,20,"Handlese. Gärung"
+1146,"RED","MAGNUM","Lagrein Riserva Prestige Line ",,,,"Kellerei Bozen",2011,29.5,1,,1,,81,13,"Gärung; traditionell im offenen Holzfass. Ausbau; 12 Monate in franz. Barrique und grosen Holzfass. Nur die Besten Lagen, mit den ältesten Reben mit dem geringsten Ertrag werden verwendet."
+1148,"RED","MAGNUM","Cabernet Istrice ",,,"90% Canbernet sauvignon, 10% Cabernet Franc","Elena Walch",2012,32.6,1,,1,,90,14,"Gärung"
+1149,"RED","MAGNUM","Merlot Brenntal ",,,,"Kellerei Kurtatsch",2007,46,0,"nicht gelistet",0,,110,18,"Gärung"
+1153,"RED","MAGNUM","Barolo Sori Ginestra ",,,"Nebbiolo","Conterno Fantino",2011,160.55,1,,1,,350,58,"Rebalter"
+1154,"RED","MAGNUM","Monprà",,,"50% Nebbiolo, 50% Barbera","Conterno Fantino",2012,39.16,2,,1,,159,26,"Gärung"
+1156,"RED","MAGNUM","Brunello di Montalcino ",,,"Sangiovese","Pian dell'Orino",2007,89,0,"nicht gelistet",0,,196,32,"Biodynamisch. 24 Moante slaw. Eichenholzfass"
+1157,"RED","MAGNUM","Percarlo ",,,"Sangiovese","San Giusto a Rentennano",2017,117.65,1,,1,,259,43,"Gärung; Fermentation & Mazerartion für 35 Tage, natürlich. Ausbau; 20-22 Monate in franz. Eichenbarrqiue. 18 Monate Flaschenlagerung."
+1158,"RED","MAGNUM","Giorgio Primo",,,,"Fattoria La Massa",2013,175.35,3,,1,,386,64,
+1166,,,"Le Petit ",,,,"Manincor",2018,34,6,,1,,94,15,
+1167,,,"Sauvignon passito Saphir",,,,"Laimburg",2022,,3,"nicht gelistet",0,,7,1,"2014 =  400m.ü.M. Spätlese. 8h Auspressen der Rosinenbeeren. Gärung, spontan im Holzfass für mehrer Monate. Bei 11% Alkohol stoppt die Gärung automatisch."
+1168,,,"Gewürztraminer Spätlese",,,,"Kiemberger",2016,16.3,0,"nicht gelistet",0,,55,9,"2010 = wird nur in bestimmten Jahren produziert ( genügend Botrytispilz). 750-850m.ü.M. Traubenmaische verweilt vor der Pressung im eigenen Saft, um die eingetrockeneten Inhaltsstoffe der Botrytisbeere zu lösen. Die langsame Gärung im Edelstahlfässchen dauert meist bis Dezember und lässt am Schluss einen köstlichen Restzuckeghalt."
+1169,,,"Gewürztraminer Passito Cresta",,,,"Rottensteiner",2013,15.5,2,,1,,53,8,"Trauben werden ca. 5 Monate getrocknet und dann gepresst.  Im Edelstahl ausgebaut."
+1171,,,"Kerner Passito Nectaris",,,,,2021,22.5,13,,1,,73,12,
+1172,,,"Gewürztraminer Terminum ",,,,"Kellerei Tramin",2017,29.3,9,"2020-3 2022-11",1,,81,13,"2012 = 400-500m.ü.M. Rebalter 15-25 Jahre. Lese Ende Dezember. Edelfäule. Handlese. 12h Mazeration. Langsame fermentation von 6-9 Monaten. 7-10 Monate im Barrique. 3 Monate in der Flasche."
+1173,,,"Gewürztraminer Spätlese “Roen” ",,,"90% Gewürztraminer, 10% Riesling","Kellerei Tramin",2018,17.6,1,"2022-9",1,,59,9,"2014= 400-500m.ü.M. Lese Mitte Oktober. Die Trauben werden getrocknet bis Ende November, Anfang Dezember. Gärung findet in kleinen franz. Brrique statt. "
+1174,,,"Gewürztraminer St Cyrill  ",,,,"Villscheiderhof",2009,15.2,1,,1,,52,8,
+1175,,,"Sissi Goldmuskateller Passito ",,,,"Kellerei Meran",2016,25,4,,1,,81,13,"450-500m.ü.M. Handlese. Trauben werden für 5 Monate getrocknet. Gärung & Ausbau für 12 Monate in neuem franz. EichenBarrique."
+1178,,,"Rosenmuskateller ",,,,"Ansitz Waldgries",2010,19,1,,1,,63,10,"250m.ü.M.  70% der Trauben werden Luftgetrocknet, 30% Spätreif gelesen. Ausbau; im Stahltank."
+1179,,,"Rosenmuskateller ",,,,"Muri Gries",2021,17.3,0,"2022-8",1,,58,9,"270m.ü.M. Spätlese. Gärung; 8 Tage im Edelstahl. Ausbau; 12 Monate 50% in kleinen Holzfässern, 50% im Edelstahlfass ausgebaut."
+1180,,,"Passito ",,,,"Kiemberger",2018,15,3,,1,,51,8,
+1181,,,"Rosenmuskateller ",,,,"Laimburg",2016,20.2,2,,1,,67,11,"400m.ü.M. Lese Mitte Oktober. Trauben werden getrocknet bis Mitte Dezember. Ausbau"
+1182,,,"Portwein Pipa XV",,,"Lagrein","Franz Gojer",,21.6,2,,1,,71,11,"Likörwein (inspiriert sich am  Portwein). Erster Südtiroler ""Portwein"". Handlese. Kaltmazeration und Gärung im offenen Eichenbottich mit leichter Tostatur, mit Untertauchen. Zugabe von Weinbrand zum gären des Mostes, um die Hefen abzutöten und die Gärung zu stoppen. Ausbau im Pipa Eichenfass für 6 Monate. Flaschenlagerung."
+1183,,,"Kerner Passito Praepositus",,,,,2019,,3,"2020-6",1,,7,1,
+1187,,,"Tre Filer passito ",,,"Turbiana, Chardonnay, Sauvignon blanc","Cà dei Frati",2011,9.5,5,,1,,38,6,
+1189,,,"Vino Santo",,,"nosiola",,2006,25,2,,1,,85,14,
+1193,,,"Recioto di Soave  La Broia",,,"Garganega","Roccolo Grassi",2010,9,2,,1,,37,6,"100m.ü.M. lese im September, trocknung der Trauben bis Februar. Fermentation in franz. EichenBarrique 225l, 60-90 Tage. Ausbau; 18 Moante in Barrique ( 20%neu, 80% zweit Belegung), 24 Monate Flaschenlagerung."
+1194,,,"In Sé","BIO",,"incrocio manzoni","Italo Cescon",2018,16.5,8,,1,,56,9,
+1199,,,"Moscato d'Asti Zagara",,,,"Albino",2017,7.6,6,,1,,32,5,
+1204,,,"Muffato della Sala ",,,"60% Sauvignon blanc, 40% Grechetto, Traminer, Riesling","Antinori",2010,22.5,2,,1,,73,12,"200-350m.ü.M. Handlese(Zeitpunkt je nach Reife der Botrytis). Fermentation für 18 Tage.  Ausbau"
+1209,,,"Ben Ryé passito ",,,"Zibibbo","Donnafugata",2015,20.46,2," 2019-3",1,,67,11,"20-400m.ü.M. Handlese. Gärung im Stahl. 7 Monate im Stahltank. 12 Monate Flaschenlagerung."
+1211,,,"Trockenbeerenauslese ",,,,"Kracher ",,15.5,2,16.5,1,,53,8,
+1213,,,"Eiswein",,,,"Kracher ",2020,23.6,2,,1,,77,12,
+1214,,,"Tokaj Aszu 5 Puttonyos",,,"Furmint","Samuel Tinon",2016,41.9,4,,1,,115,19,"Mazeration 36-48 Stunden. Fermentation für mehrer Monate. 4 Jahre im Holzfass. 1 Jahr Flaschenlagerung."
+1215,,,"Tokaj Aszu 5 Puttonyos",,,,"Oremus",2006,45,0,"nicht gelistet",0,,124,20,
+1216,,,"Madeira",,,,,,,5,,1,,7,1,
+1217,,,"Riesling Kinheimer Hubertuslay Beerenausles",,,,"Markus Molitor",2017,79.5,2,,1,,175,29,
+1218,,,"Riesling Eiswein",,,,"Dr. Loosen",,23.5,,,1,,76,12,
+1219,,,"Sauternes 1er Frand Cru",,,,"Châteaux Rieussec",2018,42.5,2,,1,,117,19,
+1220,,,"Sauternes 2009 La Tour Blanche ",,,"Semillon","Château La Tour Blanche",2009,36.6,1,,1,,101,16,
+1221,,,"Château d'Yquem 1. GCC Superior",,,"Semillon","Château d'Yquem",2001,410,1,,1,,1600,266,"Ein Gutes Jahr, mit einem trockenen September(perfekt für die Säure und frische des Weines). Sehr konzentrierte, pure Trauben."
+1222,,,"Solera - Rivesaltes Ambré",,,"40% Grenache blanc, 40% Grenache gris, 20% Maccabeo","Domaine des Demoiselles",,16.65,5,,1,,56,9,"Rebalter: 50-70 Jahre. Aus der Region Roussillon.  Soleraverfahren."
+1223,,,"Montbazillac",,,,"Châteaux La Lande",,7.95,5,,1,,35,5,
+1232,,,"Aurea Fenice Bollicine",,,,"Princess",,8,14,,1,,33,,
+1234,,,"Alternativa Rosso Superiore",,,"montepulciano","Princess",,5.2,3,,1,,25,,
+1235,,,"Pinot Grigio Free","VAKUUM + ABSORPTION","Pfalz",,"Matthias Anton",,7.5,0,,1,,31,,
+1236,,,"RibO",,"Elsass","Rivaner und Muskateller","Cave de Ribauville",,10.5,3,,1,,41,,
+1237,,,"Elefant",,"Rheinhessen","riesling","Wean am Dom",,5.5,0,,1,,26,,
+1238,,,"Null Alkohol Rot","RO","Baden","Spätburgunder","Löffler",,7.5,8,,1,,31,,
+1239,,,"Rouge Pur Bio","Vakuum ","Rheinhessen","Dornfelder, Spätburgunder","Strauch und Weissbach",,10.5,3,,1,,41,,
+1240,,,"Reverse Riesling","VAKUUM + ABSORPTION","Pfalz",,"Bergdolt-Nett",,8,2,,1,,33,,
+1241,,,"steinboch",,,,,,,1,,1,,7,,
+1242,,,"Reverse Sauvignon","Vakuum","Pfalz",,"Bergdolt-Nett",,8.5,4,,1,,35,,

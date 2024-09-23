@@ -29,6 +29,7 @@ class VColumns:
 
         if get_types:
             type_mapping = {
+                "bool": bool,
                 "str": str,
                 "int": int,
                 "float": float,

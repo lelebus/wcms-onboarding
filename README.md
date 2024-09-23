@@ -2,6 +2,8 @@
 
 This repository has been created to smoothly on-board a new user on the Vinoteqa platform, stress-free and even when you're drunk :)
 
+*In the case you're drunk, please double check your work the day after to make sure that you didn't mess things up!*
+
 ## Table of contents
 
 - [Getting started](#getting-started)
@@ -105,7 +107,7 @@ git checkout -b onboarding/<CLIENT_NAME>
 **IMPORTANT**:
 
  - Commit your changes to `onboarding/<CLIENT_NAME>` after completing each of the subsequent steps.
- - Merge `onboarding/<CLIENT_NAME>` into `main` only **after** you have finished all the steps. Please refer to [Merging Procedure](#merging-procedure) for further details.
+ - Merge `onboarding/<CLIENT_NAME>` into `main` **only after** you have finished all the steps. Please refer to [Merging Procedure](#merging-procedure) for further details.
 
 
 ### v0-original: Beginning of the onboarding

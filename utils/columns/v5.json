@@ -8,5 +8,6 @@
     "info": "str",
     "storage_area": "str",
     "quantity": "int",
-    "internal_notes": "str"
+    "internal_notes": "str",
+    "visible": "bool"
 }

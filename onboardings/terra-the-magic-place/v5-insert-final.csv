@@ -169,9 +169,9 @@ wine_01h4pmmgb0245zqe43rgtajs67,1220,BOTTLE,2009,10100,3660,,1220,1,Glas Preis: 
 wine_01gzr4ktwcp5fb4jqaz1epampm,1221,BOTTLE,2001,160000,41000,,1221,1,"Glas Preis: 266.0Ein Gutes Jahr, mit einem trockenen September(perfekt für die Säure und frische des Weines). Sehr konzentrierte, pure Trauben.",True
 wine_01j52tetb3sdkhq2jrmfap2h71,1222,BOTTLE,0,5600,1664,,1222,5,Glas Preis: 9.0Rebalter: 50-70 Jahre. Aus der Region Roussillon. Soleraverfahren.,True
 wine_01j52terdxee83pan54jm80gr6,1223,BOTTLE,0,3500,795,,1223,5,Glas Preis: 5.0,True
-wine_01h0sq48qsx6wxv7zxpmvdcpte,123,BOTTLE,2020,6300,1910,,123,1,"Glas Preis: 10.0450-600m.ü.M. Handlese, Gärung; BSA und Ausbau von 50% auf der Hefe in BarriquesTonneau. Rest in grossen Eichenholzfässern. Nach 1 Jahr Assemblage, danach 6 Monate im Stahltank",True
-wine_01h0sq48qsx6wxv7zxpmvdcpte,123,BOTTLE,2021,6300,1910,,123,2,"Glas Preis: 10.0450-600m.ü.M. Handlese, Gärung; BSA und Ausbau von 50% auf der Hefe in BarriquesTonneau. Rest in grossen Eichenholzfässern. Nach 1 Jahr Assemblage, danach 6 Monate im Stahltank",False
-wine_01j52tewpbk7pmbg70rbb3s3y0,1234,BOTTLE,0,2500,520,,1234,3,,True
+wine_01gzr4ksmxhs3pcnxcft4hsbxs,123,BOTTLE,2020,6300,1910,,123,1,"Glas Preis: 10.0450-600m.ü.M. Handlese, Gärung; BSA und Ausbau von 50% auf der Hefe in BarriquesTonneau. Rest in grossen Eichenholzfässern. Nach 1 Jahr Assemblage, danach 6 Monate im Stahltank",True
+wine_01gzr4ksmxhs3pcnxcft4hsbxs,123,BOTTLE,2021,6300,1910,,123,2,"Glas Preis: 10.0450-600m.ü.M. Handlese, Gärung; BSA und Ausbau von 50% auf der Hefe in BarriquesTonneau. Rest in grossen Eichenholzfässern. Nach 1 Jahr Assemblage, danach 6 Monate im Stahltank",False
+wine_01j8t1atxqawcn57by7yt46tva,1234,BOTTLE,0,2500,520,,1234,3,,True
 wine_01j8t1jphd7nrw6vj2q5a8wa73,1235,BOTTLE,0,3100,750,,1235,0,,True
 wine_01j52tf89e5b9s2qwjex9170ww,1236,BOTTLE,0,4100,1050,,1236,3,,True
 wine_01j52tf89pb4807byz5jr7yy03,1237,BOTTLE,0,2600,550,,1237,0,,True
@@ -507,13 +507,13 @@ wine_01gzr4ksn5agw365140he6yvs3,573,BOTTLE,2016,6700,2030,,573,1,"Glas Preis: 11
 wine_01gzr4ksdgz77serjjy0qk8rht,574,BOTTLE,2017,4600,1320,,574,1,"Glas Preis: 7.0400-500m.ü.M. Gärung; Holzgärbottich, 2 wöchige Mazeration. Ausbau; BSA; 12 Monate im Tonneau.",True
 wine_01gzr4ksdgz77serjjy0qk8rht,574,BOTTLE,2021,4600,1320,,574,2,"Glas Preis: 7.0400-500m.ü.M. Gärung; Holzgärbottich, 2 wöchige Mazeration. Ausbau; BSA; 12 Monate im Tonneau.",False
 wine_01gzr4ksmwhbcdak4ythj1qxp6,575,BOTTLE,2020,8500,2650,,575,2,Glas Preis: 14.0,True
-wine_01gzr4ksn1kzs5m746rwx8xh35,575,BOTTLE,2021,8500,2650,,575,1,Glas Preis: 14.0,False
+wine_01gzr4ksmwhbcdak4ythj1qxp6,575,BOTTLE,2021,8500,2650,,575,1,Glas Preis: 14.0,False
 wine_01h0sq47v1qksg5tqcwjgsp153,577,BOTTLE,2021,5100,1500,,577,3,"Glas Preis: 8.0450-550m.ü.M. Gärung; Edelstahltank. Ausbau; BSA, 8 Monate in grossen und kleinen Eichenfässern",True
 wine_01h0qzm1v5rk7a80zrkkerg6kf,579,BOTTLE,2015,11400,5200,,579,3,Glas Preis: 19.0Gärung,True
 wine_01hawwcxe6t3q7h1xdf0nbpz9s,58,BOTTLE,0,10700,3900,,58,3,,True
 wine_01h0r2pq1mme1g80nm4fwcj7ra,584,BOTTLE,2011,3300,800,,584,2,Glas Preis: 5.0,True
 wine_01h0r2pq1mme1g80nm4fwcj7ra,584,BOTTLE,2012,3300,800,,584,1,Glas Preis: 5.0,False
-wine_01h0sq474awp5s5pf8knfag6dh,585,BOTTLE,2011,4000,1019,,585,2,"Glas Preis: 6.0400-600m.ü.M. Gärung; im Holz für ca. 2 Wochen. Ausbau; 20 Monate Barrique mit BSA, einige Monate Flaschenlagerung.",True
+wine_01h0sq474a6hx735yy0945c46v,585,BOTTLE,2011,4000,1019,,585,2,"Glas Preis: 6.0400-600m.ü.M. Gärung; im Holz für ca. 2 Wochen. Ausbau; 20 Monate Barrique mit BSA, einige Monate Flaschenlagerung.",True
 wine_01hcw4dg37qywf1pxa757gzzvb,586,BOTTLE,2012,4800,1400,,586,2,"Glas Preis: 8.0Gärung; spontan im offenen Holzbottich. Ausbau; BSA, Barrique",True
 wine_01h0r2ppgh5n5xvsmz8m7q4793,587,BOTTLE,2019,6200,1850,,587,3,Glas Preis: 10.0,True
 wine_01h0sq47vfjex7ec5r6bex9nm6,588,BOTTLE,2020,8000,2900,,588,4,"Glas Preis: 13.0400-500m.ü.M. Gärung; Edelstahltank. Ausbau; BSA, 12 Monate im EichenBarrique. 6 Monate grosses Holzfass. 1 Jahr Flaschenlagerung.",True
@@ -542,7 +542,7 @@ wine_01gzr4ksnhkt8065fe1wvzsq04,618,BOTTLE,2019,7900,2440,,618,2,Glas Preis: 13.
 wine_01gzr4ks64dqbkc15f7qg7p30e,62,BOTTLE,0,15800,7200,,62,3,Glas Preis: 26.0,True
 wine_01gzr4kt49mdefg96fmbcyrs5r,625,BOTTLE,2022,12100,5500,,625,2,"Glas Preis: 20.0430m.ü.M. Gärung; Maischgärng für 10 Tage mit Umwälzung, Mazeration für 10-14 Tage. Ausbau; neue & gebrauchte Barique mit BSA, 18 Monate mit mehrmaligem ""umziehen"". Grobfiltration",True
 wine_01gzr4ksdjcpxgb00k9375fr37,628,BOTTLE,2010,7800,1789,,628,1,"Glas Preis: 13.0Gärung; Maischgärung im Holzbottich, 4 wöchige Mazeration, BSA. Ausbau; 18 Monate im Barrique 50%neu. Leichte Filtration",True
-wine_01h0my5rfejq2g6z65cee2taqq,632,BOTTLE,2019,12700,5790,,632,3,"Glas Preis: 21.0BIO, 230-330m.ü.M. als Traubenverschnitt gekeltert. Gärung; spontane Maischgärung für 15 Tage, BSA im Stahltank. Ausbau; kleine Holzfässer 225l franz. Eiche 1/3neu.",True
+wine_01hndsrmndw98djg58tzvwh8qx,632,BOTTLE,2019,12700,5790,,632,3,"Glas Preis: 21.0BIO, 230-330m.ü.M. als Traubenverschnitt gekeltert. Gärung; spontane Maischgärung für 15 Tage, BSA im Stahltank. Ausbau; kleine Holzfässer 225l franz. Eiche 1/3neu.",True
 wine_01h0my5rfe8mfk2wp94pty52ax,635,BOTTLE,2008,12000,5225,,635,4,"Glas Preis: 20.0BIO, 250-330m.ü.M. Gärung; spontane Maischegärung für 15 Tage, BSA im Stahltank. Ausbau; 18 Monate in franz. Eiche von 150 & 225l, 1/2 Neu.",True
 wine_01h0my5rfe8mfk2wp94pty52ax,637,BOTTLE,2004,13000,4200,,637,0,Glas Preis: 21.0,False
 wine_01gzr4ktqd01dh5ccgq479h0k5,64,BOTTLE,0,12100,4800,,64,6,Glas Preis: 20.0,True
@@ -633,7 +633,7 @@ wine_01h0qzm1vfegw4g9qfc1bgceyj,720,BOTTLE,2009,4000,1019,,720,2,Glas Preis: 6.0
 wine_01h0my5rh44s6et0twfmk98mqw,722,BOTTLE,2019,10400,3790,,722,1,Glas Preis: 17.0,True
 wine_01h0my5rjsgn8q9afa20srmmzp,723,BOTTLE,2014,8100,2500,,723,3,Glas Preis: 13.0,True
 wine_01h0my5rjsgn8q9afa20srmmzp,723,BOTTLE,2015,8100,2500,,723,3,Glas Preis: 13.0,False
-wine_01h0my5rfejq2g6z65cee2taqq,724,BOTTLE,2018,12700,5790,,724,3,"Glas Preis: 21.0BIO, 230-330m.ü.M. als Traubenverschnitt gekeltert. Gärung; spontane Maischgärung für 15 Tage, BSA im Stahltank. Ausbau; kleine Holzfässer 225l franz. Eiche 1/3neu.",True
+wine_01hndsrmndw98djg58tzvwh8qx,724,BOTTLE,2018,12700,5790,,724,3,"Glas Preis: 21.0BIO, 230-330m.ü.M. als Traubenverschnitt gekeltert. Gärung; spontane Maischgärung für 15 Tage, BSA im Stahltank. Ausbau; kleine Holzfässer 225l franz. Eiche 1/3neu.",True
 wine_01j8jn5sz9wrjw5s4ray8pt4ma,728,BOTTLE,2016,11500,0,,728,9,Glas Preis: 19.0,True
 wine_01h0sq47xg77sk3wjaa5ezp15k,732,BOTTLE,2021,8700,3150,,732,4,Glas Preis: 14.0Gärung,True
 wine_01h0my5sf7e1yb4h9wpngjrvxs,734,BOTTLE,2020,8500,2880,,734,3,"Glas Preis: 14.0Gärung; spontan im Holzgärbottich, 3 wöchige Maischemazeration. Ausbau; Barrique 70%neu, BSA, 16 Monate im kleinen Fass. Abfüllung Ende Mai",True
@@ -693,7 +693,7 @@ wine_01gzr4kt2yv82wxyd8cq1ca28d,798,BOTTLE,2015,11600,4200,,798,3,"Glas Preis: 1
 wine_01h0my5ttr32dt6ahb537ptxvk,799,BOTTLE,2016,8200,2990,,799,1,Glas Preis: 13.0trocknung bis Januar. Ausbau,True
 wine_01hfrzc2vqd5y3129f1fpq00xp,8,BOTTLE,2018,7300,2250,,8,2,Glas Preis: 12.0,True
 wine_01hfrzc2vqd5y3129f1fpq00xp,8,BOTTLE,2019,7300,2250,,8,2,Glas Preis: 12.0,False
-wine_01hg8mjpwsn8dcsmz7028z122j,80,BOTTLE,0,11300,4100,,80,3,"Glas Preis: 18.010-20% ReserveWeine, 3 Jahre Reifung",True
+wine_01gzr4ks5hsmde1f5vkm7fzt85,80,BOTTLE,0,11300,4100,,80,3,"Glas Preis: 18.010-20% ReserveWeine, 3 Jahre Reifung",True
 wine_01h0my5smvkbvjc9z34s5g84ra,800,BOTTLE,2010,3900,984,,800,3,"Glas Preis: 6.0Gärung; 2 Wochen im Stahl mit Umwälzen. Ausbau; 18 Moante in neuen und alten Barrique. Assemblage, einige Monate im Stahl. 6 Monate Flaschenlagerung.",True
 wine_01hcw4dfxpvfkc4pyacs5myged,801,BOTTLE,2006,8300,2575,,801,2,Glas Preis: 13.0,True
 wine_01gzr4kt2yyys6hq488mw6ch4s,802,BOTTLE,2013,5100,1500,,802,2,Glas Preis: 8.0200-250m.ü.M. Gärung,True
@@ -902,15 +902,15 @@ wine_01j8tq6eg4dd773jz0k729c5a3,295,BOTTLE,2020,15000,6800,,295,3,Glas Preis: 24
 wine_01h0qzm2wz1nke0pfb03307jm8,296,BOTTLE,2020,8900,2790,,296,0,Glas Preis: 14.0,True
 wine_01h0qzm2wz1nke0pfb03307jm8,296,BOTTLE,2021,8900,2790,,296,8,Glas Preis: 14.0,False
 wine_01h0qzm2wz5355bbkp2p0jjmvn,309,BOTTLE,2022,5700,1689,,309,3,Glas Preis: 9.0650m.ü.M. Handlese. Gärung,True
-,402,BOTTLE,2021,4800,1410,,402,1,Glas Preis: 8.0,False
+wine_01h4pmmh3c3yt6m1p1vzp46g8j,402,BOTTLE,2021,4800,1410,,402,1,Glas Preis: 8.0,False
 wine_01gzr4kt2a5kxpkhj97z68692n,461,BOTTLE,2020,9600,3500,,461,2,Glas Preis: 16.0,True
 wine_01j8tqnwtrpxd6h75pe1k6ag8e,463,BOTTLE,2018,11200,4070,,463,5,Glas Preis: 18.0,True
 wine_01gzr4kt781g29sex9ehys5zch,464,BOTTLE,2015,6200,1850,,464,2,Glas Preis: 10.0,True
-wine_01h0qzm1tgghd1j07c7ek815h3,563,BOTTLE,2021,6700,2050,,563,1,"Glas Preis: 11.0Gärung; 10 Tage mit 25% intakten Trauben und Umwälzung. Ausbau; 14 Monate in kleinen Eichenholzfässern, assamblage, 7 Monate im grossen Eichenholzfass, Abfüllung, 12 Monate Flaschenlagerung.",True
+wine_01h0qzm1tfg557tccacjsxe97w,563,BOTTLE,2021,6700,2050,,563,1,"Glas Preis: 11.0Gärung; 10 Tage mit 25% intakten Trauben und Umwälzung. Ausbau; 14 Monate in kleinen Eichenholzfässern, assamblage, 7 Monate im grossen Eichenholzfass, Abfüllung, 12 Monate Flaschenlagerung.",True
 wine_01hawwcz6ybdn4p3n24a180rwm,564,BOTTLE,2019,10100,4590,,564,4,"Glas Preis: 16.0Gärung; 10 Tage mit 25% intakten Trauben und Umwälzung. Ausbau; 14 Monate in kleinen Eichenholzfässern, assamblage, 7 Monate im grossen Eichenholzfass, Abfüllung, 12 Monate Flaschenlagerung.",True
 wine_01h0sq47560drjja56baway98g,597,BOTTLE,2019,5700,1689,,597,0,"Glas Preis: 9.0270-320m.ü.m.M. Gärung; Holzbottich mit Maischekontakt für 12 tage. Ausbau; Säureabbau, 22 Monate in Barrique und Tonneau",False
 wine_01hndsrmndw98djg58tzvwh8qx,630,BOTTLE,2003,12000,0,,630,0,Glas Preis: 20.0,False
-,696,BOTTLE,2015,5400,1590,,696,2,Glas Preis: 8.0,False
+wine_01j52teymnnd7ra7dbpz1gee6b,696,BOTTLE,2015,5400,1590,,696,2,Glas Preis: 8.0,False
 wine_01h0my5rpcrxjgeb03e8dy68z2,782,BOTTLE,2016,12300,5600,,782,2,Glas Preis: 20.04 Jahre im Holz50hl,True
 wine_01h0my5smqb19595f6zje2ebbe,812,BOTTLE,2015,3700,930,,812,6,Glas Preis: 6.0,True
 wine_01h0sq47kfnzzrmbytzxgtd522,856,BOTTLE,2018,5000,1450,,856,2,"Glas Preis: 8.080m.ü.m. Handlese. Gärung; im Stahl, Fermentation für 12 Tage. Mazeration für 15 Tage. BSA. Ausbau; 16 Moante in franz. EichenBarrique. 8 Moante Flaschenlagerung.",True
@@ -921,12 +921,12 @@ wine_01gzr4ksd560dmr2hrsxt1em3c,900,BOTTLE,2011,8000,2470,,900,3,Glas Preis: 13.
 wine_01h0my5rpv7q4xmkgfkk3hey4t,924,BOTTLE,2008,5800,1730,,924,2,Glas Preis: 9.0,True
 wine_01h0my5rpv7q4xmkgfkk3hey4t,924,BOTTLE,2011,5800,1730,,924,1,Glas Preis: 9.0,False
 wine_01j8tqrh1f12q15xsvehfmjdbx,1098,BOTTLE,2014,11700,5340,,1098,5,Glas Preis: 19.0,True
-,1099,PICCOLO,2019,2900,625,,1099,2,"Glas Preis: 4.0Handlese. Gärung; im Stahl, BSA. Ausbau; 15 Monate in kleinen & grossen Holzfässern. 6 Monate Flaschenlagerung.",True
-,1099,PICCOLO,2020,2900,625,,1099,1,"Glas Preis: 4.0Handlese. Gärung; im Stahl, BSA. Ausbau; 15 Monate in kleinen & grossen Holzfässern. 6 Monate Flaschenlagerung.",False
+wine_01gzr4ksksmf95bvw0mp9sxwyx,1099,PICCOLO,2019,2900,625,,1099,2,"Glas Preis: 4.0Handlese. Gärung; im Stahl, BSA. Ausbau; 15 Monate in kleinen & grossen Holzfässern. 6 Monate Flaschenlagerung.",True
+wine_01gzr4ksksmf95bvw0mp9sxwyx,1099,PICCOLO,2020,2900,625,,1099,1,"Glas Preis: 4.0Handlese. Gärung; im Stahl, BSA. Ausbau; 15 Monate in kleinen & grossen Holzfässern. 6 Monate Flaschenlagerung.",False
 wine_01hfvgk1q39g2jv68bzta79nbe,1115,PICCOLO,2015,19200,8712,,1115,2,"Glas Preis: 31.0Handlese. Gärung; 1 Woche im Stahltank, Maischestandzeit 10-15 Tage. BSA im Eichenbarrqiue 70% neu. 18 Monate in Barrqiue, nach 12 Monaten wird dass Cuvee gemacht.",True
 wine_01hfvgk1q39g2jv68bzta79nbe,1115,PICCOLO,2016,19200,8712,,1115,1,"Glas Preis: 31.0Handlese. Gärung; 1 Woche im Stahltank, Maischestandzeit 10-15 Tage. BSA im Eichenbarrqiue 70% neu. 18 Monate in Barrqiue, nach 12 Monaten wird dass Cuvee gemacht.",False
 wine_01harvcmp3r0389egn9a4ybv2q,1174,BOTTLE,2009,5200,1520,,1174,1,Glas Preis: 8.0,True
 wine_01h0qzm2twey7t5vm6hdvcngjr,1181,BOTTLE,2016,6700,2020,,1181,2,Glas Preis: 11.0400m.ü.M. Lese Mitte Oktober. Trauben werden getrocknet bis Mitte Dezember. Ausbau,True
-,1189,BOTTLE,2006,8500,2500,,1189,2,Glas Preis: 14.0,True
-,1216,BOTTLE,0,700,0,,1216,5,Glas Preis: 1.0,True
+wine_01gzr4ksjnwpdkn1c217fcqpa1,1189,BOTTLE,2006,8500,2500,,1189,2,Glas Preis: 14.0,True
+wine_01gzr4ksjnwpdkn1c217fcqpa1,1216,BOTTLE,0,700,0,,1216,5,Glas Preis: 1.0,True
 wine_01j8tqze90e2t999fmsm44d0wn,1232,BOTTLE,0,3300,800,,1232,14,,True

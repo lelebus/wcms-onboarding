@@ -10,5 +10,6 @@
     "purchase_price": "int",
     "quantity": "int",
     "storage_area": "str",
-    "internal_notes": "str"
+    "internal_notes": "str",
+    "visible": "bool"
 }

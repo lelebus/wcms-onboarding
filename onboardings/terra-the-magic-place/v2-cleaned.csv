@@ -1,0 +1,2838 @@
+external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantity,storage_area,internal_notes,visible
+4,,RED MOON ,,,BOTTLE,0,0,0,5,4,,True
+5,,Cuvée Marianna  Extra Brut,Arunda Vivaldi,,BOTTLE,0,7300,2250,3,5,"Glas Preis: 12.0
+
+",True
+6,,Arunda Riserva Millesimato Extra Brut,Arunda Vivaldi,,BOTTLE,2016,8100,2500,2,6,"Glas Preis: 13.0
+
+",True
+7,,Arunda Rosé  Brut,Arunda Vivaldi,,BOTTLE,0,6700,2050,0,7,"Glas Preis: 11.0
+
+",True
+8,,Comitissa Riserva Pas Dosé,Lorenz Martini,,BOTTLE,2018,7300,2250,2,8,"Glas Preis: 12.0
+
+",True
+9,,Haderburg  Brut,L. Ochsenreiter,,BOTTLE,0,6000,1810,3,9,"Glas Preis: 10.0
+
+",True
+10,,Haderburg Pas Dosé Pas Dosé,L. Ochsenreiter,,BOTTLE,2019,7900,2450,3,10,"Glas Preis: 13.0
+
+",True
+11,,Arunda Parlein  Brut,Arunda Vivaldi,,BOTTLE,0,7000,2150,0,11,"Glas Preis: 11.0
+
+",True
+12,,Haderburg Riserva Hausmannhof Brut,L. Ochsenreiter,,BOTTLE,2013,11600,4200,1,12,"Glas Preis: 19.0
+
+",True
+13,,Praeclarus Cuvée St. Pauls  Brut,St. Pauls,,BOTTLE,0,5600,1650,3,13,"Glas Preis: 9.0
+
+",True
+14,,Athesis  Brut,Kettmeir,,BOTTLE,2019,6200,1850,1,14,"Glas Preis: 10.0
+
+",True
+15,,Blanc de Rouge  Extra Dry,Hartmann Donà,,BOTTLE,0,5600,1575,3,15,"Glas Preis: 9.0
+
+",True
+16,,Kettmeir  Pas Dosé,Kettmeir,,BOTTLE,0,7400,2265,5,16,"Glas Preis: 12.0
+
+",True
+17,,1919 Riserva Extra Brut,Kettmeir,,BOTTLE,2017,8300,3020,6,17,"Glas Preis: 13.0
+
+",True
+23,,Ferrari Perlé Brut,Cantine Ferrari,,BOTTLE,2017,8700,2850,1,23,"Glas Preis: 14.0
+
+",True
+24,,Dorigati Methius Riserva Brut,Dorigati,,BOTTLE,2018,8100,2930,3,24,"Glas Preis: 13.0
+
+",True
+25,,Giulio Ferrari Riserva del  Fondatore  Extra Brut,Cantine Ferrari,,BOTTLE,2010,27000,13500,3,25,"Glas Preis: 45.0
+
+",True
+26,,Ferrari Perlé Zero Brut nature,Cantine Ferrari,,BOTTLE,2010,11000,4990,2,26,"Glas Preis: 18.0
+
+",True
+27,,Giulio Ferrari Rosé Riserva  Extra Brut,,,BOTTLE,2008,38000,17900,1,27,"Glas Preis: 63.0
+
+",True
+28,,Art Brut,,,BOTTLE,0,5600,1510,7,28,"Glas Preis: 9.0
+
+",True
+30,,Franciacorta Bellavista Alma Grande Cuvée Brut,Bellavista,,BOTTLE,0,8500,2650,3,30,"Glas Preis: 14.0
+
+",True
+31,,Bellavista Rose Grand Cuvee  Pas Dosé,Bellavista,,BOTTLE,0,10500,3800,2,31,"Glas Preis: 17.0
+
+43% in Holz, mind. 5 JahreReifung im Keller",True
+32,,Bellavista Vittorio Moretti  Extra Brut,Bellavista,,BOTTLE,2013,19800,8990,1,32,"Glas Preis: 32.0
+
+",True
+34,,Blanc de Blanc Brut,Casa Caterina,,BOTTLE,0,8100,2490,3,34,,True
+36,,Bellavista Gran Cuvee Satèn Brut,Bellavista,,BOTTLE,2017,10700,3900,1,36,"Glas Preis: 17.0
+
+",True
+39,,Buvoli Tre Extra Brut Extra Brut,Buvoli,,BOTTLE,0,6300,1889,4,39,"Glas Preis: 10.0
+
+",True
+40,,Bisol Crede Prosecco DOCG Brut,Bisol,,BOTTLE,0,4300,1090,1,40,"Glas Preis: 7.0
+
+",True
+41,,Prosecco di Conegliano  Extra Dry,Cà del Ru,,BOTTLE,0,3200,780,0,41,"Glas Preis: 5.0
+
+",True
+43,,Blanc de Blanc 2012 Brut,Hoffmann & Rathbone,,BOTTLE,2012,11800,4290,14,43,"Glas Preis: 19.0
+
+",True
+44,,Classic Curée Brut,Hoffmann & Rathbone,,BOTTLE,2014,10700,3879,3,44,"Glas Preis: 17.0
+
+",True
+45,,Rosé Reserve Brut,Hoffmann & Rathbone,,BOTTLE,2012,12300,4470,10,45,"Glas Preis: 20.0
+
+",True
+47,,Fleury Fleur de l'Europe Nature Brut nature,Fleury,,BOTTLE,0,11600,4200,5,47,"Glas Preis: 19.0
+
+",True
+49,,Dom Perignon Rosé  Brut,Moet & Chandon,,BOTTLE,2000,57000,28939,2,49,"Glas Preis: 95.0
+
+",True
+50,,Bollinger Special Cuvée Brut,Bollinger ,,BOTTLE,0,13100,5950,3,50,"Glas Preis: 21.0
+
+Bollinger hat mindestens 3 Jahre Kellerreife.",True
+51,,Ruinart Brut But,Ruinart,,BOTTLE,0,12200,5550,3,51,"Glas Preis: 20.0
+
+Handlese, BSA",True
+52,,Ruinart Brut Rosé Brut,Ruinart,,BOTTLE,0,18700,8500,3,52,"Glas Preis: 31.0
+
+Handlese, BSA",True
+53,,Louis Roederer Brut Premier Brut,Luis Roederer,,BOTTLE,0,12000,5450,3,53,"Glas Preis: 19.0
+
+Weine im Eichenfass gereift, mind. 3 Jahre im Keller, mind. 6 Monate nach dem Degorgement",True
+54,,Louis Roederer  Cristal Brut,Luis Roederer,,BOTTLE,2015,49000,25500,3,54,"Glas Preis: 81.0
+
+6 Jahre im Keller, mind. 8 Monate in der Flasche nach dem Degorgement",True
+55,,Benoit Lahaye Blanc des Noirs Extra Brut,Benoit Lahaye,,BOTTLE,0,10300,4700,2,55,"Glas Preis: 17.0
+
+",True
+56,,Benoit Lahaye GC Nature  Brut nature,Benoit Lahaye,,BOTTLE,0,11000,4700,5,56,"Glas Preis: 18.0
+
+",True
+57,,Benoit Lahaye Nature Grand Violaine Brut nature,Benoit Lahaye,,BOTTLE,2018,17400,7900,2,57,"Glas Preis: 28.0
+
+",True
+58,,"Lacourte-Godbillon ""Terroirs d'Eceuil""  1er Cru Extra Brut",Lacourte-Godbillon,,BOTTLE,0,10700,3900,3,58,,True
+59,,"Benoit Lahaye ""Le Jardin de la Grosse Pierre"" Brut nature",Benoit Lahaye,,BOTTLE,2018,18500,8400,1,59,"Glas Preis: 30.0
+
+",True
+60,,Dom Perignon Brut,Moet & Chandon,,BOTTLE,2012,49000,24990,2,60,"Glas Preis: 81.0
+
+",True
+61,,Billecart-Salmon Brut Réserve Brut,Billecart-Salmon,,BOTTLE,0,12400,4500,2,61,"Glas Preis: 20.0
+
+",True
+62,,Billecart-Salmon Rosé Brut,Billecart-Salmon,,BOTTLE,0,15800,7200,3,62,"Glas Preis: 26.0
+
+",True
+63,,Bruno Paillard Blanc de Blancs Réserve Cuvée Grand Cru Extra Brut,Bruno Paillard,,BOTTLE,0,16300,7390,2,63,"Glas Preis: 27.0
+
+4 Jahre auf der Hefe",True
+64,,"""Latitude""  Extra Brut",Larmandier-Bernier,,BOTTLE,0,12100,4800,6,64,"Glas Preis: 20.0
+
+",True
+65,,"""Longitude"" 1er Cru Extra Brut",Larmandier-Bernier,,BOTTLE,0,14300,6500,7,65,"Glas Preis: 23.0
+
+",True
+66,,"""Terre de Vertus"" 1er Cru  Pas Dosé",Larmandier-Bernier,,BOTTLE,2016,17400,7900,4,66,"Glas Preis: 28.0
+
+",True
+68,,"""Les Chemins d'Avize"" Blanc de blancs Grand Cru Extra Brut",Larmandier-Bernier,,BOTTLE,2014,23100,10500,3,68,"Glas Preis: 38.0
+
+",True
+69,,Rosé de Saignée 1er Cru Extra Brut Brut,Larmandier-Bernier,,BOTTLE,0,16500,7520,4,69,"Glas Preis: 27.0
+
+",True
+70,,Blanc de Blancs Brut,Diebolt-Vallois,,BOTTLE,0,9700,3520,1,70,"Glas Preis: 16.0
+
+",True
+72,,Tarlant Zero Brut Nature Brut nature,Tarlant ,,BOTTLE,0,10900,3979,5,72,"Glas Preis: 18.0
+
+",True
+74,,Bam! Blanc de blancs Brut nature Brut nature,tarlant ,,BOTTLE,0,26400,12000,4,74,"Glas Preis: 44.0
+
+",True
+75,,Rosé Cuvée de Reserve Brut,Alain Couvreur,,BOTTLE,0,8500,2650,5,75,"Glas Preis: 14.0
+
+",True
+76,,Royal Reserve Brut ,Philipponat,,BOTTLE,0,11600,4200,3,76,"Glas Preis: 19.0
+
+teilweise BSA, Holzausbau, 3 Jahre in der Flasche auf der Hefe",True
+77,,Purity Brut nature,F. Moreau,,BOTTLE,0,11500,4180,2,77,"Glas Preis: 19.0
+
+",True
+80,,Laurent Perrier Brut  ,,,BOTTLE,0,11300,4100,3,80,"Glas Preis: 18.0
+
+10-20% ReserveWeine, 3 Jahre Reifung",True
+81,,Laurent Perrier Ultra Brut ,,,BOTTLE,0,11600,5250,3,81,"Glas Preis: 19.0
+
+",True
+82,,Laurent Perrier Millesimé ,,,BOTTLE,2008,13800,6290,1,82,"Glas Preis: 23.0
+
+",True
+85,,Arunda Brut ,Arunda Vivaldi,,PICCOLO,0,3300,810,6,85,"Glas Preis: 5.0
+
+",True
+86,,Ruinart Brut  ,Ruinart,,PICCOLO,0,9300,3390,3,86,"Glas Preis: 15.0
+
+",True
+89,,Ruinart Brut ,,,MAGNUM,0,27500,12900,0,89,,False
+90,,"""Longitude"" Blanc de blancs 1er Cru ",Larmandier-Bernier,,MAGNUM,0,23000,8272,0,90,"Glas Preis: 38.0
+
+",True
+91,,Cuvée Marianne ,,,MAGNUM,0,11300,4100,1,91,"Glas Preis: 18.0
+
+",True
+93,,cuvée marianne ,,,MAGNUM,0,12300,4200,1,93,"Glas Preis: 20.0
+
+",True
+94,,MADEIRA ,,,MAGNUM,0,9200,3350,2,94,"Glas Preis: 15.0
+
+",True
+100,WHITE,Weissburgunder Platt& Riegl ,Kellerei Girlan,,BOTTLE,2021,3900,969,1,100,"Glas Preis: 6.0
+
+",True
+101,WHITE,Weissburgunder Schulthauser ,Kellerei St. Michael Eppan,,BOTTLE,2021,3900,980,1,101,"Glas Preis: 6.0
+
+",True
+102,WHITE,Weissburgunder Praesulis ,Gumphof,,BOTTLE,2022,4900,1430,3,102,"Glas Preis: 8.0
+
+",True
+103,WHITE,Weissburgunder Longorei ,Pfitscher,,BOTTLE,2022,3800,960,3,103,"Glas Preis: 6.0
+
+",True
+104,WHITE,Weissburgunder Barthenau  ,Hofstätter,,BOTTLE,2020,7100,2170,3,104,"Glas Preis: 11.0
+
+",True
+105,WHITE,Vinschgau Weissburgunder ,Castel Juval,,BOTTLE,2021,4500,1170,5,105,"Glas Preis: 7.0
+
+",True
+107,WHITE,Weissburgunder Kristallberg ,Elena Walch,,BOTTLE,2022,5800,1730,3,107,"Glas Preis: 9.0
+
+350m.ü.M, 1/3 in franz. EichenBarriques vergoren und dann Reifung für 5 Monate. Cuvee im Frühling",True
+108,WHITE,Weißburgunder Klaser  Riserva Salamander ,Niklaserhof,,BOTTLE,2020,4900,1430,1,108,"Glas Preis: 8.0
+
+550.m.ü.M, Gärung in 500 l Eichenholzfässern bleibt dort für 12 Monate auf der Feinhefe und danach weitere 6 Monate auf der Feinhefe im Stahltank",True
+109,WHITE,Weissburgunder Strahler ,Stroblhof,,BOTTLE,2022,4800,1250,3,109,"Glas Preis: 7.0
+
+400-500m.ü.M, Traubengemisch (2012 z.B. mit 4 % Pinot Grigio und Chardonnay), Gärung; 22 Tage im Edelstahltank & Eichenfässern, ohne BSA, Ausbau; 6 Monate 50% in Eichenhlzfässern auf der Hefe, 50% Edelstahlbehälter",True
+110,WHITE,Weissburgunder Riserva Renaissance ,Gumphof,,BOTTLE,2019,8500,2650,0,110,"Glas Preis: 14.0
+
+",False
+111,WHITE,Weißburgunder Riserva Helios ,Kränzel,,BOTTLE,2020,8500,2650,2,111,"Glas Preis: 14.0
+
+",True
+112,WHITE,Weissburgunder Alte Reben ,K. Martini & Sohn,,BOTTLE,2019,8100,2500,1,112,"Glas Preis: 13.0
+
+250m.ü.M, 4 h Maischestandzeit, Gärung; im grossen Holzfass, Ausbau; 5 Monate auf der Feinhefe im Stahltank",True
+114,WHITE,Weissburgunder Vom Muschelkalk ,Weingut Abraham,,BOTTLE,2022,6300,1889,3,114,"Glas Preis: 10.0
+
+",True
+117,WHITE,Weissburgunder Plötzner ,St. Pauls,,BOTTLE,2022,3100,700,11,117,"Glas Preis: 5.0
+
+500-700m.ü.M, Gärung; grossem Holzfass, Ausbau; 5-7 Monate auf der Feinhefe mit teilweise BSA",True
+119,WHITE,Weissburgunder Prunar  ,Erste & Neue ,,BOTTLE,2015,3000,720,2,119,"Glas Preis: 5.0
+
+500m.ü.M. Gärung; grossen Holzfass & Edelstahltank, anschliessende Lagerung auf der Feinhefe",True
+121,WHITE,Weissburgunder Riserva Vorberg  ,Kellerei Terlan,,BOTTLE,2021,7000,2140,2,121,"Glas Preis: 11.0
+
+600-950m.ü.M. Handlese, Gärung; grossen Eichenfass, Ausbau; BSA und Reife für 12 Monate auf der Feinhefe im traditionellen Holzfass",True
+122,WHITE,Weissburgunder Sirmian ,Nals Margreid,,BOTTLE,2021,5700,1700,3,122,"Glas Preis: 9.0
+
+Ausbau",True
+123,WHITE,Weissburgunder St. Valentin  ,St. Michael Eppan,,BOTTLE,2020,6300,1910,1,123,"Glas Preis: 10.0
+
+450-600m.ü.M. Handlese, Gärung; BSA und Ausbau von 50% auf der Hefe in BarriquesTonneau. Rest in grossen Eichenholzfässern.  Nach 1 Jahr Assemblage, danach 6 Monate im Stahltank",True
+126,WHITE,Terlaner Weissburgunder De Silva  ,Peter Sölva & Söhne,,BOTTLE,2020,4900,1295,2,126,"Glas Preis: 8.0
+
+500m.ü.M. nach der Vergärung auf der feinen Hefe bis zur Abfüllung. ",True
+127,WHITE,Terlaner Weissburgunder Rarity ,Kellerei Terlan,,BOTTLE,2009,23000,10510,5,127,"Glas Preis: 38.0
+
+",True
+128,WHITE,Terlaner Weissburgunder Rarity ,Kellerei Terlan,,BOTTLE,2006,26000,13050,3,128,"Glas Preis: 43.0
+
+",True
+129,WHITE,Terlaner Weissburgunder Rarity ,,,BOTTLE,2010,22000,10200,0,129,,False
+132,WHITE,Chardonnay Kreuth ,Kellerei Terlan,,BOTTLE,2021,5000,1450,3,132,"Glas Preis: 8.0
+
+250-420m.ü.M. Hadlese, Gärung; grossen Eichenholzfass, Ausbau; BSA und 8 Monate auf der Feinhefe im traditionellen Holzfass",True
+133,WHITE,CH19 ,Pitzner,,BOTTLE,2019,8400,2590,3,133,"Glas Preis: 13.0
+
+",True
+134,WHITE,Chardonnay St. Valentin  ,St. Michael Eppan,,BOTTLE,2021,6400,1939,1,134,"Glas Preis: 10.0
+
+",True
+136,WHITE,Chardonnay Cardellino  ,Elena Walch,,BOTTLE,2023,4900,1440,3,136,"Glas Preis: 8.0
+
+400.m.ü.M. Vinifizierung; langer Hefekontakt, 15% werden in franz. EichenBarrique vergoren und reifen 5 Monate. Assemblage im Frühjahr",True
+137,WHITE,Chardonnay Marei  ,Castel Salegg,,BOTTLE,2020,5100,1500,2,137,"Glas Preis: 8.0
+
+",True
+140,WHITE,Chardonnay Riserva ,Happacherhof,,BOTTLE,2020,5400,1600,2,140,"Glas Preis: 9.0
+
+Vergärung im grossen Eichenhlzfass mit anschliessender 15 Monatiger reife",True
+141,WHITE,Chardonnay Ogeaner ,Armin Kobler,,BOTTLE,2021,3700,910,2,141,"Glas Preis: 6.0
+
+209.m.ü.M. Vinifizierung; auf der Feinhefe im Stahlfass mit teilweise BSA, keine Weinsteinstabilisierung",True
+143,WHITE,Chardonnay Ateyon  ,Loacker Schwarhof,,BOTTLE,2022,5200,1525,3,143,"Glas Preis: 8.0
+
+Holzausbau mit wöchentlicher Batonnage und spontangärung",True
+144,WHITE,Chardonnay Lafoa ,Schreckbichl Colterenzio,,BOTTLE,2022,6600,1989,3,144,"Glas Preis: 10.0
+
+400-550m.ü.M. Ganztraubenpressung. Gärung; neuen und gebrauchten Barriques, BSA. Ausbau; 10 Monate auf der Feinhefe mit regelmässiger Batonnage. Mind. 6 Monate in der Flasche",True
+145,WHITE,Donà d'Or bei Terlan,Hartmann Donà,,BOTTLE,2015,12800,5816,0,145,"Glas Preis: 21.0
+
+260-320m.ü.M. Gärung",True
+148,WHITE,Chardonnay Löwengang  ,Tenutae Lageder,,BOTTLE,2020,12200,4855,4,148,"Glas Preis: 20.0
+
+230-330m.ü.M. Gärung",True
+149,WHITE,Chardonnay Löwengang  ,Tenutae Lageder,,BOTTLE,2017,10900,4950,0,149,"Glas Preis: 18.0
+
+230-330m.ü.M. Gärung",False
+151,WHITE,Chardonnay Schwarzhaus ,Stroblhof,,BOTTLE,2017,4800,1250,1,151,"Glas Preis: 7.0
+
+350m.ü.M. Gärung",True
+152,WHITE,Chardonnay Baron Salvadori  ,Nals Margreid,,BOTTLE,2020,8100,2500,2,152,"Glas Preis: 13.0
+
+12 Monate im Tonneau",True
+153,WHITE,Chardonnay Sophie  ,Manincor,,BOTTLE,2022,8800,2750,5,153,"Glas Preis: 14.0
+
+350-40m.ü.M. 4 h Mazeration. Gärung; spontan in Holzfässern verschiedener grössen und Traubeneigener Hefe, BSA. Ausbau;  9 Monate auf der Feinhefe",True
+159,WHITE,Chardonnay Riserva Troy ,Kellerei Tramin,,BOTTLE,2020,11400,5200,16,159,"Glas Preis: 19.0
+
+",True
+166,WHITE,Riesling Praepositus ,Stiftskellerei Neustift,,BOTTLE,2018,6300,1889,1,166,"Glas Preis: 10.0
+
+650-700m.ü.M. 2/3 Mitte Oktober, 1/3 Spätlese mitte Dezember. Vergärung & Ausbau im Edelstahltank. 9 Monate Flaschenreifung",True
+168,WHITE,Riesling R ,Köfererhof,,BOTTLE,2022,6000,1810,2,168,"Glas Preis: 10.0
+
+700m.ü.M. Handlese. Gärung & Ausbau im Stahl.",True
+169,WHITE,Riesling Viel Anders ,Röckhof,,BOTTLE,2018,4100,1050,1,169,"Glas Preis: 6.0
+
+550-650m.ü.M. Ernte im Oktober/November/Anfang Januar. Handlese. Gärung & Ausbau im Edelstahltank für 8 Monate",True
+172,WHITE,Riesling Kaiton ,Kuenhof - Peter Pliger,,BOTTLE,2021,5400,1590,2,172,"Glas Preis: 8.0
+
+550-700m.ü.M. Gärung; spontan 50% im grossen Akazienholzfass, 50% im Edelstahltank. Ausbau; 8 Monate auf der Feinhefe",True
+173,WHITE,Riesling ,Falkensteiner - Franz Pratzner,,BOTTLE,2022,6000,1789,2,173,"Glas Preis: 9.0
+
+600-900m.ü.M. Handlese. Gärung im AkazienHolzfass. Ausbau",True
+174,WHITE,Riesling Unterortl ,Castel Juval - Unterortl,,BOTTLE,2021,6300,1889,1,174,"Glas Preis: 10.0
+
+",True
+175,WHITE,Riesling Ringberg ,Elena Walch,,BOTTLE,2021,6300,1889,3,175,"Glas Preis: 10.0
+
+400m.ü.M. Gärung",True
+176,WHITE,Riesling Windbichel ,Castel Juval - Unterortl,,BOTTLE,2022,8600,2990,3,176,"Glas Preis: 14.0
+
+",True
+177,WHITE,Riesling Surmont ,Alois Lageder,,BOTTLE,2021,5600,1650,3,177,"Glas Preis: 9.0
+
+520-750m.ü.M. Gärung",True
+179,WHITE,Riesling  ,Pacherhof,,BOTTLE,2022,5500,1620,3,179,"Glas Preis: 9.0
+
+",True
+180,WHITE,Riesling  ,Andi Sölva,,BOTTLE,2018,5100,1480,2,180,"Glas Preis: 8.0
+
+",True
+183,WHITE,Kerner ,Pacherhof,,BOTTLE,2021,4700,1360,1,183,"Glas Preis: 7.0
+
+700m.ü.M. Handlese. Vinifizierung im Stahlbehälter für 6 Monate auf der Hefe",True
+184,WHITE,Rielinger Kontur  ,Rielinger,,BOTTLE,2020,8100,2500,6,184,"Glas Preis: 13.0
+
+600-750m.ü.M. Gärung",True
+185,WHITE,Kerner Praepositus ,Stiftskellerei Neustift,,BOTTLE,2022,5300,1550,3,185,"Glas Preis: 8.0
+
+650-700m.ü.M Gärung & Ausbau im Edelstahltank. 3 Monate Flaschenlagerung",True
+186,WHITE,Kerner Aristos ,Eisacktaler Kellerei,,BOTTLE,2020,4600,1330,1,186,"Glas Preis: 7.0
+
+700-800m.ü.M. Gärung",True
+187,WHITE,Kerner Sabiona ,Eisacktaler Kellerei,,BOTTLE,2020,7900,2450,3,187,"Glas Preis: 13.0
+
+750m.ü.M. Gärung",True
+188,WHITE,Kerner ,Köfererhof,,BOTTLE,2021,4900,1270,1,188,"Glas Preis: 8.0
+
+650m.ü.M.  Edelstahl",True
+191,WHITE,Kerner ,Taschlerhof,,BOTTLE,2023,4500,1170,3,191,"Glas Preis: 7.0
+
+Stahltank",True
+194,WHITE,Viognier Leviogn ,Tröpfltalhof,,BOTTLE,2021,5800,1720,3,194,"Glas Preis: 9.0
+
+",True
+198,WHITE,Sylvaner  ,Kuenhof - Peter Pliger,,BOTTLE,2022,5200,1530,2,198,"Glas Preis: 8.0
+
+550-700m.ü.M. Handlese. Gärung: 50% grossen Holzfass 50% Edelstahltanks. Ausbau; 8 Monate auf der Feinhefe zu 2/3  im grossen Holzfass, der Rest im Edelstahltanks.",True
+199,WHITE,Sylvaner Sabiona ,Eisacktaler Kellerei,,BOTTLE,2019,8400,2600,2,199,"Glas Preis: 13.0
+
+650m.ü.M. Gärung",True
+200,WHITE,Sylvaner BIO ,Garlider,,BOTTLE,2021,4700,1230,2,200,"Glas Preis: 7.0
+
+600-800m.ü.M. Gärung & Ausbau im Holzfass",True
+201,WHITE,Sylvaner Praepositus ,Stiftskellerei Neustift,,BOTTLE,2021,5200,1540,1,201,"Glas Preis: 8.0
+
+600-700m.ü.M.  Gärung",True
+202,WHITE,Sylvaner ,Taschlerhof,,BOTTLE,2022,4200,1070,3,202,"Glas Preis: 6.0
+
+Gärung & Ausbau 30% in grossen Akazienholzfässern, 70% im Stahltank.",True
+203,WHITE,Sylvaner ,Pacherhof,,BOTTLE,2019,4600,1310,1,203,"Glas Preis: 7.0
+
+620m.ü.M. Handlese. Vinifikation im Stahlbehälter, anschliessend 8 Monate auf der Feinhefe. ",True
+206,WHITE,Sylvaner Hautnah ,Garlider,,BOTTLE,2017,8000,2460,1,206,"Glas Preis: 13.0
+
+",True
+210,WHITE,Veltliner ,Kuenhof - Peter Pliger,,BOTTLE,2015,4400,1130,1,210,"Glas Preis: 7.0
+
+550-700m.ü.M. Gärung; 50% grosses Holzfass 50% Edelstahltank. Ausbau; 8 Monate 2/3 im grossen Holzfass, Rest im Edelstahltank auf der Feinhefe",True
+211,WHITE,Veltliner BIO ,Garlider,,BOTTLE,2020,4600,1180,3,211,"Glas Preis: 7.0
+
+600-650m.ü.M. Gärung & Ausbau im Holzfass",True
+213,WHITE,Veltliner ,Köfererhof,,BOTTLE,2018,5400,1590,1,213,"Glas Preis: 8.0
+
+700m.ü.M.6h Mazeration.  Gärung",True
+221,WHITE,Sauvignon Tannenberg ,Manincor,,BOTTLE,2020,6700,2050,1,221,"Glas Preis: 11.0
+
+300m.ü.M. 12h Mazeration. Gärung",True
+223,WHITE,Sauvignon Floreado ,Kellerei Andrian,,BOTTLE,2022,3900,980,3,223,"Glas Preis: 6.0
+
+260-380m.ü.M. Gärung",True
+224,WHITE,Sauvignon Mantele ,Nals Margreid,,BOTTLE,2020,5100,1500,3,224,"Glas Preis: 8.0
+
+7 Monate im Edelstahltank und Holzfass.",True
+226,WHITE,Sauvignon Stern ,Kellerei Kaltern,,BOTTLE,2021,4000,1019,2,226,"Glas Preis: 6.0
+
+500m.ü.M. Gärung",True
+227,WHITE,Sauvignon Lafoa  ,Schreckbichl ,,BOTTLE,2021,6300,1889,1,227,"Glas Preis: 10.0
+
+430m.ü.M. Vinifikation: 8 Monate auf der Hefe. 50% im Edelstahlbehälter, 50% im Bariques mit BSA. ",True
+232,WHITE,Sauvignon Lieben Aich Bio  ,Manincor,,BOTTLE,2016,11500,3604,0,232,"Glas Preis: 19.0
+
+",False
+233,WHITE,Sauvignon Lieben Aich Bio  ,Manincor,,BOTTLE,2021,9800,4600,7,233,"Glas Preis: 16.0
+
+300m.ü.M. 12h Mazeration. Gärung",True
+235,WHITE,Sauvignon Lieben Aich Bio  ,Manincor,,BOTTLE,2020,10500,4600,6,235,"Glas Preis: 17.0
+
+",True
+237,WHITE,Sauvignon Quarz ,Kellerei Terlan,,BOTTLE,2021,9500,3700,12,237,"Glas Preis: 15.0
+
+",True
+238,WHITE,Sauvignon Quarz ,Kellerei Terlan,,BOTTLE,2022,10700,3900,12,238,,False
+242,WHITE,Sauvignon Schliff ,St. Pauls,,BOTTLE,2020,8100,2520,3,242,"Glas Preis: 13.0
+
+700m.ü.M.  100% im Edelstahl, Abfüllung im November",True
+243,WHITE,Sauvignon Myra ,Waldgries,,BOTTLE,2022,4600,1340,2,243,"Glas Preis: 7.0
+
+550m.ü.M. Ausbau; 90% Stahl, 10% Barriques. Ein Teil wird mit ganzen Beeren vergoren. ",True
+244,WHITE,Sauvignon St. Valentin ,St. Michael Eppan,,BOTTLE,2022,6400,1939,1,244,"Glas Preis: 10.0
+
+",True
+246,WHITE,Sauvignon Andrius ,Kellerei Andrian,,BOTTLE,2020,6100,1839,0,246,"Glas Preis: 10.0
+
+260-380m.ü.M. Gärung",True
+247,WHITE,Sauvignon Praesulis ,Gumphof,,BOTTLE,2022,5000,1470,5,247,"Glas Preis: 8.0
+
+",True
+249,WHITE,Sauvignon ,Thurnhof,,BOTTLE,2018,4400,1130,1,249,"Glas Preis: 7.0
+
+grösster Teil der Reben auf 800m.ü.M.  Ausbau",True
+250,WHITE,Sauvignon Anphora ,Tröpfltalhof,,BOTTLE,2018,11600,4200,5,250,,True
+255,WHITE,Huaber Weingort  ,Vontavon Albert - Teis,,BOTTLE,2011,700,0,7,255,"Glas Preis: 1.0
+
+Der Wein wird Vergärt, Ausgebaut und Abgefüllt von Alois Lageder",True
+257,WHITE,Müller Thurgau Feldmarschall ,Tiefenbrunner,,BOTTLE,2020,9600,3490,5,257,"Glas Preis: 15.0
+
+650m.ü.M.   Gärung",True
+259,WHITE,Müller Thurgau ,Castel Juval - Unterortl,,BOTTLE,2021,4400,1120,2,259,"Glas Preis: 7.0
+
+750-850m.ü.M. Gärung",True
+264,WHITE,Pinot Grigio Porer ,Alois Lageder,,BOTTLE,2021,5000,1445,3,264,"Glas Preis: 8.0
+
+230-420m.ü.M. Gärung",True
+268,WHITE,Pinot Grigio Unterebner  ,Kellerei Tramin,,BOTTLE,2021,6500,1980,3,268,"Glas Preis: 10.0
+
+430m.ü.M. Gärung",True
+273,WHITE,Grauer Burgunder Klausner ,Armin Kobler,,BOTTLE,2021,3700,910,2,273,"Glas Preis: 6.0
+
+209m.ü.M. Vinifizierung im Stahlfass ohne BSA. Keine Weinstabilisierung.",True
+274,WHITE,Pinot Grigio St. Valentin ,St. Michael Eppan,,BOTTLE,2021,7000,2150,0,274,"Glas Preis: 11.0
+
+",True
+275,WHITE,Pinot Grigio Punggl ,Nals Margreid,,BOTTLE,2021,4800,1240,1,275,"Glas Preis: 7.0
+
+7 Monate im Edelstahltank und Holzfass.",True
+276,WHITE,Pinot Grigio Ringberg ,Elena Walch,,BOTTLE,2022,5800,1730,2,276,"Glas Preis: 9.0
+
+350m.ü.M. Gärung; 85% Stahltank, 15% im franz. Eiche mit BSA. Cuvee im Frühjahr.",True
+281,WHITE,Liebenstein ,Baron Longo,,BOTTLE,2020,7200,2200,3,281,"Glas Preis: 11.0
+
+Gärung im Stahltank. Ausbau auf der Hefe für 6 Monate im Stahlfass und Akazienhlzfass.",True
+282,WHITE,Zeus ,Oxenreiter,,BOTTLE,0,8800,2750,3,282,"Glas Preis: 14.0
+
+Gärung im Stahltank. Ausbau auf der Hefe für 6 Monate im Stahlfass und Akazienhlzfass.",True
+283,WHITE,Stoan  ,Kellerei Tramin,,BOTTLE,2022,6600,1989,3,283,"Glas Preis: 10.0
+
+400-550m.ü.M. Gärung",True
+284,WHITE,Amistar Cuvée Bianco ,Peter Sölva & Söhne,,BOTTLE,2022,8100,2500,2,284,"Glas Preis: 13.0
+
+260-380m.ü.M. Gärung",True
+285,WHITE,Nova Domus  ,,,BOTTLE,2021,8300,2910,2,285,"Glas Preis: 13.0
+
+250-500m.ü.M. Handlese. Gärung im Eichenfass 30hl. Partieller BSA (Weissburgunder & Chardonnay). 12 Monate Reife im Holzfasss 50%, 50% Tonneau, Assemblage 3 Monate vor der Abfüllung.",True
+286,WHITE,Dona Blanc  ,Hartmann Donà,,BOTTLE,2019,7900,2150,0,286,"Glas Preis: 13.0
+
+Gärung ",True
+289,WHITE,Die Perle nummer im keller ändern,Ansitz Dolomythos - Panta Rei,,BOTTLE,2005,12000,4000,0,289,"Glas Preis: 20.0
+
+",False
+290,WHITE,Mittelberg Weiss Trias ,Weingut Niedrist,,BOTTLE,2021,6900,2090,3,290,"Glas Preis: 11.0
+
+450-500m.ü.M. Gärung",True
+291,WHITE,Reseve della Contessa Bio  ,Manincor,,BOTTLE,2023,4900,1420,3,291,"Glas Preis: 8.0
+
+300m.ü.M. 6h Mazeratin. Gärung",True
+292,WHITE,Beyound the Clouds ,Elena Walch,,BOTTLE,2022,12000,5900,3,292,"Glas Preis: 20.0
+
+gemeinsames Abpressen und vergären der verschiedenen Trauben im franz Barriques. 3 Monate wöchentliche Batonnage. 10 Monate Reifung im Barrique. 6 Monate Flaschenlagerung.",False
+293,WHITE,Casòn Hirschprunn  ,Tenutae Lageder,,BOTTLE,2020,8400,3000,2,293,"Glas Preis: 14.0
+
+230-360m.ü.M. Gärung",True
+294,WHITE,Grande Cuvee  ,Kellerei Terlan,,BOTTLE,2020,33000,14990,3,294,"Glas Preis: 54.0
+
+Gärung im Eichenholzfass. BSA und Ausbau für 12 Monate auf der Feinhefe im grossen Holzfass. Cuvee, Danach 4 Monate im Stahltank",True
+295,WHITE,Adamantis ,,,BOTTLE,2020,15000,6800,3,295,"Glas Preis: 24.0
+
+",True
+296,WHITE,Private Cuvée ,Pacherhof,,BOTTLE,2020,8900,2790,0,296,"Glas Preis: 14.0
+
+",True
+307,WHITE,Gewürztraminer St. Valentin ,St. Michael Eppan,,BOTTLE,2021,6300,1910,1,307,"Glas Preis: 10.0
+
+300-500m.ü.M. Handlese. Vinifikation im Stahltank.",True
+309,WHITE,Gewürztraminer ,Pacherhof,,BOTTLE,2022,5700,1689,3,309,"Glas Preis: 9.0
+
+650m.ü.M. Handlese. Gärung",True
+311,WHITE,Gewürztraminer Feld ,Armin Kobler,,BOTTLE,2022,4200,1060,2,311,"Glas Preis: 6.0
+
+214m.ü.M. Vinifikation im Stahlfass auf der Feinhefe. Kein BSA. Keine Weinstabilisierung.",True
+316,WHITE,Gewürztraminer Exilissi Sell  ,Baron di Pauli,,BOTTLE,2016,8000,2470,2,316,"Glas Preis: 13.0
+
+480-550m.ü.M. Mehrtägige Mazeration. Gärung",True
+321,WHITE,Gewürztraminer Kolbenhof ,Hofstätter,,BOTTLE,2020,7000,2150,2,321,"Glas Preis: 11.0
+
+einige Stunden Kontakt mit Schalen. Reifung für 8 Monate auf der Feinhefe mit wöchentlicher Batonnage",True
+323,WHITE,Gewürztraminer Kolbenhof ,Hofstätter,,BOTTLE,2009,8100,2505,1,323,"Glas Preis: 13.0
+
+einige Stunden Kontakt mit Schalen. Reifung für 8 Monate auf der Feinhefe mit wöchentlicher Batonnage",True
+325,WHITE,Gewürztraminer Nussbaumer ,Kellerei Tramin,,BOTTLE,2022,7000,2150,3,325,"Glas Preis: 11.0
+
+350-550m.ü.M. Gärung",True
+331,WHITE,Gewürztraminer  ,Gumphof,,BOTTLE,2018,4500,1165,2,331,"Glas Preis: 7.0
+
+Vinifikation",True
+333,WHITE,Gewürztraminer Kastelaz ,Elena Walch,,BOTTLE,2022,8600,2690,3,333,"Glas Preis: 14.0
+
+350.m.ü.M. Maischekontakt von 6h. Gärung",True
+334,WHITE,Gewürztraminer Epokale ,Kellerei Tramin,,BOTTLE,2016,16500,0,6,334,"Glas Preis: 27.0
+
+",True
+335,WHITE,Gewürztraminer Epokale ,Kellerei Tramin,,BOTTLE,2015,17500,6500,3,335,"Glas Preis: 29.0
+
+",True
+339,WHITE,Goldmuskateller ,Bessererhof,,BOTTLE,2013,3200,775,2,339,"Glas Preis: 5.0
+
+Ausbau",True
+340,WHITE,Goldmuskateller ,Klosterhof,,BOTTLE,2012,3300,790,3,340,"Glas Preis: 5.0
+
+450.m.ü.M.  Gärung",True
+341,WHITE,Moscato Giallo BIO ,Manincor,,BOTTLE,2021,4700,1220,2,341,"Glas Preis: 7.0
+
+350m.ü.M. 12h Mazeration. Gärung",True
+342,WHITE,Flow ,AMProjects,,BOTTLE,2022,10600,4800,10,342,"Glas Preis: 17.0
+
+",True
+343,WHITE,Nosiola ,Cesconi,,BOTTLE,2020,4400,1120,2,343,"Glas Preis: 7.0
+
+",True
+344,WHITE,Terre Bianche ,De Vigili,,BOTTLE,2020,3800,950,14,344,"Glas Preis: 6.0
+
+",True
+347,WHITE,Ribolla Zuc di Volpe ,Volpe Pasini,,BOTTLE,2013,4000,1025,3,347,"Glas Preis: 6.0
+
+Gärung: Stahltank. Ausbau",True
+348,WHITE,Sauvignon de la Tour  ,Villa Russiz,,BOTTLE,2017,7500,2300,2,348,"Glas Preis: 12.0
+
+Handlese. Kelterung der ganzen Trauben. Mind. 7 Monate auf der Hefe. Abfüllung nach 9 Monaten.",True
+349,WHITE,Friulano Collio  ,Villa Russiz,,BOTTLE,2021,4700,1230,3,349,"Glas Preis: 7.0
+
+Handlese. 12h Maischezeit. Geringer Teil in 225l Eichenholzfässer gegärt. 10 Monate auf der Hefe. Nach 12 Monaten wird er abgefüllt.",True
+351,WHITE,Sauvignon ,Puiatti,,BOTTLE,2017,3600,900,5,351,"Glas Preis: 6.0
+
+",True
+352,WHITE,Madre  ,Italo Cescon,,BOTTLE,2019,6500,1950,6,352,"Glas Preis: 10.0
+
+",True
+353,WHITE,Soave Vintage  ,bertani,,BOTTLE,2016,3600,900,1,353,"Glas Preis: 6.0
+
+",True
+354,WHITE,Lugana Brolettino  ,Cà dei Frati,,BOTTLE,2021,4900,1420,1,354,"Glas Preis: 8.0
+
+Gärung: Stahltank.  Ausbau: Barriques für 10 Monate mit teilweise BSA. 3 Monate Flaschenlagerung.",True
+356,WHITE,Derthona Timorasso  ,Mariotto Claudo,,BOTTLE,2019,4400,1120,1,356,"Glas Preis: 7.0
+
+250-300m.ü.M. Handlese. Auf der Hefe gelagert.",True
+357,WHITE,"Blanc de Morgex et de La Salle ""Nathan""  ",Ermes Pavese,,BOTTLE,2012,4800,1250,4,357,"Glas Preis: 7.0
+
+900-1200m.ü.M. Handlese. Handgepresst. Mazeration für 48h. Ausbau: 1 Jahr 70% im franz. Barriques, mit batonnage, 30% im Stahlfass. 10 Moante Flaschenlagerung.",True
+358,WHITE,Petite Arvine  ,Les Crêtes,,BOTTLE,2018,4300,1090,2,358,"Glas Preis: 7.0
+
+550-650m.ü.M. Handlese. Gärung",True
+359,WHITE,Chardonnay ,Les Crêtes,,BOTTLE,2016,4700,1355,1,359,"Glas Preis: 7.0
+
+600-850m.ü.M. Handlese. Gärung",True
+360,WHITE,Sopraquota 900 ,Rosset,,BOTTLE,2020,9000,3270,0,360,"Glas Preis: 14.0
+
+",True
+361,WHITE,Chardonnay  ,Monteverro,,BOTTLE,2018,15200,6890,1,361,"Glas Preis: 25.0
+
+Pressen der ganzen Beeren. Natürliche Gärung. Ausbau",True
+362,WHITE,Solosole Bolgheri Vermentino ,Tenuta al Tesoro,,BOTTLE,2017,8400,3070,16,362,"Glas Preis: 14.0
+
+",True
+363,WHITE,Viognier Ars Magna ,Omina Romana,,BOTTLE,2020,9900,3590,3,363,"Glas Preis: 16.0
+
+",True
+367,WHITE,"Verdicchio Jesi Classico Superiore ""Il Coroncino""  ",Coroncino,,BOTTLE,2013,3200,780,2,367,"Glas Preis: 5.0
+
+12 Monate im Stahl.",True
+368,WHITE,Massaccio Verdicchio Superiore ,fazi battaglia,,BOTTLE,2016,3300,0,3,368,"Glas Preis: 5.0
+
+",True
+370,WHITE,Chardonnay ,Planeta,,BOTTLE,2014,5500,1620,3,370,"Glas Preis: 9.0
+
+Ausbau",True
+377,WHITE,Grüner Veltliner Federspiel Rotes Tor ,Hirtzberger,,BOTTLE,2021,8100,2500,3,377,"Glas Preis: 13.0
+
+",True
+378,WHITE,Grüner Veltliner Smaragd Hochrain ,Rudi Pichler,,BOTTLE,2021,9800,3550,0,378,"Glas Preis: 16.0
+
+6 Jahre im Barrique. Nicht Filtriert. 4 Generation. einziges Spanisches Weingut, dass eigene Fässer aus amerikanischer Eiche produziert ( nur eigengebrauch).",False
+379,WHITE,Grüner Veltliner Steinertal Smaragd ,Alzinger,,BOTTLE,2016,8800,3200,0,379,"Glas Preis: 14.0
+
+",False
+380,WHITE,Grüner Veltliner Smaragd Ried Loibenberg ,E. Knoll,,BOTTLE,2019,9200,3350,1,380,"Glas Preis: 15.0
+
+",True
+381,WHITE,Grüner Veltliner Smaragd Ried Loibenberg ,E. Knoll,,BOTTLE,2008,13800,6250,2,381,"Glas Preis: 22.0
+
+",True
+382,WHITE,Grüner Veltliner Grub ,Hirsch,,BOTTLE,2019,8800,3190,3,382,"Glas Preis: 14.0
+
+",True
+383,WHITE,Grüner Veltliner Langenloiser Alter Reben ,Bründlmayr,,BOTTLE,2020,10500,3800,5,383,"Glas Preis: 17.0
+
+",True
+384,WHITE,Grüner Veltliner Alte Reben  ,Nigl,,BOTTLE,2012,4800,1380,1,384,"Glas Preis: 7.0
+
+600-750m.ü.M. Gärbehälter",True
+385,WHITE,Grüner Veltliner Kalkvogel GV ,Zillinger,,BOTTLE,2020,7700,2810,5,385,,True
+386,WHITE,Grüner Veltliner Radikal GV ,Zillinger,,BOTTLE,2019,10500,4790,6,386,,True
+388,WHITE,Riesling Steinterassen  Federspiel  ,Hirtzberger,,BOTTLE,2019,8000,2900,2,388,"Glas Preis: 13.0
+
+",True
+390,WHITE,Riesling Smaragd Achleiten ,Domäne Wachau,,BOTTLE,2016,7000,2150,2,390,"Glas Preis: 11.0
+
+",True
+391,WHITE,Riesling Smaragd Ried Kellerberg ,E. Knoll,,BOTTLE,2022,11800,4300,6,391,"Glas Preis: 19.0
+
+",True
+392,WHITE,Riesling - Kamptaler Terrassen ,Bründlmayr,,BOTTLE,2021,4900,1295,3,392,,True
+393,WHITE,Riesling - Zöbinger Heiligenstein Lyra ,Bründlmayr,,BOTTLE,2016,12000,4350,1,393,,True
+394,WHITE,Sauvignon Grassnitzberg  ,Tement,,BOTTLE,2019,8400,2590,2,394,"Glas Preis: 13.0
+
+Ausbau",True
+395,WHITE,Sauvignon Blanc Klausen  ,Neumeister,,BOTTLE,2012,5400,1610,2,395,"Glas Preis: 9.0
+
+340m.ü.M. Rebalter; 10-25 Jahre. Gärung; Kaltmazeration 18-24h, fermentation im grossen Holz. Ausbau; 8 Monate im Holz auf der Hefe.",True
+401,WHITE,Riesling Steinreich ,Clüsserath,,BOTTLE,2018,7600,2350,1,401,"Glas Preis: 12.0
+
+",True
+402,WHITE,Riesling Blauschiefer ,Dr. Loosen,,BOTTLE,2018,4800,1410,2,402,"Glas Preis: 8.0
+
+",True
+403,WHITE,Red Slate Dry (=Rotschiefer) QbA ,Dr. Loosen,,BOTTLE,2022,4600,1185,3,403,,True
+404,WHITE,Riesling Schieferterrassen ,Heymann-Löwenstein,,BOTTLE,2019,7800,2390,3,404,"Glas Preis: 12.0
+
+",True
+405,WHITE,Graacher Domprobst GG ,Dr. Loosen,,BOTTLE,2021,8900,3250,2,405,,True
+406,WHITE,Erdener Treppchen GG Alte Reben ,Dr. Loosen,,BOTTLE,2018,10200,3695,0,406,,True
+407,WHITE,Riesling Wehlener Sonnenuhr - Spätlese  ,Markus Molitor,,BOTTLE,2020,8500,2650,3,407,,True
+408,WHITE,Riesling Wehlener Sonnenuhr  BKS Ring  ,Kerpen,,BOTTLE,2018,6300,1900,2,408,"Glas Preis: 10.0
+
+",True
+409,WHITE,Zeltinger Sonnenuhr - Auslese *** ,Markus Molitor,,BOTTLE,2019,20800,9450,2,409,,True
+410,WHITE,Wehlener Sonnenuhr Alte Reben GG ,Prüm,,BOTTLE,2013,10900,4950,5,410,,True
+411,WHITE,Riesling Tonschiefer  ,Dönnhoff,,BOTTLE,2022,5100,1495,3,411,"Glas Preis: 8.0
+
+Handlese. Vergärung und Reife im Edelstahl und grossen Holzfass",True
+412,WHITE,Riesling Hermannshöhle - Grösses Gewachs ,Dönnhoff,,BOTTLE,2022,18700,8495,2,412,,True
+413,WHITE,Dellchen - GG Grösses Gewachs ,Dönnhoff,,BOTTLE,2021,17500,7975,2,413,,True
+414,WHITE,Riesling Kalkmergel ,Knipser,,BOTTLE,2015,4800,1378,4,414,"Glas Preis: 7.0
+
+",True
+416,WHITE,Riesling Ungeheuer GG ,von Winning,,BOTTLE,2020,10300,3750,2,416,"Glas Preis: 17.0
+
+Seit 1744, der Grossvater baute das Weingut nach dem 2. Weltkrieg wieder auf. 105-275m.ü.M. ",True
+418,WHITE,Riesling Westhofen ,Wittmann,,BOTTLE,2021,8000,2900,3,418,"Glas Preis: 13.0
+
+spontan vergoren. Ausbau",True
+420,WHITE,Riesling Kiedrich Turmberg  ,Robert Weil,,BOTTLE,2015,7000,2140,1,420,"Glas Preis: 11.0
+
+Baut nur Riesling an. Handlese, beginnt selten vor Oktober und dauert bis zu 8 Wochen( nur die beste Qualität). Rebalter; 50+.",True
+421,WHITE,Silvaner Eigenart ,Max Müller,,BOTTLE,2012,6700,1300,23,421,"Glas Preis: 11.0
+
+",True
+422,WHITE,Grauer Burgunder Kähner GG ,Franz Keller,,BOTTLE,2021,8400,2615,4,422,"Glas Preis: 14.0
+
+",True
+423,WHITE,Grauer Burgunder Schlossberg GG ,Franz Keller,,BOTTLE,2021,9000,3290,2,423,,True
+424,WHITE,Illusion ,Meyer-Näkel,,BOTTLE,2021,7500,2300,6,424,,True
+427,WHITE,Chablis Vaillon 1er Cru ,Domaine Christian Moreau,,BOTTLE,2022,9400,3400,6,427,"The soil is also from the Kimmeridgien period with clay-limestone marls very rich of marine fossils, and most specifically small oyster fossils, called Exogyra Virgula., 73 Jahre alte Rebstöcke 55% Stahl, 45% in Holz (2-3-4 Jahre, weniger als 5 % neues Holz für 8 Monate, Malolactic conversion",True
+428,WHITE,Bourgogne Blanc Chardonnay ,Michel Bouzereau & Fils,,BOTTLE,2021,9000,2800,3,428,"Glas Preis: 14.0
+
+1 Jahr in 15% neuen Barique. 2 Monate im Tank. Seit 1991,leitet der Sohn Jean-Baptist (Oenologe) dass Weingut mit seinem Vater Michel.",True
+429,WHITE,"Chablis ""Vielles Vignes""  ",Bessin Tremblay,,BOTTLE,2020,6200,1880,2,429,"Glas Preis: 10.0
+
+Rebalter",True
+430,WHITE,"Chablis ""La Fourchaume"" 1er Cru ",Jean-Claude Bessin,,BOTTLE,2018,8800,3200,0,430,"Glas Preis: 14.0
+
+Rebalter; 10-80 Jahre. 4. Generation. 12h Maischestandzeit. 21 Tage fermentation. Ausbau; 9 Monate 15% Im Barriques, 85% im Stahl auf der Feinhefe.",True
+431,WHITE,"Chablis ""La Forêt"" 1er Cru  ",Bessin-Temblay,,BOTTLE,2022,12100,4400,5,431,"Glas Preis: 20.0
+
+Rebalter",True
+432,WHITE,"Chablis ""Valmur"" Grand Cru ",Bessin-Temblay,,BOTTLE,2021,10600,4800,2,432,"Glas Preis: 17.0
+
+Rebalter",True
+433,WHITE,"Chablis "" Les Clos"" Grand Cru ",Domaine Christian Moreau,,BOTTLE,2021,12800,5800,4,433,"Glas Preis: 21.0
+
+Ausbau im Holz und Flaschenlagerung. Domaine seit Generationen im Besitz, einer der ältesten & meist respektierten Namen in der Chablis.",True
+434,WHITE,Chablis Vaillon ,Moreau,,BOTTLE,2021,9100,3300,1,434,"Glas Preis: 15.0
+
+",True
+435,WHITE,Chablis Mont De Milieu ,De Fleys,,BOTTLE,2020,12000,4350,5,435,,True
+436,WHITE,Pernand-Vergelesses ,Domaine Denis Père e Fils,,BOTTLE,2021,11000,3995,3,436,,True
+437,WHITE,St. Romain ,Domain Père Germain,,BOTTLE,2021,8800,3195,2,437,"Glas Preis: 14.0
+
+Ausbau im Holz und Flaschenlagerung. Domaine seit Generationen im Besitz, einer der ältesten & meist respektierten Namen in der Chablis.",True
+438,WHITE,"Mersault ""Les Genevrières"" ",Michel Bouzereau & Fils,,BOTTLE,2022,24600,11200,3,438,"Glas Preis: 41.0
+
+",True
+439,WHITE,"Mersault ""Les Grands Charrons"" ",Michel Bouzereau & Fils,,BOTTLE,2021,10600,4800,0,439,"Glas Preis: 17.0
+
+1 Jahr in 25% neuen Barrique. 3 Monate im Tank. Seit 1991,leitet der Sohn Jean-Baptist (Oenologe) dass Weingut mit seinem Vater Michel.",True
+440,WHITE,"Meursault 1er Cru ""Les Perrières""  ",Michel Bouzereau & Fils,,BOTTLE,2021,33000,15000,2,440,"Glas Preis: 55.0
+
+16-18 Monate in 30% neuen Barrique. Seit 1991,leitet der Sohn Jean-Baptist (Oenologe) dass Weingut mit seinem Vater Michel.",True
+441,WHITE,"Mersault ""Les Tessons""  ",Michel Bouzereau & Fils,,BOTTLE,2020,17600,8000,1,441,"Glas Preis: 29.0
+
+16-18 Moante in 1/3 neuen Barrique. Seit 1991,leitet der Sohn Jean-Baptist (Oenologe) dass Weingut mit seinem Vater Michel.",True
+442,WHITE,Mersault-Blagny Premier Cru  ,Chapelle de Blagny,,BOTTLE,2019,15500,7040,5,442,,True
+443,WHITE,Puligny Montrachet  ,Bachelet-Monnot,,BOTTLE,2021,14100,6400,0,443,"Glas Preis: 23.0
+
+Handlese. Giebt es seit 2005, sind zwei Brüder.",False
+444,WHITE,Batard-Montrachet Grand Cru ,Bachelet-Monnot,,BOTTLE,2018,55000,25000,1,444,"Glas Preis: 91.0
+
+",True
+445,WHITE,Chassagne Montrachet ,Philippe Colin,,BOTTLE,2020,10500,3800,1,445,"Glas Preis: 17.0
+
+Die Domaine Philippe Colin giebt es seit 2004.",True
+446,WHITE,"Chassagne Montrachet 1er Cru ""Chenevottes""  ",Philippe Colin,,BOTTLE,2021,11000,5000,0,446,"Glas Preis: 18.0
+
+Die Domaine Philippe Colin giebt es seit 2004.",False
+448,WHITE,"Macon La Roche Vineuse Blanc ""Les Cras"" ",Olivier Merlin,,BOTTLE,2017,6100,1842,4,448,"Glas Preis: 10.0
+
+",True
+449,WHITE,"Saint Veran ""Le Grand Bussière"" ",Olivier Merlin,,BOTTLE,2017,6100,1842,6,449,"Glas Preis: 10.0
+
+",True
+450,WHITE,"Pouilly Fuissé  ""Sur la Roche"" ",Olivier Merlin,,BOTTLE,2017,7300,2239,0,450,"Glas Preis: 12.0
+
+",False
+452,WHITE,"Sancerre ""Les Monts Damnés""  ",Pascal Cotat,,BOTTLE,2020,8800,3200,5,452,"Glas Preis: 14.0
+
+300m.ü.M. Rebalter; 40Jahre. Ökologischer Anbau. Spontane Vergärung. 8 Monate auf der Hefe in gebrauchten barrique. Vater & Sohn. Sie lesen ihre Trauben mindestens 10 Tage später als die anderen. Nach dem Pressen kommt der Wein in Holzfässer (normalerweise in dieser Region in Stahltanks), und einzigartig für die Sancerre, dass ihre Weine nicht Filtriert oder geschönt werden.",True
+453,WHITE,"Sancerre ""La Grande Côte""  ",Pascal Cotat,,BOTTLE,2020,8800,3200,4,453,"Glas Preis: 14.0
+
+Rebalter; 40 Jahre. spontane Gärung, 8 Monate in gebrauchten Barrique. Vater & Sohn. Sie lesen ihre Trauben mindestens 10 Tage später als die anderen. Nach dem Pressen kommt der Wein in Holzfässer (normalerweise in dieser Region in Stahltanks), und einzigartig für die Sancerre, dass ihre Weine nicht Filtriert oder geschönt werden.",True
+454,WHITE,L'Etoile Savagnin ,Montbourgeau,,BOTTLE,2018,8000,2900,3,454,"Glas Preis: 13.0
+
+",True
+455,WHITE,Condrieu ,Duclaux,,BOTTLE,2020,11000,4000,0,455,"Glas Preis: 18.0
+
+im Stahl ausgebaut.",False
+456,WHITE,Châteauneuf-du-pape  ,Vieux Télégrapf,,BOTTLE,2021,12400,4500,3,456,"Glas Preis: 20.0
+
+",True
+461,WHITE,"Artemis Karamolegos ""Pyritis"" ",Santorini,,BOTTLE,2020,9600,3500,2,461,"Glas Preis: 16.0
+
+",True
+462,WHITE,Vina Tondonia Blanco Reserva  ,López de Heredia,,BOTTLE,2007,9600,2850,0,462,"Glas Preis: 16.0
+
+6 Jahre im Barrique. Nicht Filtriert. 4 Generation. einziges Spanisches Weingut, dass eigene Fässer aus amerikanischer Eiche produziert ( nur eigengebrauch).",False
+463,WHITE,Sauvignon Blanc Little Beauty Black Edition ,Vinultra,,BOTTLE,2018,11200,4070,5,463,"Glas Preis: 18.0
+
+",True
+464,WHITE,Heida ,,,BOTTLE,2015,6200,1850,2,464,"Glas Preis: 10.0
+
+",True
+469,WHITE,Weissburgunder Schulthauser ,St. Michael Eppan,,PICCOLO,2021,2600,540,0,469,"Glas Preis: 4.0
+
+480-600m.ü.M. grösser Teil im Stahltank ausgebaut, ein kleiner Teil im Holzfass.",True
+470,WHITE,Weissburgunder Plattenriegel ,Kellerei Girlan,,PICCOLO,2019,2500,525,1,470,"Glas Preis: 4.0
+
+400m.ü.M. Handlese. Gärung",True
+471,WHITE,Chardonnay Lafoa ,Schreckbichl Colterenzio,,PICCOLO,2022,4900,1290,3,471,"Glas Preis: 8.0
+
+",True
+473,WHITE,Sauvignon St. Valentin ,St. Michael Eppan,,PICCOLO,2021,3900,969,1,473,"Glas Preis: 6.0
+
+Kellerei mit 350 Genossenschaftsmitglieder und Weinbauern",True
+474,WHITE,Terlaner  ,Kellerei Terlan,,PICCOLO,2022,3200,760,3,474,"Glas Preis: 5.0
+
+250-900m.ü.M. Handlese. Gärung; Stahltank. Ausbau; auf der Feinhefe, 80% im Stahl, 20% im grossen Holzfass. Assemblage, 1 Monat vor der Abfüllung.",True
+475,WHITE,Pinot Grigio  ,Alois Lageder,,PICCOLO,2022,2500,515,3,475,"Glas Preis: 4.0
+
+",True
+479,WHITE,Weissburgunder Riserva Barthenau  ,Hofstätter,,MAGNUM,2018,11500,0,1,479,"Glas Preis: 19.0
+
+",True
+480,WHITE,Weissburgunder Riserva Vorberg ,Kellerei Terlan,,MAGNUM,2015,12000,5470,2,480,"Glas Preis: 20.0
+
+250-900m.ü.M. Handlese. Gärung",True
+483,WHITE,Troy ,,,MAGNUM,2020,24200,11000,2,483,"Glas Preis: 40.0
+
+",True
+484,WHITE,Nova Domus  ,,,MAGNUM,2007,13500,3800,1,484,"Glas Preis: 22.0
+
+250-900m.ü.M.  Gärung; im grossen Eichenfass. Pinot & Chardonnay mit BSA. Ausbau; 12 Monate auf der Feinhefe, 50% grosses Holzfass, 50% Tonneau. Assemblage 3 Monate vor der Abfüllung.",True
+487,WHITE,Sauvingon Quarz  ,Kellerei Terlan,,MAGNUM,2021,16900,7690,1,487,"Glas Preis: 28.0
+
+Gärung und Reife für 9 Monate auf der Feinhefe, 50% grosses Holzfass, 50% Tonneau. Assemblage, 3 Monate vor der Abfüllung.",True
+489,WHITE,Sauvignon Lafoa  ,Schreckbichl Colterenzio,,MAGNUM,2021,11500,4100,1,489,"Glas Preis: 19.0
+
+Gärung; 50% Edelstahl, 50%Holzfass/Barrique (Teilweise BSA). Ausbau; 8 Monate auf der Hefe.",True
+490,WHITE,Stoan  ,Kellerei Tramin,,MAGNUM,2016,11000,3990,1,490,"Glas Preis: 18.0
+
+400-600m.ü.M. ",True
+491,WHITE,Kerner ,Köfererhof,,MAGNUM,2012,7800,0,1,491,"Glas Preis: 13.0
+
+",True
+492,WHITE,Kerner  ,Taschlerhof,,MAGNUM,2011,7800,2400,1,492,"Glas Preis: 12.0
+
+",True
+493,WHITE,Grüner Veltliner BIO ,Garlider,,MAGNUM,2010,8100,2500,1,493,"Glas Preis: 13.0
+
+",True
+499,,Lagrein Kretzer  ,Muri Gries,,BOTTLE,2023,3500,869,3,499,"Glas Preis: 5.0
+
+260m.ü.m.M. Gärung",True
+501,,Lagrein Rosé  ,Rottensteiner,,BOTTLE,2021,3000,710,1,501,"Glas Preis: 5.0
+
+Ausbau",True
+508,,La Rose de Manincor BIO ,Manincor,,BOTTLE,2023,5300,1550,3,508,"Glas Preis: 8.0
+
+250m.ü.M. 6-12h Maischestandzeit.  Most vergärt in Holzfässern zum Teil spontan mit Traubeneigener Hefe. 5 Moante Hozfassreife auf der Feinhefe.",True
+514,,Rosa dei Frati ,Cà dei Frati,,BOTTLE,2023,4000,1000,2,514,"Glas Preis: 6.0
+
+Gärung; Stahltank.  80% BSA. Ausbau; 6 Monate auf der Feinhefe im Stahlfass, 2 Monate Flaschenlagerung",True
+531,RED,Vernatsch Mirum ,Kandlerhof,,BOTTLE,2021,7800,2390,3,531,"Glas Preis: 12.0
+
+",True
+532,RED,St. Magdalener Glögglhof ,Franz Gojer,,BOTTLE,2023,3800,950,2,532,"Glas Preis: 6.0
+
+",True
+533,RED,St. Magdalener  ,Wassererhof,,BOTTLE,2020,3100,700,2,533,"Glas Preis: 5.0
+
+350m.ü.M. Gärung",True
+534,RED,St. Magdalener Antheos   ,Ansitz Waldgries,,BOTTLE,2021,5500,1620,1,534,"Glas Preis: 9.0
+
+250m.ü.M. Gärung; 20% mit ganzen Trauben, lange Maischestandzet. Ausbau; grosses Holzfass",True
+535,RED,Dona Rouge  ,Hartmann Donà,,BOTTLE,2017,6700,2030,2,535,"Glas Preis: 11.0
+
+450m.ü.M. Ausbau; 23 Monate im Holzfass, 2 Jahre Flaschenreife",True
+538,RED,Isarcus ,Griesbauerhof,,BOTTLE,2021,5100,1490,2,538,"Glas Preis: 8.0
+
+",True
+542,RED,Zweigelt Roan   ,Bessererhof,,BOTTLE,2016,4700,1210,1,542,"Glas Preis: 7.0
+
+",True
+548,RED,Blauburgunder Riserva Maglen ,Kellerei Tramin,,BOTTLE,2021,7300,2450,8,548,"Glas Preis: 12.0
+
+",True
+549,RED,Blauburgunder Riserva Maglen ,Kellerei Tramin,,BOTTLE,2020,7900,2250,6,549,"Glas Preis: 13.0
+
+350-700m.ü.M. Gärung",True
+550,RED,Blauburgunder Vom Roten Kalk  ,Weingut Abraham,,BOTTLE,2021,8900,2790,4,550,"Glas Preis: 14.0
+
+",True
+552,RED,Blauburgunder Hausmannshof Riserva  ,Haderburg,,BOTTLE,2017,10000,3650,4,552,"Glas Preis: 16.0
+
+350-550m.ü.M. Gärung",True
+553,RED,Blauburgunder Castel Juval  ,Castel Juval - Unterortl,,BOTTLE,2018,6200,1850,1,553,"Glas Preis: 10.0
+
+",True
+554,RED,Blauburgunder Lafoa ,Schreckbichl Colterenzio,,BOTTLE,2019,8900,2790,2,554,"Glas Preis: 14.0
+
+400m.ü.M. Gärung",True
+555,RED,Blauburgunder Riserva Trattmann Mazon ,Kellerei Girlan,,BOTTLE,2021,8600,2690,3,555,"Glas Preis: 14.0
+
+",True
+557,RED,Pinot Noir Gols ,Griesser,,BOTTLE,2018,5100,1290,7,557,"Glas Preis: 8.0
+
+400m.ü.M. Gärung; im grossen Holzfass mit 2 Wochen Maischekontakt und Unterstossen des Trester. Ausbau; BSA, 1 Jahr im Eichenfass 500l, 8-10 Moante im grossen Eichenfass. 1 Jahr Flaschenlagerung.",True
+558,RED,Blauburgunder Riserva Matán  ,Ansitz Pfitscher,,BOTTLE,2020,9000,2800,1,558,"Glas Preis: 14.0
+
+",True
+560,RED,Blauburgunder Pigeno ,Stroblhof,,BOTTLE,2020,6000,1800,1,560,"Glas Preis: 10.0
+
+500.mü.M. Gärung",True
+561,RED,Blauburgunder Riserva ,Stroblhof,,BOTTLE,2018,8800,2890,1,561,"Glas Preis: 14.0
+
+500m.ü.M. Gärung",True
+562,RED,Blauburgunder Barthenau Vigna San Urbano  ,Hofstätter,,BOTTLE,2018,12000,4580,2,562,"Glas Preis: 20.0
+
+Gärung; 10 Tage mit 25% intakten Trauben und Umwälzung. Ausbau; 14 Monate in kleinen Eichenholzfässern, assamblage, 7 Monate im grossen Eichenholzfass, Abfüllung, 12 Monate Flaschenlagerung.",True
+563,RED,Blauburgunder Praesulis ,Gumphof,,BOTTLE,2021,6700,2050,1,563,"Glas Preis: 11.0
+
+Gärung; 10 Tage mit 25% intakten Trauben und Umwälzung. Ausbau; 14 Monate in kleinen Eichenholzfässern, assamblage, 7 Monate im grossen Eichenholzfass, Abfüllung, 12 Monate Flaschenlagerung.",True
+564,RED,Blauburgunder Riserva Renaissance ,Gumphof,,BOTTLE,2019,10100,4590,4,564,"Glas Preis: 16.0
+
+Gärung; 10 Tage mit 25% intakten Trauben und Umwälzung. Ausbau; 14 Monate in kleinen Eichenholzfässern, assamblage, 7 Monate im grossen Eichenholzfass, Abfüllung, 12 Monate Flaschenlagerung.",True
+566,RED,Blauburgunder Krafuss  ,Tenutae Lageder,,BOTTLE,2020,10300,3740,1,566,"Glas Preis: 17.0
+
+BIO, 450-520m.ü.M. Gärung; spntan ca. 14 Tage. Ausbau; 12 Monate teilweise im Edelstahl, teilweise in kleinen Holzfässern 225l, (franz.Eiche 1/3 neu)",True
+567,RED,Blauburgunder Mason di Mason ,Manincor,,BOTTLE,2019,13000,5900,1,567,"Glas Preis: 21.0
+
+400-450m.ü.M. Gärung; Holzbottich, spontan mit Traubeneigener Hefe. Mazeration 2 Wochen mit Untertauchen der Trester.Ausbau; 12 Monate im Barrique 25% neu, auf der Feinhefe. ",True
+571,RED,Blauburgunder Riserva ,Laimburg,,BOTTLE,2020,4700,1360,1,571,"Glas Preis: 7.0
+
+350-550m.ü.M. Holz ausbau für 15 Monate",True
+572,RED,Blauburgunder Riserva Abtei ,Muri Gries,,BOTTLE,2020,6200,1860,3,572,"Glas Preis: 10.0
+
+500-600m.ü.M. Gärung; edelstahl. Ausbau; BSA, 12 Monate in kleinen Holzfässern.",True
+573,RED,Blauburgunder Riserva Monticol ,Kellerei Terlan,,BOTTLE,2018,6700,2030,1,573,"Glas Preis: 11.0
+
+450-760m.ü.M. Handlese. Gärung; Edelstahltank. Ausbau; BSA, 12 Monate 50% in grossen Holz, 50% in Barrique(1/3neu). 3 Monate Flaschenlagerung.",True
+574,RED,Blauburgunder Saltner  ,Kellerei Kaltern,,BOTTLE,2017,4600,1320,1,574,"Glas Preis: 7.0
+
+400-500m.ü.M. Gärung; Holzgärbottich, 2 wöchige Mazeration. Ausbau; BSA; 12 Monate im Tonneau.",True
+575,RED,Blauburgunder Sanct Valentin ,St. Michael Eppan,,BOTTLE,2020,8500,2650,2,575,"Glas Preis: 14.0
+
+",True
+577,RED,Blauburgunder Turmhof  ,Tiefenbrunner,,BOTTLE,2021,5100,1500,3,577,"Glas Preis: 8.0
+
+450-550m.ü.M. Gärung; Edelstahltank. Ausbau; BSA, 8 Monate in grossen und kleinen Eichenfässern",True
+579,RED,Dona Noir  ,Hartmann Donà,,BOTTLE,2015,11400,5200,3,579,"Glas Preis: 19.0
+
+Gärung",True
+584,RED,Vinschgau Blauburgunder Sonnenberg  ,Kellerei Meran,,BOTTLE,2011,3300,800,2,584,"Glas Preis: 5.0
+
+",True
+585,RED,Blauburgunder Bachgart ,Hemberg - Klaus Lentsch,,BOTTLE,2011,4000,1019,2,585,"Glas Preis: 6.0
+
+400-600m.ü.M. Gärung; im Holz für ca. 2 Wochen. Ausbau;  20 Monate Barrique mit BSA, einige Monate Flaschenlagerung.",True
+586,RED,Blauburgunder Panigl ,Klosterhof,,BOTTLE,2012,4800,1400,2,586,"Glas Preis: 8.0
+
+Gärung; spontan im offenen Holzbottich. Ausbau; BSA, Barrique",True
+587,RED,Blauburgunder Schwarze Madonna ,Klosterhof,,BOTTLE,2019,6200,1850,3,587,"Glas Preis: 10.0
+
+",True
+588,RED,Blauburgunder Riserva Linticlarus ,Tiefenbrunner,,BOTTLE,2020,8000,2900,4,588,"Glas Preis: 13.0
+
+400-500m.ü.M. Gärung; Edelstahltank. Ausbau; BSA, 12 Monate im EichenBarrique. 6 Monate grosses Holzfass. 1 Jahr Flaschenlagerung.",True
+589,RED,Blauburgunder Ludwig ,Elena Walch,,BOTTLE,2018,8800,2750,1,589,"Glas Preis: 14.0
+
+550-600m.ü.M. Gärung",True
+596,RED,Merlot Riserva Siebeneich  ,Schreckbichl Colterenzio,,BOTTLE,2021,5400,1590,3,596,"Glas Preis: 8.0
+
+Gärung; Edelstahltank, mit Umwälzen der Maische. Ausbau; 17§ in Barrique, 2/3 in 35hl Holzfässern für 18 Monate. 12 Monate Flaschenreifung.",True
+597,RED,Merlot Riserva Staffes  ,Kornellhof,,BOTTLE,2019,5700,1689,0,597,"Glas Preis: 9.0
+
+270-320m.ü.m.M. Gärung; Holzbottich mit Maischekontakt für 12 tage. Ausbau; Säureabbau, 22 Monate in Barrique und Tonneau ",False
+600,RED,Merlot Brenntal  ,Kellerei Kurtatsch,,BOTTLE,2020,9400,3400,3,600,"Glas Preis: 15.0
+
+Gärung",True
+604,RED,Merlot Riserva Siebeneich ,Kellerei Bozen,,BOTTLE,2019,7500,2300,2,604,"Glas Preis: 12.0
+
+Gärung",True
+607,RED,Merlot MCM BIO ,Tenutae Lageder,,BOTTLE,2019,9500,3450,2,607,"Glas Preis: 15.0
+
+230m.ü.M. Gärung, spontan ca 15 Tage mit BSA im Edelstahltank. Ausbau; 18 Monate in kleinen franz. EichenBarrque 1/3 neu.",True
+612,RED,Merlot Villa Karneid  ,Castelfeder,,BOTTLE,2011,3300,795,1,612,"Glas Preis: 5.0
+
+Gärung",True
+613,RED,Merlot Calldiv  ,von Braunbach,,BOTTLE,2011,4000,1000,1,613,"Glas Preis: 6.0
+
+",True
+614,RED,Merlot Freiherr ,Kellerei Meran,,BOTTLE,2011,5400,1600,2,614,"Glas Preis: 9.0
+
+330m.ü.M. Gärung",True
+616,RED,Merlot Nussleiten  ,Salegg,,BOTTLE,2019,9500,3450,2,616,"Glas Preis: 15.0
+
+230m.ü.M. Gärung",True
+617,RED,Merlot Raut ,Waldthaler,,BOTTLE,2014,7700,2360,1,617,"Glas Preis: 12.0
+
+",True
+618,RED,Merlot Mühlweg  ,Weingut Niedrist ,,BOTTLE,2012,7900,2440,1,618,"Glas Preis: 13.0
+
+400m.ü.M. Gärung",True
+625,RED,Cabernet Sauvignon Lafoa ,Schreckbichl Colterenzio,,BOTTLE,2022,12100,5500,2,625,"Glas Preis: 20.0
+
+430m.ü.M. Gärung; Maischgärng für 10 Tage mit Umwälzung, Mazeration für 10-14 Tage. Ausbau; neue & gebrauchte Barique mit BSA, 18 Monate mit mehrmaligem ""umziehen"". Grobfiltration ",True
+628,RED,Cabernet Riserva Pfarrhof  ,Kellerei Kaltern,,BOTTLE,2010,7800,1789,1,628,"Glas Preis: 13.0
+
+Gärung; Maischgärung im Holzbottich, 4 wöchige Mazeration, BSA. Ausbau;  18 Monate im Barrique 50%neu. Leichte Filtration",True
+630,RED,Cabernet Löwengang  ,,,BOTTLE,2003,12000,0,0,630,"Glas Preis: 20.0
+
+",False
+632,RED,Löwengang Uvaggio Storico ,Tenutae Lageder,,BOTTLE,2019,12700,5790,3,632,"Glas Preis: 21.0
+
+BIO, 230-330m.ü.M. als Traubenverschnitt gekeltert. Gärung; spontane Maischgärung für 15 Tage, BSA im Stahltank. Ausbau; kleine Holzfässer 225l franz. Eiche 1/3neu.",True
+633,RED,Cabernet Sauvignon Cor Römigberg ,,,BOTTLE,2018,10100,3690,6,633,"Glas Preis: 16.0
+
+",True
+635,RED,Cabernet Cor Römigberg  ,Tenutae Lageder,,BOTTLE,2008,12000,5225,4,635,"Glas Preis: 20.0
+
+BIO, 250-330m.ü.M. Gärung; spontane Maischegärung für 15 Tage, BSA im Stahltank. Ausbau; 18 Monate in franz. Eiche von 150 & 225l, 1/2 Neu. ",True
+637,RED,Cabernet Cor Römigberg  ,Tenutae Lageder,,BOTTLE,2004,13000,4200,0,637,"Glas Preis: 21.0
+
+",False
+638,RED,cabernet cor Römigberg ,Tenutae Lageder,,BOTTLE,2018,12000,4420,3,638,"Glas Preis: 20.0
+
+",True
+640,RED,Cabernet Riserva Burgum Novum  ,Castelfeder,,BOTTLE,2012,5100,1490,2,640,"Glas Preis: 8.0
+
+Gärung; Umpumpen des Mostes1x täglich, für die intakthaltung mit den Schalen. BSA. Ausbau; 15 Monate in kleinen Barrique 50% neu. Schonenden Eiweissklärung. Flaschenlagerung 6 Monate.",True
+641,RED,Cabernet Riserva Kampill ,Unterganzner,,BOTTLE,2016,6200,1850,0,641,"Glas Preis: 10.0
+
+Gärung; Maischekontakt von 10 Tagen, Edelstahltank. Ausbau; BSA, 1-18 Monate in franz. EichenBarrique 50%neu. ",True
+644,RED,Cabernet Riserva Kirchhügel  ,Kellerei Kurtatsch,,BOTTLE,2011,3700,930,1,644,"Glas Preis: 6.0
+
+Gärung; Rotortank. Ausbau; 14 Monate Barrique, danach im grossen Holzfass",True
+645,RED,Cabernet Freienfeld  ,Kellerei Kurtatsch,,BOTTLE,2017,11000,3990,1,645,"Glas Preis: 18.0
+
+Gärung; Rotortank. Ausbau; 50%neu, 50% 2-4 Jahre alten Barrique für 14 Moante. Assemblage im grossen Holzfass. Lange Flaschenlagerung.",True
+649,RED,Cabernet Sauvignon  ,Tiefenbrunner,,BOTTLE,2022,5100,1500,2,649,"Glas Preis: 8.0
+
+230-320m.ü.M. Gärung; Edelstahltank. Ausbau; BA, 8 Monate in grossen und kleinen EichenHolzfässern.",True
+654,RED,Cabernet Franc Amistar ,Peter Sölva & Söhne,,BOTTLE,2020,10400,3790,1,654,"Glas Preis: 17.0
+
+Gärug; Edelstahltank. Ausbau; BSA, 1 Jahr in Barrique 1/3neu",True
+656,RED,Cabernet Istrice ,Elena Walch,,BOTTLE,2018,6000,1789,2,656,"Glas Preis: 9.0
+
+400m.ü.M. Gärung",True
+657,RED,Cabernet Riserva Ringberg ,Elena Walch,,BOTTLE,2018,8900,3229,2,657,"Glas Preis: 14.0
+
+350m.ü.M. Gärung",True
+658,RED,Cabernet Mumelter ,Kellerei Bozen,,BOTTLE,2017,8100,2500,3,658,"Glas Preis: 13.0
+
+330m.ü.M. Gärung",True
+659,RED,Cabernet Riserva Siemegg ,Kellerei Terlan,,BOTTLE,2012,4200,1084,1,659,"Glas Preis: 7.0
+
+250-399m.ü.M. Handlese. Gärung; Edelstahltank mit Maischebewegung. Ausbau; BA, 12 Monate 70% grossen Holzfass, 30% in Barrique 1/3neu. Assemblage 3 Monate vor der Flaschenabfüllung.",True
+660,RED,Cabernet Raut ,Waldthaler,,BOTTLE,2009,6900,2110,2,660,"Glas Preis: 11.0
+
+",True
+661,RED,Barleith ,Tröpfltalhof,,BOTTLE,2020,10400,3790,3,661,"Glas Preis: 17.0
+
+Gärung; spontan in der Tonamphore, 8 wochen auf der Schale. Ausbau; 1  Jahr im Eichenfass, dann zurück in die Amphore.",True
+666,RED,Lagrein Risera ,Kiemberger,,BOTTLE,2018,6300,1889,3,666,"Glas Preis: 10.0
+
+",True
+667,RED,Lagrein Riserva Weingarten Klosteranger ,Abtei Muri,,BOTTLE,2018,11400,5200,3,667,"Glas Preis: 19.0
+
+",True
+668,RED,Lagrein Villa Schmid  ,Schmid-Oberrautner,,BOTTLE,2011,3400,830,1,668,"Glas Preis: 5.0
+
+Handlese. Gärung; natürliche Maischegärung Holzfass. Ausbau; BSA un Reife im EichenHolzfass, 20% amerikanischen Barrique.",True
+671,RED,Lagrein Gran Lareyn BIO ,Loacker Schwarhof,,BOTTLE,2020,5000,1460,1,671,"Glas Preis: 8.0
+
+Gärung; Rotortank. Ausbau; 12 Moante in Barrique, anschliessend lagerung im grossen Holzfass",True
+672,RED,Lagrein Frauenhügel ,Kellerei Kurtatsch,,BOTTLE,2018,6000,1800,2,672,"Glas Preis: 10.0
+
+Gärung; Rotortank. Ausbau; 12 Moante in Barrique, anschliessend lagerung im grossen Holzfass",True
+673,RED,Lagrein  ,Rottensteiner,,BOTTLE,2019,3700,919,1,673,"Glas Preis: 6.0
+
+Gärung",True
+674,RED,Lagrein Grieser Riserva Select ,Rottensteiner,,BOTTLE,2017,5600,1660,1,674,"Glas Preis: 9.0
+
+Ausbau",True
+675,RED,Lagrein Riserva Thurnhof  ,Andreas Berger,,BOTTLE,2016,5700,1689,1,675,"Glas Preis: 9.0
+
+Ausbau",True
+677,RED,Lagrein Riserva ,Griesbauerhof,,BOTTLE,2016,6900,2090,1,677,"Glas Preis: 11.0
+
+300m.ü.M. seit 1785 im Besitz der Fam. Mumentaler",True
+679,RED,Lagrein Riserva ,Unterganzner,,BOTTLE,2018,6200,1860,2,679,"Glas Preis: 10.0
+
+Gärung; Edelstahltank, Maischekontaktzeit von 8 Tagen. Ausbau; BSA, 15-18 Monate in kleinnen Holzfässern",True
+680,RED,Lagrein Riserva Taber ,Kellerei Bozen,,BOTTLE,2021,9000,3190,3,680,"Glas Preis: 15.0
+
+250m.ü.M. Gärung",True
+682,RED,Lagrein Riserva Prestige Line  ,Kellerei Bozen,,BOTTLE,2018,6300,1900,2,682,"Glas Preis: 10.0
+
+Gärung",True
+686,RED,Lagrein Riserva ,Waldgries,,BOTTLE,2021,5900,1750,4,686,"Glas Preis: 9.0
+
+Gärung; Maischestandzeit bis zu 35 Tagen im Bottich, 10% mit ganzen Trauben vergoren.. Ausbau; 1/3 grosses Holzfass, 2/3 Barrique für 12 Monate",True
+688,RED,Lagrein Mirell ,Waldgries,,BOTTLE,2020,8700,3100,3,688,"Glas Preis: 14.0
+
+Gärung; Maischenstandzeit bis zu 35 Tagen im Bottich, 10% der Taruebn werden spätreif gelesen. Ausbau; Barrique",True
+689,RED,Roblinus de Waldgries ,Waldgries,,BOTTLE,2018,14300,6490,0,689,"Glas Preis: 23.0
+
+250m.ü.M.",False
+691,RED,Lagrein Riserva Carano ,Baron di Pauli,,BOTTLE,2016,7300,2240,2,691,"Glas Preis: 12.0
+
+Gärung; spontangärung im offenen Gärbehälter, Maischemazeration von 25 Tagen. Ausbau; Barrique 50%neu, BSA, 18 Monate im kleinen Fass",True
+692,RED,Lagrein Riserva Kristan ,Egger Ramer,,BOTTLE,2011,5100,1500,1,692,"Glas Preis: 8.0
+
+12 Monate im grossen Holzfass.",True
+693,RED,Lagrein Riserva BIO ,Happacherhof,,BOTTLE,2019,5200,1530,3,693,"Glas Preis: 8.0
+
+Maischegärung, anschliessende 15 Monate im Eichenfass.",True
+694,RED,Lagrein Riserva ,Messnerhof,,BOTTLE,2011,4700,1230,1,694,"Glas Preis: 7.0
+
+Ausbau;zu je  1/3 im grossen Holzfass, Tooneau 500l, gebrauchte Barrique für 18 Monate.",True
+695,RED,Lagrein ,Putzenhof,,BOTTLE,2011,3700,915,2,695,"Glas Preis: 6.0
+
+Gärung",True
+696,RED,Lagrein Riserva ,Reyter Hof,,BOTTLE,2013,5400,1590,1,696,"Glas Preis: 8.0
+
+",True
+697,RED,Lagrein Raut ,Waldthaler,,BOTTLE,2009,6900,2110,1,697,"Glas Preis: 11.0
+
+Seit 1983 werden unter dem geschützten Markenzeichen RAUT die hochwertigsten Weine unserer Auer Lagen abgefüllt.
+Weine aus selektioniertem Lesegut der Sorten Merlot, Lagrein und Cabernet gekeltert und mit größter Sorgfalt nach traditionellen Methoden ausgebaut. Reife in der Regel für 3-4 Jahre in Eichenfässern 225-500l.
+Erst nach einigen weiteren Monaten Flaschenreife verlässt ein echter RAUT unsere Keller.",True
+698,RED,Lagrein  ,Muri Gries,,BOTTLE,2016,3100,695,5,698,"Glas Preis: 5.0
+
+260m.ü.M. Gärung",True
+699,RED,Lagrein Riserva Abtei ,Muri Gries,,BOTTLE,2020,6900,2090,3,699,"Glas Preis: 11.0
+
+260-280m.ü.M. Gärung; Edelstahltank für 14 Tage, BSA. Ausbau; 15 Monate im kleinen Holzfass. ",True
+702,RED,Lagrein Calldiv  ,von Braunbach,,BOTTLE,2011,3300,800,3,702,"Glas Preis: 5.0
+
+mehrjährigem Lagerungs-und Reifungsprozess",True
+703,RED,Lagrein aus Gries Blacedelle  ,Niedermayr,,BOTTLE,2011,3400,825,2,703,"Glas Preis: 5.0
+
+Gärung",True
+704,RED,Lagrein aus Gries Riserva ,Niedermayr,,BOTTLE,2011,4900,1420,3,704,"Glas Preis: 8.0
+
+Gärung",True
+705,RED,Lagrein Gries Riserva ,Nals Margreid,,BOTTLE,2015,6500,1950,2,705,"Glas Preis: 10.0
+
+138 Weinbauern. 6 Monate Holzfass.",True
+706,RED,Lagrein Gries Riserva ,Kellerei Terlan,,BOTTLE,2021,5900,1770,3,706,"Glas Preis: 9.0
+
+250-500m.ü.M. Handlese. Gärung; Maischevergärung mit Umwälzen im Edelstahltank. Ausbau; 12 Monate im grossen Holz 70% , 30% im Barrique 1/3 neu, mit BSA. Assemblage 3 Monate vor der Flaschenabfüllung",True
+707,RED,Lagrein Riserva Porphyr  ,Kellerei Terlan,,BOTTLE,2017,11700,4250,1,707,"Glas Preis: 19.0
+
+250-500m.ü.M. Handlese. Gärung",True
+709,RED,Lagrein Riserva BIO ,Nusserhof,,BOTTLE,2017,6500,1960,1,709,"Glas Preis: 10.0
+
+Gärung mit Natur Hefe im Stahltank, 30 Monate im grossen Holzfass. 30 Monate Flaschenlagerung",True
+710,RED,Lagrein Riserva Barbagol  ,Laimburg,,BOTTLE,2020,6100,1839,3,710,"Glas Preis: 10.0
+
+20 Moante im Holz",True
+711,RED,Lagrein Rubatsch BIO ,Manincor,,BOTTLE,2016,7000,2140,1,711,"Glas Preis: 11.0
+
+250m.ü.M. Gärung; spontan im Holzbottich. 2 Wochen Mazerationszeit mit Umwälzen. Ausbau; 4 Monate in Barrique, jedes 10 Fass neu.",True
+713,RED,Lagrein Urban ,Kellerei Tramin,,BOTTLE,2011,7200,2200,1,713,"Glas Preis: 11.0
+
+Gärung; Holzfass. Ausbau; BSA, franz EichenBarrique, danach grosses Holzfass für 14 Monate. 1 Jahr Flaschenlagerung.",True
+716,RED,Lamarein  ,Unterganzner,,BOTTLE,2022,11500,4196,3,716,"Glas Preis: 19.0
+
+",True
+720,RED,Kirchegg  ,Hofstätter,,BOTTLE,2009,4000,1019,2,720,"Glas Preis: 6.0
+
+Gärung",True
+722,RED,Amistar Rot Edizione ,Peter Sölva & Söhne,,BOTTLE,2019,10400,3790,1,722,"Glas Preis: 17.0
+
+",True
+723,RED,Athos ,Ansitz Dolomythos,,BOTTLE,2014,8100,2500,3,723,"Glas Preis: 13.0
+
+",True
+724,RED,Löwengang Uvaggio Storico ,Tenutae Lageder,,BOTTLE,2018,12700,5790,3,724,"Glas Preis: 21.0
+
+BIO, 230-330m.ü.M. als Traubenverschnitt gekeltert. Gärung; spontane Maischgärung für 15 Tage, BSA im Stahltank. Ausbau; kleine Holzfässer 225l franz. Eiche 1/3neu.",True
+728,RED,Viribus Wein ,,,BOTTLE,2016,11500,0,9,728,"Glas Preis: 19.0
+
+",True
+732,RED,Loam  ,Kellerei Tramin,,BOTTLE,2021,8700,3150,4,732,"Glas Preis: 14.0
+
+Gärung",True
+734,RED,Arzio  ,Baron di Pauli,,BOTTLE,2020,8500,2880,3,734,"Glas Preis: 14.0
+
+Gärung; spontan im Holzgärbottich, 3 wöchige Maischemazeration. Ausbau; Barrique 70%neu, BSA, 16 Monate im kleinen Fass. Abfüllung Ende Mai",True
+735,RED,Col de Rey  ,Laimburg,,BOTTLE,2018,8800,2750,3,735,"Glas Preis: 14.0
+
+250-350m.ü.M. Ausbau",True
+738,RED,Cason Hirschprunn Rot BIO ,Tenutae Lageder,,BOTTLE,2018,8300,2570,1,738,"Glas Preis: 13.0
+
+230-360m.ü.M. Gärung",True
+743,RED,Rubin ,Happacherhof,,BOTTLE,2018,5000,1450,3,743,"Glas Preis: 8.0
+
+Maischegärung. Ausbau",True
+745,RED,Feldherr BIO  ,Lieselehof,,BOTTLE,2016,7800,2850,3,745,"Glas Preis: 13.0
+
+24 Monate im kleinen Holzaff. Unfiltriert, 6 Monate Flaschengärung",True
+746,RED,Cassiano BIO ,Manincor,,BOTTLE,2019,7100,2160,3,746,"Glas Preis: 11.0
+
+250-280m.ü.M. Gärung; einzeln, spontan im Holzbottich, Mazerationszeit je nach Traube 10-20 Tage. Ausbau; 18 Monate im Barrique 1/3neu. ",True
+748,RED,Anticus Riserva Baron Salvadori ,Nals Margreid,,BOTTLE,2019,8200,2550,2,748,"Glas Preis: 13.0
+
+138 Weinbauern. 20 Monate Barriqueausgebaut.",True
+751,RED,Cornell Cornelius  ,Schreckbichl Colterenzio,,BOTTLE,2016,6200,1850,1,751,"Glas Preis: 10.0
+
+250-430m.ü.M. Gärung; Maischegärunf für 7-10 Tage. Ausbau; BSA in barrique. Assembalge im Frühjahr, 14 Monate in kleinen Eichenfässsern. Grobfilterung. 12 Monate Flaschenlagerung.",True
+753,RED,Composition Reif  ,Unterganzner,,BOTTLE,2018,8800,2750,5,753,"Glas Preis: 14.0
+
+Gärung; Edelstahltank, Maischestandzeit: 10 Tage beim Cabernet, 7 Tage beim Lagrein. Ausbau; BSA, 18 Monate in neuen EichenBarrique",True
+755,RED,Mauritius  ,Kellerei Bozen,,BOTTLE,2000,6500,0,1,755,"Glas Preis: 10.0
+
+250m.ü.M. Gärung",True
+757,RED,Cuvée Linticlarus  ,Tiefenbrunner,,BOTTLE,2014,8100,2490,5,757,"Glas Preis: 13.0
+
+280-300m.ü.M. Gärung",True
+760,RED,Reserve del Conte Manincor BIO ,Manincor,,BOTTLE,2020,4900,1420,1,760,"Glas Preis: 8.0
+
+250m.ü.M. Jede Charge wird separat gekeltert, immer mit Maischegärung, zum Tel spontan mit Traubeneigenen Hefe in Holz-, Beton- und Edelstahlbottich. 10 Tage Mazeration, 1x am Tag Umwälzen. Ausbau; 12 Monate im Holz verschiedener grössen. ",True
+767,RED,Teroldego Rotaliano  ,Foradori,,BOTTLE,2016,4800,1400,1,767,"Glas Preis: 8.0
+
+im Holzfass300l ausgebaut.",True
+769,RED,Teroldego Granato ,Foradori,,BOTTLE,2021,11700,4250,3,769,"Glas Preis: 19.0
+
+Gärung",True
+770,RED,Teroldego Ottavio  ,De Viglili,,BOTTLE,2018,9000,2800,2,770,"Glas Preis: 14.0
+
+200m.ü.M. Gärung",True
+771,RED,San Leonardo  ,Tenuta San Leonardo,,BOTTLE,2017,15400,6990,1,771,"Glas Preis: 25.0
+
+Handlese. 18-24 Monate franz. Barrique.",True
+772,RED,Teroldego Diedri Riserva ,Dorigati,,BOTTLE,2010,4800,1390,3,772,"Glas Preis: 7.0
+
+Gärung; langer Maischekontakt. Ausbau; 12 Monate in kleinen Eichenfässern, 6 Moante im Stahlbehälter. 6 Monate Flaschenlagerung.",True
+777,RED,Inferno Valtellina Superiore DOCG Riserva ,Rainoldi,,BOTTLE,2019,8200,2530,19,777,"Glas Preis: 13.0
+
+",True
+778,RED,Sassella Valtellina Superiore  ,Mamete Prevostini,,BOTTLE,2014,4200,1060,2,778,"Glas Preis: 6.0
+
+450-650m.ü.M. Gärung",True
+779,RED,Sfursat 5 Stelle ,Negri Nino,,BOTTLE,2011,11300,5148,1,779,"Glas Preis: 18.0
+
+400-450m.Ü.M. Handlese. Gärung; 3 Tage Mazeration, 16 Tage Fermentation. Ausbau; 24 Monate in neue franz. Barrique mit BSA. 4 Monate Flaschengärung.",True
+780,RED,Ronchedone  ,Cà dei Frati,,BOTTLE,2014,4600,1190,2,780,"Glas Preis: 7.0
+
+Gärung; langer Maischekontakt, Mazeration im Stahltank. Ausbau; BSA im Barrique. 14 Monate im Barrique. 10 Monate Flaschengärung. ",True
+781,RED,Sforzato Albareda  ,Mamete Prevostini,,BOTTLE,2011,10900,3979,0,781,"Glas Preis: 18.0
+
+350-550.m.ü.M. Handlese. 22 Tage Mazeration auf der Schale. Ausbau",True
+782,RED,"Sassella Riserva ""Rocce Rosse"" ",AR.PE.PE.,,BOTTLE,2016,12300,5600,2,782,"Glas Preis: 20.0
+
+4 Jahre im Holz50hl",True
+783,RED,Sassella Valtellina Superiore  Sommarovina ,,,BOTTLE,2015,5800,1720,5,783,"Glas Preis: 9.0
+
+",True
+786,RED,La Poja  ,Allegrini,,BOTTLE,2017,17600,7990,2,786,"Glas Preis: 29.0
+
+320m.ü.M. Handlese. Gärung; 12-15 Tage Fermentation. BSA im Barrique. Ausbau; 20 Monate im franz. Neuen Barrique, 10 Monate Flaschenlagerung.",True
+787,RED,La Grola  ,Allegrini,,BOTTLE,2014,6200,1560,3,787,"Glas Preis: 10.0
+
+310m.ü.M. Handlese. Gärung; im Stahltank mit Umwäzen. BSA im Barrique.  Ausbau; 16 Monate im Eichenholz ( 2te Belegung), 10 Monate Flaschenlagerung",True
+788,RED,Amarone della Valpolicella  ,Bertani,,BOTTLE,2005,18000,7005,1,788,"Glas Preis: 30.0
+
+Handlese. Gärung; trocknung bis mitte Januar, 120-125 Oechslegrad. Vergärung von ca. 50 Tagen. Ausbau; 6 Jahre reifeung in Fäassern aus slawonischer Eiche 60hl. 1 Jahr Flaschenreife.",True
+789,RED,Amarone della Valpolicella ,Allegrini,,BOTTLE,2017,13000,5500,1,789,"Glas Preis: 21.0
+
+Handlese. Trauben 3-4 Monate Luftgetrockent. 25 Tage Gärung im Stahl mit Umwälzen. Ausbau; 18 Moante im kleinen Holzfass, 7 Monate im grossen Slow. Eichenfass. 14 Monate Flaschenlagerung",True
+790,RED,Amarone della Valpolicella ,Dal Forno Romano,,BOTTLE,2008,59000,33000,2,790,"Glas Preis: 98.0
+
+Handese. 3 Monate Lufttrocknen.nur Reben älter als 10 Jahre. Fermentation 15 Tage. Ausbau",True
+791,RED,Vaio Amaron Serego Aleghieri ,Masi,,BOTTLE,2015,11000,4990,2,791,"Glas Preis: 18.0
+
+Handlese. Trocknung. 3 Jhare in slov. Eiche. 4 Monate im Kirschenholz.",True
+792,RED,Amarone della Valpolicella ,Quintarelli Giuseppe,,BOTTLE,2011,60500,27500,2,792,"Glas Preis: 100.0
+
+Fermentation 45 Tage. Ausbau",True
+794,RED,Amarone della Valpolicella Telos ,Sant Antonio,,BOTTLE,2015,8800,3200,1,794,"Glas Preis: 14.0
+
+350m.ü.M. Handlese. Ausbau",True
+795,RED,Amarone della Valpolicella Casa dei Bepi  ,Viviani,,BOTTLE,2013,11800,4550,2,795,"Glas Preis: 19.0
+
+450m.ü.M. ",True
+796,RED,Amarone della Valpolicella  ,Zenato,,BOTTLE,2017,11000,4004,1,796,"Glas Preis: 18.0
+
+Ausbau",True
+797,RED,Amarone della Valpolicella  ,Marion,,BOTTLE,2014,11200,4090,1,797,"Glas Preis: 18.0
+
+Trocknung bis Ende Dezember- Anfrang Januar. 20 Tage kaltmazeration. BSA für 40 Tage. Holz- & slawonischer Eichenausbau für 36 Monate.",True
+798,RED,Amarone della Valpolicella  ,Roccolo Grassi,,BOTTLE,2015,11600,4200,3,798,"Glas Preis: 19.0
+
+200-250m.ü.M. Ernte Ende September, trocknung bis erste Dezember Woche. Gärung; Stahltank, Kaltmazeration von6-7 Tage. Fermentation für 21 Tage. BSA im Holz. Ausbau; in 50% neuen franz. Barrique 225l für 26 Moante. 1 Jahr Flaschenalgerung.",True
+799,RED,Amarone della Valpolicella Riserva ,Musella,,BOTTLE,2016,8200,2990,1,799,"Glas Preis: 13.0
+
+trocknung bis Januar. Ausbau",True
+800,RED,Cabernet Sauvignon S. Cristina  ,Zenato,,BOTTLE,2010,3900,984,3,800,"Glas Preis: 6.0
+
+Gärung; 2 Wochen im Stahl mit Umwälzen. Ausbau; 18 Moante in neuen und alten Barrique. Assemblage, einige Monate im Stahl. 6 Monate Flaschenlagerung.",True
+801,RED,Merlot La Sansonina ,Sansonina,,BOTTLE,2006,8300,2575,2,801,"Glas Preis: 13.0
+
+",True
+802,RED,Valpolicella Classico Superiore ,Roccolo Grassi,,BOTTLE,2013,5100,1500,2,802,"Glas Preis: 8.0
+
+200-250m.ü.M. Gärung",True
+803,RED,Valpolicella Superiore  ,Dal Forno Romano,,BOTTLE,2012,16000,7280,3,803,"Glas Preis: 26.0
+
+45 tage trocknung. Gärung",True
+804,RED,Valpolicella Superiore  ,Quintarelli Giuseppe,,BOTTLE,2012,15600,7090,1,804,"Glas Preis: 25.0
+
+",True
+805,RED,Valpolicella La Bandina ,San Antonio,,BOTTLE,2008,5800,1720,1,805,"Glas Preis: 9.0
+
+300m.ü.M. Handlese. BSA im Holz. Batonnage 1x im Monate im ersten Jahr.   Ausbau",True
+806,RED,Valpolicella Superiore  ,Musella,,BOTTLE,2017,3900,990,2,806,"Glas Preis: 6.0
+
+Gärung",True
+807,RED,Campo Morar Valpolicella Ripasso ,Viviani,,BOTTLE,2015,5300,1570,1,807,"Glas Preis: 8.0
+
+",True
+808,RED,Valpolicella Superiore Ripasso ,Zenato,,BOTTLE,2018,4900,1420,2,808,"Glas Preis: 8.0
+
+250-300m.ü.M. Handlese. Gärung",True
+809,RED,Brentino  ,Maculan,,BOTTLE,2011,3600,885,3,809,"Glas Preis: 5.0
+
+Handlese. Gärung; Stahltank. Ausbau; 50% im Stahl, 50% für 1 Jahr im franz. Eichenbarrique.",True
+810,RED,Fratta ,Maculan,,BOTTLE,2012,11500,4190,1,810,"Glas Preis: 19.0
+
+Handlese. Gärung",True
+811,RED,Amarone Riserva ,Bertani,,BOTTLE,2009,16500,6475,1,811,"Glas Preis: 27.0
+
+",True
+812,RED,Secco Vintage ,,,BOTTLE,2015,3700,930,6,812,"Glas Preis: 6.0
+
+",True
+813,RED,Amarone della Valpolicecca ,Bertani,,BOTTLE,2012,15900,0,12,813,"Glas Preis: 26.0
+
+",True
+815,RED,Focus  ,Pasini Volpe,,BOTTLE,2007,6000,1789,2,815,"Glas Preis: 9.0
+
+Fermentation im neuen Barrique für 12 Monate. 12 Moante Flaschenlagerung.",True
+816,RED,Merlot Graf de la Tour  ,Villa Russiz,,BOTTLE,2018,8200,2990,3,816,"Glas Preis: 13.0
+
+Handlese. Gärung; 20 Tage. Ausbau; 24 Moante in franz. Barrique 225l. Assemblage, im Stahl. 10 Moante Flaschenlagerung. ",True
+817,RED,Prelit  ,Podversic Damijan,,BOTTLE,2014,7700,2376,2,817,"Glas Preis: 12.0
+
+Gärung",True
+818,RED,Breg  ,Gravner,,BOTTLE,2003,27600,12540,1,818,"Glas Preis: 45.0
+
+Gärung im Holz. Ausbau; 5 Jahre im Eichenholz, 5 Jahre Flaschenlagerung. Keine Schönung, filtration",True
+819,RED,Rujno  ,Gravner,,BOTTLE,1999,32200,14640,1,819,"Glas Preis: 53.0
+
+Fermentation spontan für 5 Wochen.Ausbau; im Eichenholz 228l für 36 Monate. 6 Jahre in der Flasche. Keine Schönung, Filtration. ",True
+820,RED,Refosco dal Peduncolo Rosso ,Felluga Livio,,BOTTLE,2007,4900,1440,2,820,"Glas Preis: 8.0
+
+Handlese. Gärung",True
+825,RED,Chianti Classico Gran Selezione Castello di Brolio  ,Barone Ricasoli,,BOTTLE,2016,8700,3150,3,825,"Glas Preis: 14.0
+
+250-450m.ü.M. Gärung",True
+826,RED,Chianti Classico  ,Castello di Ama,,BOTTLE,2021,6200,1860,3,826,"Glas Preis: 10.0
+
+Handlese. Gärung; im Stahltank mit Umwälzung für 21-23 Tage. BSA. Ausbau; Assemblage, danach 12 Monate in neue und alte Barrique. ",True
+827,RED,Chianti Ducale Oro Riserva  ,Ruffino,,BOTTLE,2009,6200,1850,3,827,"Glas Preis: 10.0
+
+Nur die besten Jahre! Handlese. Ausbau; 36 Monate, davon 12 in grossen Eichenholzfässern. 6 Monate Flaschenlagerung.",True
+828,RED,Chianti Classico ,San Giusto a Rentennano,,BOTTLE,2017,4900,1280,2,828,"Glas Preis: 8.0
+
+Gärung; 14 Tage auf der Schale. Ausbau; 12 Monate in Eichenholz, Tonnenau und Barrique.",True
+829,RED,Chianti Cassico ,Fontodi,,BOTTLE,2020,8100,2500,2,829,"Glas Preis: 13.0
+
+",True
+830,RED,Chianti Classico Riserva Le Baroncole ,San Giusto a Rentennano,,BOTTLE,2017,7600,2340,2,830,"Glas Preis: 12.0
+
+Gärung",True
+831,RED,Chianti Classico Castello di Fonterutoli ,Marchesi Mazzei,,BOTTLE,2008,8100,2490,2,831,"Glas Preis: 13.0
+
+220-520m.ü.M. Handlese. Gärung;15-18 Tage Mazeration. Ausbau; 20 Monate im kleinen Eichenfässern 500l, 60% neue franz. Eiche.",True
+832,RED,Chianti Classico Granz Selezione San Lorenzo ,Castello di Ama,,BOTTLE,2019,11000,4000,3,832,"Glas Preis: 18.0
+
+",True
+833,RED,Chianti Classico  ,Poggio al Sole,,BOTTLE,2010,5400,840,3,833,"Glas Preis: 9.0
+
+Handlese. Gärung",True
+834,RED,Chianti Classico Riserva Vigna il Poggiale  ,Castellare,,BOTTLE,2013,8100,2930,1,834,"Glas Preis: 13.0
+
+350-400m.ü.M. Gärung; Stahltank, Fermentation von 16-23 Tage. Ausbau; in 20% neuen Barrique 225l für 12- 18 Moante. 12 Monate Flaschenlagerung ",True
+835,RED,Chianti Rufina Riserva Nipozzano  ,Marchesi de Frescobaldi,,BOTTLE,2009,4100,1033,2,835,"Glas Preis: 6.0
+
+250-500m.ü.M. Handlese. Gärung; Stahltank, Fermentation für 13 Tage. Mazeration für 25 Tage mit Umwälzen.BSA. Ausbau; 24 Monate im Barrique. 3 Moante Flaschenlagerung.",True
+836,RED,Montesodi IGT ,Marchesi de Frescobaldi,,BOTTLE,2016,8100,2950,3,836,"Glas Preis: 13.0
+
+400m.ü.M. Handlese. Gärung; Stahltank, Fermentation von 35 Tagen.BSA. Ausbau; 18 Moante im Eichenholz. 6 Monate in der Flasche.",True
+837,RED,Chianti Classico  ,Castello di Rampolla,,BOTTLE,2010,6000,1782,1,837,"Glas Preis: 9.0
+
+380m.ü.M. Gärung; 7 Tage Fermentation. Mazeration auf der Schale 30 tage. BSA. Ausbau; 12 Monate im Eichenholz 25/30hl, Barrique 225l, Tonneau 500l. 6 Monate Flaschenlagerung.",True
+838,RED,Chianti Classico BIO ,Querciabella,,BOTTLE,2010,6500,1980,4,838,"Glas Preis: 10.0
+
+biodinamic,",True
+839,RED,Giorgio Primo  ,Fattoria La Massa,,BOTTLE,2017,16700,7590,2,839,"Glas Preis: 27.0
+
+360m.ü.M. Ausbau; in neuen Barrique für 18 Monate, .",True
+842,RED,Camartina Bio  ,Querciabella,,BOTTLE,2008,17400,7920,0,842,"Glas Preis: 29.0
+
+biodinamic, 1 Jahr im franz. Barrique. 25% neu. 6 Monate Flaschenlagerung.",False
+843,RED,Guado al Tasso  ,Marchesi Antinori,,BOTTLE,2005,23000,10080,0,843,"Glas Preis: 38.0
+
+Fermentation 15-20 Tage. 1 Jahr in franz. Barrique mit BSA. Assemlage, 6 Monate Barrique.",False
+845,RED,Guado al Tasso  ,Marchesi Antinori,,BOTTLE,2001,21500,8500,3,845,"Glas Preis: 35.0
+
+Fermentation 15-20 tage im Stahl. 1 Jahr in franz. Barrique mit BSA. Assemblage, 14 Monate Barrique, 1 Jahr Flaschenlagerung.",True
+846,RED,Le Stanze  ,Poliziano,,BOTTLE,2017,9300,3379,2,846,"Glas Preis: 15.0
+
+250-350m.ü.M. Gärung",True
+847,RED,Bolgheri Rosso ,Grattamacco / Collemassari,,BOTTLE,2012,6000,1789,1,847,"Glas Preis: 9.0
+
+",True
+849,RED,Grattamacco Rosso Bolgheri Superiore ,Grattamacco / Collemassari,,BOTTLE,2015,15200,6890,1,849,"Glas Preis: 25.0
+
+Handlese. Gärung",True
+850,RED,Insoglio del Cinghiale  ,Tenuta Campo di Sasso / Lodovico Antinori,,BOTTLE,2021,5700,1689,1,850,"Glas Preis: 9.0
+
+",True
+851,RED,Monteverro  ,Monteverro,,BOTTLE,2012,24100,10970,0,851,"Glas Preis: 40.0
+
+Gärung",True
+852,RED,Tinata Monteverro  ,Monteverro,,BOTTLE,2010,12800,5800,3,852,"Glas Preis: 21.0
+
+Gärung",True
+854,RED,Sassicaia  ,Tenut San Guido ,,BOTTLE,2021,59000,29000,3,854,"Glas Preis: 98.0
+
+",True
+855,RED,Sassicaia  ,Tenuta San Guido,,BOTTLE,2017,36000,12540,0,855,"Glas Preis: 60.0
+
+100-300m.ü.M. Gärung; im Stahltank, ca. 2 Wochen auf der Schale mit Umwälzen, BSA im Stahltank. Ausbau; 24 Monate im franz. Eichenbarrqiue. Flaschenlagerung.",False
+856,RED,Sassobucato ,Azienda Agricola Russo,,BOTTLE,2018,5000,1450,2,856,"Glas Preis: 8.0
+
+80m.ü.m. Handlese. Gärung; im Stahl, Fermentation für 12 Tage. Mazeration für 15 Tage. BSA. Ausbau; 16 Moante in franz. EichenBarrique. 8 Moante Flaschenlagerung.",True
+858,RED,50 & 50  ,Capannelle & Avignonesi,,BOTTLE,2007,19600,8900,1,858,"Glas Preis: 32.0
+
+Gärung; im Holz, Mazeration für 15-20 Tage. Ausbau; 18 Monate im franz. Eichenbarrique ( Mittlere Tostatur)",True
+859,RED,Camarcanda ,Gaja-Ca'Marcanda,,BOTTLE,2018,24200,11000,1,859,"Glas Preis: 40.0
+
+",True
+861,RED,Castello di Bolgheri - Bolgheri Superiore ,Castello di Bolgheri,,BOTTLE,2019,10100,4600,2,861,"Glas Preis: 16.0
+
+Handlese. Gärung",True
+862,RED,Paleo  ,Le Macchiole,,BOTTLE,2018,12300,5600,2,862,"Glas Preis: 20.0
+
+",True
+863,RED,Paleo  ,Le Macchiole,,BOTTLE,2019,20800,9438,7,863,"Glas Preis: 34.0
+
+",True
+864,RED,Messorio ,Le Macchiole,,BOTTLE,2019,41500,18876,2,864,"Glas Preis: 69.0
+
+Lese in der 1 & 2 Septemberwoche. Gärung",True
+866,RED,Tignanello  ,Marchesi Antinori,,BOTTLE,2020,18800,8540,1,866,"Glas Preis: 31.0
+
+",True
+867,RED,Solaia ,Marchesi Antinori,,BOTTLE,2013,37400,17000,1,867,"Glas Preis: 62.0
+
+BSA im Barrique. Ausbau; 18 Moante in franz. Und ungarischen EichenBarrique. Assemblage, kurze Flaschenlagerung.",True
+868,RED,Solaia ,,,BOTTLE,2020,60100,27300,2,868,"Glas Preis: 100.0
+
+BSA im Barrique. Ausbau; 18 Moante in franz. Und ungarischen EichenBarrique. Assemblage, kurze Flaschenlagerung.",True
+870,RED,Solaia ,Marchesi Antinori,,BOTTLE,2006,75000,35860,1,870,"Glas Preis: 125.0
+
+BSA im Barrique. Ausbau; 18 Moante in neuen  franz.  EichenBarrique. Assemblage, 1 Jahr Flaschenlagerung.",True
+872,RED,Desiderio   ,Avignonesi,,BOTTLE,2019,9900,3600,3,872,"Glas Preis: 16.0
+
+Ausbau",True
+873,RED,Cabreo Il Borgo  ,Tenute del Cabreo Folonari,,BOTTLE,2016,8800,3190,1,873,"Glas Preis: 14.0
+
+300m.ü.M. Gärung im Stahltank. Mazeration für 15-18 Tage. Ausbau; Assemblage, in franz. Eichenfässern 30% neu, 40% zweite Belgeung, 30% dritte Belegung. 16-18 Moante. 6 Monate Flaschenlagerung.",True
+875,RED,Siepi  ,Marchesi Mazzei,,BOTTLE,2006,23000,7559,1,875,"Glas Preis: 38.0
+
+260m.ü.m. Handlese. Gärung; Mazeration 14 Tage Merlot, 16 Tage Sangiovese.Ausbau; Merlot, 18 Monate in kleinen franz. EichenBarique 225l. Sangiovese, 16 Monate in klienen franz. EichenBarrqiue 225l. 8 Monate Flaschenlagerung.",True
+876,RED,Siepi  ,Marchesi Mazzei,,BOTTLE,2005,26000,11980,2,876,"Glas Preis: 43.0
+
+260m.ü.m. Handlese. Gärung; Mazeration 14 Tage Merlot, 16 Tage Sangiovese.Ausbau; Merlot, 18 Monate in kleinen franz. EichenBarique 225l. Sangiovese, 16 Monate in klienen franz. EichenBarrqiue 225l. 8 Monate Flaschenlagerung.",True
+877,RED,Lucente ,Frescobaldi,,BOTTLE,2019,7800,2390,2,877,"Glas Preis: 12.0
+
+",True
+879,RED,Cepparello ,Isole e Olena,,BOTTLE,2019,19500,8500,1,879,"Glas Preis: 32.0
+
+350-450 m.ü.M. Handlese. Gärung; Mazeration 21-28 Tage mit Umwälzen. Ausbau; 18 Monate in Barrique 225l, (95% franz. Eichenholz, 3% amerikanisches Holz, 1/3 neu.)",True
+880,RED,Percarlo  ,San Giusto a Rentennano,,BOTTLE,2014,11200,5080,3,880,"Glas Preis: 18.0
+
+Gärung",True
+881,RED,Saffredi ,Le Pupille,,BOTTLE,2019,16900,7690,2,881,"Glas Preis: 28.0
+
+",True
+883,RED,Le Serre Nuove dell'Ornellaia ,Tenuta Ornellaia,,BOTTLE,2020,11000,3990,1,883,"Glas Preis: 18.0
+
+Handlese. Gärung; Fermentation im Stahl für 1 Woche. Mazeration 10 Tage. BSA. Ausbau; 15 Monate in Barrique, 25% neue, 75% zweite Belegung. Nach 12 Monaten Assemblage. 3 Monate Barrique. 6 Monate Flaschenlagerung.",True
+887,RED,Petra ,Petra,,BOTTLE,2018,9500,3450,1,887,"Glas Preis: 15.0
+
+Gärung; natürlich im Holz. Ausbau; in franz. Barrique(leichte Tostatur, kleiner teil sind neu) mit BSA für 18 Monate. Einige Monate Flaschenlagerung.",True
+888,RED,Le Difese ,Tenuta San Guido,,BOTTLE,2013,4900,1430,2,888,"Glas Preis: 8.0
+
+Gärung; im Stahltank. Mazeration für 12-14 Tage Cabernet sauvignon, 15-18 Tage Sangiovese. Ausbau; 12 Monate in franz. EichenBarrique und ein kleiner Teil in amerikanischen Barrique.",True
+889,RED,Guidalberto  ,Tenuta San Guido,,BOTTLE,2016,11500,4170,2,889,"Glas Preis: 19.0
+
+Gärung",True
+891,RED,Flaccianello Bio  ,,,BOTTLE,2017,21800,9900,1,891,"Glas Preis: 36.0
+
+",True
+893,RED,Barbicone  ,Azienda Agricola Russo,,BOTTLE,2009,4800,1250,3,893,"Glas Preis: 7.0
+
+80m.ü.M. Handlese. Gärung",True
+894,RED,Il Pareto  ,Tenuta di Nozzole - Folonari,,BOTTLE,2018,11400,4152,3,894,"Glas Preis: 19.0
+
+350m.ü.M. Gärung: im Stahltank. Mazeration auf der Schale für 15 Tage.  BSA. Ausbau",True
+895,RED,Il Pareto  ,Tenuta di Nozzole - Folonari,,BOTTLE,2006,13500,3500,3,895,"Glas Preis: 22.0
+
+350m.ü.M. Gärung: im Stahltank. Mazeration auf der Schale für 15 Tage.  BSA. Ausbau",True
+896,RED,Fidenzio  ,Podere San Luigi,,BOTTLE,2008,9800,3564,1,896,"Glas Preis: 16.0
+
+",True
+897,RED,La Mandria Del Pari  ,Azienda Agricola Russo,,BOTTLE,2009,6500,1980,3,897,"Glas Preis: 10.0
+
+18 Monate im neuen Barrique",True
+898,RED,Vigna d´Alceo  ,Castello di Rampolla,,BOTTLE,2011,24300,11040,2,898,"Glas Preis: 40.0
+
+380m.ü.M. Gärung; 7 Tage Fermentation. Mazeration auf der Schale 30 Tage. BSA. Ausbau; 14-16 Monate in Barrique 225l, Tonneau 500l. 24 Monate Flaschenlagerung.",True
+899,RED,La Ricolma ,San Giusto a Rentennano,,BOTTLE,2009,12100,4396,2,899,"Glas Preis: 20.0
+
+Gärung",True
+900,RED,Cont´Ugo  ,Marchesi Antinori,,BOTTLE,2011,8000,2470,3,900,"Glas Preis: 13.0
+
+Gärung",True
+901,RED,Casalferro  ,Barone Ricasoli,,BOTTLE,2010,7300,2244,3,901,"Glas Preis: 12.0
+
+350-400m.ü.M. Gärung",True
+902,RED,Syrah Perbruno  ,I Giusti & Zanza,,BOTTLE,2011,4300,1109,3,902,"Glas Preis: 7.0
+
+Ausbau",True
+904,RED,Brunello di Montalcino  ,Uccelliera,,BOTTLE,2018,12100,4400,2,904,"Glas Preis: 20.0
+
+",True
+905,RED,Brunello d Montalcino Vigna Spunali ,Val di Suga,,BOTTLE,2013,10500,3800,1,905,"Glas Preis: 17.0
+
+",True
+907,RED,Brunello di Montalcino  ,Casanova di Neri,,BOTTLE,2018,12000,4356,3,907,"Glas Preis: 19.0
+
+Handlese. Gärung",True
+908,RED,Brunello di Montalcino Castelgiocondo ,Frescobaldi,,BOTTLE,2015,9800,3550,1,908,"Glas Preis: 16.0
+
+250-450m.ü.M. Handlese. Gärung",True
+909,RED,Brunello di Montalcino Il Divasco  ,La Rasina,,BOTTLE,2004,11700,5300,2,909,"Glas Preis: 19.0
+
+Gärung; Mazeration auf der Schale für 15 Tage im Stahl. Ausbau; 1 Jahr im kleinen Holzfass, weitere 12 Monate in grossen Holzfässern.. 15 Monate Flaschenlagerung. ",True
+910,RED,Brunello di Montalcino  ,Poggio di Sotto,,BOTTLE,2011,25300,11480,2,910,"Glas Preis: 42.0
+
+200-450m.ü.M. andlese. Gärung; Holzbottich, spontane Fermenation, Lange Mazeration mit Umwälzen. Ausbau; 48 Monate in Eichenholz 30hl. 8 Monate Flaschenlagerung. ",True
+911,RED,Brunello di Montalcino ,Tenuta Il Poggione,,BOTTLE,2015,10600,3840,3,911,"Glas Preis: 17.0
+
+Handlese. Gärung",True
+912,RED,Brunello di Montalcino  ,Pian dell'Orino,,BOTTLE,2009,20100,9120,3,912,"Glas Preis: 33.0
+
+340m.ü.M. Gärung",True
+913,RED,Brunello di Montalcino ,Pietroso,,BOTTLE,2015,9700,3000,1,913,"Glas Preis: 16.0
+
+",True
+915,RED,Brunello di Montalcino Luce ,Frescobaldi,,BOTTLE,2008,15400,7020,2,915,"Glas Preis: 25.0
+
+36 Monate in Holz und Barrique ( franz. und sloven.)",True
+916,RED,Rosso di Montalcino ,Biondi e Santi,,BOTTLE,2019,11600,5250,2,916,"Glas Preis: 19.0
+
+250-500m.ü.M. Ausbau",True
+917,RED,Rosso di Montalcino  ,Casanuova di Neri,,BOTTLE,2011,5300,1550,3,917,"Glas Preis: 8.0
+
+Handlese. Gärung",True
+918,RED,Rosso di Montalcino  ,Lisini,,BOTTLE,2010,5200,1530,3,918,"Glas Preis: 8.0
+
+BSA. 6 Monate im Eichenholz. 3 Monate Flaschenlagerung.",True
+919,RED,Rosso di Montalcino  ,Pian dell'Orino,,BOTTLE,2014,9900,3600,1,919,"Glas Preis: 16.0
+
+Gärung",True
+921,RED,Brunello di Montalcino Vigna del Lago ,Val di Suga,,BOTTLE,2013,9600,3490,2,921,"Glas Preis: 15.0
+
+",True
+923,RED,Morellino di Scansano  ,Podere 414,,BOTTLE,2012,3100,689,2,923,"Glas Preis: 5.0
+
+Gärung",True
+924,RED,Morellino Poggiargentiera ,Capatosta,,BOTTLE,2008,5800,1730,2,924,"Glas Preis: 9.0
+
+",True
+926,RED,Le Pergole Torte ,,,BOTTLE,2018,22400,10195,0,926,"Glas Preis: 37.0
+
+",False
+927,RED,Le Pergole Torte  ,Montevertine,,BOTTLE,2020,24700,11220,4,927,"Glas Preis: 41.0
+
+",True
+929,RED,Barbaresco Ronchi  ,Rocca Albino,,BOTTLE,2016,9200,3350,0,929,"Glas Preis: 15.0
+
+240m.ü.m. Ausbau; 80% in deutschen & österreichischen Eichenholz20hl, 20% in franz. Barrique für 2 Jahre.",False
+931,RED,Barbaresco  ,Angelo Gaja,,BOTTLE,2011,40900,18600,2,931,"Glas Preis: 68.0
+
+Preis",True
+932,RED,Barbaresco  ,Bruno Rocca,,BOTTLE,2017,8500,3078,1,932,"Glas Preis: 14.0
+
+Gärung",True
+933,RED,Barbaresco Rabaja  ,Bruno Rocca,,BOTTLE,2012,14500,6597,1,933,"Glas Preis: 24.0
+
+BIO. Gärung, Klatmazeration, 3 Wochen fermentation, spontanvergärung. Ausbau; in 20% neuen und 80% gebrauchten Barrique für 14 - 18 Monate.",True
+934,RED,Barbaresco Valeriano ,La Spinetta,,BOTTLE,2009,25700,11695,2,934,"Glas Preis: 42.0
+
+450m.ü.M. auf Kalkböden Gärung; 7-8 tag Fermentation. BSA im Barrique. Ausbau; franz. Barrique (mittlere Tostatur) für 32 -34 Monate. 3 Monate im Stahl. Dann 5-6 Jahre Monate Flaschenlagerung. Keine Schönung, Filtration",True
+935,RED,Barbaresco Vigneto Starderi ,,,BOTTLE,2010,22000,9990,2,935,"Glas Preis: 36.0
+
+",True
+938,RED,Barbaresco Vigneto Starderi  ,La Spinetta,,BOTTLE,2012,23500,10700,2,938,"Glas Preis: 39.0
+
+270m.ü.M. Gärung; 7-8 tag Fermentation. BSA im Barrique. Ausbau; franz. Barrique (mittlere Tostatur) für 20-22 Monate. 3 Monate im Stahl. 12 Monate Flaschenlagerung. Keine Schönung, Filtration",True
+939,RED,Barbaresco Vigneto Starderi  ,La Spinetta,,BOTTLE,2005,21500,9320,1,939,"Glas Preis: 35.0
+
+270m.ü.M. Gärung; 7-8 tag Fermentation. BSA im Barrique. Ausbau; franz. Barrique (mittlere Tostatur) für 20-22 Monate. 3 Monate im Stahl. 12 Monate Flaschenlagerung. Keine Schönung, Filtration",True
+940,RED,Costa Russi  ,Angelo Gaja,,BOTTLE,1999,46500,18000,1,940,"Glas Preis: 77.0
+
+Ausbau zuerst in franz. Barrique, danach in slow. Grossen Holzfässern für 18-26 Monate. Flaschenlagerung.",True
+941,RED,Barbera d'Asti Cotamiole  ,Prunotto,,BOTTLE,2008,4800,0,3,941,"Glas Preis: 8.0
+
+Gärung; 15 Tage Mazeration mit 4x täglichem Umwälzen. Ausbau; BSA, 12 Monate in franz. EichenBarrqiue. ",True
+942,RED,Barbera d'Asti Bricco dell'Uccellone ,Braida,,BOTTLE,2015,9200,3350,1,942,"Glas Preis: 15.0
+
+Gärung; Mazeration auf der Schale für 20 tage. Ausbau; 12 Moante im EichenHolzfass 225l, 12 Monate Flaschenlagerung.",True
+943,RED,Barbera d'Asti Ca di Pian  ,La Spinetta,,BOTTLE,2011,4700,1362,1,943,"Glas Preis: 7.0
+
+300m.ü.M. Gärung; 7-8 Tage. BSA im Holz. Ausbau; 12 Monate in franz. Barrique ( mittlere Tostatur). 6 Monate im Stahl. 12 Monate Flaschenlagerung. Keine Schönung, Filtration",True
+946,RED,Barbera d'Asti Superiore Vanet ,Cascina Ferro,,BOTTLE,2011,4100,1030,3,946,"Glas Preis: 6.0
+
+250m.ü.M. Handlese. Gärung",True
+947,RED,Barbera d'Alba Trevigne  ,Clerico Domenico,,BOTTLE,2011,4200,1080,3,947,"Glas Preis: 7.0
+
+Handlese. Gärung; Mazeration auf der Schale für 10-14 Tage. Ausbau, 12-16 Monate in franz. EichenBarrique (5%neu / 50% zweit Belegung)",True
+948,RED,Barbera d'Alba Gepin ,Rocca Albino,,BOTTLE,2011,5000,1450,1,948,"Glas Preis: 8.0
+
+240m.ü.M. Ausbau; 14 Monate 80% in deutschen & österreichischen Eichenholz, 20% in franz. Barrique",True
+949,RED,Barbera del Monferrato Rivalta  ,Villa Sparina,,BOTTLE,2003,8800,2730,2,949,"Glas Preis: 14.0
+
+300-320m.ü.M. Handlese. Gärung; Fermentation 2 Wochen. BSA. Ausbau; 12 Moante 20% im stahl, 80% in Barrique. 1 Jahr Flaschenlagerung. ",True
+950,RED,Barolo Prapò ,Germano Ettore,,BOTTLE,2009,8500,3090,0,950,"Glas Preis: 14.0
+
+350-370m.ü.M. Gärung; 30 Tage auf der Schale. Ausbau; 24 Monate in Eichenholz, 15 Monate Flaschenlagerung. ",False
+952,RED,Barolo Cascina Francia  ,Conterno Giacomo,,BOTTLE,2018,35100,15972,2,952,"Glas Preis: 58.0
+
+21 Monate Barrique.",True
+955,RED,Barolo  ,Elio Altare,,BOTTLE,2013,13100,5970,2,955,"Glas Preis: 21.0
+
+Gärung",True
+956,RED,Barolo Aeroplan Servaj  ,Clerico Domenico,,BOTTLE,2011,17400,7915,2,956,"Glas Preis: 29.0
+
+Handlese. Gärung; Mazeration auf der Schale im Rotortank für 30 Tage. Ausbau; 26-36 Monate in franz. EichenBarrique (80% neu, 20% zweite Belegung)",True
+959,RED,Barolo Pajana  ,Clerico Domenico,,BOTTLE,2006,19600,8925,3,959,"Glas Preis: 32.0
+
+Handlese. Gärung; im Rotortank auf der Schale für 20-30 Tage. Ausbau; 24-30 Monate in franz. Barrique (80% neu, 20% zweite Belegung)",True
+960,RED,Barolo Vigna Cappella di Santo Stefano ,Rocche dei Manzoni,,BOTTLE,2015,12500,5465,1,960,"Glas Preis: 20.0
+
+BIO. Gärung; 20-25 Tage auf der Schale. Ausbau, 28 Monate in eichenholz. 12 Monate Flaschenlagerung.",True
+961,RED,Barolo Riserva ,Marchesi di Barolo,,BOTTLE,2008,16300,7400,3,961,"Glas Preis: 27.0
+
+",True
+962,RED,Barolo Sori Ginestra  ,Conterno Fantino,,BOTTLE,2011,12900,5875,1,962,"Glas Preis: 21.0
+
+340-360m.ü.M. Handlese. Gärung; Mazeration auf der Schale für 8-15 Tage im Stahltank. Ausbau; 24 Monate in franz. Barrique, 12 Monate Flaschenlagerung.",True
+963,RED,Barolo ,Cerviano Abbona,,BOTTLE,2016,9800,3550,3,963,"Glas Preis: 16.0
+
+Gärung",True
+965,RED,Barolo Romirasco  ,Conterno Aldo,,BOTTLE,2006,36600,16655,1,965,"Glas Preis: 61.0
+
+Gärung",True
+967,RED,Arte ,Clerico Domenico,,BOTTLE,2012,6500,1950,1,967,"Glas Preis: 10.0
+
+Barbera,Gärung im Rotortank für 10-12 Tage. Nebbiolo für 12-14 Tage. Ausbau; 16-18 Monate in neuen franz. Barrique.",True
+969,RED,Dolcetto Papá Celso  ,Marziano Abbona,,BOTTLE,2011,3800,940,3,969,"Glas Preis: 6.0
+
+Gärung; Fermentation 5-7 Tage im Stahl. Ausbau; 10 Monate im Stahl, 2 Monate Flaschenlagerung.",True
+970,RED,Nebbiolo  ,Elio Altare,,BOTTLE,2018,6500,1950,3,970,"Glas Preis: 10.0
+
+Gärung",True
+971,RED,Nebbiolo Langhe  ,La Spinetta,,BOTTLE,2012,4800,1260,2,971,"Glas Preis: 8.0
+
+270m.ü.M. Rebalter",True
+972,RED,Lessona ,Proprietà Sperino,,BOTTLE,2011,8800,3200,0,972,"Glas Preis: 14.0
+
+280-350m.ü.M.",False
+973,RED,Monprà ,Conterno Fantino,,BOTTLE,2012,7200,2218,1,973,"Glas Preis: 12.0
+
+Gärung",True
+976,RED,Montepulciano d'Abruzzo  ,Praesidium,,BOTTLE,2005,8900,2780,2,976,"Glas Preis: 14.0
+
+Gärung",True
+977,RED,Montepulciano d´Abruzzo  ,Villa Gemma Masciarelli,,BOTTLE,2006,12400,4500,2,977,"Glas Preis: 20.0
+
+400m.ü.mM. ",True
+978,RED,Montepulciano d´Abruzzo Riserva Zanna ,Illuminati,,BOTTLE,2008,4800,1250,2,978,"Glas Preis: 7.0
+
+287m.ü.M. Gärung",True
+979,RED,Montepulciano Marina Cvetic ,Masciarelli,,BOTTLE,2009,5400,1600,2,979,"Glas Preis: 9.0
+
+24 Monate in franz. Barrique.",True
+984,RED,Fobiano  ,La Carraia,,BOTTLE,2009,5200,1540,3,984,"Glas Preis: 8.0
+
+Gärung",True
+985,RED,Rosso di Montefalco Sallustio BIO ,Di Filippo,,BOTTLE,2011,3300,813,3,985,"Glas Preis: 5.0
+
+Gärung",True
+986,RED,Sagrantino di Montefalco BIO ,Di Filippo,,BOTTLE,2008,7000,2120,1,986,"Glas Preis: 11.0
+
+Gärung; traditionell, verlängert. Ausbau; 18-24 Monate in Barrique & Tonneau.",True
+987,RED,Campoleone  ,Lamborghini,,BOTTLE,2010,6200,1870,1,987,"Glas Preis: 10.0
+
+Gärung; Mazeration von 18 tage auf der Schale, BSA. Ausbau; separat für 12 Moante in franz. EichenBarrique. 6 Monate Flaschenlagerung.",True
+988,RED,Montefalco 25 Anni  ,Arnaldo Caprai,,BOTTLE,2009,0,5625,2,988,"Glas Preis: 124.0
+
+20",True
+995,RED,Kurni ,Oasi degli Angeli,,BOTTLE,2019,20800,9455,3,995,"Glas Preis: 34.0
+
+ein Teil der Trauben werden getrocknet. 12 Monate in Barrique",True
+1000,RED,Montiano  ,Cotarella,,BOTTLE,2016,11000,3990,2,1000,"Glas Preis: 18.0
+
+300m.ü.M. Gärung; Mazeration auf der Schale für 15 Tage im Stahl, BSA im Barrique. Ausbau; 12 Monate in franz. Barrique.",True
+1005,RED,Contado Riserva  ,Di Majo Norante,,BOTTLE,2009,3400,822,5,1005,"Glas Preis: 5.0
+
+100m.ü.M. Gärung; traditionell, Mazeration auf der Schale für 1 Monat, BSA. Ausbau; ein Teil in mittleren Holzbottich, rest im Stahl. 6 Monate Flaschenlagerung.",True
+1006,RED,Don Luigi  ,Di Majo Norante,,BOTTLE,2009,6100,1848,1,1006,"Glas Preis: 10.0
+
+100m.ü.M. Gärung; traditionell, Mazeration auf der Schale für 1 Monat, BSA. Ausbau; in neuen Barrique für 12 Monate. 6 Monate Flaschenlagerung.",True
+1011,RED,Terra di Lavoro  ,Galardi,,BOTTLE,2009,9700,3510,3,1011,"Glas Preis: 16.0
+
+400m.ü.M. Gärung",True
+1016,RED,"""Jo"" Negroamaro Salento ",Gianfranco Fino,,BOTTLE,2012,9300,3365,2,1016,"Glas Preis: 15.0
+
+Handlese. Gärung; im Stahltank. Mazeration für 3-4 Wochen. Ausbau; 12 Monate in franz. EichenBarrique 50%neu, mit täglicher Batonnage. 6 Monate Flaschenlagerun. Keine schönug, filtration",True
+1018,RED,Selvarosso Riserva Salice Salentino ,Cantine due Palme,,BOTTLE,2010,4800,1386,1,1018,"Glas Preis: 7.0
+
+Handlese. Gärung",True
+1019,RED,Il Falcone Riserva  ,Tenuta Rivera,,BOTTLE,2007,4400,1140,2,1019,"Glas Preis: 7.0
+
+400m.ü.M. Gärung; 15 Tage mit Umwälzen. Ausbau; 14 Monate 50% in franz.Eichen Barrique, 50% im grossenEichenHolz. 1 Jahr Flaschenlagerung.",True
+1024,RED,La Firma  ,Cantine del Notaio,,BOTTLE,2010,8300,2570,1,1024,"Glas Preis: 13.0
+
+Handlese. Gärung; Mazeration 20 Tage. Ausbau; 12 Moante in  Holz unf Tonneau, (in einer Grotte von Fulkangestein). 1 Jahr Flaschenlagerung.",True
+1034,RED,Rocca Rubia Riserva ,Santadi,,BOTTLE,2020,4900,1440,2,1034,"Glas Preis: 8.0
+
+10-12 Monate in Barrique. Einige Monate Flaschenlagerung.",True
+1035,RED,Barrua - Isola die Nuraghi ,Agricola Punica,,BOTTLE,2010,8800,2750,2,1035,"Glas Preis: 14.0
+
+Handlese. Gärung",True
+1036,RED,Turriga  ,Argiolas,,BOTTLE,2010,16600,7523,1,1036,"Glas Preis: 27.0
+
+230m.ü.M. Handlese. Gärung",True
+1037,RED,Terre Brune Carignano del Sulcis Superiore ,Santadi,,BOTTLE,2009,10000,3640,1,1037,"Glas Preis: 16.0
+
+Handlese. Gärung",True
+1042,RED,Noá ,Cusumano,,BOTTLE,2016,6700,2020,2,1042,"Glas Preis: 11.0
+
+Handlese. Gärung",True
+1043,RED,Tancredi  ,Donnafugata,,BOTTLE,2008,5900,1750,1,1043,"Glas Preis: 9.0
+
+200-600m.ü.M. Gärung; Fermentation im Stahl mit Mazeration auf der Schale für 12 Tage. Ausbau; mit BSA, 14 Monate in franz.Barrique und Tonneau (neu und zweite Belegung). 24 Moante Flaschenlagerung.",True
+1044,RED,Camelot  ,Firriato,,BOTTLE,2010,5900,1755,2,1044,"Glas Preis: 9.0
+
+235m.ü.M. Handlese. Gärung",True
+1045,RED,Don Antonio  ,Morgante,,BOTTLE,2010,5600,1663,3,1045,"Glas Preis: 9.0
+
+450-550 m.ü.M. Gärung; im Stahl, Mazeration auf der Schale für 20 Tage. BSA im Stahl. Ausbau; 12 Monate in neuen franz. Barrique 225l, 12 Monate Flaschenlagerung.",True
+1046,RED,Mille e una Notte  ,Donnafugata,,BOTTLE,2018,11900,4310,1,1046,"Glas Preis: 19.0
+
+200-600m.ü.M. Gärung; im Stahl, Mazeration auf der Schale für 12 Tage. Ausbau; 15-16 Monate in neuen franz. Barrique. 30 Monate Flaschenlagerung.",True
+1047,RED,Cabernet Sauvignon Burdese  ,Planeta,,BOTTLE,2013,5300,1550,1,1047,"Glas Preis: 8.0
+
+Gärung",True
+1050,RED,Rosso Etna  ,Le Vigne di Eli,,BOTTLE,2014,4100,1030,3,1050,"Glas Preis: 6.0
+
+",True
+1052,RED,Karasi ,Zorah Wines,,BOTTLE,2014,5100,1490,8,1052,"Glas Preis: 8.0
+
+1400m.ü.M. Gärung; im Stahl. Ausbau;12 Monate in Amphoren, einige davon Vergraben in der Erde. 6 Monate Flaschenlagerung( Karas = Name der Amphoren)",True
+1053,RED,Tinto Valbuena 5° anno ,vega Sicilia,,BOTTLE,2009,21800,9900,0,1053,"Glas Preis: 36.0
+
+",False
+1054,RED,Priorat Aguilera ,L'infernal,,BOTTLE,2014,16500,0,1,1054,"Glas Preis: 27.0
+
+",True
+1055,RED,Herdia Tondonia tinto reserva ,Vina tondonia,,BOTTLE,2009,7800,2850,4,1055,"Glas Preis: 13.0
+
+",True
+1056,RED,"Bourgogne ""Cuvée Gravel""  ",C&C Maréchal,,BOTTLE,2016,7500,2290,6,1056,"Glas Preis: 12.0
+
+Handlese. Gärung",True
+1058,RED,"Gevrey Chambertin ""Les Crais"" ",Pièrre Naigeon,,BOTTLE,2020,14300,6500,6,1058,"Glas Preis: 23.0
+
+Handlese. Natürliche Fermentation. Für 16-18 Monate im Barrique ausgebaut.",True
+1059,RED,Vosne Romanée ,Jean-Marc Millot,,BOTTLE,2020,15400,7000,1,1059,"Glas Preis: 25.0
+
+",True
+1060,RED,Clos de la Roche Grand Cru  ,Louis Remy,,BOTTLE,2006,29500,12500,0,1060,"Glas Preis: 49.0
+
+",False
+1061,RED,"Amiot Servelle Chambolle Musigny 1er Cru ""Les Amoureuses""  ",,,BOTTLE,2019,59400,27000,2,1061,"Glas Preis: 99.0
+
+",True
+1062,RED,Clos de la Roche Grand Cru  ,Louis Remy,,BOTTLE,2013,27500,12500,0,1062,"Glas Preis: 45.0
+
+240-280m.ü.M. Familienunternehmen seit ca. 1820.",False
+1063,RED,"Amiot Servelle Chambolle Musigny 1er Cru ""Les Charmes""  ",Amiot Servelle,,BOTTLE,2020,19600,8900,3,1063,"Glas Preis: 32.0
+
+BIO. 18 Moante in franz. Eichenfässern (30%neu)",True
+1066,RED,Chambolle-Musigny ,Amiot Servelle,,BOTTLE,2021,13200,6000,2,1066,"Glas Preis: 22.0
+
+BIO. Alles Handarbeit, er benutzt keine Maschienen, weder für die Ernte noch fürs Pressen, auch die Abfüllung und verkorkung.. Weine werden in Eichenfässern ausgebaut mit BSA. Jean-Marc hat die Domaine 1997 nach langjährigem Familienstreit übernommen.",True
+1067,RED,"Nuits-St.-Georges ""Les Charmottes"" ",Chicotot,,BOTTLE,2015,9900,3600,0,1067,"Glas Preis: 16.0
+
+",True
+1068,RED,Nuits-St.-Georges 1er Cru Les Rues de Chaux ,Chicotot,,BOTTLE,2021,17200,7800,6,1068,"Glas Preis: 28.0
+
+",True
+1069,RED,Aloxe-Corton 1er Cru Les Vergots ,Domaine Follin-Arbelet,,BOTTLE,2019,17100,7750,2,1069,,True
+1070,RED,"Pommard 1er Cru ""Grand Clos des Epenots"" ",De Courcel,,BOTTLE,2018,21800,9900,2,1070,"Glas Preis: 36.0
+
+seit mehr als 400 Jahren im Familienbesitz.",True
+1071,RED,"Volnay 1er Cru ""Fremiets"" ",Joseph Voillot,,BOTTLE,2022,15200,6900,6,1071,"Glas Preis: 25.0
+
+",True
+1072,RED,Vosne Romanée Les Souchots 1erCru ,Jean-Marc Millot,,BOTTLE,2020,35200,16000,2,1072,"Glas Preis: 58.0
+
+",True
+1073,RED,Terra 1261 Spätburgunder ,Weingut Benedikt Baltes ,,BOTTLE,2015,17500,0,0,1073,"Glas Preis: 29.0
+
+",True
+1074,RED,Spätburgunder Silberberg ,Mayer Näkel,,BOTTLE,2021,13600,6200,6,1074,"Glas Preis: 22.0
+
+",True
+1075,RED,Spätburgunder Schlossberg GG ,Franz Keller,,BOTTLE,2021,16000,7250,3,1075,"Glas Preis: 26.0
+
+in Barrique ausgebaut. Bauen den Wein BIO, teilweise Biodynamic an. ",True
+1076,RED,Châteaux Petit-Figeac Grand Cru ,,,BOTTLE,2018,16600,7550,2,1076,"Glas Preis: 27.0
+
+BIO",True
+1077,RED,Château Clinet Pomerol ,Château Clinet,,BOTTLE,2008,14700,6700,1,1077,"Glas Preis: 24.0
+
+Ausbau",True
+1078,RED,Château Pichon-Longueville-Baron  ,Château Pichon Longueville,,BOTTLE,2012,19500,7650,2,1078,"Glas Preis: 32.0
+
+Mazeration mit Schale. Fermentation 3-4 Wochen, mit BSA. Barriqueausbau.",True
+1079,RED,Château Pontet Canet ,Château Pontet-Canet,,BOTTLE,2019,37200,16900,1,1079,"Glas Preis: 61.0
+
+Erster Jahrgang der Biodynamisch ist. Gärung natürlich, mazeration für 3-4 Wochen. Barrique ausgebaut, 1/3 in Amphoren.",True
+1080,RED,Les Tourelles du Châteaux Pichon Longueville ,Château Pichon Longueville Comtesse de Lalande,,BOTTLE,2019,12200,5550,2,1080,"Glas Preis: 20.0
+
+in Barrique ausgebaut. Bauen den Wein BIO, teilweise Biodynamic an. ",True
+1081,RED,Chateaux Palmer Margaux ,Château Palmer,,BOTTLE,2009,62300,28300,1,1081,"Glas Preis: 103.0
+
+",True
+1082,RED,Château Margaux 1er GCC ,Château Margaux,,BOTTLE,2008,70200,31900,2,1082,"Glas Preis: 116.0
+
+Barriqueausbau",True
+1083,RED,Château Mouton Rothschild GCC ,Château Mounton Rothschild,,BOTTLE,2008,75200,34200,2,1083,"Glas Preis: 125.0
+
+Barriqueausbau",True
+1084,RED,Château Lafite Rothschild GCC ??? ,Château Lafite Rothschild,,BOTTLE,2008,143000,65000,1,1084,"Glas Preis: 238.0
+
+18-20 Monate in neuen Barrique",True
+1085,RED,Angelus 1er GCC ,,,BOTTLE,2009,69100,31400,1,1085,"Glas Preis: 115.0
+
+",True
+1086,RED,Château Montrose 2eme Cru Classe ,Château Montrose,,BOTTLE,2011,20200,9200,1,1086,"Glas Preis: 33.0
+
+",True
+1089,RED,"Crozes-Hermitage Rouge ""Le Rouvre"" BIO ",Yann Chave,,BOTTLE,2019,7500,2300,3,1089,"Glas Preis: 12.0
+
+Rebalter",True
+1090,RED,Hermitage  BIO ,Yann Chave,,BOTTLE,2018,13900,6300,6,1090,"Glas Preis: 23.0
+
+Rebalter",True
+1091,RED,Côte-Rôtie  ,Terres Rôties,,BOTTLE,2009,9500,3450,3,1091,"Glas Preis: 15.0
+
+Seit 3 Generationen der Familie Guigal.",True
+1092,RED,"Châteauneuf du Pape"" La Crau 2010"" ",Le Vieux Télégraphe,,BOTTLE,2016,12000,4700,1,1092,"Glas Preis: 20.0
+
+180-325m.ü.M.",True
+1093,RED,Crozes-Hermitage  ,Domaine Combier ,,BOTTLE,2010,5600,1680,3,1093,"Glas Preis: 9.0
+
+seit 1980 BIO.",True
+1094,RED,"Crozes-Hermitage ""Clos des Grives"" ",Domaine Combier ,,BOTTLE,2010,8100,2950,1,1094,"Glas Preis: 13.0
+
+seit 1980 BIO.",True
+1095,RED,Hermitage   ,Guigal,,BOTTLE,2013,11600,4200,0,1095,"Glas Preis: 19.0
+
+",False
+1096,RED,Gigondas ,Guigal,,BOTTLE,2003,6700,1700,0,1096,"Glas Preis: 11.0
+
+",True
+1097,RED,Cristom Louise ,,,BOTTLE,2019,15200,6930,3,1097,"Glas Preis: 25.0
+
+",True
+1098,RED,Pinot Noir Black Edition ,Vinultra,,BOTTLE,2014,11700,5340,5,1098,"Glas Preis: 19.0
+
+",True
+1099,RED,Pinot Noir Kellerei Girlan ,Kellerei Girlan,,PICCOLO,2019,2900,625,2,1099,"Glas Preis: 4.0
+
+Handlese. Gärung; im Stahl, BSA. Ausbau; 15 Monate in kleinen & grossen Holzfässern. 6 Monate Flaschenlagerung.",True
+1101,RED,St. Magdalener ,Rottensteiner,,PICCOLO,2020,2100,420,2,1101,"Glas Preis: 3.0
+
+400-500m.ü.M. ",True
+1103,RED,Merlot  ,Alois Lageder,,PICCOLO,2020,2600,550,3,1103,"Glas Preis: 4.0
+
+230-320m.ü.M. Rebalter",True
+1104,RED,Lagrein Kellerei Tramin ,Kellerei Tramin,,PICCOLO,2022,2400,490,4,1104,"Glas Preis: 3.0
+
+250-400m.ü.M. Gärung",True
+1105,RED,Amistar  ,Peter Sölva & Söhne,,PICCOLO,2020,4100,1050,2,1105,"Glas Preis: 6.0
+
+10 % Trockenbeeren (am Stock getrocknet). Gärung",True
+1106,RED,Cabernet Istrice  ,Elena Walch,,PICCOLO,2018,4200,1080,1,1106,"Glas Preis: 7.0
+
+Gärung",True
+1110,RED,Barolo Sori Ginestra  ,Conterno Fantino,,PICCOLO,2011,8700,3150,1,1110,"Glas Preis: 14.0
+
+Ausbau im Holz und Barrique.",True
+1115,RED,Ornellaia  ,Tenuta dell'Ornellaia,,PICCOLO,2015,19200,8712,2,1115,"Glas Preis: 31.0
+
+Handlese. Gärung; 1 Woche im Stahltank, Maischestandzeit 10-15 Tage. BSA im Eichenbarrqiue 70% neu. 18 Monate in Barrqiue, nach 12 Monaten wird dass Cuvee gemacht.",True
+1116,RED,Tignanello ,Antinori,,PICCOLO,2016,10700,3881,0,1116,"Glas Preis: 17.0
+
+12 Monate im Eichenfass.",False
+1118,RED,Brunello di Montalcino ,Ciacci Piccolomini,,PICCOLO,2013,5200,1520,0,1118,"Glas Preis: 8.0
+
+mind. 2 Jahre im Eichenfass. Mind.  4 Monate Flaschenreifung.",False
+1119,RED,Cabreo Il Borgo  ,Tenute di Cabreo Folonari,,PICCOLO,2009,5300,1560,1,1119,"Glas Preis: 8.0
+
+Gärung; Mazeration auf der Schale 10-18 Tage. Fermentaion mit BSA. Ausbau; Cuvee, in franz. EichenBarrqiue ausgebaut 30%neu, 16-18 Moante. 6 Monate Flaschenlagerung.",True
+1120,RED,Chianti Classico   ,Fontodi,,PICCOLO,2009,3100,730,0,1120,"Glas Preis: 5.0
+
+Gärung",False
+1127,RED,Blauburgunder Barthenau Vigna San Urbano ,Hofstätter,,MAGNUM,2016,22200,10100,1,1127,"Glas Preis: 37.0
+
+Gärung; 10 Tage mit 25% intakten Trauben und Umwälzung. Ausbau; 14 Monate in kleinen Eichenholzfässern, assamblage, 7 Monate im grossen Eichenholzfass, Abfüllung, 12 Monate Flaschenlagerung.",True
+1128,RED,Pinot Nero Riserva Trattmann ,Kellerei Girlan,,MAGNUM,2021,12800,5800,1,1128,"Glas Preis: 21.0
+
+400m.ü.M. Handlese. Gärung; Stahlfässer für 18-20 Tage. Ausbau; Bsa, 15 Monate in kleinen und grossen Holzfässern. 8 Monate Flaschenlagerung",True
+1129,RED,Mason di Mason ,Manincor,,MAGNUM,2020,28800,13100,1,1129,"Glas Preis: 48.0
+
+",True
+1130,RED,Vinschgau Blauburgunder  ,Marinushof,,MAGNUM,2009,8000,2900,1,1130,"Glas Preis: 13.0
+
+",True
+1131,RED,Amistar Cabernet Franc ,Peter Sölva & Söhne,,MAGNUM,2007,12200,4450,1,1131,"Glas Preis: 20.0
+
+10 % Trockenbeeren (am Stock getrocknet). Gärung",True
+1132,RED,Cabernet Löwengang  ,Tenutae Lageder,,MAGNUM,2007,14500,6250,1,1132,"Glas Preis: 24.0
+
+230-330m.ü.M. BIO. Rebalter",True
+1133,RED,Cabernet Riserva ,Unterganzner,,MAGNUM,2004,10900,3950,1,1133,"Glas Preis: 18.0
+
+Rebalter",True
+1134,RED,Amistar Rot Edizione  ,Peter Sölva & Söhne,,MAGNUM,2008,14100,6400,1,1134,"Glas Preis: 23.0
+
+Kompromisslose Selektion der besten Barrqiue. 250-450m.ü.M. Nach einem Jahr im Barrique wird ""herausesucht"" und danach dass Cuvee nochmals 1 jahr gelagert",True
+1136,RED,Euforius  ,Niedermayr,,MAGNUM,2009,9100,3300,1,1136,"Glas Preis: 15.0
+
+Gärung",True
+1138,RED,Composition Reif  ,Unterganzner,,MAGNUM,2017,12200,5540,1,1138,"Glas Preis: 20.0
+
+Gärung; Edelstahltank, Maischekontakt von 10 tagen cabernet, 7 Tage Lagrein. Ausbau;18 Monate mit BSA in neuen aus überwiegend franz. Barrique.",True
+1139,RED,Lacus Selection   ,Walter Schullian,,MAGNUM,2010,16800,7630,2,1139,"Glas Preis: 27.0
+
+lacus ist lateinisch für See. 250m.ü.M. Gärung; spontan im offenen Holzfass mit Salasso 20%, mit umwälzen. Ausbau; in neuen und gebrauchten Barrique. Keine schönung, keine Filtration",True
+1140,RED,Arzio  ,Baron di Pauli,,MAGNUM,2018,17500,7020,1,1140,"Glas Preis: 29.0
+
+250-380m.ü.M. Gärung; spontan im Holzbottich, 5 Wochen Maischemazeration. Ausbau; 18 Monate Barrique60%neu, BSA, ",True
+1141,RED,Lagrein Riserva ,Kiemberger,,MAGNUM,2013,12000,3100,3,1141,"Glas Preis: 20.0
+
+17§ der Trauben werden getrocknet. Gärung",True
+1142,RED,Lagrein Mirell  ,Ansitz Waldgries,,MAGNUM,2013,11800,4810,2,1142,"Glas Preis: 19.0
+
+Gärung; Maischenstandzeit bis zu 35 Tagen im Bottich, 10% der Taruebn werden spätreif gelesen. Ausbau; Barrique",True
+1143,RED,Lagrein Riserva Abtei ,Muri Gries,,MAGNUM,2016,10700,3890,1,1143,"Glas Preis: 17.0
+
+260-280m.ü.M. Gärung; Edelstahltank für 14 Tage, BSA. Ausbau; 15 Monate im kleinen Holzfass. ",True
+1144,RED,Lagrein Riserva Taber ,Kellerei Bozen,,MAGNUM,2013,12000,4355,1,1144,"Glas Preis: 19.0
+
+250m.ü.M. Gärung",True
+1145,RED,Lagrein Riserva Porphyr  ,Kellerei Terlan,,MAGNUM,2015,12500,5690,1,1145,"Glas Preis: 20.0
+
+Handlese. Gärung",True
+1146,RED,Lagrein Riserva Prestige Line  ,Kellerei Bozen,,MAGNUM,2011,8100,2950,1,1146,"Glas Preis: 13.0
+
+Gärung; traditionell im offenen Holzfass. Ausbau; 12 Monate in franz. Barrique und grosen Holzfass. Nur die Besten Lagen, mit den ältesten Reben mit dem geringsten Ertrag werden verwendet.",True
+1148,RED,Cabernet Istrice  ,Elena Walch,,MAGNUM,2012,9000,3260,1,1148,"Glas Preis: 14.0
+
+Gärung",True
+1149,RED,Merlot Brenntal  ,Kellerei Kurtatsch,,MAGNUM,2007,11000,4600,0,1149,"Glas Preis: 18.0
+
+Gärung",False
+1153,RED,Barolo Sori Ginestra  ,Conterno Fantino,,MAGNUM,2011,35000,16055,1,1153,"Glas Preis: 58.0
+
+Rebalter",True
+1154,RED,Monprà ,Conterno Fantino,,MAGNUM,2012,15900,3915,2,1154,"Glas Preis: 26.0
+
+Gärung",True
+1156,RED,Brunello di Montalcino  ,Pian dell'Orino,,MAGNUM,2007,19600,8900,0,1156,"Glas Preis: 32.0
+
+Biodynamisch. 24 Moante slaw. Eichenholzfass",False
+1157,RED,Percarlo  ,San Giusto a Rentennano,,MAGNUM,2017,25900,11765,1,1157,"Glas Preis: 43.0
+
+Gärung; Fermentation & Mazerartion für 35 Tage, natürlich. Ausbau; 20-22 Monate in franz. Eichenbarrqiue. 18 Monate Flaschenlagerung.",True
+1158,RED,Giorgio Primo ,Fattoria La Massa,,MAGNUM,2013,38600,17535,3,1158,"Glas Preis: 64.0
+
+",True
+1166,,Le Petit  ,Manincor,,BOTTLE,2018,9400,3400,6,1166,"Glas Preis: 15.0
+
+",True
+1167,,Sauvignon passito Saphir ,Laimburg,,BOTTLE,2022,700,0,3,1167,"Glas Preis: 1.0
+
+2014 =  400m.ü.M. Spätlese. 8h Auspressen der Rosinenbeeren. Gärung, spontan im Holzfass für mehrer Monate. Bei 11% Alkohol stoppt die Gärung automatisch.",False
+1168,,Gewürztraminer Spätlese ,Kiemberger,,BOTTLE,2016,5500,1630,0,1168,"Glas Preis: 9.0
+
+2010 = wird nur in bestimmten Jahren produziert ( genügend Botrytispilz). 750-850m.ü.M. Traubenmaische verweilt vor der Pressung im eigenen Saft, um die eingetrockeneten Inhaltsstoffe der Botrytisbeere zu lösen. Die langsame Gärung im Edelstahlfässchen dauert meist bis Dezember und lässt am Schluss einen köstlichen Restzuckeghalt.",False
+1169,,Gewürztraminer Passito Cresta ,Rottensteiner,,BOTTLE,2013,5300,1550,2,1169,"Glas Preis: 8.0
+
+Trauben werden ca. 5 Monate getrocknet und dann gepresst.  Im Edelstahl ausgebaut.",True
+1171,,Kerner Passito Nectaris ,,,BOTTLE,2021,7300,2250,13,1171,"Glas Preis: 12.0
+
+",True
+1172,,Gewürztraminer Terminum  ,Kellerei Tramin,,BOTTLE,2017,8100,2930,9,1172,"Glas Preis: 13.0
+
+2012 = 400-500m.ü.M. Rebalter 15-25 Jahre. Lese Ende Dezember. Edelfäule. Handlese. 12h Mazeration. Langsame fermentation von 6-9 Monaten. 7-10 Monate im Barrique. 3 Monate in der Flasche.",True
+1173,,Gewürztraminer Spätlese “Roen”  ,Kellerei Tramin,,BOTTLE,2018,5900,1760,1,1173,"Glas Preis: 9.0
+
+2014= 400-500m.ü.M. Lese Mitte Oktober. Die Trauben werden getrocknet bis Ende November, Anfang Dezember. Gärung findet in kleinen franz. Brrique statt. ",True
+1174,,Gewürztraminer St Cyrill   ,Villscheiderhof,,BOTTLE,2009,5200,1520,1,1174,"Glas Preis: 8.0
+
+",True
+1175,,Sissi Goldmuskateller Passito  ,Kellerei Meran,,BOTTLE,2016,8100,2500,4,1175,"Glas Preis: 13.0
+
+450-500m.ü.M. Handlese. Trauben werden für 5 Monate getrocknet. Gärung & Ausbau für 12 Monate in neuem franz. EichenBarrique.",True
+1178,,Rosenmuskateller  ,Ansitz Waldgries,,BOTTLE,2010,6300,1900,1,1178,"Glas Preis: 10.0
+
+250m.ü.M.  70% der Trauben werden Luftgetrocknet, 30% Spätreif gelesen. Ausbau; im Stahltank.",True
+1179,,Rosenmuskateller  ,Muri Gries,,BOTTLE,2021,5800,1730,0,1179,"Glas Preis: 9.0
+
+270m.ü.M. Spätlese. Gärung; 8 Tage im Edelstahl. Ausbau; 12 Monate 50% in kleinen Holzfässern, 50% im Edelstahlfass ausgebaut.",True
+1180,,Passito  ,Kiemberger,,BOTTLE,2018,5100,1500,3,1180,"Glas Preis: 8.0
+
+",True
+1181,,Rosenmuskateller  ,Laimburg,,BOTTLE,2016,6700,2020,2,1181,"Glas Preis: 11.0
+
+400m.ü.M. Lese Mitte Oktober. Trauben werden getrocknet bis Mitte Dezember. Ausbau",True
+1182,,Portwein Pipa XV ,Franz Gojer,,BOTTLE,0,7100,2160,2,1182,"Glas Preis: 11.0
+
+Likörwein (inspiriert sich am  Portwein). Erster Südtiroler ""Portwein"". Handlese. Kaltmazeration und Gärung im offenen Eichenbottich mit leichter Tostatur, mit Untertauchen. Zugabe von Weinbrand zum gären des Mostes, um die Hefen abzutöten und die Gärung zu stoppen. Ausbau im Pipa Eichenfass für 6 Monate. Flaschenlagerung.",True
+1183,,Kerner Passito Praepositus ,,,BOTTLE,2019,700,0,3,1183,"Glas Preis: 1.0
+
+",True
+1187,,Tre Filer passito  ,Cà dei Frati,,BOTTLE,2011,3800,950,5,1187,"Glas Preis: 6.0
+
+",True
+1189,,Vino Santo ,,,BOTTLE,2006,8500,2500,2,1189,"Glas Preis: 14.0
+
+",True
+1193,,Recioto di Soave  La Broia ,Roccolo Grassi,,BOTTLE,2010,3700,900,2,1193,"Glas Preis: 6.0
+
+100m.ü.M. lese im September, trocknung der Trauben bis Februar. Fermentation in franz. EichenBarrique 225l, 60-90 Tage. Ausbau; 18 Moante in Barrique ( 20%neu, 80% zweit Belegung), 24 Monate Flaschenlagerung.",True
+1194,,In Sé ,Italo Cescon,,BOTTLE,2018,5600,1650,8,1194,"Glas Preis: 9.0
+
+",True
+1199,,Moscato d'Asti Zagara ,Albino,,BOTTLE,2017,3200,760,6,1199,"Glas Preis: 5.0
+
+",True
+1204,,Muffato della Sala  ,Antinori,,BOTTLE,2010,7300,2250,2,1204,"Glas Preis: 12.0
+
+200-350m.ü.M. Handlese(Zeitpunkt je nach Reife der Botrytis). Fermentation für 18 Tage.  Ausbau",True
+1209,,Ben Ryé passito  ,Donnafugata,,BOTTLE,2015,6700,2046,2,1209,"Glas Preis: 11.0
+
+20-400m.ü.M. Handlese. Gärung im Stahl. 7 Monate im Stahltank. 12 Monate Flaschenlagerung.",True
+1211,,Trockenbeerenauslese  ,Kracher ,,BOTTLE,0,5300,1550,2,1211,"Glas Preis: 8.0
+
+",True
+1213,,Eiswein ,Kracher ,,BOTTLE,2020,7700,2360,2,1213,"Glas Preis: 12.0
+
+",True
+1214,,Tokaj Aszu 5 Puttonyos ,Samuel Tinon,,BOTTLE,2016,11500,4190,4,1214,"Glas Preis: 19.0
+
+Mazeration 36-48 Stunden. Fermentation für mehrer Monate. 4 Jahre im Holzfass. 1 Jahr Flaschenlagerung.",True
+1215,,Tokaj Aszu 5 Puttonyos ,Oremus,,BOTTLE,2006,12400,4500,0,1215,"Glas Preis: 20.0
+
+",False
+1216,,Madeira ,,,BOTTLE,0,700,0,5,1216,"Glas Preis: 1.0
+
+",True
+1217,,Riesling Kinheimer Hubertuslay Beerenausles ,Markus Molitor,,BOTTLE,2017,17500,7950,2,1217,"Glas Preis: 29.0
+
+",True
+1218,,Riesling Eiswein ,Dr. Loosen,,BOTTLE,0,7600,2350,0,1218,"Glas Preis: 12.0
+
+",True
+1219,,Sauternes 1er Frand Cru ,Châteaux Rieussec,,BOTTLE,2018,11700,4250,2,1219,"Glas Preis: 19.0
+
+",True
+1220,,Sauternes 2009 La Tour Blanche  ,Château La Tour Blanche,,BOTTLE,2009,10100,3660,1,1220,"Glas Preis: 16.0
+
+",True
+1221,,Château d'Yquem 1. GCC Superior ,Château d'Yquem,,BOTTLE,2001,160000,41000,1,1221,"Glas Preis: 266.0
+
+Ein Gutes Jahr, mit einem trockenen September(perfekt für die Säure und frische des Weines). Sehr konzentrierte, pure Trauben.",True
+1222,,Solera - Rivesaltes Ambré ,Domaine des Demoiselles,,BOTTLE,0,5600,1664,5,1222,"Glas Preis: 9.0
+
+Rebalter: 50-70 Jahre. Aus der Region Roussillon.  Soleraverfahren.",True
+1223,,Montbazillac ,Châteaux La Lande,,BOTTLE,0,3500,795,5,1223,"Glas Preis: 5.0
+
+",True
+1232,,Aurea Fenice Bollicine ,Princess,,BOTTLE,0,3300,800,14,1232,,True
+1234,,Alternativa Rosso Superiore ,Princess,,BOTTLE,0,2500,520,3,1234,,True
+1235,,Pinot Grigio Free Pfalz,Matthias Anton,,BOTTLE,0,3100,750,0,1235,,True
+1236,,RibO Elsass,Cave de Ribauville,,BOTTLE,0,4100,1050,3,1236,,True
+1237,,Elefant Rheinhessen,Wean am Dom,,BOTTLE,0,2600,550,0,1237,,True
+1238,,Null Alkohol Rot Baden,Löffler,,BOTTLE,0,3100,750,8,1238,,True
+1239,,Rouge Pur Bio Rheinhessen,Strauch und Weissbach,,BOTTLE,0,4100,1050,3,1239,,True
+1240,,Reverse Riesling Pfalz,Bergdolt-Nett,,BOTTLE,0,3300,800,2,1240,,True
+1241,,steinboch ,,,BOTTLE,0,700,0,1,1241,,True
+1242,,Reverse Sauvignon Pfalz,Bergdolt-Nett,,BOTTLE,0,3500,850,4,1242,,True
+6,,Arunda Riserva Millesimato Extra Brut,Arunda Vivaldi,,BOTTLE,2017,8100,2500,1,6,"Glas Preis: 13.0
+
+",False
+8,,Comitissa Riserva Pas Dosé,Lorenz Martini,,BOTTLE,2019,7300,2250,2,8,"Glas Preis: 12.0
+
+",False
+12,,Haderburg Riserva Hausmannhof Brut,L. Ochsenreiter,,BOTTLE,2009,11600,4200,2,12,"Glas Preis: 19.0
+
+",False
+14,,Athesis  Brut,Kettmeir,,BOTTLE,2020,6200,1850,2,14,"Glas Preis: 10.0
+
+",False
+23,,Ferrari Perlé Brut,Cantine Ferrari,,BOTTLE,2016,8700,2850,1,23,"Glas Preis: 14.0
+
+",False
+23,,Ferrari Perlé Brut,Cantine Ferrari,,BOTTLE,2018,8700,2850,1,23,"Glas Preis: 14.0
+
+",False
+26,,Ferrari Perlé Zero Brut nature,Cantine Ferrari,,BOTTLE,2014,11000,4990,1,26,"Glas Preis: 18.0
+
+",False
+31,,Bellavista Rose Grand Cuvee  Pas Dosé,Bellavista,,BOTTLE,2016,10500,3800,1,31,"Glas Preis: 17.0
+
+43% in Holz, mind. 5 JahreReifung im Keller",False
+32,,Bellavista Vittorio Moretti  Extra Brut,Bellavista,,BOTTLE,2016,19800,8990,1,32,"Glas Preis: 32.0
+
+",False
+36,,Bellavista Gran Cuvee Satèn Brut,Bellavista,,BOTTLE,2018,10700,3900,1,36,"Glas Preis: 17.0
+
+",False
+82,,Laurent Perrier Millesimé ,,,BOTTLE,2012,13800,6290,2,82,"Glas Preis: 23.0
+
+",False
+100,WHITE,Weissburgunder Platt& Riegl ,Kellerei Girlan,,BOTTLE,2023,3900,969,2,100,"Glas Preis: 6.0
+
+",False
+101,WHITE,Weissburgunder Schulthauser ,Kellerei St. Michael Eppan,,BOTTLE,2022,3900,980,1,101,"Glas Preis: 6.0
+
+",False
+101,WHITE,Weissburgunder Schulthauser ,Kellerei St. Michael Eppan,,BOTTLE,2023,3900,980,1,101,"Glas Preis: 6.0
+
+",False
+112,WHITE,Weissburgunder Alte Reben ,K. Martini & Sohn,,BOTTLE,2021,8100,2500,2,112,"Glas Preis: 13.0
+
+250m.ü.M, 4 h Maischestandzeit, Gärung; im grossen Holzfass, Ausbau; 5 Monate auf der Feinhefe im Stahltank",False
+119,WHITE,Weissburgunder Prunar  ,Erste & Neue ,,BOTTLE,2012,3000,720,1,119,"Glas Preis: 5.0
+
+500m.ü.M. Gärung; grossen Holzfass & Edelstahltank, anschliessende Lagerung auf der Feinhefe",False
+123,WHITE,Weissburgunder St. Valentin  ,St. Michael Eppan,,BOTTLE,2021,6300,1910,2,123,"Glas Preis: 10.0
+
+450-600m.ü.M. Handlese, Gärung; BSA und Ausbau von 50% auf der Hefe in BarriquesTonneau. Rest in grossen Eichenholzfässern.  Nach 1 Jahr Assemblage, danach 6 Monate im Stahltank",False
+126,WHITE,Terlaner Weissburgunder De Silva  ,Peter Sölva & Söhne,,BOTTLE,2021,4900,1295,1,126,"Glas Preis: 8.0
+
+500m.ü.M. nach der Vergärung auf der feinen Hefe bis zur Abfüllung. ",False
+134,WHITE,Chardonnay St. Valentin  ,St. Michael Eppan,,BOTTLE,2022,6400,1939,2,134,"Glas Preis: 10.0
+
+",False
+137,WHITE,Chardonnay Marei  ,Castel Salegg,,BOTTLE,2021,5100,1500,1,137,"Glas Preis: 8.0
+
+",False
+140,WHITE,Chardonnay Riserva ,Happacherhof,,BOTTLE,2021,5400,1600,1,140,"Glas Preis: 9.0
+
+Vergärung im grossen Eichenhlzfass mit anschliessender 15 Monatiger reife",False
+141,WHITE,Chardonnay Ogeaner ,Armin Kobler,,BOTTLE,2018,3700,910,1,141,"Glas Preis: 6.0
+
+209.m.ü.M. Vinifizierung; auf der Feinhefe im Stahlfass mit teilweise BSA, keine Weinsteinstabilisierung",False
+148,WHITE,Chardonnay Löwengang  ,Tenutae Lageder,,BOTTLE,2021,12200,4855,1,148,"Glas Preis: 20.0
+
+230-330m.ü.M. Gärung",False
+151,WHITE,Chardonnay Schwarzhaus ,Stroblhof,,BOTTLE,2019,4800,1250,1,151,"Glas Preis: 7.0
+
+350m.ü.M. Gärung",False
+151,WHITE,Chardonnay Schwarzhaus ,Stroblhof,,BOTTLE,2022,4800,1250,1,151,"Glas Preis: 7.0
+
+350m.ü.M. Gärung",False
+166,WHITE,Riesling Praepositus ,Stiftskellerei Neustift,,BOTTLE,2020,6300,1889,1,166,"Glas Preis: 10.0
+
+650-700m.ü.M. 2/3 Mitte Oktober, 1/3 Spätlese mitte Dezember. Vergärung & Ausbau im Edelstahltank. 9 Monate Flaschenreifung",False
+172,WHITE,Riesling Kaiton ,Kuenhof - Peter Pliger,,BOTTLE,2022,5400,1590,1,172,"Glas Preis: 8.0
+
+550-700m.ü.M. Gärung; spontan 50% im grossen Akazienholzfass, 50% im Edelstahltank. Ausbau; 8 Monate auf der Feinhefe",False
+174,WHITE,Riesling Unterortl ,Castel Juval - Unterortl,,BOTTLE,2023,6300,1889,2,174,"Glas Preis: 10.0
+
+",False
+175,WHITE,Riesling Ringberg ,Elena Walch,,BOTTLE,2019,6300,1889,1,175,"Glas Preis: 10.0
+
+400m.ü.M. Gärung",False
+183,WHITE,Kerner ,Pacherhof,,BOTTLE,2022,4700,1360,1,183,"Glas Preis: 7.0
+
+700m.ü.M. Handlese. Vinifizierung im Stahlbehälter für 6 Monate auf der Hefe",False
+183,WHITE,Kerner ,Pacherhof,,BOTTLE,2023,4700,1360,1,183,"Glas Preis: 7.0
+
+700m.ü.M. Handlese. Vinifizierung im Stahlbehälter für 6 Monate auf der Hefe",False
+184,WHITE,Rielinger Kontur  ,Rielinger,,BOTTLE,2021,8100,2500,4,184,"Glas Preis: 13.0
+
+600-750m.ü.M. Gärung",False
+186,WHITE,Kerner Aristos ,Eisacktaler Kellerei,,BOTTLE,2016,4600,1330,1,186,"Glas Preis: 7.0
+
+700-800m.ü.M. Gärung",False
+186,WHITE,Kerner Aristos ,Eisacktaler Kellerei,,BOTTLE,2021,4600,1330,1,186,"Glas Preis: 7.0
+
+700-800m.ü.M. Gärung",False
+188,WHITE,Kerner ,Köfererhof,,BOTTLE,2023,4900,1270,2,188,"Glas Preis: 8.0
+
+650m.ü.M.  Edelstahl",False
+198,WHITE,Sylvaner  ,Kuenhof - Peter Pliger,,BOTTLE,2023,5200,1530,1,198,"Glas Preis: 8.0
+
+550-700m.ü.M. Handlese. Gärung: 50% grossen Holzfass 50% Edelstahltanks. Ausbau; 8 Monate auf der Feinhefe zu 2/3  im grossen Holzfass, der Rest im Edelstahltanks.",False
+199,WHITE,Sylvaner Sabiona ,Eisacktaler Kellerei,,BOTTLE,2020,8400,2600,1,199,"Glas Preis: 13.0
+
+650m.ü.M. Gärung",False
+200,WHITE,Sylvaner BIO ,Garlider,,BOTTLE,2021,4700,1230,1,200,"Glas Preis: 7.0
+
+600-800m.ü.M. Gärung & Ausbau im Holzfass",False
+201,WHITE,Sylvaner Praepositus ,Stiftskellerei Neustift,,BOTTLE,2022,5200,1540,2,201,"Glas Preis: 8.0
+
+600-700m.ü.M.  Gärung",False
+203,WHITE,Sylvaner ,Pacherhof,,BOTTLE,2021,4600,1310,1,203,"Glas Preis: 7.0
+
+620m.ü.M. Handlese. Vinifikation im Stahlbehälter, anschliessend 8 Monate auf der Feinhefe. ",False
+203,WHITE,Sylvaner ,Pacherhof,,BOTTLE,2022,4600,1310,1,203,"Glas Preis: 7.0
+
+620m.ü.M. Handlese. Vinifikation im Stahlbehälter, anschliessend 8 Monate auf der Feinhefe. ",False
+206,WHITE,Sylvaner Hautnah ,Garlider,,BOTTLE,2018,8000,2460,2,206,"Glas Preis: 13.0
+
+",False
+210,WHITE,Veltliner ,Kuenhof - Peter Pliger,,BOTTLE,2020,4400,1130,1,210,"Glas Preis: 7.0
+
+550-700m.ü.M. Gärung; 50% grosses Holzfass 50% Edelstahltank. Ausbau; 8 Monate 2/3 im grossen Holzfass, Rest im Edelstahltank auf der Feinhefe",False
+210,WHITE,Veltliner ,Kuenhof - Peter Pliger,,BOTTLE,2014,4400,1130,1,210,"Glas Preis: 7.0
+
+550-700m.ü.M. Gärung; 50% grosses Holzfass 50% Edelstahltank. Ausbau; 8 Monate 2/3 im grossen Holzfass, Rest im Edelstahltank auf der Feinhefe",False
+213,WHITE,Veltliner ,Köfererhof,,BOTTLE,2022,5400,1590,2,213,"Glas Preis: 8.0
+
+700m.ü.M.6h Mazeration.  Gärung",False
+221,WHITE,Sauvignon Tannenberg ,Manincor,,BOTTLE,2021,6700,2050,1,221,"Glas Preis: 11.0
+
+300m.ü.M. 12h Mazeration. Gärung",False
+221,WHITE,Sauvignon Tannenberg ,Manincor,,BOTTLE,2022,6700,2050,1,221,"Glas Preis: 11.0
+
+300m.ü.M. 12h Mazeration. Gärung",False
+227,WHITE,Sauvignon Lafoa  ,Schreckbichl ,,BOTTLE,2022,6300,1889,3,227,"Glas Preis: 10.0
+
+430m.ü.M. Vinifikation: 8 Monate auf der Hefe. 50% im Edelstahlbehälter, 50% im Bariques mit BSA. ",False
+243,WHITE,Sauvignon Myra ,Waldgries,,BOTTLE,2023,4600,1340,1,243,"Glas Preis: 7.0
+
+550m.ü.M. Ausbau; 90% Stahl, 10% Barriques. Ein Teil wird mit ganzen Beeren vergoren. ",False
+244,WHITE,Sauvignon St. Valentin ,St. Michael Eppan,,BOTTLE,2023,6400,1939,2,244,"Glas Preis: 10.0
+
+",False
+246,WHITE,Sauvignon Andrius ,Kellerei Andrian,,BOTTLE,2021,6100,1839,2,246,"Glas Preis: 10.0
+
+260-380m.ü.M. Gärung",False
+249,WHITE,Sauvignon ,Thurnhof,,BOTTLE,2022,4400,1130,2,249,"Glas Preis: 7.0
+
+grösster Teil der Reben auf 800m.ü.M.  Ausbau",False
+268,WHITE,Pinot Grigio Unterebner  ,Kellerei Tramin,,BOTTLE,2022,6500,1980,2,268,"Glas Preis: 10.0
+
+430m.ü.M. Gärung",False
+273,WHITE,Grauer Burgunder Klausner ,Armin Kobler,,BOTTLE,2018,3700,910,1,273,"Glas Preis: 6.0
+
+209m.ü.M. Vinifizierung im Stahlfass ohne BSA. Keine Weinstabilisierung.",False
+274,WHITE,Pinot Grigio St. Valentin ,St. Michael Eppan,,BOTTLE,2022,7000,2150,2,274,"Glas Preis: 11.0
+
+",False
+275,WHITE,Pinot Grigio Punggl ,Nals Margreid,,BOTTLE,2022,4800,1240,2,275,"Glas Preis: 7.0
+
+7 Monate im Edelstahltank und Holzfass.",False
+276,WHITE,Pinot Grigio Ringberg ,Elena Walch,,BOTTLE,2021,5800,1730,1,276,"Glas Preis: 9.0
+
+350m.ü.M. Gärung; 85% Stahltank, 15% im franz. Eiche mit BSA. Cuvee im Frühjahr.",False
+286,WHITE,Dona Blanc  ,Hartmann Donà,,BOTTLE,2020,7900,2150,3,286,"Glas Preis: 13.0
+
+Gärung ",False
+293,WHITE,Casòn Hirschprunn  ,Tenutae Lageder,,BOTTLE,2021,8400,3000,1,293,"Glas Preis: 14.0
+
+230-360m.ü.M. Gärung",False
+296,WHITE,Private Cuvée ,Pacherhof,,BOTTLE,2021,8900,2790,8,296,"Glas Preis: 14.0
+
+",False
+307,WHITE,Gewürztraminer St. Valentin ,St. Michael Eppan,,BOTTLE,2022,6300,1910,1,307,"Glas Preis: 10.0
+
+300-500m.ü.M. Handlese. Vinifikation im Stahltank.",False
+323,WHITE,Gewürztraminer Kolbenhof ,Hofstätter,,BOTTLE,2007,8100,2505,1,323,"Glas Preis: 13.0
+
+einige Stunden Kontakt mit Schalen. Reifung für 8 Monate auf der Feinhefe mit wöchentlicher Batonnage",False
+343,WHITE,Nosiola ,Cesconi,,BOTTLE,2011,4400,1120,1,343,"Glas Preis: 7.0
+
+",False
+348,WHITE,Sauvignon de la Tour  ,Villa Russiz,,BOTTLE,2020,7500,2300,1,348,"Glas Preis: 12.0
+
+Handlese. Kelterung der ganzen Trauben. Mind. 7 Monate auf der Hefe. Abfüllung nach 9 Monaten.",False
+354,WHITE,Lugana Brolettino  ,Cà dei Frati,,BOTTLE,2022,4900,1420,2,354,"Glas Preis: 8.0
+
+Gärung: Stahltank.  Ausbau: Barriques für 10 Monate mit teilweise BSA. 3 Monate Flaschenlagerung.",False
+356,WHITE,Derthona Timorasso  ,Mariotto Claudo,,BOTTLE,2021,4400,1120,2,356,"Glas Preis: 7.0
+
+250-300m.ü.M. Handlese. Auf der Hefe gelagert.",False
+359,WHITE,Chardonnay ,Les Crêtes,,BOTTLE,2018,4700,1355,3,359,"Glas Preis: 7.0
+
+600-850m.ü.M. Handlese. Gärung",False
+361,WHITE,Chardonnay  ,Monteverro,,BOTTLE,2021,15200,6890,2,361,"Glas Preis: 25.0
+
+Pressen der ganzen Beeren. Natürliche Gärung. Ausbau",False
+388,WHITE,Riesling Steinterassen  Federspiel  ,Hirtzberger,,BOTTLE,2022,8000,2900,1,388,"Glas Preis: 13.0
+
+",False
+394,WHITE,Sauvignon Grassnitzberg  ,Tement,,BOTTLE,2020,8400,2590,1,394,"Glas Preis: 13.0
+
+Ausbau",False
+401,WHITE,Riesling Steinreich ,Clüsserath,,BOTTLE,2019,7600,2350,1,401,"Glas Preis: 12.0
+
+",False
+401,WHITE,Riesling Steinreich ,Clüsserath,,BOTTLE,2021,7600,2350,1,401,"Glas Preis: 12.0
+
+",False
+402,WHITE,Riesling Blauschiefer ,Dr. Loosen,,BOTTLE,2021,4800,1410,1,402,"Glas Preis: 8.0
+
+",False
+430,WHITE,"Chablis ""La Fourchaume"" 1er Cru ",Jean-Claude Bessin,,BOTTLE,2021,8800,3200,6,430,"Glas Preis: 14.0
+
+Rebalter; 10-80 Jahre. 4. Generation. 12h Maischestandzeit. 21 Tage fermentation. Ausbau; 9 Monate 15% Im Barriques, 85% im Stahl auf der Feinhefe.",False
+441,WHITE,"Mersault ""Les Tessons""  ",Michel Bouzereau & Fils,,BOTTLE,2021,17600,8000,6,441,"Glas Preis: 29.0
+
+16-18 Moante in 1/3 neuen Barrique. Seit 1991,leitet der Sohn Jean-Baptist (Oenologe) dass Weingut mit seinem Vater Michel.",False
+469,WHITE,Weissburgunder Schulthauser ,St. Michael Eppan,,PICCOLO,2022,2600,540,2,469,"Glas Preis: 4.0
+
+480-600m.ü.M. grösser Teil im Stahltank ausgebaut, ein kleiner Teil im Holzfass.",False
+470,WHITE,Weissburgunder Plattenriegel ,Kellerei Girlan,,PICCOLO,2020,2500,525,2,470,"Glas Preis: 4.0
+
+400m.ü.M. Handlese. Gärung",False
+473,WHITE,Sauvignon St. Valentin ,St. Michael Eppan,,PICCOLO,2022,3900,969,2,473,"Glas Preis: 6.0
+
+Kellerei mit 350 Genossenschaftsmitglieder und Weinbauern",False
+487,WHITE,Sauvingon Quarz  ,Kellerei Terlan,,MAGNUM,2020,16900,7690,2,487,"Glas Preis: 28.0
+
+Gärung und Reife für 9 Monate auf der Feinhefe, 50% grosses Holzfass, 50% Tonneau. Assemblage, 3 Monate vor der Abfüllung.",False
+514,,Rosa dei Frati ,Cà dei Frati,,BOTTLE,2021,4000,1000,1,514,"Glas Preis: 6.0
+
+Gärung; Stahltank.  80% BSA. Ausbau; 6 Monate auf der Feinhefe im Stahlfass, 2 Monate Flaschenlagerung",False
+532,RED,St. Magdalener Glögglhof ,Franz Gojer,,BOTTLE,2019,3800,950,1,532,"Glas Preis: 6.0
+
+",False
+534,RED,St. Magdalener Antheos   ,Ansitz Waldgries,,BOTTLE,2022,5500,1620,2,534,"Glas Preis: 9.0
+
+250m.ü.M. Gärung; 20% mit ganzen Trauben, lange Maischestandzet. Ausbau; grosses Holzfass",False
+542,RED,Zweigelt Roan   ,Bessererhof,,BOTTLE,2019,4700,1210,2,542,"Glas Preis: 7.0
+
+",False
+549,RED,Blauburgunder Riserva Maglen ,Kellerei Tramin,,BOTTLE,2019,7900,2250,1,549,"Glas Preis: 13.0
+
+350-700m.ü.M. Gärung",False
+552,RED,Blauburgunder Hausmannshof Riserva  ,Haderburg,,BOTTLE,2018,10000,3650,3,552,"Glas Preis: 16.0
+
+350-550m.ü.M. Gärung",False
+553,RED,Blauburgunder Castel Juval  ,Castel Juval - Unterortl,,BOTTLE,2019,6200,1850,2,553,"Glas Preis: 10.0
+
+",False
+554,RED,Blauburgunder Lafoa ,Schreckbichl Colterenzio,,BOTTLE,2020,8900,2790,1,554,"Glas Preis: 14.0
+
+400m.ü.M. Gärung",False
+558,RED,Blauburgunder Riserva Matán  ,Ansitz Pfitscher,,BOTTLE,2021,9000,2800,2,558,"Glas Preis: 14.0
+
+",False
+560,RED,Blauburgunder Pigeno ,Stroblhof,,BOTTLE,2021,6000,1800,2,560,"Glas Preis: 10.0
+
+500.mü.M. Gärung",False
+561,RED,Blauburgunder Riserva ,Stroblhof,,BOTTLE,2019,8800,2890,2,561,"Glas Preis: 14.0
+
+500m.ü.M. Gärung",False
+562,RED,Blauburgunder Barthenau Vigna San Urbano  ,Hofstätter,,BOTTLE,2011,12000,4580,1,562,"Glas Preis: 20.0
+
+Gärung; 10 Tage mit 25% intakten Trauben und Umwälzung. Ausbau; 14 Monate in kleinen Eichenholzfässern, assamblage, 7 Monate im grossen Eichenholzfass, Abfüllung, 12 Monate Flaschenlagerung.",False
+562,RED,Blauburgunder Barthenau Vigna San Urbano  ,Hofstätter,,BOTTLE,2019,12000,4580,1,562,"Glas Preis: 20.0
+
+Gärung; 10 Tage mit 25% intakten Trauben und Umwälzung. Ausbau; 14 Monate in kleinen Eichenholzfässern, assamblage, 7 Monate im grossen Eichenholzfass, Abfüllung, 12 Monate Flaschenlagerung.",False
+566,RED,Blauburgunder Krafuss  ,Tenutae Lageder,,BOTTLE,2022,10300,3740,2,566,"Glas Preis: 17.0
+
+BIO, 450-520m.ü.M. Gärung; spntan ca. 14 Tage. Ausbau; 12 Monate teilweise im Edelstahl, teilweise in kleinen Holzfässern 225l, (franz.Eiche 1/3 neu)",False
+567,RED,Blauburgunder Mason di Mason ,Manincor,,BOTTLE,2020,13000,5900,2,567,"Glas Preis: 21.0
+
+400-450m.ü.M. Gärung; Holzbottich, spontan mit Traubeneigener Hefe. Mazeration 2 Wochen mit Untertauchen der Trester.Ausbau; 12 Monate im Barrique 25% neu, auf der Feinhefe. ",False
+571,RED,Blauburgunder Riserva ,Laimburg,,BOTTLE,2021,4700,1360,2,571,"Glas Preis: 7.0
+
+350-550m.ü.M. Holz ausbau für 15 Monate",False
+573,RED,Blauburgunder Riserva Monticol ,Kellerei Terlan,,BOTTLE,2021,6700,2030,1,573,"Glas Preis: 11.0
+
+450-760m.ü.M. Handlese. Gärung; Edelstahltank. Ausbau; BSA, 12 Monate 50% in grossen Holz, 50% in Barrique(1/3neu). 3 Monate Flaschenlagerung.",False
+573,RED,Blauburgunder Riserva Monticol ,Kellerei Terlan,,BOTTLE,2020,6700,2030,1,573,"Glas Preis: 11.0
+
+450-760m.ü.M. Handlese. Gärung; Edelstahltank. Ausbau; BSA, 12 Monate 50% in grossen Holz, 50% in Barrique(1/3neu). 3 Monate Flaschenlagerung.",False
+573,RED,Blauburgunder Riserva Monticol ,Kellerei Terlan,,BOTTLE,2016,6700,2030,1,573,"Glas Preis: 11.0
+
+450-760m.ü.M. Handlese. Gärung; Edelstahltank. Ausbau; BSA, 12 Monate 50% in grossen Holz, 50% in Barrique(1/3neu). 3 Monate Flaschenlagerung.",False
+574,RED,Blauburgunder Saltner  ,Kellerei Kaltern,,BOTTLE,2021,4600,1320,2,574,"Glas Preis: 7.0
+
+400-500m.ü.M. Gärung; Holzgärbottich, 2 wöchige Mazeration. Ausbau; BSA; 12 Monate im Tonneau.",False
+575,RED,Blauburgunder Sanct Valentin ,St. Michael Eppan,,BOTTLE,2021,8500,2650,1,575,"Glas Preis: 14.0
+
+",False
+584,RED,Vinschgau Blauburgunder Sonnenberg  ,Kellerei Meran,,BOTTLE,2012,3300,800,1,584,"Glas Preis: 5.0
+
+",False
+589,RED,Blauburgunder Ludwig ,Elena Walch,,BOTTLE,2020,8800,2750,2,589,"Glas Preis: 14.0
+
+550-600m.ü.M. Gärung",False
+604,RED,Merlot Riserva Siebeneich ,Kellerei Bozen,,BOTTLE,2020,7500,2300,1,604,"Glas Preis: 12.0
+
+Gärung",False
+607,RED,Merlot MCM BIO ,Tenutae Lageder,,BOTTLE,2020,9500,3450,1,607,"Glas Preis: 15.0
+
+230m.ü.M. Gärung, spontan ca 15 Tage mit BSA im Edelstahltank. Ausbau; 18 Monate in kleinen franz. EichenBarrque 1/3 neu.",False
+612,RED,Merlot Villa Karneid  ,Castelfeder,,BOTTLE,2013,3300,795,1,612,"Glas Preis: 5.0
+
+Gärung",False
+613,RED,Merlot Calldiv  ,von Braunbach,,BOTTLE,2012,4000,1000,1,613,"Glas Preis: 6.0
+
+",False
+618,RED,Merlot Mühlweg  ,Weingut Niedrist ,,BOTTLE,2019,7900,2440,2,618,"Glas Preis: 13.0
+
+400m.ü.M. Gärung",False
+625,RED,Cabernet Sauvignon Lafoa ,Schreckbichl Colterenzio,,BOTTLE,2020,12100,5500,1,625,"Glas Preis: 20.0
+
+430m.ü.M. Gärung; Maischgärng für 10 Tage mit Umwälzung, Mazeration für 10-14 Tage. Ausbau; neue & gebrauchte Barique mit BSA, 18 Monate mit mehrmaligem ""umziehen"". Grobfiltration ",False
+640,RED,Cabernet Riserva Burgum Novum  ,Castelfeder,,BOTTLE,2016,5100,1490,1,640,"Glas Preis: 8.0
+
+Gärung; Umpumpen des Mostes1x täglich, für die intakthaltung mit den Schalen. BSA. Ausbau; 15 Monate in kleinen Barrique 50% neu. Schonenden Eiweissklärung. Flaschenlagerung 6 Monate.",False
+641,RED,Cabernet Riserva Kampill ,Unterganzner,,BOTTLE,2019,6200,1850,2,641,"Glas Preis: 10.0
+
+Gärung; Maischekontakt von 10 Tagen, Edelstahltank. Ausbau; BSA, 1-18 Monate in franz. EichenBarrique 50%neu. ",False
+644,RED,Cabernet Riserva Kirchhügel  ,Kellerei Kurtatsch,,BOTTLE,2012,3700,930,1,644,"Glas Preis: 6.0
+
+Gärung; Rotortank. Ausbau; 14 Monate Barrique, danach im grossen Holzfass",False
+645,RED,Cabernet Freienfeld  ,Kellerei Kurtatsch,,BOTTLE,2020,11000,3990,2,645,"Glas Preis: 18.0
+
+Gärung; Rotortank. Ausbau; 50%neu, 50% 2-4 Jahre alten Barrique für 14 Moante. Assemblage im grossen Holzfass. Lange Flaschenlagerung.",False
+654,RED,Cabernet Franc Amistar ,Peter Sölva & Söhne,,BOTTLE,2016,10400,3790,1,654,"Glas Preis: 17.0
+
+Gärug; Edelstahltank. Ausbau; BSA, 1 Jahr in Barrique 1/3neu",False
+656,RED,Cabernet Istrice ,Elena Walch,,BOTTLE,2019,6000,1789,1,656,"Glas Preis: 9.0
+
+400m.ü.M. Gärung",False
+656,RED,Cabernet Istrice ,Elena Walch,,BOTTLE,2022,6000,1789,2,656,"Glas Preis: 9.0
+
+400m.ü.M. Gärung",False
+657,RED,Cabernet Riserva Ringberg ,Elena Walch,,BOTTLE,2021,8900,3229,1,657,"Glas Preis: 14.0
+
+350m.ü.M. Gärung",False
+671,RED,Lagrein Gran Lareyn BIO ,Loacker Schwarhof,,BOTTLE,2021,5000,1460,2,671,"Glas Preis: 8.0
+
+Gärung; Rotortank. Ausbau; 12 Moante in Barrique, anschliessend lagerung im grossen Holzfass",False
+672,RED,Lagrein Frauenhügel ,Kellerei Kurtatsch,,BOTTLE,2021,6000,1800,1,672,"Glas Preis: 10.0
+
+Gärung; Rotortank. Ausbau; 12 Moante in Barrique, anschliessend lagerung im grossen Holzfass",False
+673,RED,Lagrein  ,Rottensteiner,,BOTTLE,2020,3700,919,6,673,"Glas Preis: 6.0
+
+Gärung",False
+674,RED,Lagrein Grieser Riserva Select ,Rottensteiner,,BOTTLE,2021,5600,1660,2,674,"Glas Preis: 9.0
+
+Ausbau",False
+675,RED,Lagrein Riserva Thurnhof  ,Andreas Berger,,BOTTLE,2018,5700,1689,1,675,"Glas Preis: 9.0
+
+Ausbau",False
+675,RED,Lagrein Riserva Thurnhof  ,Andreas Berger,,BOTTLE,2021,5700,1689,1,675,"Glas Preis: 9.0
+
+Ausbau",False
+677,RED,Lagrein Riserva ,Griesbauerhof,,BOTTLE,2017,6900,2090,1,677,"Glas Preis: 11.0
+
+300m.ü.M. seit 1785 im Besitz der Fam. Mumentaler",False
+677,RED,Lagrein Riserva ,Griesbauerhof,,BOTTLE,2020,6900,2090,1,677,"Glas Preis: 11.0
+
+300m.ü.M. seit 1785 im Besitz der Fam. Mumentaler",False
+679,RED,Lagrein Riserva ,Unterganzner,,BOTTLE,2019,6200,1860,1,679,"Glas Preis: 10.0
+
+Gärung; Edelstahltank, Maischekontaktzeit von 8 Tagen. Ausbau; BSA, 15-18 Monate in kleinnen Holzfässern",False
+682,RED,Lagrein Riserva Prestige Line  ,Kellerei Bozen,,BOTTLE,2020,6300,1900,2,682,"Glas Preis: 10.0
+
+Gärung",False
+691,RED,Lagrein Riserva Carano ,Baron di Pauli,,BOTTLE,2019,7300,2240,1,691,"Glas Preis: 12.0
+
+Gärung; spontangärung im offenen Gärbehälter, Maischemazeration von 25 Tagen. Ausbau; Barrique 50%neu, BSA, 18 Monate im kleinen Fass",False
+692,RED,Lagrein Riserva Kristan ,Egger Ramer,,BOTTLE,2012,5100,1500,1,692,"Glas Preis: 8.0
+
+12 Monate im grossen Holzfass.",False
+692,RED,Lagrein Riserva Kristan ,Egger Ramer,,BOTTLE,2021,5100,1500,1,692,"Glas Preis: 8.0
+
+12 Monate im grossen Holzfass.",False
+694,RED,Lagrein Riserva ,Messnerhof,,BOTTLE,2012,4700,1230,1,694,"Glas Preis: 7.0
+
+Ausbau;zu je  1/3 im grossen Holzfass, Tooneau 500l, gebrauchte Barrique für 18 Monate.",False
+696,RED,Lagrein Riserva ,Reyter Hof,,BOTTLE,2015,5400,1590,2,696,"Glas Preis: 8.0
+
+",False
+698,RED,Lagrein  ,Muri Gries,,BOTTLE,2020,3100,695,2,698,"Glas Preis: 5.0
+
+260m.ü.M. Gärung",False
+699,RED,Lagrein Riserva Abtei ,Muri Gries,,BOTTLE,2021,6900,2090,2,699,"Glas Preis: 11.0
+
+260-280m.ü.M. Gärung; Edelstahltank für 14 Tage, BSA. Ausbau; 15 Monate im kleinen Holzfass. ",False
+705,RED,Lagrein Gries Riserva ,Nals Margreid,,BOTTLE,2020,6500,1950,1,705,"Glas Preis: 10.0
+
+138 Weinbauern. 6 Monate Holzfass.",False
+707,RED,Lagrein Riserva Porphyr  ,Kellerei Terlan,,BOTTLE,2015,11700,4250,1,707,"Glas Preis: 19.0
+
+250-500m.ü.M. Handlese. Gärung",False
+707,RED,Lagrein Riserva Porphyr  ,Kellerei Terlan,,BOTTLE,2021,11700,4250,1,707,"Glas Preis: 19.0
+
+250-500m.ü.M. Handlese. Gärung",False
+709,RED,Lagrein Riserva BIO ,Nusserhof,,BOTTLE,2019,6500,1960,1,709,"Glas Preis: 10.0
+
+Gärung mit Natur Hefe im Stahltank, 30 Monate im grossen Holzfass. 30 Monate Flaschenlagerung",False
+711,RED,Lagrein Rubatsch BIO ,Manincor,,BOTTLE,2017,7000,2140,1,711,"Glas Preis: 11.0
+
+250m.ü.M. Gärung; spontan im Holzbottich. 2 Wochen Mazerationszeit mit Umwälzen. Ausbau; 4 Monate in Barrique, jedes 10 Fass neu.",False
+711,RED,Lagrein Rubatsch BIO ,Manincor,,BOTTLE,2019,7000,2140,1,711,"Glas Preis: 11.0
+
+250m.ü.M. Gärung; spontan im Holzbottich. 2 Wochen Mazerationszeit mit Umwälzen. Ausbau; 4 Monate in Barrique, jedes 10 Fass neu.",False
+713,RED,Lagrein Urban ,Kellerei Tramin,,BOTTLE,2019,7200,2200,1,713,"Glas Preis: 11.0
+
+Gärung; Holzfass. Ausbau; BSA, franz EichenBarrique, danach grosses Holzfass für 14 Monate. 1 Jahr Flaschenlagerung.",False
+713,RED,Lagrein Urban ,Kellerei Tramin,,BOTTLE,2020,7200,2200,1,713,"Glas Preis: 11.0
+
+Gärung; Holzfass. Ausbau; BSA, franz EichenBarrique, danach grosses Holzfass für 14 Monate. 1 Jahr Flaschenlagerung.",False
+723,RED,Athos ,Ansitz Dolomythos,,BOTTLE,2015,8100,2500,3,723,"Glas Preis: 13.0
+
+",False
+738,RED,Cason Hirschprunn Rot BIO ,Tenutae Lageder,,BOTTLE,2016,8300,2570,1,738,"Glas Preis: 13.0
+
+230-360m.ü.M. Gärung",False
+738,RED,Cason Hirschprunn Rot BIO ,Tenutae Lageder,,BOTTLE,2019,8300,2570,1,738,"Glas Preis: 13.0
+
+230-360m.ü.M. Gärung",False
+751,RED,Cornell Cornelius  ,Schreckbichl Colterenzio,,BOTTLE,2017,6200,1850,1,751,"Glas Preis: 10.0
+
+250-430m.ü.M. Gärung; Maischegärunf für 7-10 Tage. Ausbau; BSA in barrique. Assembalge im Frühjahr, 14 Monate in kleinen Eichenfässsern. Grobfilterung. 12 Monate Flaschenlagerung.",False
+757,RED,Cuvée Linticlarus  ,Tiefenbrunner,,BOTTLE,2012,8100,2490,1,757,"Glas Preis: 13.0
+
+280-300m.ü.M. Gärung",False
+760,RED,Reserve del Conte Manincor BIO ,Manincor,,BOTTLE,2021,4900,1420,1,760,"Glas Preis: 8.0
+
+250m.ü.M. Jede Charge wird separat gekeltert, immer mit Maischegärung, zum Tel spontan mit Traubeneigenen Hefe in Holz-, Beton- und Edelstahlbottich. 10 Tage Mazeration, 1x am Tag Umwälzen. Ausbau; 12 Monate im Holz verschiedener grössen. ",False
+760,RED,Reserve del Conte Manincor BIO ,Manincor,,BOTTLE,2022,4900,1420,1,760,"Glas Preis: 8.0
+
+250m.ü.M. Jede Charge wird separat gekeltert, immer mit Maischegärung, zum Tel spontan mit Traubeneigenen Hefe in Holz-, Beton- und Edelstahlbottich. 10 Tage Mazeration, 1x am Tag Umwälzen. Ausbau; 12 Monate im Holz verschiedener grössen. ",False
+767,RED,Teroldego Rotaliano  ,Foradori,,BOTTLE,2018,4800,1400,1,767,"Glas Preis: 8.0
+
+im Holzfass300l ausgebaut.",False
+767,RED,Teroldego Rotaliano  ,Foradori,,BOTTLE,2019,4800,1400,1,767,"Glas Preis: 8.0
+
+im Holzfass300l ausgebaut.",False
+771,RED,San Leonardo  ,Tenuta San Leonardo,,BOTTLE,2018,15400,6990,2,771,"Glas Preis: 25.0
+
+Handlese. 18-24 Monate franz. Barrique.",False
+779,RED,Sfursat 5 Stelle ,Negri Nino,,BOTTLE,2017,11300,5148,2,779,"Glas Preis: 18.0
+
+400-450m.Ü.M. Handlese. Gärung; 3 Tage Mazeration, 16 Tage Fermentation. Ausbau; 24 Monate in neue franz. Barrique mit BSA. 4 Monate Flaschengärung.",False
+780,RED,Ronchedone  ,Cà dei Frati,,BOTTLE,2012,4600,1190,1,780,"Glas Preis: 7.0
+
+Gärung; langer Maischekontakt, Mazeration im Stahltank. Ausbau; BSA im Barrique. 14 Monate im Barrique. 10 Monate Flaschengärung. ",False
+781,RED,Sforzato Albareda  ,Mamete Prevostini,,BOTTLE,2017,10900,3979,2,781,"Glas Preis: 18.0
+
+350-550.m.ü.M. Handlese. 22 Tage Mazeration auf der Schale. Ausbau",False
+786,RED,La Poja  ,Allegrini,,BOTTLE,2000,17600,7990,1,786,"Glas Preis: 29.0
+
+320m.ü.M. Handlese. Gärung; 12-15 Tage Fermentation. BSA im Barrique. Ausbau; 20 Monate im franz. Neuen Barrique, 10 Monate Flaschenlagerung.",False
+788,RED,Amarone della Valpolicella  ,Bertani,,BOTTLE,2010,18000,7005,1,788,"Glas Preis: 30.0
+
+Handlese. Gärung; trocknung bis mitte Januar, 120-125 Oechslegrad. Vergärung von ca. 50 Tagen. Ausbau; 6 Jahre reifeung in Fäassern aus slawonischer Eiche 60hl. 1 Jahr Flaschenreife.",False
+789,RED,Amarone della Valpolicella ,Allegrini,,BOTTLE,2018,13000,5500,1,789,"Glas Preis: 21.0
+
+Handlese. Trauben 3-4 Monate Luftgetrockent. 25 Tage Gärung im Stahl mit Umwälzen. Ausbau; 18 Moante im kleinen Holzfass, 7 Monate im grossen Slow. Eichenfass. 14 Monate Flaschenlagerung",False
+789,RED,Amarone della Valpolicella ,Allegrini,,BOTTLE,2019,13000,5500,1,789,"Glas Preis: 21.0
+
+Handlese. Trauben 3-4 Monate Luftgetrockent. 25 Tage Gärung im Stahl mit Umwälzen. Ausbau; 18 Moante im kleinen Holzfass, 7 Monate im grossen Slow. Eichenfass. 14 Monate Flaschenlagerung",False
+796,RED,Amarone della Valpolicella  ,Zenato,,BOTTLE,2017,11000,4004,2,796,"Glas Preis: 18.0
+
+Ausbau",False
+797,RED,Amarone della Valpolicella  ,Marion,,BOTTLE,2018,11200,4090,2,797,"Glas Preis: 18.0
+
+Trocknung bis Ende Dezember- Anfrang Januar. 20 Tage kaltmazeration. BSA für 40 Tage. Holz- & slawonischer Eichenausbau für 36 Monate.",False
+804,RED,Valpolicella Superiore  ,Quintarelli Giuseppe,,BOTTLE,2016,15600,7090,2,804,"Glas Preis: 25.0
+
+",False
+805,RED,Valpolicella La Bandina ,San Antonio,,BOTTLE,2018,5800,1720,1,805,"Glas Preis: 9.0
+
+300m.ü.M. Handlese. BSA im Holz. Batonnage 1x im Monate im ersten Jahr.   Ausbau",False
+805,RED,Valpolicella La Bandina ,San Antonio,,BOTTLE,2019,5800,1720,1,805,"Glas Preis: 9.0
+
+300m.ü.M. Handlese. BSA im Holz. Batonnage 1x im Monate im ersten Jahr.   Ausbau",False
+806,RED,Valpolicella Superiore  ,Musella,,BOTTLE,2013,3900,990,1,806,"Glas Preis: 6.0
+
+Gärung",False
+807,RED,Campo Morar Valpolicella Ripasso ,Viviani,,BOTTLE,2017,5300,1570,1,807,"Glas Preis: 8.0
+
+",False
+810,RED,Fratta ,Maculan,,BOTTLE,2015,11500,4190,2,810,"Glas Preis: 19.0
+
+Handlese. Gärung",False
+818,RED,Breg  ,Gravner,,BOTTLE,2007,27600,12540,1,818,"Glas Preis: 45.0
+
+Gärung im Holz. Ausbau; 5 Jahre im Eichenholz, 5 Jahre Flaschenlagerung. Keine Schönung, filtration",False
+819,RED,Rujno  ,Gravner,,BOTTLE,2003,32200,14640,1,819,"Glas Preis: 53.0
+
+Fermentation spontan für 5 Wochen.Ausbau; im Eichenholz 228l für 36 Monate. 6 Jahre in der Flasche. Keine Schönung, Filtration. ",False
+829,RED,Chianti Cassico ,Fontodi,,BOTTLE,2021,8100,2500,1,829,"Glas Preis: 13.0
+
+",False
+830,RED,Chianti Classico Riserva Le Baroncole ,San Giusto a Rentennano,,BOTTLE,2020,7600,2340,1,830,"Glas Preis: 12.0
+
+Gärung",False
+834,RED,Chianti Classico Riserva Vigna il Poggiale  ,Castellare,,BOTTLE,2019,8100,2930,2,834,"Glas Preis: 13.0
+
+350-400m.ü.M. Gärung; Stahltank, Fermentation von 16-23 Tage. Ausbau; in 20% neuen Barrique 225l für 12- 18 Moante. 12 Monate Flaschenlagerung ",False
+835,RED,Chianti Rufina Riserva Nipozzano  ,Marchesi de Frescobaldi,,BOTTLE,2013,4100,1033,1,835,"Glas Preis: 6.0
+
+250-500m.ü.M. Handlese. Gärung; Stahltank, Fermentation für 13 Tage. Mazeration für 25 Tage mit Umwälzen.BSA. Ausbau; 24 Monate im Barrique. 3 Moante Flaschenlagerung.",False
+837,RED,Chianti Classico  ,Castello di Rampolla,,BOTTLE,2018,6000,1782,3,837,"Glas Preis: 9.0
+
+380m.ü.M. Gärung; 7 Tage Fermentation. Mazeration auf der Schale 30 tage. BSA. Ausbau; 12 Monate im Eichenholz 25/30hl, Barrique 225l, Tonneau 500l. 6 Monate Flaschenlagerung.",False
+837,RED,Chianti Classico  ,Castello di Rampolla,,BOTTLE,2010,6000,1782,1,837,"Glas Preis: 9.0
+
+380m.ü.M. Gärung; 7 Tage Fermentation. Mazeration auf der Schale 30 tage. BSA. Ausbau; 12 Monate im Eichenholz 25/30hl, Barrique 225l, Tonneau 500l. 6 Monate Flaschenlagerung.",False
+847,RED,Bolgheri Rosso ,Grattamacco / Collemassari,,BOTTLE,2019,6000,1789,2,847,"Glas Preis: 9.0
+
+",False
+849,RED,Grattamacco Rosso Bolgheri Superiore ,Grattamacco / Collemassari,,BOTTLE,2018,15200,6890,3,849,"Glas Preis: 25.0
+
+Handlese. Gärung",False
+850,RED,Insoglio del Cinghiale  ,Tenuta Campo di Sasso / Lodovico Antinori,,BOTTLE,2022,5700,1689,2,850,"Glas Preis: 9.0
+
+",False
+851,RED,Monteverro  ,Monteverro,,BOTTLE,2019,24100,10970,1,851,"Glas Preis: 40.0
+
+Gärung",False
+858,RED,50 & 50  ,Capannelle & Avignonesi,,BOTTLE,2018,19600,8900,2,858,"Glas Preis: 32.0
+
+Gärung; im Holz, Mazeration für 15-20 Tage. Ausbau; 18 Monate im franz. Eichenbarrique ( Mittlere Tostatur)",False
+873,RED,Cabreo Il Borgo  ,Tenute del Cabreo Folonari,,BOTTLE,2016,8800,3190,1,873,"Glas Preis: 14.0
+
+300m.ü.M. Gärung im Stahltank. Mazeration für 15-18 Tage. Ausbau; Assemblage, in franz. Eichenfässern 30% neu, 40% zweite Belgeung, 30% dritte Belegung. 16-18 Moante. 6 Monate Flaschenlagerung.",False
+873,RED,Cabreo Il Borgo  ,Tenute del Cabreo Folonari,,BOTTLE,2017,8800,3190,1,873,"Glas Preis: 14.0
+
+300m.ü.M. Gärung im Stahltank. Mazeration für 15-18 Tage. Ausbau; Assemblage, in franz. Eichenfässern 30% neu, 40% zweite Belgeung, 30% dritte Belegung. 16-18 Moante. 6 Monate Flaschenlagerung.",False
+873,RED,Cabreo Il Borgo  ,Tenute del Cabreo Folonari,,BOTTLE,2020,8800,3190,1,873,"Glas Preis: 14.0
+
+300m.ü.M. Gärung im Stahltank. Mazeration für 15-18 Tage. Ausbau; Assemblage, in franz. Eichenfässern 30% neu, 40% zweite Belgeung, 30% dritte Belegung. 16-18 Moante. 6 Monate Flaschenlagerung.",False
+875,RED,Siepi  ,Marchesi Mazzei,,BOTTLE,2016,23000,7559,1,875,"Glas Preis: 38.0
+
+260m.ü.m. Handlese. Gärung; Mazeration 14 Tage Merlot, 16 Tage Sangiovese.Ausbau; Merlot, 18 Monate in kleinen franz. EichenBarique 225l. Sangiovese, 16 Monate in klienen franz. EichenBarrqiue 225l. 8 Monate Flaschenlagerung.",False
+877,RED,Lucente ,Frescobaldi,,BOTTLE,2020,7800,2390,1,877,"Glas Preis: 12.0
+
+",False
+881,RED,Saffredi ,Le Pupille,,BOTTLE,2021,16900,7690,1,881,"Glas Preis: 28.0
+
+",False
+887,RED,Petra ,Petra,,BOTTLE,2020,9500,3450,2,887,"Glas Preis: 15.0
+
+Gärung; natürlich im Holz. Ausbau; in franz. Barrique(leichte Tostatur, kleiner teil sind neu) mit BSA für 18 Monate. Einige Monate Flaschenlagerung.",False
+888,RED,Le Difese ,Tenuta San Guido,,BOTTLE,2011,4900,1430,1,888,"Glas Preis: 8.0
+
+Gärung; im Stahltank. Mazeration für 12-14 Tage Cabernet sauvignon, 15-18 Tage Sangiovese. Ausbau; 12 Monate in franz. EichenBarrique und ein kleiner Teil in amerikanischen Barrique.",False
+889,RED,Guidalberto  ,Tenuta San Guido,,BOTTLE,2022,11500,4170,1,889,"Glas Preis: 19.0
+
+Gärung",False
+891,RED,Flaccianello Bio  ,,,BOTTLE,2019,21800,9900,2,891,"Glas Preis: 36.0
+
+",False
+896,RED,Fidenzio  ,Podere San Luigi,,BOTTLE,2009,9800,3564,2,896,"Glas Preis: 16.0
+
+",False
+898,RED,Vigna d´Alceo  ,Castello di Rampolla,,BOTTLE,2004,24300,11040,1,898,"Glas Preis: 40.0
+
+380m.ü.M. Gärung; 7 Tage Fermentation. Mazeration auf der Schale 30 Tage. BSA. Ausbau; 14-16 Monate in Barrique 225l, Tonneau 500l. 24 Monate Flaschenlagerung.",False
+899,RED,La Ricolma ,San Giusto a Rentennano,,BOTTLE,2018,12100,4396,1,899,"Glas Preis: 20.0
+
+Gärung",False
+908,RED,Brunello di Montalcino Castelgiocondo ,Frescobaldi,,BOTTLE,2012,9800,3550,1,908,"Glas Preis: 16.0
+
+250-450m.ü.M. Handlese. Gärung",False
+908,RED,Brunello di Montalcino Castelgiocondo ,Frescobaldi,,BOTTLE,2019,9800,3550,1,908,"Glas Preis: 16.0
+
+250-450m.ü.M. Handlese. Gärung",False
+908,RED,Brunello di Montalcino Castelgiocondo ,Frescobaldi,,BOTTLE,2016,9800,3550,1,908,"Glas Preis: 16.0
+
+250-450m.ü.M. Handlese. Gärung",False
+909,RED,Brunello di Montalcino Il Divasco  ,La Rasina,,BOTTLE,2012,11700,5300,1,909,"Glas Preis: 19.0
+
+Gärung; Mazeration auf der Schale für 15 Tage im Stahl. Ausbau; 1 Jahr im kleinen Holzfass, weitere 12 Monate in grossen Holzfässern.. 15 Monate Flaschenlagerung. ",False
+913,RED,Brunello di Montalcino ,Pietroso,,BOTTLE,2017,9700,3000,2,913,"Glas Preis: 16.0
+
+",False
+919,RED,Rosso di Montalcino  ,Pian dell'Orino,,BOTTLE,2016,9900,3600,2,919,"Glas Preis: 16.0
+
+Gärung",False
+923,RED,Morellino di Scansano  ,Podere 414,,BOTTLE,2011,3100,689,1,923,"Glas Preis: 5.0
+
+Gärung",False
+924,RED,Morellino Poggiargentiera ,Capatosta,,BOTTLE,2011,5800,1730,1,924,"Glas Preis: 9.0
+
+",False
+933,RED,Barbaresco Rabaja  ,Bruno Rocca,,BOTTLE,2019,14500,6597,2,933,"Glas Preis: 24.0
+
+BIO. Gärung, Klatmazeration, 3 Wochen fermentation, spontanvergärung. Ausbau; in 20% neuen und 80% gebrauchten Barrique für 14 - 18 Monate.",False
+942,RED,Barbera d'Asti Bricco dell'Uccellone ,Braida,,BOTTLE,2014,9200,3350,1,942,"Glas Preis: 15.0
+
+Gärung; Mazeration auf der Schale für 20 tage. Ausbau; 12 Moante im EichenHolzfass 225l, 12 Monate Flaschenlagerung.",False
+943,RED,Barbera d'Asti Ca di Pian  ,La Spinetta,,BOTTLE,2017,4700,1362,1,943,"Glas Preis: 7.0
+
+300m.ü.M. Gärung; 7-8 Tage. BSA im Holz. Ausbau; 12 Monate in franz. Barrique ( mittlere Tostatur). 6 Monate im Stahl. 12 Monate Flaschenlagerung. Keine Schönung, Filtration",False
+943,RED,Barbera d'Asti Ca di Pian  ,La Spinetta,,BOTTLE,2019,4700,1362,1,943,"Glas Preis: 7.0
+
+300m.ü.M. Gärung; 7-8 Tage. BSA im Holz. Ausbau; 12 Monate in franz. Barrique ( mittlere Tostatur). 6 Monate im Stahl. 12 Monate Flaschenlagerung. Keine Schönung, Filtration",False
+948,RED,Barbera d'Alba Gepin ,Rocca Albino,,BOTTLE,2016,5000,1450,1,948,"Glas Preis: 8.0
+
+240m.ü.M. Ausbau; 14 Monate 80% in deutschen & österreichischen Eichenholz, 20% in franz. Barrique",False
+948,RED,Barbera d'Alba Gepin ,Rocca Albino,,BOTTLE,2017,5000,1450,1,948,"Glas Preis: 8.0
+
+240m.ü.M. Ausbau; 14 Monate 80% in deutschen & österreichischen Eichenholz, 20% in franz. Barrique",False
+962,RED,Barolo Sori Ginestra  ,Conterno Fantino,,BOTTLE,2012,12900,5875,2,962,"Glas Preis: 21.0
+
+340-360m.ü.M. Handlese. Gärung; Mazeration auf der Schale für 8-15 Tage im Stahltank. Ausbau; 24 Monate in franz. Barrique, 12 Monate Flaschenlagerung.",False
+965,RED,Barolo Romirasco  ,Conterno Aldo,,BOTTLE,2005,36600,16655,2,965,"Glas Preis: 61.0
+
+Gärung",False
+967,RED,Arte ,Clerico Domenico,,BOTTLE,2014,6500,1950,2,967,"Glas Preis: 10.0
+
+Barbera,Gärung im Rotortank für 10-12 Tage. Nebbiolo für 12-14 Tage. Ausbau; 16-18 Monate in neuen franz. Barrique.",False
+969,RED,Dolcetto Papá Celso  ,Marziano Abbona,,BOTTLE,2014,3800,940,1,969,"Glas Preis: 6.0
+
+Gärung; Fermentation 5-7 Tage im Stahl. Ausbau; 10 Monate im Stahl, 2 Monate Flaschenlagerung.",False
+973,RED,Monprà ,Conterno Fantino,,BOTTLE,2020,7200,2218,2,973,"Glas Preis: 12.0
+
+Gärung",False
+977,RED,Montepulciano d´Abruzzo  ,Villa Gemma Masciarelli,,BOTTLE,2018,12400,4500,1,977,"Glas Preis: 20.0
+
+400m.ü.mM. ",False
+986,RED,Sagrantino di Montefalco BIO ,Di Filippo,,BOTTLE,2019,7000,2120,2,986,"Glas Preis: 11.0
+
+Gärung; traditionell, verlängert. Ausbau; 18-24 Monate in Barrique & Tonneau.",False
+988,RED,Montefalco 25 Anni  ,Arnaldo Caprai,,BOTTLE,2010,0,5625,1,988,"Glas Preis: 124.0
+
+20",False
+1000,RED,Montiano  ,Cotarella,,BOTTLE,2018,11000,3990,1,1000,"Glas Preis: 18.0
+
+300m.ü.M. Gärung; Mazeration auf der Schale für 15 Tage im Stahl, BSA im Barrique. Ausbau; 12 Monate in franz. Barrique.",False
+1006,RED,Don Luigi  ,Di Majo Norante,,BOTTLE,2011,6100,1848,1,1006,"Glas Preis: 10.0
+
+100m.ü.M. Gärung; traditionell, Mazeration auf der Schale für 1 Monat, BSA. Ausbau; in neuen Barrique für 12 Monate. 6 Monate Flaschenlagerung.",False
+1024,RED,La Firma  ,Cantine del Notaio,,BOTTLE,2011,8300,2570,1,1024,"Glas Preis: 13.0
+
+Handlese. Gärung; Mazeration 20 Tage. Ausbau; 12 Moante in  Holz unf Tonneau, (in einer Grotte von Fulkangestein). 1 Jahr Flaschenlagerung.",False
+1036,RED,Turriga  ,Argiolas,,BOTTLE,2019,16600,7523,1,1036,"Glas Preis: 27.0
+
+230m.ü.M. Handlese. Gärung",False
+1037,RED,Terre Brune Carignano del Sulcis Superiore ,Santadi,,BOTTLE,2019,10000,3640,2,1037,"Glas Preis: 16.0
+
+Handlese. Gärung",False
+1043,RED,Tancredi  ,Donnafugata,,BOTTLE,2013,5900,1750,1,1043,"Glas Preis: 9.0
+
+200-600m.ü.M. Gärung; Fermentation im Stahl mit Mazeration auf der Schale für 12 Tage. Ausbau; mit BSA, 14 Monate in franz.Barrique und Tonneau (neu und zweite Belegung). 24 Moante Flaschenlagerung.",False
+1043,RED,Tancredi  ,Donnafugata,,BOTTLE,2009,5900,1750,1,1043,"Glas Preis: 9.0
+
+200-600m.ü.M. Gärung; Fermentation im Stahl mit Mazeration auf der Schale für 12 Tage. Ausbau; mit BSA, 14 Monate in franz.Barrique und Tonneau (neu und zweite Belegung). 24 Moante Flaschenlagerung.",False
+1046,RED,Mille e una Notte  ,Donnafugata,,BOTTLE,2019,11900,4310,1,1046,"Glas Preis: 19.0
+
+200-600m.ü.M. Gärung; im Stahl, Mazeration auf der Schale für 12 Tage. Ausbau; 15-16 Monate in neuen franz. Barrique. 30 Monate Flaschenlagerung.",False
+1056,RED,"Bourgogne ""Cuvée Gravel""  ",C&C Maréchal,,BOTTLE,2017,7500,2290,6,1056,"Glas Preis: 12.0
+
+Handlese. Gärung",False
+1067,RED,"Nuits-St.-Georges ""Les Charmottes"" ",Chicotot,,BOTTLE,2018,9900,3600,3,1067,"Glas Preis: 16.0
+
+",False
+1070,RED,"Pommard 1er Cru ""Grand Clos des Epenots"" ",De Courcel,,BOTTLE,2019,21800,9900,3,1070,"Glas Preis: 36.0
+
+seit mehr als 400 Jahren im Familienbesitz.",False
+1072,RED,Vosne Romanée Les Souchots 1erCru ,Jean-Marc Millot,,BOTTLE,2021,35200,16000,1,1072,"Glas Preis: 58.0
+
+",False
+1091,RED,Côte-Rôtie  ,Terres Rôties,,BOTTLE,2010,9500,3450,3,1091,"Glas Preis: 15.0
+
+Seit 3 Generationen der Familie Guigal.",False
+1092,RED,"Châteauneuf du Pape"" La Crau 2010"" ",Le Vieux Télégraphe,,BOTTLE,2020,12000,4700,3,1092,"Glas Preis: 20.0
+
+180-325m.ü.M.",False
+1099,RED,Pinot Noir Kellerei Girlan ,Kellerei Girlan,,BOTTLE,2020,2900,625,1,1099,"Glas Preis: 4.0
+
+Handlese. Gärung; im Stahl, BSA. Ausbau; 15 Monate in kleinen & grossen Holzfässern. 6 Monate Flaschenlagerung.",False
+1101,RED,St. Magdalener ,Rottensteiner,,BOTTLE,2021,2100,420,1,1101,"Glas Preis: 3.0
+
+400-500m.ü.M. ",False
+1106,RED,Cabernet Istrice  ,Elena Walch,,BOTTLE,2020,4200,1080,1,1106,"Glas Preis: 7.0
+
+Gärung",False
+1106,RED,Cabernet Istrice  ,Elena Walch,,BOTTLE,2022,4200,1080,1,1106,"Glas Preis: 7.0
+
+Gärung",False
+1110,RED,Barolo Sori Ginestra  ,Conterno Fantino,,BOTTLE,2018,8700,3150,2,1110,"Glas Preis: 14.0
+
+Ausbau im Holz und Barrique.",False
+1115,RED,Ornellaia  ,Tenuta dell'Ornellaia,,BOTTLE,2016,19200,8712,1,1115,"Glas Preis: 31.0
+
+Handlese. Gärung; 1 Woche im Stahltank, Maischestandzeit 10-15 Tage. BSA im Eichenbarrqiue 70% neu. 18 Monate in Barrqiue, nach 12 Monaten wird dass Cuvee gemacht.",False
+1119,RED,Cabreo Il Borgo  ,Tenute di Cabreo Folonari,,BOTTLE,2016,5300,1560,2,1119,"Glas Preis: 8.0
+
+Gärung; Mazeration auf der Schale 10-18 Tage. Fermentaion mit BSA. Ausbau; Cuvee, in franz. EichenBarrqiue ausgebaut 30%neu, 16-18 Moante. 6 Monate Flaschenlagerung.",False
+1172,,Gewürztraminer Terminum  ,Kellerei Tramin,,BOTTLE,2020,8100,2930,3,1172,"Glas Preis: 13.0
+
+2012 = 400-500m.ü.M. Rebalter 15-25 Jahre. Lese Ende Dezember. Edelfäule. Handlese. 12h Mazeration. Langsame fermentation von 6-9 Monaten. 7-10 Monate im Barrique. 3 Monate in der Flasche.",False
+1172,,Gewürztraminer Terminum  ,Kellerei Tramin,,BOTTLE,2022,8100,2930,11,1172,"Glas Preis: 13.0
+
+2012 = 400-500m.ü.M. Rebalter 15-25 Jahre. Lese Ende Dezember. Edelfäule. Handlese. 12h Mazeration. Langsame fermentation von 6-9 Monaten. 7-10 Monate im Barrique. 3 Monate in der Flasche.",False
+1173,,Gewürztraminer Spätlese “Roen”  ,Kellerei Tramin,,BOTTLE,2022,5900,1760,9,1173,"Glas Preis: 9.0
+
+2014= 400-500m.ü.M. Lese Mitte Oktober. Die Trauben werden getrocknet bis Ende November, Anfang Dezember. Gärung findet in kleinen franz. Brrique statt. ",False
+1179,,Rosenmuskateller  ,Muri Gries,,BOTTLE,2022,5800,1730,8,1179,"Glas Preis: 9.0
+
+270m.ü.M. Spätlese. Gärung; 8 Tage im Edelstahl. Ausbau; 12 Monate 50% in kleinen Holzfässern, 50% im Edelstahlfass ausgebaut.",False
+1183,,Kerner Passito Praepositus ,,,BOTTLE,2020,700,0,6,1183,"Glas Preis: 1.0
+
+",False
+1209,,Ben Ryé passito  ,Donnafugata,,BOTTLE,2019,6700,2046,3,1209,"Glas Preis: 11.0
+
+20-400m.ü.M. Handlese. Gärung im Stahl. 7 Monate im Stahltank. 12 Monate Flaschenlagerung.",False

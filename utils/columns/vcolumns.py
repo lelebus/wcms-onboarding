@@ -8,24 +8,28 @@ class VColumns:
 
     @classmethod
     def read_columns(cls):
+
         """Read columns from files"""
         # print("Reading columns...")
         cls.col_mapping = {}
-        column_folder = os.path.join(os.environ["PROJECT_ROOT"], "utils", "columns")
-        with open(os.path.join(column_folder, "v2.json")) as f:
+        curdir = os.path.dirname(os.path.abspath(__file__))
+        with open(os.path.join(curdir, "v2.json")) as f:
             cls.col_mapping["v2"] = json.load(f)
-        with open(os.path.join(column_folder, "v3.json")) as f:
+        with open(os.path.join(curdir, "v3.json")) as f:
             cls.col_mapping["v3"] = json.load(f)
-        with open(os.path.join(column_folder, "v5.json")) as f:
+        with open(os.path.join(curdir, "v5.json")) as f:
             cls.col_mapping["v5"] = json.load(f)
 
     @classmethod
     def get_v(cls, v, get_types) -> Union[dict, list]:
+        """Get columns for a specific version"""
+
         if not hasattr(cls, "col_mapping"):
             cls.read_columns()
 
         if get_types:
             type_mapping = {
+                "bool": bool,
                 "str": str,
                 "int": int,
                 "float": float,

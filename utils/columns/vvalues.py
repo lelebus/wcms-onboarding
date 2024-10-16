@@ -56,4 +56,4 @@ class Size:
 class Type:
     @staticmethod
     def get():
-        return ["RED", "WHITE", "SPARKLING", "ROSE", "DESSERT"]
+        return ["RED", "WHITE", "SPARKLING", "SPARKLING_ROSE", "ROSE", "DESSERT"]

@@ -10,7 +10,7 @@ default_values = {
 
 
 # TODO: Explain clearly the purpose of this function and rename it accordingly
-def fill_empty(df, columns):
+def fill_empty(df, columns, reset_columns=False):
     df = df.copy()
     for column in columns:
         if column not in df.columns:
@@ -23,7 +23,12 @@ def fill_empty(df, columns):
             df[column] = df[column].astype(VColumns.all_columns(get_types=True)[column])
         except KeyError:
             pass
-    return df[columns]
+
+
+    if reset_columns:
+        return df[columns]
+    
+    return df
 
 
 # TODO: Explain clearly the purpose of this function and rename it accordingly

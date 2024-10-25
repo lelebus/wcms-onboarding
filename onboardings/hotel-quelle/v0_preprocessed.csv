@@ -1,0 +1,506 @@
+type,external_id,name,size,price,vintage,winery
+WHITE,1., Cuvee Trias ,"0,75 lt.","€ 49,00",2020, Niedrist
+WHITE,2., Terlaner Sauvignon Porphyr&Kalk ,"0,75 lt.","€ 49,00",2021, Niedrist
+WHITE,5., Pinot Grigio Vigna Kastel Ringberg ,"0,75 lt.","€ 49,00",2022, Elena Walch
+WHITE,6., Flora Cuvee Bianco Riserva ,"0,75 lt.","€ 49,00",2020, KG. Girlan
+WHITE,7., Pinot Bianco Platt & Riegl ,"0,75 lt.","€ 35,00",2022, KG. Girlan
+WHITE,8., Fontanasanta Nosiola (Anfora) ,"0,75 lt.","€ 55,00",2021, Foradori Bio
+WHITE,9., Furmint Dry Mandolas ,"0,75 lt.","€ 45,00",2018, Oremus
+WHITE,11., Rkatsiteli (Anfora) ,"0,75 lt.","€ 65,00",2022, Tsarapi
+WHITE,12., Lugana Le Crete ,"0,75 lt.","€ 39,00",2023, Otella 
+WHITE,13., Heritage Chilar (Anfora),"0,75 lt.","€ 115,00",2020, Zorah 
+RED,20., Radici Taurasi Ris. ,"0,75 lt.","€ 75,00",2016, Mastroberardino
+RED,21., Vernatsch Gschleier Alte Reben ,"0,75 lt.","€ 45,00",2021, KG. Girlan
+RED,22., Primitivo ES ,"0,75 lt.","€ 89,00",2022, Gianfranco Fino
+RED,23., Pinot Noir Ris. ,"0,75 lt.","€ 65,00",2019, Niedriest
+RED,24., Fervore ,"0,75 lt.","€ 45,00",2017, Terre di Balbia Bio
+RED,25., Pinot Noir Hausmannhof ,"0,75 lt.","€ 49,00",2020, Haderburg Bio
+RED,26., Cuvee Rot ,"0,75 lt.","€ 49,00",2019, Baron Widmann
+RED,27., Linticlarus Cuvee ,"0,75 lt.","€ 76,00",2020, Tiefenbrunner
+RED,29., Merlot Brenntal ,"0,75 lt.","€ 75,00",2020, Kellerei Kurtatsch 
+RED,30., Syrah La Monaca ,"0,75 lt.","€ 45,00",2020, Sallier de La Tour
+RED,31., Pinot Noir ,"0,75 lt.","€ 75,00",2020, Palliser
+RED,32.,  Valpolicella Ripasso Campi Magri ,"0,75 lt.","€ 49,00",2019," Corte Sant Alda, Bio"
+RED,33., Teroldego Sgarzon (Anfora) ,"0,75 lt.","€ 55,00",2021," Foradori, Bio"
+RED,34., Heritage Sireni (Anfora) ,"0,75 lt.","€      115,00",2019, Zorah     
+DESSERT,41., Essenzia ,"0,375 lt.","€ 55,00",2019, Pojer & Sandri
+DESSERT,42., Recioto di Valpolicella Le Tordare ,"0,500 lt.","€ 55,00",2012, Cà la Bionda
+DESSERT,43., Banyuls Leon Parce ,"0,500 lt.","€ 55,00",2019, Dom. de la Rectorie
+,101.,  Arunda Brut,"0,375 lt.","€ 39,00",,
+,100., Praeclarus Brut,"0,75 lt.","€ 45,00",,
+,102., Haderburg Pas Dosé ,"0,75 lt.","€ 65,00 / 12,00",,
+,103., Haderburg Pas Dosé,"1,50 lt.","€ 120,00",,
+,104.,  Hausmannhof Riserva Brut ,"0,75 lt.","€ 95,00",2011, Haderburg
+,105., Valdobbiadene DOCG Extra Dry Coste Ponente Col Vetoraz,"0,75 lt.","€ 39,00",,
+,109., Valdobbiadene DOCG Brut Fagher Le Colture,"0,75 lt.","€ 39,00",,
+,106., Valdobbiadene DOCG Brut Millesimato Guia Foss Marai,"0,75 lt.","€ 39,00 / 6,50",,
+,107., Cartizze DOCG Dry Bortolin,"0,75 lt.","€ 45,00",,
+,108., Prosecco Rose Brut DOC Le Colture,"0,75 lt.","€ 39,00",,
+,111.,"  Franciacorta DOCG Extra Brut/ Brut Francesco I.,Uberti","0,75 lt.","€ 65,00",,
+,112.," Franciacorta DOCG Brut Saten, Bosio","0,75 lt.","€ 65,00 / 12,00",,
+,113.,"  Franciacorta DOCG Extra Brut, Comari del Salem,Uberti","0,75 lt.","€ 75,00",,
+,114., Franciacorta DOCG Riserva Brut Annamaria Clementi ,"0,75 lt.","€ 215,00",2015, Ca’ del Bosco
+,159., Cabochon Fuori Serie 023 Monterossa,"0,75 lt.","€ 95,00 ",,
+,120., Perle Brut Millesimato ,"0,75 lt.","€ 69,00 / 12,00",2017, Ferrari
+,121., Trento DOC Brut Riserva Methius ,"0,75 lt.","€ 75,00",2017, Dorigati
+,122., Trento DOC Brut Riserva Methius ,"1,50 lt.","€ 135,00",2017, Dorigati
+,124., Blauwal Riserva Extra Brut ,"0,75 lt.","€ 75,00",2015, Cesconi
+,125., Trento DOC Giulio Ferrari Riserva Del Fondatore Brut ,"0,75 lt.","€ 250,00",2008, Ferrari
+,99., Trento DOC Giulio Ferrari Riserva Del Fondatore Rose Brut ,"0,75 lt.","€ 400,00",2006, Ferrari
+,127., Arunda Excellor Rose Brut,"0,75 lt.","€ 65,00 ",,
+,128., Rose Brut Pojer & Sandri,"0,75 lt.","€ 55,00",,
+,110., Franciacorta Rose Brut Uberti,"0,75 lt.","€ 65,00",,
+,129., Blanquette de Limoux Brut Tradition Antech ,"0,75 lt.","€ 55,00 / 12,00",,
+,130., Guy Larmandier Premier Cru Brut,"0,375 lt.","€ 49,00",,
+,160., Louis Roederer Brut Collection246 ,"0,375 lt.","€ 65,00",,
+,131., Louis Roederer Brut Collection 244,"0,75 lt.","€ 115,00",,
+,132., Louis Roederer Blanc de Blancs Brut 2016,"0,75 lt.","€ 170,00",,
+,133., Louis Roederer Philippe Starck Brut Nature Vintage 2015,"0,75 lt.","€ 170,00",,
+,198., Pierre Peters Blanc de Blancs Grand Cru Extra Brut,"0,75 lt.","€ 150,00",,
+,199., Deutz Classic Brut,"0,75 lt.","€ 95,00",,
+,151., Cuvee William Deutz Brut 2013,"0,75 lt.","€ 325,00",,
+,134., Bollinger Special Cuvee Brut,"0,75 lt.","€ 115,00",,
+,135., Bollinger Special Cuvee Brut Magnum/Deutz Brut Classic Magnum,"1,50 lt.","€ 230,00",,
+,137., Bollinger La Grande Annee Brut 2014,"0,75 lt.","€ 240,00",,
+,, Bollinger B 13 Brut,"0,75 lt.","€ 210,00",,
+,, Bollinger PN VZ 16 /AYC 18 Brut,"0,75 lt.","€ 180,00",,
+,, Bollinger RD ,"0,75 lt.","€ 450,00",2007,/08 Extra Brut
+,138., Pol Roger Brut ,"0,75 lt.","€ 105,00 / 16,00 ",,
+,139., Teophile Rose Brut,"0,75 lt.","€ 85,00 / 16,00",,
+,140., Gosset Grand Rose Brut,"0,75 lt.","€ 130,00",,
+,157., Dom Perigon Rose Brut Vintage 2006,"0,75 lt.","€ 600,00",,
+,159., Laurent Perrier Cuvee Rose Brut,"0,75 lt.","€ 140,00",,
+,156., Jacquesson745/746 Extra Brut,"0,75 lt.","€ 130,00",,
+,164., V. C. P. La Grande Dame Rose Brut ,"0,75 lt.","€ 450,00",2006, 
+,136., Pol Roger Cuvee Sir Winston Churchill ,"0,75 lt.","€ 450,00",2013,/15
+,142., Dom Perignon Cuvée Brut Vintage 2013,"0,75 lt.","€ 450,00",,
+,143., Dom Perignon Cuvée Brut P2 Vintage 2000,"0,75 lt.","€ 750,00",,
+,144., V. C. P. La Grande Dame Brut 2006,"0,75 lt.","€ 300,00",,
+,145., Krug Grande Cuvée Brut,"0,75 lt.","€ 370,00",,
+,163., Krug Vintage ,"0,75 lt.","€ 600,00",2006, Brut
+,146., Roederer Cristal Brut Millesime  ,"0,75 lt.","€ 450,00",2000,/2008
+,, Roederer Cristal Brut Millesime ,"1,5 lt.","€ 1150,00",2012, Magnum
+,147., Dom Ruinart Blanc de Blancs Brut Millesime 2007,"0,75 lt.","€ 450,00",,
+,148., Pol Roger Blanc de Blancs Brut Millesime 2015,"0,75 lt.","€ 175,00",,
+,196., Amor de Deutz Blanc de Blancs Brut Millesime 2011,"0,75 lt.","€ 350,00",,
+,149., Nicolas Feuillatte BdN Grand Cru Brut Millesime 2014,"0,75 lt.","€ 105,00",,
+,150., Mailly Blanc de Noirs Brut,"0,75 lt.","€ 95,00",,
+,152., Guy Larmandier Cramant Blanc de Blancs Grand Cru ,"1,50 lt.","€ 190,00",,
+,153., Brut Jeroboam,"3,00 lt.","€ 380,00",,
+,154., Bruno Paillard Nec Plus Ultra ,"0,75 lt.","€ 500,00",2002, Brut
+,155., Salon Cuvee S Blanc de Blancs Le Mesnil ,"0,75 lt.","€ 1400,00",2012, Brut
+,200., Gewürztraminer Vigna Kolbenhof ,"1,5 lt.","€ 130,00",2021, Hofstätter
+,202., Sauvignon Lafoa ,"1,5 lt.","€ 110,00",2021, Schreckbichl-Colterenzio
+,203., Sauvignon Voglar ,"1,5 lt.","€ 95,00",2018, Dipoli 
+,205., Terlaner Weissburgunder Vorberg ,"1,5 lt.","€ 110,00",2020, KG.Terlan
+,206., Vinschgauer Riesling ,"1,5 lt.","€ 95,00",2021," Falkenstein, Pratzner"
+,207., Vintage Tunina ,"1,5 lt.","€ 190,00",2021, Jermann
+,208., Chardonnay Formigar ,"3,0 lt.","€ 250,00",2010, Schreckbichl-Colterenzio
+,209., Chardonnay Lafoa ,"1,5 lt.","€ 110,00",2020, Schreckbichl-Colterenzio
+,211., Cabernet Löwengang ,"1,5 lt.","€ 250,00",2007, Alois Lageder
+,210., Cabernet Löwengang ,"3,0 lt.","€ 500,00",2007, Alois Lageder
+,212., Cabernet Sauvignon Ris. Mumelter ,"1,5 lt.","€ 125,00",2020, KG. Bozen
+,213., Cabernet Sauvignon Lafoa ,"1,5 lt.","€ 210,00",2005, Schreckbichl-Colterenzio
+,214., Cabernet Sauvignon Lafoa ,"3,0 lt.","€ 400,00",2005, Schreckbichl-Colterenzio
+,215., Lagrein Riserva ,"1,5 lt.","€ 115,00",2018, Abtei Muri
+,216., Lagrein Riserva Prestige ,"1,5 lt.","€ 115,00",2018, KG. Bozen
+,217., Lagrein Riserva Taber ,"1,5 lt.","€ 150,00",2016, KG. Bozen
+,224., Lagrein Ris. Vigna Klosteranger ,"1,5 lt.","€ 300,00",2014, Abtei Muri
+,218., Pinot Nero Schweitzer ,"1,5 lt.","€ 150,00",2009, Franz Haas
+,219., Pinot Nero Ris. Trattmann ,"1,5 lt.","€ 140,00",2016, KG. Girlan
+,220., Pinot Nero Mazzon ,"1,5 lt.","€ 115,00",2015, Gottardi
+,221.,  Pinot Nero Ris. Hausmannhof ,"1,5 lt.","€ 159,00",2015, Haderburg
+,222., Pinot Nero Ris. Vigna S.Urbano ,"1,5 lt.","€ 215,00",2007,/10 Hofstätter
+,243., Pinot Nero Ris.680 ,"1,5 lt.","€ 119,00",2015, Maso Thaler
+,242., Merlot Ris. Praun ,"1,5 lt.","€ 115,00",2020, KG Bozen
+,223., Kermesse ,"1,5 lt.","€ 170,00",2014, Elena Walch
+,243., Cornelius Rosso ,"1,5 lt.","€ 120,00",2016, Schreckbichl-Colterenzio 
+,225., Granato ,"1,5 lt.","€ 129,00",2003, Foradori
+,226., San Leonardo ,"1,5 lt.","€ 210,00",2015, San Leonardo
+,227., Iugum ,"3,0 lt.","€ 300,00",2011, Dipoli
+,, Iugum ,"1,5 lt.","€ 150,00",2015, Dipoli
+,228., Cepparello ,"1,5 lt.","€ 210,00",2001, Isole & Olena
+,229., Brunello di Montalcino ,"1,5 lt.","€ 130,00",2015, Collosorbo
+,230., Brunello di Montalcino Riserva ,"1,5 lt.","€ 320,00",2007, Capanna
+,231., Mormoreto ,"1,5 lt.","€ 170,00",2012,/15 Frescobaldi
+,245., Chianti Cl. Gran Selezione Rialzi ,"1,5 lt.","€ 130,00",2015, Perano
+,232., Barolo Prapo ,"1,5 lt.","€ 350,00",1997, Ceretto
+,233., Barolo Prapo ,"3,0 lt.","€ 700,00",1996, Ceretto
+,234., Cor Römigberg ,"1,5 lt.","€ 250,00",2015, Alois Lageder
+,235., Cor Römigberg ,"3,0 lt.","€ 500,00",2003, Alois Lageder
+,236., Bricco dell’Uccellone ,"3,0 lt.","€ 290,00",1997, Braida
+,237., Amarone della Valpolicella Ravazzol ,"1,5 lt.","€ 210,00",2016, Ca la Bionda
+,199.,  Amarone della Valpolicella ,"1,5 lt.","€ 285,00",2012, Bertani
+,238.,  Amarone della Valpolicella ,"3,0 lt.","€ 500,00",2006, Bertani
+,239., Cote Rotie ,"1,5 lt.","€ 140,00",2010, Bonnefond
+,240., Château Margaux ,"1,5 lt.","€ 2500,00",1991, 1-er Grand Cru Classe
+,241., Château Latour ,"3,0 lt.","€ 3200,00",1991, Pauillac Grand Cru Classe
+,246., Château Latour ,"1,5 lt.","€ 1600,00",1991, Pauillac Grand Cru Classe
+WHITE,401., Eisacktaler Sylvaner ,"0,75 lt.","€ 45,00",2022," Kuenhof, Pliger"
+WHITE,402., Eisacktaler Sylvaner Praepositus ,"0,75 lt.","€ 45,00",2022, Abtei Neustift
+WHITE,403., Eisacktaler Sylvaner Alte Reben ,"0,75 lt.","€ 49,00",2019, Pacherhof
+WHITE,404., Eisacktaler Sylvaner Lahner ,"0,75 lt.","€ 49,00",2020, Taschlerhof
+WHITE,399., Eisacktaler Grüner Veltliner ,"0,75 lt.","€ 39,00",2022," Hoandlhof, Nössing"
+WHITE,398., Eisacktaler Veltliner ,"0,75 lt.","€ 45,00",2022," Kuenhof, Pliger"
+WHITE,397., Eisacktaler Grüner Veltliner ,"0,75 lt.","€ 49,00",2019, Dorfmann
+WHITE,405., Eisacktaler Kerner ,"0,75 lt.","€ 39,00/6,50",2022," Hoandlhof, Nössing                                           "
+WHITE,406.,  Eisacktaler Kerner Aristos ,"0,75 lt.","€ 45,00",2022, Eisacktaler Kellerei
+WHITE,407., Gewürztraminer Selida ,"0,75 lt.","€ 39,00/6,50",2023, KG Tramin
+WHITE,408., Eisacktaler Gewürztraminer ,"0,75 lt.","€ 40,00",2022, Taschlerhof
+WHITE,409., Vigna Kolbenhof ,"0,75 lt.","€ 65,00",2021, Hofstätter
+WHITE,410., Nußbaumer ,"0,75 lt.","€ 60,00",2022, KG. Tramin
+WHITE,411., Lyra ,"0,75 lt.","€ 40,00",2022, KG. Nals-Margreid 
+WHITE,412., Vigna Kastelaz ,"0,75 lt.","€ 60,00",2022, Elena Walch
+WHITE,413., Argentum Bonum Kastelaz ,"0,75 lt.","€ 130,00",2014, Elena Walch
+WHITE,462., Epokale ,"0,75 lt.","€ 250,00",2015," Kellerei Tramin (Süss, Dolce,Sweet)"
+WHITE,466., Pirschrait ,"0,75 lt.","€ 155,00",2007, Weingut Hofstätter
+WHITE,53., Riesling ,"0,75 lt.","€ 45,00",2021," Falkenstein, Pratzner"
+WHITE,54., Riesling Kaiton ,"0,75 lt.","€ 45,00",2021," Kuenhof, Pliger"
+WHITE,56., Riesling Geieregg ,"0,75 lt.","€ 50,00",2022," Himmelreichhof, Markus Fliri"
+WHITE,57., Anadouron ,"0,75 lt.","€ 70,00",2018," Falkenstein, Pratzner"
+WHITE,414., Cora ,"0,75 lt.","€ 35,00 / 6,00",2022, Schreckbichl-Colterenzio
+WHITE,415., Moriz ,"0,75 lt.","€ 37,00",2023, KG. Tramin
+WHITE,98., Limes ,"0,75 lt.","€ 55,00",2020, Niedrist
+WHITE,416., Riserva Kalkberg ,"0,75 lt.","€ 39,00",2021, Kellerei St. Pauls
+WHITE,417., Riserva Vorberg ,"0,75 lt.","€ 59,00",2021, Kellerei Terlan
+WHITE,418., Riserva Sanctissimus ,"0,75 lt.","€ 115,00",2016,/18 KG. St. Pauls 
+WHITE,419., Pepi ,"0,75 lt.","€ 39,00 / 6,50",2023, KG. Tramin
+WHITE,420., Turmhof ,"0,75 lt.","€ 40,00",2022, Tiefenbrunner
+WHITE,421., Voglar ,"0,75 lt.","€ 50,00",2020, Dipoli
+WHITE,422., St. Valentin ,"0,75 lt.","€ 55,00",2022, KG. St. Michael
+WHITE,424., Lafoa ,"0,75 lt.","€ 55,00",2022, Schreckbichl-Colterenzio
+WHITE,427., Vom Kalk ,"0,75 lt.","€ 49,00",2020, Rohregger
+WHITE,425., Quarz ,"0,75 lt.","€ 80,00",2021, Kellerei Terlan
+WHITE,426., Chardonnay Moraine ,"0,75 lt.","€ 55,00 / 9,00",2021, Untermoserhof
+WHITE,428., Cardellino ,"0,75 lt.","€ 45,00",2022, Elena Walch
+WHITE,429., Lafoa ,"0,75 lt.","€ 55,00",2021, Schreckbichl-Colterenzio
+WHITE,430., Riserva Baron Salvadori ,"0,75 lt.","€ 59,00",2019, KG.Nals
+WHITE,459., Riserva Vigna Crivelli ,"0,75 lt.","€ 67,00",2021, Peter Zemmer
+WHITE,431., Löwengang ,"0,75 lt.","€ 100,00",2020, Alois Lageder Bio
+WHITE,461., Somereto ,"0,75 lt.","€ 30,00",2022, Kellerei Andrian
+WHITE,447., Troy ,"0,75 lt.","€ 125,00",2019, Kellerei Tramin
+WHITE,400.,  Riserva Kreuzweg ,"0,75 lt.","€ 140,00",2019, Castelfeder
+WHITE,,  Löwengang INEDITO II (2013-,"0,75 lt.","€ 335,00",2021,) Alois Lageder
+WHITE,432., Moscato Giallo ,"0,75 lt.","€ 39,00",2023, Manincor Bio
+WHITE,436., Pinot Grigio ,"0,75 lt.","€35,00/6,00",2022, Schreckbichl-Colterenzio                                           
+WHITE,433., St. Valentin ,"0,75 lt.","€ 52,00",2020, KG.St. Michael
+WHITE,457., Riserva Vigna Giatl ,"0,75 lt.","€ 50,00",2020, Peter Zemmer
+WHITE,458., Porer ,"0,75 lt.","€ 45,00",2022, Alois Lageder Bio
+WHITE,434., Puiten ,"0,75 lt.","€ 39,00",2022, Schreckbichl-Colterenzio
+WHITE,435., Feldmarschall von Fenner ,"0,75 lt.","€ 95,00",2019, Tiefenbrunner
+WHITE,437., De Vite Bianco ,"0,75 lt.","€ 35,00 / 6,00",2023," Hofstätter (PB, MT, SB, R)"
+WHITE,438., Terlaner Klassisch ,"0,75 lt.","€ 39,00",2023," Kellerei Terlan (PB,CH,SB)"
+WHITE,439., Manna ,"0,75 lt.","€ 50,00",2022," Franz Haas (R, K, SB, CH, GEW)"
+WHITE,440., Sophie ,"0,75 lt.","€ 66,00",2022," Manincor Bio (CH, SB)"
+WHITE,441., Stoan ,"0,75 lt.","€ 55,00",2022," KG. Tramin (CH, SB, PB, GEW)"
+WHITE,442., Grande Cuvee Beyound the Clouds ,"0,75 lt.","€ 99,00 ",2021,"  E. Walch (CH, PB, SB, GEW)"
+WHITE,423., Nova Domus ,"0,75 lt.","€ 75,00",2021," Kellerei Terlan (CH, SB, PB)"
+WHITE,443., Cason Weiss-Bianco ,"0,75 lt.","€ 75,00",2020,"  Alois Lageder Bio (VIO, PG, CH)"
+WHITE,444., LR ,"0,75 lt.","€ 150,00",2018," Schreckbichl-Colterenzio (CH, PB, SB,)"
+WHITE,445., Terlaner I. Grande Cuvee ,"0,75 lt.","€ 350,00 ",2017,"/19 Kellerei Terlan (PB, CH, SB)"
+WHITE,446., Appius ,"0,75 lt.","€ 350,00",2016," KG. St. Michael (PB, CH, PG, SB)"
+WHITE,448., Amos ,"0,75 lt.","€ 50,00",2019," Kellerei Kurtatsch (PB, CH, PG, SB)"
+WHITE,456., NAMA ,"0,75 lt.","€ 180,00",2020," KG. Nals Margreid (CH, PB, SB)"
+,450., Luis Rosé ,"0,75 lt.","€ 45,00",2022, Oberrauch
+,453., La Rose ,"0,75 lt.","€ 45,00",2023, Manincor Bio
+,454., Lagrein Krätzer Spätgelesen ,"0,75 lt.","€ 45,00",2023, Unterganzner
+,451., Cuvee Rosé 448 ,"0,75 lt.","€ 29,00 / 5,00",2023, KG. Girlan
+,455., Rosé 20/26 ,"0,75 lt.","€ 39,00",2023, Elena Walch
+,460., Bardolino Chiaretto Nichesole ,"0,75 lt.","€ 29,00",2023, Corte Gardoni
+,461., Ramato ,"0,75 lt.","€ 29,00",2023, Attems
+RED,501., St. Magdalener Klassisch Hub ,"0,75 lt.","€ 45,00",2022,"  Untermoserhof, Ramoser"
+RED,498., St. Magdalener Klassisch Moar ,"0,75 lt.","€ 40,00",2022, Bozen
+RED,502., St. Magdalener Klassisch ANTHEOS ,"0,75 lt.","€ 46,00",2022, Waldgries
+RED,503., Kalterersee Per Se ,"0,75 lt.","€ 35,00",2022, E. Walch
+RED,497., Kalterersee Vigna Der Keil ,"0,75 lt.","€ 40,00",2023, Manincor Bio
+RED,500., Kalterersee Alte Reben ,"0,75 lt.","€ 45,00",2019, Rohregger
+RED,504., Vernatsch Schickenburg ,"0,75 lt.","€ 35,00",2022, Meran
+RED,505., Riserva Patricia ,"0,75 lt.","€ 39,00 / 6,50",2022, KG. Girlan
+RED,507., Mazzon ,"0,75 lt.","€ 50,00",2019, Gottardi
+RED,506., Riserva Lafoa ,"0,75 lt.","€ 67,00/12,00",2020, Schreckbichl Colterenzio
+RED,508., Riserva Mazon ,"0,75 lt.","€ 69,00",2019, Hofstätter
+RED,509., Blauburgunder ,"0,75 lt.","€ 51,00",2021, Franz Haas 
+RED,511., Pigeno ,"0,75 lt.","€ 48,00",2019, Stroblhof
+RED,512., Ludwig ,"0,75 lt.","€ 69,00",2019, E. Walch
+RED,513., Riserva Trattman ,"0,75 lt.","€ 69,00",2020, KG. Girlan
+RED,499., Riserva Burgum Novum ,"0,75 lt.","€ 60,00",2019, Castelfeder
+RED,514., Riserva Maglen ,"0,75 lt.","€ 65,00",2021, KG. Tramin
+RED,515., Riserva Hausmannhof ,"0,75 lt.","€ 80,00",2018, Haderburg
+RED,516., Riserva Vigna Kofl ,"0,75 lt.","€ 75,00",2021, Zemmer
+RED,517., Blauburgunder Riserva ,"0,75 lt.","€ 68,00",2019, Stroblhof
+RED,518., Mazzon Riserva ,"0,75 lt.","€ 105,00",2015, Gottardi
+RED,519., Mason di Mason ,"0,75 lt.","€ 125,00",2020, Manincor Bio
+RED,520., Riserva Villa Barthenau Vigna S. Urbano ,"0,75 lt.","€ 115,00",2017, J. Hofstätter
+RED,521., Riserva Selection Bruno Gottardi ,"0,75 lt.","€ 190,00",2010, Gottardi
+RED,522., Riserva Vigna Ganger ,"0,75 lt.","€ 195,00",2012,/16 KG. Girlan
+RED,523., Riserva Vigna Roccolo ,"0,75 lt.","€ 290,00",2012,/15/16 Hofstätter
+RED,565., Ponkler ,"0,75 lt.","€ 150,00",2016, Franz Haas
+RED,571., Riserva Wildmonn ,"0,75 lt.","€ 115,00",2020, Wildmonn 
+RED,580., Riserva 680 ,"0,75 lt.","€ 65,00",2015, Maso Thaler 
+RED,524., Prestige Riserva ,"0,75 lt.","€ 49,00",2020, KG. Bozen
+RED,525., Riserva Taber ,"0,75 lt.","€ 79,00",2020, KG. Bozen
+RED,526., Riserva Urban ,"0,75 lt.","€ 65,00",2020, KG. Tramin
+RED,527., Riserva ,"0,75 lt.","€ 55,00",2021," Untermoserhof, Ramoser"
+RED,528., Riserva ,"0,75 lt.","€ 65,00",2021, Abtei Muri 
+RED,530., Riserva Berger Gei ,"0,75 lt.","€ 60,00",2020, Niedriest 
+RED,531., Riserva Porphyr ,"0,75 lt.","€ 89,00",2021, KG. Terlan 
+RED,566., Riserva Furggl ,"0,75 lt.","€ 49,00",2020, Peter Zemmer 
+RED,567., Riserva Mirell ,"0,75 lt.","€ 80,00",2019, Waldgries 
+RED,568., Riserva ,"0,75 lt.","€ 60,00",2020, Glögglhof 
+RED,569., Riserva Klosteranger ,"0,75 lt.","€ 135,00",2016, Abtei Muri 
+RED,573., Riserva Roblinus ,"0,75 lt.","€ 140,00",2017,/18 Waldgries 
+RED,574., Riserva Tor di Lupo ,"0,75 lt.","€ 70,00",2021, Kellerei Andrian 
+RED,532., Riserva Campaner ,"0,75 lt.","€ 39,00 / 6,50",2021, KG. Kaltern
+RED,533., Riserva Mumelter ,"0,75 lt.","€ 59,00",2018, KG. Bozen
+RED,534., Istrice ,"0,75 lt.","€ 50,00",2021, E. Walch
+RED,535., Löwengang Vigneto Storico ,"0,75 lt.","€ 120,00",2018, Alois Lageder Bio
+RED,536., Riserva Vigna Castel Ringberg ,"0,75 lt.","€ 70,00",2018, Elena Walch
+RED,537., Riserva Lafoa ,"0,75 lt.","€ 117,00",2020, Schreckbichl-Colterenzio
+RED,538., Riserva Freienfeld ,"0,75 lt.","€ 95,00",2020, Kellerei Kurtatsch
+RED,500., Riserva Quintessenz ,"0,75 lt.","€ 67,00",2020, KG. Kaltern
+RED,540., Fihl ,"0,75 lt.","€ 42,00",2020, Dipoli
+RED,541., Riserva Vigna Kastelaz ,"0,75 lt.","€ 75,00",2019, E. Walch
+RED,543., MM ,"0,75 lt.","€ 80,00",2015," Alois Lageder, Bio"
+RED,544., Riserva Praun ,"0,75 lt.","€ 55,00",2020, KG. Bozen
+RED,545., Riserva Siebeneich ,"0,75 lt.","€ 49,00 ",2021, Schreckbichl-Colterenzio
+RED,546., Riserva Lona ,"0,75 lt.","€ 99,00",2019, KG. St. Pauls
+RED,539., Riserva Gant ,"0,75 lt.","€ 85,00",2021, KG. Andrian
+RED,531., Merlot ,"0,75 lt.","€ 35,00 / 6,00",2022, Schreckbichl-Colterenzio
+RED,547., Il Conte ,"0,75 lt.","€ 45,00/ 7,50",2022," Manincor Bio (L, M, CS)"
+RED,542., Lehm& Kies ,"0,75 lt.","€ 55,00",2020," Untermoserhof, Ramoser (M,CF)"
+RED,548., Lacus ,"0,75 lt.","€ 85,00",2020," W. Schullian (CF,M)"
+RED,549., Cor Römigberg ,"0,75 lt.","€ 89,00",2015," Alois Lageder Bio (CS, PV)"
+RED,550., Iugum ,"0,75 lt.","€ 75,00",2018," Dipoli (M, CS)"
+RED,551., Grande Cuvee Kermesse ,"0,75 lt.","€ 85,00",2020,"/21 E. Walch (CS, M, L, PV, SY)"
+RED,552., Loam ,"0,75 lt.","€ 75,00",2019," KG. Tramin (CS, M)"
+RED,553., Frauenriegel ,"0,75 lt.","€ 85,00",2019," Dipoli (M, CF)"
+RED,554., Arzio ,"0,75 lt.","€ 79,00",2020," Baron di Pauli (M, CS, CF)"
+RED,555., Brenntal ,"0,75 lt.","€ 115,00",2018," Dipoli (CF,M)"
+RED,556., Cornelius Rosso ,"0,75 lt.","€ 65,00",2020," Schreckbichl-Colterenzio (M, CS)"
+RED,557., Anticus Riserva Baron Salvadori ,"0,75 lt.","€ 65,00",2019," KG. Nals (M, CS)"
+RED,558., Marzemino ,"0,75 lt.","€ 30,00",2022, Simoncelli
+RED,559., Navesel ,"0,75 lt.","€ 39,00",2020," Simoncelli (M, CF, CS)"
+RED,560., Teroldego ,"0,75 lt.","€ 45,00",2022, Foradori
+RED,561., Rosso Faye Vigneto Paradisot ,"0,75 lt.","€ 65,00",2017," Pojer & Sandri (CS, CF, M, L)"
+RED,562., San Leonardo ,"0,75 lt.","€ 105,00",2015," San Leonardo (M, CS)"
+RED,563., Granato ,"0,75 lt.","€ 85,00",2019, Foradori (Teroldego)
+WHITE,564., Soave Classico Superiore Calvarino ,"0,75 lt.","€ 50,00",2021, Pieropan Bio
+RED,601., Valpolicella Ca Fiui ,"0,75 lt.","€ 35,00",2021, Corte Sant Alda Bio
+RED,602., Valpolicella Classico Ripasso ,"0,75 lt.","€ 41,00",2020, Le Ragose
+RED,604., Amarone della Valpolicella ,"0,75 lt.","€ 139,00 ",2012, Bertani
+RED,605., Amarone della Valpolicella Valmezzane ,"0,75 lt.","€ 95,00 ",2013,   Corte Sant Alda Bio
+RED,606., Amarone della Valpolicella Ravazzol ,"0,75 lt.","€ 105,00/17,50",2018, Ca la Bionda
+RED,601., Mithas Valpolicella Superiore ,"0,75 lt.","€ 85,00",2015, Corte Sant Alda Bio
+RED,607., Valpolicella Superiore ,"0,75 lt.","€ 180,00",2016, Romano Dal Forno
+RED,608., Amarone della Valpolicella ,"0,75 lt.","€ 450,00",2012,/13 Romano Dal Forno
+RED,612., Amarone della Valpolicella ,"0,75 lt.","€ 450,00",2012, Quintarelli
+RED,613., Rosso del Pepi ,"0,75 lt.","€ 180,00",2010," Quintarelli (Co,Ro,CS,N)"
+WHITE,609., Vintage Tunina ,"0,75 lt.","€ 90,00",2018,"/21 Jermann (SB, CH, RG, MI, PIC)"
+WHITE,610., Chardonnay Gaia & Rey ,"0,75 lt.","€ 330,00",2018, Gaja
+RED,700., Barbera d’Alba Bricco del Pilone ,"0,75 lt.","€ 39,00",2021, Benevelli
+RED,701., Barbera d’Alba ,"0,75 lt.","€ 39,00",2021, Burlotto
+RED,703., Langhe Nebbiolo ,"0,75 lt.","€ 39,00",2018, G.D. Vajra 
+RED,705., Barbaresco ,"0,75 lt.","€ 95,00",2015, Pio Cesare
+RED,706., Barbaresco Rabaja ,"0,75 lt.","€ 135,00",2018, Bruno Rocca
+RED,707., Barbaresco Rabaja ,"0,75 lt.","€ 65,00",2015, Giuseppe Cortese
+RED,708., Barbaresco Gaiun Martinenga ,"0,75 lt.","€ 125,00",2010, Marchesi di Gresy
+RED,709., Barbaresco Riserva Camp Gros Martinenga ,"0,75 lt.","€ 180,00",2014,  Marchesi di Gresy
+RED,713., Barbaresco Martinenga ,"0,75 lt.","€ 75,00",2015, Marchesi di Gresy
+RED,710., Barbaresco ,"0,75 lt.","€ 330,00",2017,/20 Gaja
+RED,697., Barbaresco Asili ,"0,75 lt.","€ 75,00",2019, Ca del Bajo
+RED,711., Barolo ,"0,75 lt.","€ 95,00",2019, Briccolina
+RED,712., Barolo ,"0,75 lt.","€ 100,00",2018, Burlotto
+RED,715., Barolo Sori Ginestra ,"0,75 lt.","€ 145,00",2010, Conterno Fantino
+RED,716., Barolo Ciabot Mentin Ginestra ,"0,75 lt.","€ 145,00",2008, Domenico Clerico
+RED,717., Barolo Ornato ,"0,75 lt.","€ 145,00",2015, Pio Cesare
+RED,718., Barolo ,"0,75 lt.","€ 95,00",2016, Pio Cesare
+RED,699., Barolo Brunate ,"0,75 lt.","€ 205,00",2016, Ceretto Bio
+RED,698., Barolo Castiglione ,"0,75 lt.","€ 95,00 /17,00",2019, Vietti Bio
+RED,719., Barolo Cerequio ,"0,75 lt.","€ 300,00",1998, Roberto Voerzio
+RED,720., Barolo Cannubi Boschis ,"0,75 lt.","€ 350,00",1997, Sandrone
+RED,721., Barolo Ris. Monfortino ,"0,75 lt.","€ 1800,00",1993, Giacomo Conterno
+RED,722., Monprá ,"0,75 lt.","€ 55,00",2015," Conterno Fantino (NE, BA, CS)"
+RED,724., Darmagi ,"0,75 lt.","€ 350,00",1995, Gaja (CS)
+RED,801., Rosso di Montalcino ,"0,75 lt.","€ 45,00",2019, Lisini
+RED,802., Brunello di Montalcino Riserva ,"0,75 lt.","€ 160,00",2012, Capanna
+RED,803., Brunello di Montalcino ,"0,75 lt.","€ 75,00",2018, Lisini 
+RED,804., Brunello di Montalcino Riserva ,"0,75 lt.","€ 250,00",2010, Costanti
+RED,805., Brunello di Montalcino Ugolaia ,"0,75 lt.","€ 125,00",2013, Lisini
+RED,806., Brunello di Montalcino Il Greppo ,"0,75 lt.","€ 350,00",2010, Biondi Santi
+RED,807., Brunello di Montalcino Riserva Il Greppo ,"0,75 lt.","€ 750,00",2004, Biondi-Santi
+RED,808., Brunello di Montalcino ,"0,75 lt.","€ 70,00 / 12,00",2018, Collosorbo
+RED,812., Brunello di Montalcino Riserva ,"0,75 lt.","€ 105,00",2013, Piancornello
+RED,809., Montevertine ,"0,75 lt.","€ 105,00",2019, Montevertine
+RED,810., Chianti Classico Riserva Berardenga ,"0,75 lt.","€ 55,00",2018,/19 Felsina
+RED,811., Chianti Rufina Riserva Vecchie Viti ,"0,75 lt.","€ 45,00",2018, Frescobaldi
+RED,800., Chianti Classico Gran Selezione Rialzi ,"0,75 lt.","€ 69,00",2019, Perano
+RED,813., Morellino di Scansano Riserva ,"0,75 lt.","€ 55,00",2019, Moris Farms 
+RED,814., Vino Nobile di Montepulciano ,"0,75 lt.","€ 49,00",2019, Poliziano
+RED,816., Syrah Collezione Privata ,"0,75 lt.","€ 95,00",2015,/18 Isole & Olena
+RED,817., Vigna L’Apparita ,"X0,75 lt.","€ 250,00",2004, Castello di Ama (M)
+RED,818., Lamaione ,"0,75 lt.","€ 92,00",2016, Frescobaldi (M)
+RED,840., Avvoltore ,"0,75 lt.","€ 89,00",2018,"  Moris Farms (SG, CS, M, SY)"
+RED,845., Lucente ,"0,75 lt.","€ 49,00",2020," Frescobaldi (SG,M)"
+RED,842., Cabreo Il Borgo ,"0,75 lt.","€ 75,00",2019," Cabreo (CS, CF, M,)"
+RED,819., Le Serre Nuove ,"0,75 lt.","€ 85,00",2020," Ornellaia (M, CS, PV, CF)"
+RED,820., Magari ,"0,75 lt.","€ 85,00",2015," Ca Marcanda, Gaja (M, CS)"
+RED,821., Il Pino di Biserno ,"0,75 lt.","€ 85,00",2021," Tenuta di Biserno (CF, M, CS, PV)"
+RED,822., Fontalloro ,"0,75 lt.","€ 75,00",2009, Felsina (SG)
+RED,823., Mormoreto ,"0,75 lt.","€ 92,00",2015," Frescobaldi (CS, M, CF, PV)"
+RED,824., Cepparello ,"0,75 lt.","€ 150,00",2016, Isole & Olena (SG)
+RED,825., Masseto ,"0,75 lt.","€ 1005,00",2014, Tenuta Massetto (M)
+RED,827., Le Pergole Torte ,"0,75 lt.","€ 245,00",2019, Montevertine
+RED,828., Luce della Vite ,"0,75 lt.","€ 165,00",2014," Frescobaldi (SG, M)"
+RED,829., Tignanello ,"0,75 lt.","€ 215,00",2021," Antinori (SG, CS, CF)"
+RED,830., Vigna d’Alceo ,"0,75 lt.","€ 205,00",2000, Castello dei Rampolla (CS)
+RED,831., Ornellaia ,"0,75 lt.","€ 380,00",2009," Tenuta dell’Ornellaia (CS, M, CF, PV)"
+RED,832., Sassicaia ,"0,75 lt.","€ 450,00",2000," Tenuta San Guido (CS, CF)"
+RED,838., Lodovico ,"0,75 lt.","€ 700,00",2013," Tenuta di Biserno (CF, M, CS)"
+RED,839., Biserno di Biserno ,"0,75 lt.","€ 250,00",2021," Tenuta di Biserno (CF, M, CS, PV)"
+RED,841., Lux Vitis ,"0,75 lt.","€ 250,00",2018,"/19 Frescobaldi (CS, SG)"
+RED,843., Cabernet Sauvignon Collezione Privata ,"0,75 lt.","€ 150,00",2015, Isole & Olena
+RED,844., Opera Omnia ,"0,75 lt.","€ 115,00",2015," La Madonnina (CS, CF)"
+RED,833., Turriga ,"0,75 lt.","€ 120,00 ",2017," Argiolas  (Cannonau, Carignano, Bobal, Malvasia Nera)"
+RED,900., Ghirada Cara Gonare Barbagia Rosso ,"0,75 lt.","€ 95,00",2019," Teularju  (Cannonau, Carignano)"
+WHITE,834., Chardonnay Contea di Sclafani Tenuta Regeleali ,"0,75 lt.","€ 75,00",2021,  Tasca d’Almerita
+RED,835., Tascante ,"0,75 lt.","€  49,00",2014, Tasca d’Almerita (Nerello M.)
+RED,836., Rosso del Conte ,"0,75 lt.","€ 65,00",2016, Tasca d’Almerita
+RED,837., Cabernet Sauvignon Vigna S. Francesco  Tenuta Regeleali ,"0,75 lt.","€ 67,00 ",2019, Tasca d’Almerita
+,901., Riesling Trocken GG Hermannshöhle ,"0,75 lt.","€ 130,00",2019," Dönnhof, Nahe"
+,905., Riesling Graacher Domprobst Auslese ,"0,75 lt.","€ 170,00",2006,"  Willy Schäfer, Mosel (lieblich, dolce, sweet)"
+,906., Riesling Limestone ,"0,75 lt.","€ 45,00",2020,"/21 Keller, Rheinhessen"
+,907., Grüner Veltliner Smaragd Achleiten ,"0,75 lt.","€ 69,00",2022," Jäger,  Wachau"
+,908., Sauvignon Blanc Grassnitzberg ,"0,75 lt.","€ 55,00",2018, Tement STMK Bio
+,911., Sauvignon Blanc Kapellenweingarten ,"0,75 lt.","€ 70,00",2020, Sattlerhof STMK
+,909., Riesling Smaragd Achleiten ,"0,75 lt.","€ 65,00",2016, Domaine Wachau
+,910., Riesling Smaragd Ried Loibenberg ,"0,75 lt.","€ 95,00",2020," E. Knoll,Wachau"
+,912., Riesling Smaragd Dürnsteiner Kellerberg ,"0,75 lt.","€ 150,00 ",2021,   F.X. Pichler Wachau
+,913., Blaufränkisch Leithaberg ,"0,75 lt.","€ 59,00",2018," Heinrich, Gols Bio"
+,914., St. Laurent Grande Reserve ,"0,75 lt.","€ 49,00",2000,"  Johanneshof, Reinisch, Tattendorf"
+,915., Marques de Caceres Reserva ,"0,75 lt.","€ 55,00",2017," Marques de Caceres, Rioja"
+,920., Tinto Pesquera Reserva ,"0,75 lt.","€ 80,00",2016,"/19 A. Fernandez, Ribera del Duero"
+,916., Manoella Tinto ,"0,75 lt.","€ 45,00",2021," Wine & Soul, Douro Cima Corgo (TN,TF,TR)"
+,941., Chardonnay ,"0,75 lt.","€ 400,00",2015, Gantenbein 
+,942., Pinot Noir ,"0,75 lt.","€ 400,00",2015, Gantenbein
+,917., Kopàr ,"0,75 lt.","€ 120,00",1999," Gere, Villàny (CF, M CS)"
+,918., Solus ,"0,75 lt.","€ 120,00",2002," Gere, Villàny (M)"
+,919., Merlot ,"0,75 lt.","€ 39,00",2017, Casa Lapostolle
+,921., Malbec Riserva ,"0,75 lt.","€ 55,00",2019, Altos Las Hormigas
+,922., Pinotage ,"0,75 lt.","€ 75,00",2020, Aaldering
+,923., Shiraz Kalimna Bin 28 ,"0,75 lt.","€ 75,00",2020, Penfolds
+,924., Sauvignon Blanc ,"0,75 lt.","€ 49,00",2019, Palliser Estate
+,996., Te Koko (SB) ,"0,75 lt.","€ 95,00",2019,/21 Cloudy Bay
+,997., Te Wahi (PN) ,"0,75 lt.","€ 125,00",2016,/19 Cloudy Bay
+,925., Viognier Yarden ,"0,75 lt.","€ 39,00",2017, Golan Heights Winery
+,920., Pinot Noir Gamla ,"0,75 lt.","€ 39,00",2019, Golan Heights Winery
+,928., Cabernet S. Res. Knights Valley ,"0,75 lt.","€ 90,00",2018, Beringer
+,998., Ramnista (Xinomavro) ,"0,75 lt.","€ 55,00",2015,/19 Kir Yianni Naoussa 
+,930., Chateau Musar Red ,"0,75 lt.","€ 85,00",2016," Chateau Musar  (CS, Cinsault, Grenache)"
+,999., Ao Yun ,"0,75 lt.","€ 350,00",2014," Adong Yunnan (CS,CF)"
+,931., Riesling Grand Cru Henriette ,"0,75 lt.","€ 59,00",2020, Mochel
+,970., Riesling Estate ,"0,75 lt.","€ 59,00",2019, Hugel                                                                             
+,932., Gewürztraminer Grand Cru ,"0,75 lt.","€ 59,00",2018,"  Mochel, (lieblich, dolce, sweet)"
+,933., Pouilly Fume ,"0,75 lt.","€ 65,00",2022, De Ladoucette 
+,998., Baron de L ,"0,75 lt.","€ 140,00",2019, De Ladoucette 
+,934., Sancerre 1 er Cru Clos Du Roy ,"0,75 lt.","€ 85,00",2022, Pascal Jolivet
+,935., Savennieres La Roche Aux Moines ,"0,75 lt.","€ 55,00",2010, Dom. Aux Moines
+,936., Chablis Saint Pierre ,"0,75 lt.","€ 59,00",2022, Dom. Albert Pic 
+,993., Chablis 1er Cru Fourchaume ,"0,75 lt.","€ 75,00",2022, Dom. Fevre 
+,937., Macon Verze ,"0,75 lt.","€ 77,00",2021, Dom. Leflaive Bio
+,946., Corton Charlemagne ,"0,75 lt.","€ 320,00",2017, Louis Latour
+,939., Chassagne-Montrachet 1-er Cru Morgeot ,"0,75 lt.","€ 225,00",2017,  Dom. Vincent Girardin
+,940., Montrachet Grand Cru ,"0,75 lt.","€ 1600,00",2010,/15 Dom. J. Prieur
+,929., Bourgogne Blanc Les Setilles ,"0,75 lt.","€ 85,00",2020, O. Leflaive Bio
+,959., Arbois Blanc ,"0,75 lt.","€ 69,00",2016, Dom. Du Pelican (CH)
+,944., Morgon ,"0,75 lt.","€ 45,00",2018, Ch.des Jacques
+,945., Gevrey-Chambertin Vielle Vignes ,"0,75 lt.","€ 115,00",2020, Rossignol - Trapet
+,943., Gevrey-Chambertin Vielle Vignes ,"0,75 lt.","€ 150,00",2018,/20 Dom. Laurent
+,948., Corton Languettes ,"0,75 lt.","€ 150,00",1989, Dom. Voarick
+,949., Nuits-Saint-Georges Les Fleurieres ,"0,75 lt.","€ 125,00",2018, Dom J. J. Confuron
+,950., Fixin ,"0,75 lt.","€ 125,00",2019, Dom. Meo Camuzet
+,992., Nuits-Saint-Georges 1-er Cru Les Cras ,"0,75 lt.","€ 2500,00",2015,   Dom. du Comte Liger Belair
+,991., Vosne-Romanee ,"0,75 lt.","€ 1200,00",2019, Dom. du Comte Liger Belair
+,993., Vosne-Romanee Vielles Vignes ,"0,75 lt.","€ 1500,00",2002, Dom. Bizot
+,952., Clos de la Roche Grand Cru ,"0,75 lt.","€ 2500,00",1990, Dom. Armand Rousseau
+,994., Clos de la Roche Grand Cru ,"0,75 lt.","€ 450,00",2015, Dom. Jadot
+,953., Beaune 1-er Cru Vignes de L`Enfant Jesus ,"0,75 lt.","€ 210,00",2012,  Dom. Bouchard Père et Fils
+,954., Volnay 1-er Cru Le Fremiets ,"0,75 lt.","€ 210,00",2010, Dom. D Angerville
+,955., Volnay 1-er Cru Clos des Ducks ,"0,75 lt.","€ 550,00",2010, Dom. D Angerville 
+,956., Clos-Vougeot Grand Cru Château de la Tour  Vielles Vignes ,"0,75 lt.","€ 400,00",2006, J. Labet & N. Dechelette
+,995., Santenay 1-er Cru Le Beuregard ,"0,75 lt.","€ 105,00",2017,/20 V. Girardin
+,965., Clos Floridene Blanc ,"0,75 lt.","€ 55,00",2017," Graves Denis Dubourdieu (SB,SEM,M) "
+,966.,  Le Petit Château Smith Haut Lafitte Blanc ,"0,75 lt.","€ 90,00",2019," (SB,SEM,) Pessac L."
+,982., Château Smith Haut Lafitte Blanc ,"0,75 lt.","€ 350,00",2020," Pessac L.(SB,SEM) "
+,967., Château Batalley ,"1,50 lt.","€ 250,00 ",2007, Pauillac Grand Cru Classe Magnum
+,968., Château Margaux ,"1,50 lt.","€ 2500,00",1991, Margaux Grand Cru Classe Magnum
+,971., Château Le Boscq ,"0,75 lt.","€ 80,00",2020, St. Estephe Cru Bourgeois Superieur
+,972., Château Pojeaux ,"0,75 lt.","€ 89,00",2015, Moulis Cru Bourgeois
+,973., Château Brane Cantenac ,"0,75 lt.","€ 175,00",2018, Margaux Grand Cru Classe
+,973., Château Cantenac Brown ,"0,75 lt.","€ 175,00",2018, Margaux Grand Cru Classe
+,974., Château Palmer 2006/,"0,75 lt.","€ 450,00",2007, Margaux
+,975., Château de Pez ,"0,75 lt.","€ 85,00",2016,  St. Estephe Cru Bourgeois Exceptionelle
+,977., Château Phelan Segur ,"0,75 lt.","€ 160,00",2016, St. Estephe
+,976., Château Talbot ,"0,75 lt.","€ 185,00",2016, St. Julien
+,983., Essence de Dourthe ,"0,75 lt.","€ 260,00",2015, 
+,984., Château Lafon Rochet ,"0,75 lt.","€ 125,00",2015, St. Estephe Grand Cru Classe
+,985., Château La Pointe ,"0,75 lt.","€ 135,00",2016, Pomerol
+,986., Château Chasse Spleen ,"0,75 lt.","€ 105,00",2019, Moulis Cru Bour. Exceptionelle
+,987., Château Pichon- Longueville au Baron ,"0,75 lt.","€ 360,00",2018, Pauillac
+,969., Château Grand Corbin Despagne ,"0,75 lt.","€ 105,00",2015,/16 St Emilion Grand Cru Classe
+,979., Château Ampeleia ,"0,75 lt.","€ 50,00",2016, Castillon Cotes de BDX
+,990., Château Haut Brion ,"0,75 lt.","€ 3000,00",1989, Pessac Leognan Grand Cru Classe
+,978., Cote Rotie La Turque ,"0,75 lt.","€ 500,00",1992, E. Guigal
+,978., Cote Rotie La Mouline ,"0,75 lt.","€ 500,00",1992, E. Guigal
+,980., Cote-Rotie Les Rochaines ,"0,75 lt.","€ 69,00",2004,/05 Bonnefond
+,980., Cote-Rotie ,"0,75 lt.","€ 69,00",2000, Bonserine
+,981., Chateauneuf du Pape Rouge ,"0,75 lt.","€ 120,00",2019, Ch. le Nerthe
+,988., Chateauneuf du Pape Rouge Tradition ,"0,75 lt.","€ 75,00",2018,/21  Domaine de La Solitude
+,982., Chateau Montus Cuvee Prestige ,"0,75 lt.","€ 49,00",1996, Alain Brumont
+,957., Marsala Superiore Riserva Oro Dolce  Bip Benjamin ,"0,75 lt.","€ 45,00 / 8,00",2013, Pellegrino
+,, Marsala Superiore Rubino Dolce Uncle Joseph ,"0,75 lt.","€ 45,00 / 8,00",2015, Pellegrino
+,958., Almacenista Fino del Puerto Jose Luis Gonzalez Obregon Solera Sherry Emilio Lustau,"0,50 lt.","€ 45,00 / 8,00",,
+,958., Alvear Medium Dry Montilla Morilles,"0,75 lt.","€ 45,00 / 8,00",,
+,920., Madeira Bual 5 Years Old Cossart Gordon,"0,50 lt.","€ 45,00 / 8,00",,
+,960., Late Bottled Vintage ,"0,75 lt.","€ 55,00",2018, Ramos Pinto
+,961., Vintage Port ,"0,75 lt.","€ 95,00",1997, Quinta De La Rosa
+,, 10 Years Ramos Pinto Quinta De Ervamoira                                            ,"0,75 lt.","€ 95,00",,
+,962., Porto Colheita ,"0,75 lt.","€ 95,00",1987, Niepoort
+,963., Porto Ruby Ramos Pinto,"0,75 lt.","€ 45,00 / 8,00",,
+,964., Manoella White Port 10 Years Wine & Soul,"0,75 lt.","€ 65,00",,
+,964., Porto Vintage ,"0,75 lt.","€ 200,00",2015,  Wine & Soul
+,1000., Riesling Spätlese ,"0,375 lt.","€ 55,00",2015, Taschlerhof
+,1001., Vinalia Goldmuskateller ,"0,375 lt.","€ 65,00",2019, KG. Bozen
+,1003., Rosenmuskateller Moscato Rosa ,"0,5 lt.","€ 60,00",2023, Franz Haas
+,1004., Roen ,"0,375 lt.","€ 55,00 / 12,50",2019, KG. Tramin
+,1005., Gewürztraminer Terminum ,"0,375 lt.","€ 90,00",2005, KG. Tramin
+,1012., Passithea Oro ,"0,375 lt.","€ 60,00",2019, KG. Girlan
+,1006., Serenade Passito Quintessenz ,"0,375 lt.","€ 65,00",2015, Kellerei Kaltern
+,1007., Kerner Praepositus Passito ,"0,375 lt.","€ 55,00",2020, Abtei Neustift
+,1014., Cantus ,"0,375 lt.","€ 55,00",2017, KG. Schreckbichl
+,1008., Merlino 07/93 Pojer & Sandri,"0,500 lt.","€ 45,00 / 12,50",,
+,1009., Vin Santo ,"0,375 lt.","€ 65,00",2007, Isole & Olena
+,1011., Moscato D’Asti ,"0,750 lt.","€ 39,00 / 7,00",2022, Saracco
+,1013., Passito di Pantelleria Naturale NES ,"0,500 lt.","€ 72,00 / 12,50",2017, Pellegrino
+,1110., Château Guiraud ,"0,375 lt.","€ 65,00",2005, Sauternes Grand Cru Classe
+,1111., Château Rieussec ,"0,375 lt.","€ 79,00",2005, Sauternes Grand Cru Classe
+,1216., Château Filhot ,"0,375 lt.","€ 45,00",2013, Sauternes
+,1112., Château Farluret ,"0,750 lt.","€ 45,00/ 12,50",2015, Sauternes
+,1201., Tokaji Aszu 6 Puttonyos ,"0,500 lt.","€ 150,00",1995, Disznokö
+,1202., Tokaji Aszu 6 Puttonyos ,"0,500 lt.","€ 79,00",1993, Gia
+,1203., Tokaji Aszu 6 Puttonyos 1999/,"0,500 lt.","€ 165,00",2002, Oremus
+,1204., Tokaji Aszu 3 Puttonyos ,"0,500 lt.","€ 75,00/ 12,50",2013, Oremus
+,1205., Tokaji Aszu 5 Puttonyos ,"0,500 lt.","€ 90,00",2006, Oremus
+,1206., Tokaji Aszu 6 Puttonyos ,"0,500 lt.","€ 350,00",1996, Szepsy
+,1206., Tokaji Aszu 6 Puttonyos ,"0,500 lt.","€ 350,00",2008, Szepsy
+,1207., Tokaji Esszencia ,"0,375 lt.","€ 599,00",2000, Disznokö
+,1217., Tokaji Szamorodni ,"0,500 lt.","€ 150,00",2013, Szepsy
+,1208., Beerenauslese Cuvee ,"0,375 lt.","€ 49,00 / 12,50",2017, Kracher
+,1209., Ruster Ausbruch Essenz ,"0,375 lt.","€ 61,50",2004, Feiler-Artinger
+,1210., Muskat Ottonel TBA ,"0,375 lt.","€ 59,00",1998, Velich
+,1211., Eiswein ,"0,375 lt.","€ 79,00",2020, Kracher
+,1212., Riesling Eiswein ,"0,375 lt.","€ 111,00",2001," P.J.Kühn, Rheingau"
+,905., Riesling Auslese Graacher Domprobst ,"0,750 lt.","€ 170,00 ",2006,"  Willy Schäfer, Mosel"
+,1214.," Don Zolio Pedro Ximenez Very Sweet Sherry Dolce,  Williams & Humbert Jerez","0,750 lt.","€ 45,00 / 8,00",,
+,1215., Dulce Monastrel ,"0,750 lt.","€ 65,00",1996, Olivares Jumilla
+,,Steinbock Sparkling ZERO Hofstätter,"0,75 lt.","€ 35,00",,
+,,Steinbock Riesling ZERO Hofstätter,"0,75 lt.","€ 35,00",,

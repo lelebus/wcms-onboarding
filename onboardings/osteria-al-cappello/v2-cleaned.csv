@@ -44,8 +44,8 @@ external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantit
 ,,BAROLO,BERSANO,,BOTTLE,1990,0,0,1,Cantinetta, ,True
 ,,BRUNELLO,BIONDI SANTI,,BOTTLE,1983,0,0,2,Cantinetta, ,True
 ,,ROSSO DI MONTALCINO,BIONDI SANTI,,BOTTLE,1989,0,0,1,Cantinetta, ,True
-,,,SASSICAIA,,BOTTLE,1984,0,0,1,Cantinetta, ,True
-,,BOLGHERI,SASSICAIA,,BOTTLE,1980,0,0,1,Cantinetta, ,True
+,,SASSICAIA,,,BOTTLE,1984,0,0,1,Cantinetta, ,True
+,,SASSICAIA,,,BOTTLE,1980,0,0,1,Cantinetta, ,True
 ,,BAROLO ROCCHE,RATTI,,BOTTLE,2006,0,0,6,Cantinetta, ,True
 ,,CONCA,RATTI,,BOTTLE,2006,0,0,6,Cantinetta, ,True
 ,,CONCA (MAGNUM),RATTI,,BOTTLE,2006,0,0,4,Cantinetta, ,True
@@ -184,3 +184,38 @@ external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantit
 ,,LATRICIERES CHAMBERTIN GRAND CRU ,DOMAINE TRAPES,,BOTTLE,2006,0,0,2,Cantinetta, ,True
 ,,GEVREY CHAMBERTIN 1CRU,DOMAINE TRAPES,,BOTTLE,2006,0,0,2,Cantinetta, ,True
 ,,POMEROL,CHATEAU GAZIN,,BOTTLE,2019,0,10200,2,Cantinetta,Pagata io 102€ ,True
+,,Bruno Paillard Blanc de blancs Grand Cru,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Billecart Salmon Brut Reserve,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Charles Heidsieck Brut Reserve,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Charles Heidsieck Rose Reserve,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Charles Heidsieck Blanc de blancs,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Charles Heidsieck Vintage 2013,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Charles Heidsieck Blancs des Millenaires 2014,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Dom Perignon Vintage 2013,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Philipponat Reserve Pas dosé,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Philippe Gilbert Blanc de blancs,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Perrier Jouet Blanc de blancs,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Perrier Jouet Belle Epoque 2015,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Pol Roger Sir Winston Churchill 1996,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Salon Brut Cuvée 1996,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Bellavista Alma Assemblage,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Bellavista Alma Pas Dosè,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Bellavista Rosè Assemblage,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Contadi Castaldi Brut,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Contadi Castaldi Blanc Extra Brut,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Cà del Bosco Cuvée Prestige,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Casa Caterina Cuvée 60 Zero Blanc de blancs,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Casa Caterina Cuvée 36 Rosè Nature,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Monte Rossa Coupé Non dosato,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Ferrari Maximum Blanc de blancs,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Pedrotti Brut Nature,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Pedrotti Dosaggio Zero Millesimato,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,San Leonardo Marchesi Guerrieri Gonzaga Brut,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Haderburg Brut Metodo Classico,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Haderburg Pas Dose Millesimato,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Haderburg Rosè Extra Brut,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Haderburg Hausmanof Riserva,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Rocche dei Manzoni Valentino Brut Elena,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Rocche dei Manzoni Valentino Brut 0,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Rocche dei Manzoni Valentino Brut 0 Rosè,,,BOTTLE,0,0,0,0,Cantinetta, ,True
+,,Francesco Bellei Metodo Classico,,,BOTTLE,0,0,0,0,Cantinetta, ,True

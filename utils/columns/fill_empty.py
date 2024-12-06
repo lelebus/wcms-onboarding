@@ -10,7 +10,7 @@ default_values = {
 
 
 # TODO: Explain clearly the purpose of this function and rename it accordingly
-def fill_empty(df, columns, reset_columns=False):
+def fill_empty(df, columns, reset_columns=True):
     df = df.copy()
     for column in columns:
         if column not in df.columns:

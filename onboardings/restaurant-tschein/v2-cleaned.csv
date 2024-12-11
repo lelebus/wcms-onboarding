@@ -1,0 +1,300 @@
+external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantity,storage_area,internal_notes,visible
+,SPARKLING,Prosecco Superiore Extra Dry Sui Nui ,,,BOTTLE,0,2700,0,19,,,True
+,SPARKLING,Südtiroler Sekt  600 Blanc de Blances Kellerei Kurtatsch ,,,BOTTLE,0,5600,0,7,,,True
+,SPARKLING,Südtiroler Sekt  Pinot Noir 2016 Pfitscher Montan,,,BOTTLE,2016,6500,0,5,,,True
+,SPARKLING,Südtiroler Sekt Versé Rosé Pitzner Kardaun,,,BOTTLE,0,3800,0,18,,,True
+,SPARKLING,Trentodoc Brut Nature Opera ,,,BOTTLE,0,5500,0,14,,,True
+,SPARKLING,Trentodoc Riserva Graal Brut 2013 Altemasi,,,BOTTLE,2013,8500,0,1,,,True
+,SPARKLING,Trentodoc Riserva Graal Brut 2011 Altemasi ,,,BOTTLE,2011,8500,0,1,,,True
+,SPARKLING,Trentodoc Riserva Graal Brut 2009 Altemasi ,,,BOTTLE,2009,8500,0,1,,,True
+,SPARKLING,Trentodoc Riserva del Fondatore Extra Brut 2009 Giulio Ferrari MAGNUM,,,MAGNUM,2009,43000,0,1,,,True
+,SPARKLING,Schaumwein A Lorenzo Extra Brut Pinot Noir Luca Bellani Lombardei ,,,BOTTLE,0,6000,0,4,,,True
+,SPARKLING,Pinot Noir Sekt Blanc de Noirs 2017 Heymann-Löwenstein Mosel,,,BOTTLE,2017,6400,0,1,,,True
+,SPARKLING,Comtes de Champagne Prestige Cuveé 2012 Brut Taittinger ,,,BOTTLE,2012,24000,0,1,,,True
+,SPARKLING,Initial Grand Cru Brut Jacques Selosse ,,,BOTTLE,0,29000,0,4,,,True
+,SPARKLING,Fleur de Craie Brut Nature Barrat-Masson,,,BOTTLE,0,9000,0,1,,,True
+,SPARKLING,Latitude Extra Brut Larmandier-Bernier,,,BOTTLE,0,10500,0,9,,,True
+,SPARKLING,Terre de Vetrus 2016 Brut Nature Larmandier-Bernier ,,,BOTTLE,2016,13600,0,6,,,True
+,SPARKLING,Terre de Vetrus 2015 Brut Nature Larmandier-Bernier ,,,BOTTLE,2015,13600,0,2,,,True
+,SPARKLING,Vieille Vigne du Levant 2013 Grand Cru Brut Nature Larmandier-Bernier,,,BOTTLE,2013,18500,0,5,,,True
+,SPARKLING,Ozanne Grand Cru Brut Michel Fallon ,,,BOTTLE,0,36000,0,4,,,True
+,SPARKLING,Cramant Grand Cru 2018 Pertois-Moriset,,,BOTTLE,2018,13500,0,2,,,True
+,SPARKLING,Les Quatre Terroirs Grand Cru Extra Brut Pertois Moriset,,,BOTTLE,0,9300,0,6,,,True
+,SPARKLING,Substance Grand Cru Extra Brut Jacques Selosse,,,BOTTLE,0,75000,0,2,,,True
+,SPARKLING,Mi-Pentes Premier Cru Extra Brut Lacourte-Godbillon,,,BOTTLE,0,11800,0,6,,,True
+,SPARKLING,Eugene (M/PN) Extra Brut Moussé Fils,,,BOTTLE,0,6900,0,3,,,True
+,SPARKLING,La Vigne D'Or Blanc de Meuniers Brut Nature Tarlant,,,BOTTLE,0,17500,0,2,,,True
+,SPARKLING,Montchenot 2019 Extra Brut Nicolas Maillart ,,,BOTTLE,2019,11800,0,6,,,True
+,SPARKLING,Zero (PN/CH/M) Brut Nature Tarlant,,,BOTTLE,0,9500,0,7,,,True
+,SPARKLING,Les Petites Vignes Grand Cru (PN) Brut non dosé Aurore Casanova,,,BOTTLE,0,15200,0,3,,,True
+,SPARKLING,Dans un Premier Temps (CH/ PN/M) Extra Brut Dhondt-Grellet,,,BOTTLE,0,11500,0,5,,,True
+,SPARKLING,Millesime 2013 (CH/PN/M) Brut Nature Philippe Gamet,,,BOTTLE,2013,9500,0,1,,,True
+,SPARKLING,Grand Réserve (CH/PN/M) Brut Gosset,,,BOTTLE,0,9900,0,3,,,True
+,SPARKLING,Sainte Anne (M/CH/PN) Brut Chartogne-Taillet,,,BOTTLE,0,9400,0,4,,,True
+,SPARKLING,Royal Réserve (PN/CH/M) Brut Philipponnat,,,BOTTLE,0,8500,0,5,,,True
+,SPARKLING,Les Premices (CH/M/PN) Brut Egly-Ouriet,,,BOTTLE,0,10500,0,1,,,True
+,SPARKLING,Grand Cru 2018 (PN/CH) Extra Brut Egly-Ouriet,,,BOTTLE,2018,16000,0,1,,,True
+,SPARKLING,Reliance (M/PN/CH) Brut Nature Franck Pascal,,,BOTTLE,0,9500,0,2,,,True
+,SPARKLING,Libérance 2015 (M/PN/CH) Franck Pascal,,,BOTTLE,2015,11500,0,1,,,True
+,SPARKLING,Pacifiance (M/PN/CH) Brut Nature Franck Pascal,,,BOTTLE,0,17500,0,3,,,True
+,SPARKLING,Quinte-Essence 2013 (M/CH) Extra Brut Franck Pascal,,,BOTTLE,2013,11500,0,1,,,True
+,SPARKLING,Quinte-Essence 2010 (M/CH) Extra Brut Franck Pascal,,,BOTTLE,2010,12000,0,1,,,True
+,SPARKLING,Quinte-Essence 2008 (M/CH) Extra Brut Franck Pascal,,,BOTTLE,2008,16000,0,1,,,True
+,SPARKLING,Quinte-Essence 2007 (M/CH) Extra Brut Franck Pascal,,,BOTTLE,2007,12500,0,3,,,True
+,SPARKLING,Les jeunes pousses (CH/PN/M) Brut Copin Cautel,,,BOTTLE,0,6500,0,1,,,True
+,SPARKLING,Influence (PN/M/CH) Brut Miniere F&R,,,BOTTLE,0,11500,0,7,,,True
+,SPARKLING,Chemin des Rois (PN/CH) Brut Nature Vincent Cuillier,,,BOTTLE,0,7900,0,1,,,True
+,SPARKLING,Cuvée Millésimé 2013 (CH/PN/PM) Brut Jean-Marie Massonot,,,BOTTLE,2013,9500,0,2,,,True
+,SPARKLING,Plantine (PN/CH/M) Extra Brut Nicolas Maillart ,,,BOTTLE,0,8500,0,2,,,True
+,SPARKLING,Garennes (M/CH) Extra Brut Georges Laval,,,BOTTLE,0,15500,0,3,,,True
+,SPARKLING,Cuvée Louise 2004 (PN/CH) Brut Nature Tarlant ,,,BOTTLE,2004,15800,0,2,,,True
+,SPARKLING,Vignes de mon village (M) Brut Nature Famille Moussé,,,BOTTLE,0,10500,0,2,,,True
+,SPARKLING,Chassenay D'Arce 2012 (PB) Extra Brut Maison de Vignerons ,,,BOTTLE,2012,8900,0,2,,,True
+,SPARKLING,Cumiéres Premier Cru (M) Brut Nature Georges Laval ,,,BOTTLE,0,16200,0,6,,,True
+,SPARKLING_ROSE,Rosé (CH/PN) Brut Chartogne Taillet,,,BOTTLE,0,10800,0,2,,,True
+,SPARKLING_ROSE,Influence Rosé (PN/M/CH) Miniere F&R ,,,BOTTLE,0,11800,0,12,,,True
+,SPARKLING_ROSE,Grand Rosé Brut Gosset,,,BOTTLE,0,12000,0,1,,,True
+,SPARKLING_ROSE,Prestige Rosé Brut Taittinger,,,BOTTLE,0,10000,0,4,,,True
+,SPARKLING_ROSE,Rosé Premier Cru Extra Brut Lacourte Godbillon ,,,BOTTLE,0,10000,0,4,,,True
+,SPARKLING_ROSE,Rosé de Saignée (M) 2015 Brut Gamet ,,,BOTTLE,2015,11000,0,2,,,True
+,SPARKLING_ROSE,Rosé de Saignée (M) Extra Brut Mathieu Gandon,,,BOTTLE,0,9500,0,1,,,True
+,WHITE,Kerner 2023 Köfererhof Neustift ,,,BOTTLE,2023,3400,0,14,,,True
+,WHITE,Sauvignon Blanc Tannenberg 2020 Manincor Kalterer See,,,BOTTLE,2020,4600,0,2,,,True
+,WHITE,Sauvignon Blanc Matthias 2019 Pfitscher Montan,,,BOTTLE,2019,5500,0,4,,,True
+,WHITE,Sauvignon Blanc Voglar 2020 Dipoli Neumarkt ,,,BOTTLE,2020,3900,0,2,,,True
+,WHITE,Sauvignon Blanc Rennaissance Riserva 2019 Gump Hof Völs am Schlern,,,BOTTLE,2019,7000,0,5,,,True
+,WHITE,Sauvignon Blanc Praesulis 2021 Gump Hof Völs am Schlern ,,,BOTTLE,2021,4500,0,9,,,True
+,WHITE,Sauvignon Blanc Quarz 2021 Kellerei Terlan ,,,BOTTLE,2021,7500,0,2,,,True
+,WHITE,Sauvignon Blanc Quarz 2021 Kellerei Terlan MAGNUM,,,MAGNUM,2021,15000,0,1,,,True
+,WHITE,Sauvignon Blanc Marzan 2022 Schloss Plars Algund,,,BOTTLE,2022,2900,0,4,,,True
+,WHITE,Sauvginon Blanc Oberberg 2020 Kornell Siebeneich,,,BOTTLE,2020,4900,0,7,,,True
+,WHITE,Sauvignon Blanc Riserva 2020 Prackfol Völs am Schlern ,,,BOTTLE,2020,9200,0,5,,,True
+,WHITE,Grauburgunder Fateni 2019 Salurnis,,,BOTTLE,2019,3300,0,1,,,True
+,WHITE,Grauburgunder Amphore Maximus 2021 Pitzner Kardaun,,,BOTTLE,2021,7000,0,16,,,True
+,WHITE,Grauburgunder 2021 Schinterhof Barbian ,,,BOTTLE,2021,4000,0,7,,,True
+,WHITE,Grauburgunder Amphore Fluch & Segen 2022 Martin Schgraffer Salurn,,,BOTTLE,2022,8400,0,3,,,True
+,WHITE,Sylvaner Gols 2021 Griesser Hof Eisacktal ,,,BOTTLE,2021,3600,0,1,,,True
+,WHITE,Sylvaner 2021 Daniel Sigmund Brixen,,,BOTTLE,2021,4000,0,10,,,True
+,WHITE,Weissburgunder In der Lämm 2021 Martin Abraham Eppan,,,BOTTLE,2021,4000,0,5,,,True
+,WHITE,Weissburgunder Sirmian 2021 Nals-Magreid,,,BOTTLE,2021,4500,0,8,,,True
+,WHITE,Weissburgunder Lapis 2018 Oberstein Tscherms ,,,BOTTLE,2018,4000,0,3,,,True
+,WHITE,Weissburgunder Berg 2022 Niedrist Eppan,,,BOTTLE,2022,4200,0,3,,,True
+,WHITE,Weissburgunder Sandl 2020 Prackfol Völs am Schlern ,,,BOTTLE,2020,8500,0,5,,,True
+,WHITE,Gewürztraminer Upupa Orange 2020 Martin Abraham Eppan,,,BOTTLE,2020,4700,0,1,,,True
+,WHITE,Gewürztraminer Upupa Orange 2019 Martin Abraham Eppan MAGNUM ,,,MAGNUM,2019,9600,0,1,,,True
+,WHITE,Gewürztraminer St. Valentin 2021 St. Michael Eppan ,,,BOTTLE,2021,4900,0,1,,,True
+,WHITE,Gewürztraminer Amphora 2014-2016 Ansitz Dolomythos Ritten,,,BOTTLE,2014,8500,0,4,,,True
+,WHITE,Chardonnay Baron Salvadori 2020 Nals-Magreid ,,,BOTTLE,2020,5500,0,8,,,True
+,WHITE,Chardonnay Baron Salvadori 2017 Nals-Magreid ,,,BOTTLE,2017,5500,0,4,,,True
+,WHITE,Chardonnay Riserva 2020 Schloss Englar Eppan ,,,BOTTLE,2020,5300,0,9,,,True
+,WHITE,Chardonnay St. Valentin 2020 St. Michael Eppan ,,,BOTTLE,2020,4900,0,1,,,True
+,WHITE,Chardonnay St. Valentin 2019 St. Michael Eppan  MAGNUM,,,MAGNUM,2019,11500,0,1,,,True
+,WHITE,Chardonnay St. Valentin 2020 St. Michael Eppan  MAGNUM,,,MAGNUM,2020,10500,0,1,,,True
+,WHITE,Chardonnay Gaun 2021 Alois Lageder Magreid ,,,BOTTLE,2021,3800,0,1,,,True
+,WHITE,Chardonnay 2021 Pitzner Kardaun ,,,BOTTLE,2021,7000,0,18,,,True
+,WHITE,Chardonnay 2020 Pitzner Kardaun ,,,BOTTLE,2020,7000,0,18,,,True
+,WHITE,Chardonnay First Lady 2020 Papstlhof Kaltern,,,BOTTLE,2020,3900,0,2,,,True
+,WHITE,Chardonnay Fluch & Segen 2022 Martin Schgraffer Salurn,,,BOTTLE,2022,5900,0,12,,,True
+,WHITE,Cuvée Reserve della Contessa 2022 (WB/CH/SV) Manincor Kalterer See,,,BOTTLE,2022,3600,0,2,,,True
+,WHITE,Cuvée Aichberg 2018 (WB/CH/SV) Kornell Terlan ,,,BOTTLE,2018,4600,0,2,,,True
+,WHITE,Cuvée Aichberg 2021 (WB/CH/SV) Kornell Terlan ,,,BOTTLE,2021,4600,0,1,,,True
+,WHITE,Cuvée Giovo 2019 (CH/Solaris) Bergkellerei Passeier,,,BOTTLE,2019,5500,0,4,,,True
+,WHITE,Cuvée Weisswein 2016 (WB/GB/SV/R) Ansitz Dolomythos Ritten ,,,BOTTLE,2016,6000,0,5,,,True
+,WHITE,Cuvée Die Perle 2005 Ansitz Dolomythos Ritten,,,BOTTLE,2005,11500,0,2,,,True
+,WHITE,Cuvée Aios 2000 Fass 04 Ansitz Dolomythos ,,,BOTTLE,2000,14000,0,1,,,True
+,WHITE,Cuvée Aios 2000 Fass 57 Ansitz Dolomythos ,,,BOTTLE,2000,14000,0,1,,,True
+,WHITE,Cuvée Nova Domus 2019 (WB/CH/SV) Kellerei Terlan ,,,BOTTLE,2019,6500,0,2,,,True
+,WHITE,Cuvée Nova Domus 2018 (WB/CH/SV) Kellerei Terlan ,,,BOTTLE,2018,6500,0,1,,,True
+,WHITE,Cuvée Nova Domus 2020 (WB/CH/SV) Kellerei Terlan MAGNUM,,,MAGNUM,2020,13000,0,1,,,True
+,WHITE,Rosé La Rosé 2020 Manincor Kalterer See,,,BOTTLE,2020,3800,0,6,,,True
+,WHITE,Rosé Mitterberg 2020 Luis Auer,,,BOTTLE,2020,4000,0,1,,,True
+,WHITE,"Sauvignon Blanc Zieregg 2018 Tement Südsteiermark, Österreich",,,BOTTLE,2018,9500,0,1,,,True
+,WHITE,"Grüner Veltliner Ried Berg Vogelsang 2019 Bründelmayer Kamptal, Österreich",,,BOTTLE,2019,3900,0,2,,,True
+,WHITE,"Chardonnay Reserve Santa Cruz Mountains 2016 Mount Eden, Kalifornien ",,,BOTTLE,2016,15000,0,2,,,True
+,WHITE,"Gewürztraminer Galilee 2021 Yarden Golan Heights Winery, Israel",,,BOTTLE,2021,4500,0,3,,,True
+,WHITE,"Assyrtiko Ftelos 2017 Artemis Karamolegos Santorini, Griechenland ",,,BOTTLE,2017,12500,0,1,,,True
+,WHITE,"Viura 2014 Vina Tondonia Rioja, Spanien ",,,BOTTLE,2014,6100,0,3,,,True
+,WHITE,"Viura 2013 Vina Tondonia Rioja, Spanien ",,,BOTTLE,2013,6100,0,3,,,True
+,WHITE,"Viura 2012 Vina Tondonia Rioja, Spanien ",,,BOTTLE,2012,6100,0,2,,,True
+,WHITE,Riesling Pittermännchen GG 2017 Diel Nahe,,,BOTTLE,2017,9500,0,3,,,True
+,WHITE,Riesling Frühlingsplätzchen GG 2018 Schäfer-Fröhlich Nahe,,,BOTTLE,2018,10500,0,1,,,True
+,WHITE,Riesling Stromberg GG 2021 Schäfer-Fröhlich Nahe,,,BOTTLE,2021,12000,0,3,,,True
+,WHITE,Riesling Kreuznacher Kahlenberg 2022 Dönnhoff Nahe,,,BOTTLE,2022,4500,0,1,,,True
+,WHITE,Riesling Kalkofen GG 2021 Von Winning Pfalz,,,BOTTLE,2021,9000,0,4,,,True
+,WHITE,Riesling Kiedrich Turmberg GG 2021 Robert Weil Rheingau,,,BOTTLE,2021,5800,0,3,,,True
+,WHITE,Riesling Sankt Nikolaus GG 2021 P.J. Kühn Rheingau ,,,BOTTLE,2021,11500,0,2,,,True
+,WHITE,Riesling Scharzofberger GG 2021 Van Volxem Saar,,,BOTTLE,2021,8500,0,5,,,True
+,WHITE,Riesling Rausch GG 2021 Zilliken Mosel,,,BOTTLE,2021,9800,0,6,,,True
+,WHITE,Riesling Trocken 2018 Heymann-Löwenstein Mosel,,,BOTTLE,2018,3800,0,1,,,True
+,WHITE,Riesling Röttgen GG 2020 Heymann-Löwenstein Mosel,,,BOTTLE,2020,8500,0,8,,,True
+,WHITE,Riesling Erdener Treppchen Spätlese 2020 Markus Molitor Mosel ,,,BOTTLE,2020,4500,0,11,,,True
+,WHITE,Riesling Zeltinger Himmelreich Kabinett 2020 Molitor Mosel,,,BOTTLE,2020,4600,0,2,,,True
+,WHITE,"Chardonnay ""R"" 2021 Rudolf Fürst Franken ",,,BOTTLE,2021,12500,0,2,,,True
+,WHITE,Chardonnay Oberbergen Bassgeige 2020 Franz Keller Baden,,,BOTTLE,2020,3900,0,5,,,True
+,WHITE,Chardonnay Malterdinger Alte Reben 2021 Bernhard Huber Baden ,,,BOTTLE,2021,9800,0,6,,,True
+,WHITE,Weissburgunder Oberbergen Bassgeige 2020 Franz Keller Baden ,,,BOTTLE,2020,3900,0,2,,,True
+,WHITE,"Friulano 2020 La Duline, Friaul Venetien ",,,BOTTLE,2020,4000,0,4,,,True
+,WHITE,"Pinot Grigio Ronco Pitotti 2022 La Duline, Friaul Venetien ",,,BOTTLE,2022,4500,0,2,,,True
+,WHITE,"Chardonnay Ronco Pitotti 2021 La Duline, Friaul Venetien ",,,BOTTLE,2021,6000,0,3,,,True
+,WHITE,"Friulano Collio 2020 Schiopetto, Friaul Venetien ",,,BOTTLE,2020,4500,0,2,,,True
+,WHITE,"Friulano San Zuan 2021 Ronco del Gnemiz, Friaul Venetien ",,,BOTTLE,2021,4500,0,1,,,True
+,WHITE,"Chardonnay Ronco Basso 2021 Ronco del Gnemiz, Friaul Venetien ",,,BOTTLE,2021,5000,0,4,,,True
+,WHITE,"Soave Classico 2016 Monte Fiorentine Ca'Rugate, Friaul Venetien ",,,BOTTLE,2016,4000,0,3,,,True
+,WHITE,"Ribolla Gialla 2021 Jermann, Friaul Venetien ",,,BOTTLE,2021,4900,0,1,,,True
+,WHITE,"Ribolla Gialla 2012 Josko Gravner, Friaul Venetien ",,,BOTTLE,2012,12000,0,3,,,True
+,WHITE,"Cuvée Custoza 2020 Albino Piona, Friaul Venetien ",,,BOTTLE,2020,2500,0,2,,,True
+,WHITE,"Cuvée L'Estro (V/M/SB) 2013 Casa Caterina, Lombardei ",,,BOTTLE,2013,6000,0,4,,,True
+,WHITE,"Verdicchio Classico 2020 Il Coroncino, Marken ",,,BOTTLE,2020,3400,0,3,,,True
+,WHITE,"Verdicchio Classico Balluccio 2020 Tenuta dell'Ugolino, Marken ",,,BOTTLE,2020,3600,0,2,,,True
+,WHITE,"Pecorino Onirecep 2020 Pantaleone, Abruzzen ",,,BOTTLE,2020,3000,0,1,,,True
+,WHITE,"Trebbiano d'Abruzzo 2021 Emidio Pepe, Abruzzen ",,,BOTTLE,2021,6000,0,6,,,True
+,WHITE,"Trebbiano d'Abruzzo 2020 Valentini, Abruzzen",,,BOTTLE,2020,18500,0,3,,,True
+,WHITE,"Vermentino Bio 2021 Olianas, Sardinien  ",,,BOTTLE,2021,3000,0,3,,,True
+,WHITE,"Carricante Contrada Volpare 2020 Maugeri, Sizilien",,,BOTTLE,2020,4600,0,1,,,True
+,WHITE,"Carricante Teatro Cajjo 2021 Centopassi, Sizilien ",,,BOTTLE,2021,3000,0,4,,,True
+,WHITE,"Carricante Il Bianco 2022 Buscemi, Sizilien",,,BOTTLE,2022,6200,0,2,,,True
+,WHITE,"Carricante Il Bianco 2023 Buscemi, Sizilien",,,BOTTLE,2023,6200,0,3,,,True
+,WHITE,"Grechetto 2021 Di Filippo, Umbrien ",,,BOTTLE,2021,2500,0,1,,,True
+,WHITE,"Etna Bianco 2021 Terra Costantino, Sizilien",,,BOTTLE,2021,4000,0,6,,,True
+,WHITE,Riesling Pfersingberg Grand Cru 2015 Domaine Schöpfer Elsass,,,BOTTLE,2015,4300,0,1,,,True
+,WHITE,Sancerre Chéne Marchand 2020 Dominique Roger,,,BOTTLE,2020,5000,0,3,,,True
+,WHITE,Melon de Bourgogne Clisson 2014 Bruno Cormerais,,,BOTTLE,2014,4500,0,3,,,True
+,WHITE,Meursault Les Narvaux 2020 Les Parcellaires de Saulz,,,BOTTLE,2020,11500,0,2,,,True
+,WHITE,Meursault 2021 Antoine Jobard,,,BOTTLE,2021,13000,0,2,,,True
+,WHITE,Chardonnay Bio Quintaine 2019 Guillemot Michel Burgund,,,BOTTLE,2019,6000,0,11,,,True
+,WHITE,Bourgogne Blanc 2020 Philippe Bouzereau Burgund,,,BOTTLE,2020,5600,0,4,,,True
+,WHITE,Bourgogne Blanc 2021 Michel Bouzereau Burgund ,,,BOTTLE,2021,6500,0,1,,,True
+,WHITE,Bourgogne Hautes-Cótes de Beaune 2022 Emmanuel Rouget,,,BOTTLE,2022,8100,0,6,,,True
+,WHITE,Chassagne Montrachet 2020 Philippe Colin ,,,BOTTLE,2020,10000,0,3,,,True
+,WHITE,Puligny Montrachet Les Demoiselles 2020 Philippe Colin ,,,BOTTLE,2020,12000,0,1,,,True
+,WHITE,Puligny Montrachet 2021 Bachelet-Monnot ,,,BOTTLE,2021,12000,0,3,,,True
+,WHITE,Chablis 1er Cru 2022 Vaillons Servin,,,BOTTLE,2022,6900,0,9,,,True
+,WHITE,Chablis 2022 Moreau,,,BOTTLE,2022,5000,0,4,,,True
+,WHITE,Chablis Vaillon 1er Cru 2022 Moreau ,,,BOTTLE,2022,7500,0,3,,,True
+,WHITE,Chablis Grand Cru Vaudésir 2020 Adrien Besson ,,,BOTTLE,2020,13000,0,3,,,True
+,WHITE,Chablis Premier Cru Montmains 2021 Gérard Duplessis,,,BOTTLE,2021,8600,0,3,,,True
+,WHITE,Chablis Premier Cru Montmains 2018 Gérard Duplessis,,,BOTTLE,2018,9400,0,2,,,True
+,WHITE,Chablis Premier Cru Cóte de Léchet 2022 Thierry Laffay,,,BOTTLE,2022,9400,0,3,,,True
+,WHITE,Cháteauneuf-du-Pape Les Cailloux 2021 André Brunel ,,,BOTTLE,2021,8900,0,5,,,True
+,WHITE,Cuvée Bordeaux Blanc Grand Cru 2019 Malartic Lagraviere Bordeaux,,,BOTTLE,2019,11000,0,3,,,True
+,WHITE,Chardonnay Les Graviers 2019 Tissot Jura,,,BOTTLE,2019,9000,0,2,,,True
+,WHITE,Chardonnay Vieilles Vignes Arbois 2020 Amelie Guillot Jura,,,BOTTLE,2020,4900,0,2,,,True
+,WHITE,Savagnin L'Etoile 2019 Domaine de Montbourgeau Jura,,,BOTTLE,2019,4500,0,1,,,True
+,WHITE,Savagnin L'Etoile 2018 Domaine de Montbourgeau Jura,,,BOTTLE,2018,4500,0,6,,,True
+,WHITE,Bourgogne Aligolé Antichtone 2021 Benoit Ente ,,,BOTTLE,2021,12500,0,3,,,True
+,WHITE,Bourgogne Blanc 2021 Benoit Ente ,,,BOTTLE,2021,15600,0,3,,,True
+,WHITE,Cuvée (Macabeu/Grenache Blanc) 2020 Gauby Cótes Catalanes ,,,BOTTLE,2020,5900,0,3,,,True
+,WHITE,Grenage Blanc Lou Bragalou 2022 Flo Busch,,,BOTTLE,2022,3900,0,6,,,True
+,RED,St. Magdalener Malanders 2023 Pitzner Kardaun ,,,BOTTLE,2023,2900,0,8,,,True
+,RED,Vernatsch Upupa Rot 2019 Martin Abraham Eppan,,,BOTTLE,2019,4000,0,3,,,True
+,RED,Vernatsch Arena 2018 Oberstein Tscherms ,,,BOTTLE,2018,4500,0,2,,,True
+,RED,Vernatsch Mediaevum 2021 Gump Hof Völs am Schlern ,,,BOTTLE,2021,3400,0,4,,,True
+,RED,Blauburgunder Riserva Matan 2020 Pfitscher Montan ,,,BOTTLE,2020,5900,0,4,,,True
+,RED,Blauburgunder Vom Roten Kalk 2020 Martin Abraham Eppan,,,BOTTLE,2020,6400,0,6,,,True
+,RED,Blauburgunder Mason di Mason 2018 Manincor Kalterer See,,,BOTTLE,2018,9800,0,6,,,True
+,RED,Blauburgunder Riserva 2017 Schloss Englar Eppan,,,BOTTLE,2017,7000,0,10,,,True
+,RED,Blauburgunder Marith 2023 Kornell Terlan,,,BOTTLE,2023,3600,0,6,,,True
+,RED,Blauburgunder Noir 2007 Doná Tscherms ,,,BOTTLE,2007,11500,0,2,,,True
+,RED,Blauburgunder Pigeno 2021 Strobelhof,,,BOTTLE,2021,4000,0,10,,,True
+,RED,Blauburgunder Reneussance 2019 Gump Hof Völs am Schlern ,,,BOTTLE,2019,9400,0,1,,,True
+,RED,Merlot Riserva 2021 Pitzner Kardaun ,,,BOTTLE,2021,5800,0,15,,,True
+,RED,Merlot Riserva Staffes 2020 Kornell Terlan ,,,BOTTLE,2020,4600,0,2,,,True
+,RED,Merlot Brenntal 2017 Kellerei Kurtatsch ,,,BOTTLE,2017,6000,0,3,,,True
+,RED,Lagrein Porphyr 2020 Kellerei Terlan ,,,BOTTLE,2020,8400,0,3,,,True
+,RED,Lagrein 2022 Fateni Salurnis Salurn ,,,BOTTLE,2022,3900,0,4,,,True
+,RED,Lagrein Riserva Taber 2020 Kellerei Bozen ,,,BOTTLE,2020,7000,0,6,,,True
+,RED,Lagrein Riserva 2021 Franz Gojer Karneid ,,,BOTTLE,2021,4700,0,6,,,True
+,RED,Cuvée Anticus Riserva (M/CS) 2019 Nals-Margreid ,,,BOTTLE,2019,5800,0,4,,,True
+,RED,Cuvée Anticus Riserva (M/CS) 2018 Nals-Margreid ,,,BOTTLE,2018,5800,0,1,,,True
+,RED,Cuvée Staffelfeld (CS/M) 2019 Baron Widmann Kurtatsch,,,BOTTLE,2019,5000,0,3,,,True
+,RED,Cuvée Iugum (M/CS) 2017 Dipoli Neumarkt ,,,BOTTLE,2017,6500,0,4,,,True
+,RED,Cuvée Iugum (M/CS) 2015 Dipoli Neumarkt ,,,BOTTLE,2015,6500,0,3,,,True
+,RED,Cuvée Zeder (M/CS/L) 2021 Kornell Terlan ,,,BOTTLE,2021,3400,0,7,,,True
+,RED,Cuvée Hexagon (CS/M/CF/S/PV) 2021 Pitzner Kardaun ,,,BOTTLE,2021,8900,0,12,,,True
+,RED,Cuvée Mauritius (L/M) 2020 Kellerei Bozen,,,BOTTLE,2020,5900,0,3,,,True
+,RED,Cuvée Cassiano (M/CF/T/CS/PV/SY) 2021 Manincor Kalterer See,,,BOTTLE,2021,6200,0,13,,,True
+,RED,"Blaufränkisch Leithaberg 2017 Heinrich Burgenland, Österreich",,,BOTTLE,2017,4500,0,1,,,True
+,RED,"Merlot Mönchhof 2012 Pöckl Burgenland, Österreich",,,BOTTLE,2012,15500,0,1,,,True
+,RED,"Cuvée (Z/M/CS) Admiral 2015 Pöckl Burgenland, Österreich",,,BOTTLE,2015,9000,0,1,,,True
+,RED,"Tempranillo Reserva 2009 Vina Tondonia Rioja, Spanien",,,BOTTLE,2009,7000,0,4,,,True
+,RED,"Shiraz Kalimna Bin 28 2017 Penfolds, Australien",,,BOTTLE,2017,8500,0,1,,,True
+,RED,"Pinot Noir Ocean Eight 2014 Mike Aylward, Australien",,,BOTTLE,2014,9900,0,1,,,True
+,RED,"Zinfandel Founders Estate 2018 Beringer, Kalifornien",,,BOTTLE,2018,4000,0,1,,,True
+,RED,"Monte Bello (CS) 2018 Ridge, Kalifornien",,,BOTTLE,2018,41000,0,2,,,True
+,RED,Cuvée (S/CS/CF) The Echo of G. 2014 Südafrika ,,,BOTTLE,2014,18000,0,2,,,True
+,RED,"Cabernet Savignon Estate 2018 Ridge, Kalifornien ",,,BOTTLE,2018,16000,0,1,,,True
+,RED,Spätburgunder JJ 2020 Adeneuer Ahr ,,,BOTTLE,2020,3600,0,9,,,True
+,RED,Spätburgunder Kräuterberg GG 2018 Adeneuer Ahr ,,,BOTTLE,2018,10500,0,6,,,True
+,RED,Spätburgunder Gärkammer GG 2020 Adeneuer Ahr ,,,BOTTLE,2020,11500,0,3,,,True
+,RED,Spätburgunder Tradition 2021 Künstler Rheingau,,,BOTTLE,2021,4000,0,2,,,True
+,RED,Spätburgunder Eichberg Große Lage 2017 Keller Baden,,,BOTTLE,2017,9500,0,1,,,True
+,RED,Spätburgunder Malterdinger Alte Reben 2021 Bernhard Huber Baden,,,BOTTLE,2021,9800,0,3,,,True
+,RED,Spätburgunder Jaspis Alte Reben 2013 Ziereisen Baden,,,BOTTLE,2013,9800,0,1,,,True
+,RED,Spätburgunder Bürgstadter 2019 Fürst Franken ,,,BOTTLE,2019,4800,0,5,,,True
+,RED,Spätburgunder Bürgstadter 2017 Fürst Franken,,,BOTTLE,2017,4800,0,2,,,True
+,RED,Syrah Däublin 2019 Ziereisen Baden,,,BOTTLE,2019,10000,0,5,,,True
+,RED,Teroldego Granato 2018 Foradori Trentino ,,,BOTTLE,2018,8900,0,6,,,True
+,RED,Amarone Ca' Coato 2017 Antolini Valpolicella,,,BOTTLE,2017,6900,0,6,,,True
+,RED,Barbaresco Montestefano 2014 Rivella Piemont ,,,BOTTLE,2014,12000,0,3,,,True
+,RED,Barbaresco Vigneto Starderi 2010 La Spinetta Piemont ,,,BOTTLE,2010,16000,0,1,,,True
+,RED,Barbaresco Ronchi 2020 Albino Rocco Piemont ,,,BOTTLE,2020,8500,0,2,,,True
+,RED,Barbaresco Ronchi Riserva 2016 Albino Rocca Piemont ,,,BOTTLE,2016,18700,0,2,,,True
+,RED,Barbaresco Ronchi Riserva 2019 Albino Rocca Piemont ,,,BOTTLE,2019,18700,0,2,,,True
+,RED,Barbaresco 2014 Angelo Gaja Piemont ,,,BOTTLE,2014,37000,0,3,,,True
+,RED,Grumello Valtellina Superiore 2019 I Vitari Valtellina ,,,BOTTLE,2019,9600,0,4,,,True
+,RED,Grumello Valtellina Superiore 2021 I Vitari Valtellina ,,,BOTTLE,2021,9600,0,6,,,True
+,RED,Rosso di Valtellina 2020 I Vitari Valtellina,,,BOTTLE,2020,4500,0,10,,,True
+,RED,Nebbiolo Sassella Riserva 2018 Clos Convento San Lorenzo Valtellina,,,BOTTLE,2018,6500,0,12,,,True
+,RED,Nebbiolo 2022 Albino Rocca Piemont ,,,BOTTLE,2022,3900,0,8,,,True
+,RED,Nebbiolo 2021 Albino Rocca Piemont ,,,BOTTLE,2021,3900,0,3,,,True
+,RED,Nebbiolo Gattinara 2020 Travaglini Piemont ,,,BOTTLE,2020,4500,0,5,,,True
+,RED,Nebbiolo d'Alba Anphora 2021 Réva Piemont ,,,BOTTLE,2021,3800,0,10,,,True
+,RED,Nebbiolo 2009 Ciabot Mentin Domenico Clerico Piemont ,,,BOTTLE,2009,16500,0,3,,,True
+,RED,Nebbiolo Lessona 2018 Proprietá Sperino Piemont ,,,BOTTLE,2018,11200,0,5,,,True
+,RED,Barolo Conteisa 2015 Gaja Piemont ,,,BOTTLE,2015,61000,0,2,,,True
+,RED,Barolo Ravera 2019 Revá ,,,BOTTLE,2019,13500,0,2,,,True
+,RED,Langhe Virtus (Barbera/CS) 2011 Marchesi di Gresy ,,,BOTTLE,2011,4500,0,1,,,True
+,RED,Montepulciano Riserva Illuminati 2001 Zanna Abruzzen MAGNUM,,,MAGNUM,2001,8000,0,2,,,True
+,RED,Montefalco Sagrantino Bio 2017 Di Filippo Umbrien ,,,BOTTLE,2017,5000,0,4,,,True
+,RED,Paleo CF 2019 Le Macchiole Bolgheri ,,,BOTTLE,2019,13500,0,5,,,True
+,RED,Scrio Syrah 2019 Le Macchiole Bolgheri ,,,BOTTLE,2019,16500,0,1,,,True
+,RED,Messorio Merlot 2019 Le Macchiole Bolgheri ,,,BOTTLE,2019,21500,0,2,,,True
+,RED,Pinot Noir 2020 Podere della Civettaja Toskana ,,,BOTTLE,2020,7500,0,2,,,True
+,RED,Rosso di Montalcino 2019 Il Colle Toskana ,,,BOTTLE,2019,4800,0,1,,,True
+,RED,Brunello di Montalcino 2018 Il Colle Toscana ,,,BOTTLE,2018,7900,0,2,,,True
+,RED,Brunello di Montalcino 2018 Pietroso Toskana ,,,BOTTLE,2018,7900,0,3,,,True
+,RED,Brunello di Montalcino 2016 Pietroso Toskana ,,,BOTTLE,2016,9500,0,5,,,True
+,RED,Brunello di Montalcino 2015 Pietroso Toskana ,,,BOTTLE,2015,9500,0,1,,,True
+,RED,Brunello di Montalcino Riserva Lupi e Sirene 2016 Podere le Ripi Toskana ,,,BOTTLE,2016,13500,0,2,,,True
+,RED,Brunello di Montalcino 2014 Il Paradiso di Manfredi Toskana ,,,BOTTLE,2014,14000,0,3,,,True
+,RED,Chianti Classico 2020 Tenuta di Carleone Toskana ,,,BOTTLE,2020,4800,0,6,,,True
+,RED,Chianti Classico 2019 Tenuta di Carleone Toskana ,,,BOTTLE,2019,4800,0,2,,,True
+,RED,Chianti Classico 2021 Boundonno Toskana ,,,BOTTLE,2021,4400,0,2,,,True
+,RED,Cuvée (CF/CS) Poggio alle Nane 2020 Le Mortelle Toskana ,,,BOTTLE,2020,8200,0,2,,,True
+,RED,Cuvée(CS/S) Villa Conversino 2020 Di Filippo Umbrien ,,,BOTTLE,2020,3900,0,3,,,True
+,RED,Cuvée (Nerello Mascalese/ Grenache) Tartaraci 2020 Buscemi Sizilien,,,BOTTLE,2020,5400,0,3,,,True
+,RED,Cuvée (Nerello Mascalese/ Grenache) Tartaraci 2019 Buscemi Sizilien,,,BOTTLE,2019,5400,0,3,,,True
+,RED,Cuvée (CS/CF/M) Dott. Palazzolo 2021 Ronco del Gnemiz Friaul ,,,BOTTLE,2021,8900,0,5,,,True
+,RED,Cuvée (CS/CF/M) Dott. Palazzolo 2020 Ronco del Gnemiz Friaul ,,,BOTTLE,2020,8900,0,5,,,True
+,RED,Cuvée (SY/M/S) Colline Lucchesi 2021 Palistorti Di Valgiano ,,,BOTTLE,2021,4000,0,9,,,True
+,RED,Cuvée (CF/M) Il Randaglio 2021 Tenuta di Carleone Toskana ,,,BOTTLE,2021,3800,0,3,,,True
+,RED,Merlot Con't Ugo 2021 Guadi al Tasso Bolgheri ,,,BOTTLE,2021,6200,0,2,,,True
+,RED,Bourgogne Passetoutgrain 2022 Forey Pére & Fils,,,BOTTLE,2022,3900,0,6,,,True
+,RED,Gevrey Chambertin Petite Chapelle 2021 Humbert ,,,BOTTLE,2021,24000,0,1,,,True
+,RED,Fixin Vieilles Vignes 2021 Humbert ,,,BOTTLE,2021,9800,0,2,,,True
+,RED,Fixin Vieilles Vignes 2020 Humbert ,,,BOTTLE,2020,9800,0,3,,,True
+,RED,Savigny-lés-Beaune Pinot Noir Vieilles Vignes 2018 Marechal ,,,BOTTLE,2018,6500,0,1,,,True
+,RED,Beaune 1er Cru Les Bressandes 2022 Berthelemot,,,BOTTLE,2022,9800,0,3,,,True
+,RED,Chambolle Musigny Pinot Noir 2019 Amiot Servelle,,,BOTTLE,2019,11000,0,1,,,True
+,RED,Nuits-Saint-George Pinot Noir Les Rues de Chaux 2021 Chicotot,,,BOTTLE,2021,14000,0,4,,,True
+,RED,Nuits-Saint-George Pinot Noir Les Saint Georges 2021 Chicotot,,,BOTTLE,2021,18500,0,2,,,True
+,RED,Nuits-Saint-George Pinot Noir Les Saint Georges 2020 Chicotot,,,BOTTLE,2020,18500,0,1,,,True
+,RED,Nuits-Saint-George Pinot Noir Aux Thorey 2021 Pierre Brisset,,,BOTTLE,2021,16400,0,3,,,True
+,RED,Pommard 2022 Jean-Marc-Boillot,,,BOTTLE,2022,11500,0,3,,,True
+,RED,Crozes-Hermitage Syrah 2021 Yann Chave ,,,BOTTLE,2021,5000,0,3,,,True
+,RED,Hermitage Syrah 2021 Yann Chave,,,BOTTLE,2021,14500,0,3,,,True
+,RED,Cháteauneuf-de-Pape Cuvée Centenaire 2015 André Brunel ,,,BOTTLE,2015,17800,0,3,,,True
+,RED,Cháteauneuf-de-Pape Les Cailloux 2019 André Brunel ,,,BOTTLE,2019,8900,0,5,,,True
+,RED,Cuvée Vieilles Vignes (SY/G/Mouv.) 2020 Domaine Gauby Roussilon ,,,BOTTLE,2020,8500,0,2,,,True
+,RED,Pomerol (CF/M) 2016 Cháteau Cantelauze ,,,BOTTLE,2016,13000,0,4,,,True
+,RED,Savigny-les-Beaune Pinot Noir 1997 Robert Ampeau et Fils ,,,BOTTLE,1997,12600,0,1,,,True

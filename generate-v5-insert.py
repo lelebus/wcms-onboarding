@@ -21,8 +21,8 @@ def main(root):
     df_auto = pd.read_excel(os.path.join(root, V4_MATCHES_FILENAME), sheet_name=0)
     df_manual_all = pd.read_excel(os.path.join(root, V4_MATCHES_FILENAME), sheet_name=1)
 
-    # FIX: show consider empty matched_id as non matched
-    df_manual_mask = df_manual_all["ok"].apply(lambda x: x in (1, True, "1", "True")) 
+    # set ok to False, where matched_id is empty
+    df_manual_mask = df_manual_all["matched_id"].apply(lambda x: type(x) == str and len(x) == 31) 
 
     df_manual = df_manual_all.loc[df_manual_mask].copy()
     df_forward_manual = df_manual_all.loc[~df_manual_mask].copy()
@@ -30,11 +30,18 @@ def main(root):
     ############## Insert ############
 
     df_insert = pd.concat([df_auto, df_manual])
-    # drop duplicates
-    df_forward_duplicate = df_insert[
-        df_insert.duplicated(subset=DUPLICATES_SUBSET, keep=False)
+   # Separate rows with vintage 0
+    df_vintage_zero = df_insert[df_insert["vintage"] == 0]
+    df_vintage_non_zero = df_insert[df_insert["vintage"] > 0]
+
+    # Identify duplicates, excluding rows with vintage 0
+    df_forward_duplicate = df_vintage_non_zero[
+        df_vintage_non_zero.duplicated(subset=DUPLICATES_SUBSET, keep=False)
     ]
-    df_insert = df_insert.drop_duplicates(subset=DUPLICATES_SUBSET, keep=False)
+    df_vintage_non_zero = df_vintage_non_zero.drop_duplicates(subset=DUPLICATES_SUBSET, keep=False)
+
+    # Add rows with vintage 0 back to the DataFrame
+    df_insert = pd.concat([df_vintage_non_zero, df_vintage_zero])
     df_insert = df_insert.rename(columns={"matched_id": "wine_id"})
 
     print("\nInsertion:")
@@ -45,7 +52,7 @@ def main(root):
     print(f"Duplicates: {len(df_forward_duplicate)}")
     print(f"Total inserted: {len(df_insert)}")
 
-    fill_empty(df_insert, VColumns.v5(), True).to_csv(
+    fill_empty(df_insert, VColumns.v5()).to_csv(
         os.path.join(root, "v5-insert-draft.csv"), index=False
     )
     print(f"Saved to {os.path.join(root, 'v5-insert-draft.csv')}")

@@ -1,0 +1,59 @@
+external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantity,storage_area,internal_notes,visible
+v.54031.2019.b,, Brunello di Montalcino,Agostina Pieri,,BOTTLE,2019,8000,2400,2,,,True
+v.13876.2023.b,, Pinot bianco Finado,Andrian,,BOTTLE,2023,2800,760,5,,,True
+v.35327.2023.b,, Pinot noir,Andrian,,BOTTLE,2023,3500,1100,2,,,True
+v.480.2020.b,, Vino Nobile di Montepulciano,Bindella,,BOTTLE,2020,4400,1350,11,,,True
+v.97515.2022.b,, Calamus,Canneto,,BOTTLE,2022,2800,790,2,,,True
+v.11281.2020.b,, Il Muffato,Canneto,,BOTTLE,2020,5100,1950,3,,,True
+v.9318.2022.b,, Rosso di Montepulciano,Canneto,,BOTTLE,2022,2500,690,35,,,True
+v.11280.2016.b,, Vino Nobile di Montepulciano Riserva,Canneto,,BOTTLE,2016,4000,1320,6,,,True
+v.9319.2018.b,, Vino Nobile di Montepulciano,Canneto,,BOTTLE,2018,3400,0,12,,,True
+v.52868.0.b,, Extra brut,Carlo Zadra,,BOTTLE,0,5000,1630,4,,,True
+v.77496.0.b,, Liberty Brut,Carlo Zadra,,BOTTLE,0,5000,1480,6,,,True
+v.30704.2021.b,, Chardonnay Farnito,Carpineto,,BOTTLE,2021,3300,955,6,,,True
+v.37273.2022.b,, Rosso di Montalcino,Carpineto,,BOTTLE,2022,4100,1335,6,,,True
+v.57547.2022.b,, Rosso di Montepulciano,Carpineto,,BOTTLE,2022,2200,650,32,,,True
+v.30701.2019.b,, Vino Nobile di Montepulciano Riserva,Carpineto,,BOTTLE,2019,4800,1780,6,,,True
+v.764.2022.a,, Morellino di Scansano,Fattoria Le Pupille,,HALF_BOTTLE,2022,2600,720,3,,,True
+v.8935.2020.b,, Chianti Rùfina Riserva Vigneto Bucerchiale,Fattoria Selvapiana,,BOTTLE,2020,5500,1780,7,,,True
+v.3663.2022.b,, Chianti Rùfina,Fattoria Selvapiana,,BOTTLE,2022,0,830,2,,,True
+v.8937.2020.b,, Fornace,Fattoria Selvapiana,,BOTTLE,2020,4900,1700,4,,,True
+v.96743.2023.b,, Vermentino,Il Palazzo,,BOTTLE,2023,0,660,1,,,True
+v.91375.2021.b,, Canta Grillo,La Leccia,,BOTTLE,2021,3200,960,8,,,True
+v.91376.2021.b,, Chianti Riserva,La Leccia,,BOTTLE,2021,2800,819,22,,,True
+v.91374.2022.b,, Chianti Superiore,La Leccia,,BOTTLE,2022,2200,396,18,,,True
+v.9803.0.b,, Franciacorta Cuvée n. 7 Brut,Lo Sparviere,,BOTTLE,0,4900,1410,1,,,True
+v.16114.2023.b,, Moscato d'Asti,Marco e Vittorio Adriano,,BOTTLE,2023,2500,710,6,,,True
+v.95516.2023.b,, Langhe Nascetta,Michele Reverdito,,BOTTLE,2023,2700,750,1,,,True
+v.9395.2021.b,, Bolgheri Superiore Guardione,Micheletti,,BOTTLE,2021,6000,2000,8,,,True
+v.9394.2022.b,, Dalleo,Micheletti,,BOTTLE,2022,4000,1050,19,,,True
+v.70469.2021.b,, Orvieto Classico Superiore Vendemmia Tardiva,Palazzone,,BOTTLE,2021,3700,1220,2,,,True
+v.19257.2021.b,, Barbera d'Alba Superiore Bricco delle Olive,Palladino,,BOTTLE,2021,3800,1195,12,,,True
+v.47858.2020.b,, Barolo del Comune di Serralunga d'Alba,Palladino,,BOTTLE,2020,5900,2395,6,,,True
+v.47859.2022.b,, Nebbiolo d'Alba,Palladino,,BOTTLE,2022,3800,1175,12,,,True
+v.47861.2022.b,, Roero Arneis,Palladino,,BOTTLE,2022,2900,865,6,,,True
+v.32710.2019.b,, Brunello di Montalcino Cielo d'Ulisse,Podere Le Ripi,,BOTTLE,2019,10000,2900,4,,,True
+v.40430.2020.b,, Chianti Classico Gran Selezione Casasilia,Poggio al Sole,,BOTTLE,2020,6500,2500,4,,,True
+v.68712.2022.b,, Chianti Classico,Poggio al Sole,,BOTTLE,2022,3500,1050,7,,,True
+v.3149.2023.b,, Cassiopea,Poggio al Tesoro,,BOTTLE,2023,3000,950,6,,,True
+v.3150.2022.b,, Mediterra,Poggio al Tesoro,,BOTTLE,2022,3200,1000,63,,,True
+v.3148.2023.b,, Vermentino Solosole,Poggio al Tesoro,,BOTTLE,2023,3900,1350,12,,,True
+v.69606.2020.b,, Bozner Leiten,Putzenhof,,BOTTLE,2020,3300,990,4,,,True
+v.33241.2022.b,, Rosso di Montalcino,San Polo,,BOTTLE,2022,4100,1450,12,,,True
+v.14577.2016.b,, Passerina,Santa Barbara,,BOTTLE,2016,2600,780,1,,,True
+v.7563.2023.b,, Verdicchio dei Castelli di Jesi Classico Stè,Santa Barbara,,BOTTLE,2023,1900,490,10,,,True
+v.3627.2022.b,, Blanc di Simon,Simon di Brazzan,,BOTTLE,2022,3000,880,4,,,True
+v.33414.2022.b,, Riné Blanc,Simon di Brazzan,,BOTTLE,2022,3000,880,4,,,True
+v.69587.2023.b,, Chardonnay,St. Pauls,,BOTTLE,2023,2700,740,12,,,True
+v.69586.2023.b,, Goldmuskateller,St. Pauls,,BOTTLE,2023,2900,819,10,,,True
+v.69588.2022.b,, Lagrein,St. Pauls,,BOTTLE,2022,2900,860,3,,,True
+v.69584.2023.b,, Pinot grigio,St. Pauls,,BOTTLE,2023,2700,750,3,,,True
+v.69585.2023.b,, Pinot nero,St. Pauls,,BOTTLE,2023,3200,919,12,,,True
+v.70131.2023.b,, Sauvignon,St. Pauls,,BOTTLE,2023,2900,409,10,,,True
+v.82628.2022.b,, Pinot Nero Violis,Stocco,,BOTTLE,2022,2300,490,2,,,True
+v.73695.2019.b,, Brunello di Montalcino Piero,Talenti,,BOTTLE,2019,12000,3000,3,,,True
+v.79013.2023.b,, Vernaccia di San Gimignano Lunario,Tollena,,BOTTLE,2023,2900,865,21,,,True
+v.79009.2022.b,, Vernaccia di San Gimignano Tollena,Tollena,,BOTTLE,2022,3600,1195,6,,,True
+v.13447.0.b,, Prosecco Extra dry,Torresella,,BOTTLE,0,2500,509,18,,,True
+v.64316.2023.b,, Prosecco Rosé Millesimato Brut,Torresella,,BOTTLE,2023,2500,570,2,,,True
+v.96740.0.b,, Quinta Nota Brut,Varaschin,,BOTTLE,0,2500,620,9,,,True

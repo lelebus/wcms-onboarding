@@ -1,0 +1,204 @@
+wine_id,external_id,size,vintage,price,purchase_price,info,storage_area,quantity,internal_notes,visible
+wine_01hbtdrmck82qfy3gwnss13q7q,,BOTTLE,1999,0,0,,Cantinetta,6,,True
+wine_01h4pmmgp7x9epz1q4bf8jz1mp,,BOTTLE,2006,0,25000,,Cantinetta,3,250,True
+wine_01gzr4ksppd270rmhp05yw7cnd,,BOTTLE,1997,0,0,,Cantinetta,1,,True
+wine_01gzr4ksjeyk8t0fcd4ysbz0yr,,BOTTLE,2005,0,0,,Cantinetta,2,,True
+wine_01gzr4kt7rksxs5tbbk6rk88q4,,BOTTLE,2020,0,0,,Cantinetta,6,,True
+wine_01gzr4kt6ehmbxr0sw4wbs86bm,,BOTTLE,2020,0,0,,Cantinetta,2,,True
+wine_01gzr4kt6eyea97wmmagbfda3y,,BOTTLE,2020,0,0,,Cantinetta,2,,True
+wine_01gzr4kt1k9nn59ds3pr5ma5en,,BOTTLE,1996,0,0,,Cantinetta,2,,True
+wine_01h0my5sa02ad24d2x408hzb0v,,BOTTLE,1997,0,0,,Cantinetta,1,,True
+wine_01havwef3fzcj1xk83rb8ny3wn,,BOTTLE,2005,0,30000,,Cantinetta,2,€ 300 ,True
+wine_01havwef3fzcj1xk83rb8ny3wn,,BOTTLE,2007,0,30000,,Cantinetta,1,€ 300 ,True
+wine_01hawwcxhz1ptbz9nxygn5khxd,,BOTTLE,2009,0,130000,,Cantinetta,1,€1300? ,True
+wine_01h0r2pq69mwhh4zm1rhmn7rf6,,BOTTLE,2004,0,3000,,Cantinetta,4,30,True
+wine_01gzr4ktm0z5tf2sn186m710hx,,BOTTLE,2005,0,4000,,Cantinetta,10,40,True
+wine_01h0my5svsrdjazkdmh0b1qkb1,,BOTTLE,1998,0,0,,Cantinetta,5,,True
+wine_01gzr4ktwds8a8aqrv75537n1q,,BOTTLE,2005,0,0,,Cantinetta,1,,True
+wine_01h0r2ppp8tjwmbd62kezmbqze,,BOTTLE,2005,0,15000,,Cantinetta,3,150,True
+wine_01h0qsxnrhzbkebe517b10yq3m,,BOTTLE,2007,0,0,,Cantinetta,2,60 (da vendere) ,True
+wine_01gzr4ktm1xy0bhtkdbabpswv5,,BOTTLE,2007,0,9000,,Cantinetta,1,80/90 ,True
+wine_01gzr4ktm1ykjzgn3gh2byt2pe,,BOTTLE,2007,0,25000,,Cantinetta,1,250,True
+wine_01h0my5sm051gq8gaj1qqnrq3g,,BOTTLE,2009,0,4200,,Cantinetta,4,42 (è longevo) ,True
+wine_01gzr4kswqpz4zgt18hfjwnv81,,BOTTLE,2004,0,0,,Cantinetta,2,,True
+wine_01hcw4dga2amsthaysqgywbxqd,,BOTTLE,2019,0,10200,,Cantinetta,2,Pagata io 102€ ,True
+wine_01gzr4ksd3m8y62ggabzd1kdmg,,BOTTLE,2005,0,0,,Cantinetta,1,,True
+wine_01gzr4ksd3m8y62ggabzd1kdmg,,BOTTLE,2004,0,0,,Cantinetta,3,,True
+wine_01gzr4kt7vqgypgv5wdesvhzj3,,BOTTLE,1989,0,0,,Cantinetta,1,,True
+wine_01h0my5sexbhq3j2fmacg0sywa,,BOTTLE,1990,0,0,,Cantinetta,1,,True
+wine_01h0my5svs9jtvznrcx9ar7zxq,,BOTTLE,2022,0,0,,Cantinetta,4,,True
+wine_01h0sq492rkwyby2fra8rr7t0c,,BOTTLE,2001,0,0,,Cantinetta,1,,True
+wine_01h0sq492rkwyby2fra8rr7t0c,,BOTTLE,2006,0,0,,Cantinetta,4,,True
+wine_01h0sq492pnr7dya4pttchy9c9,,BOTTLE,2006,0,0,,Cantinetta,6,,True
+wine_01h0sq492pm9n2ydb5qec33fsv,,BOTTLE,2000,0,0,,Cantinetta,1,,True
+wine_01h0sq492pm9n2ydb5qec33fsv,,BOTTLE,2001,0,0,,Cantinetta,1,,True
+wine_01havwee4y60p6rjaprm2pthb4,,BOTTLE,2006,0,0,,Cantinetta,1,,True
+wine_01h0sq492rpakfpdpc2j0y05de,,BOTTLE,2006,0,0,,Cantinetta,1,,True
+wine_01gzr4ksk65p67x8cndcmmdgm2,,BOTTLE,2018,0,0,,Cantinetta,1,,True
+wine_01gzr4ksk6kca5fk97j9mzfq9j,,BOTTLE,2023,0,0,,Cantinetta,6,,True
+wine_01gzr4ksk6ekbbq8wmtd487ka3,,BOTTLE,2023,0,0,,Cantinetta,6,,True
+wine_01gzr4ksk6snjfev5zvksfyc4k,,BOTTLE,2009,0,0,,Cantinetta,7,,True
+wine_01gzr4ksk6snjfev5zvksfyc4k,,BOTTLE,2020,0,0,,Cantinetta,6,,True
+wine_01gzr4ksk7qwzq5aeq91qyx4n0,,BOTTLE,2003,0,0,,Cantinetta,1,,True
+wine_01gzr4kt3z3m6jph7qkwzfgm2a,,BOTTLE,2007,0,0,,Cantinetta,4,,True
+wine_01gzr4kt3z3m6jph7qkwzfgm2a,,BOTTLE,2012,0,0,,Cantinetta,3,,True
+wine_01gzr4kt16p6tk1cmcm3hm8n4v,,BOTTLE,1997,0,0,,Cantinetta,1,,True
+wine_01h0qzm1sfe27vsfbw0h3d3dn4,,BOTTLE,2008,0,0,,Cantinetta,4,,True
+wine_01gzr4ksd9kfp30jtsgmty7rzt,,BOTTLE,2016,0,0,,Cantinetta,1,,True
+wine_01gzr4kssyhsynghj140yvd8qf,,BOTTLE,2001,0,0,,Cantinetta,2,,True
+wine_01gzr4ksd8krmx1tmzcfkpswtx,,BOTTLE,2002,0,0,,Cantinetta,1,,True
+wine_01h0my5svsgbqwhw8465x3tfxs,,BOTTLE,2001,0,0,,Cantinetta,1,,True
+wine_01h0my5svsgp6e59aak2hw96yx,,BOTTLE,2009,0,0,,Cantinetta,2,,True
+wine_01h0sq492rddrc6dznyqjczfjw,,BOTTLE,2008,0,0,,Cantinetta,2,,True
+wine_01h0sq492rkwyby2fra8rr7t0c,,MAGNUM,2009,0,0,,Cantinetta,2,,True
+wine_01gzr4ksk6snjfev5zvksfyc4k,,BOTTLE,1997,0,0,,Cantinetta,1,,True
+wine_01gzr4kskwd3k439cn7cg476ak,,BOTTLE,2000,0,0,,Cantinetta,2,,True
+wine_01gzr4kskwd3k439cn7cg476ak,,MAGNUM,2009,0,0,,Cantinetta,1,,True
+wine_01gzr4kskxy03f4afxmnr876vz,,MAGNUM,2011,0,0,,Cantinetta,1,,True
+wine_01gzr4kt16p6tk1cmcm3hm8n4v,,MAGNUM,1997,0,0,,Cantinetta,2,,True
+wine_01gzr4kt80nwc7smzmc8ksh973,,BOTTLE,1995,0,0,,Cantinetta,2,,True
+wine_01gzr4ksd3w8328ttr5b1njkxs,,BOTTLE,1983,0,0,,Cantinetta,2,,True
+wine_01gzr4kspp7qb0nmb3p3cs0zz4,,BOTTLE,2004,0,0,,Cantinetta,1,,True
+wine_01gzr4kt7mx1pd68wsczr6dxmm,,MAGNUM,2005,0,0,,Cantinetta,2,,True
+wine_01gzr4kt7mshqrvje5e2ypqpd5,,BOTTLE,2005,0,0,,Cantinetta,5,,True
+wine_01h0my5t3tzrr4w6ass1r3sqvc,,BOTTLE,2007,0,0,,Cantinetta,6,,True
+wine_01h0my5t3tsvckfc82dvphp0wd,,BOTTLE,2005,0,0,,Cantinetta,6,,True
+wine_01gzr4ksd7nkzvrd352xa1jetm,,BOTTLE,2009,0,0,,Cantinetta,1,,True
+wine_01gzr4ksd7nkzvrd352xa1jetm,,BOTTLE,2022,0,0,,Cantinetta,6,,True
+wine_01gzr4kse5v0yqw6m7wxs5y33s,,BOTTLE,2018,0,0,,Cantinetta,6,,True
+wine_01h0b4rjgc6nrat12qasd3pvzy,,BOTTLE,2018,0,0,,Cantinetta,6,,True
+wine_01gzr4ksjegwegeg14ry41e9rq,,BOTTLE,2020,0,0,,Cantinetta,6,,True
+wine_01h0my5sf7zyrsqh0ep1y4xkdj,,JEROBOAM,1999,0,0,,Cantinetta,1,,True
+wine_01h0my5sf7zyrsqh0ep1y4xkdj,,MAGNUM,1999,0,0,,Cantinetta,2,,True
+wine_01h0b4rjgsjfs0d0cn2rn53kmb,,BOTTLE,1993,0,0,,Cantinetta,1,,True
+wine_01gzr4ktmwbbq28adxqwhrxxd6,,BOTTLE,2001,0,0,,Cantinetta,4,,True
+wine_01h0my5sf7zyrsqh0ep1y4xkdj,,BOTTLE,1999,0,0,,Cantinetta,4,,True
+wine_01gzr4kt39y32kermecattmc7a,,BOTTLE,2019,0,0,,Cantinetta,6,,True
+wine_01gzr4kt6eaqpt1hjwa1qakn53,,BOTTLE,2019,0,0,,Cantinetta,6,,True
+wine_01gzr4kt6eya318dp2ab2ndw5q,,BOTTLE,2020,0,0,,Cantinetta,2,,True
+wine_01gzr4ksv2s2amtdnyfj8mzzxm,,BOTTLE,2009,0,5000,,Cantinetta,2,€45/50 da vendere,True
+wine_01h4pmmgwh88hpyhzs40zmckb7,,BOTTLE,2005,0,8000,,Cantinetta,5,€ 80 Rosso,True
+wine_01gzr4kstppr69je9jedmns1pd,,BOTTLE,2006,0,20000,,Cantinetta,1,€ 200 Annata top****,True
+wine_01h0qzm2htmjfpg1thcps4m349,,BOTTLE,2006,0,8000,,Cantinetta,1,€ 80 ,True
+wine_01h0qzm2htmjfpg1thcps4m349,,BOTTLE,2005,0,9000,,Cantinetta,1,€ 90 ,True
+wine_01h0qzm2htmjfpg1thcps4m349,,BOTTLE,2009,0,9000,,Cantinetta,2,€ 90 ,True
+wine_01hawwcxc57et40pk6xc368s2y,,BOTTLE,2009,0,26000,,Cantinetta,2,€250/260 ,True
+wine_01harvcm2k9hhakhy46v52jfh2,,BOTTLE,2009,0,16000,,Cantinetta,2,€150/160 ,True
+wine_01hawwcxhzfsr2n89ztag8d0jj,,MAGNUM,2009,0,120000,,Cantinetta,1,"€ 1,200 ",True
+wine_01h0r2pp6r4j1gxvsf8t2n5e6v,,BOTTLE,2006,0,15000,,Cantinetta,2,150,True
+wine_01j52tewc5qss6frvzgvjzvg7g,,BOTTLE,2006,0,26000,,Cantinetta,2,260,True
+wine_01hcycw5gkzg2t4pr07daqd051,,BOTTLE,2005,0,7000,,Cantinetta,2,70,True
+wine_01hcw4df76nqmtjg5rkg841cmz,,BOTTLE,2010,0,8000,,Cantinetta,1,80,True
+wine_01h0qsxn69vt9j7hbbgeskxqjx,,BOTTLE,2007,0,9000,,Cantinetta,1,90,True
+wine_01h0qsxn694aybb0rx7c0d5c3m,,BOTTLE,2009,0,10000,,Cantinetta,1,100,True
+wine_01h0my5shfdyc8ez35vmsqcjga,,BOTTLE,2009,0,50000,,Cantinetta,2,500,True
+wine_01h0qsxn694aybb0rx7c0d5c3m,,BOTTLE,2006,0,10000,,Cantinetta,3,100,True
+wine_01h0qsxn694aybb0rx7c0d5c3m,,BOTTLE,2005,0,9000,,Cantinetta,2,90,True
+wine_01gzr4ksk4tkhn10js0kjazzwv,,BOTTLE,2009,0,20000,,Cantinetta,1,200 (non si trovano) ,True
+wine_01h0qsxn69vt9j7hbbgeskxqjx,,BOTTLE,2009,0,0,,Cantinetta,1,,True
+wine_01h4pmmfy7k0qmnq55q87x47nj,,BOTTLE,2007,0,6000,,Cantinetta,1,60,True
+wine_01h0qzm16t0hywf4k2hxj1hk7t,,BOTTLE,2006,0,15000,,Cantinetta,1,150,True
+wine_01hawwcxjdtqmprvxya34861az,,BOTTLE,2007,0,20000,,Cantinetta,2,200,True
+wine_01h0qzm1702r6cacmd5teyh07r,,BOTTLE,2007,0,40000,,Cantinetta,4,400,True
+wine_01h0r2pq0mnvb3aa8t20679y2c,,BOTTLE,2007,0,40000,,Cantinetta,3,400,True
+wine_01h0qzm16s04qn0dbmchcj6wd6,,BOTTLE,2007,0,10000,,Cantinetta,2,100,True
+wine_01h4pmmh1bhkgv56mkpb55fbva,,BOTTLE,2005,0,15000,,Cantinetta,3,150,True
+wine_01h4pmmh1bhkgv56mkpb55fbva,,BOTTLE,2007,0,15000,,Cantinetta,3,150,True
+wine_01gzr4ksvxbarz5c36xz4gxfxs,,BOTTLE,2004,0,3500,,Cantinetta,3,35 (è un base) ,True
+wine_01gzr4ksvxxyppcstq64d201bz,,MAGNUM,2002,0,8000,,Cantinetta,1,80,True
+wine_01h0sq492t4f3y865ts8m6aa8r,,BOTTLE,2005,0,0,,Cantinetta,2,,True
+wine_01h0my5tq8h4xq5h26yp5gks0h,,BOTTLE,2006,0,15000,,Cantinetta,1,150,True
+wine_01hcwsykn2s8e792nj0s4dgcmp,,BOTTLE,2009,0,7000,,Cantinetta,1,70,True
+wine_01gzr4kswj2540j3jpb6pe22rz,,BOTTLE,2001,0,6000,,Cantinetta,3,60,True
+wine_01gzr4ktjsa8haqahw04eqkch6,,BOTTLE,2005,0,9000,,Cantinetta,2,90,True
+wine_01h0qzm1av90e75j7g7rwa2gge,,BOTTLE,2005,0,10000,,Cantinetta,1,100,True
+wine_01h0qzm1ayj3dtx247c4mkj0hv,,BOTTLE,2006,0,18000,,Cantinetta,3,180,True
+wine_01havwef3h6t9kg0s5x6ydbvt8,,BOTTLE,2006,0,25000,,Cantinetta,3,250,True
+wine_01hawwcykfaz24sbg7ry0j00pe,,BOTTLE,2005,0,8000,,Cantinetta,3,80,True
+wine_01hawwcxmgwtbj2czgfmr4yzjj,,BOTTLE,2010,0,25000,,Cantinetta,6,200/250 ,True
+wine_01gzr4ktw0eyfchq20w8md4a5d,,BOTTLE,2000,0,20000,,Cantinetta,2,200,True
+wine_01gzr4ktw0eyfchq20w8md4a5d,,BOTTLE,2001,0,18000,,Cantinetta,1,150/180 ,True
+wine_01gzr4ktw1nmqv6xg8wqyxxtyb,,BOTTLE,2001,0,18000,,Cantinetta,1,150/180 ,True
+wine_01gzr4ktm143sn82t77q1mpg94,,BOTTLE,2007,0,10000,,Cantinetta,2,100,True
+wine_01gzr4ktm143sn82t77q1mpg94,,BOTTLE,2006,0,9000,,Cantinetta,2,80/90 ,True
+wine_01gzr4kswtdr04z9sd2rkyd7k4,,BOTTLE,2007,0,45000,,Cantinetta,2,450,True
+wine_01gzr4kswtdr04z9sd2rkyd7k4,,BOTTLE,2006,0,10000,,Cantinetta,1,400,True
+wine_01h0qzm16tc2sxksnbwdsxj3mr,,BOTTLE,2006,0,0,,Cantinetta,2,,True
+wine_01h0qzm16trhzzw40es7s3z8kh,,BOTTLE,2006,0,0,,Cantinetta,2,,True
+wine_01h0qzm16sv8sdzatncvh43bdz,,BOTTLE,2006,0,0,,Cantinetta,2,,True
+wine_01gzr4ksd13hpy7q0n03dkf2wb,,BOTTLE,1984,0,0,,Cantinetta,1, ,True
+wine_01gzr4ksd13hpy7q0n03dkf2wb,,BOTTLE,1980,0,0,,Cantinetta,1, ,True
+wine_01gzr4kse5v0yqw6m7wxs5y33s,,BOTTLE,2021,0,0,,Cantinetta,11, ,True
+wine_01gzr4kt80aqyvxbtdggywpefb,,BOTTLE,1995,0,0,,Cantinetta,5, ,True
+wine_01gzr4ksk7dfr3jwtwh28199qb,,BOTTLE,2019,0,0,,Cantinetta,6,,True
+wine_01gzr4kt3zhw5wb1mwayhck9ta,,BOTTLE,2009,0,0,,Cantinetta,2,,True
+wine_01gzr4kss4p4qj0zady87n2p7g,,MAGNUM,1997,0,0,,Cantinetta,1,,True
+wine_01h0my5rs1ykn5cfzvyrbxazas,,BOTTLE,1997,0,0,,Cantinetta,2,,True
+wine_01gzr4ksccv61mtagxxb0v6r6f,,BOTTLE,1991,0,0,,Cantinetta,1,,True
+wine_01h0my5sf2rb1cvxxae1x44jvy,,BOTTLE,2006,0,0,,Cantinetta,6,,True
+wine_01h0my5t3t6h3wdxhfs6e58096,,BOTTLE,2004,0,0,,Cantinetta,2,,True
+wine_01gzr4ksd80dyvp82qzdjyy0rb,,BOTTLE,2015,0,0,,Cantinetta,3,,True
+wine_01gzr4ksd80dyvp82qzdjyy0rb,,BOTTLE,2000,0,0,,Cantinetta,4,,True
+wine_01gzr4ksd80dyvp82qzdjyy0rb,,BOTTLE,2002,0,0,,Cantinetta,6,,True
+wine_01gzr4ksd80dyvp82qzdjyy0rb,,MAGNUM,2002,0,0,,Cantinetta,2,,True
+wine_01gzr4ksd80dyvp82qzdjyy0rb,,BOTTLE,2005,0,0,,Cantinetta,6,,True
+wine_01gzr4ksd80dyvp82qzdjyy0rb,,MAGNUM,2005,0,0,,Cantinetta,1,,True
+wine_01gzr4kt6xmh9qqa6wb2vpzvkp,,BOTTLE,2008,0,0,,Cantinetta,6,,True
+wine_01gzr4kt6xmh9qqa6wb2vpzvkp,,BOTTLE,2007,0,0,,Cantinetta,4,,True
+wine_01gzr4kt6xmh9qqa6wb2vpzvkp,,BOTTLE,2006,0,0,,Cantinetta,3,,True
+wine_01gzr4kt6xmh9qqa6wb2vpzvkp,,BOTTLE,2005,0,0,,Cantinetta,4,,True
+wine_01gzr4kt6xmh9qqa6wb2vpzvkp,,BOTTLE,2004,0,0,,Cantinetta,7,,True
+wine_01gzr4kt6xmh9qqa6wb2vpzvkp,,BOTTLE,2003,0,0,,Cantinetta,3,,True
+wine_01gzr4kt6xmh9qqa6wb2vpzvkp,,BOTTLE,1997,0,0,,Cantinetta,4,,True
+wine_01gzr4kt6xmh9qqa6wb2vpzvkp,,MAGNUM,2009,0,0,,Cantinetta,2,,True
+wine_01gzr4kt6xmh9qqa6wb2vpzvkp,,MAGNUM,2005,0,0,,Cantinetta,4,,True
+wine_01gzr4kt6xmh9qqa6wb2vpzvkp,,MAGNUM,2006,0,0,,Cantinetta,1,,True
+wine_01gzr4kt6xmh9qqa6wb2vpzvkp,,MAGNUM,2007,0,0,,Cantinetta,1,,True
+wine_01gzr4kt6xmh9qqa6wb2vpzvkp,,MAGNUM,2008,0,0,,Cantinetta,1,,True
+wine_01h0b4rjgc6nrat12qasd3pvzy,,BOTTLE,2020,0,0,,Cantinetta,6,,True
+wine_01gzr4kt6w1hbh7t7k0wkgswkk,,MAGNUM,2000,0,0,,Cantinetta,2,,True
+wine_01gzr4kt6w1hbh7t7k0wkgswkk,,BOTTLE,2001,0,0,,Cantinetta,3,,True
+wine_01gzr4kt6w1hbh7t7k0wkgswkk,,MAGNUM,2001,0,0,,Cantinetta,2,,True
+wine_01gzr4kt6w1hbh7t7k0wkgswkk,,BOTTLE,2004,0,0,,Cantinetta,6,,True
+wine_01gzr4kt6w1hbh7t7k0wkgswkk,,MAGNUM,2004,0,0,,Cantinetta,1,,True
+wine_01h0my5sexmwsha8fgg7n6159b,,BOTTLE,1993,0,0,,Cantinetta,2,,True
+wine_01gzr4ksv06ynaty6rcxkr29ks,,BOTTLE,2004,0,13000,,Cantinetta,2,€ 130 ,True
+wine_01h0qzm16vd849k5t93tw4pbhc,,BOTTLE,2007,0,80000,,Cantinetta,3,800,True
+wine_01gzr4ksd8zqq1nc5ssy5wxayd,,BOTTLE,2005,0,15000,,Cantinetta,2,150,True
+wine_01harvcm2y0a0hgdmz5czp42g7,,BOTTLE,2006,0,20000,,Cantinetta,2,200,True
+wine_01harvcm2wyasvmfgp26hgz4wn,,BOTTLE,2006,0,6500,,Cantinetta,1,"350 da vendere, l ho pagata 65 ",True
+wine_01h0my5t6mh67dwvtbs2deq2qk,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01h4pmmfe76yjnnc64vgcg0rz0,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01h0qzm1tsmx0p7drhda7fcn87,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01h0r2ppby17dt3kevt9qbvadz,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01gzr4ks5hvrwywht48ktm381b,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01h0f3cmbmys8kwr426s2yeks2,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01gzr4ktse53912xfj6fsy3r4f,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01gzr4ksd1q5hvwrcr5dxtbzer,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01gzr4ks63dw1mz9w5ezwc97av,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01h0f3cmbr6cbh29qm8an46fs6,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01gzr4ksd4ahar44dg95zgrg4g,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01gzr4kscbzga5159ds831sygw,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01gzr4ksd7vexbj0rhdtag7bxq,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01gzr4ktfzpkpcb8npmyet7qgt,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01gzr4ksccy48brc17qyswmgsr,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01gzr4ksccxtp2c61q9ev65fzx,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01gzr4kscc5tkafqr60hga5xms,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01h0my5vrgwwxac1xgpgyr9ndn,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01h0my5vrg0hjrp5b16exagwct,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01h0qzm0xpma2pkj9dk7pws9cy,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01h4pmmfk1xchpph5jkd25c9x5,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01h0f3cmbtcrj6dy2n3hdvwpne,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01h0qzm1tsya48dt1wmhttc8hj,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01gzr4ktx7fh691m5g3dr16jh2,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01gzr4ks64rxrjyjxd4za3j27p,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01h0f3cmbqgz03b49ag9z598bb,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01h0my5svevc6qkfan4mbexd3n,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01jeb40k9zcgztby0bc7mzsx7j,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01jeb48wdh12x6qgf1kmezwz0n,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01gzr4ksccqdvpxqpdw0e50xhq,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01hfxnejt3as5fxtd0zbp10a7z,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01hb8yebbn6bm4qcszx9qhyf95,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01h0qzm1ts3cab52wdy0m1xqk4,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01h0r2ppbwrbds0s5x4bb3h1zt,,BOTTLE,0,0,0,,Cantinetta,0,,True
+wine_01h0r2ppbxwja31kfpyr0agegj,,BOTTLE,0,0,0,,Cantinetta,0,,True

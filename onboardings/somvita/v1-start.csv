@@ -1,0 +1,418 @@
+external_id,name,winery,vintage,size,eur_sales_price,qty
+1,Arunda Riserva Extra Brut ,Sektkellerei Arunda,,BOTTLE,50,7
+2,Arunda Phineas IV ,Sektkellerei Arunda,,BOTTLE,85,4
+3,Praeclarus Brut ,Kellerei St. Pauls,,BOTTLE,48,4
+4,Blanc de Blancs Brut Nature 2018 ,Montris,2018,BOTTLE,60,6
+5,Brut Riserva 36 2019 ,Kellerei Meran,2019,BOTTLE,47,6
+6,600 Blanc de Blancs Pas Dosé 2017,Kellerei Kurtatsch,2017,BOTTLE,53,7
+7,InSekt Pet Nat 2021 ,Burgerhof Meßner,2021,BOTTLE,39,3
+8,Athesis Brut Rosé 2019 ,Kellerei Kettmeir,2019,BOTTLE,49,5
+9,Methius Riserva Brut 2018 ,Dorigati Mezzocorona,2018,BOTTLE,59,2
+10,Lamm No 12 Extra Brut ,Sektmanufaktur Winkler,,BOTTLE,58,13
+11,Honey GourMET Honig Brut,Imkerei Innerhofen,,BOTTLE,38,11
+12,Masnen-Vignal Millesimato Riserva 2018 ,Klinger Pilati,2018,BOTTLE,49,4
+13,Ferrari Perlé 2017 ,Kellerei Ferrari,2017,BOTTLE,63,9
+14,Ferrari Perlé Rosé Riserva 2016,Kellerei Ferrari,2016,BOTTLE,79,4
+15,Blauwal Vintage Riserva 2014,Cesconi,2014,BOTTLE,72,7
+16,SomVita Prosecco Extra Brut,Kellerei Sacchetto,,BOTTLE,29,200
+17,Santa Margherita 52 Brut 2021,Santa Margherita,2021,BOTTLE,32,5
+18,Lele Rosé Millesimato Brut 2021,Vineyards V8+,2021,BOTTLE,33,0
+19,Ruinart Blanc de Blancs Brut ,Montagne de Reims,,BOTTLE,129,4
+20,"Champagne Ruinart,  Rosé Brut ",Montagne de Reims,,BOTTLE,135,5
+21,Champagne Grand Cru ,Champagne J. Vignier,,BOTTLE,125,4
+22,Moët & Chandon Ice Impérial Brut,Champagne Moët & Chandon,,BOTTLE,110,2
+23,Insouciance Rosé Brut,Champagne Huré Frères,,BOTTLE,75,4
+24,Perrier-Jouët Grand Brut,Perrier-Jouët,,BOTTLE,115,4
+25,Perrier-Jouët Blason Rosé Brut,Perrier-Jouët,,BOTTLE,135,4
+26,Roederer Rosé Vintage Brut 2015,Champagne Louis Roederer,2015,BOTTLE,155,3
+27,Laurent-Perrier La Cuvée Brut ,Champagne Laurent-Perrier,,BOTTLE,75,4
+28,Legras & Haas Intuition Brut ,Champagne Legras & Haas,,BOTTLE,73,6
+29,Legras & Haas Blanc de Blancs Millésime Brut 2015 ,Champagne Legras & Haas,2015,BOTTLE,120,2
+30,Face Nord Grand Cru Rosé Brut ,Champagne Pehu Simonet,,BOTTLE,71,2
+31,Millésime 2010 ,Champagne A. Robert,2010,BOTTLE,112,4
+32,Alliance Rosé ,Champagne A. Robert,,BOTTLE,79,2
+33,Dom Pérignon Brut ,Champagne Moët & Chandon,2012,BOTTLE,350,2
+34,Dom Pérignon Brut ,Champagne Moët & Chandon,2013,BOTTLE,320,2
+35,Charles le Bel Inspiration 1818 ,Champagne Billecart&Salmon,,BOTTLE,68,1
+36,Ca’ del Bosco Cuvée Prestige Edizione 46 Extra Brut ,Ca’ del Bosco,,BOTTLE,59,24
+37,Ca’ del Bosco Cuvée Prestige Rosé Brut,Ca’ del Bosco,,BOTTLE,86,6
+38,Ca’ del Bosco Cuvée Annamaria Clementi Extra Brut ,Ca’ del Bosco,2009,BOTTLE,179,1
+39,Ca’ del Bosco Cuvée Annamaria Clementi Extra Brut ,Ca’ del Bosco,2014,BOTTLE,159,2
+40,Bellavista Satèn Brut 2017 ,Bellavista,2017,BOTTLE,72,5
+41,Ca’ del Bosco Rosé Annamaria Clementi Vintage 2012 Extra Brut ,Ca’ del Bosco,2012,MAGNUM,345,1
+42,Rosé Bellavista Brut 2018 ,Kellerei Bellavista,2018,BOTTLE,82,10
+43,Marchese Antinori Contessa Maggi Brut 2016 ,Weingut Montenisa,2016,BOTTLE,69,2
+44,Sessanta Dosage Zéro ,Luca Bellani,,BOTTLE,40,5
+45,Centoventi Rosé Dosage Zéro ,Luca Bellani,,BOTTLE,48,5
+46,For England Rosé Pas Dosé Blanc de Noir 2018 ,Kellerei G. Contratto,2018,BOTTLE,55,5
+47,Cuvée Novecento Pas Dosé 2012 ,Kellerei G. Contratto,2012,BOTTLE,64,3
+48,"Sparkling Rocco Apple (0,2 l)",Rocco,,,5,20
+49,Bella Glamour ,Iris Vigneti,,BOTTLE,29,3
+50,Allegro ,Vinuci Monteverde Saggio,,BOTTLE,35,20
+51,Floreale Rosé,Vinuci Monteverde Saggio,,BOTTLE,36,2
+52,Sirmian 2021,Kellerei Nals Margreid,2021,BOTTLE,43,6
+53,Eichhorn,Weingut Manincor,2022,BOTTLE,47,2
+54,Eichhorn,Weingut Manincor,2019,BOTTLE,52,2
+55,Eichhorn,Weingut Manincor,2018,BOTTLE,59,1
+56,Sanct Valentin 2021,Kellerei St. Michael/Eppan,2021,BOTTLE,43,8
+57,Tyrol Riserva,Kellerei Meran,2021,BOTTLE,43,32
+58,Tyrol Riserva,Kellerei Meran,2013,BOTTLE,53,2
+59,Vorberg Riserva,Kellerei Terlan,2021,BOTTLE,49,6
+60,Vorberg Riserva,Kellerei Terlan,2014,BOTTLE,61,4
+61,„Wir mußten Künstler sein“ 2022,Weingut Andi Sölva,2022,BOTTLE,40,8
+62,"Sonnenberg, Vinschgau 2014",Kellerei Meran,2014,BOTTLE,49,3
+63,Pfaffenegg 2023,Weingut Josmoarhof,2023,BOTTLE,40,8
+64,Chardonnay 2023,Alois Lageder,2023,BOTTLE,36,2
+65,First Lady,Papstlhof,,BOTTLE,43,24
+66,Burgum Novum,Weingut Castelfeder,2019,BOTTLE,48,18
+67,Burgum Novum,Weingut Castelfeder,2015,BOTTLE,58,4
+68,Burgum Novum,Weingut Castelfeder,2014,BOTTLE,63,3
+69,Marie Sophie Riserva 2022,Weingut Eichenstein,2022,BOTTLE,38,3
+70,Vigna Crivelli Riserva,Weingut Peter Zemmer,2019,BOTTLE,49,3
+71,Baron Salvadori Riserva 2021,Kellerei Nals Margreid,2021,BOTTLE,49,12
+72,Lafóa 2022,Kellerei Schreckbichl,2022,BOTTLE,49,11
+73,Kreuzweg Riserva 2020,Weingut Castelfeder,2020,BOTTLE,119,1
+74,Fluch und Segen 2022,Weingut Martin Schgraffer,2022,BOTTLE,49,4
+75,Urgestein 2023,Weingut Baron Longo,2023,BOTTLE,40,2
+76,Sauvignon Exclusiv 2021,Weingut Plonerhof,2021,BOTTLE,56,2
+77,Mervin,Kellerei Meran,2018,BOTTLE,41,2
+78,Mervin,Kellerei Meran,2011,BOTTLE,53,1
+79,Praesulis 2022,Weingut Gump Hof,2022,BOTTLE,39,0
+80,Quarz ,Kellerei Terlan,2021,BOTTLE,69,17
+81,Quarz,Kellerei Terlan,2017,BOTTLE,99,5
+82,Mantele 2021,Kellerei Nals Margreid,2021,BOTTLE,43,4
+83,Südtiroler Sauvignon 2022,Weinhof Prackfol,2022,BOTTLE,39,1
+84,Echt Geil Sauvignon 2022,Weingut Seeperle,2022,BOTTLE,36,0
+85,Fallwind 2023,Kellerei St. Michael-Eppan,2023,BOTTLE,37,3
+86,Porer 2022,Alois Lageder,2022,BOTTLE,39,3
+87,Fallwind 2021,Kellerei St. Michael/Eppan,2021,BOTTLE,35,2
+88,Unterebner 2021,Kellerei Tramin,2021,BOTTLE,49,6
+89,Aristos 2022,Kellerei Eisacktal,2022,BOTTLE,40,3
+90,Giatl Riserva 2020,Weingut Peter Zemmer,2020,BOTTLE,46,4
+91,Pinot Grigio 2022,Stiftskellerei Kloster Neustift,2022,BOTTLE,35,4
+92,Sanct Valentin 2021,Kellerei St. Michael/Eppan,2021,BOTTLE,45,5
+93,Penon 2021,Kellerei Kurtatsch,2021,BOTTLE,39,1
+94,Südtiroler Grauburgunder 2021,Weingut Wassererhof,2021,BOTTLE,39,5
+95,Aristos 2021,Kellerei Eisacktal,2021,BOTTLE,38,5
+96,Vives 2020,Weingut Radoarhof,2020,BOTTLE,40,6
+97,Mitterberg 2020,Weingut Andi Sölva,2020,BOTTLE,39,3
+98,Fallwind 2021,Kellerei St. Michael/Eppan,2021,BOTTLE,34,5
+99,Castel Juval – Weingarten Windbichel 2021,Weingut & Hofbrennerei Unterortl,2021,BOTTLE,79,2
+100,Grüner Veltliner Johanna 2021,Weingut Röck,2021,BOTTLE,37,2
+101,Grüner Veltliner 2021,Weingut Hoandlhof Manni Nössing,2021,BOTTLE,35,2
+102,Initium Solaris,Viventum,2021,BOTTLE,40,2
+103,Initium Solaris,Viventum,2020,BOTTLE,43,2
+104,Eisacktaler Veltliner 2021,Weingut Kuenhof,2021,BOTTLE,35,0
+105,Sylvaner 2021,Weingut Pacherhof,2021,BOTTLE,36,1
+106,Praepositus Sylvaner 2022,Stiftskellerei Kloster Neustift,2022,BOTTLE,39,6
+107,Müller-Thurgau Etza 2020,Weingut Radoarhof,2020,BOTTLE,34,3
+108,Feldmarschall von Fenner Müller-Thurgau 2020,Schlosskellerei Tiefenbrunner,2020,BOTTLE,69,8
+109,Graun Müller-Thurgau,Kellerei Kurtatsch,2021,BOTTLE,35,3
+110,99 S.ALT Solaris Rarity 2018,Thomas Niedermayr – Hof Gandberg,2018,BOTTLE,69,3
+111,Amperg Goldmuskateller 2022 (trocken ausgebaut),Weingut Klaus Lentsch,2022,BOTTLE,32,6
+112,Praepositus 2022,Stiftskellerei Kloster Neustift,2022,BOTTLE,39,2
+113,Kerner 2023,Weingut Strasserhof,2023,BOTTLE,34,1
+114,Kerner 2022,Kellerei Eisacktal,2022,BOTTLE,29,2
+115,Libellula Mondevinum Riserva 2020,Weingut Niklas,2020,BOTTLE,40,5
+116,Petit Manseng 2021,Weingut Baron Widmann,2021,BOTTLE,45,16
+117,Stoan 2022 ,Kellerei Tramin,2022,BOTTLE,46,0
+118,Caruess Weiss 2021 ,Weingut Röck,2021,BOTTLE,39,6
+119,Summ 2021 ,Thomas Niedermayr – Hof Gandberg,2021,BOTTLE,37,3
+120,Viribus Unitis Weiß 2018 ,Weingut Andi Sölva und Norbert Kofler,2018,BOTTLE,82,4
+121,Gloria Dei 2023 ,Weingut Eichenstein,2023,BOTTLE,35,4
+122,Casòn Bianco 2020 ,Weingut Alois Lageder,2020,BOTTLE,56,6
+123,Dolomytos 2018,Ansitz Dolomytos Sacker,2018,BOTTLE,58,3
+124,Réserve della Contessa 2022 ,Weingut Manincor,2022,BOTTLE,39,9
+125,Terlaner Cuvée 2022 ,Kellerei Terlan,2022,BOTTLE,39,2
+126,NAMA 2018 ,Kellerei Nals Margreid,2018,BOTTLE,146,3
+127,Private Cuvée 2019 ,Weingut Pacherhof,2019,BOTTLE,59,4
+128,LR Riserva 2019 ,Kellerei Schreckbichl,2019,BOTTLE,129,3
+129,Appius ,Kellerei St. Michael/Eppan,2018,BOTTLE,165,1
+130,Appius ,Kellerei St. Michael/Eppan,2015,BOTTLE,195,1
+131,Appius ,Kellerei St. Michael/Eppan,2014,BOTTLE,215,1
+132,Appius ,Kellerei St. Michael/Eppan,2012,BOTTLE,220,1
+133,Nova Domus Terlaner Riserva 2020 ,Kellerei Terlan,2020,BOTTLE,68,6
+134,Aichberg 2021 ,Weingut Kornell,2021,BOTTLE,44,6
+135,DJJ Südtiroler Weiss 2021 ,Weingut Niklas,2021,BOTTLE,74,6
+136,Adamantis Cuvée 2020 ,Kellerei Eisacktal,2020,BOTTLE,120,3
+137,Büchsenöffner Cuvée 2022 ,Weingut Pitzner,2022,BOTTLE,37,6
+138,Upupa Orange 2020,Weingut Abraham,2020,BOTTLE,43,0
+139,Graf Gewürztraminer 2022,Kellerei Meran,2022,BOTTLE,39,6
+140,Nussbaumer 2021,Kellerei Tramin,2021,BOTTLE,47,2
+141,Aimè 2022,Kellerei Girlan,2022,BOTTLE,45,4
+142,Hohenstein 2020,Weingut Baron Longo,2020,BOTTLE,42,5
+143,Sissi Passito 2019 ,Kellerei Meran,2019,HALF_BOTTLE,51,0
+144,Roen 2022 ,Kellerei Tramin,2022,HALF_BOTTLE,41,3
+145,Epokale 2015 ,Kellerei Tramin,2015,HALF_BOTTLE,131,2
+146,Terminum 2021 ,Kellerei Tramin,2021,HALF_BOTTLE,63,2
+147,"Sese 2020 Muscat D'Alexandrie (0,5 l)",Azienda Agricola Tua Rita,2020,HALF_LITER,44,3
+148,Fontanasanta Nosiola 2021,Foradori,2021,BOTTLE,45,3
+149,Cervaro della Sala 2021 ,Castello della Sala,2021,BOTTLE,79,3
+150,Marangona Lugana 2023,Marangona,2023,BOTTLE,35,5
+151,Santa Cristina Lugana 2022,Weingut Zenato,2022,BOTTLE,34,4
+152,Lugana 2023,Cavaliere del Garda,2023,BOTTLE,36,15
+153,Vermentino di Gallura Superiore 2021,Cantina di Mogoro,2021,BOTTLE,33,2
+154,Vintage Tunina 2021 ,Jermann,2021,BOTTLE,71,2
+155,Vie di Romans 2022 ,Vie di Romans,2022,BOTTLE,51,2
+156,Friulano 21,Agrargesellschaft Torre Rosazza,2021,BOTTLE,32,3
+157,Chardonnay Toscana 2019,Monteverro,2019,BOTTLE,125,5
+158,Gavi di Gavi 2023 ,Villa Sparina,2023,BOTTLE,32,0
+159,Etna Bianco „Contrada Blandano“ 2018,Terra Costantino,2018,BOTTLE,43,3
+160,Verdicchio di Matelica „M“,Gàjole,,BOTTLE,30,0
+161,Soave Superiore 2021,Dal Cero – Weingut Corte Giacobbe,2021,BOTTLE,38,2
+162,La Rose de Manincor 2023,Weingut Manincor,2023,BOTTLE,39,9
+163,Rosalie 2022,Kellerei Meran,2022,BOTTLE,33,0
+164,Bacio Rosa 2021 ,Weingut Malavasi,2021,BOTTLE,30,5
+165,Mathilde 2022 ,Innerleiterhof,2022,BOTTLE,38,1
+166,Morgenrot 2022 ,Himmelreich-Hof,2022,BOTTLE,37,3
+167,Flaschenpost 2018 ,Kiemberger,2018,HALF_LITER,29,2
+168,Rosa 2021 ,Kellerei Dei,2021,BOTTLE,32,2
+169,Calafuria 2022 ,Weingut Tormaresca,2022,BOTTLE,34,6
+170,Deciso ,Vinuci Monteverde Saggio,,BOTTLE,31,12
+171,Flein Sauvignon Blanc,Kellerei Kurtatsch,,BOTTLE,29,2
+172,Flein Moscato,Kellerei Kurtatsch,,BOTTLE,29,2
+173,Roseppi 2022 ,Weingut Seppi,2022,BOTTLE,35,5
+174,Sof Toskana Rosé 2022 ,Weingut Biserno,2022,BOTTLE,42,2
+175,Leggero 2021,Weingut Pranzegg,2021,BOTTLE,33,3
+176,Quintessenz 2021,Kellerei Kaltern,2021,BOTTLE,33,0
+177,Upupa Rot Alte Reben 2021,Weingut Abraham,2021,BOTTLE,36,6
+178,Versal 2018,Weingut Oberstein,2018,BOTTLE,33,5
+179,ROT 2019,Weinmanufaktur Luis Oberrauch,2019,BOTTLE,41,6
+180,Fürst Meraner Vernatsch 2020,Kellerei Meran,2020,BOTTLE,37,5
+181,St. Magdalener Classico 2020,Weingut Wassererhof,2020,BOTTLE,34,6
+182,St. Magdalener Klassisch 2022,Weingut Erbhof Unterganzner,2022,BOTTLE,35,6
+183,Kalterersee Auslese Sea 2021,Weingut Andi Sölva,2021,BOTTLE,38,6
+184,Gant 2020,Kellerei Andrian,2020,BOTTLE,52,4
+185,Siebeneich Merlot Riserva 2020,Kellerei Schreckbichl,2020,BOTTLE,39,3
+186,Merlot 2023,Weingut Elena Walch,2023,BOTTLE,38,5
+187,Vigna Kressfeld Merlot Riserva,Weingut Kornell,2017,BOTTLE,81,3
+188,Vigna Kressfeld Merlot Riserva,Weingut Kornell,2015,BOTTLE,95,2
+189,Merlot Riserva Nussbaum 2020,Weingut Klosterhof,2020,BOTTLE,48,1
+190,Merlot Riserva 2019,Schlossweingut Stachlburg Baron von Kripp,2019,BOTTLE,42,3
+191,Levad 2020,Kellerei Nals Margreid,2020,BOTTLE,38,12
+192,DJJ Merlot Riserva 2021,Weingut Niklas,2021,BOTTLE,63,5
+193,Brenntal Merlot Riserva 2020,Kellerei Kurtatsch,2020,BOTTLE,58,5
+194,Siebeneich Merlot Riserva,Kellerei Terlan,2016,BOTTLE,69,1
+195,Siebeneich Merlot Riserva,Kellerei Terlan,2014,BOTTLE,79,1
+196,Zeno Blauburgunder Riserva,Kellerei Meran,2019,BOTTLE,44,24
+197,Zeno Blauburgunder Riserva,Kellerei Meran,2010,BOTTLE,69,3
+198,Monticol Riserva 2020,Kellerei Terlan,2020,BOTTLE,48,15
+199,Schwarze Madonna,Weingut Klosterhof,2019,BOTTLE,46,18
+200,Schwarze Madonna,Weingut Klosterhof,2015,BOTTLE,58,6
+201,Burgum Novum Riserva,Weingut Castelfeder,2019,BOTTLE,52,10
+202,Burgum Novum Riserva,Weingut Castelfeder,2015,BOTTLE,65,11
+203,Amantus 2021,Weingut Eichenstein,2021,BOTTLE,36,6
+204,Blauburgunder Riserva Vigna Kofl 2020,Weingut Peter Zemmer,2020,BOTTLE,53,6
+205,Pigeno 2020,Weingut Stroblhof,2020,BOTTLE,43,6
+206,Pinot Nero 2022,Kellerei Andrian,2022,BOTTLE,34,3
+207,Barthenau Vigna S. Urbano 2018,Weingut J. Hofstätter,2018,BOTTLE,79,5
+208,Blauburgunder Riserva 2021,Weinhof Prackfol,2021,BOTTLE,43,26
+209,Blauburgunder vom Roten Kalk 2020,Weingut Abraham,2020,BOTTLE,59,11
+210,Wildmonn Riserva 2020,Weingut Wildmonn,2020,BOTTLE,98,6
+211,Südtiroler Blauburgunder Mazzon 2019,Weingut Gottardi,2019,BOTTLE,41,6
+212,Lagrein 2020,Weinmanufaktur Luis Oberrauch,2020,BOTTLE,41,0
+213,Gries Riserva 2021,Kellerei Terlan,2021,BOTTLE,42,16
+214,Taber Riserva 2021,Kellerei Bozen,2021,BOTTLE,66,3
+215,Perl 2022,Kellerei Bozen,2022,BOTTLE,36,6
+216,Porphyr Riserva 2020,Kellerei Terlan,2020,BOTTLE,69,2
+217,Rotes Bergwerk 2018,Weingut Kiemberger,2018,BOTTLE,43,4
+218,Lagrein Riserva Weingarten Klosteranger 2020,Klosterkellerei Muri Gries,2020,BOTTLE,103,2
+219,Segen Riserva,Kellerei Meran,2019,BOTTLE,42,20
+220,Segen Riserva,Kellerei Meran,2014,BOTTLE,60,4
+221,Segen Riserva,Kellerei Meran,2011,BOTTLE,70,4
+222,Prestige Grieser Lagrein Riserva 2020,Kellerei Bozen,2020,BOTTLE,43,6
+223,Laianus Riserva 2018,Weingut Klaus Lentsch,2018,BOTTLE,53,3
+224,Mirell Riserva 2020,Ansitz Waldgries,2020,BOTTLE,54,3
+225,Lamarein,Weingut Erbhof Unterganzner,2022,BOTTLE,126,3
+226,Lamarein,Weingut Erbhof Unterganzner,2021,BOTTLE,136,1
+227,Sass Roà Riserva 2020,Landesweingut Laimburg,2020,BOTTLE,44,3
+228,Kirchhügel Riserva 2020,Kellerei Kurtatsch,2020,BOTTLE,37,4
+229,COR Römigberg 2018,Weingut Alois Lageder,2018,BOTTLE,73,6
+230,Freienfeld Riserva,Kellerei Kurtatsch,2020,BOTTLE,65,5
+231,Freienfeld Riserva,Kellerei Kurtatsch,2011,BOTTLE,89,2
+232,Mumelter Riserva 2019,Kellerei Bozen,2019,BOTTLE,54,3
+233,Staffes Riserva,Weingut Kornell,2020,BOTTLE,41,2
+234,Staffes Riserva,Weingut Kornell,2015,BOTTLE,51,2
+235,Quintessenz Riserva 2020,Kellerei Kaltern,2020,BOTTLE,49,4
+236,Cabernet Riserva,Weingut Wassererhof,2019,BOTTLE,44,2
+237,Cabernet Riserva,Weingut Wassererhof,2017,BOTTLE,50,4
+238,Cabernet Riserva,Weingut Wassererhof,2016,BOTTLE,53,2
+239,Barleith 2020 ,Bioweinhof Tröpfltalhof,2020,BOTTLE,65,4
+240,Vigna Toren Riserva 2020,Schlosskellerei Tiefenbrunner,2020,BOTTLE,154,6
+241,Vigna Toren Riserva 2020,Schlosskellerei Tiefenbrunner,2018,MAGNUM,325,1
+242,Mauritius 2020 ,Kellerei Bozen,2020,BOTTLE,54,5
+243,Col de Réy 2018 ,Landesweingut Laimburg,2018,BOTTLE,59,4
+244,Iugum 2017 ,Weingut Peter Dipoli,2017,BOTTLE,57,5
+245,Graf Merlot-Lagrein 2022,Kellerei Meran,2022,BOTTLE,38,1
+246,Composition Reif 2022 ,Weingut Erbhof Unterganzner,2022,BOTTLE,68,6
+247,Castel Campan 2020 ,Weingut Manincor,2020,BOTTLE,109,5
+248,Mumbolt 2021 ,Wassererhof,2021,BOTTLE,41,5
+249,Linticlarus Riserva 2021 ,Schlosskellerei Tiefenbrunner,2021,BOTTLE,61,6
+250,Viribus Unitis 2018 ,Weingut Andi Sölva und Norbert Kofler,2018,BOTTLE,84,3
+251,Frauenriegel 2020 ,Weingut Peter Dipoli,2020,BOTTLE,59,4
+252,Kunstwerk der Natur Sagittarius 2019,Weingut Kränzelhof,2019,BOTTLE,63,5
+253,Staffelfeld 2020 ,Weingut Baron Widmann,2020,BOTTLE,46,4
+254,Cassiano 2020 ,Weingut Manincor,2020,BOTTLE,51,6
+255,TRES 2016 ,Kellerei Kurtatsch,2016,BOTTLE,215,2
+256,Klaser Stoanadler Riserva 2021 ,Weingut Niklas,2021,BOTTLE,41,5
+257,Saperaira 2019,Kellerei Meran,2019,BOTTLE,49,1
+258,Barolo Bricco delle Viole 2013,G.D. Vajra,2013,BOTTLE,159,3
+259,Barolo 2019,Kellerei Massolino,2019,BOTTLE,57,4
+260,Barolo Lazzarito 2019,Kellerei Vietti,2019,BOTTLE,199,4
+261,Montebruna 2020,Weingut Braida,2020,BOTTLE,38,4
+262,Barbera d’Asti Bricco dell’Uccellone,Weingut Braida,,BOTTLE,81,1
+263,Barbera del Monferrato Rivalta 2003,Villa Sparina,2003,BOTTLE,69,0
+264,Barbaresco,Weingut Produttori del Barbaresco,2020,BOTTLE,47,10
+265,Barbaresco,Weingut Produttori del Barbaresco,2018,BOTTLE,53,2
+266,Barbaresco Don Fiarino Riserva 2016,Weingut Produttori del Barbaresco,2016,BOTTLE,79,1
+267,Barbaresco Secondine 2019 Kellerei,Alfredo Prunotto,2019,BOTTLE,98,3
+268,Barbaresco 2019,Agrargesellschaft Gaja,2019,BOTTLE,290,3
+269,Nebbiolo Perbacco 2019,Kellerei Vietti,2019,BOTTLE,41,3
+270,Solo per un Amico 2012 ,Kellerei Secondo Marco,2012,BOTTLE,102,10
+271,Amarone della Valpolicella 2013,Kellerei Secondo Marco,2013,BOTTLE,75,0
+272,Fumetto Riserva 2008 ,Kellerei Secondo Marco,2008,BOTTLE,269,1
+273,Valpolicella Ripasso Superiore 2019,Weingut Zenato,2019,BOTTLE,42,4
+274,Valpolicella Valpantena Superiore 2019,Costa Arènte,2019,BOTTLE,42,2
+275,Amarone della Valpolicella Classico 2018,Weingut Zenato,2018,BOTTLE,84,3
+276,Amarone della Valpolicella Classico,Weingut Bertani,2011,BOTTLE,161,0
+277,Amarone della Valpolicella Classico,Weingut Bertani,2007,BOTTLE,198,2
+278,Kairos Cuvée 2019,Zýmē di Celestino Gaspari,2019,BOTTLE,98,9
+279,Amarone della Valpolicella Case Vecie 2017,Agrargesellschaft Brigaldara,2017,BOTTLE,69,6
+280,Ilmerlot 2011,Ca’ del Bosco,2011,BOTTLE,110,1
+281,"Veronese Rosso Campofiorin 2012 COR, RON",Weingut Masi,2012,BOTTLE,76,2
+282,Terra di Monteverro ,Weingut Monteverro,2020,BOTTLE,73,18
+283,Bolgheri Villa Donoratico 2020 ,Weingut Argentiera,2020,BOTTLE,55,1
+284,Rosso di Montalcino Pian delle Vigne,Tenuta Marchesi Antinori,2013,BOTTLE,78,2
+285,Rosso di Montalcino Pian delle Vigne,Tenuta Marchesi Antinori,2012,BOTTLE,83,2
+286,Sassicaia ,Kellerei San Guido,2018,BOTTLE,430,5
+287,Sassicaia ,Kellerei San Guido,2017,BOTTLE,430,5
+288,Sassicaia ,Kellerei San Guido,2016,BOTTLE,750,5
+289,Sassicaia ,Kellerei San Guido,2015,BOTTLE,550,5
+290,Sassicaia ,Kellerei San Guido,2014,BOTTLE,450,2
+291,Il Bruciato 2022 ,Weingut Guado al Tasso – Antinori,2022,BOTTLE,43,4
+292,Insoglio del Cinghiale 2022 ,Weingut Biserno,2022,BOTTLE,43,2
+293,Brunello di Montalcino Riserva 2012 Duelecci Ovest,Tenuta di Sesta,2012,BOTTLE,121,1
+294,Desiderio Toscana Merlot 2020,Avignonesi,2020,BOTTLE,74,5
+295,Cepparello Sangiovese Toscana 2019,Isole E Olena,2019,BOTTLE,135,2
+296,Brunello di Montalcino 2019,Weingut Col d’Orcia,2019,BOTTLE,58,5
+297,When We Dance Chianti Classico 2022,Weingut Il Palagio,2022,BOTTLE,37,4
+298,Villa Antinori Chianti Classico Riserva 2020,Weingut Marchese Antinori,2020,BOTTLE,38,3
+299,Marchese Antinori Chianti Classico Riserva 2020,Weingut Tignanello,2020,BOTTLE,54,6
+300,Cont’Ugo 2021 ,Weingut Guado al Tasso,2021,BOTTLE,65,6
+301,Concerto di Fonterutoli 2015 ,Mazzei Castello di Fonterutoli,2015,BOTTLE,89,2
+302,Solaia 2019 ,Tenuta Tignanello - Antinori,2019,BOTTLE,495,3
+303,Cabreo Il Borgo 2019 ,Ambrogio e Giovanni Folonari,2019,BOTTLE,68,6
+304,Il Blu Rosso ,Brancaia,2018,BOTTLE,97,0
+305,Il Blu Rosso ,Brancaia,1999,BOTTLE,149,1
+306,Primitivo di Manduria Abbasc 2021,Kellerei Ionis,2021,BOTTLE,38,6
+307,Ater Primitivo di Manduria 2015,Kellerei Ionis,2015,BOTTLE,47,8
+308,„Es“ Primitivo di Manduria 2022,Gianfranco Fino,2022,BOTTLE,87,12
+309,„Jo“ Negroamaro 2020,Gianfranco Fino,2020,BOTTLE,87,6
+310,Mille e una Notte 2019 ,Kellerei Donnafugata,2019,BOTTLE,89,3
+311,Dolce & Gabbana Tancredi 2020 ,Kellerei Donnafugata,2020,BOTTLE,58,3
+312,Merlot Ars Magna 2016,Kellerei Omina Romana,2016,BOTTLE,89,5
+313,Montepulciano Jarno Rosso 2015,Castorani Colline Pescaresi,2015,BOTTLE,61,6
+314,Nero d’Avola Dieci Inverni 2012,Castorani Colline Pescaresi,2012,BOTTLE,149,0
+315,Pic Chablis 1er Cru,Domaine Régnard,2017,BOTTLE,140,1
+316,Pic Chablis 1er Cru,Domaine Régnard,2012,BOTTLE,162,1
+317,Chablis Vieilles Vigne 2020,Domaine Gautheron Alain et Cyril,2020,BOTTLE,54,2
+318,Chablis Grand Cru Vaudésir 2019,Domaine Besson,2019,BOTTLE,75,1
+319,Sancerre Blanc 'Clos Paradis' 2022,Domaine Fouassier,2022,BOTTLE,48,2
+320,Sous le Puits Puligny-Montrachet 1er Cru 2019,Maison Louis Latour,2019,BOTTLE,nan,1
+321,Sous le Puits Puligny-Montrachet 1er Cru 2019,Maison Louis Latour,2022,BOTTLE,145,1
+322,Sous le Puits Puligny-Montrachet 1er Cru 2019,Maison Louis Latour,2018,BOTTLE,165,1
+323,Blanc de Lynch-Bages 2018 ,Château Lynch-Bages,2018,BOTTLE,125,2
+324,Alter Ego de Palmer 2020 ,Château Palmer,2020,BOTTLE,153,3
+325,Les Vieilles Vignes 2017 ,Domaine de Villeneuve,2017,BOTTLE,81,3
+326,Ried Zieregg Sauvignon Blanc 2020,Weingut Tement,2020,BOTTLE,75,2
+327,Leutschacher Sauvignon Blanc 2020 Weingut,Erwin Sabathi,2020,BOTTLE,37,15
+328,Riesling Rotschiefer „1000 Alte Reben“ 2019,Weingut Sorentberg und Castelfeder,2019,BOTTLE,98,1
+329,Gottesfuß Alte Reben Riesling 2022,Weingut Van Volxem,2022,BOTTLE,69,1
+330,Riesling Trocken 2021,Weingut Fritz Haag,2021,BOTTLE,29,2
+331,Fläscher Pinot Noir Uris 2020,Weingut Davaz,2020,BOTTLE,89,2
+332,"CR 1 Redstone Reserve I CS, COT",Capelands Estate,2016,BOTTLE,69,3
+333,"CR 1 Redstone Reserve I CS, COT",Capelands Estate,2015,BOTTLE,79,4
+334,Marqués de Murrieta Reserva 2018 ,Bodegas Marqués de Murrieta,2018,BOTTLE,48,3
+335,Viña Tondonia Reserva ,López de Heredia,2010,BOTTLE,68,1
+336,Viña Tondonia Reserva ,López de Heredia,2006,BOTTLE,84,2
+337,Galantas Gran Reserva 2018 ,Viña Haras de Pirque,2018,BOTTLE,38,2
+338,Wine of Lebanon,Château Musar – Gaston Hochar,2017,BOTTLE,99,5
+339,Wine of Lebanon,Château Musar – Gaston Hochar,2016,BOTTLE,105,5
+340,Wine of Lebanon,Château Musar – Gaston Hochar,2007,BOTTLE,129,5
+341,Wine of Lebanon,Château Musar – Gaston Hochar,2003,BOTTLE,148,5
+342,Bin 389 2019 ,Penfolds,2019,BOTTLE,106,4
+343,"Praeclarus Brut 1,5 L ",Kellerei St. Pauls,,MAGNUM,92,1
+344,"Arunda Cuvée Marianna Extra Brut 1 ,5 L ",Sektkellerei Arunda,,MAGNUM,95,1
+345,"Ca’ del Bosco Rosé Annamaria Clementi Vintage 2012 Extra Brut 1,5 L ",Ca’ del Bosco,2012,MAGNUM,345,5
+346,"Champagne Signature Brut 1,5 L ",Huguenot - Tassin,,MAGNUM,105,0
+347,"Ca’ del Bosco Cuvée Prestige Rosé Brut 1,5 L PN, CH",Ca’ del Bosco,,MAGNUM,86,1
+348,"Terlaner Cuvée 1,5 L ",Kellerei Terlan,2022,MAGNUM,82,1
+349,"Terlaner Cuvée 1,5 L ",Kellerei Terlan,2020,MAGNUM,98,0
+350,"Terlaner Cuvée 1,5 L ",Kellerei Terlan,2018,MAGNUM,125,0
+351,"Terlaner Cuvée 1,5 L ",Kellerei Terlan,2017,MAGNUM,135,0
+352,"Sauvignon Quarz Riserva 1,5 L",Kellerei Terlan,2020,MAGNUM,150,4
+353,"Sauvignon Quarz Riserva 1,5 L",Kellerei Terlan,2018,MAGNUM,190,1
+354,"Sauvignon Quarz Riserva 1,5 L",Kellerei Terlan,2017,MAGNUM,195,1
+355,"Sauvignon Quarz Riserva 1,5 L",Kellerei Terlan,2015,MAGNUM,215,1
+356,"Sauvignon Quarz Riserva 1,5 L",Kellerei Terlan,2014,MAGNUM,225,1
+357,"Sauvignon Quarz Riserva 1,5 L",Kellerei Terlan,2013,MAGNUM,235,1
+358,"Sauvignon Sanct Valentin 2022 1,5 L",Kellerei St. Michael Eppan,2022,MAGNUM,81,1
+359,"Nova Domus Terlaner Riserva 1,5 L ",Kellerei Terlan,2015,MAGNUM,205,1
+360,"Nova Domus Terlaner Riserva 1,5 L ",Kellerei Terlan,2014,MAGNUM,215,1
+361,"Nova Domus Terlaner Riserva 1,5 L ",Kellerei Terlan,2013,MAGNUM,225,1
+362,"Weissburgunder Sirmian 2017 1,5 L",Kellerei Nals Margreid,2017,MAGNUM,130,2
+363,"Weissburgunder Vorberg Riserva 1,5 L",Kellerei Terlan,2017,MAGNUM,138,3
+364,"Weissburgunder Vorberg Riserva 1,5 L",Kellerei Terlan,2015,MAGNUM,158,1
+365,"Weissburgunder Vorberg Riserva 1,5 L",Kellerei Terlan,2014,MAGNUM,169,1
+366,"Weissburgunder Vorberg Riserva 1,5 L",Kellerei Terlan,2013,MAGNUM,180,1
+367,"Chardonnay Lafóa 2022 1,5 L",Kellerei Schreckbichl,2022,MAGNUM,115,1
+368,"Chardonnay Burgum Novum 2017 1,5 L",Weingut Castelfeder,2017,MAGNUM,125,1
+369,"Kerner Aristos 2022 1,5 L",Kellerei Eisacktal,2022,MAGNUM,78,1
+370,"Pic Chablis 1er Cru 2012 1,5 L",Domaine Régnard,2012,MAGNUM,350,2
+371,"Vigna Toren Riserva 2018 1,5 L",Schlosskellerei Tiefenbrunner,2018,MAGNUM,325,1
+372,"Linticlarus Riserva 2019 1,5 L ",Schlosskellerei Tiefenbrunner,2019,MAGNUM,135,1
+373,"Composition Reif 1,5 L ",Weingut Erbhof Unterganzner,2020,MAGNUM,175,2
+374,"Composition Reif 1,5 L ",Weingut Erbhof Unterganzner,2019,MAGNUM,185,2
+375,"Lagrein Mirell Riserva 2020 1,5 L",Ansitz Waldgries,2020,MAGNUM,130,2
+376,"Lamarein 1,5 L",Weingut Erbhof Unterganzner,2021,MAGNUM,245,2
+377,"Lamarein 1,5 L",Weingut Erbhof Unterganzner,2022,MAGNUM,235,2
+378,"Sanct Valentin Pinot Noir Riserva 2018 1,5 L",Kellerei St. Michael Eppan,2018,MAGNUM,130,2
+379,"Taber Lagrein Riserva 1999 1,5 L",Kellerei Bozen,1999,MAGNUM,189,1
+380,Porphyr Lagrein Riserva 2020,Kellerei Terlan,2020,MAGNUM,149,2
+381,Porphyr Lagrein Riserva 2020,Kellerei Terlan,2020,JEROBOAM,310,1
+382,"Monticol Riserva 2020 1,5 L",Kellerei Terlan,2020,MAGNUM,110,2
+383,"Merlot Mervin 2005 1,5 L",Kellerei Meran,2005,MAGNUM,105,1
+384,Terra di Monteverro 2019 ,Weingut Monteverro,2019,MAGNUM,165,2
+385,Terra di Monteverro 2019 ,Weingut Monteverro,2019,JEROBOAM,330,2
+386,"Concerto di Fonterutoli 1,5 L ",Mazzei Castello di Fonterutoli,,MAGNUM,199,0
+387,"Kairos Cuvée 2019 1,5 L",Zýmē di Celestino Gaspari,2019,MAGNUM,205,1
+388,"Amarone della Valpolicella Classico 2007 1,5 L",Weingut Bertani,2007,MAGNUM,380,1
+389,"Cabreo Il Borgo 2019 1,5 L ",Ambrogio e Giovanni Folonari,2019,MAGNUM,145,2
+390,"Ilatraia 2013 1,5 L ",Brancaia,2013,MAGNUM,205,1
+391,"CR 1 Redstone Reserve 2016 3,0 L I CS, COT",Capelands Estate,2016,JEROBOAM,165,3
+392,"Merlot-Lagrein Graf 2021 5,0 L",Kellerei Meran,2021,BORDEAUX_JEROBOAM,225,5
+393,"Amarone della Valpolicella Costasera 2009 6,0 L",Masi,2009,MATHUSALEM,1100,1
+394,Lucente,,,BOTTLE,,5
+395,Lux vitis,,,BOTTLE,,3
+396,Luce,,,BOTTLE,,6
+397,Castel giocondo,,,BOTTLE,,3
+398,La Maione,,,BOTTLE,,6
+399,Rialzi,,,BOTTLE,,6
+400,Mormoretto ,,,BOTTLE,,5
+401,Le Serre Nuove del Ornellaia,,,BOTTLE,,6
+402,Ornellaia,,,BOTTLE,,6
+403,Monteverro 2008,,,BOTTLE,,3
+404,Monteverro 2009,,,BOTTLE,,3
+405,Monteverro 2010,,,BOTTLE,,3
+406,Monteverro 2011,,,BOTTLE,,3
+407,Monteverro 2012,,,BOTTLE,,3
+408,Monteverro 2013,,,BOTTLE,,3
+409,Monteverro 2014,,,BOTTLE,,3
+410,Monteverro 2015,,,BOTTLE,,3
+411,Monteverro 2016,,,BOTTLE,,3
+412,Monteverro 2017,,,BOTTLE,,3
+413,Monteverro 2018,,,BOTTLE,,3
+414,Monteverro 2019,,,BOTTLE,,3
+415,Monteverro 2020,,,BOTTLE,,3
+416,Sassicaia 2019,,,BOTTLE,,6
+417,Amarone Bertani 1994,,,MAGNUM,,

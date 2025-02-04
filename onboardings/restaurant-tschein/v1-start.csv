@@ -1,0 +1,300 @@
+type,name,size,qty,eur_sales_price
+SPARKLING,Prosecco Superiore Extra Dry Sui Nui ,BOTTLE,19,27.00 €
+SPARKLING,Südtiroler Sekt  600 Blanc de Blances Kellerei Kurtatsch ,BOTTLE,7,56.00 €
+SPARKLING,Südtiroler Sekt  Pinot Noir 2016 Pfitscher Montan,BOTTLE,5,65.00 €
+SPARKLING,Südtiroler Sekt Versé Rosé Pitzner Kardaun,BOTTLE,18,38.00 €
+SPARKLING,Trentodoc Brut Nature Opera ,BOTTLE,14,55.00 €
+SPARKLING,Trentodoc Riserva Graal Brut 2013 Altemasi,BOTTLE,1,85.00 €
+SPARKLING,Trentodoc Riserva Graal Brut 2011 Altemasi ,BOTTLE,1,85.00 €
+SPARKLING,Trentodoc Riserva Graal Brut 2009 Altemasi ,BOTTLE,1,85.00 €
+SPARKLING,Trentodoc Riserva del Fondatore Extra Brut 2009 Giulio Ferrari MAGNUM,MAGNUM,1,430.00 €
+SPARKLING,Schaumwein A Lorenzo Extra Brut Pinot Noir Luca Bellani Lombardei ,BOTTLE,4,60.00 €
+SPARKLING,Pinot Noir Sekt Blanc de Noirs 2017 Heymann-Löwenstein Mosel,BOTTLE,1,64.00 €
+SPARKLING,Comtes de Champagne Prestige Cuveé 2012 Brut Taittinger ,BOTTLE,1,240.00 €
+SPARKLING,Initial Grand Cru Brut Jacques Selosse ,BOTTLE,4,290.00 €
+SPARKLING,Fleur de Craie Brut Nature Barrat-Masson,BOTTLE,1,90.00 €
+SPARKLING,Latitude Extra Brut Larmandier-Bernier,BOTTLE,9,105.00 €
+SPARKLING,Terre de Vetrus 2016 Brut Nature Larmandier-Bernier ,BOTTLE,6,136.00 €
+SPARKLING,Terre de Vetrus 2015 Brut Nature Larmandier-Bernier ,BOTTLE,2,136.00 €
+SPARKLING,Vieille Vigne du Levant 2013 Grand Cru Brut Nature Larmandier-Bernier,BOTTLE,5,185.00 €
+SPARKLING,Ozanne Grand Cru Brut Michel Fallon ,BOTTLE,4,360.00 €
+SPARKLING,Cramant Grand Cru 2018 Pertois-Moriset,BOTTLE,2,135.00 €
+SPARKLING,Les Quatre Terroirs Grand Cru Extra Brut Pertois Moriset,BOTTLE,6,93.00 €
+SPARKLING,Substance Grand Cru Extra Brut Jacques Selosse,BOTTLE,2,750.00 €
+SPARKLING,Mi-Pentes Premier Cru Extra Brut Lacourte-Godbillon,BOTTLE,6,118.00 €
+SPARKLING,Eugene (M/PN) Extra Brut Moussé Fils,BOTTLE,3,69.00 €
+SPARKLING,La Vigne D'Or Blanc de Meuniers Brut Nature Tarlant,BOTTLE,2,175.00 €
+SPARKLING,Montchenot 2019 Extra Brut Nicolas Maillart ,BOTTLE,6,118.00 €
+SPARKLING,Zero (PN/CH/M) Brut Nature Tarlant,BOTTLE,7,95.00 €
+SPARKLING,Les Petites Vignes Grand Cru (PN) Brut non dosé Aurore Casanova,BOTTLE,3,152.00 €
+SPARKLING,Dans un Premier Temps (CH/ PN/M) Extra Brut Dhondt-Grellet,BOTTLE,5,115.00 €
+SPARKLING,Millesime 2013 (CH/PN/M) Brut Nature Philippe Gamet,BOTTLE,1,95.00 €
+SPARKLING,Grand Réserve (CH/PN/M) Brut Gosset,BOTTLE,3,99.00 €
+SPARKLING,Sainte Anne (M/CH/PN) Brut Chartogne-Taillet,BOTTLE,4,94.00 €
+SPARKLING,Royal Réserve (PN/CH/M) Brut Philipponnat,BOTTLE,5,85.00 €
+SPARKLING,Les Premices (CH/M/PN) Brut Egly-Ouriet,BOTTLE,1,105.00 €
+SPARKLING,Grand Cru 2018 (PN/CH) Extra Brut Egly-Ouriet,BOTTLE,1,160.00 €
+SPARKLING,Reliance (M/PN/CH) Brut Nature Franck Pascal,BOTTLE,2,95.00 €
+SPARKLING,Libérance 2015 (M/PN/CH) Franck Pascal,BOTTLE,1,115.00 €
+SPARKLING,Pacifiance (M/PN/CH) Brut Nature Franck Pascal,BOTTLE,3,175.00 €
+SPARKLING,Quinte-Essence 2013 (M/CH) Extra Brut Franck Pascal,BOTTLE,1,115.00 €
+SPARKLING,Quinte-Essence 2010 (M/CH) Extra Brut Franck Pascal,BOTTLE,1,120.00 €
+SPARKLING,Quinte-Essence 2008 (M/CH) Extra Brut Franck Pascal,BOTTLE,1,160.00 €
+SPARKLING,Quinte-Essence 2007 (M/CH) Extra Brut Franck Pascal,BOTTLE,3,125.00 €
+SPARKLING,Les jeunes pousses (CH/PN/M) Brut Copin Cautel,BOTTLE,1,65.00 €
+SPARKLING,Influence (PN/M/CH) Brut Miniere F&R,BOTTLE,7,115.00 €
+SPARKLING,Chemin des Rois (PN/CH) Brut Nature Vincent Cuillier,BOTTLE,1,79.00 €
+SPARKLING,Cuvée Millésimé 2013 (CH/PN/PM) Brut Jean-Marie Massonot,BOTTLE,2,95.00 €
+SPARKLING,Plantine (PN/CH/M) Extra Brut Nicolas Maillart ,BOTTLE,2,85.00 €
+SPARKLING,Garennes (M/CH) Extra Brut Georges Laval,BOTTLE,3,155.00 €
+SPARKLING,Cuvée Louise 2004 (PN/CH) Brut Nature Tarlant ,BOTTLE,2,158.00 €
+SPARKLING,Vignes de mon village (M) Brut Nature Famille Moussé,BOTTLE,2,105.00 €
+SPARKLING,Chassenay D'Arce 2012 (PB) Extra Brut Maison de Vignerons ,BOTTLE,2,89.00 €
+SPARKLING,Cumiéres Premier Cru (M) Brut Nature Georges Laval ,BOTTLE,6,162.00 €
+SPARKLING_ROSE,Rosé (CH/PN) Brut Chartogne Taillet,BOTTLE,2,108.00 €
+SPARKLING_ROSE,Influence Rosé (PN/M/CH) Miniere F&R ,BOTTLE,12,118.00 €
+SPARKLING_ROSE,Grand Rosé Brut Gosset,BOTTLE,1,120.00 €
+SPARKLING_ROSE,Prestige Rosé Brut Taittinger,BOTTLE,4,100.00 €
+SPARKLING_ROSE,Rosé Premier Cru Extra Brut Lacourte Godbillon ,BOTTLE,4,100.00 €
+SPARKLING_ROSE,Rosé de Saignée (M) 2015 Brut Gamet ,BOTTLE,2,110.00 €
+SPARKLING_ROSE,Rosé de Saignée (M) Extra Brut Mathieu Gandon,BOTTLE,1,95.00 €
+WHITE,Kerner 2023 Köfererhof Neustift ,BOTTLE,14,34.00 €
+WHITE,Sauvignon Blanc Tannenberg 2020 Manincor Kalterer See,BOTTLE,2,46.00 €
+WHITE,Sauvignon Blanc Matthias 2019 Pfitscher Montan,BOTTLE,4,55.00 €
+WHITE,Sauvignon Blanc Voglar 2020 Dipoli Neumarkt ,BOTTLE,2,39.00 €
+WHITE,Sauvignon Blanc Rennaissance Riserva 2019 Gump Hof Völs am Schlern,BOTTLE,5,70.00 €
+WHITE,Sauvignon Blanc Praesulis 2021 Gump Hof Völs am Schlern ,BOTTLE,9,45.00 €
+WHITE,Sauvignon Blanc Quarz 2021 Kellerei Terlan ,BOTTLE,2,75.00 €
+WHITE,Sauvignon Blanc Quarz 2021 Kellerei Terlan MAGNUM,MAGNUM,1,150.00 €
+WHITE,Sauvignon Blanc Marzan 2022 Schloss Plars Algund,BOTTLE,4,29.00 €
+WHITE,Sauvginon Blanc Oberberg 2020 Kornell Siebeneich,BOTTLE,7,49.00 €
+WHITE,Sauvignon Blanc Riserva 2020 Prackfol Völs am Schlern ,BOTTLE,5,92.00 €
+WHITE,Grauburgunder Fateni 2019 Salurnis,BOTTLE,1,33.00 €
+WHITE,Grauburgunder Amphore Maximus 2021 Pitzner Kardaun,BOTTLE,16,70.00 €
+WHITE,Grauburgunder 2021 Schinterhof Barbian ,BOTTLE,7,40.00 €
+WHITE,Grauburgunder Amphore Fluch & Segen 2022 Martin Schgraffer Salurn,BOTTLE,3,84.00 €
+WHITE,Sylvaner Gols 2021 Griesser Hof Eisacktal ,BOTTLE,1,36.00 €
+WHITE,Sylvaner 2021 Daniel Sigmund Brixen,BOTTLE,10,40.00 €
+WHITE,Weissburgunder In der Lämm 2021 Martin Abraham Eppan,BOTTLE,5,40.00 €
+WHITE,Weissburgunder Sirmian 2021 Nals-Magreid,BOTTLE,8,45.00 €
+WHITE,Weissburgunder Lapis 2018 Oberstein Tscherms ,BOTTLE,3,40.00 €
+WHITE,Weissburgunder Berg 2022 Niedrist Eppan,BOTTLE,3,42.00 €
+WHITE,Weissburgunder Sandl 2020 Prackfol Völs am Schlern ,BOTTLE,5,85.00 €
+WHITE,Gewürztraminer Upupa Orange 2020 Martin Abraham Eppan,BOTTLE,1,47.00 €
+WHITE,Gewürztraminer Upupa Orange 2019 Martin Abraham Eppan MAGNUM ,MAGNUM,1,96.00 €
+WHITE,Gewürztraminer St. Valentin 2021 St. Michael Eppan ,BOTTLE,1,49.00 €
+WHITE,Gewürztraminer Amphora 2014-2016 Ansitz Dolomythos Ritten,BOTTLE,4,85.00 €
+WHITE,Chardonnay Baron Salvadori 2020 Nals-Magreid ,BOTTLE,8,55.00 €
+WHITE,Chardonnay Baron Salvadori 2017 Nals-Magreid ,BOTTLE,4,55.00 €
+WHITE,Chardonnay Riserva 2020 Schloss Englar Eppan ,BOTTLE,9,53.00 €
+WHITE,Chardonnay St. Valentin 2020 St. Michael Eppan ,BOTTLE,1,49.00 €
+WHITE,Chardonnay St. Valentin 2019 St. Michael Eppan  MAGNUM,MAGNUM,1,115.00 €
+WHITE,Chardonnay St. Valentin 2020 St. Michael Eppan  MAGNUM,MAGNUM,1,105.00 €
+WHITE,Chardonnay Gaun 2021 Alois Lageder Magreid ,BOTTLE,1,38.00 €
+WHITE,Chardonnay 2021 Pitzner Kardaun ,BOTTLE,18,70.00 €
+WHITE,Chardonnay 2020 Pitzner Kardaun ,BOTTLE,18,70.00 €
+WHITE,Chardonnay First Lady 2020 Papstlhof Kaltern,BOTTLE,2,39.00 €
+WHITE,Chardonnay Fluch & Segen 2022 Martin Schgraffer Salurn,BOTTLE,12,59.00 €
+WHITE,Cuvée Reserve della Contessa 2022 (WB/CH/SV) Manincor Kalterer See,BOTTLE,2,36.00 €
+WHITE,Cuvée Aichberg 2018 (WB/CH/SV) Kornell Terlan ,BOTTLE,2,46.00 €
+WHITE,Cuvée Aichberg 2021 (WB/CH/SV) Kornell Terlan ,BOTTLE,1,46.00 €
+WHITE,Cuvée Giovo 2019 (CH/Solaris) Bergkellerei Passeier,BOTTLE,4,55.00 €
+WHITE,Cuvée Weisswein 2016 (WB/GB/SV/R) Ansitz Dolomythos Ritten ,BOTTLE,5,60.00 €
+WHITE,Cuvée Die Perle 2005 Ansitz Dolomythos Ritten,BOTTLE,2,115.00 €
+WHITE,Cuvée Aios 2000 Fass 04 Ansitz Dolomythos ,BOTTLE,1,140.00 €
+WHITE,Cuvée Aios 2000 Fass 57 Ansitz Dolomythos ,BOTTLE,1,140.00 €
+WHITE,Cuvée Nova Domus 2019 (WB/CH/SV) Kellerei Terlan ,BOTTLE,2,65.00 €
+WHITE,Cuvée Nova Domus 2018 (WB/CH/SV) Kellerei Terlan ,BOTTLE,1,65.00 €
+WHITE,Cuvée Nova Domus 2020 (WB/CH/SV) Kellerei Terlan MAGNUM,MAGNUM,1,130.00 €
+WHITE,Rosé La Rosé 2020 Manincor Kalterer See,BOTTLE,6,38.00 €
+WHITE,Rosé Mitterberg 2020 Luis Auer,BOTTLE,1,40.00 €
+WHITE,"Sauvignon Blanc Zieregg 2018 Tement Südsteiermark, Österreich",BOTTLE,1,95.00 €
+WHITE,"Grüner Veltliner Ried Berg Vogelsang 2019 Bründelmayer Kamptal, Österreich",BOTTLE,2,39.00 €
+WHITE,"Chardonnay Reserve Santa Cruz Mountains 2016 Mount Eden, Kalifornien ",BOTTLE,2,150.00 €
+WHITE,"Gewürztraminer Galilee 2021 Yarden Golan Heights Winery, Israel",BOTTLE,3,45.00 €
+WHITE,"Assyrtiko Ftelos 2017 Artemis Karamolegos Santorini, Griechenland ",BOTTLE,1,125.00 €
+WHITE,"Viura 2014 Vina Tondonia Rioja, Spanien ",BOTTLE,3,61.00 €
+WHITE,"Viura 2013 Vina Tondonia Rioja, Spanien ",BOTTLE,3,61.00 €
+WHITE,"Viura 2012 Vina Tondonia Rioja, Spanien ",BOTTLE,2,61.00 €
+WHITE,Riesling Pittermännchen GG 2017 Diel Nahe,BOTTLE,3,95.00 €
+WHITE,Riesling Frühlingsplätzchen GG 2018 Schäfer-Fröhlich Nahe,BOTTLE,1,105.00 €
+WHITE,Riesling Stromberg GG 2021 Schäfer-Fröhlich Nahe,BOTTLE,3,120.00 €
+WHITE,Riesling Kreuznacher Kahlenberg 2022 Dönnhoff Nahe,BOTTLE,1,45.00 €
+WHITE,Riesling Kalkofen GG 2021 Von Winning Pfalz,BOTTLE,4,90.00 €
+WHITE,Riesling Kiedrich Turmberg GG 2021 Robert Weil Rheingau,BOTTLE,3,58.00 €
+WHITE,Riesling Sankt Nikolaus GG 2021 P.J. Kühn Rheingau ,BOTTLE,2,115.00 €
+WHITE,Riesling Scharzofberger GG 2021 Van Volxem Saar,BOTTLE,5,85.00 €
+WHITE,Riesling Rausch GG 2021 Zilliken Mosel,BOTTLE,6,98.00 €
+WHITE,Riesling Trocken 2018 Heymann-Löwenstein Mosel,BOTTLE,1,38.00 €
+WHITE,Riesling Röttgen GG 2020 Heymann-Löwenstein Mosel,BOTTLE,8,85.00 €
+WHITE,Riesling Erdener Treppchen Spätlese 2020 Markus Molitor Mosel ,BOTTLE,11,45.00 €
+WHITE,Riesling Zeltinger Himmelreich Kabinett 2020 Molitor Mosel,BOTTLE,2,46.00 €
+WHITE,"Chardonnay ""R"" 2021 Rudolf Fürst Franken ",BOTTLE,2,125.00 €
+WHITE,Chardonnay Oberbergen Bassgeige 2020 Franz Keller Baden,BOTTLE,5,39.00 €
+WHITE,Chardonnay Malterdinger Alte Reben 2021 Bernhard Huber Baden ,BOTTLE,6,98.00 €
+WHITE,Weissburgunder Oberbergen Bassgeige 2020 Franz Keller Baden ,BOTTLE,2,39.00 €
+WHITE,"Friulano 2020 La Duline, Friaul Venetien ",BOTTLE,4,40.00 €
+WHITE,"Pinot Grigio Ronco Pitotti 2022 La Duline, Friaul Venetien ",BOTTLE,2,45.00 €
+WHITE,"Chardonnay Ronco Pitotti 2021 La Duline, Friaul Venetien ",BOTTLE,3,60.00 €
+WHITE,"Friulano Collio 2020 Schiopetto, Friaul Venetien ",BOTTLE,2,45.00 €
+WHITE,"Friulano San Zuan 2021 Ronco del Gnemiz, Friaul Venetien ",BOTTLE,1,45.00 €
+WHITE,"Chardonnay Ronco Basso 2021 Ronco del Gnemiz, Friaul Venetien ",BOTTLE,4,50.00 €
+WHITE,"Soave Classico 2016 Monte Fiorentine Ca'Rugate, Friaul Venetien ",BOTTLE,3,40.00 €
+WHITE,"Ribolla Gialla 2021 Jermann, Friaul Venetien ",BOTTLE,1,49.00 €
+WHITE,"Ribolla Gialla 2012 Josko Gravner, Friaul Venetien ",BOTTLE,3,120.00 €
+WHITE,"Cuvée Custoza 2020 Albino Piona, Friaul Venetien ",BOTTLE,2,25.00 €
+WHITE,"Cuvée L'Estro (V/M/SB) 2013 Casa Caterina, Lombardei ",BOTTLE,4,60.00 €
+WHITE,"Verdicchio Classico 2020 Il Coroncino, Marken ",BOTTLE,3,34.00 €
+WHITE,"Verdicchio Classico Balluccio 2020 Tenuta dell'Ugolino, Marken ",BOTTLE,2,36.00 €
+WHITE,"Pecorino Onirecep 2020 Pantaleone, Abruzzen ",BOTTLE,1,30.00 €
+WHITE,"Trebbiano d'Abruzzo 2021 Emidio Pepe, Abruzzen ",BOTTLE,6,60.00 €
+WHITE,"Trebbiano d'Abruzzo 2020 Valentini, Abruzzen",BOTTLE,3,185.00 €
+WHITE,"Vermentino Bio 2021 Olianas, Sardinien  ",BOTTLE,3,30.00 €
+WHITE,"Carricante Contrada Volpare 2020 Maugeri, Sizilien",BOTTLE,1,46.00 €
+WHITE,"Carricante Teatro Cajjo 2021 Centopassi, Sizilien ",BOTTLE,4,30.00 €
+WHITE,"Carricante Il Bianco 2022 Buscemi, Sizilien",BOTTLE,2,62.00 €
+WHITE,"Carricante Il Bianco 2023 Buscemi, Sizilien",BOTTLE,3,62.00 €
+WHITE,"Grechetto 2021 Di Filippo, Umbrien ",BOTTLE,1,25.00 €
+WHITE,"Etna Bianco 2021 Terra Costantino, Sizilien",BOTTLE,6,40.00 €
+WHITE,Riesling Pfersingberg Grand Cru 2015 Domaine Schöpfer Elsass,BOTTLE,1,43.00 €
+WHITE,Sancerre Chéne Marchand 2020 Dominique Roger,BOTTLE,3,50.00 €
+WHITE,Melon de Bourgogne Clisson 2014 Bruno Cormerais,BOTTLE,3,45.00 €
+WHITE,Meursault Les Narvaux 2020 Les Parcellaires de Saulz,BOTTLE,2,115.00 €
+WHITE,Meursault 2021 Antoine Jobard,BOTTLE,2,130.00 €
+WHITE,Chardonnay Bio Quintaine 2019 Guillemot Michel Burgund,BOTTLE,11,60.00 €
+WHITE,Bourgogne Blanc 2020 Philippe Bouzereau Burgund,BOTTLE,4,56.00 €
+WHITE,Bourgogne Blanc 2021 Michel Bouzereau Burgund ,BOTTLE,1,65.00 €
+WHITE,Bourgogne Hautes-Cótes de Beaune 2022 Emmanuel Rouget,BOTTLE,6,81.00 €
+WHITE,Chassagne Montrachet 2020 Philippe Colin ,BOTTLE,3,100.00 €
+WHITE,Puligny Montrachet Les Demoiselles 2020 Philippe Colin ,BOTTLE,1,120.00 €
+WHITE,Puligny Montrachet 2021 Bachelet-Monnot ,BOTTLE,3,120.00 €
+WHITE,Chablis 1er Cru 2022 Vaillons Servin,BOTTLE,9,69.00 €
+WHITE,Chablis 2022 Moreau,BOTTLE,4,50.00 €
+WHITE,Chablis Vaillon 1er Cru 2022 Moreau ,BOTTLE,3,75.00 €
+WHITE,Chablis Grand Cru Vaudésir 2020 Adrien Besson ,BOTTLE,3,130.00 €
+WHITE,Chablis Premier Cru Montmains 2021 Gérard Duplessis,BOTTLE,3,86.00 €
+WHITE,Chablis Premier Cru Montmains 2018 Gérard Duplessis,BOTTLE,2,94.00 €
+WHITE,Chablis Premier Cru Cóte de Léchet 2022 Thierry Laffay,BOTTLE,3,94.00 €
+WHITE,Cháteauneuf-du-Pape Les Cailloux 2021 André Brunel ,BOTTLE,5,89.00 €
+WHITE,Cuvée Bordeaux Blanc Grand Cru 2019 Malartic Lagraviere Bordeaux,BOTTLE,3,110.00 €
+WHITE,Chardonnay Les Graviers 2019 Tissot Jura,BOTTLE,2,90.00 €
+WHITE,Chardonnay Vieilles Vignes Arbois 2020 Amelie Guillot Jura,BOTTLE,2,49.00 €
+WHITE,Savagnin L'Etoile 2019 Domaine de Montbourgeau Jura,BOTTLE,1,45.00 €
+WHITE,Savagnin L'Etoile 2018 Domaine de Montbourgeau Jura,BOTTLE,6,45.00 €
+WHITE,Bourgogne Aligolé Antichtone 2021 Benoit Ente ,BOTTLE,3,125.00 €
+WHITE,Bourgogne Blanc 2021 Benoit Ente ,BOTTLE,3,156.00 €
+WHITE,Cuvée (Macabeu/Grenache Blanc) 2020 Gauby Cótes Catalanes ,BOTTLE,3,59.00 €
+WHITE,Grenage Blanc Lou Bragalou 2022 Flo Busch,BOTTLE,6,39.00 €
+RED,St. Magdalener Malanders 2023 Pitzner Kardaun ,BOTTLE,8,29.00 €
+RED,Vernatsch Upupa Rot 2019 Martin Abraham Eppan,BOTTLE,3,40.00 €
+RED,Vernatsch Arena 2018 Oberstein Tscherms ,BOTTLE,2,45.00 €
+RED,Vernatsch Mediaevum 2021 Gump Hof Völs am Schlern ,BOTTLE,4,34.00 €
+RED,Blauburgunder Riserva Matan 2020 Pfitscher Montan ,BOTTLE,4,59.00 €
+RED,Blauburgunder Vom Roten Kalk 2020 Martin Abraham Eppan,BOTTLE,6,64.00 €
+RED,Blauburgunder Mason di Mason 2018 Manincor Kalterer See,BOTTLE,6,98.00 €
+RED,Blauburgunder Riserva 2017 Schloss Englar Eppan,BOTTLE,10,70.00 €
+RED,Blauburgunder Marith 2023 Kornell Terlan,BOTTLE,6,36.00 €
+RED,Blauburgunder Noir 2007 Doná Tscherms ,BOTTLE,2,115.00 €
+RED,Blauburgunder Pigeno 2021 Strobelhof,BOTTLE,10,40.00 €
+RED,Blauburgunder Reneussance 2019 Gump Hof Völs am Schlern ,BOTTLE,1,94.00 €
+RED,Merlot Riserva 2021 Pitzner Kardaun ,BOTTLE,15,58.00 €
+RED,Merlot Riserva Staffes 2020 Kornell Terlan ,BOTTLE,2,46.00 €
+RED,Merlot Brenntal 2017 Kellerei Kurtatsch ,BOTTLE,3,60.00 €
+RED,Lagrein Porphyr 2020 Kellerei Terlan ,BOTTLE,3,84.00 €
+RED,Lagrein 2022 Fateni Salurnis Salurn ,BOTTLE,4,39.00 €
+RED,Lagrein Riserva Taber 2020 Kellerei Bozen ,BOTTLE,6,70.00 €
+RED,Lagrein Riserva 2021 Franz Gojer Karneid ,BOTTLE,6,47.00 €
+RED,Cuvée Anticus Riserva (M/CS) 2019 Nals-Margreid ,BOTTLE,4,58.00 €
+RED,Cuvée Anticus Riserva (M/CS) 2018 Nals-Margreid ,BOTTLE,1,58.00 €
+RED,Cuvée Staffelfeld (CS/M) 2019 Baron Widmann Kurtatsch,BOTTLE,3,50.00 €
+RED,Cuvée Iugum (M/CS) 2017 Dipoli Neumarkt ,BOTTLE,4,65.00 €
+RED,Cuvée Iugum (M/CS) 2015 Dipoli Neumarkt ,BOTTLE,3,65.00 €
+RED,Cuvée Zeder (M/CS/L) 2021 Kornell Terlan ,BOTTLE,7,34.00 €
+RED,Cuvée Hexagon (CS/M/CF/S/PV) 2021 Pitzner Kardaun ,BOTTLE,12,89.00 €
+RED,Cuvée Mauritius (L/M) 2020 Kellerei Bozen,BOTTLE,3,59.00 €
+RED,Cuvée Cassiano (M/CF/T/CS/PV/SY) 2021 Manincor Kalterer See,BOTTLE,13,62.00 €
+RED,"Blaufränkisch Leithaberg 2017 Heinrich Burgenland, Österreich",BOTTLE,1,45.00 €
+RED,"Merlot Mönchhof 2012 Pöckl Burgenland, Österreich",BOTTLE,1,155.00 €
+RED,"Cuvée (Z/M/CS) Admiral 2015 Pöckl Burgenland, Österreich",BOTTLE,1,90.00 €
+RED,"Tempranillo Reserva 2009 Vina Tondonia Rioja, Spanien",BOTTLE,4,70.00 €
+RED,"Shiraz Kalimna Bin 28 2017 Penfolds, Australien",BOTTLE,1,85.00 €
+RED,"Pinot Noir Ocean Eight 2014 Mike Aylward, Australien",BOTTLE,1,99.00 €
+RED,"Zinfandel Founders Estate 2018 Beringer, Kalifornien",BOTTLE,1,40.00 €
+RED,"Monte Bello (CS) 2018 Ridge, Kalifornien",BOTTLE,2,410.00 €
+RED,Cuvée (S/CS/CF) The Echo of G. 2014 Südafrika ,BOTTLE,2,180.00 €
+RED,"Cabernet Savignon Estate 2018 Ridge, Kalifornien ",BOTTLE,1,160.00 €
+RED,Spätburgunder JJ 2020 Adeneuer Ahr ,BOTTLE,9,36.00 €
+RED,Spätburgunder Kräuterberg GG 2018 Adeneuer Ahr ,BOTTLE,6,105.00 €
+RED,Spätburgunder Gärkammer GG 2020 Adeneuer Ahr ,BOTTLE,3,115.00 €
+RED,Spätburgunder Tradition 2021 Künstler Rheingau,BOTTLE,2,40.00 €
+RED,Spätburgunder Eichberg Große Lage 2017 Keller Baden,BOTTLE,1,95.00 €
+RED,Spätburgunder Malterdinger Alte Reben 2021 Bernhard Huber Baden,BOTTLE,3,98.00 €
+RED,Spätburgunder Jaspis Alte Reben 2013 Ziereisen Baden,BOTTLE,1,98.00 €
+RED,Spätburgunder Bürgstadter 2019 Fürst Franken ,BOTTLE,5,48.00 €
+RED,Spätburgunder Bürgstadter 2017 Fürst Franken,BOTTLE,2,48.00 €
+RED,Syrah Däublin 2019 Ziereisen Baden,BOTTLE,5,100.00 €
+RED,Teroldego Granato 2018 Foradori Trentino ,BOTTLE,6,89.00 €
+RED,Amarone Ca' Coato 2017 Antolini Valpolicella,BOTTLE,6,69.00 €
+RED,Barbaresco Montestefano 2014 Rivella Piemont ,BOTTLE,3,120.00 €
+RED,Barbaresco Vigneto Starderi 2010 La Spinetta Piemont ,BOTTLE,1,160.00 €
+RED,Barbaresco Ronchi 2020 Albino Rocco Piemont ,BOTTLE,2,85.00 €
+RED,Barbaresco Ronchi Riserva 2016 Albino Rocca Piemont ,BOTTLE,2,187.00 €
+RED,Barbaresco Ronchi Riserva 2019 Albino Rocca Piemont ,BOTTLE,2,187.00 €
+RED,Barbaresco 2014 Angelo Gaja Piemont ,BOTTLE,3,370.00 €
+RED,Grumello Valtellina Superiore 2019 I Vitari Valtellina ,BOTTLE,4,96.00 €
+RED,Grumello Valtellina Superiore 2021 I Vitari Valtellina ,BOTTLE,6,96.00 €
+RED,Rosso di Valtellina 2020 I Vitari Valtellina,BOTTLE,10,45.00 €
+RED,Nebbiolo Sassella Riserva 2018 Clos Convento San Lorenzo Valtellina,BOTTLE,12,65.00 €
+RED,Nebbiolo 2022 Albino Rocca Piemont ,BOTTLE,8,39.00 €
+RED,Nebbiolo 2021 Albino Rocca Piemont ,BOTTLE,3,39.00 €
+RED,Nebbiolo Gattinara 2020 Travaglini Piemont ,BOTTLE,5,45.00 €
+RED,Nebbiolo d'Alba Anphora 2021 Réva Piemont ,BOTTLE,10,38.00 €
+RED,Nebbiolo 2009 Ciabot Mentin Domenico Clerico Piemont ,BOTTLE,3,165.00 €
+RED,Nebbiolo Lessona 2018 Proprietá Sperino Piemont ,BOTTLE,5,112.00 €
+RED,Barolo Conteisa 2015 Gaja Piemont ,BOTTLE,2,610.00 €
+RED,Barolo Ravera 2019 Revá ,BOTTLE,2,135.00 €
+RED,Langhe Virtus (Barbera/CS) 2011 Marchesi di Gresy ,BOTTLE,1,45.00 €
+RED,Montepulciano Riserva Illuminati 2001 Zanna Abruzzen MAGNUM,MAGNUM,2,80.00 €
+RED,Montefalco Sagrantino Bio 2017 Di Filippo Umbrien ,BOTTLE,4,50.00 €
+RED,Paleo CF 2019 Le Macchiole Bolgheri ,BOTTLE,5,135.00 €
+RED,Scrio Syrah 2019 Le Macchiole Bolgheri ,BOTTLE,1,165.00 €
+RED,Messorio Merlot 2019 Le Macchiole Bolgheri ,BOTTLE,2,215.00 €
+RED,Pinot Noir 2020 Podere della Civettaja Toskana ,BOTTLE,2,75.00 €
+RED,Rosso di Montalcino 2019 Il Colle Toskana ,BOTTLE,1,48.00 €
+RED,Brunello di Montalcino 2018 Il Colle Toscana ,BOTTLE,2,79.00 €
+RED,Brunello di Montalcino 2018 Pietroso Toskana ,BOTTLE,3,79.00 €
+RED,Brunello di Montalcino 2016 Pietroso Toskana ,BOTTLE,5,95.00 €
+RED,Brunello di Montalcino 2015 Pietroso Toskana ,BOTTLE,1,95.00 €
+RED,Brunello di Montalcino Riserva Lupi e Sirene 2016 Podere le Ripi Toskana ,BOTTLE,2,135.00 €
+RED,Brunello di Montalcino 2014 Il Paradiso di Manfredi Toskana ,BOTTLE,3,140.00 €
+RED,Chianti Classico 2020 Tenuta di Carleone Toskana ,BOTTLE,6,48.00 €
+RED,Chianti Classico 2019 Tenuta di Carleone Toskana ,BOTTLE,2,48.00 €
+RED,Chianti Classico 2021 Boundonno Toskana ,BOTTLE,2,44.00 €
+RED,Cuvée (CF/CS) Poggio alle Nane 2020 Le Mortelle Toskana ,BOTTLE,2,82.00 €
+RED,Cuvée(CS/S) Villa Conversino 2020 Di Filippo Umbrien ,BOTTLE,3,39.00 €
+RED,Cuvée (Nerello Mascalese/ Grenache) Tartaraci 2020 Buscemi Sizilien,BOTTLE,3,54.00 €
+RED,Cuvée (Nerello Mascalese/ Grenache) Tartaraci 2019 Buscemi Sizilien,BOTTLE,3,54.00 €
+RED,Cuvée (CS/CF/M) Dott. Palazzolo 2021 Ronco del Gnemiz Friaul ,BOTTLE,5,89.00 €
+RED,Cuvée (CS/CF/M) Dott. Palazzolo 2020 Ronco del Gnemiz Friaul ,BOTTLE,5,89.00 €
+RED,Cuvée (SY/M/S) Colline Lucchesi 2021 Palistorti Di Valgiano ,BOTTLE,9,40.00 €
+RED,Cuvée (CF/M) Il Randaglio 2021 Tenuta di Carleone Toskana ,BOTTLE,3,38.00 €
+RED,Merlot Con't Ugo 2021 Guadi al Tasso Bolgheri ,BOTTLE,2,62.00 €
+RED,Bourgogne Passetoutgrain 2022 Forey Pére & Fils,BOTTLE,6,39.00 €
+RED,Gevrey Chambertin Petite Chapelle 2021 Humbert ,BOTTLE,1,240.00 €
+RED,Fixin Vieilles Vignes 2021 Humbert ,BOTTLE,2,98.00 €
+RED,Fixin Vieilles Vignes 2020 Humbert ,BOTTLE,3,98.00 €
+RED,Savigny-lés-Beaune Pinot Noir Vieilles Vignes 2018 Marechal ,BOTTLE,1,65.00 €
+RED,Beaune 1er Cru Les Bressandes 2022 Berthelemot,BOTTLE,3,98.00 €
+RED,Chambolle Musigny Pinot Noir 2019 Amiot Servelle,BOTTLE,1,110.00 €
+RED,Nuits-Saint-George Pinot Noir Les Rues de Chaux 2021 Chicotot,BOTTLE,4,140.00 €
+RED,Nuits-Saint-George Pinot Noir Les Saint Georges 2021 Chicotot,BOTTLE,2,185.00 €
+RED,Nuits-Saint-George Pinot Noir Les Saint Georges 2020 Chicotot,BOTTLE,1,185.00 €
+RED,Nuits-Saint-George Pinot Noir Aux Thorey 2021 Pierre Brisset,BOTTLE,3,164.00 €
+RED,Pommard 2022 Jean-Marc-Boillot,BOTTLE,3,115.00 €
+RED,Crozes-Hermitage Syrah 2021 Yann Chave ,BOTTLE,3,50.00 €
+RED,Hermitage Syrah 2021 Yann Chave,BOTTLE,3,145.00 €
+RED,Cháteauneuf-de-Pape Cuvée Centenaire 2015 André Brunel ,BOTTLE,3,178.00 €
+RED,Cháteauneuf-de-Pape Les Cailloux 2019 André Brunel ,BOTTLE,5,89.00 €
+RED,Cuvée Vieilles Vignes (SY/G/Mouv.) 2020 Domaine Gauby Roussilon ,BOTTLE,2,85.00 €
+RED,Pomerol (CF/M) 2016 Cháteau Cantelauze ,BOTTLE,4,130.00 €
+RED,Savigny-les-Beaune Pinot Noir 1997 Robert Ampeau et Fils ,BOTTLE,1,126.00 €

@@ -39,11 +39,11 @@ class V3SpreadsheetWriter:
         return [1 if el else None for el in to_fill]
 
     def _fill_sheets(self, df_valid_matches, df_not_matched):
-        df_valid_matches = fill_empty(df_valid_matches, VColumns.v3_selection())
+        df_valid_matches = fill_empty(df_valid_matches, VColumns.v3_selection(), True)
         df_valid_matches["ok"] = self._fill_ok(df_valid_matches)
         df_valid_matches = df_valid_matches.sort_values("ok", ascending=False)
 
-        df_not_matched = fill_empty(df_not_matched, VColumns.v3_not_found())
+        df_not_matched = fill_empty(df_not_matched, VColumns.v3_not_found(), True)
         df_not_matched["ok"] = fill_ok_formulas(df_not_matched)
 
         return df_valid_matches, df_not_matched
@@ -89,8 +89,8 @@ class V4SpreadsheetWriter:
         df_manual["ok"] = fill_ok_formulas(df_manual)
         df_manual["matched_id"] = None
 
-        self.df_auto = fill_empty(df_auto, VColumns.v3_selection())
-        self.df_manual = fill_empty(df_manual, VColumns.v3_not_found())
+        self.df_auto = fill_empty(df_auto, VColumns.v3_selection(), True)
+        self.df_manual = fill_empty(df_manual, VColumns.v3_not_found(), True)
 
     def _save(self):
         print(f"Saving to {os.path.join(self.root, self.OUTPUT_FILENAME)}")

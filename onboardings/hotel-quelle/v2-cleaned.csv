@@ -1,0 +1,497 @@
+external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantity,storage_area,internal_notes,visible
+1.0,,Cuvee Trias ,Niedrist,,BOTTLE,2020,4900,1730,12,4.0,,True
+2.0,, Terlaner Sauvignon Porphyr&Kalk ,Sauvignon Niedrist,,BOTTLE,2021,4900,1430,12,4.0,,True
+5.0,, Pinot Grigio Vigna Kastel Ringberg ,Elena Walch,,BOTTLE,2022,4900,1565,30,6.0,,True
+6.0,,Chardonnay Magdalena ,Nicolussi Leck,,BOTTLE,2021,4900,1019,30,4.0,,True
+7.0,, Pinot Bianco Platt & Riegl ,KG. Girlan,,BOTTLE,2022,3500,969,24,6.0,,True
+8.0,, Fontanasanta Nosiola (Anfora) ,Foradori Bio,,BOTTLE,2021,5500,1850,12,3.0,,True
+9.0,, Furmint Dry Mandolas ,Oremus,,BOTTLE,2018,4500,1650,6,1.0,,True
+11.0,, Rkatsiteli (Anfora) ,Tsarapi,,BOTTLE,2022,6500,2450,12,1.0,,True
+12.0,, Gran Vino Albarinho,Pazo Barrantes,,BOTTLE,2021,5100,3700,6,1.0,,True
+13.0,, Heritage Chilar (Anfora),Zorah ,,BOTTLE,2020,11500,4750,6,5.0,,True
+20.0,, Radici Taurasi Ris. ,Mastroberardino,,BOTTLE,2016,7500,2800,24,3.0,,True
+21.0,, Vernatsch Gschleier Alte Reben ,KG. Girlan,,BOTTLE,2021,4500,1280,24,4.0,,True
+22.0,, Primitivo ES ,Gianfranco Fino,,BOTTLE,2022,9500,3800,24,5.0,,True
+23.0,, Pinot Noir Ris. ,Niedriest,,BOTTLE,2019,6500,2340,18,4.0,,True
+24.0,, Pivier,Cesconi,,BOTTLE,2017,6500,2100,18,5.0,,True
+25.0,, Pinot Noir Hausmannhof ,Haderburg Bio,,BOTTLE,2020,5500,1850,24,3.0,,True
+26.0,, Cuvee Rot ,Baron Widmann,,BOTTLE,2019,4900,1750,30,4.0,,True
+27.0,, Linticlarus Cuvee ,Tiefenbrunner,,BOTTLE,2021,7600,2750,30,4.0,,True
+29.0,, Merlot Brenntal ,Kellerei Kurtatsch ,,BOTTLE,2020,7500,3400,24,4.0,,True
+30.0,, Syrah La Monaca ,Sallier de La Tour,,BOTTLE,2020,4500,1290,24,3.0,,True
+31.0,, Pinot Noir ,Palliser,,BOTTLE,2020,7500,2800,18,3.0,,True
+32.0,,  Valpolicella Ripasso Campi Magri ,"Corte Sant Alda, Bio",,BOTTLE,2019,4900,1639,18,3.0,,True
+33.0,, Teroldego Sgarzon (Anfora) ,"Foradori, Bio",,BOTTLE,2021,5500,1850,18,3.0,,True
+34.0,, Heritage Sireni (Anfora) ,Zorah     ,,BOTTLE,2019,11500,4750,6,5.0,,True
+41.0,, Essenzia , Pojer & Sandri,,HALF_BOTTLE,2019,5500,1735,3,1.0,,True
+42.0,, Recioto di Valpolicella Le Tordare ,Cà la Bionda,,HALF_LITER,2012,5500,2200,6,3.0,,True
+43.0,, Banyuls Leon Parce ,Dom. de la Rectorie,,HALF_LITER,2019,5500,1850,6,3.0,,True
+101.0,,  Arunda Brut,Arunda,,HALF_BOTTLE,0,3900,1030,24,6.0,,True
+100.0,, Praeclarus Brut,St.Pauls,,BOTTLE,0,4500,1490,30,6.0,,True
+102.0,, Haderburg Pas Dosé ,Haderburg,,BOTTLE,2020,6500,2170,24,6.0,,True
+103.0,, Haderburg Pas Dosé,Haderburg,,MAGNUM,0,12000,4050,3,3.0,,True
+104.0,,  Hausmannhof Riserva Brut ,Haderburg,,BOTTLE,2011,9500,3500,3,3.0,,True
+105.0,, Valdobbiadene DOCG Extra Dry Coste Ponente Col Vetoraz,Col Vetoraz,,BOTTLE,2023,3900,1050,30,5.0,,True
+109.0,, Valdobbiadene DOCG Brut Fagher Le Colture,Le Colture,,BOTTLE,2023,3900,869,30,5.0,,True
+106.0,, Valdobbiadene DOCG Brut Millesimato Guia Foss Marai,Foss Marai,,BOTTLE,2023,3900,908,30,5.0,,True
+107.0,, Cartizze DOCG Dry Bortolin,Bortolin,,BOTTLE,2023,4500,1215,12,5.0,,True
+111.0,,"  Franciacorta DOCG Extra Brut/ Brut Francesco I.,Uberti",Uberti,,BOTTLE,0,6500,1670,24,6.0,,True
+112.0,," Franciacorta DOCG Brut Saten, Bosio",Bosio,,BOTTLE,0,6500,1730,30,6.0,,True
+113.0,,"  Franciacorta DOCG Extra Brut, Comari del Salem,Uberti",Uberti,,BOTTLE,0,7500,2700,24,6.0,,True
+114.0,, Franciacorta DOCG Riserva Brut Annamaria Clementi , Ca’ del Bosco,,BOTTLE,2015,21500,9570,3,1.0,,True
+159.0,, Cabochon Fuori Serie 023 Monterossa,Monterossa,,BOTTLE,0,9500,3900,24,1.0,,True
+120.0,, Perle Brut Millesimato ,Ferrari,,BOTTLE,2017,6900,2200,48,6.0,,True
+121.0,, Trento DOC Brut Riserva Methius ,Dorigati,,BOTTLE,2017,7500,2600,18,6.0,,True
+122.0,, Trento DOC Brut Riserva Methius ,Dorigati,,MAGNUM,2017,13500,4700,3,6.0,,True
+124.0,, Blauwal Riserva Extra Brut ,Cesconi,,BOTTLE,2015,7500,2800,18,6.0,,True
+125.0,, Trento DOC Giulio Ferrari Riserva Del Fondatore Brut ,Ferrari,,BOTTLE,2008,25000,10800,12,3.0,,True
+99.0,, Trento DOC Giulio Ferrari Riserva Del Fondatore Rose Brut ,Ferrari,,BOTTLE,2006,40000,13000,1,1.0,,True
+127.0,, Arunda Excellor Rose Brut,Arunda,,BOTTLE,0,6500,2000,24,6.0,,True
+128.0,, Rose Brut Pojer & Sandri,Pojer&Sandri,,BOTTLE,0,5500,1889,18,6.0,,True
+110.0,, Franciacorta Rose Brut Uberti,Uberti,,BOTTLE,0,6500,1800,18,6.0,,True
+129.0,, Blanquette de Limoux Brut Tradition Antech ,Antech,,BOTTLE,0,5500,1050,12,6.0,,True
+130.0,, Guy Larmandier Premier Cru Brut,Guy Larmandier,,HALF_BOTTLE,0,4900,1950,12,6.0,,True
+160.0,, Louis Roederer Brut Collection246 ,Louis Roederer,,HALF_BOTTLE,0,6500,2640,12,6.0,,True
+131.0,, Louis Roederer Brut Collection 244,Louis Roederer,,BOTTLE,0,11500,4630,18,6.0,,True
+132.0,, Louis Roederer Blanc de Blancs Brut 2016,Louis Roederer,,BOTTLE,2016,17000,7650,12,6.0,,True
+133.0,, Louis Roederer Philippe Starck Brut Nature Vintage 2015,Roederer & Starck,,BOTTLE,2015,17000,6750,3,1.0,,True
+198.0,, Pierre Peters Blanc de Blancs Grand Cru Extra Brut,Pierre Peters,,BOTTLE,0,15000,5700,12,6.0,,True
+199.0,, Deutz Classic Brut,Deutz,,BOTTLE,0,9500,4725,18,6.0,,True
+151.0,, Cuvee William Deutz Brut 2013,Deutz ,,BOTTLE,2013,32500,15279,3,1.0,,True
+134.0,, Bollinger Special Cuvee Brut,Bollinger,,BOTTLE,0,11500,4950,18,6.0,,True
+135.0,, Bollinger Special Cuvee Brut Magnum/Deutz Brut Classic Magnum,Bollinger,,MAGNUM,0,23000,9900,6,1.0,,True
+137.0,, Bollinger La Grande Annee Brut 2014,Bollinger,,BOTTLE,2014,24000,10830,6,1.0,,True
+,, Bollinger B 13 Brut,Bollinger ,,BOTTLE,0,21000,8950,3,1.0,,True
+,, Bollinger PN VZ 16 /AYC 18 Brut,Bollinger ,,BOTTLE,0,18000,7800,6,1.0,,True
+,, Bollinger RD ,Bollinger,,BOTTLE,2007,45000,18600,3,1.0,,True
+138.0,, Pol Roger Brut ,Pol Roger,,BOTTLE,0,10500,3820,24,5.0,,True
+139.0,, Teophile Rose Brut,Teophile,,BOTTLE,0,8500,3250,24,5.0,,True
+140.0,, Gosset Grand Rose Brut,Gosset,,BOTTLE,0,13000,5450,6,1.0,,True
+157.0,, Dom Perigon Rose Brut Vintage 2006,Dom Perigon,,BOTTLE,2006,60000,28289,6,1.0,,True
+159.0,, Laurent Perrier Cuvee Rose Brut,Laurent Perrier,,BOTTLE,0,14000,5580,12,1.0,,True
+156.0,, Jacquesson745/746 Extra Brut,Jacquesson,,BOTTLE,0,13000,5120,12,6.0,,True
+164.0,, V. C. P. La Grande Dame Rose Brut ,V.C.P. ,,BOTTLE,2006,45000,21110,6,1.0,,True
+136.0,, Pol Roger Cuvee Sir Winston Churchill ,Pol Roger ,,BOTTLE,2013,45000,17500,3,1.0,,True
+142.0,, Dom Perignon Cuvée Brut Vintage 2013,Dom Perignon,,BOTTLE,2013,45000,17051,6,1.0,,True
+143.0,, Dom Perignon Cuvée Brut P2 Vintage 2000,Dom Perignon,,BOTTLE,2000,75000,25000,3,1.0,,True
+144.0,, V. C. P. La Grande Dame Brut 2006,V. C. P.,,BOTTLE,2006,35000,13229,6,1.0,,True
+145.0,, Krug Grande Cuvée Brut,Krug,,BOTTLE,0,37000,18019,6,1.0,,True
+163.0,, Krug Vintage ,Krug,,BOTTLE,2006,60000,16500,6,1.0,,True
+146.0,, Roederer Cristal Brut Millesime  ,Roederer,,BOTTLE,2008,45000,18300,6,5.0,,True
+,, Roederer Cristal Brut Millesime ,Roederer,,MAGNUM,2012,115000,54000,1,5.0,,True
+147.0,, Dom Ruinart Blanc de Blancs Brut Millesime 2007,Ruinart,,BOTTLE,2010,45000,18100,6,1.0,,True
+148.0,, Pol Roger Blanc de Blancs Brut Millesime 2015,Pol Roger,,BOTTLE,2015,17500,7600,6,6.0,,True
+196.0,, Amor de Deutz Blanc de Blancs Brut Millesime 2011,Deutz,,BOTTLE,2011,35000,19098,3,1.0,,True
+149.0,, Nicolas Feuillatte BdN Grand Cru Brut Millesime 2014,Nicolas Feuillatte,,BOTTLE,2014,10500,4248,3,6.0,,True
+150.0,, Mailly Blanc de Noirs Brut,Mailly ,,BOTTLE,0,9500,4500,12,5.0,,True
+152.0,, Guy Larmandier Cramant Blanc de Blancs Grand Cru ,Guy Larmandier,,MAGNUM,0,19000,7290,3,5.0,,True
+153.0,, Brut Jeroboam,,,JEROBOAM,0,38000,18000,1,1.0,,True
+154.0,, Bruno Paillard Nec Plus Ultra ,Bruno Paillard,,BOTTLE,2002,50000,14000,3,1.0,,True
+155.0,, Salon Cuvee S Blanc de Blancs Le Mesnil ,Salon,,BOTTLE,2012,140000,54000,3,1.0,,True
+200.0,, Gewürztraminer Vigna Kolbenhof ,Hofstätter,,MAGNUM,2021,13000,3300,3,6.0,,True
+202.0,, Sauvignon Lafoa ,Schreckbichl-Colterenzio,,MAGNUM,2021,11000,3840,3,1.0,,True
+203.0,, Sauvignon Voglar ,Dipoli ,,MAGNUM,2018,9500,3500,3,1.0,,True
+205.0,, Terlaner Weissburgunder Vorberg ,KG.Terlan,,MAGNUM,2020,11000,4019,3,1.0,,True
+206.0,, Vinschgauer Riesling ,"Falkenstein, Pratzner",,MAGNUM,2021,9500,2975,3,1.0,,True
+207.0,, Vintage Tunina ,Jermann,,MAGNUM,2021,19000,8320,1,1.0,,True
+208.0,, Chardonnay Formigar ,Schreckbichl-Colterenzio,,JEROBOAM,2010,25000,9000,1,1.0,,True
+209.0,, Chardonnay Lafoa ,Schreckbichl-Colterenzio,,MAGNUM,2020,11000,3840,3,1.0,,True
+211.0,, Cabernet Löwengang ,Alois Lageder,,MAGNUM,2007,25000,0,3,2.0,,True
+210.0,, Cabernet Löwengang ,Alois Lageder,,JEROBOAM,2007,50000,0,3,2.0,,True
+212.0,, Cabernet Sauvignon Ris. Mumelter ,KG. Bozen,,MAGNUM,2020,12500,0,3,2.0,,True
+213.0,, Cabernet Sauvignon Lafoa ,Schreckbichl-Colterenzio,,MAGNUM,2005,21000,0,3,2.0,,True
+214.0,, Cabernet Sauvignon Lafoa ,Schreckbichl-Colterenzio,,JEROBOAM,2005,40000,0,3,2.0,,True
+215.0,, Lagrein Riserva ,Abtei Muri,,MAGNUM,2018,11500,0,3,2.0,,True
+216.0,, Lagrein Riserva Prestige ,KG. Bozen,,MAGNUM,2018,11500,3950,3,2.0,,True
+217.0,, Lagrein Riserva Taber ,KG. Bozen,,MAGNUM,2016,15000,6550,3,2.0,,True
+224.0,, Lagrein Ris. Vigna Klosteranger ,Abtei Muri,,MAGNUM,2014,30000,8100,1,2.0,,True
+218.0,, Pinot Nero Schweitzer ,Franz Haas,,MAGNUM,2009,15000,4000,3,2.0,,True
+219.0,, Pinot Nero Ris. Trattmann ,KG. Girlan,,MAGNUM,2016,14000,5150,3,2.0,,True
+220.0,, Pinot Nero Mazzon ,Gottardi,,MAGNUM,2015,11500,3150,3,2.0,,True
+221.0,,  Pinot Nero Ris. Hausmannhof ,Haderburg,,MAGNUM,2015,15900,6500,3,2.0,,True
+222.0,, Pinot Nero Ris. Vigna S.Urbano ,Hofstätter,,MAGNUM,2007,21500,6100,4,2.0,,True
+243.0,, Pinot Nero Ris.680 ,Maso Thaler,,MAGNUM,2015,11900,3000,3,2.0,,True
+242.0,, Merlot Ris. Praun ,KG Bozen,,MAGNUM,2020,11500,4850,3,2.0,,True
+223.0,, Kermesse ,Elena Walch,,MAGNUM,2019,17000,5800,2,2.0,,True
+243.0,, Cornelius Rosso ,Schreckbichl-Colterenzio ,,MAGNUM,2021,12000,4500,3,2.0,,True
+225.0,, Granato ,Foradori,,MAGNUM,2003,12900,5000,1,2.0,,True
+226.0,, San Leonardo ,San Leonardo,,MAGNUM,2019,28000,12800,6,2.0,,True
+227.0,, Iugum ,Dipoli,,JEROBOAM,2011,30000,12000,2,2.0,,True
+,, Iugum ,Dipoli,,MAGNUM,2015,15000,5120,3,2.0,,True
+228.0,, Cepparello , Isole & Olena,,MAGNUM,2001,21000,9450,3,2.0,,True
+229.0,, Brunello di Montalcino ,Collosorbo,,MAGNUM,2019,13000,5500,5,2.0,,True
+230.0,, Brunello di Montalcino Riserva ,Capanna,,MAGNUM,2007,32000,6450,2,2.0,,True
+231.0,, Mormoreto ,Frescobaldi,,MAGNUM,2012,17000,4000,2,2.0,,True
+245.0,, Chianti Cl. Gran Selezione Rialzi ,Perano,,MAGNUM,2015,13000,5500,1,2.0,,True
+232.0,, Barolo Prapo ,Ceretto,,MAGNUM,1997,35000,0,2,2.0,,True
+233.0,, Barolo Prapo ,Ceretto,,JEROBOAM,1996,70000,0,2,2.0,,True
+234.0,, Cor Römigberg ,Alois Lageder,,MAGNUM,2015,25000,6500,1,2.0,,True
+235.0,, Cor Römigberg ,Alois Lageder,,JEROBOAM,2003,50000,15000,3,2.0,,True
+236.0,, Bricco dell’Uccellone ,Braida,,JEROBOAM,1997,29000,0,1,2.0,,True
+237.0,, Amarone della Valpolicella Ravazzol ,Ca la Bionda,,MAGNUM,2016,21000,7865,3,2.0,,True
+199.0,,  Amarone della Valpolicella ,Bertani,,MAGNUM,2012,28500,0,1,2.0,,True
+238.0,,  Amarone della Valpolicella ,Bertani,,JEROBOAM,2006,50000,0,1,2.0,,True
+239.0,, Cote Rotie ,Bonnefond,,MAGNUM,2010,14000,0,2,2.0,,True
+240.0,, Château Margaux ,Ch. Margaux 1-er Grand Cru Classe,,MAGNUM,1991,250000,0,1,2.0,,True
+241.0,, Château Latour ,Ch. Latour DMG Pauillac Grand Cru Classe,,JEROBOAM,1991,320000,0,1,2.0,,True
+246.0,, Château Latour ,Ch. Latour MG Pauillac Grand Cru Classe,,MAGNUM,1991,160000,0,1,2.0,,True
+401.0,, Eisacktaler Sylvaner ,"Kuenhof, Pliger",,BOTTLE,2022,4500,1295,24,4.0,,True
+402.0,, Eisacktaler Sylvaner Praepositus ,Abtei Neustift,,BOTTLE,2022,4500,1270,12,4.0,,True
+403.0,, Eisacktaler Sylvaner Alte Reben ,Pacherhof,,BOTTLE,2019,4900,1700,12,4.0,,True
+404.0,, Eisacktaler Sylvaner Lahner ,Taschlerhof,,BOTTLE,2020,4900,1550,6,4.0,,True
+399.0,, Eisacktaler Grüner Veltliner ,"Hoandlhof, Nössing",,BOTTLE,2022,3900,1120,24,4.0,,True
+398.0,, Eisacktaler Veltliner ,"Kuenhof,Pliger",,BOTTLE,2022,4500,1190,24,4.0,,True
+397.0,, Eisacktaler Grüner Veltliner ,Dorfmann,,BOTTLE,2019,4900,1600,24,4.0,,True
+405.0,, Eisacktaler Kerner ,"Hoandlhof, Nössing                                           ",,BOTTLE,2022,3900,1120,24,4.0,,True
+406.0,,  Eisacktaler Kerner Aristos ,Eisacktaler Kellerei,,BOTTLE,2022,4500,1350,24,4.0,,True
+407.0,, Gewürztraminer Selida ,KG Tramin,,BOTTLE,2023,3900,1010,24,4.0,,True
+408.0,, Eisacktaler Gewürztraminer ,Taschlerhof,,BOTTLE,2022,4000,1240,30,4.0,,True
+409.0,, Vigna Kolbenhof ,Hofstätter,,BOTTLE,2021,6500,2450,24,5.0,,True
+410.0,, Nußbaumer ,KG. Tramin,,BOTTLE,2022,6000,2110,24,5.0,,True
+411.0,, Lyra ,KG. Nals-Margreid ,,BOTTLE,2022,4000,1250,24,5.0,,True
+412.0,, Vigna Kastelaz ,Elena Walch,,BOTTLE,2022,6000,2120,24,6.0,,True
+413.0,, Argentum Bonum Kastelaz ,Elena Walch,,BOTTLE,2014,13000,5145,3,2.0,,True
+462.0,, Epokale ,KG Tramin,,BOTTLE,2015,35000,8500,1,2.0,,True
+466.0,, Pirschrait ,Hofstätter,,BOTTLE,2007,15500,7000,1,2.0,,True
+53.0,, Riesling ,"Falkenstein, Pratzner",,BOTTLE,2021,4500,1350,30,4.0,,True
+54.0,, Riesling Kaiton ,"Kuenhof, Pliger",,BOTTLE,2021,4500,1345,30,4.0,,True
+56.0,, Riesling Geieregg ,"Himmelreichhof, Markus Fliri",,BOTTLE,2022,5000,1530,30,4.0,,True
+57.0,, Anadouron ,"Falkenstein, Pratzner",,BOTTLE,2018,7000,2700,24,4.0,,True
+414.0,, Cora ,Schreckbichl-Colterenzio,,BOTTLE,2022,3500,760,30,6.0,,True
+415.0,, Moriz ,KG. Tramin,,BOTTLE,2023,3700,1060,24,6.0,,True
+98.0,, Limes ,Niedrist,,BOTTLE,2020,5500,1730,12,4.0,,True
+416.0,, Riserva Kalkberg ,KG.St. Pauls,,BOTTLE,2021,4900,1700,24,6.0,,True
+417.0,, Riserva Vorberg ,Kellerei Terlan,,BOTTLE,2021,5900,2000,24,5.0,,True
+418.0,, Riserva Sanctissimus ,KG. St. Pauls ,,BOTTLE,2016,11500,3900,3,1.0,,True
+419.0,, Pepi ,KG. Tramin,,BOTTLE,2023,3900,1190,24,4.0,,True
+420.0,, Turmhof ,Tiefenbrunner,,BOTTLE,2022,4000,1350,24,4.0,,True
+421.0,, Voglar ,Dipoli,,BOTTLE,2020,5000,1650,24,4.0,,True
+422.0,, St. Valentin ,KG. St. Michael,,BOTTLE,2022,5700,1985,24,6.0,,True
+424.0,, Lafoa ,Schreckbichl-Colterenzio,,BOTTLE,2022,5500,1889,24,6.0,,True
+427.0,, Vom Kalk ,Rohregger,,BOTTLE,2020,4900,1650,24,5.0,,True
+425.0,, Quarz ,Terlan,,BOTTLE,2021,8000,3107,12,6.0,,True
+426.0,, Chardonnay Moraine ,"Untermoserhof, Ramoser",,BOTTLE,2021,5500,1930,48,4.0,,True
+428.0,, Cardellino ,Elena Walch,,BOTTLE,2022,4500,1305,24,6.0,,True
+429.0,, Lafoa ,Schreckbichl-Colterenzio,,BOTTLE,2021,5500,1989,24,6.0,,True
+430.0,, Riserva Baron Salvadori ,KG.Nals,,BOTTLE,2019,6900,2495,12,5.0,,True
+459.0,, Riserva Vigna Crivelli ,Peter Zemmer,,BOTTLE,2021,6700,2490,30,5.0,,True
+431.0,, Löwengang ,Alois Lageder,,BOTTLE,2020,10000,4200,24,4.0,,True
+461.0,, Somereto ,Kellerei Andrian,,BOTTLE,2022,3000,729,6,6.0,,True
+447.0,, Troy ,KG.Tramin,,BOTTLE,2019,12500,5200,6,1.0,,True
+400.0,,  Riserva Kreuzweg ,Castelfeder,,BOTTLE,2019,14000,6000,6,1.0,,True
+,,  Löwengang INEDITO II (2013-,Alois Lageder,,BOTTLE,2021,35000,16000,21,1.0,,True
+432.0,, Moscato Giallo ,Manincor,,BOTTLE,2023,3900,1140,24,5.0,,True
+436.0,, Magdalena, Nicolussi-Leck                                        ,,BOTTLE,2021,3900,1019,12,4.0,,True
+433.0,, St. Valentin ,KG.St. Michael,,BOTTLE,2020,5700,1985,24,6.0,,True
+457.0,, Riserva Vigna Giatl ,Peter Zemmer,,BOTTLE,2020,5500,1789,24,5.0,,True
+458.0,, Porer ,Alois Lageder,,BOTTLE,2022,4500,1350,24,4.0,,True
+434.0,, Puiten ,Schreckbichl-Colterenzio,,BOTTLE,2022,3900,1090,24,4.0,,True
+435.0,, Feldmarschall von Fenner ,Tiefenbrunner,,BOTTLE,2019,9500,2800,12,4.0,,True
+437.0,, De Vite Bianco ,Hofstätter,,BOTTLE,2023,3500,819,24,4.0,,True
+438.0,, Terlaner Klassisch ,Kellerei Terlan ,,BOTTLE,2023,3900,1105,30,5.0,,True
+439.0,, Manna ,Franz Haas,,BOTTLE,2022,5000,1714,24,4.0,,True
+440.0,, Sophie ,Manincor,,BOTTLE,2022,6600,2490,24,5.0,,True
+441.0,, Stoan ,KG.Tramin,,BOTTLE,2022,5500,1980,24,4.0,,True
+442.0,, Grande Cuvee Beyound the Clouds ,Elena Walch,,BOTTLE,2021,9900,3940,12,4.0,,True
+423.0,, Nova Domus ,Kellerei Terlan,,BOTTLE,2021,7500,2718,24,5.0,,True
+443.0,, Cason Weiss-Bianco ,Alois Lageder,,BOTTLE,2020,7500,2700,24,4.0,,True
+444.0,, LR ,Schreckbichl-Colterenzio,,BOTTLE,2018,15000,5900,18,6.0,,True
+445.0,, Terlaner I. Grande Cuvee ,Kellerei Terlan,,BOTTLE,2017,35000,9851,3,1.0,,True
+446.0,, Appius ,KG. St. Michael,,BOTTLE,2016,35000,9450,3,1.0,,True
+448.0,, Amos ,Kellerei Kurtatsch,,BOTTLE,2019,5000,1400,24,4.0,,True
+456.0,, NAMA ,KG. Nals Margreid,,BOTTLE,2020,18000,7800,3,1.0,,True
+450.0,, Luis Rosé ,Oberrauch,,BOTTLE,2022,4500,1440,24,4.0,,True
+453.0,, La Rose ,Manincor,,BOTTLE,2023,4500,1390,24,4.0,,True
+454.0,, Lagrein Krätzer Spätgelesen ,Unterganzner,,BOTTLE,2023,4500,1290,18,4.0,,True
+451.0,, Cuvee Rosé 448 ,KG. Girlan,,BOTTLE,2023,2900,595,24,4.0,,True
+455.0,, Rosé 20/26 ,Elena Walch,,BOTTLE,2023,3900,1010,18,4.0,,True
+501.0,, St. Magdalener Klassisch Hub ,"Untermoserhof, Ramoser",,BOTTLE,2022,4500,1420,24,4.0,,True
+498.0,, St. Magdalener Klassisch Moar ,KG.Bozen,,BOTTLE,2022,4000,1170,24,4.0,,True
+502.0,, St. Magdalener Klassisch ANTHEOS ,Waldgries,,BOTTLE,2022,4600,1490,24,4.0,,True
+503.0,, Kalterersee Per Se ,Elena Walch,,BOTTLE,2022,3600,1030,24,4.0,,True
+497.0,, Kalterersee Vigna Der Keil ,Manincor ,,BOTTLE,2023,4000,1250,12,4.0,,True
+500.0,, Kalterersee Alte Reben ,Rohregger,,BOTTLE,2019,4900,1650,12,5.0,,True
+504.0,, Vernatsch Schickenburg ,KG.Meran,,BOTTLE,2022,3500,900,12,4.0,,True
+505.0,, Riserva Patricia ,KG. Girlan,,BOTTLE,2022,3900,1110,24,4.0,,True
+507.0,, Mazzon ,Gottardi,,BOTTLE,2019,5000,1689,24,3.0,,True
+506.0,, Riserva Lafoa ,Schreckbichl Colterenzio,,BOTTLE,2020,6700,2500,24,3.0,,True
+508.0,, Riserva Mazon ,Hofstätter,,BOTTLE,2019,6900,2655,24,3.0,,True
+509.0,, Blauburgunder ,Franz Haas ,,BOTTLE,2022,5100,1825,48,3.0,,True
+511.0,, Pigeno ,Stroblhof,,BOTTLE,2019,4800,1680,24,3.0,,True
+512.0,, Ludwig ,Elena Walch,,BOTTLE,2019,6900,2500,24,4.0,,True
+513.0,, Riserva Trattman ,KG. Girlan,,BOTTLE,2020,6900,2580,12,4.0,,True
+499.0,, Riserva Burgum Novum ,Castelfeder,,BOTTLE,2019,6000,2200,18,5.0,,True
+514.0,, Riserva Maglen ,KG. Tramin,,BOTTLE,2020,6500,2450,18,4.0,,True
+515.0,, Riserva Hausmannhof ,Haderburg,,BOTTLE,2018,8000,3150,24,3.0,,True
+516.0,, Riserva Vigna Kofl ,Zemmer,,BOTTLE,2021,7500,2790,24,4.0,,True
+517.0,, Blauburgunder Riserva ,Stroblhof,,BOTTLE,2019,7000,2640,24,3.0,,True
+518.0,, Mazzon Riserva ,Gottardi,,BOTTLE,2015,10500,2870,24,3.0,,True
+519.0,, Mason di Mason ,Manincor,,BOTTLE,2020,12500,5200,12,3.0,,True
+520.0,, Riserva Villa Barthenau Vigna S. Urbano ,J. Hofstätter,,BOTTLE,2018,11500,4350,12,5.0,,True
+521.0,, Riserva Selection Bruno Gottardi ,Gottardi,,BOTTLE,2010,19000,0,3,1.0,,True
+522.0,, Riserva Vigna Ganger ,KG. Girlan,,BOTTLE,2012,19500,8000,3,1.0,,True
+523.0,, Riserva Vigna Roccolo ,Hofstätter,,BOTTLE,2012,29000,14000,6,1.0,,True
+565.0,, Ponkler ,Franz Haas,,BOTTLE,2016,15000,5050,24,2.0,,True
+571.0,, Riserva Wildmonn ,Wildmonn ,,BOTTLE,2020,11500,4500,12,3.0,,True
+580.0,, Riserva 680 ,Maso Thaler ,,BOTTLE,2015,6500,1950,3,3.0,,True
+524.0,, Prestige Riserva ,KG. Bozen,,BOTTLE,2020,4900,1920,48,4.0,,True
+525.0,, Riserva Taber ,KG. Bozen,,BOTTLE,2020,7900,3150,48,4.0,,True
+526.0,, Riserva Urban ,KG. Tramin,,BOTTLE,2021,6500,2350,12,4.0,,True
+527.0,, Riserva ,"Untermoserhof, Ramoser",,BOTTLE,2021,5500,1930,18,4.0,,True
+528.0,, Riserva ,Abtei Muri ,,BOTTLE,2021,6500,2000,36,4.0,,True
+530.0,, Riserva Berger Gei ,Niedriest ,,BOTTLE,2020,6000,2170,24,4.0,,True
+531.0,, Riserva Porphyr ,KG. Terlan ,,BOTTLE,2021,8900,3565,24,4.0,,True
+566.0,, Riserva Furggl ,Zemmer ,,BOTTLE,2020,5500,1789,24,5.0,,True
+567.0,, Riserva Mirell ,Waldgries ,,BOTTLE,2019,8000,2800,18,3.0,,True
+568.0,, Riserva ,"Glögglhof,Gojer",,BOTTLE,2022,6000,1995,36,4.0,,True
+569.0,, Riserva Klosteranger ,Abtei Muri ,,BOTTLE,2016,14500,6100,6,3.0,,True
+573.0,, Riserva Roblinus ,Waldgries ,,BOTTLE,2017,14000,6000,6,3.0,,True
+574.0,, Riserva Tor di Lupo ,KG.Andrian ,,BOTTLE,2021,7000,2620,24,5.0,,True
+532.0,, Riserva Campaner ,KG. Kaltern,,BOTTLE,2021,3900,1150,30,4.0,,True
+533.0,, Riserva Mumelter ,KG. Bozen,,BOTTLE,2018,5900,2500,24,4.0,,True
+534.0,, Istrice ,Elena Walch,,BOTTLE,2021,5000,1625,24,4.0,,True
+535.0,, Löwengang Vigneto Storico ,Lageder,,BOTTLE,2018,12000,5000,6,3.0,,True
+536.0,, Riserva Vigna Castel Ringberg ,Elena Walch,,BOTTLE,2018,7500,2925,12,4.0,,True
+537.0,, Riserva Lafoa ,Schreckbichl-Colterenzio,,BOTTLE,2020,13000,5500,24,4.0,,True
+538.0,, Riserva Freienfeld ,KG.Kurtatsch,,BOTTLE,2020,9500,3900,12,4.0,,True
+500.0,, Riserva Quintessenz ,KG. Kaltern,,BOTTLE,2020,6700,2530,12,4.0,,True
+540.0,, Fihl ,Dipoli,,BOTTLE,2020,4200,1400,36,4.0,,True
+541.0,, Riserva Vigna Kastelaz ,Elena Walch,,BOTTLE,2019,7500,2815,12,4.0,,True
+543.0,, MM ,Alois Lageder,,BOTTLE,2020,16000,7000,6,4.0,,True
+544.0,, Riserva Praun ,KG. Bozen,,BOTTLE,2020,5500,2300,12,4.0,,True
+545.0,, Riserva Siebeneich ,Schreckbichl-Colterenzio,,BOTTLE,2022,4900,1650,60,4.0,,True
+546.0,, Riserva Lona ,KG. St. Pauls,,BOTTLE,2019,9900,3700,2,5.0,,True
+539.0,, Riserva Gant ,KG. Andrian,,BOTTLE,2021,8500,3277,24,5.0,,True
+510.0,,Pinot Noir Grafenau,Stachlburg Kripp,,BOTTLE,2021,5000,1671,48,3.0,,True
+547.0,, Il Conte ,Manincor,,BOTTLE,2022,4500,1290,30,5.0,,True
+542.0,, Lehm& Kies ,"Untermoserhof, Ramoser",,BOTTLE,2020,5500,1930,24,4.0,,True
+548.0,, Lacus ,Schullian,,BOTTLE,2020,8500,3400,24,3.0,,True
+549.0,, Cor Römigberg ,Alois Lageder,,BOTTLE,2015,8900,3500,6,2.0,,True
+550.0,, Iugum ,Dipoli,,BOTTLE,2018,7500,3075,30,4.0,,True
+551.0,, Grande Cuvee Kermesse ,Elena Walch,,BOTTLE,2021,8500,3385,0,4.0,,True
+552.0,, Loam ,KG. Tramin,,BOTTLE,2019,8000,3100,12,4.0,,True
+553.0,, Frauenriegel ,Dipoli,,BOTTLE,2019,8500,3260,24,5.0,,True
+554.0,, Arzio ,Baron di Pauli,,BOTTLE,2020,7900,2880,24,3.0,,True
+555.0,, Brenntal ,Dipoli,,BOTTLE,2018,11500,4150,24,3.0,,True
+556.0,, Cornelius Rosso ,Schreckbichl-Colterenzio,,BOTTLE,2020,6500,2050,24,4.0,,True
+557.0,, Anticus Riserva Baron Salvadori ,KG. Nals,,BOTTLE,2021,8000,3200,24,4.0,,True
+558.0,, Marzemino ,Simoncelli,,BOTTLE,2022,3000,735,12,3.0,,True
+559.0,, Navesel ,Simoncelli,,BOTTLE,2020,3900,1040,12,3.0,,True
+560.0,, Teroldego ,Foradori,,BOTTLE,2022,4500,1180,12,5.0,,True
+561.0,, Rosso Faye Vigneto Paradisot ,Pojer & Sandri,,BOTTLE,2018,6500,2605,30,3.0,,True
+562.0,, San Leonardo ,San Leonardo,,BOTTLE,2015,13500,5800,30,5.0,,True
+563.0,, Granato ,Foradori,,BOTTLE,2019,8500,3000,6,3.0,,True
+564.0,, Soave Classico Superiore Calvarino ,Pieropan,,BOTTLE,2021,5000,1795,18,4.0,,True
+601.0,, Valpolicella Ca Fiui ,Corte Sant Alda,,BOTTLE,2021,3700,1060,18,3.0,,True
+602.0,, Valpolicella Classico Ripasso ,Le Ragose,,BOTTLE,2021,4100,1250,30,3.0,,True
+604.0,, Amarone della Valpolicella ,Bertani,,BOTTLE,2012,13900,6200,24,3.0,,True
+605.0,, Amarone della Valpolicella Valmezzane ,Corte Sant Alda,,BOTTLE,2013,9500,4000,12,3.0,,True
+606.0,, Amarone della Valpolicella Ravazzol ,Ca la Bionda,,BOTTLE,2018,10500,4350,30,3.0,,True
+607.0,, Valpolicella Superiore ,Romano Dal Forno,,BOTTLE,2016,18000,6600,3,3.0,,True
+608.0,, Amarone della Valpolicella ,Romano Dal Forno,,BOTTLE,2013,45000,22000,3,3.0,,True
+612.0,, Amarone della Valpolicella ,Quintarelli,,BOTTLE,2012,45000,17380,3,3.0,,True
+613.0,, Rosso del Pepi ,Quintarelli,,BOTTLE,2010,18000,8130,3,3.0,,True
+609.0,, Vintage Tunina ,Jermann,,BOTTLE,2018,9000,3729,12,4.0,,True
+610.0,, Chardonnay Gaia & Rey ,Gaja,,BOTTLE,2018,33000,15000,6,2.0,,True
+700.0,, Barbera d’Alba Bricco del Pilone ,Benevelli,,BOTTLE,2021,3900,1450,12,5.0,,True
+701.0,, Barbera d’Alba ,Burlotto,,BOTTLE,2021,3900,940,6,4.0,,True
+703.0,, Langhe Nebbiolo ,G.D. Vajra ,,BOTTLE,2018,3900,1050,24,5.0,,True
+705.0,, Barbaresco ,Pio Cesare,,BOTTLE,2015,9500,3900,18,1.0,,True
+706.0,, Barbaresco Rabaja ,Bruno Rocca,,BOTTLE,2018,13500,4800,12,1.0,,True
+708.0,, Barbaresco Gaiun Martinenga ,Marchesi di Gresy,,BOTTLE,2010,12500,4200,12,2.0,,True
+709.0,, Barbaresco Riserva Camp Gros Martinenga ,Marchesi di Gresy,,BOTTLE,2014,18000,7950,3,2.0,,True
+713.0,, Barbaresco Martinenga ,Marchesi di Gresy,,BOTTLE,2015,7500,2500,6,1.0,,True
+710.0,, Barbaresco ,/20 Gaja,,BOTTLE,2017,33000,11800,6,1.0,,True
+697.0,, Barbaresco Asili , Ca del Bajo,,BOTTLE,2019,7500,2860,18,3.0,,True
+711.0,, Barolo , Briccolina,,BOTTLE,2019,9500,3600,24,3.0,,True
+712.0,, Barolo , Burlotto,,BOTTLE,2018,10000,2900,3,3.0,,True
+715.0,, Barolo Sori Ginestra , Conterno Fantino,,BOTTLE,2010,14500,6300,24,3.0,,True
+716.0,, Barolo Ciabot Mentin Ginestra , Domenico Clerico,,BOTTLE,2008,14500,4500,12,3.0,,True
+717.0,, Barolo Ornato , Pio Cesare,,BOTTLE,2015,14500,6000,12,1.0,,True
+718.0,, Barolo , Pio Cesare,,BOTTLE,2020,9500,3500,30,1.0,,True
+699.0,, Barolo Brunate , Ceretto Bio,,BOTTLE,2016,20500,7000,12,1.0,,True
+698.0,, Barolo Castiglione , Vietti Bio,,BOTTLE,2019,9500,3250,24,5.0,,True
+719.0,, Barolo Cerequio , Roberto Voerzio,,BOTTLE,1998,30000,0,3,1.0,,True
+720.0,, Barolo Cannubi Boschis , Sandrone,,BOTTLE,1997,35000,5000,3,1.0,,True
+721.0,, Barolo Ris. Monfortino , Giacomo Conterno,,BOTTLE,1993,180000,0,6,2.0,,True
+722.0,, Monprá ," Conterno Fantino (NE, BA, CS)",,BOTTLE,2015,5500,2000,6,1.0,,True
+724.0,, Darmagi , Gaja (CS),,BOTTLE,1995,35000,0,6,2.0,,True
+801.0,, Rosso di Montalcino , Lisini,,BOTTLE,2019,4500,1300,24,5.0,,True
+802.0,, Brunello di Montalcino Riserva , Capanna,,BOTTLE,2012,16000,4300,24,1.0,,True
+803.0,, Brunello di Montalcino , Lisini ,,BOTTLE,2018,7500,2850,30,1.0,,True
+804.0,, Brunello di Montalcino Riserva , Costanti,,BOTTLE,2010,25000,8500,12,1.0,,True
+805.0,, Brunello di Montalcino Ugolaia , Lisini,,BOTTLE,2013,12500,4200,6,1.0,,True
+806.0,, Brunello di Montalcino Il Greppo , Biondi Santi,,BOTTLE,2010,35000,5500,6,2.0,,True
+807.0,, Brunello di Montalcino Riserva Il Greppo , Biondi-Santi,,BOTTLE,2004,75000,9500,6,2.0,,True
+808.0,, Brunello di Montalcino , Collosorbo,,BOTTLE,2018,7000,2500,36,1.0,,True
+812.0,, Brunello di Montalcino Riserva , Piancornello,,BOTTLE,2013,10500,4200,3,1.0,,True
+809.0,, Montevertine , Montevertine,,BOTTLE,2019,10500,3200,18,1.0,,True
+810.0,, Chianti Classico Riserva Berardenga ,/19 Felsina,,BOTTLE,2018,5500,1825,24,1.0,,True
+811.0,, Chianti Rufina Riserva Vecchie Viti , Frescobaldi,,BOTTLE,2021,4500,1480,24,5.0,,True
+800.0,, Chianti Classico Gran Selezione Rialzi , Perano,,BOTTLE,2019,6900,2770,24,5.0,,True
+813.0,, Morellino di Scansano Riserva , Moris Farms ,,BOTTLE,2019,5500,1300,24,1.0,,True
+814.0,, Vino Nobile di Montepulciano , Poliziano,,BOTTLE,2019,4900,1600,24,1.0,,True
+816.0,, Syrah Collezione Privata ,/18 Isole & Olena,,BOTTLE,2015,9500,3250,24,1.0,,True
+817.0,, Vigna L’Apparita , Castello di Ama (M),,BOTTLE,2004,30000,0,2,1.0,,True
+818.0,, Lamaione , /20 Frescobaldi (M),,BOTTLE,2016,9200,3710,24,3.0,,True
+840.0,, Avvoltore ,"  Moris Farms (SG, CS, M, SY)",,BOTTLE,2018,8900,2250,24,1.0,,True
+845.0,, Lucente ," Frescobaldi (SG,M)",,BOTTLE,2020,4900,1889,6,5.0,,True
+842.0,, Cabreo Il Borgo ," Cabreo (CS, CF, M,)",,BOTTLE,2019,7500,2800,30,1.0,,True
+819.0,, Le Serre Nuove ," Ornellaia (M, CS, PV, CF)",,BOTTLE,2020,8500,3229,24,1.0,,True
+820.0,, Magari ," Ca Marcanda, Gaja (M, CS)",,BOTTLE,2015,8500,2500,3,1.0,,True
+821.0,, Il Pino di Biserno ," Tenuta di Biserno (CF, M, CS, PV)",,BOTTLE,2021,8500,3350,30,5.0,,True
+822.0,, Fontalloro , Felsina (SG),,BOTTLE,2019,10500,4180,24,1.0,,True
+823.0,, Mormoreto ," Frescobaldi (CS, M, CF, PV)",,BOTTLE,2018,9200,3460,12,1.0,,True
+824.0,, Cepparello , Isole & Olena (SG),,BOTTLE,2016,15000,6500,12,1.0,,True
+825.0,, Masseto , /17Tenuta Massetto (M),,BOTTLE,2014,120,46200,3,1.0,,True
+827.0,, Le Pergole Torte , Montevertine,,BOTTLE,2019,24500,3900,24,1.0,,True
+828.0,, Luce della Vite ," Frescobaldi (SG, M)",,BOTTLE,2018,16500,6500,6,1.0,,True
+829.0,, Tignanello ," Antinori (SG, CS, CF)",,BOTTLE,2021,21500,9500,6,1.0,,True
+830.0,, Vigna d’Alceo , Castello dei Rampolla (CS),,BOTTLE,2000,20500,5000,6,2.0,,True
+831.0,, Ornellaia ," Tenuta dell’Ornellaia (CS, M, CF, PV)",,BOTTLE,2009,38000,11600,6,2.0,,True
+832.0,, Sassicaia ," Tenuta San Guido (CS, CF)",,BOTTLE,2000,45000,10000,6,1.0,,True
+838.0,, Lodovico ," Tenuta di Biserno (CF, M, CS)",,BOTTLE,2013,70000,18000,3,1.0,,True
+839.0,, Biserno di Biserno ," Tenuta di Biserno (CF, M, CS, PV)",,BOTTLE,2021,25000,9900,6,1.0,,True
+841.0,, Lux Vitis ,"/19 Frescobaldi (CS, SG)",,BOTTLE,2018,25000,9300,3,1.0,,True
+843.0,, Cabernet Sauvignon Collezione Privata , Isole & Olena,,BOTTLE,2015,15000,4500,12,1.0,,True
+844.0,, Opera Omnia ," La Madonnina (CS, CF)",,BOTTLE,2015,12500,5200,12,1.0,,True
+833.0,, Turriga ," Argiolas  (Cannonau, Carignano, Bobal, Malvasia Nera)",,BOTTLE,2017,12000,5050,6,1.0,,True
+900.0,, Ghirada Cara Gonare Barbagia Rosso ," Teularju  (Cannonau, Carignano)",,BOTTLE,2019,9500,3650,18,3.0,,True
+834.0,, Chardonnay Contea di Sclafani Tenuta Regeleali ,  Tasca d’Almerita,,BOTTLE,2021,7500,2800,3,4.0,,True
+835.0,, Tascante , Tasca d’Almerita (Nerello M.),,BOTTLE,2014,4900,1100,12,3.0,,True
+836.0,, Rosso del Conte , Tasca d’Almerita,,BOTTLE,2016,7000,2700,12,3.0,,True
+837.0,, Cabernet Sauvignon Vigna S. Francesco  Tenuta Regeleali , Tasca d’Almerita,,BOTTLE,2019,6700,2500,18,3.0,,True
+901.0,, Riesling Trocken GG Hermannshöhle ," Dönnhof, Nahe",,BOTTLE,2019,13000,4450,6,1.0,,True
+905.0,, Riesling Graacher Domprobst Auslese ,"  Willy Schäfer, Mosel (lieblich, dolce, sweet)",,BOTTLE,2006,17000,4500,3,1.0,,True
+906.0,, Riesling Limestone ,"/21 Keller, Rheinhessen",,BOTTLE,2020,4500,1195,3,1.0,,True
+907.0,, Grüner Veltliner Smaragd Achleiten ," Jäger,  Wachau",,BOTTLE,2022,6900,2590,12,5.0,,True
+908.0,, Sauvignon Blanc Grassnitzberg , Tement STMK Bio,,BOTTLE,2018,5500,2240,6,1.0,,True
+911.0,, Sauvignon Blanc Kapellenweingarten , Sattlerhof STMK,,BOTTLE,2020,7500,2750,6,1.0,,True
+909.0,, Riesling Smaragd Steinriegel ," Jäger,  Wachau",,BOTTLE,2016,8000,2990,42,5.0,,True
+910.0,, Riesling Smaragd Ried Loibenberg ," E. Knoll,Wachau",,BOTTLE,2020,9500,3700,6,1.0,,True
+912.0,, Riesling Smaragd Dürnsteiner Kellerberg , F.X. Pichler Wachau,,BOTTLE,2021,15000,6150,3,1.0,,True
+913.0,, Blaufränkisch Leithaberg ," Heinrich, Gols Bio",,BOTTLE,2018,5900,2050,6,3.0,,True
+915.0,, Marques de Caceres Reserva ," Marques de Caceres, Rioja",,BOTTLE,2017,5500,1480,12,3.0,,True
+920.0,, Tinto Pesquera Reserva ,"A. Fernandez, Ribera del Duero",,BOTTLE,2019,8000,3200,24,3.0,,True
+916.0,, Manoella Tinto ," Wine & Soul, Douro Cima Corgo (TN,TF,TR)",,BOTTLE,2021,4500,1280,6,5.0,,True
+941.0,, Chardonnay , Gantenbein ,,BOTTLE,2015,40000,12500,2,3.0,,True
+942.0,, Pinot Noir , Gantenbein,,BOTTLE,2015,40000,12500,2,3.0,,True
+917.0,, Kopàr ," Gere, Villàny (CF, M CS)",,BOTTLE,1999,12000,2500,6,2.0,,True
+918.0,, Solus ," Gere, Villàny (M)",,BOTTLE,2002,12000,2500,6,2.0,,True
+919.0,, Merlot , Casa Lapostolle,,BOTTLE,2017,3900,980,6,3.0,,True
+921.0,, Malbec Saurus, Schroeder,,BOTTLE,2019,5500,1650,18,3.0,,True
+922.0,, Pinotage , Aaldering,,BOTTLE,2020,7500,2610,12,3.0,,True
+923.0,, Shiraz Kalimna Bin 28 , Penfolds,,BOTTLE,2020,7500,3000,24,3.0,,True
+924.0,, Sauvignon Blanc , Palliser Estate,,BOTTLE,2019,4900,1550,6,1.0,,True
+996.0,, Te Koko (SB) ,Cloudy Bay,,BOTTLE,2021,9500,3750,3,1.0,,True
+997.0,, Te Wahi (PN) ,Cloudy Bay,,BOTTLE,2019,12500,5299,6,3.0,,True
+925.0,, Viognier Yarden , Golan Heights Winery,,BOTTLE,2017,3900,1000,6,1.0,,True
+920.0,, Pinot Noir Gamla , Golan Heights Winery,,BOTTLE,2019,3900,3900,3,3.0,,True
+928.0,, Cabernet S. Res. Knights Valley , Beringer,,BOTTLE,2018,9000,3379,24,3.0,,True
+998.0,, Ramnista (Xinomavro) ,Kir Yianni Naoussa ,,BOTTLE,2019,5500,1750,6,5.0,,True
+930.0,, Chateau Musar Red ," Chateau Musar  (CS, Cinsault, Grenache)",,BOTTLE,2016,8500,2750,6,2.0,,True
+999.0,, Ao Yun ," Adong Yunnan (CS,CF)",,BOTTLE,2014,35000,15000,1,1.0,,True
+931.0,, Riesling Grand Cru Henriette , Mochel,,BOTTLE,2021,5900,2150,30,1.0,,True
+932.0,, Gewürztraminer Grand Cru ,"  Mochel, (lieblich, dolce, sweet)",,BOTTLE,2020,5900,2150,12,1.0,,True
+933.0,, Pouilly Fume , De Ladoucette ,,BOTTLE,2022,6500,2450,6,1.0,,True
+998.0,, Baron de L , De Ladoucette ,,BOTTLE,2019,15500,6700,6,1.0,,True
+934.0,, Sancerre 1 er Cru Clos Du Roy , Pascal Jolivet,,BOTTLE,2022,8500,3200,6,1.0,,True
+935.0,, Savennieres La Roche Aux Moines , Dom. Aux Moines,,BOTTLE,2010,5500,2000,12,1.0,,True
+936.0,, Chablis Saint Pierre , Dom. Albert Pic ,,BOTTLE,2022,5900,2100,6,1.0,,True
+993.0,, Chablis 1er Cru Fourchaume , Dom. Fevre ,,BOTTLE,2022,8200,3048,18,1.0,,True
+937.0,, Macon Verze , Dom. Leflaive Bio,,BOTTLE,2022,7700,2990,18,4.0,,True
+946.0,, Corton Charlemagne , Louis Latour,,BOTTLE,2017,32000,15000,2,1.0,,True
+939.0,, Chassagne-Montrachet 1-er Cru Morgeot ,  Dom. Vincent Girardin,,BOTTLE,2017,22500,9750,3,1.0,,True
+940.0,, Montrachet Grand Cru ,/15 Dom. J. Prieur,,BOTTLE,2010,160000,55000,12,1.0,,True
+929.0,, Bourgogne Blanc Les Setilles , O. Leflaive Bio,,BOTTLE,2020,8500,2490,6,1.0,,True
+,, Chassagne-Montrachet,Fernand&Laurent Pillot,,BOTTLE,2020,13000,5450,4,1.0,,True
+944.0,, Morgon,Chateau du Jacques,,BOTTLE,2018,4500,1400,4,5.0,,True
+945.0,, Gevrey-Chambertin Vielle Vignes , Rossignol - Trapet,,BOTTLE,2020,11500,4750,12,2.0,,True
+943.0,, Gevrey-Chambertin Vielle Vignes ,/20 Dom. Laurent,,BOTTLE,2018,15000,6600,9,2.0,,True
+948.0,, Corton Languettes , Dom. Voarick,,BOTTLE,1989,15000,0,2,2.0,,True
+949.0,, Nuits-Saint-Georges Les Fleurieres , Dom J. J. Confuron,,BOTTLE,2018,12500,5100,9,2.0,,True
+950.0,, Fixin 1-er Cru Clos du Chapitre, Dom. Meo Camuzet,,BOTTLE,2017,12500,4900,6,2.0,,True
+992.0,, Nuits-Saint-Georges 1-er Cru Les Cras ,   Dom. du Comte Liger Belair,,BOTTLE,2015,250000,14000,1,2.0,,True
+991.0,, Vosne-Romanee , Dom. du Comte Liger Belair,,BOTTLE,2019,120000,11600,2,2.0,,True
+993.0,, Vosne-Romanee Vielles Vignes , Dom. Bizot,,BOTTLE,2002,150000,0,1,1.0,,True
+952.0,, Clos de la Roche Grand Cru , Dom. Armand Rousseau,,BOTTLE,1990,250000,8000,3,2.0,,True
+994.0,, Clos de la Roche Grand Cru , Dom. Jadot,,BOTTLE,2015,45000,18400,2,2.0,,True
+953.0,, Beaune 1-er Cru Vignes de L`Enfant Jesus ,  Dom. Bouchard Père et Fils,,BOTTLE,2016,21000,8673,6,2.0,,True
+954.0,, Volnay 1-er Cru Le Fremiets , Dom. D Angerville,,BOTTLE,2022,26500,12000,3,2.0,,True
+955.0,, Volnay 1-er Cru Clos des Ducks , Dom. D Angerville ,,BOTTLE,2010,55000,0,3,2.0,,True
+956.0,, Volnay, Dom. D Angerville,,BOTTLE,2022,17500,7500,6,2.0,,True
+995.0,, Santenay 1-er Cru Le Beuregard ,/20 V. Girardin,,BOTTLE,2017,10500,3950,6,2.0,,True
+965.0,, Clos Floridene Blanc ," Graves Denis Dubourdieu (SB,SEM,M) ",,BOTTLE,2017,5500,2150,6,1.0,,True
+966.0,,  Le Petit Château Smith Haut Lafitte Blanc ," Pessac L.(SB,SEM)",,BOTTLE,2019,9000,3600,6,1.0,,True
+982.0,, Château Smith Haut Lafitte Blanc ," Pessac L.(SB,SEM) ",,BOTTLE,2020,35000,15400,4,1.0,,True
+967.0,, Château Batalley , Pauillac Grand Cru Classe Magnum,,MAGNUM,2007,25000,9000,4,1.0,,True
+968.0,, Château Margaux , Margaux Grand Cru Classe Magnum,,MAGNUM,1991,250000,0,1,1.0,,True
+971.0,, Château Le Boscq , St. Estephe Cru Bourgeois Superieur,,BOTTLE,2020,8000,3000,6,1.0,,True
+973.0,, Château Brane Cantenac , Margaux Grand Cru Classe,,BOTTLE,2018,17500,7850,3,1.0,,True
+973.0,, Château Cantenac Brown , Margaux Grand Cru Classe,,BOTTLE,2018,17500,7120,3,1.0,,True
+974.0,, Château Palmer 2006/, Margaux,,BOTTLE,2007,45000,20000,2,2.0,,True
+975.0,, Château de Pez ,  St. Estephe Cru Bourgeois Exceptionelle,,BOTTLE,2020,8500,3300,9,5.0,,True
+977.0,, Château Phelan Segur , St. Estephe,,BOTTLE,2016,16000,6600,12,2.0,,True
+976.0,, Château Talbot , St. Julien,,BOTTLE,2016,18500,8500,6,2.0,,True
+983.0,, Essence de Dourthe , ,,BOTTLE,2015,28500,13000,2,2.0,,True
+984.0,, Château Lafon Rochet , St. Estephe Grand Cru Classe,,BOTTLE,2016,12500,5430,9,2.0,,True
+985.0,, Château La Pointe , Pomerol,,BOTTLE,2016,13500,5500,24,2.0,,True
+986.0,, Château Chasse Spleen , Moulis Cru Bour. Exceptionelle,,BOTTLE,2019,10500,4000,12,2.0,,True
+987.0,, Château Pichon- Longueville au Baron , Pauillac,,BOTTLE,2018,36000,0,0,,,True
+969.0,, Château Grand Corbin Despagne ,/16 St Emilion Grand Cru Classe,,BOTTLE,2015,10500,4194,6,2.0,,True
+979.0,, Château Ampeleia , Castillon Cotes de BDX,,BOTTLE,2016,5000,1600,6,2.0,,True
+990.0,, Château Haut Brion , Pessac Leognan Grand Cru Classe,,BOTTLE,1989,300000,37500,6,2.0,,True
+978.0,, Cote Rotie La Turque , E. Guigal,,BOTTLE,1992,50000,5200,1,2.0,,True
+978.0,, Cote Rotie La Mouline , E. Guigal,,BOTTLE,1992,50000,5200,1,2.0,,True
+980.0,, Cote-Rotie Les Rochaines ,/05 Bonnefond,,BOTTLE,2004,6900,2500,12,1.0,,True
+980.0,, Cote-Rotie , Bonserine,,BOTTLE,2000,6900,0,3,1.0,,True
+981.0,, Chateauneuf du Pape Rouge , Ch. le Nerthe,,BOTTLE,2019,12000,4950,6,2.0,,True
+988.0,, Chateauneuf du Pape Rouge Tradition ,  Domaine de La Solitude,,BOTTLE,2021,7500,2843,18,2.0,,True
+982.0,, Chateau Montus Cuvee Prestige , Alain Brumont,,BOTTLE,1996,4900,1000,12,2.0,,True
+957.0,, Marsala Superiore Riserva Oro Dolce  Bip Benjamin , Pellegrino,,BOTTLE,2013,4500,1500,3,3.0,,True
+,, Marsala Superiore Rubino Dolce Uncle Joseph , Pellegrino,,BOTTLE,2015,4500,1500,6,3.0,,True
+958.0,, Almacenista Fino del Puerto Jose Luis Gonzalez Obregon Solera Sherry Emilio Lustau,Emilio Lustau,,HALF_LITER,0,4500,1330,6,3.0,,True
+958.0,, Alvear Medium Dry Montilla Morilles,Alvear ,,BOTTLE,0,4500,930,6,3.0,,True
+920.0,, Madeira Bual 5 Years Old Cossart Gordon,Cossart Gordon ,,HALF_LITER,0,4500,1839,6,3.0,,True
+960.0,, Late Bottled Vintage , Ramos Pinto,,BOTTLE,2018,5500,1850,6,3.0,,True
+961.0,, Vintage Port , Quinta De La Rosa,,BOTTLE,1997,9500,2500,6,3.0,,True
+,, 10 Years Ramos Pinto Quinta De Ervamoira                                            ,Ramos Pinto,,BOTTLE,0,9500,2800,6,3.0,,True
+962.0,, Porto Colheita , Niepoort,,BOTTLE,1987,9500,3000,1,3.0,,True
+963.0,, Porto Ruby Ramos Pinto,Ramos Pinto,,BOTTLE,0,4500,1180,6,3.0,,True
+964.0,, Manoella White Port 10 Years Wine & Soul,Wine & Soul,,BOTTLE,0,6500,2325,6,3.0,,True
+964.0,, Porto Vintage Pintas,  Wine & Soul,,BOTTLE,2015,20000,8910,3,3.0,,True
+1000.0,, Riesling Spätlese , Taschlerhof,,HALF_BOTTLE,2015,5500,2000,6,1.0,,True
+1001.0,, Vinalia Goldmuskateller , KG. Bozen,,HALF_BOTTLE,2021,6500,2900,6,1.0,,True
+1003.0,, Rosenmuskateller Moscato Rosa , Franz Haas,,BOTTLE,2023,6000,2200,6,1.0,,True
+1004.0,, Roen , KG. Tramin,,HALF_BOTTLE,2022,5500,1939,6,1.0,,True
+1005.0,, Gewürztraminer Terminum , KG. Tramin,,HALF_BOTTLE,2022,9000,3300,6,1.0,,True
+1012.0,, Passithea Oro , KG. Girlan,,HALF_BOTTLE,2019,6000,2150,6,1.0,,True
+1006.0,, Serenade Passito Quintessenz , Kellerei Kaltern,,HALF_BOTTLE,2015,6500,2500,6,1.0,,True
+1007.0,, Kerner Praepositus Passito , Abtei Neustift,,HALF_BOTTLE,2020,6000,2030,6,1.0,,True
+1014.0,, Cantus , Schreckbichl-Colterenzio,,HALF_BOTTLE,2022,5500,1789,6,1.0,,True
+1008.0,, Merlino 17/04 Pojer & Sandri,Pojer & Sandri,,HALF_LITER,0,4500,1680,6,3.0,,True
+1009.0,, Vin Santo , Isole & Olena,,HALF_BOTTLE,2010,9500,3700,3,1.0,,True
+1011.0,, Moscato D’Asti , Saracco,,BOTTLE,2023,3900,800,12,4.0,,True
+1013.0,, Passito di Pantelleria Naturale NES , Pellegrino,,HALF_LITER,2021,7200,2774,6,3.0,,True
+1110.0,, Château Guiraud , Sauternes Grand Cru Classe,,HALF_BOTTLE,2005,6500,2500,3,2.0,,True
+1111.0,, Château Rieussec , Sauternes Grand Cru Classe,,HALF_BOTTLE,2005,7900,3500,3,2.0,,True
+1216.0,, Château Filhot , Sauternes,,HALF_BOTTLE,2013,4500,1600,6,2.0,,True
+1112.0,, Château Farluret , Sauternes,,BOTTLE,2015,4500,1250,6,2.0,,True
+1201.0,, Tokaji Aszu 6 Puttonyos , Disznokö,,HALF_LITER,1995,15000,5500,3,2.0,,True
+1203.0,, Tokaji Aszu 6 Puttonyos 1999/, Oremus,,HALF_LITER,2002,16500,7500,3,2.0,,True
+1204.0,, Tokaji Aszu 3 Puttonyos , Oremus,,HALF_LITER,2013,7500,3300,6,2.0,,True
+1205.0,, Tokaji Aszu 5 Puttonyos , Oremus,,HALF_LITER,2006,9000,3900,6,2.0,,True
+1206.0,, Tokaji Aszu 6 Puttonyos , Szepsy,,HALF_LITER,1996,35000,13950,6,2.0,,True
+1206.0,, Tokaji Aszu 6 Puttonyos , Szepsy,,HALF_LITER,2008,35000,13950,6,2.0,,True
+1207.0,, Tokaji Esszencia , Disznokö,,HALF_BOTTLE,2000,59900,29500,1,2.0,,True
+1217.0,, Tokaji Szamorodni , /17Szepsy,,HALF_LITER,2013,16000,7000,3,2.0,,True
+1208.0,, Beerenauslese Cuvee , Kracher,,HALF_BOTTLE,2017,4900,1680,6,1.0,,True
+1209.0,, Ruster Ausbruch Essenz , Feiler-Artinger,,HALF_BOTTLE,2004,9000,2900,1,,,True
+1210.0,, Muskat Ottonel TBA , Velich,,HALF_BOTTLE,1998,9000,1989,1,,,True
+1211.0,, Eiswein , Kracher,,HALF_BOTTLE,2020,7900,3100,6,1.0,,True
+1212.0,, Riesling Eiswein ," P.J.Kühn, Rheingau",,HALF_BOTTLE,2001,11100,4300,1,,,True
+905.0,, Riesling Auslese Graacher Domprobst ,"  Willy Schäfer, Mosel",,BOTTLE,2006,17000,3500,3,1.0,,True
+1214.0,, Don Zolio Pedro Ximenez Very Sweet Sherry Dolce,Williams&Humbert,,BOTTLE,0,4500,1500,6,3.0,,True
+1215.0,, Dulce Monastrel , Olivares Jumilla,,BOTTLE,1996,6500,1000,3,1.0,,True
+,,Steinbock Sparkling ZERO Hofstätter,Hofstätter,,BOTTLE,0,3500,730,1,1.0,,True
+,,Steinbock Riesling ZERO Hofstätter,Hofstätter,,BOTTLE,0,3500,730,6,1.0,,True

@@ -52,7 +52,7 @@ def main(root):
     print(f"Duplicates: {len(df_forward_duplicate)}")
     print(f"Total inserted: {len(df_insert)}")
 
-    fill_empty(df_insert, VColumns.v5()).to_csv(
+    fill_empty(df_insert, VColumns.v5(), True).to_csv(
         os.path.join(root, "v5-insert-draft.csv"), index=False
     )
     print(f"Saved to {os.path.join(root, 'v5-insert-draft.csv')}")

@@ -1,0 +1,506 @@
+external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantity,storage_area,internal_notes,visible,takeaway_price
+10110.0,SPARKLING,"Prosecco di Valdobbiadene, Extra Brut",Bortolin,,BOTTLE,0,3500,800,50,,Holzer,True,1300
+10116.0,SPARKLING,Arunda Brut Rosè Exellor ,Arunda,,BOTTLE,0,5400,2500,50,,Karadar,True,3950
+10117.0,SPARKLING,Hausmannhof Reserve 2013,Haderburg,,BOTTLE,2013,6900,3500,50,,direkt,True,5550
+10118.0,SPARKLING,Solera Extra Brut,Marco Buvoli,,BOTTLE,0,7500,2900,50,,,True,4600
+10119.0,SPARKLING,Haderburg Spumante Brut,Haderburg,,BOTTLE,0,3900,1600,50,,direkt,True,2860
+10119.0,SPARKLING,Blanc de noir 7 Anni Extra Brut,Marco Buvoli,,BOTTLE,0,7700,3800,50,,direkt ,True,5950
+10120.0,SPARKLING,Haderburg Pas dosè 2017,Haderburg,,BOTTLE,2017,4800,2170,50,,direkt,True,3450
+10121.0,SPARKLING,Brut Nature ,Steinegger,,BOTTLE,0,5400,2500,50,,,True,3940
+10122.0,SPARKLING,Ferrari Brut Perlè ,Lunelli,,BOTTLE,0,6500,2722,50,,Perpmer,True,4350
+10123.0,SPARKLING,Champagne Longitude Blanc de Blanc ,Larmandier Bernier,,BOTTLE,0,9900,5170,50,,Teatro,True,8190
+10124.0,SPARKLING,Buvoli Tre Rosè E.B.,Marco Buvoli,,BOTTLE,0,4500,2450,50,,Direkt,True,3170
+10125.0,SPARKLING,Champagner Premier Cru Extra Brut,Guy Larmandier ,,BOTTLE,0,5900,2890,50,,Holzer,True,4600
+10126.0,SPARKLING,Extra Brut super 6 ,Marco Buvoli,,BOTTLE,0,6900,3500,50,,direkt,True,5550
+10127.0,SPARKLING,Moscato d'Asti Lumine 2024,Ca'd'Gal,,BOTTLE,2024,3200,955,50,,,True,1789
+10210.0,SPARKLING,Champagne Royal Reserve Pas Dose,Philipponnat,,BOTTLE,0,8900,4900,50,,,True,7770
+10211.0,SPARKLING,Champagne Roederer Collection 244,Roederer,,BOTTLE,0,11000,5700,50,,direkt,True,8900
+10212.0,SPARKLING,Champagne Brut Reserve ,Pol Roger,,BOTTLE,0,8700,4395,50,,,True,6970
+10213.0,SPARKLING,Champagne Rosè,Billecart Salmon,,BOTTLE,0,12700,6700,50,,Karadar,True,10630
+10214.0,SPARKLING,Frank John Brut Natur Riesling,Frank John,,BOTTLE,0,4300,1882,50,,,True,2990
+10215.0,SPARKLING,Franciacorta Blanc de Blanc Nature,Cavalleri,,BOTTLE,0,4700,2140,50,,Holzer ,True,3929
+10216.0,SPARKLING,Blanc de Blanc Brut Natur,Montris,,BOTTLE,0,5500,2600,50,,,True,4120
+10217.0,SPARKLING,Grand Reserve Blanc de Blanc Brut Nature,Fred Loimer,,BOTTLE,0,6600,3200,50,,,True,5090
+10219.0,SPARKLING,Champagne Cuvèe 747 E.B.,Jacquesson,,BOTTLE,0,11500,6000,50,,,True,9520
+10220.0,SPARKLING,Champagne Cuvèe 746 Magnum,Jacquesson,,MAGNUM,0,0,0,50,,,True,0
+10221.0,SPARKLING,Champagne Zero Brut Nature,Tarlant,,BOTTLE,0,7600,3750,50,,Teatro,True,5990
+20122.0,WHITE,Riesling Ried Steinberg 2019,Weingut Hajszan,,BOTTLE,2019,0,1800,50,,,True,0
+20218.0,SPARKLING,Blanc de Noir Brut ,Weingut Münzberg,,BOTTLE,0,4900,2200,50,,,True,3490
+20219.0,SPARKLING,Cremant Jura Brut Nature ,Domaine Pignier,,BOTTLE,0,4200,1850,50,,,True,2590
+21110.0,WHITE,Grüner Veltliner Smaragd Ried Kreutless 2022,Weingut Knoll,,BOTTLE,2022,5700,2690,50,,Döllerer,True,4270
+21120.0,WHITE,Grüner Veltliner Vinotheque 1993,Weingut Nikolaihof,,BOTTLE,1993,12500,4800,50,,,True,7600
+21120.0,WHITE,Grüner Veltliner 2019/20,Weingut Garlider,,BOTTLE,2019,3200,1180,50,,Karadar,True,2200
+21121.0,WHITE,Grüner Veltliner Faß Nr. 4 2022,Weingut B.Ott,,BOTTLE,2022,3900,1460,50,,Döllerer,True,2300
+21122.0,WHITE,Grüner Veltliner Der Ott 2022,Weingut B.Ott,,BOTTLE,2022,4700,2200,50,,,True,3150
+21130.0,WHITE,Grüner Veltliner Rosenberg 2019,Weingut B.Ott,,BOTTLE,2019,5700,2690,50,,,True,4300
+21130.0,WHITE,Grüner Veltliner Rigger 2021,Griesser Hof,,BOTTLE,2021,3250,1290,50,,vinum,True,2050
+21140.0,WHITE,Grüner Veltliner Spiegel Feuersbrunn 2020,Weingut B. Ott,,BOTTLE,2020,5600,2670,50,,Döllerer,True,4250
+21150.0,WHITE,Grüner Veltliner Am Berg 2022 Magnum,Weingut B. Ott,,MAGNUM,2022,4500,2000,50,,Döllerer,True,3170
+21150.0,WHITE,Grüner Veltlinger Muga 2021,Spitalerhof,,BOTTLE,2021,4200,1800,50,,direkt,True,2860
+21151.0,WHITE,Grüner Veltlinger Muga 2020,Spitalerhof,,BOTTLE,2020,4500,1800,50,,direkt,True,3300
+21159.0,WHITE,Silvaner 2022,Weingut Daniel,,BOTTLE,2022,3500,1450,50,,,True,0
+21160.0,WHITE,Grüner Veltliner Goldberg 2019,Weingut Schönberger,,BOTTLE,2019,3600,1500,50,,,True,2380
+21160.0,WHITE,Sylvaner  2021/22,Kuenhof P. Pliger,,BOTTLE,2021,3600,1490,50,,Karadar,True,2360
+21169.0,WHITE,Sylvaner Gols 2021/22,Weingut Grieserhof,,BOTTLE,2021,0,1420,50,,,True,0
+21170.0,WHITE,Grüner Veltliner Goldberg 2020,Weingut Schönberger,,BOTTLE,2020,0,0,50,,,True,0
+21170.0,WHITE,Sylvaner 2020721,Weingut Dorfmann,,BOTTLE,2020,3400,1400,50,,,True,2050
+21171.0,WHITE,Grüner Veltliner Käferberg GG 2020,Weingut Bründlmayer,,BOTTLE,2020,6300,3000,50,,,True,4760
+21171.0,WHITE,Sylvaner Preapositus 2022,Nuovacella ,,BOTTLE,2022,3700,1535,50,,,True,2550
+21172.0,WHITE,Kerner Preapositus 2021/22,Nuovacella,,BOTTLE,2021,3800,1595,50,,Perpmer,True,2550
+21173.0,WHITE,Kerner 2022/23,Weingut Köfererhof,,BOTTLE,2022,3200,1267,50,,Karadar,True,1989
+21179.0,WHITE,Grüner Veltliner Lamm 2019,Schloss Gobelsburg,,BOTTLE,2019,7500,3379,50,,,True,5900
+21180.0,WHITE,Grüner Veltliner Lamm 2021,Schloss Gobelsburg,,BOTTLE,2021,6900,3379,50,,,True,5360
+21180.0,WHITE,Müller Thurgau Feldmarschall 2021,Cantina Tiefenbrunner,,BOTTLE,2021,5900,3100,50,,,True,4920
+21181.0,WHITE,Müller Thurgau Feldmarschall 2016,Cantina Tiefenbrunner,,BOTTLE,2016,6800,3000,50,,,True,5800
+21182.0,WHITE,Müller Thurgau 2022,Weingut Grieserhof,,BOTTLE,2022,3200,1270,50,,Vinum,True,2020
+21190.0,WHITE,Grüner Veltliner Senftenberger Piri 2020,Weingut Nigl,,BOTTLE,2020,3500,1019,50,,Döllerer,True,2500
+21191.0,WHITE,Grüner Veltliner Langenlois 2021,Weingut Loimer,,BOTTLE,2021,4500,2000,50,,Döllerer,True,3500
+21192.0,WHITE,Grüner Veltliner Federspiel 2022,Weingut Hirtzberger,,BOTTLE,2022,4500,2200,50,,Döllerer,True,3490
+21210.0,WHITE,Grüner Veltliner 2020/22,Keunhof P. Pliger,,BOTTLE,2020,3600,1488,50,,Karadar,True,2360
+22001.0,WHITE,Weißburgunder Limes 2020/21,Weingut Niedrist,,BOTTLE,2020,4300,1910,50,,direkt,True,2950
+22002.0,WHITE,Weißburgunder Bio 2017,Thomas Niedermayr,,BOTTLE,2017,5300,2600,50,,Vinum,True,4150
+22010.0,WHITE,Weißburgunder Preasulis 2022723,Gumphof,,BOTTLE,2022,3500,1380,50,,direkt,True,2190
+22012.0,WHITE,Weißburgunder St. Sebastian 2021,Weingut Schloss Englar,,BOTTLE,2021,6200,1789,50,,direkt,True,5200
+22014.0,WHITE,Weissburgunder Amphora 2020,Hochklaus,,BOTTLE,2020,4850,2210,50,,direkt,True,3500
+22015.0,WHITE,Weissburgunder Helios 2019,Weingut Kränzelhof,,BOTTLE,2019,5500,2550,50,,Karadar,True,4050
+22016.0,WHITE,Weissburgunder Vorberg 2012,Kellerei Terlan,,BOTTLE,2012,6200,0,50,,,True,4200
+22017.0,WHITE,Weissburgunder Vorberg 2021/22,Kellerei Terlan,,BOTTLE,2021,4900,2330,50,,Holzer,True,3690
+22018.0,WHITE,Weissburgunder Vorberg 2021 Magnum,Kellerei Terlan,,MAGNUM,2021,9800,4988,50,,,True,7909
+22019.0,WHITE,Weissburgunder Art 2021,Weingut Abraham,,BOTTLE,2021,0,0,50,,,True,0
+22020.0,WHITE,Weissburgunder Muschelkalk 2021/22,Weingut Abraham,,BOTTLE,2021,3900,1745,50,,Karadar,True,2770
+22021.0,WHITE,Weissburgunder Lapis 2020,Oberstein,,BOTTLE,2020,3800,1630,50,,,True,2590
+22022.0,WHITE,Weissburgunder Renaissance 2019/21,Gumphof,,BOTTLE,2019,5200,2900,50,,,True,4500
+22030.0,WHITE,Weissburgunder Klaser Salamander 2021,Weingut Niklas,,BOTTLE,2021,3200,1340,50,,Vinum,True,2000
+22050.0,WHITE,Weissburgunder Salzberg 2015,Weingut Heinrich,,BOTTLE,2015,5900,2600,50,,direkt,True,4900
+22051.0,WHITE,Weißburgunder Leithaberg Alte Reben 2021,Weingut Prieler,,BOTTLE,2021,3900,1700,50,,Döller,True,2900
+22052.0,WHITE,Weissburgunder Kittenberg 2016,Weingut Gross,,BOTTLE,2016,6600,3200,50,,Döller,True,5600
+22053.0,WHITE,Weissburgunder Kittenberg 2017,Weingut Gross,,BOTTLE,2017,6200,3000,50,,Döllerer,True,5200
+22054.0,WHITE,Weissburgunder Kittenberg 2018,Weingut Gross,,BOTTLE,2018,5900,2800,50,,Döllerer,True,4900
+22060.0,WHITE,Weißer Burgunder Schnekenberg 2022,Weingut Münzberg,,BOTTLE,2022,3900,1680,50,,direkt,True,2550
+22061.0,WHITE,Weißer Burgunder Schnekenberg 2021,Weingut Münzberg,,BOTTLE,2021,0,1750,50,,direkt,True,0
+22062.0,WHITE,Weißer Burgunder Ochsenloch 2022,Weingut Münzberg,,BOTTLE,2022,4900,2269,50,,direkt,True,3600
+22063.0,WHITE,Weisser Burgunder Schlangenpfiff 2018 Magnum,Weingut Münzberg,,MAGNUM,2018,11900,0,50,,,True,11000
+22064.0,WHITE,Weißer Burgunder Schlangenpfiff 2020 ,Weingut Münzberg,,BOTTLE,2020,6900,3400,50,,direkt,True,5900
+22065.0,WHITE,Weißer Burgunder Schlangenpfiff 2017,Weingut Münzberg,,BOTTLE,2017,7900,4000,50,,direkt,True,6900
+22066.0,WHITE,Weißer Burgunder Godramstein 2017,Weingut Münzberg,,BOTTLE,2017,0,2500,50,,direkt,True,0
+22067.0,WHITE,Weißer Burgunder Godramstein 2023,Weingut Münzberg,,BOTTLE,2023,0,1450,50,,,True,0
+22070.0,WHITE,Grauburgunder 2022,Wassererhof,,BOTTLE,2022,3500,1400,50,,Vinum,True,2500
+22071.0,WHITE,Pinot Grigio Castel Ringberg 2022/23,Cantina E. Walch,,BOTTLE,2022,3900,1705,50,,Holzer,True,2780
+22072.0,WHITE,Pinot Grigio  2022,Garlider,,BOTTLE,2022,3300,1302,50,,Karadar,True,2060
+22073.0,WHITE,Pinot Grigio Dessimis 2020,Vie Di Romans,,BOTTLE,2020,4400,1789,50,,Holzer,True,2900
+22074.0,WHITE,Pinot Grigio Dessimis 2008,Vie Di Romans,,BOTTLE,2008,6900,3500,50,,Holzer,True,5900
+22075.0,WHITE,Grauburgunder Straden 2022,Weingut Neumeister,,BOTTLE,2022,3400,1378,50,,,True,2190
+22081.0,WHITE,Graue Fryheit 2021,Weingut Heinrich,,BOTTLE,2021,5100,2300,50,,,True,3650
+22082.0,WHITE,Grauer Burgunder Godramsteiner 2021,Weingut Münzberg,,BOTTLE,2021,3900,1597,50,,,True,2550
+22082.0,WHITE,Riesling Weingarten Windbichl 2020/22,Castel Juval,,BOTTLE,2020,5600,2322,50,,Karadar,True,3690
+22083.0,WHITE,Grauburgunder 2023,Weingut Dönnhoff,,BOTTLE,2023,3000,1150,50,,,True,1830
+22101.0,WHITE,Riesling Gletscherschliff 2023,Castel Juval,,BOTTLE,2023,4850,2050,50,,,True,3510
+22102.0,WHITE,Riesling Amphora 2020,Weingut Hochklaus,,BOTTLE,2020,3200,1500,50,,,True,1889
+22103.0,WHITE,Rieslint Unteroltl 2023,Castel Juval ,,BOTTLE,2023,0,2500,50,,,True,0
+22103.0,WHITE,Riesling Windbichl 2023,Castel Juval ,,BOTTLE,2023,0,0,50,,,True,0
+22104.0,WHITE,Loibner Riesling Ried Loibenberg Smaragd 2022,Weingut Knoll,,BOTTLE,2022,7600,3800,50,,Sabine,True,6030
+22105.0,WHITE,Riesling Berg 2022,Weingut Niedrist,,BOTTLE,2022,3700,1540,50,,direkt,True,2450
+22105.0,WHITE,Loibner Riesling  Smaragd  2020 Magnum,Weingut Knoll,,MAGNUM,2020,12900,0,50,,Sabine,True,10890
+22106.0,WHITE,Riesling Kaiton 2023,Kuenhof P.Pliger,,BOTTLE,2023,3800,2050,50,,Karadar,True,2050
+22107.0,WHITE,Riesling Federspiel Steinterrassen 2022/23,Weingut Hirtzberger,,BOTTLE,2022,4900,2280,50,,Sabine,True,3620
+22109.0,WHITE,Riesling Singerriedl 2009,Weingut Hirtzberger,,BOTTLE,2009,18500,10000,50,,,True,15860
+22110.0,WHITE,Riesling vom Stein Smaragd 2011,Weingut Nikolaihof,,BOTTLE,2011,8500,3000,50,,,True,6500
+22111.0,WHITE,Riesling Vinotheque Smaragd 1997,Weingut Nikolaihof,,BOTTLE,1997,19500,9500,50,,,True,17500
+22112.0,WHITE,Riesling Steinriegl Federspiel 2016,Weingut Prager,,BOTTLE,2016,4900,3500,50,,,True,3700
+22115.0,WHITE,Riesling Heilgenstein 2009,Schloss Gobelsburg,,BOTTLE,2009,8900,4500,50,,,True,7900
+22116.0,WHITE,Riesling Heilgenstein 2015,Schloss Gobelsburg,,BOTTLE,2015,6500,2580,50,,Döllerer,True,5500
+22117.0,WHITE,Riesling Heiligenstein 2018,Schloss Gobelsburg,,BOTTLE,2018,5500,2400,50,,,True,4500
+22118.0,WHITE,Riesling Urgestein 2022,Schloss Gobelsburg,,BOTTLE,2022,3200,919,50,,,True,1700
+22119.0,WHITE,Riesling Heilingenstein 2020,Schloss Gobelsburg,,BOTTLE,2020,4500,4200,50,,,True,3200
+22120.0,WHITE,Riesling Nussberg 2007,Weingut Wieninger,,BOTTLE,2007,7900,0,50,,Döllerer,True,6900
+22121.0,WHITE,Ried Rosengartel Nussberg Riesling 2019,Weingut Wieninger,,BOTTLE,2019,4900,2340,50,,,True,3710
+22122.0,WHITE,Riesling Ried Heiligenstein GG 2018,Weingut Bründlmayer,,BOTTLE,2018,5700,2700,50,,,True,4700
+22123.0,WHITE,Riesling Ried Heiligenstein GG 2015,Weingut Bründlmayer,,BOTTLE,2015,6200,3000,50,,,True,5200
+22130.0,WHITE,Riesling Marienburg GG 2021,Weingut C. Busch,,BOTTLE,2021,7900,3500,50,,direkt,True,6900
+22131.0,WHITE,Riesling Trocken 2022,Weingut C. Busch,,BOTTLE,2022,4200,0,50,,,True,2900
+22138.0,WHITE,Riesling Dellchen GG 2022,Weingut Dönnhoff,,BOTTLE,2022,0,4550,50,,,True,0
+22139.0,WHITE,Riesling Dellchen GG 2020,Weingut Dönnhoff,,BOTTLE,2020,8500,0,50,,,True,6800
+22140.0,WHITE,Riesling Dellchen GG 2015,Weingut Dönnhoff,,BOTTLE,2015,9900,3470,50,,Döllerer,True,800
+22141.0,WHITE,Riesling Krötenpfuhl GG 2019,Weingut Dönnhoff,,BOTTLE,2019,5900,2700,50,,,True,4900
+22142.0,WHITE,Riesling Dellchen Magnum 2016,Weingut Dönnhoff,,MAGNUM,2016,15900,8500,50,,,True,14900
+22143.0,WHITE,Riesling Trocken 2023,Weingut Dönnhoff,,BOTTLE,2023,3400,1110,50,,,True,1950
+22145.0,WHITE,Hermanshöhle Riesling 2019 Magnum,Weingut Donnhoff,,MAGNUM,2019,15900,0,50,,,True,13900
+22148.0,WHITE,Riesling Wachenheimer Gerümpel 2021,Bürklin Wolf,,BOTTLE,2021,5900,2800,50,,,True,4900
+22149.0,WHITE,Riesling Pechstein GG 2011,Bürklin Wolf,,BOTTLE,2011,19500,0,50,,,True,17500
+22151.0,WHITE,Riesling Auf der Mauer 2019,Bassermann-Jordan,,BOTTLE,2019,5500,2500,50,,Holzer,True,4900
+22152.0,WHITE,Riesling Mandelpfad GG 2013,Weingut Knipser,,BOTTLE,2013,7500,4500,50,,,True,6500
+22154.0,WHITE,Riesling Idig GG 2015 Magnum,Christmann,,MAGNUM,2015,18900,0,50,,,True,17900
+22155.0,WHITE,Riesling Kappellenberg 2020,Christmann,,BOTTLE,2020,4900,2450,50,,,True,0
+22156.0,WHITE,Westhofener Riesling Kirchspiel 2015,Weingut Wittmann,,BOTTLE,2015,7900,3950,50,,gebhard,True,6900
+22157.0,WHITE,Riesling Hallgartener Hendelberg 1. Lage 2017,Weingut P.J.Kühn,,BOTTLE,2017,5500,2300,50,,,True,4500
+22158.0,WHITE,Riesling Quarzit-Oestrich 2021,Weingut P.J.Kühn,,BOTTLE,2021,4400,1839,50,,,True,3400
+22159.0,WHITE,Riesling Doosberg 2018,Peter Jacob Kuhn,,BOTTLE,2018,7900,3465,50,,,True,6740
+22160.0,WHITE,Riesling 2021,Cantina Jermann,,BOTTLE,2021,3900,1650,50,,Holzer,True,0
+22210.0,WHITE,Sauvignon DOC 2021,Prackfolhof,,BOTTLE,2021,3600,1500,50,,vinum,True,2380
+22211.0,WHITE,Sauvignon 2019,Weingut in der Eben,,BOTTLE,2019,3500,1305,50,,,True,2200
+22212.0,WHITE,Sauvignon Salis 2018,Weingut Oberstein,,BOTTLE,2018,4200,1850,50,,vinum,True,2940
+22213.0,WHITE,Sauvignon Limes 2019/20,Ignaz Niedrist,,BOTTLE,2019,4200,1810,50,,direkt,True,2880
+22214.0,WHITE,Sauvignier Gris 2018,Thomas Niedermayr,,BOTTLE,2018,3950,1700,50,,vinum,True,2700
+22216.0,WHITE,Sauvignon Schalenstein 2020,Weinmanufaktur Luis,,BOTTLE,2020,4400,1920,50,,,True,3050
+22217.0,WHITE,Sauvignon Voglar 2017,Weingut Dipoli,,BOTTLE,2017,3600,1375,50,,,True,200
+22218.0,WHITE,Sauvignon Praesulis 2021,Weingut Gumphof,,BOTTLE,2021,3900,1600,50,,,True,2190
+22218.0,WHITE,Sauvignon Voglar 2019,Weingut Dipoli,,BOTTLE,2019,0,1650,50,,,True,0
+22218.0,WHITE,Sauvignon Garnellen 2016,Tröpfltalhof,,BOTTLE,2016,6800,3575,50,,Karadar,True,5670
+22219.0,WHITE,Sauvignon Rachtl 2014,Weingut Tiefenbrunnger,,BOTTLE,2014,0,0,50,,,True,0
+22220.0,WHITE,Sauvignon Tannenberg 2023,Weingut Manincor,,BOTTLE,2023,4000,1650,50,,,True,2900
+22221.0,WHITE,Sauvignon Rachtl 2021,Weingut Tiefenbrunner,,BOTTLE,2021,9500,5900,50,,,True,9300
+22222.0,WHITE,Sauvignon Aries 2021,Weingut Kränzelhof,,BOTTLE,2021,3900,1510,50,,,True,2400
+22223.0,WHITE,Sauvignon Lafoa 2021/22,Cantina Colterenzio,,BOTTLE,2021,4300,1730,50,,,True,2990
+22224.0,WHITE,Sauvignon Voglar 2018 Magnum,Weingut Dipoli,,MAGNUM,2018,6900,0,50,,,True,5900
+22224.0,WHITE,Sauvignon Fumè 2021,Weingut Abraham,,BOTTLE,2021,4500,2010,50,,,True,3310
+22230.0,WHITE,Sauvignon Blanc Privat 2006,Weingut Gross,,BOTTLE,2006,15000,5500,50,,,True,14000
+22232.0,WHITE,Sauvignon Blanc Riserva HG 2015,Weingut  E&W Polz,,BOTTLE,2015,7500,5500,50,,,True,6500
+22233.0,WHITE,Sauvignon Blanc Riserva HG 2016,Weingut E & WPolz,,BOTTLE,2016,7000,5500,50,,,True,6000
+22234.0,WHITE,Sauvignon Blanc Riserva HG 2017,Weingut E & W Polz,,BOTTLE,2017,6500,5500,50,,,True,5500
+22235.0,WHITE,Sauvignon Obegg 2021,Weingut Walter Polz,,BOTTLE,2021,0,2500,50,,,True,0
+22236.0,WHITE,Sauvignon Kranachberg 2015,Weingut Sattlerhof,,BOTTLE,2015,9900,5500,50,,,True,8900
+22237.0,WHITE,Sauvignon White Stone 2021,Weingut Walter Polz,,BOTTLE,2021,4900,2000,50,,,True,3900
+22238.0,WHITE,Sauvignon Ried Hochgrassnitzberg 2021,Weingut Walter Polz,,BOTTLE,2021,0,2500,50,,,True,0
+22239.0,WHITE,Sauvignon Ried Loren 2017,Hannes  Sabathi,,BOTTLE,2017,5500,2500,50,,,True,3970
+22240.0,WHITE,Sauvignon Blanc DAC 2023,Weingut W. Maitz,,BOTTLE,2023,3200,1180,50,,,True,2200
+22240.0,WHITE,Sauvignon Maciete Fumè 2020,Cantina Gini,,BOTTLE,2020,3500,1330,50,,,True,2110
+22241.0,WHITE,Sauvignon Kräften 2018,Weingut Schönberger,,BOTTLE,2018,4900,2220,50,,,True,3520
+22242.0,WHITE,Sauvignon Blanc 2021,Domaine Kilger ,,BOTTLE,2021,0,1200,50,,,True,0
+22242.0,WHITE,Piere Sauvignon 2020/21,Le Vie di Romans,,BOTTLE,2020,4200,1914,50,,holzer,True,3040
+22245.0,WHITE,Sauvignon blanc Blanc fumé de Pouilly  2015,Domaine Dagueneau,,BOTTLE,2015,10500,4500,50,,,True,9500
+22246.0,WHITE,Silex  2015,Domaine Dagueneau,,BOTTLE,2015,28900,8900,50,,,True,27900
+22247.0,WHITE,Sauvignon Lismore 2011,Greyton,,BOTTLE,2011,8500,4500,50,,,True,7500
+22248.0,WHITE,Sauvignon Vieris 2008,Le Vie di Romans,,BOTTLE,2008,7900,3500,50,,holzer,True,6900
+23109.0,WHITE,Chardonnay 2022,Weingut Reyter,,BOTTLE,2022,0,2000,50,,,True,3970
+23110.0,WHITE,Chardonnay Lafoa 2022,Kellerei Schreckbichl,,BOTTLE,2022,5500,1989,50,,Perpmer,True,3100
+23110.0,WHITE,Chardonna Au 20????,Weingut Tiefenbrunner ,,BOTTLE,0,0,4000,50,,,True,0
+23112.0,WHITE,Chardonnay Formigar 2012,Kellerei Schreckbichl,,BOTTLE,2012,7800,5500,50,,,True,6800
+23113.0,WHITE,Chardonnay Fluch & Segen 2022,Martin Schgraffer,,BOTTLE,2022,4100,1850,50,,,True,2880
+23114.0,WHITE,Chardonnay Riserva Belasy 2020,Schloß Englar,,BOTTLE,2020,5500,2500,50,,direkt,True,3970
+23115.0,WHITE,Chardonnay Flora 2022,Kellerei Girlan,,BOTTLE,2022,4200,1750,50,,direkt,True,2690
+23116.0,WHITE,Chardonnay Au 2014,Tiefenbrunner,,BOTTLE,2014,8200,4000,50,,,True,7200
+23117.0,WHITE,Chardonnay Moraine 2020,Weingut Untermoser,,BOTTLE,2020,4500,1960,50,,Holzer,True,3100
+23118.0,WHITE,Chardonnay Baron Salvadori 2014 Magnum,Nals Magreid,,MAGNUM,2014,8900,5500,50,,,True,7500
+23119.0,WHITE,Chardonnay Sophie 2022,Manincor,,BOTTLE,2022,4500,2050,50,,Gebi,True,3250
+23119.0,WHITE,Chardonnay Pfaffenegg 2021,Josmoar,,BOTTLE,2021,3700,1510,50,,,True,2390
+23120.0,WHITE,Chardonnay Riserva Baron Salvadori 2015,Nals Magreid,,BOTTLE,2015,6500,1920,50,,Vinum,True,5500
+23121.0,WHITE,Chardonnay Americano 2021,Kellerei Kaltern ,,BOTTLE,2021,5400,2500,50,,,True,3970
+23122.0,WHITE,Chardonnay Riserva Troy 2019,KG Tramin,,BOTTLE,2019,9900,5135,50,,,True,8500
+23123.0,WHITE,Chardonnay Gottesacker 2022,Weingut Abraham,,BOTTLE,2022,4500,2010,50,,,True,3310
+23130.0,WHITE,Chardonnay 2023,Jermann,,BOTTLE,2023,3500,1460,50,,Holzer,True,2310
+23150.0,WHITE,Chassagne Montrachet 1er Cru Clos Maltroie  2006,Michel Niellon,,BOTTLE,2006,19900,10000,50,,,True,17900
+23151.0,WHITE,Chablis La Foret 2020,Jean Claude Bessin,,BOTTLE,2020,9900,0,50,,,True,8500
+23152.0,WHITE,Poully-Fuissé Tete de Cru 2016,Chateau Fuissé,,BOTTLE,2016,7500,2755,50,,Holzer,True,6500
+23153.0,WHITE,Poully-Fuissé Tete de Cru 2020,Chateau Fuissé,,BOTTLE,2020,5800,2755,50,,Holzer,True,4370
+23154.0,WHITE,Chablis Montee de Tonnerre 1er   cru 2009,Jean Collet,,BOTTLE,2009,8900,0,50,,,True,7500
+23155.0,WHITE,Chablis Montmains 1er Cru 2019,Jean Claude Bessin,,BOTTLE,2019,6600,3100,50,,Teatro,True,4910
+23156.0,WHITE,Meursault 2019,C. Bellang & Fils,,BOTTLE,2019,6900,3500,50,,,True,5550
+23157.0,WHITE,Puligny-Montrachet 1er Cru L. Folatières 2018,Bachelet Monnot,,BOTTLE,2018,27500,6500,50,,,True,25500
+23158.0,WHITE,Chablis Vielles Vignes 1er Cru 2018,Domain J.C. Bessin,,BOTTLE,2018,8900,4500,50,,,True,7140
+23159.0,WHITE,Corton Charlemagne Grand Cru 2010,Bouchard P&F,,BOTTLE,2010,15900,8900,50,,Vergeiner,True,14900
+23160.0,WHITE,Meursault Les Grands Charrons 2013,Bouzereau et fils,,BOTTLE,2013,8900,0,50,,,True,7120
+23161.0,WHITE,Chablis 2020/23,Christian Moreau,,BOTTLE,2020,5400,2500,50,,,True,3900
+23161.0,WHITE,Chardonnay Tiglat 2019,Weingut Velich ,,BOTTLE,2019,0,0,50,,,True,0
+23162.0,WHITE,Bourgogne Blanc Cote D'Or 2021,Bachelet Monnot,,BOTTLE,2021,5400,2500,50,,,True,3950
+23162.0,WHITE,Chardonnay Darscho 2019,Weingut Velich,,BOTTLE,2019,0,0,50,,,True,0
+23163.0,WHITE,Puligny Montrachet Les Folatiers 2018,Bachelet Monnot,,BOTTLE,2018,0,10000,50,,,True,0
+23163.0,WHITE,Chardonnay Tiglat 2021,Weingut Velich ,,BOTTLE,2021,0,0,50,,,True,0
+23164.0,WHITE,Chardonnay Darscho 2021,Weingut Velich,,BOTTLE,2021,0,0,50,,,True,0
+23165.0,WHITE,Chardonnay Ried Jägerberg 2018,Hannes Sabathi,,BOTTLE,2018,4900,2500,50,,,True,3960
+23166.0,WHITE,Chardonnay Grand Select 2021/20,Wieninger,,BOTTLE,2021,8900,4690,50,,,True,7400
+23167.0,WHITE,Chardonnay Freudshofer 2017 Magnum,H&A Nittnaus,,MAGNUM,2017,8900,0,50,,,True,7150
+23168.0,WHITE,Chardonnay Obegg 2002 Magnum,Weingut E & W Polz,,MAGNUM,2002,16900,10000,50,,,True,15900
+23171.0,WHITE,Chardonnay Obegg 2011,Weingut E & W Polz,,BOTTLE,2011,8200,5500,50,,,True,6700
+23172.0,WHITE,Chardonnay Obegg 2021,Weingut Walter Polz,,BOTTLE,2021,0,2500,50,,,True,0
+23173.0,WHITE,Chardonnay Obegg 2017,Weingut E & W Polz,,BOTTLE,2017,7200,3500,50,,Meixner,True,5800
+23174.0,WHITE,Chardonnay Mörbisch 2022,Weingut Schönberger,,BOTTLE,2022,3300,0,50,,,True,2100
+23175.0,WHITE,Morillon Zieregg 2014,Weingut Tement,,BOTTLE,2014,7500,3900,50,,,True,5900
+23177.0,WHITE,Morillon Vom Opok 2018,Weingut Werlitsch,,BOTTLE,2018,4500,2000,50,,,True,3180
+23178.0,WHITE,Chardonnay Tiglat 2013,Weingut Velich,,BOTTLE,2013,8900,2400,50,,Holzer,True,7120
+23179.0,WHITE,Chardonnay Bergschmallister 2021,H&A Nittnaus,,BOTTLE,2021,4500,2000,50,,direkt,True,3180
+23180.0,WHITE,Chardonnay 2018,Weingute Gantenbein,,BOTTLE,2018,31900,10000,50,,Holzer,True,29900
+23181.0,WHITE,Chardonnay De Morgenzon 2018,Stellenbosch,,BOTTLE,2018,6500,3000,50,,,True,4900
+23186.0,WHITE,Chardonnay Alte Reben 2019,Bernhard Huber,,BOTTLE,2019,6500,3329,50,,,True,5700
+23211.0,WHITE,Petit Manseng 2017/19,Baron Widmann,,BOTTLE,2017,3900,1730,50,,Holzer,True,2750
+23212.0,WHITE,Caroline 2020,Weingut Pranzegg,,BOTTLE,2020,3900,1760,50,,,True,2790
+23213.0,WHITE,Caroline 2019,Weingut Pranzegg,,BOTTLE,2019,4300,1900,50,,,True,2990
+23214.0,WHITE,Caroline 2016,Weingut Pranzegg,,BOTTLE,2016,4600,2200,50,,direkt,True,3490
+23215.0,WHITE,Reserve de la Contessa 2023,Weingut Manincor,,BOTTLE,2023,3200,1250,50,,Gebi,True,1989
+23216.0,WHITE,Mitterberg Weiß Trias 2021,Ignaz Niedrist,,BOTTLE,2021,4300,1910,50,,direkt,True,2950
+23217.0,WHITE,Dolomytos 2019,Dolomytos Sacker,,BOTTLE,2019,4900,2600,50,,Norbert,True,3490
+23218.0,WHITE,Nova Domus 2015,Kellerei Terlan,,BOTTLE,2015,5500,2235,50,,Holzer,True,4500
+23219.0,WHITE,Nova Domus 2019/21,Kellerei Terlan,,BOTTLE,2019,6500,3170,50,,,True,4990
+23220.0,WHITE,Nova Domus 2021 Magnum,Kellerei Terlan ,,MAGNUM,2021,12700,6659,50,,,True,10500
+23221.0,WHITE,Sonnrain 2018,Thomas Niedermayer,,BOTTLE,2018,3650,1520,50,,,True,2420
+23225.0,WHITE,Manzoni Bianco 2022,Baron Widmann,,BOTTLE,2022,3400,1380,50,,,True,2440
+23227.0,WHITE,Giallo Di Tocai 2016 Magnum ,Vignai da Duline,,MAGNUM,2016,9900,5500,50,,,True,9500
+23229.0,WHITE,Furmint Tannenberg  2022,Hans & Anita Nittnaus,,BOTTLE,2022,7600,3800,50,,,True,5950
+23230.0,WHITE,Neuburger Waldacker 2019,Weingut Schönberger,,BOTTLE,2019,3500,1400,50,,,True,2220
+23231.0,WHITE,Gemischter Satz Ried Falkenberg 1er 2019,Weingut Wieninger,,BOTTLE,2019,3650,1520,50,,direkt,True,2410
+23233.0,WHITE,Aero 2013,Ploder Rosenberg,,BOTTLE,2013,8900,0,50,,,True,7900
+23234.0,WHITE,Ribolla Gialla Vinnae 2022,Jermann,,BOTTLE,2022,3500,1400,50,,Holzer,True,0
+23235.0,WHITE,Collio Malvasia Selezione 2012,Borgo del Tiglio,,BOTTLE,2012,6900,2700,50,,Holzer,True,5900
+23236.0,WHITE,Friulano 2016/17,Vignai Da Duline,,BOTTLE,2016,4900,1500,50,,Teatro,True,3900
+23237.0,WHITE,Sacrisassi Bianco 2019,Le Due Terre,,BOTTLE,2019,4200,1845,50,,Holzer,True,2930
+23239.0,WHITE,Soave Vecchie Vinie Salvarenza 2015,Cantina Gini,,BOTTLE,2015,5800,2750,50,,,True,4350
+23240.0,WHITE,Fiano Don Chisciotte 2021/22,P. Zampaglione,,BOTTLE,2021,3200,1220,50,,Teatro,True,2300
+23240.0,WHITE,Soave Vecchie Vinie Salvarenza 2021,Cantina Gini,,BOTTLE,2021,4600,2750,50,,,True,4350
+23241.0,WHITE,Fiano 2020,Pietracupa,,BOTTLE,2020,3600,1460,50,,,True,2300
+23244.0,WHITE,Soave Classico 2023,Cantina Gini,,BOTTLE,2023,2900,810,50,,,True,1900
+23245.0,WHITE,Soave Classico Calvarino 2020/22,Cantina Pieropan,,BOTTLE,2020,3600,1510,50,,Holzer,True,2390
+23246.0,WHITE,Cortese 2023,Albino Rocca,,BOTTLE,2023,3200,1250,50,,Gebi,True,2060
+23247.0,WHITE,Timorasso Diletto 2020/21,Pomodolce,,BOTTLE,2020,3900,1340,50,,theatro,True,2300
+23248.0,WHITE,Procanico Trebbiano 2021/22,Antonio Camillo,,BOTTLE,2021,2900,1050,50,,,True,1670
+23249.0,WHITE,Malvasia Istriana Dis Cumieris 2009,Vie di Romans,,BOTTLE,2009,6900,2000,50,,,True,5900
+23250.0,WHITE,Carjcanti 2018,Cantina Gulfi,,BOTTLE,2018,3900,1395,50,,,True,2900
+23251.0,WHITE,A'Puddara Etna Bianco 2018,Tenuta di Fessina,,BOTTLE,2018,5200,2080,50,,Gebi,True,3900
+23252.0,WHITE,A'Puddara Etna Bianco 2020,Tenuta di Fessina,,BOTTLE,2020,4900,2470,50,,,True,3400
+23254.0,WHITE,Pecorino 2022,Emidio Pepe,,BOTTLE,2022,8900,5100,50,,,True,7900
+23255.0,WHITE,Dolee Friulano 2008,Vie di Romas,,BOTTLE,2008,6500,0,50,,,True,5500
+23255.0,WHITE,Trebbiano 2019,Emidio Pepe,,BOTTLE,2019,8900,4510,50,,,True,7150
+23258.0,WHITE,Vielles Vignes Blanc 2021,Domaine Gauby,,BOTTLE,2021,6500,3150,50,,,True,0
+23259.0,WHITE,Calcinaires 2021,Domaine Gauby,,BOTTLE,2021,4500,2000,50,,Norbert,True,3170
+23270.0,WHITE,Gewürztraminer 2023,Pacherhof,,BOTTLE,2023,4100,1770,50,,,True,2800
+23271.0,WHITE,Gewürztraminer 2022/23,Kuenhof P.Pliger,,BOTTLE,2022,3500,1445,50,,Karadar,True,0
+23272.0,WHITE,Gewürztraminer Nussbaumerhof 2021/22,KG Tramin,,BOTTLE,2021,4500,0,50,,,True,2900
+23273.0,WHITE,Upupa Orange Gewürztraminer 2019/21,Weingut Abraham,,BOTTLE,2019,4500,2030,50,,Karadar,True,3220
+23274.0,WHITE,Gewürztraminer 2022,In der Eben,,BOTTLE,2022,3900,1630,50,,direkt,True,2590
+23275.0,WHITE,Gewürztraminer Nussbaumerhof 2018,KG Tramin,,BOTTLE,2018,4900,0,50,,,True,3500
+23277.0,WHITE,Gewürztraminer Kolbenhof 2020/21,Hofstätter,,BOTTLE,2020,4900,2365,50,,Holzer,True,3750
+23279.0,WHITE,Traminer GT 2021/22,Weingut Pranzegg,,BOTTLE,2021,4500,2170,50,,,True,3400
+23280.0,WHITE,Gewürztraminer Grand Cru Altenberg 2018,Frederic Mochel,,BOTTLE,2018,4600,1850,50,,Holzer,True,3800
+23281.0,WHITE,Ried Steintal Roter Traminer 2018,Weingut Neumeister,,BOTTLE,2018,3950,1789,50,,Döllerer,True,2840
+23282.0,WHITE,Roter Traminer  Freyheit 2021,Weingut Heinrich,,BOTTLE,2021,4900,2390,50,,Döllerer,True,2950
+23284.0,WHITE,Gewürztraminer Kolbenhof 2011,Hofstätter,,BOTTLE,2011,5500,0,50,,,True,4500
+23285.0,WHITE,Gewürztraminer Josef 2013,Hofstätter,,BOTTLE,2013,4900,0,50,,,True,3900
+23290.0,,Rosè Pinot Noir Virgo 2021,Weingut Kränzelhof,,BOTTLE,2021,3450,1405,50,,Karadar,True,2230
+23291.0,,Vernatsch Rosè 2023,Obermoser,,BOTTLE,2023,2800,880,50,,Vinum,True,1400
+23292.0,,La Rose de Manincor 2022,Weingut Manincor,,BOTTLE,2022,3350,1350,50,,Gebi,True,2140
+23293.0,,Lagrein Kretzer 2021,Weingut Mayer Nusser,,BOTTLE,2021,3200,1400,50,,direkt,True,2220
+23294.0,,Rosato Sangiovese 2023,Tenuta Carleone,,BOTTLE,2023,3200,1200,50,,Teatro,True,1900
+31010.0,RED,Castel Campan 2015,Weingut Manincor,,BOTTLE,2015,7900,4000,50,,gebi,True,6350
+31011.0,RED,Castel Campan 2013,Weingut Manincor,,BOTTLE,2013,8500,0,50,,gebi,True,7500
+31012.0,RED,Castel Campan 2021,Weingut Manincor,,BOTTLE,2021,9500,5300,50,,,True,8400
+31012.0,RED,Merlot Gant Riserva 2008,Kellerei Andrian,,BOTTLE,2008,7200,3500,50,,,True,6200
+31013.0,RED,Merlot Riserva Nussleiten 2019,Castel Sallegg,,BOTTLE,2019,6900,0,50,,Vinum,True,5360
+31014.0,RED,Merlot Riserva Spitz 2020,Weingut Griesbauer,,BOTTLE,2020,4500,1735,50,,,True,2820
+31015.0,RED,Merlot Vigna Mühlweg 2020,Ignaz Niedrist,,BOTTLE,2020,4950,2260,50,,direkt,True,3500
+31019.0,RED,Merlot Riserva 2020,Untermoserhof,,BOTTLE,2020,4200,1789,50,,Holzer,True,2840
+31020.0,RED,Merlot Gant Riserva 2020,Kellerei Andrian,,BOTTLE,2020,5900,3000,50,,,True,4760
+31022.0,RED,Merlot Bergmannhof 2023,Weingut Bergmannhof,,BOTTLE,2023,3500,1450,50,,Vinum,True,2300
+31025.0,RED,Merlot Riserva MR 20,Weingut Pitzner,,BOTTLE,0,5500,2500,50,,,True,3900
+31026.0,RED,Merlot Riserva MR 22,Weingut Pitzner,,BOTTLE,0,0,2700,50,,,True,0
+31026.0,RED,Merlot Altenberg Reserve 2008,Weingut Pittnauer,,BOTTLE,2008,6200,0,50,,,True,5200
+31027.0,RED,Merlot Schützner Stein 2021,Weingut Prieler,,BOTTLE,2021,4700,2100,50,,,True,3329
+31040.0,RED,Frauenriegel  2018,Peter Dipoli,,BOTTLE,2018,6500,2980,50,,Holzer,True,5500
+31041.0,RED,Frauenriegel  2016,Peter Dipoli,,BOTTLE,2016,6900,2830,50,,Holzer,True,5900
+31042.0,RED,Iugum 2016,Peter Dipoli,,BOTTLE,2016,6500,2800,50,,,True,5500
+31043.0,RED,Linticlarus Cuvèe Reserve 2018,Weingut Tiefenbruner,,BOTTLE,2018,5350,2500,50,,,True,3970
+31044.0,RED,Valbion 2020,Stroblhof,,BOTTLE,2020,4900,2300,50,,,True,3970
+31045.0,RED,Sagittarius 2019,Weingut Kränzlhof,,BOTTLE,2019,5900,2950,50,,,True,4680
+31046.0,RED,Le Comte 2022,Weingut Manincor,,BOTTLE,2022,2900,1050,50,,,True,0
+31051.0,RED,Erah 2017,Weingut Haderburg,,BOTTLE,2017,0,0,50,,Norbert,True,0
+31052.0,RED,Erah 2020,Weingut Haderburg,,BOTTLE,2020,4500,2039,50,,,True,3250
+31052.0,RED,Cassiano 2009 Magnum,Weingut Manincor,,MAGNUM,2009,9900,0,50,,,True,8900
+31055.0,RED,Istante 2020,Franz Haas,,BOTTLE,2020,4200,1789,50,,Holzer,True,2890
+31058.0,RED,Istante 2019,Franz Haas,,BOTTLE,2019,4400,1700,50,,,True,3090
+31060.0,RED,Skythos 2016,Dolomythos Sacker,,BOTTLE,2016,5200,2500,50,,Norbert,True,4170
+31061.0,RED,Hexagon 2019,Weingut Pitzner,,BOTTLE,2019,6500,3379,50,,Karadar,True,5360
+31069.0,RED,Pannobile Reserve Bio-Dyn,Weingut Paul Achs,,BOTTLE,0,4500,2020,50,,,True,3200
+31070.0,RED,Pannobile 2013,Weingut H&A Nittnaus,,BOTTLE,2013,4900,1969,50,,Vergeiner,True,3900
+31071.0,RED,Panobile 2015,Weingut H & A Nittnaus,,BOTTLE,2015,4700,0,50,,,True,3700
+31072.0,RED,Pannobile 2016,Weingut H&A Nittnaus,,BOTTLE,2016,4500,0,50,,,True,3500
+31073.0,RED,Pannobile 2021,Weingut Heinrich,,BOTTLE,2021,4600,2014,50,,,True,3600
+31074.0,RED,Gabarinza 2015,Weingut Heinrich,,BOTTLE,2015,6800,3300,50,,,True,5500
+31075.0,RED,Harterberg 2015,Weingut Aumann,,BOTTLE,2015,6700,3300,50,,,True,5200
+31076.0,RED,Harterberg 2012,Weingut Aumann,,BOTTLE,2012,7300,3600,50,,,True,6100
+31078.0,RED,Il Pino di Biserno 2007,Tenuta di Biserno,,BOTTLE,2007,8500,0,50,,,True,6900
+31079.0,RED,Il Pino di Biserno 2020,Tenuta di Bisernio,,BOTTLE,2020,6500,3350,50,,,True,5310
+31080.0,RED,Il Biserno 2012,Tenuta di Biserno,,BOTTLE,2012,11500,5500,50,,,True,9900
+31082.0,RED,Chorus 2008,Poggio Nibbiale,,BOTTLE,2008,5900,0,50,,,True,4900
+31085.0,RED,Altrovino 2021,Cantina Duemani,,BOTTLE,2021,5900,2810,50,,,True,4460
+31086.0,RED,Altrovino 2014/15,Cantina Duemani,,BOTTLE,2014,4900,2500,50,,,True,3970
+31087.0,RED,Bolgheri Rosso 2018,Le Macchiole,,BOTTLE,2018,4200,0,50,,,True,3200
+31088.0,RED,Bolgheri Rosso 2022,Le Macchiole,,BOTTLE,2022,3700,1550,50,,,True,2490
+31091.0,RED,Chateau Lynch Bage 2001,Pauillac,,BOTTLE,2001,29900,8700,50,,Gebhard,True,24000
+31093.0,RED,Chateau Pichon Baron Deuxièmes Crus 2011,Pauillac,,BOTTLE,2011,21500,8550,50,,Meixner,True,17200
+31095.0,RED,St. George Chateau Calon 2016,St. George,,BOTTLE,2016,5500,1850,50,,,True,4500
+31098.0,RED,Chateau Musar Rosso 2016,Gaston Hochar,,BOTTLE,2016,7500,3650,50,,Vinum,True,6500
+32009.0,RED,St. Magdalener 2023,Pfannenstielhof,,BOTTLE,2023,4000,1700,50,,,True,2670
+32010.0,RED,St. Magdalener 2023,Weingut Glögglhof,,BOTTLE,2023,3200,990,50,,Direkt,True,1689
+32011.0,RED,St. Magdalener Anver 2021,Pfannenstielhof,,BOTTLE,2021,3800,1557,50,,,True,2470
+32012.0,RED,Der Pfannenstiel 2018,Pfannenstielhof,,BOTTLE,2018,5600,3271,50,,,True,4800
+32013.0,RED,Der Pfannenstiel 2017,Pfannenstielhof,,BOTTLE,2017,5900,3271,50,,,True,5100
+32014.0,RED,Der Pfannenstiel 2018 Magnum,Pfannenstielhof,,MAGNUM,2018,11700,5500,50,,,True,10700
+32014.0,RED,Gschleier Alte Reben 2021,KG Girlan,,BOTTLE,2021,3300,1280,50,,,True,2050
+32015.0,RED,Kalterer See Keil 2022,Weingut Manincor,,BOTTLE,2022,3200,1150,50,,,True,1820
+32016.0,RED,Meraner Hügel Vernatsch Baslan 2022,Weingut Kränzelhof,,BOTTLE,2022,3750,1560,50,,Karadar,True,2500
+32017.0,RED,Sankt Anna R 2017,In der Eben,,BOTTLE,2017,5100,2350,50,,,True,3729
+32018.0,RED,Campill Vernatsch 2019/20,Weingut Pranzegg,,BOTTLE,2019,3800,1610,50,,,True,2590
+32019.0,RED,Vernatsch Elda 2018,Mayr Nusserhof,,BOTTLE,2018,4400,1925,50,,Karadar,True,3050
+32020.0,RED,Vernatsch Versal  2018,Oberstein,,BOTTLE,2018,2900,1019,50,,,True,1620
+32021.0,RED,Kalterer See Erbe & Auftrag 2020/21,Andi Sölva,,BOTTLE,2020,4500,2020,50,,Karadar,True,3200
+32022.0,RED,Vernatsch Arena 2022,Oberstein,,BOTTLE,2022,3700,1550,50,,Karadar,True,2520
+32022.0,RED,Laurenc  2018/19,Weingut Pranzegg,,BOTTLE,2018,3850,1630,50,,,True,2700
+32023.0,RED,Berger Gei 2019/21,Weingut Niedrist,,BOTTLE,2019,5100,2310,50,,,True,3660
+32024.0,RED,Lagrein Rahm 2017,Weingut Reyter ,,BOTTLE,2017,3800,1575,50,,,True,2500
+32028.0,RED,Lagrein Riserva 2020,Pfannenstielhof,,BOTTLE,2020,5000,2180,50,,,True,3700
+32029.0,RED,Lagrein Riserva 2021,Pfannenstielhof,,BOTTLE,2021,4800,2180,50,,,True,3250
+32030.0,RED,Lagrein Riserva 2021,Pfannenstielhof,,BOTTLE,2021,0,2180,50,,,True,0
+32032.0,RED,Lagrein Riserva 2019/20,Nusserhof H. Mayr,,BOTTLE,2019,4300,1900,50,,Kradar,True,3010
+32033.0,RED,Lagrein Riserva Gloria 12,Nusserhof H. Mayr,,BOTTLE,0,8200,4420,50,,Karadar,True,6310
+32034.0,RED,Lagrein Riserva 2021,Weingut Waldgries,,BOTTLE,2021,3900,1650,50,,Karadar,True,2620
+32035.0,RED,Lagrein Riserva Taber  2017,KG Bozen,,BOTTLE,2017,5900,2960,50,,Vinum,True,4690
+32036.0,RED,Vernatsch Alte Reben 2023,Weingut Glögglhof,,BOTTLE,2023,2900,930,50,,,True,1490
+32037.0,RED,Vernatsch 2022,Weingut Prackfol,,BOTTLE,2022,3800,930,50,,,True,2490
+32038.0,RED,Mitterberg Rot 2019 Magnum,Luis Oberrauch,,MAGNUM,2019,6900,3500,50,,,True,5650
+32039.0,RED,Schiava  2018,Weingut Reyter,,BOTTLE,2018,3200,1246,50,,,True,1989
+32040.0,RED,Kalteresee Klassisch 2022,Andi Sölva,,BOTTLE,2022,3300,1330,50,,Vinum,True,2350
+32041.0,RED,Rublinus de Waldgries 2021,Weingut Waldgries,,BOTTLE,2021,10900,0,50,,,True,9790
+32042.0,RED,Lagrein Tauris 2020,Weingut Kränzelhof,,BOTTLE,2020,3500,1455,50,,Karadar,True,2310
+32109.0,RED,Pinot Noir Riserva 2020,Weingut Wildmonn,,BOTTLE,2020,8900,4500,50,,,True,6900
+32110.0,RED,Pinot Nero Riserva Hausmannhof 2007 Magnum,Haderburg,,MAGNUM,2007,11900,0,50,,,True,9900
+32111.0,RED,Blauburgunder Mason di Mason 2020,Manincor,,BOTTLE,2020,9500,5200,50,,Gebi,True,8250
+32112.0,RED,Pinot Noir unoaked 2021 xxx Projekt,Cantina Caldaro,,BOTTLE,2021,6500,3000,50,,,True,5500
+32113.0,RED,Blauburgunder vom Muschelkalk 2020,M. Abraham,,BOTTLE,2020,4900,2465,50,,Karadar,True,3900
+32114.0,RED,Pinot Nero Trattmann 2016 Magnum,KG Girlan,,MAGNUM,2016,8900,4500,50,,Perpmer,True,7140
+32115.0,RED,Pinot Nero Trattmann Riserva 2020,KG Girlan,,BOTTLE,2020,5700,2695,50,,,True,4280
+32116.0,RED,Pinot Nero Filari di Mazzon 2021,Cantina F&M Carlotto,,BOTTLE,2021,4100,1770,50,,Holzer,True,2800
+32117.0,RED,Pinot Nero Preasulis 2021/22,Weingut Gumphof,,BOTTLE,2021,0,1900,50,,,True,0
+32117.0,RED,Blauburgunder Riserva Vigna Ganger 2015,KG Girlan,,BOTTLE,2015,16500,8000,50,,,True,12690
+32119.0,RED,Blauburgunder 2022,Weingut Josmoar,,BOTTLE,2022,3800,1570,50,,direkt,True,2490
+32122.0,RED,"Blauburgunder Nina 2016 (0,5lt)",Weingut Buchner,,BOTTLE,2016,4000,0,50,,Karadar,True,2800
+32123.0,RED,Pinot Nero Renaissnce Riserva  2019,Weingut Gumphof,,BOTTLE,2019,0,3500,50,,direkt,True,0
+32124.0,RED,Blauburgunder Mason 2020/21,Manincor,,BOTTLE,2020,4900,2370,50,,gebi,True,3760
+32125.0,RED,Blauburgunder Hausmannhof Riserva 2018,Weingut Haderburg,,BOTTLE,2018,5500,3000,50,,,True,4500
+32126.0,RED,Blauburgunder Riserva Girlan 2020,Weingut Niedrist,,BOTTLE,2020,5400,2520,50,,,True,3990
+32128.0,RED,Pinot Nero Libra 2021,Weingut Kränzlhof,,BOTTLE,2021,5200,2390,50,,,True,3900
+32129.0,RED,Pinot Noir Riserva 2019,Stroblhof,,BOTTLE,2019,4900,2200,50,,,True,3790
+32130.0,RED,Blauburgunder Riserva 2021,Weingut Prackfol,,BOTTLE,2021,3900,1939,50,,Vinum,True,3080
+32132.0,RED,Pinot Noir 2022,Claus Preisinger,,BOTTLE,2022,5300,2520,50,,,True,3700
+32136.0,RED,Pinot Nero Riserva 2018,Weingut Pöckl,,BOTTLE,2018,5900,3015,50,,,True,4500
+32140.0,RED,Pinot Noir Reserve 2019,Weingut Markowitsch,,BOTTLE,2019,5700,2700,50,,,True,4280
+32141.0,RED,Pinot Nero Cecile 2009,Weingut Bründlmayer,,BOTTLE,2009,6500,2500,50,,,True,5500
+32145.0,RED,Pinot Noir Select 2021,Weingut Wieninger,,BOTTLE,2021,3900,1710,50,,,True,2760
+32146.0,RED,Pinot Noir Kalkstein 2020,Weingut Frank John,,BOTTLE,2020,5500,3025,50,,direkt,True,4800
+32147.0,RED,Pinot Noir Grand Select 2019,Weingut Wieninger,,BOTTLE,2019,8500,0,50,,,True,6900
+32147.0,RED,Spätburgunder Schlangenpfiff 2020,Weingut Münzberg,,BOTTLE,2020,5900,2900,50,,,True,4590
+32148.0,RED,Spätburgunder Kalkgestein Gordamsteiner 2019,Weingut Münzberg,,BOTTLE,2019,4200,1680,50,,direkt,True,3200
+32149.0,RED,Spätburgunder Schlangenpfiff 2019,Weingut Münzberg,,BOTTLE,2019,5900,2941,50,,direkt,True,4670
+32150.0,RED,Frühburgunder 2018,Weingut Meyer-Näkel,,BOTTLE,2018,4500,1290,50,,Direkt,True,2800
+32151.0,RED,Spätburgunder Silberberg GG 2016,Weingut Meyer-Näkel,,BOTTLE,2016,7500,3300,50,,Direkt,True,6500
+32152.0,RED,Pinot Nero 2018,Marco Buvoli,,BOTTLE,2018,5500,2800,50,,,True,4500
+32153.0,RED,Pinot Noir Braunenberger Mandelgraben 2019,Weingut M. Molitor,,BOTTLE,2019,5500,2600,50,,,True,4130
+32156.0,RED,"Spätburgunder Wildstein ""R"" 2011 GG",Weingut Huber,,BOTTLE,2011,24500,0,50,,,True,21500
+32158.0,RED,Spätburgunder Malterdinger 2021,Weingut Huber,,BOTTLE,2021,5500,2610,50,,Döllerer,True,4140
+32159.0,RED,Pinot noir Ried Holzspur 2018,Weingut Reinisch,,BOTTLE,2018,8900,0,50,,,True,7850
+32159.0,RED,Pinot Noir Kalkstein 2020 Doppelmagnum,Weingut Frank John,,JEROBOAM,2020,21000,0,50,,direkt,True,18900
+32160.0,RED,Pinot noir  Ried Holzspur 2018 Magnum,Weingut Reinisch,,MAGNUM,2018,16700,0,50,,,True,15700
+32210.0,RED,Les Cent Vignes  Beaune 1er Cru 2012,Lucien Jacob,,BOTTLE,2012,6900,3400,50,,,True,5900
+32211.0,RED,Pommard Rugiens 1er cru 2014,Roy Jacquelin,,BOTTLE,2014,8900,4490,50,,,True,7120
+32212.0,RED,Gevrey Chambertin 1er cru 2015,Jaques Prieur,,BOTTLE,2015,19100,10300,50,,,True,16350
+32214.0,RED,"Nuit-St-Georges 1er Cru ""Les Saint-Georges"" 2014",Domaine Chicotot,,BOTTLE,2014,15900,5600,50,,Teatro,True,8880
+32216.0,RED,Fixin 2009,Meo-Camuzet F&S,,BOTTLE,2009,11900,6500,50,,,True,10390
+32309.0,RED,Pinot Nero Campo alle More 2020,Cantina Gini,,BOTTLE,2020,4500,1970,50,,,True,3130
+32310.0,RED,Pinot Nero 2021,Civettaja,,BOTTLE,2021,5200,2380,50,,Teatro,True,3790
+32311.0,RED,Pinot Nero 2018,Weingut Gantenbein,,BOTTLE,2018,32000,15000,50,,,True,28500
+32311.0,RED,Cabernet Franc Amistar ,Weingut Peter Sölva,,BOTTLE,0,9500,0,50,,,True,8500
+32312.0,RED,Cabernet Sauvignon 2021,Weingut Peter Dipoli,,BOTTLE,2021,3500,1400,50,,Holzer,True,0
+32313.0,RED,Cabernet Sauvignon Riserva Toren 2015,Kellerei Tiefenbrunner,,BOTTLE,2015,12500,6300,50,,Holzer,True,9900
+32314.0,RED,Cabernet Sauvignon Cabrone 2020 xxx Project,Cantina Caldaro,,BOTTLE,2020,7500,0,50,,,True,5900
+32315.0,RED,Cabernet Sauvignon Weinegg 2021,Weingut Thurnhof,,BOTTLE,2021,4900,2250,50,,,True,3570
+32320.0,RED,Cabernet Franc 2020,Nicolussi Leck,,BOTTLE,2020,5600,2620,50,,,True,4100
+32322.0,RED,Cabernet Franc 2020,Marco Buvoli,,BOTTLE,2020,5900,2800,50,,,True,4490
+32325.0,RED,L'Franc 2015,Proprietà Sperino,,BOTTLE,2015,15500,0,50,,,True,13500
+32329.0,RED,Paleo Rosso 2020,Le Macchiole,,BOTTLE,2020,12900,6750,50,,,True,10900
+32330.0,RED,Il Paleo 2019,Le Macchiole,,BOTTLE,2019,13500,0,50,,,True,12900
+32331.0,RED,Cifra 2022,Cantina Duemani,,BOTTLE,2022,5300,2480,50,,,True,3940
+32349.0,RED,Sammarco 2011,Castello di Rampolla ,,BOTTLE,2011,14200,7500,50,,,True,13200
+32350.0,RED,Cabernet Franc 2018,Stefan Zehedbauer,,BOTTLE,2018,3900,1720,50,,,True,3120
+32351.0,RED,Les Bonnesveaux Varrains 2019,Le P'tit Domaine,,BOTTLE,2019,6100,2800,50,,Teatro,True,4900
+32352.0,RED,Les Bonnesveaux Varrains 2020,Le P'tit Domaine,,BOTTLE,2020,5900,2800,50,,Teatro,True,4500
+32353.0,RED,Samur-Champigny Les Poyeux 2015,Clos Rougeard,,BOTTLE,2015,25500,12000,50,,,True,24500
+32354.0,RED,Cabernet Franc 2014,Paradigm,,BOTTLE,2014,12500,8500,50,,,True,11500
+32355.0,RED,Cabernet Franc Gran Enemigo 2015 ,Gualtallary,,BOTTLE,2015,13900,8500,50,,,True,12900
+32356.0,RED,La Trinità Cabernet Franc 2018,Cantina Heumann,,BOTTLE,2018,7500,3500,50,,,True,5500
+32357.0,RED,Cabernet Franc 2021,Damascene Vineyards,,BOTTLE,2021,8500,3000,50,,,True,6900
+32360.0,RED,Sassella Riserva Tocce Rosse 2007,Cantina AR.PE.PE,,BOTTLE,2007,6900,0,50,,Teatro,True,5520
+32361.0,RED,Sassella Riserva Tocce Rosse 2013,Cantina AR.PE.PE,,BOTTLE,2013,5900,0,50,,Teatro,True,4720
+32362.0,RED,Pettirosso 2021,Cantina AR.PE.PE,,BOTTLE,2021,4100,1750,50,,Teatro,True,3279
+32363.0,RED,Syrah 2020,Weingut Niedrist,,BOTTLE,2020,5800,2620,50,,,True,4160
+32364.0,RED,Carmenere Oratorio di San Lorenzoi 2017,Cantina Inama,,BOTTLE,2017,9900,5500,50,,,True,8900
+32365.0,RED,Amarone Riserva 2010,Musella,,BOTTLE,2010,6900,3095,50,,Karadar,True,5900
+32368.0,RED,Amarone Ravazol 2016,Ca la Bionda,,BOTTLE,2016,7500,3800,50,,,True,6000
+32369.0,RED,Teroldego Vigneto Morei Amfora 2020,Cantina Foradori,,BOTTLE,2020,5100,2335,50,,Karadar,True,3700
+32413.0,RED,Ciliegiolo 2021/23,Antonio Camillo,,BOTTLE,2021,2900,1000,50,,Teatro,True,2320
+32420.0,RED,"Syrah Crozes-Heremitage Rouge ""Le Rouvre"" 2020",Domaine Yann Chave,,BOTTLE,2020,4100,1700,50,,Teatro,True,3279
+32421.0,RED,Montepulicano d'Abruzzo 2021,Emidio Pepe,,BOTTLE,2021,7800,3890,50,,Netz,True,6170
+32430.0,RED,Chianti Classico 2013,Le Capannelle,,BOTTLE,2013,6500,2500,50,,,True,0
+32431.0,RED,Chianti Rufina 2018 Doppia Magnum,Cantina Selvapiana,,JEROBOAM,2018,14500,0,50,,,True,9300
+32432.0,RED,Chianti Classico 2018,Castello di Rampolla ,,BOTTLE,2018,3800,1600,50,,,True,3040
+32433.0,RED,Chianti Classico 2021,La vigna di S. Martino,,BOTTLE,2021,0,0,50,,direkt,True,0
+32435.0,RED,Chianti Classico 2022,Castello di Monsanto,,BOTTLE,2022,3200,1250,50,,,True,3040
+32441.0,RED,Chianti Classico 2020,Isole e Olena,,BOTTLE,2020,3900,1580,50,,Teatro,True,3120
+32442.0,RED,Chianti Classico 2016,Isole e Olena,,BOTTLE,2016,4900,0,50,,,True,3900
+32443.0,RED,Chianti Classico 2022,Cantina Carleone,,BOTTLE,2022,3900,1670,50,,,True,2650
+32444.0,RED,Chianti Rufina Bucerchiale 2020,Cantina Selvapiana,,BOTTLE,2020,3900,1780,50,,,True,3120
+32445.0,RED,Chianti Rufina Bucerchiale 2016,Cantina Selvapiana,,BOTTLE,2016,4500,1780,50,,,True,3500
+32446.0,RED,Fontalloro 2016,Fattoria di Felsina,,BOTTLE,2016,7500,2570,50,,,True,6500
+32447.0,RED,Fontalloro 2010,Fattoria di Felsina,,BOTTLE,2010,8500,0,50,,,True,7500
+32449.0,RED,Fontalloro 1994,Fattoria di Felsina,,BOTTLE,1994,7500,0,50,,,True,6000
+32450.0,RED,Rosso di Montalcino 2021/22,Corte Pavone,,BOTTLE,2021,3200,1170,50,,Vinum,True,1860
+32451.0,RED,Brunello di Montalcino 2015,Corte Pavone,,BOTTLE,2015,0,0,50,,,True,0
+32452.0,RED,Brunello di Montalcino 2018,Corte Pavone,,BOTTLE,2018,6400,3220,50,,Vinum,True,5120
+32453.0,RED,Rosso di Montalcino 2022,Castello Tricerchi,,BOTTLE,2022,3200,1250,50,,Teatro,True,1989
+32456.0,RED,Brunello di Montalcino  2011,Conti Costanti,,BOTTLE,2011,6900,2860,50,,Holzer,True,5900
+32458.0,RED,Brunello di Montalcino 2013,Conti Costanti,,BOTTLE,2013,6700,0,50,,,True,5700
+32459.0,RED,Nobile di Montepulciano Asinone 2020,Cantina Poliziano,,BOTTLE,2020,7500,3925,50,,,True,6000
+32460.0,RED,Sangiovese 2018,Castello di Monsanto,,BOTTLE,2018,2900,850,50,,,True,1600
+32461.0,RED,Sangioveto 2016,Castello di Monsanto,,BOTTLE,2016,5900,3000,50,,Holzer,True,4760
+32462.0,RED,Palistorti Rosso 2015,Tenuta di Valgiano,,BOTTLE,2015,5500,1200,50,,Gebi,True,4400
+32464.0,RED,Palistorti Rosso 2013,Tenuta di Valgiano,,BOTTLE,2013,5500,0,50,,Gebi,True,4400
+32467.0,RED,Carmignano 2019,Fattoria di Bacchereto,,BOTTLE,2019,4100,0,50,,Vinum,True,3279
+32468.0,RED,Carmignano 2017,Fattoria di Bacchereto,,BOTTLE,2017,4500,0,50,,Vinum,True,3600
+32469.0,RED,Flaccianello della Pieve 2016,Cantina Fontodi,,BOTTLE,2016,29000,6800,50,,,True,25000
+32470.0,RED,Flaccianello della Pieve 2001,Cantina Fondodi,,BOTTLE,2001,21500,12500,50,,,True,17200
+32471.0,RED,Flaccianello della Pieve 1995,Cantina Fontodi,,BOTTLE,1995,27000,15000,50,,,True,21600
+32473.0,RED,Flaccianello della Pieve 1991,Cantina Fontodi,,BOTTLE,1991,39000,6800,50,,,True,31200
+32480.0,RED,Barolo Sori Ginestra 2020,Conterno-Fantino,,BOTTLE,2020,11900,6300,50,,,True,9990
+32481.0,RED,Barolo Bricco Boschis 2010,Cavallotto ,,BOTTLE,2010,0,0,50,,,True,0
+32482.0,RED,Barolo Cicala 2006,A. Conterno,,BOTTLE,2006,25000,14000,50,,,True,20000
+32483.0,RED,Barolo Le Vigne 2007,Luciano Sandrone,,BOTTLE,2007,25000,13000,50,,,True,25000
+32484.0,RED,Barbaresco Ovello 2017,Produttori del Barbaresco,,BOTTLE,2017,8500,3500,50,,,True,7500
+32485.0,RED,Barolo Lazzairasco 2020 Magnum,Guido Porro,,MAGNUM,2020,9300,4700,50,,,True,7750
+32486.0,RED,Barbaresco Ovello 2018,Angelo Rocca,,BOTTLE,2018,8500,0,50,,gebi,True,7500
+32487.0,RED,Barbera D'Alba Gepin 2020/22,Albino Rocca,,BOTTLE,2020,3200,1490,50,,gebi,True,2560
+32488.0,RED,Barbaresco Ronchi 2013 Magnum,Albino Rocca,,MAGNUM,2013,16900,0,50,,,True,14900
+32489.0,RED,Barbaresco Ronchi 2016,Albino Rocca ,,BOTTLE,2016,8800,4500,50,,,True,7400
+32490.0,RED,Barbera D'Asti Bricco dell'Uccellone 1999,Giacomo Bologna,,BOTTLE,1999,22000,12000,50,,,True,17600
+32491.0,RED,Barbaresco 2020,Produttori del Barbaesco,,BOTTLE,2020,3900,1800,50,,Holzer,True,3120
+32492.0,RED,Nebbiolo Langhe Ginestrino 2021/22,Conterno-Fantino,,BOTTLE,2021,3800,1600,50,,,True,3040
+32493.0,RED,Barbaresco Rabajà 2019,Giuseppe Cortese,,BOTTLE,2019,6900,3500,50,,,True,5500
+32495.0,RED,Barbaresco Angelo 2019,Albino Rocca ,,BOTTLE,2019,8900,4900,50,,,True,8070
+32495.0,RED,Nebbiolo Lessona 2013 Magnum,Proprietà Sperino,,MAGNUM,2013,17900,0,50,,,True,15900
+32496.0,RED,Barbaresco Ronchi 2021,Albino Rocca ,,BOTTLE,2021,5900,3150,50,,,True,0
+33010.0,RED,Blaufränkisch Perwolf 2010,Weingut Krutzler,,BOTTLE,2010,11000,0,50,,,True,9900
+33011.0,RED,Blaufränkisch Perwolf 2021,Weingut Krutzler,,BOTTLE,2021,8500,4740,50,,,True,7500
+33020.0,RED,Blaufränkisch Eisenberg Reserve 2018/20,Weingut Krutzler,,BOTTLE,2018,4500,2020,50,,döllerer,True,3279
+33030.0,RED,Blaufränkisch Szapary 2016,Weingut Uwe Schiefer,,BOTTLE,2016,5600,2700,50,,Döllerer,True,4480
+33038.0,RED,Blaufränkisch Mörbisch 2021,Weingut Schönberger ,,BOTTLE,2021,3500,0,50,,,True,2500
+33039.0,RED,Blaufränkisch Kräften 2018,Weingut Schönberger,,BOTTLE,2018,4300,1500,50,,,True,3200
+33041.0,RED,Blaufränkisch Lehmgrube 2017,Weingut Schönberger,,BOTTLE,2017,5500,2800,50,,,True,4400
+33043.0,RED,Blaufränkisch Altenberg Jois 2021,Weingut H&A Nittnaus,,BOTTLE,2021,4500,2000,50,,direkt,True,3170
+33060.0,RED,Blaufränkisch Altenberg Jois Magnum 2021,Weingut H&A Nittnaus,,MAGNUM,2021,8200,4100,50,,,True,6500
+33061.0,RED,Blausfränkisch Kirchberg Lutzmannsburg 2021,Weingut Moric,,BOTTLE,2021,5900,2500,50,,direkt,True,4720
+33080.0,RED,Blaufränkisch Obere Wald 2020,Weingut E. Triebaumer,,BOTTLE,2020,5600,2630,50,,,True,4480
+35063.0,RED,Cassiano 2021,Weingut Manincor,,BOTTLE,2021,4900,2300,50,,,True,3650
+39050.0,RED,Nebbiolo Langhe 2021,Giuseppte Cortese ,,BOTTLE,2021,0,0,50,,,True,0
+39094.0,RED,Barbaresco Rabajà Riserva 2016,Giuseppe Cortese,,BOTTLE,2016,14500,7700,50,,Holzer,True,11600
+,,Barbaresco Rombone 2021,Nada Fiorenzo,,BOTTLE,2021,9900,4650,50,,,True,0
+,,Barbaresco Manzola 2021,Nada Fiorenzo,,BOTTLE,2021,7500,3350,50,,,True,0
+,,Barbaresco 2021,Nada Fiorenzo,,BOTTLE,2021,5500,2180,50,,,True,0
+,,Barbera d'Alba 2022,Nada Fiorenzo,,BOTTLE,2022,3900,1490,50,,,True,0
+,,Nebbiolo Langhe 2022,Nada Fiorenzo,,BOTTLE,2022,3900,1400,50,,,True,0
+,,Barolo Giannetto 2020,Guido Porro ,,BOTTLE,2020,5100,2050,50,,,True,3900
+,,Barolo S. Caterina 2020,Guido Porro ,,BOTTLE,2020,5500,2150,50,,,True,4200
+,,Barolo Lazzairasco 2020,Guido Porro ,,BOTTLE,2020,5900,2350,50,,,True,4700

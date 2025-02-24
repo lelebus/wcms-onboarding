@@ -1,0 +1,356 @@
+type,winery,name,size,internal_notes,eur_price
+SPARKLING,AGRAPART,,,,
+SPARKLING,,Champagne Venus Brut Grand Cru 2017,,Chardonnay 100%,390
+SPARKLING,,Champagne Avizoise Extra Brut Granc Cru,,Chardonnay 100%,260
+SPARKLING,,Champagne Terroirs Extra Brut Grand Cru,,Chardonnay 100%,150
+SPARKLING,,Champagne 7 Crus Extra Brut,,"Chardonnay 90%, Pinot Noir 10%",110
+SPARKLING,,Champagne Mineral Extra Brut Blanc de Blancs,,Chardonnay 100%,210
+SPARKLING,BRIGANDAT,,,,
+SPARKLING,,Champagne Blanc de Noirs Brut,,Pinot Noir 100%,65
+SPARKLING,DE VILMONT,,,,
+SPARKLING,,Champagne Blanc de Blancs Brut,,Chardonnay 100%,55
+SPARKLING,,Champagne Brut Premier Cru,,"Chardonnay 50%, Pinot Noir 25%, Pinot Meunier 25% ",60
+SPARKLING,DIEBOLT VALLOIS,,,,
+SPARKLING,,Champagne Blanc de BLancs Prestige Extra Brut,,Chardonnay 100%,80
+SPARKLING,,Champagne Fleur de Passion,,,
+SPARKLING,JACQUESSON,,,,
+SPARKLING,,Couvé 747,,"Chardonnay 61%, Pinot Meunier 21%, Pinot Noir 18%",150
+SPARKLING,,Couvé 742,,"Chardonnay 47%, Pinot Noir 33%, Pinot Meunier 20%",270
+SPARKLING,JEAN VESSELLE,,,,
+SPARKLING,,Champagne Oeil de Perdrix Brut,,Pinot Noir 100%,80
+SPARKLING,LOUIS BROCHET,,,,
+SPARKLING,,Champagne Premier Cru Brut Heritage,,"Pinot Noir 80%, Chardonnay 15%, Pinot Meunier 5%",120
+SPARKLING,MARIE LE BRUN,,,,
+SPARKLING,,Champagne Blan de Blancs,,Chardonnay 100%,90
+SPARKLING,MAURICE VESSELLE ,,,,
+SPARKLING,,Champagne Grand Cru 2007,,"Pinot Noir 80%, Chardonnay 20% ",70
+SPARKLING,MICHEL GONET,,,,
+SPARKLING,,Champagne Extra Brut Mill.,,Chardonnay 100%,60
+SPARKLING,PETIT-CAMUSAT,,,,
+SPARKLING,,Champagne Blanc de Blancs Brut,,Pinot Blanc 100%,70
+SPARKLING,ROBERT AILLAT,,,,
+SPARKLING,,Champagne ,,Pinot Meunier 100%,90
+SPARKLING,SADI MALOT,,,,
+SPARKLING,,Champagne L'Equilibre Grand Cru,,"Chardonnay 50%, Pinot Noir 50%",70
+SPARKLING,SEBASTIEN LEFEVRE,,,,
+SPARKLING,,Champagne Blanc de Blancs Brut,,Chardonnay 100%,50
+SPARKLING,,Champagne Millésime 2014,,"Chardonnay 50%, Pinot Noir 41%, Pinot Meunier 9%",60
+SPARKLING,VAZART,,,,
+SPARKLING,,Champagne Blanc de Blancs Brut Reserve Grand Cru,,Chardonnay 100%,80
+SPARKLING,,,,,
+SPARKLING,,,,,
+SPARKLING,LA GALINIERE,,,,
+SPARKLING,,Vouvray,,,36
+SPARKLING,,,,,
+SPARKLING,GRAMONA,,,,
+SPARKLING,,Imperial Brut,,,60
+SPARKLING,,La Cuvee Brut,,,40
+SPARKLING,,,,,
+SPARKLING,ALTA LANGA,,,,
+SPARKLING,,Airali Pas Dosè,,,36
+SPARKLING,,,,,
+SPARKLING,FARFALLA,,,,
+SPARKLING,,Extra Brut Noir Collection,,,45
+SPARKLING,,,,,
+SPARKLING,ALTILIA,,,,
+SPARKLING,,Extra Brut Milesimato ,,,36
+SPARKLING,CESARINI SFORZA,,,,
+SPARKLING,,Noire Nature,,,45
+SPARKLING,,Extra Brut,,,45
+SPARKLING,,Aquila Reale,,,90
+SPARKLING,MONFORT,,,,
+SPARKLING,,Couvee '85,,,35
+SPARKLING,,Le General Blanc,,,55
+SPARKLING,,Le General Dallemagne,,,55
+SPARKLING,,Rosé ,,,39
+SPARKLING,ROTARI,,,,
+SPARKLING,,Couvee '28,,,35
+SPARKLING,,,,,
+SPARKLING,VEVEY,,,,
+SPARKLING,,Brut Nature,,,35
+SPARKLING,,,,,
+SPARKLING,BELLAVISTA,,,,
+SPARKLING,,"Franciacorta Granc Cuvée Brut 0,375",HALF_BOTTLE,,28
+SPARKLING,LOVERA ,,,,
+SPARKLING,,Franciacorta Brut,,,35
+SPARKLING,MARCHESINE,,,,
+SPARKLING,,Brut Nitens,,,35
+SPARKLING,,Dos. Zero Audiens,,,35
+SPARKLING,,Saten,,,35
+SPARKLING,,,,,
+SPARKLING,,,,,
+SPARKLING,BENOTTO,,,,
+SPARKLING,,Brut Prosecco,,,15
+SPARKLING,,Extra Dry,,,15
+WHITE,,,,,
+WHITE,,,,,
+WHITE,ALBERT BESOMES,,,,
+WHITE,,Muscadet Tete de Linotte,,,20
+WHITE,ALBERT DE CONTI,,,,
+WHITE,,Sauvignon Couvee des Conti Bergerac,,,25
+WHITE,CHAUME-ARNAUD,,,,
+WHITE,,Cotes du Rhone Blanc,,,30
+WHITE,CHEVAU ,,,,
+WHITE,,Pouilly Fume La Charmette,,,45
+WHITE,COTEAUX DU GIENNOIS,,,,
+WHITE,,Calcaire 22,,,35
+WHITE,,Champ Gibault,,,30
+WHITE,DOMAINE D'ELISE,,,,
+WHITE,,Chablis 22,,,30
+WHITE,DOMAINE LAGUERRE,,,,
+WHITE,,Blange Ciste Lauger 21,,Cotes de Roussillon,40
+WHITE,LA TOUR DE L'EVEQUE,,,,
+WHITE,,Pètale de Rose,,,25
+WHITE,MICHEL REDDE,,,,
+WHITE,,Pouilly Fume La Moynerie,,,40
+WHITE,,Petit F...,,,40
+WHITE,WILLM,,,,
+WHITE,,Gewurztraminer,,,25
+WHITE,,,,,
+WHITE,QUINTA DE GOMARIZ,,,,
+WHITE,,Loureiro,,,20
+WHITE,,,,,
+WHITE,CLOUDY BAY,,,,
+WHITE,,Chardonnay,,,55
+WHITE,,Sauvignon Blanc,,,55
+WHITE,,,,,
+WHITE,,,,,
+WHITE,,,,,
+WHITE,,,,,
+WHITE,GRADIS'CIUTTA,,,,
+WHITE,,Friulano,,,24
+WHITE,,Malvasia,,,24
+WHITE,,Ribolla Gialla,,,24
+WHITE,,Sauvignon,,,24
+WHITE,MONVIERT,,,,
+WHITE,,Friulano,,,18
+WHITE,MUZIC,,,,
+WHITE,,Sauvignon Collio,,,22
+WHITE,POLENCIC,,,,
+WHITE,,Ribolla Gialla ,,,20
+WHITE,,Friulano,,,20
+WHITE,ROMEO ROSSI,,,,
+WHITE,,Friulano,,,35
+WHITE,,Malvasia,,,39
+WHITE,,Sauvignon,,,35
+WHITE,RONCO DEI TASSI,,,,
+WHITE,,Fosarin,,,30
+WHITE,,Malvasia,,,30
+WHITE,,Ribolla Gialla,,,30
+WHITE,,Friulano,,,30
+WHITE,SASSOCORNO,,,,
+WHITE,,Malvasia,,,36
+WHITE,,Roche,,,36
+WHITE,SCHIOPPETTO,,,,
+WHITE,,Friulano,,,39
+WHITE,,Pinot Bianco,,,39
+WHITE,,Pinot Grigio,,,39
+WHITE,,Sauvignon,,,39
+WHITE,TERCIC,,,,
+WHITE,,Friulano,,,30
+WHITE,,Ribolla Gialla,,,30
+WHITE,TOROS,,,,
+WHITE,,Ribolla Gialla Collio,,,35
+WHITE,,Sauvignon Collio,,,35
+WHITE,,Chardonnay,,,35
+WHITE,,Friulano,,,35
+WHITE,TUNELLA ,,,,
+WHITE,,Valmasia Malvasia,,,28
+WHITE,,Sauvignon,,,28
+WHITE,,Ribolla Gialla,,,28
+WHITE,,Friulano,,,28
+WHITE,VILLA VASI,,,,
+WHITE,,Malvasia Somnija,,,24
+WHITE,,,,,
+WHITE,ABBAZZIA NOVACELLA,,,,
+WHITE,,Kerner,,,20
+WHITE,,Sylvaner,,,20
+WHITE,KOLLERHOF,,,,
+WHITE,,Solaris Sisyphos,,,35
+WHITE,KURTATSCH,,,,
+WHITE,,Sauvignon,,,30
+WHITE,,Gewurztraminer,,,30
+WHITE,,Pinot Bianco,,,30
+WHITE,LEYA,,,,
+WHITE,,Pinot Bianco,,,35
+WHITE,,Terlaner,,,39
+WHITE,,Gewurztraminer,,,35
+WHITE,LUNELLI,,,,
+WHITE,,Pietragrande,,,25
+WHITE,,Villa Margon,,,75
+WHITE,MASO CANTANGHEL,,,,
+WHITE,,Sauvignon,,,29
+WHITE,SCHWEITZER,,,,
+WHITE,,Chardonnay Tschaupp,,,39
+WHITE,ST. MICHEL EPPAIN,,,,
+WHITE,,Sanct Valentin Sauvignon,,,50
+WHITE,,Pinot Bianco,,,24
+WHITE,,Gewurztraminer,,,24
+WHITE,VALLE ISARCO,,,,
+WHITE,,Gewurztraminer,,,30
+WHITE,,Kerner,,,30
+WHITE,,,,,
+WHITE,SAN NAZARIO,,,,
+WHITE,,Dulcmara,,,24
+WHITE,,,,,
+WHITE,GIANNI DOGLIA,,,,
+WHITE,,Moscato d'Asti,,,19
+WHITE,,,,,
+WHITE,VEVEY,,,,
+WHITE,,Blanch de Morgex et  de la Salle,,,25
+WHITE,,,,,
+WHITE,LUNAE,,,,
+WHITE,,Vermentino,,,45
+WHITE,,,,,
+WHITE,DONNA FUGATA,,,,
+WHITE,,La Fuga Contessa Entellina (Chardonnay),,,24
+WHITE,,Chiarandà Contessa Entellina (Chardonnay),,,49
+WHITE,,Vigna di Gabri DOC ,,,30
+WHITE,,Ben Ryè Passito di Pantelleria,,,45
+ROSSO,,,,,
+ROSSO,,,,,
+ROSSO,ALBERT BESOMES,,,,
+ROSSO,,Cabernet Sauvignon What The Phoque,,,24
+ROSSO,CHATEAU MOUTTE BLANC,,,,
+ROSSO,,Haut-Medoc Marguerite ,,,45
+ROSSO,CHAUME-ARNAUD,,,,
+ROSSO,,Saint Maurice Rouge,,Cotes du Rhone,35
+ROSSO,DOMAINE LAGUERRE,,,,
+ROSSO,,Rouge Eos Lauger 21,,,24
+ROSSO,,Rouge Le Ciste Lauger 22,,,40
+ROSSO,GUILHELM ET JEAN-HUGUES,,,,
+ROSSO,,Goisot 22,,,24
+ROSSO,TIRE PE,,,,
+ROSSO,,Bordeaux Rouge 19,,,30
+ROSSO,,,,,
+ROSSO,PEDRO XIMENEZ,,,,
+ROSSO,,Jerez de la Frontera 0.375 ,,,39
+ROSSO,SEMBRO,,,,
+ROSSO,,Vino Tinto ,,,20
+ROSSO,,,,,
+ROSSO,CLOUDY BAY,,,,
+ROSSO,,Pinot Nero,,,65
+ROSSO,,,,,
+ROSSO,,,,,
+ROSSO,CASTELVECCHIO,,,,
+ROSSO,,Cabernet Sauvignon ,,,30
+ROSSO,FERESIN DAVIDE,,,,
+ROSSO,,Refosco Nero di Botte,,,35
+ROSSO,GRADIS'CIUTTA,,,,
+ROSSO,,Merlot,,,30
+ROSSO,,Franconia,,,30
+ROSSO,MONVIERT,,,,
+ROSSO,,Merlot,,,20
+ROSSO,,Cabernet Franc,,,20
+ROSSO,MUZIC,,,,
+ROSSO,,Cabernet Sauvignon,,,22
+ROSSO,,Merlot,,,22
+ROSSO,POLENCIC,,,,
+ROSSO,,Merlot ,,,20
+ROSSO,RONCO DEI PINI,,,,
+ROSSO,,Schioppettino,,,30
+ROSSO,RONCO DEI TASSI,,,,
+ROSSO,,Cjarandon,,,30
+ROSSO,TOROS,,,,
+ROSSO,,Merlot Collio,,,35
+ROSSO,TUNELLA,,,,
+ROSSO,,Arcione,,,35
+ROSSO,,Merlot,,,28
+ROSSO,,Schioppettino,,,30
+ROSSO,,Cabernet Sauvignon,,,28
+ROSSO,,Pignolo,,,60
+ROSSO,SASSOCORNO,,,,
+ROSSO,, Rex (Refosco),,,24
+ROSSO,,Cuar,,,24
+ROSSO,SCHIOPPETTO,,,,
+ROSSO,,Blumeri,,,59
+ROSSO,,,,,
+ROSSO,BENEDETTI LA VILLA,,,,
+ROSSO,,Valpolicella Classico Superiore,,,22
+ROSSO,,Valpolicella Ripasso,,,26
+ROSSO,CASTELNUOVO DEL GARDA,,,,
+ROSSO,,Amarone della Valpollicella,,,30
+ROSSO,,Merlot Nero Assolutamente,,,25
+ROSSO,,Ca'Vegar Amarone della Valpolicella Riserva,,,30
+ROSSO,COLLI VECENTINI,,,,
+ROSSO,,Carlo V,,,25
+ROSSO,GIANNITESSARI,,,,
+ROSSO,,Pinot Noir,,,25
+ROSSO,SAN NAZARIO,,,,
+ROSSO,,Merlot Ruzante,,,24
+ROSSO,MONTECI,,,,
+ROSSO,,Roveiago,,,18
+ROSSO,MONTE DEL FRA,,,,
+ROSSO,,Valpolicella Classico,,,22
+ROSSO,,Valpolicella Classico Superiore,,,30
+ROSSO,,Valpolicella Ripasso,,,30
+ROSSO,MONTE ZOVO,,,,
+ROSSO,,Calinverno,,,39
+ROSSO,SANSONINA,,,,
+ROSSO,,Evaluna,,,30
+ROSSO,ZENATO,,,,
+ROSSO,,Valpolicella Classico Superiore ,,,24
+ROSSO,,Ripasso,,,35
+ROSSO,,Reciotto,,,55
+ROSSO,,Amarone,,,90
+ROSSO,,,,,
+ROSSO,ABBAZZIA NOVACELLA,,,,
+ROSSO,,Pinot Nero,,,20
+ROSSO,KOLLERHOF,,,,
+ROSSO,,Pinot Nero Mazon,,,39
+ROSSO,ST. MICHEL EPPAIN,,,,
+ROSSO,,Sanct Valentin Pinot Nero,,,65
+ROSSO,,Sanct Valentin Cabernet-Merlot,,,65
+ROSSO,,Fallwind Merlot Cabernet Riserva,,,30
+ROSSO,,Fallwind Pinot Nero,,,35
+ROSSO,,Lagrein,,,22
+ROSSO,,Pinot Nero,,,28
+ROSSO,,St. Magdalen,,,22
+ROSSO,,Cabernet,,,22
+ROSSO,,,,,
+ROSSO,CORINO,,,,
+ROSSO,,Nebbiolo,,,24
+ROSSO,,Ciabot Du Re,,,35
+ROSSO,MATTEO CORREGGIA,,,,
+ROSSO,,Roero,,,24
+ROSSO,,Barbera d'Alba,,,24
+ROSSO,LODALI,,,,
+ROSSO,,Dolcetto d'Alba,,,18
+ROSSO,LUIGI EINAUDI,,,,
+ROSSO,,Dogliani Superiore,,,25
+ROSSO,,,,,
+ROSSO,CAMIGLIANO,,,,
+ROSSO,,Rosso di Montalcino,,,25
+ROSSO,CANTINAIA,,,,
+ROSSO,,Rosso di Bolgheri,,,30
+ROSSO,CASALVENTO,,,,
+ROSSO,,Chianti,,,30
+ROSSO,,Chianti Riserva,,,30
+ROSSO,CENNATOIO,,,,
+ROSSO,,Chianti Classico,,,25
+ROSSO,RICCI,,,,
+ROSSO,,Rosso di Montalcino,,,30
+ROSSO,ROCCAPESTA,,,,
+ROSSO,,Ribeo,,,24
+ROSSO,,Morellino di Scansano,,,30
+ROSSO,,Morellino di Scansano Riserva,,,45
+ROSSO,,,,,
+ROSSO,LUNELLI,,,,
+ROSSO,,Ziggurat,,,25
+ROSSO,,Lampante,,,45
+ROSSO,,Aliotto,,,25
+ROSSO,,,,,
+ROSSO,ZACCAGNINI,,,,
+ROSSO,,magnum,,,45
+ROSSO,,Montepulciano Tralcetto,,,24
+ROSSO,,,,,
+ROSSO,COSTANTINO,,,,
+ROSSO,,Salento Rosso Passito,,,18
+ROSSO,GIULIANI,,,,
+ROSSO,,Lavarossa Primitivo DOC,,,28
+ROSSO,,,,,
+ROSSO,NANIHA,,,,
+ROSSO,,Cannonau di Sardegna,,,30
+ROSSO,,,,,
+ROSSO,DONNA FUGATA,,,,
+ROSSO,,Bell'Assai Vittoria DOC Frappato,,,30

@@ -1,0 +1,201 @@
+external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantity,storage_area,internal_notes,visible
+,SPARKLING,Champagne Venus Brut Grand Cru,AGRAPART,,BOTTLE,2017,39000,0,0,,Chardonnay 100%,True
+,SPARKLING,Champagne Avizoise Extra Brut Granc Cru,AGRAPART,,BOTTLE,0,26000,0,0,,Chardonnay 100%,True
+,SPARKLING,Champagne Terroirs Extra Brut Grand Cru,AGRAPART,,BOTTLE,0,15000,0,0,,Chardonnay 100%,True
+,SPARKLING,Champagne 7 Crus Extra Brut,AGRAPART,,BOTTLE,0,11000,0,0,,"Chardonnay 90%, Pinot Noir 10%",True
+,SPARKLING,Champagne Mineral Extra Brut Blanc de Blancs,AGRAPART,,BOTTLE,0,21000,0,0,,Chardonnay 100%,True
+,SPARKLING,Champagne Blanc de Noirs Brut,BRIGANDAT,,BOTTLE,0,6500,0,0,,Pinot Noir 100%,True
+,SPARKLING,Champagne Blanc de Blancs Brut,DE VILMONT,,BOTTLE,0,5500,0,0,,Chardonnay 100%,True
+,SPARKLING,Champagne Brut Premier Cru,DE VILMONT,,BOTTLE,0,6000,0,0,,"Chardonnay 50%, Pinot Noir 25%, Pinot Meunier 25% ",True
+,SPARKLING,Champagne Blanc de BLancs Prestige Extra Brut,DIEBOLT VALLOIS,,BOTTLE,0,8000,0,0,,Chardonnay 100%,True
+,SPARKLING,Champagne Fleur de Passion,DIEBOLT VALLOIS,,BOTTLE,0,0,0,0,,,True
+,SPARKLING,Couvé 747,JACQUESSON,,BOTTLE,0,15000,0,0,,"Chardonnay 61%, Pinot Meunier 21%, Pinot Noir 18%",True
+,SPARKLING,Couvé 742,JACQUESSON,,BOTTLE,0,27000,0,0,,"Chardonnay 47%, Pinot Noir 33%, Pinot Meunier 20%",True
+,SPARKLING,Champagne Oeil de Perdrix Brut,JEAN VESSELLE,,BOTTLE,0,8000,0,0,,Pinot Noir 100%,True
+,SPARKLING,Champagne Premier Cru Brut Heritage,LOUIS BROCHET,,BOTTLE,0,12000,0,0,,"Pinot Noir 80%, Chardonnay 15%, Pinot Meunier 5%",True
+,SPARKLING,Champagne Blan de Blancs,MARIE LE BRUN,,BOTTLE,0,9000,0,0,,Chardonnay 100%,True
+,SPARKLING,Champagne Grand Cru,MAURICE VESSELLE ,,BOTTLE,2007,7000,0,0,,"Pinot Noir 80%, Chardonnay 20% ",True
+,SPARKLING,Champagne Extra Brut Mill.,MICHEL GONET,,BOTTLE,0,6000,0,0,,Chardonnay 100%,True
+,SPARKLING,Champagne Blanc de Blancs Brut,PETIT-CAMUSAT,,BOTTLE,0,7000,0,0,,Pinot Blanc 100%,True
+,SPARKLING,Champagne,ROBERT AILLAT,,BOTTLE,0,9000,0,0,,Pinot Meunier 100%,True
+,SPARKLING,Champagne L'Equilibre Grand Cru,SADI MALOT,,BOTTLE,0,7000,0,0,,"Chardonnay 50%, Pinot Noir 50%",True
+,SPARKLING,Champagne Blanc de Blancs Brut,SEBASTIEN LEFEVRE,,BOTTLE,0,5000,0,0,,Chardonnay 100%,True
+,SPARKLING,Champagne Millésime,SEBASTIEN LEFEVRE,,BOTTLE,2014,6000,0,0,,"Chardonnay 50%, Pinot Noir 41%, Pinot Meunier 9%",True
+,SPARKLING,Champagne Blanc de Blancs Brut Reserve Grand Cru,VAZART,,BOTTLE,0,8000,0,0,,Chardonnay 100%,True
+,SPARKLING,Vouvray,LA GALINIERE,,BOTTLE,0,3600,0,0,,,True
+,SPARKLING,Imperial Brut,GRAMONA,,BOTTLE,0,6000,0,0,,,True
+,SPARKLING,La Cuvee Brut,GRAMONA,,BOTTLE,0,4000,0,0,,,True
+,SPARKLING,Airali Pas Dosè,ALTA LANGA,,BOTTLE,0,3600,0,0,,,True
+,SPARKLING,Extra Brut Noir Collection,FARFALLA,,BOTTLE,0,4500,0,0,,,True
+,SPARKLING,Extra Brut Milesimato,ALTILIA,,BOTTLE,0,3600,0,0,,,True
+,SPARKLING,Noire Nature,CESARINI SFORZA,,BOTTLE,0,4500,0,0,,,True
+,SPARKLING,Extra Brut,CESARINI SFORZA,,BOTTLE,0,4500,0,0,,,True
+,SPARKLING,Aquila Reale,CESARINI SFORZA,,BOTTLE,0,9000,0,0,,,True
+,SPARKLING,Couvee '85,MONFORT,,BOTTLE,0,3500,0,0,,,True
+,SPARKLING,Le General Blanc,MONFORT,,BOTTLE,0,5500,0,0,,,True
+,SPARKLING,Le General Dallemagne,MONFORT,,BOTTLE,0,5500,0,0,,,True
+,SPARKLING,Rosé,MONFORT,,BOTTLE,0,3900,0,0,,,True
+,SPARKLING,Couvee '28,ROTARI,,BOTTLE,0,3500,0,0,,,True
+,SPARKLING,Brut Nature,VEVEY,,BOTTLE,0,3500,0,0,,,True
+,SPARKLING,"Franciacorta Granc Cuvée Brut 0,375",BELLAVISTA,,HALF_BOTTLE,0,2800,0,0,,,True
+,SPARKLING,Franciacorta Brut,LOVERA ,,BOTTLE,0,3500,0,0,,,True
+,SPARKLING,Brut Nitens,MARCHESINE,,BOTTLE,0,3500,0,0,,,True
+,SPARKLING,Dos. Zero Audiens,MARCHESINE,,BOTTLE,0,3500,0,0,,,True
+,SPARKLING,Saten,MARCHESINE,,BOTTLE,0,3500,0,0,,,True
+,SPARKLING,Brut Prosecco,BENOTTO,,BOTTLE,0,1500,0,0,,,True
+,SPARKLING,Extra Dry,BENOTTO,,BOTTLE,0,1500,0,0,,,True
+,WHITE,Muscadet Tete de Linotte,ALBERT BESOMES,,BOTTLE,0,2000,0,0,,,True
+,WHITE,Sauvignon Couvee des Conti Bergerac,ALBERT DE CONTI,,BOTTLE,0,2500,0,0,,,True
+,WHITE,Cotes du Rhone Blanc,CHAUME-ARNAUD,,BOTTLE,0,3000,0,0,,,True
+,WHITE,Pouilly Fume La Charmette,CHEVAU ,,BOTTLE,0,4500,0,0,,,True
+,WHITE,Calcaire 22,COTEAUX DU GIENNOIS,,BOTTLE,0,3500,0,0,,,True
+,WHITE,Champ Gibault,COTEAUX DU GIENNOIS,,BOTTLE,0,3000,0,0,,,True
+,WHITE,Chablis 22,DOMAINE D'ELISE,,BOTTLE,0,3000,0,0,,,True
+,WHITE,Blange Ciste Lauger 21,DOMAINE LAGUERRE,,BOTTLE,0,4000,0,0,,Cotes de Roussillon,True
+,WHITE,Pètale de Rose,LA TOUR DE L'EVEQUE,,BOTTLE,0,2500,0,0,,,True
+,WHITE,Pouilly Fume La Moynerie,MICHEL REDDE,,BOTTLE,0,4000,0,0,,,True
+,WHITE,Petit F...,MICHEL REDDE,,BOTTLE,0,4000,0,0,,,True
+,WHITE,Gewurztraminer,WILLM,,BOTTLE,0,2500,0,0,,,True
+,WHITE,Loureiro,QUINTA DE GOMARIZ,,BOTTLE,0,2000,0,0,,,True
+,WHITE,Chardonnay,CLOUDY BAY,,BOTTLE,0,5500,0,0,,,True
+,WHITE,Sauvignon Blanc,CLOUDY BAY,,BOTTLE,0,5500,0,0,,,True
+,WHITE,Friulano,GRADIS'CIUTTA,,BOTTLE,0,2400,0,0,,,True
+,WHITE,Malvasia,GRADIS'CIUTTA,,BOTTLE,0,2400,0,0,,,True
+,WHITE,Ribolla Gialla,GRADIS'CIUTTA,,BOTTLE,0,2400,0,0,,,True
+,WHITE,Sauvignon,GRADIS'CIUTTA,,BOTTLE,0,2400,0,0,,,True
+,WHITE,Friulano,MONVIERT,,BOTTLE,0,1800,0,0,,,True
+,WHITE,Sauvignon Collio,MUZIC,,BOTTLE,0,2200,0,0,,,True
+,WHITE,Ribolla Gialla,POLENCIC,,BOTTLE,0,2000,0,0,,,True
+,WHITE,Friulano,POLENCIC,,BOTTLE,0,2000,0,0,,,True
+,WHITE,Friulano,ROMEO ROSSI,,BOTTLE,0,3500,0,0,,,True
+,WHITE,Malvasia,ROMEO ROSSI,,BOTTLE,0,3900,0,0,,,True
+,WHITE,Sauvignon,ROMEO ROSSI,,BOTTLE,0,3500,0,0,,,True
+,WHITE,Fosarin,RONCO DEI TASSI,,BOTTLE,0,3000,0,0,,,True
+,WHITE,Malvasia,RONCO DEI TASSI,,BOTTLE,0,3000,0,0,,,True
+,WHITE,Ribolla Gialla,RONCO DEI TASSI,,BOTTLE,0,3000,0,0,,,True
+,WHITE,Friulano,RONCO DEI TASSI,,BOTTLE,0,3000,0,0,,,True
+,WHITE,Malvasia,SASSOCORNO,,BOTTLE,0,3600,0,0,,,True
+,WHITE,Roche,SASSOCORNO,,BOTTLE,0,3600,0,0,,,True
+,WHITE,Friulano,SCHIOPPETTO,,BOTTLE,0,3900,0,0,,,True
+,WHITE,Pinot Bianco,SCHIOPPETTO,,BOTTLE,0,3900,0,0,,,True
+,WHITE,Pinot Grigio,SCHIOPPETTO,,BOTTLE,0,3900,0,0,,,True
+,WHITE,Sauvignon,SCHIOPPETTO,,BOTTLE,0,3900,0,0,,,True
+,WHITE,Friulano,TERCIC,,BOTTLE,0,3000,0,0,,,True
+,WHITE,Ribolla Gialla,TERCIC,,BOTTLE,0,3000,0,0,,,True
+,WHITE,Ribolla Gialla Collio,TOROS,,BOTTLE,0,3500,0,0,,,True
+,WHITE,Sauvignon Collio,TOROS,,BOTTLE,0,3500,0,0,,,True
+,WHITE,Chardonnay,TOROS,,BOTTLE,0,3500,0,0,,,True
+,WHITE,Friulano,TOROS,,BOTTLE,0,3500,0,0,,,True
+,WHITE,Valmasia Malvasia,TUNELLA ,,BOTTLE,0,2800,0,0,,,True
+,WHITE,Sauvignon,TUNELLA ,,BOTTLE,0,2800,0,0,,,True
+,WHITE,Ribolla Gialla,TUNELLA ,,BOTTLE,0,2800,0,0,,,True
+,WHITE,Friulano,TUNELLA ,,BOTTLE,0,2800,0,0,,,True
+,WHITE,Malvasia Somnija,VILLA VASI,,BOTTLE,0,2400,0,0,,,True
+,WHITE,Kerner,ABBAZZIA NOVACELLA,,BOTTLE,0,2000,0,0,,,True
+,WHITE,Sylvaner,ABBAZZIA NOVACELLA,,BOTTLE,0,2000,0,0,,,True
+,WHITE,Solaris Sisyphos,KOLLERHOF,,BOTTLE,0,3500,0,0,,,True
+,WHITE,Sauvignon,KURTATSCH,,BOTTLE,0,3000,0,0,,,True
+,WHITE,Gewurztraminer,KURTATSCH,,BOTTLE,0,3000,0,0,,,True
+,WHITE,Pinot Bianco,KURTATSCH,,BOTTLE,0,3000,0,0,,,True
+,WHITE,Pinot Bianco,LEYA,,BOTTLE,0,3500,0,0,,,True
+,WHITE,Terlaner,LEYA,,BOTTLE,0,3900,0,0,,,True
+,WHITE,Gewurztraminer,LEYA,,BOTTLE,0,3500,0,0,,,True
+,WHITE,Pietragrande,LUNELLI,,BOTTLE,0,2500,0,0,,,True
+,WHITE,Villa Margon,LUNELLI,,BOTTLE,0,7500,0,0,,,True
+,WHITE,Sauvignon,MASO CANTANGHEL,,BOTTLE,0,2900,0,0,,,True
+,WHITE,Chardonnay Tschaupp,SCHWEITZER,,BOTTLE,0,3900,0,0,,,True
+,WHITE,Sanct Valentin Sauvignon,ST. MICHEL EPPAIN,,BOTTLE,0,5000,0,0,,,True
+,WHITE,Pinot Bianco,ST. MICHEL EPPAIN,,BOTTLE,0,2400,0,0,,,True
+,WHITE,Gewurztraminer,ST. MICHEL EPPAIN,,BOTTLE,0,2400,0,0,,,True
+,WHITE,Gewurztraminer,VALLE ISARCO,,BOTTLE,0,3000,0,0,,,True
+,WHITE,Kerner,VALLE ISARCO,,BOTTLE,0,3000,0,0,,,True
+,WHITE,Dulcmara,SAN NAZARIO,,BOTTLE,0,2400,0,0,,,True
+,WHITE,Moscato d'Asti,GIANNI DOGLIA,,BOTTLE,0,1900,0,0,,,True
+,WHITE,Blanch de Morgex et  de la Salle,VEVEY,,BOTTLE,0,2500,0,0,,,True
+,WHITE,Vermentino,LUNAE,,BOTTLE,0,4500,0,0,,,True
+,WHITE,La Fuga Contessa Entellina (Chardonnay),DONNA FUGATA,,BOTTLE,0,2400,0,0,,,True
+,WHITE,Chiarandà Contessa Entellina (Chardonnay),DONNA FUGATA,,BOTTLE,0,4900,0,0,,,True
+,WHITE,Vigna di Gabri DOC,DONNA FUGATA,,BOTTLE,0,3000,0,0,,,True
+,WHITE,Ben Ryè Passito di Pantelleria,DONNA FUGATA,,BOTTLE,0,4500,0,0,,,True
+,ROSSO,Cabernet Sauvignon What The Phoque,ALBERT BESOMES,,BOTTLE,0,2400,0,0,,,True
+,ROSSO,Haut-Medoc Marguerite,CHATEAU MOUTTE BLANC,,BOTTLE,0,4500,0,0,,,True
+,ROSSO,Saint Maurice Rouge,CHAUME-ARNAUD,,BOTTLE,0,3500,0,0,,Cotes du Rhone,True
+,ROSSO,Rouge Eos Lauger 21,DOMAINE LAGUERRE,,BOTTLE,0,2400,0,0,,,True
+,ROSSO,Rouge Le Ciste Lauger 22,DOMAINE LAGUERRE,,BOTTLE,0,4000,0,0,,,True
+,ROSSO,Goisot 22,GUILHELM ET JEAN-HUGUES,,BOTTLE,0,2400,0,0,,,True
+,ROSSO,Bordeaux Rouge 19,TIRE PE,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Jerez de la Frontera 0.375,PEDRO XIMENEZ,,BOTTLE,0,3900,0,0,,,True
+,ROSSO,Vino Tinto,SEMBRO,,BOTTLE,0,2000,0,0,,,True
+,ROSSO,Pinot Nero,CLOUDY BAY,,BOTTLE,0,6500,0,0,,,True
+,ROSSO,Cabernet Sauvignon,CASTELVECCHIO,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Refosco Nero di Botte,FERESIN DAVIDE,,BOTTLE,0,3500,0,0,,,True
+,ROSSO,Merlot,GRADIS'CIUTTA,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Franconia,GRADIS'CIUTTA,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Merlot,MONVIERT,,BOTTLE,0,2000,0,0,,,True
+,ROSSO,Cabernet Franc,MONVIERT,,BOTTLE,0,2000,0,0,,,True
+,ROSSO,Cabernet Sauvignon,MUZIC,,BOTTLE,0,2200,0,0,,,True
+,ROSSO,Merlot,MUZIC,,BOTTLE,0,2200,0,0,,,True
+,ROSSO,Merlot,POLENCIC,,BOTTLE,0,2000,0,0,,,True
+,ROSSO,Schioppettino,RONCO DEI PINI,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Cjarandon,RONCO DEI TASSI,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Merlot Collio,TOROS,,BOTTLE,0,3500,0,0,,,True
+,ROSSO,Arcione,TUNELLA,,BOTTLE,0,3500,0,0,,,True
+,ROSSO,Merlot,TUNELLA,,BOTTLE,0,2800,0,0,,,True
+,ROSSO,Schioppettino,TUNELLA,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Cabernet Sauvignon,TUNELLA,,BOTTLE,0,2800,0,0,,,True
+,ROSSO,Pignolo,TUNELLA,,BOTTLE,0,6000,0,0,,,True
+,ROSSO,Rex (Refosco),SASSOCORNO,,BOTTLE,0,2400,0,0,,,True
+,ROSSO,Cuar,SASSOCORNO,,BOTTLE,0,2400,0,0,,,True
+,ROSSO,Blumeri,SCHIOPPETTO,,BOTTLE,0,5900,0,0,,,True
+,ROSSO,Valpolicella Classico Superiore,BENEDETTI LA VILLA,,BOTTLE,0,2200,0,0,,,True
+,ROSSO,Valpolicella Ripasso,BENEDETTI LA VILLA,,BOTTLE,0,2600,0,0,,,True
+,ROSSO,Amarone della Valpollicella,CASTELNUOVO DEL GARDA,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Merlot Nero Assolutamente,CASTELNUOVO DEL GARDA,,BOTTLE,0,2500,0,0,,,True
+,ROSSO,Ca'Vegar Amarone della Valpolicella Riserva,CASTELNUOVO DEL GARDA,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Carlo V,COLLI VECENTINI,,BOTTLE,0,2500,0,0,,,True
+,ROSSO,Pinot Noir,GIANNITESSARI,,BOTTLE,0,2500,0,0,,,True
+,ROSSO,Merlot Ruzante,SAN NAZARIO,,BOTTLE,0,2400,0,0,,,True
+,ROSSO,Roveiago,MONTECI,,BOTTLE,0,1800,0,0,,,True
+,ROSSO,Valpolicella Classico,MONTE DEL FRA,,BOTTLE,0,2200,0,0,,,True
+,ROSSO,Valpolicella Classico Superiore,MONTE DEL FRA,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Valpolicella Ripasso,MONTE DEL FRA,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Calinverno,MONTE ZOVO,,BOTTLE,0,3900,0,0,,,True
+,ROSSO,Evaluna,SANSONINA,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Valpolicella Classico Superiore,ZENATO,,BOTTLE,0,2400,0,0,,,True
+,ROSSO,Ripasso,ZENATO,,BOTTLE,0,3500,0,0,,,True
+,ROSSO,Reciotto,ZENATO,,BOTTLE,0,5500,0,0,,,True
+,ROSSO,Amarone,ZENATO,,BOTTLE,0,9000,0,0,,,True
+,ROSSO,Pinot Nero,ABBAZZIA NOVACELLA,,BOTTLE,0,2000,0,0,,,True
+,ROSSO,Pinot Nero Mazon,KOLLERHOF,,BOTTLE,0,3900,0,0,,,True
+,ROSSO,Sanct Valentin Pinot Nero,ST. MICHEL EPPAIN,,BOTTLE,0,6500,0,0,,,True
+,ROSSO,Sanct Valentin Cabernet-Merlot,ST. MICHEL EPPAIN,,BOTTLE,0,6500,0,0,,,True
+,ROSSO,Fallwind Merlot Cabernet Riserva,ST. MICHEL EPPAIN,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Fallwind Pinot Nero,ST. MICHEL EPPAIN,,BOTTLE,0,3500,0,0,,,True
+,ROSSO,Lagrein,ST. MICHEL EPPAIN,,BOTTLE,0,2200,0,0,,,True
+,ROSSO,Pinot Nero,ST. MICHEL EPPAIN,,BOTTLE,0,2800,0,0,,,True
+,ROSSO,St. Magdalen,ST. MICHEL EPPAIN,,BOTTLE,0,2200,0,0,,,True
+,ROSSO,Cabernet,ST. MICHEL EPPAIN,,BOTTLE,0,2200,0,0,,,True
+,ROSSO,Nebbiolo,CORINO,,BOTTLE,0,2400,0,0,,,True
+,ROSSO,Ciabot Du Re,CORINO,,BOTTLE,0,3500,0,0,,,True
+,ROSSO,Roero,MATTEO CORREGGIA,,BOTTLE,0,2400,0,0,,,True
+,ROSSO,Barbera d'Alba,MATTEO CORREGGIA,,BOTTLE,0,2400,0,0,,,True
+,ROSSO,Dolcetto d'Alba,LODALI,,BOTTLE,0,1800,0,0,,,True
+,ROSSO,Dogliani Superiore,LUIGI EINAUDI,,BOTTLE,0,2500,0,0,,,True
+,ROSSO,Rosso di Montalcino,CAMIGLIANO,,BOTTLE,0,2500,0,0,,,True
+,ROSSO,Rosso di Bolgheri,CANTINAIA,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Chianti,CASALVENTO,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Chianti Riserva,CASALVENTO,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Chianti Classico,CENNATOIO,,BOTTLE,0,2500,0,0,,,True
+,ROSSO,Rosso di Montalcino,RICCI,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Ribeo,ROCCAPESTA,,BOTTLE,0,2400,0,0,,,True
+,ROSSO,Morellino di Scansano,ROCCAPESTA,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Morellino di Scansano Riserva,ROCCAPESTA,,BOTTLE,0,4500,0,0,,,True
+,ROSSO,Ziggurat,LUNELLI,,BOTTLE,0,2500,0,0,,,True
+,ROSSO,Lampante,LUNELLI,,BOTTLE,0,4500,0,0,,,True
+,ROSSO,Aliotto,LUNELLI,,BOTTLE,0,2500,0,0,,,True
+,ROSSO,magnum,ZACCAGNINI,,BOTTLE,0,4500,0,0,,,True
+,ROSSO,Montepulciano Tralcetto,ZACCAGNINI,,BOTTLE,0,2400,0,0,,,True
+,ROSSO,Salento Rosso Passito,COSTANTINO,,BOTTLE,0,1800,0,0,,,True
+,ROSSO,Lavarossa Primitivo DOC,GIULIANI,,BOTTLE,0,2800,0,0,,,True
+,ROSSO,Cannonau di Sardegna,NANIHA,,BOTTLE,0,3000,0,0,,,True
+,ROSSO,Bell'Assai Vittoria DOC Frappato,DONNA FUGATA,,BOTTLE,0,3000,0,0,,,True

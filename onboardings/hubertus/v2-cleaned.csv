@@ -1,0 +1,1002 @@
+external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantity,storage_area,internal_notes,visible
+,,Metodo Charmat Ruio Brut,Malibran,,BOTTLE,0,3500,585,276,,,True
+,,Metodo Charmat Rose Brut,Malibran,,BOTTLE,0,4000,585,58,,,True
+,,Metodo Charmat Col Fondo Sottoriva,Malibran,,BOTTLE,0,3500,585,14,,,True
+,,Metodo Charmat Credamora,Malibran,,BOTTLE,2021,4500,700,7,,,True
+,,Metodo Charmat Col Fondo vintage,Malibran,,BOTTLE,2016,0,0,3,,,True
+,,Metodo Classico BRUT ANCESTRALE,LIESELEHOF,,BOTTLE,0,7000,3250,10,,,True
+,,Metodo Classico BRUT SPUMANTE,H. LENTSCH,,BOTTLE,0,4500,1689,8,,,True
+,,Metodo Classico Zero Infinito,Pojer & Sandri,,BOTTLE,0,5500,1300,8,,,True
+,,Metodo Classico Dassie Favrel,Malibran,,BOTTLE,2014,5000,1500,5,,,True
+,,Metodo Classico BLANC DE NOIRS PAS DOSE,FRANZ HAAS,,BOTTLE,2018,6000,2360,7,,,True
+,,Metodo Classico Spumante Extra Brut,Bruno Giacosa,,BOTTLE,0,0,2200,1,,,True
+,,Metodo Classico Alta Langa Pas Dosé,Contratto,,BOTTLE,2017,5000,1584,2,,,True
+,,Metodo Classico Alta Langa Extra Brut,Ettore Germano,,BOTTLE,2019,5500,1900,9,,,True
+,,Metodo Classico Brut,Facchetti,,BOTTLE,0,5500,1620,32,,,True
+,,Metodo Classico Perle´Bianco,Ferrari,,BOTTLE,2015,8000,3500,8,,,True
+,,Metodo Classico Perle Rose,Ferrari,,BOTTLE,2016,8500,3900,8,,,True
+,,Metodo Classico Hausmannhof Riserva Brut,Haderburg,,BOTTLE,2013,8800,4200,1,,,True
+,,Metodo Classico Perlé Nero,Ferrari,,BOTTLE,2015,10800,6500,10,,,True
+,,Metodo Classico Giulio Ferrari,Ferrari,,BOTTLE,2010,25000,12500,3,,,True
+,,Metodo Classico Giulio Ferrari,Ferrari,,BOTTLE,2012,0,14300,5,,,True
+,,Metodo Classico Giulio Ferrari ROSE,Ferrari,,BOTTLE,2008,40000,19500,1,,,True
+,,CHAMPAGNE Brut Tradition,Michel Laval,,BOTTLE,0,0,2000,6,,,True
+,,CHAMPAGNE BRUT RESERVE ,CHARLES HEIDSIECK,,BOTTLE,0,10500,4400,1,,,True
+,,CHAMPAGNE Brut Intuition,Legras Haas,,BOTTLE,0,9000,3200,21,,,True
+,,CHAMPAGNE Reserve Perpetuelle,Maurice Groumier,,BOTTLE,0,11500,3800,5,,,True
+,,CHAMPAGNE Grand Cru Brut Nature,Sautiran,,BOTTLE,0,12000,4970,4,,,True
+,,CHAMPAGNE SPECIAL CUVEE,BOLLINGER,,BOTTLE,0,12000,5500,35,,,True
+,,CHAMPAGNE Cuvèe 745,Jacquesson,,BOTTLE,0,0,6200,5,,MAGAZZINO,True
+,,CHAMPAGNE Cuvee 746,Jacquesson,,BOTTLE,0,14800,7300,3,,,True
+,,CHAMPAGNE Cuvee 747,Jacquesson,,BOTTLE,0,14800,5760,3,,,True
+,,CHAMPAGNE BRUT NATURE 1er CRU Cumieres,GEORGES LAVAL,,BOTTLE,0,16000,0,3,,,True
+,,CHAMPAGNE BELLE EPOQUE,PERRIER JOUET,,BOTTLE,2012,33500,18900,1,,,True
+,,CHAMPAGNE Extra Brut,Perseval Farge,,BOTTLE,0,9900,4400,2,,,True
+,,CHAMPAGNE Blanc de Noirs,Palmer,,BOTTLE,0,13800,5500,3,,,True
+,,CHAMPAGNE Dans un Premier Temps,Dhondt Grellet,,BOTTLE,0,15000,5700,3,,,True
+,,CHAMPAGNE Blanc de NOIRS Nature,Laherte Freres,,BOTTLE,0,14200,5800,6,,,True
+,,CHAMPAGNE Classic Cuvée,Nyetimber,,BOTTLE,0,13500,5885,4,,,True
+,,CHAMPAGNE L´Ouverture BdN,Frederic Savart,,BOTTLE,0,16000,6000,4,,,True
+,,CHAMPAGNE Reserve Brut,Bereche,,BOTTLE,0,12500,6000,3,,,True
+,,CHAMPAGNE BdB ,Delamotte,,BOTTLE,0,15500,7900,2,,,True
+,,CHAMPAGNE Les Terres Fines BdB,Dhondt Grellet,,BOTTLE,0,0,7750,4,,,True
+,,CHAMPAGNE Blanc de Blancs,Billecart Salmon,,BOTTLE,0,16500,7900,6,,,True
+,,CHAMPAGNE Rive Gauche Pinot Meunier,Bereche,,BOTTLE,2020,0,8300,3,,,True
+,,CHAMPAGNE Entre Ciel y Terre,Bedel,,BOTTLE,2016,17500,8600,4,,,True
+,,CHAMPAGNE Brut Vintage,Billecart Salmon,,BOTTLE,2013,20800,8800,3,,,True
+,,CHAMPAGNE Beaux Regards Extrabrut 1er cru BDB,Bereche,,BOTTLE,2020,0,10800,3,,,True
+,,CHAMPAGNE 742 Degorgement Tardif,Jacquesson,,BOTTLE,0,0,9520,6,,,True
+,,CHAMPAGNE 1522 Extra Brut Grand Cru,Philipponnat,,BOTTLE,2016,20500,11200,1,,,True
+,,CHAMPAGNE Extra Brut Grand Cru,Egly Ouriet,,BOTTLE,0,24000,12000,5,,,True
+,,CHAMPAGNE Champ Cain,Jacquesson,,BOTTLE,2013,0,15300,2,,,True
+,,CHAMPAGNE DOM PERIGNON ,MOET & CHANDON,,BOTTLE,2012,39000,25000,2,,,True
+,,CHAMPAGNE Grand Siecle N26,Laurent Perrier,,BOTTLE,0,0,17100,3,,,True
+,,CHAMPAGNE DOM PERIGNON ,MOET & CHANDON,,BOTTLE,2015,0,17200,6,,,True
+,,CHAMPAGNE Cristal,Louis Roederer,,BOTTLE,2015,39000,25500,1,,,True
+,,CHAMPAGNE Grande Cuvée 169eme,Krug,,BOTTLE,0,39000,22900,2,,,True
+,,CHAMPAGNE SIR WINSTON,POL ROGER,,BOTTLE,2012,39000,23500,2,,,True
+,,CHAMPAGNE Le Leon,Philipponnat,,BOTTLE,2014,39000,27500,2,,,True
+,,CHAMPAGNE P2,MOET & CHANDON,,BOTTLE,2004,65000,38900,3,,,True
+,,CHAMPAGNE Initial,Selosse,,BOTTLE,0,90000,45000,1,,,True
+,,Champagne Rose ROSÉ,Legras Haas,,BOTTLE,0,0,3500,6,,,True
+,,Champagne Rose Solera Rose,Palmer,,BOTTLE,0,11500,4600,3,,,True
+,,Champagne Rose Rose de Meunier Extra Brut,Laherte Freres,,BOTTLE,0,12000,5200,3,,,True
+,,Champagne Rose CUVEE SPECIAL ROSE ,BOLLINGER,,BOTTLE,0,15500,8100,2,,,True
+,,Champagne Rose Rose Brut,Ruinart,,BOTTLE,0,16200,8200,3,,,True
+,,Champagne Rose Bulle de Rosé 1er Cru,Savart,,BOTTLE,0,0,8900,6,,,True
+,,Champagne Rose Rose 23esima,Krug,,BOTTLE,0,65000,34900,2,,,True
+,WHITE,PINOT BIANCO WEISSBURGUNDER,H. LENTSCH,,BOTTLE,2022,3500,1050,14,,,True
+,,PINOT BIANCO Weissburgunder  ,Unterortl,,BOTTLE,2022,5200,1310,4,,,True
+,,PINOT BIANCO RISERVA FLORA,GIRLAN,,BOTTLE,2018,4700,1440,16,,,True
+,,PINOT BIANCO Private Reserve,Falkenstein,,BOTTLE,2016,7000,1650,2,,,True
+,,PINOT BIANCO Kristallberg,Elena Walch,,BOTTLE,2022,6500,1700,12,,,True
+,,PINOT BIANCO Tyrol,Meran,,BOTTLE,2022,6000,1800,6,,,True
+,,PINOT BIANCO Limes,Ignaz Niedrist,,BOTTLE,2021,6000,2200,10,,,True
+,,PINOT BIANCO RISERVA VORBERG,TERLAN,,BOTTLE,2020,7800,2090,10,,,True
+,,PINOT BIANCO RISERVA VORBERG,TERLAN,,BOTTLE,2021,0,2300,24,,,True
+,,PINOT BIANCO RISERVA VORBERG,TERLAN,,BOTTLE,2015,9300,3700,5,,Late release Harpf,True
+,,PINOT BIANCO Phileo,Falkenstein,,BOTTLE,2018,8500,2680,1,,,True
+,,PINOT BIANCO Weissburgunder  ,Dönnhoff,,BOTTLE,2021,6200,2132,4,,,True
+,,PINOT BIANCO REINASSANCE,Gumphof,,BOTTLE,2019,6500,2700,2,,,True
+,,PINOT BIANCO Kirschgarten GG,Knipser,,BOTTLE,2020,7800,3600,5,,,True
+,,PINOT BIANCO Weisser Burgunder I,Von Winning,,BOTTLE,2015,9800,3700,4,,,True
+,,PINOT BIANCO Castellberg GC,Martin Waßmer,,BOTTLE,2021,8200,4000,9,,,True
+,,PINOT BIANCO RISERVA 5 YEARS,MERAN,,BOTTLE,2016,9800,4500,4,,,True
+,,PINOT BIANCO Weisser Burgunder S,Wittmann,,BOTTLE,2011,0,5300,2,,,True
+,,PINOT BIANCO SANCTISSIMUS,ST. PAULS,,BOTTLE,2017,11500,5500,7,,,True
+,,PINOT BIANCO RARITY,TERLAN,,BOTTLE,2010,27500,10800,2,,,True
+,,PINOT BIANCO RARITY,TERLAN,,BOTTLE,2008,0,13200,2,,,True
+,,PINOT BIANCO RARITY,TERLAN,,BOTTLE,2007,0,13700,2,,,True
+,,PINOT BIANCO RARITY,TERLAN,,BOTTLE,2006,0,14200,2,,,True
+,,CHARDONNAY CHARDONNAY,H. LENTSCH,,BOTTLE,2019,3500,1030,30,,,True
+,,CHARDONNAY Kreuth,Terlan,,BOTTLE,2022,4500,1400,13,,,True
+,,CHARDONNAY FLORA RISERVA,GIRLAN,,BOTTLE,2019,4800,1680,14,,,True
+,,CHARDONNAY St. Valentin,St. Michael Eppan,,BOTTLE,2020,4800,2000,8,,,True
+,,CHARDONNAY Crivelli,PETER ZEMMER,,BOTTLE,2021,5800,2540,8,,,True
+,,CHARDONNAY DORAN RISERVA,ANDRIAN,,BOTTLE,2020,6000,2600,9,,,True
+,,CHARDONNAY Chardonnay Vom Kalk,Ignaz Niedrist,,BOTTLE,2020,7500,3600,0,,,True
+,,CHARDONNAY Lowengang,Alois Lageder,,BOTTLE,2020,8800,4500,9,,,True
+,,CHARDONNAY Au,Tiefenbrunner,,BOTTLE,2020,0,5900,16,,,True
+,,CHARDONNAY Kreuzweg,Castelfeder,,BOTTLE,2019,12500,5600,4,,,True
+,,CHARDONNAY Kreuzweg,Castelfeder,,BOTTLE,2020,0,5600,7,,,True
+,,CHARDONNAY Kreuzweg,Castelfeder,,BOTTLE,2018,0,0,0,,,True
+,,CHARDONNAY  Curlan,Girlan,,BOTTLE,2019,13500,7000,3,,,True
+,,CHARDONNAY  Curlan,Girlan,,BOTTLE,2020,0,6000,7,,,True
+,,CHARDONNAY NAMA,Nals Margreid,,BOTTLE,2020,18500,7800,4,,,True
+,,CHARDONNAY Langhe Buschet,Moccagatta,,BOTTLE,2020,6500,1800,1,,,True
+,,CHARDONNAY Vie di Romans,Vie di Romans,,BOTTLE,2022,0,2100,18,,,True
+,,CHARDONNAY Vie di Romans,Vie di Romans,,BOTTLE,2021,5500,2000,6,,,True
+,,CHARDONNAY Chardonnay Malterdinger,Bernard Huber ,,BOTTLE,2021,0,2325,6,,,True
+,,CHARDONNAY CHARDONNAY GRANDE RESERVE,METZGER,,BOTTLE,2020,6000,2400,9,,,True
+,,CHARDONNAY Valentine ,Ca del Baio,,BOTTLE,2021,7500,2985,1,,,True
+,,CHARDONNAY Corrado di Manzano,Ronco del Gnemiz,,BOTTLE,2021,7500,2900,6,,,True
+,,CHARDONNAY Jura Chardonnay,Sylvain Jacquot,,BOTTLE,2022,0,3490,2,,,True
+,,CHARDONNAY Ronco Basso,Ronco del Gnemiz,,BOTTLE,2023,0,3450,6,,,True
+,,CHARDONNAY Kozana Chardonnay,Edi Simcic,,BOTTLE,2021,8200,3600,4,,,True
+,,CHARDONNAY Cortesar,Vie di Romans,,BOTTLE,2016,7200,3800,0,,,True
+,,CHARDONNAY Curie Climat ,Vie di Romans,,BOTTLE,2015,8500,3900,2,,,True
+,,CHARDONNAY Etichetta Scura,Borgo del Tiglio,,BOTTLE,2021,9000,3500,2,,,True
+,,CHARDONNAY Etichetta Scura,Borgo del Tiglio,,BOTTLE,2022,9000,3500,12,,,True
+,,CHARDONNAY Chardonnay Napa,Mondavi,,BOTTLE,2018,9000,4200,8,,,True
+,,CHARDONNAY SOL,RONCO DEL GNEMIZ,,BOTTLE,2021,0,0,5,,,True
+,,CHARDONNAY Block6 Chardonnay,Felton Road,,BOTTLE,2020,10500,5400,5,,,True
+,,CHARDONNAY Chardonnay,Timo Mayer,,BOTTLE,2022,11500,5500,5,,,True
+,,CHARDONNAY Rossj Bass,Gaja,,BOTTLE,2021,11200,6000,14,,,True
+,,CHARDONNAY Chardonnay Yarra,Yarra Yering,,BOTTLE,2021,12000,6000,2,,,True
+,,CHARDONNAY Chardonnay,By Farr,,BOTTLE,2022,13800,6100,13,,,True
+,,CHARDONNAY Nägelin,Ziereisen,,BOTTLE,2020,13200,6600,4,,,True
+,,CHARDONNAY Estate Chardonnay,The Hilt,,BOTTLE,2020,16500,7300,6,,,True
+,,CHARDONNAY Chardonnay Patagonia,Chacra,,BOTTLE,2022,0,7500,5,,,True
+,,CHARDONNAY Cote Vineyard Chardonnay,By Farr,,BOTTLE,2021,12500,8500,6,,,True
+,,CHARDONNAY Les Noisetiers,Kistler,,BOTTLE,2021,23000,11300,5,,,True
+,,CHARDONNAY Chardonnay ,Gantenbein,,BOTTLE,2018,23000,13600,3,,,True
+,,White Chablis,Droin,,BOTTLE,2023,5600,2390,15,,,True
+,,White Bourgogne Blanc Les Setilles ,Olivier Leflaive,,BOTTLE,2019,6200,2900,1,,,True
+,,White Bourgogne Blanc,Fontaine Gagnard,,BOTTLE,2021,6500,3000,3,,,True
+,,White Bourgogne Blanc,Mikulski,,BOTTLE,2020,6500,3200,2,,,True
+,,White Chablis 1er Vaillons,Droin,,BOTTLE,2022,0,3200,15,,,True
+,,White Chablis 1er Vaucoupin,Jean Paul Droin,,BOTTLE,2023,0,3500,12,,,True
+,,White Meursault,Cristian Bellang,,BOTTLE,2023,8300,4000,28,,,True
+,,White Saint Aubin 1er Cru En Creot,Lamy Pillot,,BOTTLE,2021,8500,4000,0,,,True
+,,White Chablis 1er Monte Tonnere,Droin,,BOTTLE,2022,8900,4200,0,,,True
+,,White Chablis 1er Montmains,Jean Paul Droin,,BOTTLE,2023,0,3900,12,,,True
+,,White Chablis 1er Monte Tonnere,Jean Paul Droin,,BOTTLE,2023,0,4500,12,,,True
+,,White Chablis 1er Vaulorent,Jean Paul Droin,,BOTTLE,2023,0,4500,12,,,True
+,,White Chablis 1er Vaucoupin,Nicolas Potel,,BOTTLE,2021,9500,4300,3,,,True
+,,White Chassagne Montrachet Village,Lamy Pillot,,BOTTLE,2021,10500,4700,10,,,True
+,,White Chassagne Village,Fontaine Gagnard,,BOTTLE,2021,18000,5700,2,,,True
+,,White Saint Romain Sous le Chateau,Olivier Leflaive,,BOTTLE,2020,12000,6000,4,,,True
+,,White Puligny Montrachet,Moingeon,,BOTTLE,2022,12500,6000,12,,,True
+,,White Chassagne 1er Cru Morgeot,Lamy Pillot,,BOTTLE,2021,14500,6900,4,,,True
+,,White Chablis Vaudesir,Jean Paul Droin,,BOTTLE,2022,0,6500,2,,,True
+,,White Chablis Valmur,Jean Paul Droin,,BOTTLE,2022,0,6500,2,,,True
+,,White Chablis Valmur,Jean Paul Droin,,BOTTLE,2023,0,7000,6,,,True
+,,White Meursault Vielles Vignes,Guy Bocard,,BOTTLE,2022,0,7550,6,,,True
+,,White Chablis Hommage a Luis,Jean Paul Droin,,BOTTLE,2022,0,7600,2,,,True
+,,White Chablis Hommage a Luis,Jean Paul Droin,,BOTTLE,2023,0,8300,6,,,True
+,,White Chablis Grenouilles,Jean Paul Droin,,BOTTLE,2022,0,7600,2,,,True
+,,White Meursault,Pierre Morey,,BOTTLE,2021,0,7900,3,,,True
+,,White Puligny Montrachet,Sauzet,,BOTTLE,2022,0,8000,2,,,True
+,,White Maltroie Chassagne 1er Cru,Fontaine Gagnard,,BOTTLE,2022,0,8400,3,,,True
+,,White Chablis Les Clos GC,Nicolas Potel,,BOTTLE,2020,0,9000,3,,,True
+,,White Meursault 1er Cru Blagny,Latour,,BOTTLE,2020,20500,8990,1,,,True
+,,White Puligny 1er Perrieres,Lucien Boillot,,BOTTLE,2022,23800,9500,9,,,True
+,,White Corton Charlemagne Grand Cru,Domaine Denis,,BOTTLE,2022,29200,15800,4,,,True
+,,White Puligny 1er Champ Gain,Sauzet,,BOTTLE,2022,0,17000,2,,,True
+,,GEWURZTRAMINER Gewürztraminer,Terlan,,BOTTLE,2023,3500,1000,34,,,True
+,,GEWURZTRAMINER Gewurztraminer Eisacktal,Pacherhof,,BOTTLE,2021,4800,1800,14,,,True
+,,GEWURZTRAMINER St. Valentin,St. Michael,,BOTTLE,2020,5800,2100,12,,,True
+,,GEWURZTRAMINER Gewurztraminer,Lieselehof,,BOTTLE,2020,5200,1800,13,,,True
+,,GEWURZTRAMINER Selection 12 Coteaux de Schengen,Henri Ruppert,,BOTTLE,2015,6500,1800,1,,,True
+,,GEWURZTRAMINER Grand Cru Altenberg,Frederic Mochel,,BOTTLE,2018,7000,1900,1,,,True
+,,GEWURZTRAMINER Nussbaumer,Tramin,,BOTTLE,2020,6200,2110,19,,,True
+,,GEWURZTRAMINER GC Hengst,Zind Humbrecht,,BOTTLE,2013,11800,5500,1,,,True
+,,PINOT GRIGIO Tradition,Terlan,,BOTTLE,2022,3500,900,20,,,True
+,,PINOT GRIGIO Grauburgunder,Wassererhof,,BOTTLE,2021,4200,1400,16,,,True
+,,PINOT GRIGIO Grauer Burgunder,Bernard Huber,,BOTTLE,2019,5800,1700,2,,,True
+,,PINOT GRIGIO Gris,Lis Neris,,BOTTLE,2019,5500,2050,5,,,True
+,,PINOT GRIGIO Castel Ringberg,Elena Walch,,BOTTLE,2023,6500,1800,14,,,True
+,,PINOT GRIGIO Giatl,Peter Zemmer ,,BOTTLE,2019,4900,1800,9,,,True
+,,PINOT GRIGIO Dessimis,Vie di Romans,,BOTTLE,2021,5500,2000,6,,,True
+,,PINOT GRIGIO Dessimis,Vie di Romans,,BOTTLE,2022,0,2100,24,,,True
+,,PINOT GRIGIO Grauburgunder,Dönnhoff,,BOTTLE,2021,6500,2100,0,,,True
+,,PINOT GRIGIO Grauburgunder ***,Knipser,,BOTTLE,2015,6200,2600,0,,,True
+,,PINOT GRIGIO Dessimis Millesimi,Vie di Romans,,BOTTLE,2008,7500,2600,2,,,True
+,,PINOT GRIGIO Riserva Ramato,Specogna,,BOTTLE,2020,7500,3000,5,,,True
+,,PINOT GRIGIO GG Schlossberg,Franz Keller,,BOTTLE,2020,6900,3100,3,,,True
+,,PINOT GRIGIO Kunst.stück,Kaltern,,BOTTLE,2019,9300,4000,7,,,True
+,,PINOT GRIGIO Würmlin ,Ziereisen,,BOTTLE,2020,10000,5200,4,,,True
+,,SYLVANER Sabiona,Kellerei Eisacktaler,,BOTTLE,2019,5500,2450,5,,,True
+,,SYLVANER Sylvaner,Pacherhof,,BOTTLE,2022,4500,1330,18,,,True
+,,SYLVANER Sabiona 16,Pacherhof,,BOTTLE,2016,9500,2450,1,,,True
+,,SYLVANER Aristos,Pacherhof,,BOTTLE,2013,0,0,2,,,True
+,,SYLVANER Eschendorf Am Lumpen 1655 GG,Sauer Horst,,BOTTLE,2018,6500,2700,6,,,True
+,,SYLVANER Schlossberg GG,Castell,,BOTTLE,2014,7200,4200,5,,,True
+,,SYLVANER Stiftsgarten,Neustift,,BOTTLE,2019,13300,6859,5,,,True
+,,GRUNER VELTLINER  Veltliner,Pacherhof,,BOTTLE,2020,4000,1350,16,,,True
+,,GRUNER VELTLINER Ried Achleiten,Jäger,,BOTTLE,2022,6000,2590,2,,,True
+,,GRUNER VELTLINER Kirchweg Smaragd,Hirtzberger,,BOTTLE,2021,7800,3479,27,,,True
+,,GRUNER VELTLINER Ried Loibenberg ,FX Pichler,,BOTTLE,2021,9800,3390,7,,,True
+,,GRUNER VELTLINER Vincents Spiegel 1,Brundlmayer,,BOTTLE,2018,7800,3750,2,,,True
+,,GRUNER VELTLINER Ried Steinertal,FX Pichler,,BOTTLE,2022,7500,5800,30,,,True
+,,GRUNER VELTLINER Ried Steinertal,FX Pichler,,BOTTLE,2021,7500,4240,6,,,True
+,,GRUNER VELTLINER Ried Loibenberg Smaragd,Weingut E. Knoll,,BOTTLE,2022,7800,4600,22,,,True
+,,GRUNER VELTLINER Ried Loibenberg Smaragd,Weingut E. Knoll,,BOTTLE,2021,7800,4600,3,,,True
+,,GRUNER VELTLINER Rotes Tor Smaragd,Hirtzberger,,BOTTLE,2022,9500,4300,35,,,True
+,,GRUNER VELTLINER Rotes Tor Smaragd,Hirtzberger,,BOTTLE,2021,9500,5200,5,,,True
+,,GRUNER VELTLINER Vinothekfüllung,Weingut E. Knoll,,BOTTLE,2022,12800,6900,1,,,True
+,,GRUNER VELTLINER Honivogl,Hirtberger,,BOTTLE,2022,15500,8800,11,,,True
+,,GRUNER VELTLINER Ried Kellerberg,FX Pichler,,BOTTLE,2023,0,9500,3,,,True
+,,RIESLING Aristos,Eisacktaler Kellerei,,BOTTLE,2020,4300,1360,12,,,True
+,,RIESLING Rotschiefer Sorentberg,Sorentberg,,BOTTLE,2020,5500,1700,7,,,True
+,,RIESLING Riesling Estate,Pallisser,,BOTTLE,2021,5000,1700,2,,,True
+,,RIESLING Spiegel Grand Cru,Eugene Mayer,,BOTTLE,2023,0,1900,6,,,True
+,,RIESLING Herzu Langhe Riesling,Ettore Germano,,BOTTLE,2021,4800,1900,5,,,True
+,,RIESLING Herzu Langhe 2019,Ettore Germano,,BOTTLE,2019,4800,1900,6,,,True
+,,RIESLING Hölle Spätlese,Künstler,,BOTTLE,2021,6800,2000,2,,,True
+,,RIESLING Kirschgarten GG (Pfalz),Philipp Kuhn,,BOTTLE,2021,6000,2300,1,,,True
+,,RIESLING Windbichl,Castel Juval,,BOTTLE,2021,8500,2700,4,,,True
+,,RIESLING Westhofener Erste Lage,Wittmann,,BOTTLE,2021,6800,3100,8,,,True
+,,RIESLING Anaduron,Falkenstein,,BOTTLE,2018,6800,2800,10,,,True
+,,RIESLING Steinertal,FX Pichler,,BOTTLE,2021,0,0,6,,,True
+,,RIESLING Zöbinger Heiligenstein,Brundlmayer,,BOTTLE,2021,7200,2975,5,,,True
+,,RIESLING Hermannshöhle Spätlese,Dönnhoff,,BOTTLE,2021,0,3200,3,,,True
+,,RIESLING Bockstein GG,Nik Weis St. Urbans,,BOTTLE,2021,0,3400,2,,,True
+,,RIESLING Enkircher Batterieberg,Immich Batterieberg,,BOTTLE,2017,8000,3700,2,,,True
+,,RIESLING Rudesheimer Berg Schlossberg Ehrenfels GG ,J. Leitz,,BOTTLE,2015,9500,3900,2,,,True
+,,RIESLING Rudesheimer Berg Schlossberg Ehrenfels GG ,J. Leitz,,BOTTLE,2020,0,0,6,,,True
+,,RIESLING Aulerde GG,Wittmann,,BOTTLE,2021,0,4200,6,,,True
+,,RIESLING Höllenpfad im Mühlenberg GG,Dönnhoff,,BOTTLE,2021,9700,4200,3,,,True
+,,RIESLING Niedermenningberg Herrenberg Spätlese,Molitor,,BOTTLE,2003,13500,4350,6,,,True
+,,RIESLING Schlossböckelheimer Felsenberg GG,Dönnhoff,,BOTTLE,2022,0,4500,11,,,True
+,,RIESLING Schlossböckelheimer Felsenberg GG,Dönnhoff,,BOTTLE,2023,0,4600,24,,,True
+,,RIESLING SPEZIAL,Jäger,,BOTTLE,2022,9200,4500,3,,,True
+,,RIESLING Herrenberg GG,Maximin Grünhaus,,BOTTLE,2022,0,4675,11,,,True
+,,RIESLING Scharzhofberger GG,Van Volxem,,BOTTLE,2021,10800,4700,5,,,True
+,,RIESLING Riesling Kellerberg,Knoll,,BOTTLE,2022,0,4750,12,,,True
+,,RIESLING Wehlener Sonnenuhr Spaetlese,J.J. Prum,,BOTTLE,2019,12500,4700,9,,,True
+,,RIESLING Graacher Himmelreich Auslese,J.J. Prum,,BOTTLE,2019,13000,4900,6,,,True
+,,RIESLING RR,Keller,,BOTTLE,2021,10500,5100,3,,,True
+,,RIESLING Riesling Hochrain,Hirtzberger,,BOTTLE,2023,0,5470,12,,,True
+,,RIESLING Ried Schutt,Knoll,,BOTTLE,2022,0,5500,5,,,True
+,,RIESLING Dellchen GG,Dönnhoff,,BOTTLE,2023,0,5500,6,,,True
+,,RIESLING Hermannshöhle GG,Dönnhoff,,BOTTLE,2022,0,5500,6,,,True
+,,RIESLING Hermannshöhle GG,Dönnhoff,,BOTTLE,2023,0,5700,12,,,True
+,,RIESLING Kiedrich Gräfenberg (Rheingau),Robert Weil,,BOTTLE,2011,14800,5500,3,,,True
+,,RIESLING Hölle 1. Gewächs (Rheingau),Künstler,,BOTTLE,2018,12000,5900,3,,,True
+,,RIESLING Ried Steinertal,FX Pichler,,BOTTLE,2023,0,5800,18,,,True
+,,RIESLING Loibenberg,FX Pichler,,BOTTLE,2021,11200,0,3,,,True
+,,RIESLING Jesuitengarten GG,Von Winning,,BOTTLE,2021,12500,6000,11,,,True
+,,RIESLING Vinothekfüllung,Knoll,,BOTTLE,2019,15500,6100,1,,,True
+,,RIESLING Vinothekfüllung,Knoll,,BOTTLE,2022,0,7900,6,,,True
+,,RIESLING Ried Kellerberg,FX Pichler,,BOTTLE,2021,17000,9500,12,,,True
+,,RIESLING 1000 Alte Reben,Sorentberg,,BOTTLE,2015,15000,7100,6,,,True
+,,RIESLING Rangen de Thann,Zind Humbrecht,,BOTTLE,2020,18000,8000,3,,,True
+,,RIESLING Sharzhofberger Kabinett,Egon Müller,,BOTTLE,2019,23000,8800,3,,,True
+,,RIESLING Riesling Singerriedel,Hirtzberger,,BOTTLE,2023,22500,9300,3,,,True
+,,RIESLING Wiltinger Braune Kupp,Egon Müller,,BOTTLE,2021,27500,10900,4,,,True
+,,RIESLING Gantenbein,Gantenbein,,BOTTLE,2018,30000,16500,3,,,True
+,,RIESLING Unendlich,FX Pichler,,BOTTLE,2021,30000,18900,1,,,True
+,,KERNER Aristos,Eisacktaler Kellerei,,BOTTLE,2021,4500,1300,23,,,True
+,,KERNER Sabiona,Eisacktaler Kellerei,,BOTTLE,2015,5800,2200,14,,,True
+,,KERNER GRANIT 960,Eisacktaler Kellerei,,BOTTLE,2020,0,10500,3,,,True
+,,SAUVIGNON  Indra,Girlan,,BOTTLE,2022,3500,969,42,,,True
+,,SAUVIGNON  Winkl,Terlan,,BOTTLE,2023,4900,1300,14,,,True
+,,SAUVIGNON  Folisny Breg,Ciringa - Tement,,BOTTLE,2022,0,1450,2,,,True
+,,SAUVIGNON  Lafoa,Schreckbichl - Colterenzio,,BOTTLE,2020,5500,1889,8,,,True
+,,SAUVIGNON  Vassal,Elfenberg,,BOTTLE,2023,6500,1700,21,,,True
+,,SAUVIGNON  Maso delle Rose,Josef Weger,,BOTTLE,2021,7500,1700,1,,,True
+,,SAUVIGNON  Sauvignon Flora,Girlan,,BOTTLE,2022,5500,1750,15,,,True
+,,SAUVIGNON  Oberberg,Kornell,,BOTTLE,2020,5200,2140,7,,,True
+,,SAUVIGNON  Cloudy Bay,Cloudy Bay,,BOTTLE,2023,5500,1900,6,,,True
+,,SAUVIGNON  WILD FERMENT,Greywacke,,BOTTLE,2021,5500,1839,3,,,True
+,,SAUVIGNON  Limes,Niedrist,,BOTTLE,2020,5800,2120,4,,,True
+,,SAUVIGNON  Piere,Vie di Romans,,BOTTLE,2021,5500,1900,19,,,True
+,,SAUVIGNON  Sauvignon Fumé,Abraham,,BOTTLE,2021,6800,2500,0,,,True
+,,SAUVIGNON  Salici,Ronco del Gnemiz,,BOTTLE,2021,0,2600,4,,,True
+,,SAUVIGNON  Iris,Ronco del Gnemiz,,BOTTLE,2021,0,2600,4,,,True
+,,SAUVIGNON  Retus,Falkenstein,,BOTTLE,2019,8000,2680,0,,,True
+,,SAUVIGNON  Lozeta,Ronco del Gnemiz,,BOTTLE,2021,7200,2900,0,,,True
+,,SAUVIGNON  Sancerre,Vacheron,,BOTTLE,2023,7800,3100,11,,,True
+,,SAUVIGNON  Ronco delle Mele,Venica,,BOTTLE,2022,8200,3100,9,,,True
+,,SAUVIGNON  Lozeta,Ronco del Gnemiz,,BOTTLE,2022,0,3200,4,,,True
+,,SAUVIGNON  SOL,Ronco del Gnemiz,,BOTTLE,2021,9200,3300,8,,,True
+,,SAUVIGNON  Peri,Ronco del Gnemiz,,BOTTLE,2021,7500,3340,1,,,True
+,,SAUVIGNON  Ertichetta Scura,Borgo del Tiglio,,BOTTLE,2022,9500,3500,10,,,True
+,,SAUVIGNON  Quarz ,Terlan,,BOTTLE,2020,0,0,6,,,True
+,,SAUVIGNON  Quarz ,Terlan,,BOTTLE,2022,8500,3600,31,,,True
+,,SAUVIGNON  TE KOKO,Cloudy Bay,,BOTTLE,2020,8800,3750,4,,,True
+,,SAUVIGNON  Les Hauts de Smith Blanc,Smith Haut Lafite,,BOTTLE,2018,8500,4000,2,,,True
+,,SAUVIGNON  Lieben Aich,Manincor,,BOTTLE,2022,10300,4600,6,,,True
+,,SAUVIGNON  Etienne Sancerre,Henri Bourgeois,,BOTTLE,2017,9000,4800,3,,,True
+,,SAUVIGNON  Vigna Rachtl,Tiefenbrunner,,BOTTLE,2020,11500,5000,2,,,True
+,,SAUVIGNON  Vigna Rachtl,Tiefenbrunner,,BOTTLE,2021,0,5300,12,,,True
+,,SAUVIGNON  Ried Zieregg,Tement,,BOTTLE,2019,9800,5100,4,,,True
+,,SAUVIGNON  Ried Zieregg,Tement,,BOTTLE,2020,0,4700,6,,,True
+,,SAUVIGNON  Sancerre Les Romains,Vacheron,,BOTTLE,2023,0,5900,6,,,True
+,,SAUVIGNON  Sancerre Les Romains,Alphonse Mellot,,BOTTLE,2021,0,6100,1,,,True
+,,SAUVIGNON  Sancerre la Grande Cote,Pascal Cotat,,BOTTLE,2023,13000,6700,4,,,True
+,,SAUVIGNON  Sancerre le Mont Damnee,Pascal Cotat,,BOTTLE,2023,0,6700,6,,,True
+,,SAUVIGNON  Sauvignon The Wine Collection ,St. Michael Eppan,,BOTTLE,2018,16500,7500,3,,,True
+,,SAUVIGNON  Baron de L,Ladoucette,,BOTTLE,2020,14200,7700,5,,,True
+,,SAUVIGNON  Buisson Renard,Dagueneau,,BOTTLE,2019,22000,0,2,,,True
+,,SAUVIGNON  Alteni di Brassica,Gaja,,BOTTLE,2016,24500,16000,3,,,True
+,,MULLER THURGAU Muller Thurgau ,Pacherhof,,BOTTLE,2022,3500,1200,10,,,True
+,,MULLER THURGAU Vinschgau,Unterortl,,BOTTLE,2022,4500,1190,10,,,True
+,,MULLER THURGAU Feldmarshall Von Fenner,Tiefenbrunner,,BOTTLE,2020,7300,3400,13,,,True
+,,White Lugana,Olivini,,BOTTLE,2022,3500,800,13,,,True
+,,White Boschera Centogufi,Malibran,,BOTTLE,2021,3800,700,9,,,True
+,,White Moscato Giallo Secco,Franz Haas,,BOTTLE,2022,5500,1600,4,,,True
+,,White Moscato ,Pfefferer,,BOTTLE,2022,0,0,3,,,True
+,,White Carjcanti,Gulfi,,BOTTLE,2022,5800,2200,7,,,True
+,,White Steinkrügle Gutedel,Ziereisen,,BOTTLE,2020,6500,2100,4,,,True
+,,White Semillon,Principe Alberico,,BOTTLE,2017,0,3100,0,,,True
+,,White Fojana Rebula,Edi Simcic,,BOTTLE,2021,7800,3500,5,,,True
+,,White Aligoté Clos du Roy,Sylvain Pataille,,BOTTLE,2017,8800,3700,3,,,True
+,,White Franschhoek Semillon,Boekenhoutskloof,,BOTTLE,2021,8500,3800,6,,,True
+,,White Il San Lorenzo,Fattoria San Lorenzo,,BOTTLE,2008,8000,4000,1,,,True
+,,White Trebbiano d'Abruzzo,Emidio Pepe,,BOTTLE,2019,11200,4300,9,,,True
+,,White Pecorino d´Abruzzo,Emidio Pepe,,BOTTLE,2021,11200,4300,4,,,True
+,,White Albarino Pazo Barrantes,Marques Murrieta,,BOTTLE,2019,10200,4200,5,,,True
+,,White Condrieu Combe Malleval,Ogier,,BOTTLE,2022,14000,5700,2,,,True
+,,White Trebbiano ,Monteraponi,,BOTTLE,2022,11800,5800,5,,,True
+,,White Clos de la Coulee de Serrant,Nicolas Joly,,BOTTLE,2015,15000,7500,1,,,True
+,,White FMC,Ken Forrester,,BOTTLE,2020,16500,7200,5,,,True
+,,White SCHIST,Mullineux,,BOTTLE,2023,0,8300,3,,,True
+,,White GRANITE,Mullineux,,BOTTLE,2023,0,8300,3,,,True
+,,White Gutedel Jaspis Hoch 104,Ziereisen,,BOTTLE,2020,22500,11600,4,,,True
+,,White Mareneve,Federico Graziani,,BOTTLE,2021,7500,3700,0,,,True
+,,White Etna Bianco ,Terre Nere,,BOTTLE,2022,5200,2400,5,,,True
+,,"White Soave Classico ""I Palchi"" Foscarino",Inama,,BOTTLE,2020,6000,2500,5,,,True
+,,White Ameixambar,Adega do Vulcao,,BOTTLE,2021,6600,2600,3,,,True
+,,White Idda Bianco,Gaja,,BOTTLE,2021,8300,2700,2,,,True
+,,White Vigne Niche Montalto,Tenuta Terre Nere,,BOTTLE,2020,9000,4300,0,,,True
+,,White Vigne Niche Montalto,Tenuta Terre Nere,,BOTTLE,2021,9000,4300,0,,,True
+,,White Vigne Niche Montalto,Tenuta Terre Nere,,BOTTLE,2022,9000,4300,6,,,True
+,,White Santo Spirito,Tenuta Terre Nere,,BOTTLE,2022,0,4300,5,,,True
+,,White DU LOT,Inama,,BOTTLE,2018,9300,3500,5,,,True
+,,White Calvarino,Pieropan,,BOTTLE,2010,9300,4900,2,,,True
+,,Solaris Solaris Pustrissa,Laimburg,,BOTTLE,2020,4200,1400,2,,,True
+,,Solaris Vino del Passo,Lieselehof,,BOTTLE,2020,8300,3700,75,,,True
+,,White Erbaluce ,Ferrando,,BOTTLE,2022,4500,1200,5,,,True
+,,White Roero Arneis,Bruno Giacosa,,BOTTLE,2023,6200,2200,0,,,True
+,,White Roero Arneis BLANGE,Ceretto,,BOTTLE,2023,6200,1500,6,,,True
+,,White Derthona Timorasso,Borgogno,,BOTTLE,2021,7500,2400,11,,,True
+,,White Derthona Timorasso,Borgogno,,BOTTLE,2020,7500,0,6,,,True
+,,White Grand Fosto,Marina Coppi,,BOTTLE,2018,9000,3900,5,,,True
+,,White Derthona Scaldapulce,Borgogno,,BOTTLE,2020,13000,6900,2,,,True
+,,White Timorasso Montemarzino,Roagna,,BOTTLE,2022,20800,10400,3,,,True
+,,White Ribolla Gialla,I Clivi,,BOTTLE,2021,4500,800,6,,,True
+,,White Friulano,I Clivi,,BOTTLE,2021,4500,800,5,,,True
+,,White Slatnik (CH+Friulano),Radikon,,BOTTLE,2021,0,2100,2,,,True
+,,White Malvasia COLLEZIONE MILLESIMI,Vie di Romans,,BOTTLE,2009,7500,2600,3,,,True
+,,White Friulano,Borgo del Tiglio,,BOTTLE,2021,0,2300,6,,,True
+,,White Dolee Friulano,Vie di Romans,,BOTTLE,2008,7500,2400,4,,,True
+,,White San Zuan,Ronco del Gnemiz,,BOTTLE,2021,6800,2600,2,,,True
+,,White San Zuan,Ronco del Gnemiz,,BOTTLE,2022,0,3200,6,,,True
+,,White San Zuan,Ronco del Gnemiz,,BOTTLE,2023,0,3500,6,,,True
+,,White Malvasia Italo Bruno,Borgo del Tiglio,,BOTTLE,2021,8500,4100,8,,,True
+,,White Ronco della Chiesa (Friulano),Borgo del Tiglio,,BOTTLE,2021,9600,4600,9,,,True
+,,White Ribolla Gialla,Gravner,,BOTTLE,2015,14000,6600,7,,,True
+,,White Picolit SOL,Ronchi di Ciala,,BOTTLE,2009,20000,9500,2,,,True
+,,White Cuvee White Blend Saskia Miles,Mossop,,BOTTLE,2015,4200,0,23,,,True
+,,White Cuvee Contessa,Manincor,,BOTTLE,2023,4600,1400,14,,,True
+,,White Cuvee Manna,Franz Haas,,BOTTLE,2020,5200,1700,9,,,True
+,,White Cuvee Galea ,I Clivi,,BOTTLE,2021,5500,1900,10,,,True
+,,White Cuvee Flors di Uis,Vie di Romans,,BOTTLE,2022,6200,1900,8,,,True
+,,White Cuvee Stoan,Tramin,,BOTTLE,2022,6500,2000,6,,,True
+,,White Cuvee Trias,Ignaz Niedrist,,BOTTLE,2019,5600,2000,1,,,True
+,,White Cuvee Giovo,Bergkellerei Passeier,,BOTTLE,2019,6500,2100,0,,,True
+,,White Cuvee Aichberg,Kornell,,BOTTLE,2018,5800,1900,0,,,True
+,,White Cuvee Ciallabianco,Ronchi di Ciala,,BOTTLE,2020,7500,1900,4,,,True
+,,White Cuvee Bordeaux Blanc,Chasse Spleen,,BOTTLE,2018,6200,2400,4,,,True
+,,White Cuvee Old Vines White,Mullineux,,BOTTLE,2023,8200,2700,17,,,True
+,,White Cuvee Private Cuvee,Pacherhof,,BOTTLE,2020,6000,2900,18,,,True
+,,White Cuvee Nova Domus,Terlan,,BOTTLE,2020,7900,2600,16,,,True
+,,White Cuvee Nova Domus,Terlan,,BOTTLE,2021,0,2900,18,,,True
+,,White Cuvee Nova Domus,Terlan,,BOTTLE,2017,0,3700,2,,,True
+,,White Cuvee Nova Domus,Terlan,,BOTTLE,2019,0,3300,2,,,True
+,,White Cuvee Gravonia Blanco,Lopez de Heredia,,BOTTLE,2014,12500,2900,1,,,True
+,,White Cuvee Veliko Belo,Movia,,BOTTLE,2017,6800,3000,0,,,True
+,,White Cuvee DUT UN,Vie di Romans,,BOTTLE,2020,8800,3100,1,,,True
+,,White Cuvee Marsannier ***,Knipser,,BOTTLE,2018,8000,3200,4,,,True
+,,White Cuvee Paleo Bianco,Le Macchiole,,BOTTLE,2022,13000,4300,2,,,True
+,,White Cuvee Cervaro della Sala,Antinori,,BOTTLE,2022,10500,4900,21,,,True
+,,White Cuvee Studio di Bianco,Borgo del Tiglio,,BOTTLE,2022,9500,4900,9,,,True
+,,White Cuvee Palette Blanc,Chateau Simone,,BOTTLE,2019,0,5000,2,,,True
+,,White Cuvee Beyond the Clouds,Elena Walch,,BOTTLE,2021,10000,5200,-12,,,True
+,,White Cuvee Beyond the Clouds,Elena Walch,,BOTTLE,2022,10000,5400,55,,,True
+,,White Cuvee TAL WEISS,Bozen,,BOTTLE,2020,11100,5400,1,,,True
+,,White Cuvee Amrita,Schiopetto,,BOTTLE,2021,15000,5700,5,,,True
+,,White Cuvee BATAR,Querciabella,,BOTTLE,2019,12000,5900,1,,,True
+,,White Cuvee Blanc La Crau,Vieux Telegraphe,,BOTTLE,2020,18000,6100,0,,,True
+,,White Cuvee LR,Schreckbichl,,BOTTLE,2019,12000,7000,7,,,True
+,,White Cuvee Adamantis (SY/GV/PG/KE),Valle Isarco,,BOTTLE,2020,14500,6800,4,,,True
+,,White Cuvee Chateauneuf du Pape Blanc,La Nerthe,,BOTTLE,2022,11500,7700,1,,,True
+,,White Cuvee Hermitage Blanc Domaine Tourettes,Delas,,BOTTLE,2021,19500,8700,3,,,True
+,,White Cuvee Appius,St. Michael Eppan,,BOTTLE,2019,22500,9000,5,,,True
+,,White Cuvee Appius,St. Michael Eppan,,BOTTLE,2015,17000,0,2,,,True
+,,White Cuvee Appius,St. Michael Eppan,,BOTTLE,2013,17500,0,2,,,True
+,,White Cuvee Primo Grand Cuvee,Terlan,,BOTTLE,2020,27500,13400,5,,,True
+,,White Cuvee Primo Grand Cuvee,Terlan,,BOTTLE,2021,27500,13700,0,,,True
+,,White Cuvee Chateauneuf du Pape,Beaucastel,,BOTTLE,2020,25000,14100,3,,,True
+,,White Cuvee Tondonia Blanco,Lopez de Heredia,,BOTTLE,2011,0,4000,3,,,True
+,,Rosè Rose,H. Lentsch,,BOTTLE,2021,3500,1100,23,,,True
+,,Rosè Rosa die Frati,Ca die Frati,,BOTTLE,2022,4300,1100,28,,,True
+,,Rosè Rose de Manincor,Manincor,,BOTTLE,2021,4900,1500,14,,,True
+,,Rosè Whispering Angel,Chateua d'Esclans,,BOTTLE,2022,6500,1700,9,,,True
+,,Rosè Cerasuolo d´Abruzzo,Emidio Pepe,,BOTTLE,2022,8200,2300,2,,,True
+,,Rosè Sancerre Rose,Vacheron,,BOTTLE,2023,7500,3120,4,,,True
+,,Rosè Bandol Rose,Chateau Pibarnon,,BOTTLE,2022,0,3120,6,,,True
+,,Rosè GARRUS ,Chateua d'Esclans,,BOTTLE,2021,16000,7600,4,,,True
+,,Rosè Rosenmuskateller,Kaltern,,BOTTLE,2023,3500,700,3,,,True
+,,ORANGE Wine Aurona,Laimburg,,BOTTLE,2015,6000,1700,5,,,True
+,,ORANGE Wine SIVI,Radikon,,BOTTLE,2021,9500,2260,5,,,True
+,,ORANGE Wine Graue Freyheit,Heinrich,,BOTTLE,2020,7500,2200,4,,,True
+,,ALK FREI ALKOHOLFREI WEIß,VINUCI,,BOTTLE,2021,3500,0,14,,,True
+,,ALK FREI Chardonnay 1.2.0,Leitz,,BOTTLE,0,0,800,11,,,True
+,,ALK FREI PN 0.5,Leitz,,BOTTLE,0,0,800,3,,,True
+,,ALK FREI sekt,Leitz,,BOTTLE,0,0,900,2,,,True
+,RED,VERNATSCH St. Magdalener Classico,Hubertus,,BOTTLE,0,3500,950,49,,,True
+,RED,VERNATSCH Gschleier,Girlan,,BOTTLE,2021,4800,1300,15,,,True
+,RED,VERNATSCH Kalterersee Quintessence,Kaltern,,BOTTLE,2022,4200,1040,2,,,True
+,RED,VERNATSCH Gschleier Cellar Reserve,Girlan,,BOTTLE,2014,7200,3100,2,,,True
+,RED,PINOT NOIR Patricia,Girlan,,BOTTLE,2019,4000,1100,46,,,True
+,RED,PINOT NOIR Buchholz,Castelfeder,,BOTTLE,2021,5000,1300,8,,,True
+,RED,PINOT NOIR Saltner,Kaltern,,BOTTLE,2021,5400,1300,7,,,True
+,RED,PINOT NOIR Vassal,Elfenberg,,BOTTLE,2023,6500,1700,25,,,True
+,RED,PINOT NOIR Blauburrgunder,Unterortl,,BOTTLE,2019,6000,2200,7,,,True
+,RED,PINOT NOIR Trattmann Riserva ,Girlan,,BOTTLE,2020,6200,2700,33,,,True
+,RED,PINOT NOIR Pinot Nero Riserva,Niedrist,,BOTTLE,2019,7500,2890,11,,,True
+,RED,PINOT NOIR Vigna Kofl,Peter Zemmer,,BOTTLE,2021,8000,2800,1,,,True
+,RED,PINOT NOIR Riserva Mazzon,Gottardi,,BOTTLE,2016,0,3175,0,,,True
+,RED,PINOT NOIR Krafuss,Alois Lageder,,BOTTLE,2022,9300,3700,4,,,True
+,RED,PINOT NOIR Wildmonn,Wildmonn,,BOTTLE,2020,15000,4500,4,,,True
+,RED,PINOT NOIR Dona Noir,Hartmann Dona,,BOTTLE,2016,10800,5100,5,,,True
+,RED,PINOT NOIR Ponkler,Franz Haas,,BOTTLE,2018,12000,5700,0,,,True
+,RED,PINOT NOIR  Curlan,Girlan,,BOTTLE,2019,12000,7100,6,,,True
+,RED,PINOT NOIR  Curlan,Girlan,,BOTTLE,2020,0,6000,8,,,True
+,RED,PINOT NOIR Vigna Ganger,Girlan,,BOTTLE,2019,16000,8000,8,,,True
+,RED,PINOT NOIR Vigna das Lange Feld,Pfitscher,,BOTTLE,2019,18000,8900,5,,,True
+,RED,Red Krauthaker Crni,Krauthaker,,BOTTLE,2016,5500,2200,2,,,True
+,RED,Red Merlijaki,Tilia,,BOTTLE,2017,5600,2550,2,,,True
+,RED,Red PN Serrania de Malaga,Cortijo Aguilares,,BOTTLE,2021,6800,3000,5,,,True
+,RED,Red Sancerre Rouge,Vacheron,,BOTTLE,2022,8800,3790,6,,,True
+,RED,Red PN Carneros,Mondavi,,BOTTLE,2019,8500,4300,2,,,True
+,RED,Red Lunita,Chacra,,BOTTLE,2021,8200,4200,5,,,True
+,RED,Red Les Rosiers Coteaux Champenois,Marucie Grumier,,BOTTLE,2020,0,4700,2,,,True
+,RED,Red Chacra 55,Chacra,,BOTTLE,2021,0,4900,16,,,True
+,RED,Red TE WAHI,Cloudy Bay,,BOTTLE,2019,12000,5300,4,,,True
+,RED,Red Pino Rosso,Gulfi,,BOTTLE,2016,10800,5400,6,,,True
+,RED,Red Close Planted,Timo Mayer,,BOTTLE,2022,11000,5500,3,,,True
+,RED,Red Gippsland,William Downie,,BOTTLE,2022,0,5700,12,,,True
+,RED,Red Burn Cottage Vineyrad,Burn Cottage,,BOTTLE,2019,0,6000,4,,,True
+,RED,Red Yarra Pinot Noir,Yarra Yering,,BOTTLE,2018,12500,6000,3,,,True
+,RED,Red Calvert,Felton Road,,BOTTLE,2020,14800,6900,6,,,True
+,RED,Red Bull's Swamp,William Downie,,BOTTLE,2022,0,8500,3,,,True
+,RED,Red Tout Pres Pinot Noir,By Farr,,BOTTLE,2020,17500,8500,5,,,True
+,RED,Red Les Montes Coteaux Champenois,Bereche,,BOTTLE,2022,0,9400,3,,,True
+,RED,Red Willamette,Nicolas Jay,,BOTTLE,2021,0,10900,2,,,True
+,RED,Red Pinot Noir,Gantenbein,,BOTTLE,2018,25000,13600,7,,,True
+,RED,Red Pinot Noir,Gantenbein,,BOTTLE,2019,25000,0,2,,,True
+,RED,Red Pinot Noir,Gantenbein,,BOTTLE,2020,25000,0,2,,,True
+,RED,Red Pinot Noir,Gantenbein,,BOTTLE,2017,25000,0,3,,,True
+,RED,Red Spätburgunder Malterdinger,Bernard Huber ,,BOTTLE,2018,0,1930,5,,,True
+,RED,Red Schulen Spätburgunder,Ziereisen,,BOTTLE,2020,6500,2500,4,,,True
+,RED,Red Brauneberger Mandelgraben,Molitor,,BOTTLE,2018,7500,2995,5,,,True
+,RED,Red Kirschgarten GG,Knipser,,BOTTLE,2017,8500,3861,1,,,True
+,RED,Red Rosenthal GG,Adeneuer,,BOTTLE,2018,7800,3700,2,,,True
+,RED,Red Spätburgunder Eichberg Grosse Lage,Franz Keller,,BOTTLE,2017,0,4110,6,,,True
+,RED,Red Zipsin Jaspis,Ziereisen,,BOTTLE,2020,8500,4330,1,,,True
+,RED,Red Im Großen Garten,Knipser,,BOTTLE,2018,9500,4900,2,,,True
+,RED,Red Alte Lay GG (Ahr),Adeneuer,,BOTTLE,2019,9500,5346,2,,,True
+,RED,Red Schlossberg GG,Franz Keller,,BOTTLE,2020,0,6000,6,,,True
+,RED,Red Pfarringwer,Meyer Näkel,,BOTTLE,2017,13000,6900,2,,,True
+,RED,Red RDP,Knipser,,BOTTLE,2015,16000,9400,5,,,True
+,RED,Red Chorey les Beaune,Domaine Gay,,BOTTLE,2020,5800,2700,5,,,True
+,RED,Red Saint Aubin 1er Cru VV,Moingeon,,BOTTLE,2022,7800,3200,6,,,True
+,RED,Red Fixin,Molin,,BOTTLE,2022,7500,3600,4,,,True
+,RED,Red Bourgogne,Haisma,,BOTTLE,2022,8500,3900,2,,,True
+,RED,Red Gevrey Chambertin,Lucien Boillot,,BOTTLE,2021,8500,4290,10,,,True
+,RED,Red Haut Cotes de Nuits Clos du Prieure,Thibault Liger Belair,,BOTTLE,2020,9000,4390,2,,,True
+,RED,Red Monthelie,Parent,,BOTTLE,2022,0,4800,5,,,True
+,RED,Red Volnay  Les Serpens,Douhairet Porcheret,,BOTTLE,2022,11000,4800,4,,,True
+,RED,Red Volnay,Bouley,,BOTTLE,2011,11200,5000,2,,,True
+,RED,Red Morey St Denis VV,Stephane Magnien,,BOTTLE,2022,12200,5995,3,,,True
+,RED,Red Volnay 1er Clos des Angles,Lucien Boillot,,BOTTLE,2022,0,6000,5,,,True
+,RED,Red Corton  Perrieres GC,Philippe Girard,,BOTTLE,2017,14800,6200,1,,,True
+,RED,Red Vosne Romanee,Chevillon Chezeaux,,BOTTLE,2022,0,6900,1,,,True
+,RED,Red Morey St Denis,Arlaud,,BOTTLE,2022,0,7000,2,,,True
+,RED,Red Gevrey 1er Les Corbeuax,Lucien Boillot,,BOTTLE,2022,0,7200,5,,,True
+,RED,Red Marsannay Clos du Roy,Sylvain Pataille,,BOTTLE,2021,16100,7400,6,,,True
+,RED,Red Chambolle Musigny VV,Stephane Magnien,,BOTTLE,2022,15500,7500,4,,,True
+,RED,Red NSG 1er Cru Pruliers,Lucien Boillot,,BOTTLE,2021,17500,7700,4,,,True
+,RED,Red Gevrey Chambertin Lavaux St Jacques,Seguin,,BOTTLE,2017,17900,8200,6,,,True
+,RED,Red Chambolle Musigny,Hudelot Noellat,,BOTTLE,2022,0,12000,3,,,True
+,RED,Red Pommard 1er Cru Fremiers,Bouley,,BOTTLE,2010,0,12200,3,,,True
+,RED,Red Clos de Vougeot Grand Cru,Gros Frere et Soeur,,BOTTLE,2017,24500,15800,1,,,True
+,RED,Red Corton Grand Cru,Faiveley,,BOTTLE,2017,26000,16000,1,,,True
+,RED,Red Mazy Chambertin Grand Cru,Domaine Molin,,BOTTLE,2021,43000,29900,3,,,True
+,RED,LAGREIN Lagrein ,H. Lentsch,,BOTTLE,2018,3800,1000,40,,,True
+,RED,LAGREIN Lagrein Morus,H. Lentsch ,,BOTTLE,2020,5000,1789,27,,,True
+,RED,LAGREIN Abtei Muri,Muri Gries,,BOTTLE,2020,5700,1989,-1,,,True
+,RED,LAGREIN Lagrein Riserva Late Release,H. Lentsch ,,BOTTLE,2018,0,2100,6,,,True
+,RED,LAGREIN BERGER GEI,Niedrist,,BOTTLE,2020,6200,2600,5,,,True
+,RED,LAGREIN Linticlarus,Tiefenbrunner,,BOTTLE,2020,6500,2450,2,,,True
+,RED,LAGREIN Tor di Lupo,Andrian,,BOTTLE,2020,7200,2900,7,,,True
+,RED,LAGREIN MIRELL,WALDGRIES,,BOTTLE,2020,7900,2800,10,,,True
+,RED,LAGREIN Castel Ringberg,Elena Walch,,BOTTLE,2021,8200,2910,21,,,True
+,RED,LAGREIN Lagrein Morus Late Release,H. Lentsch ,,BOTTLE,2015,0,3000,4,,,True
+,RED,LAGREIN Taber Riserva,Kellerei Bozen,,BOTTLE,2020,7500,3100,18,,,True
+,RED,LAGREIN Porphyr Riserva,Kellerei Terlan,,BOTTLE,2020,8500,3670,6,,,True
+,RED,LAGREIN Porphyr Riserva,Kellerei Terlan,,BOTTLE,2021,8500,3600,14,,,True
+,RED,LAGREIN Lamarein,Unterganzner,,BOTTLE,2021,14500,4290,10,,,True
+,RED,LAGREIN Kunst.stück,Kaltern,,BOTTLE,2020,9300,4500,1,,,True
+,RED,LAGREIN Hofacker,Georg Ramoser,,BOTTLE,2019,10500,5000,6,,,True
+,RED,LAGREIN Weingarten Klosteranger,Muri Gries,,BOTTLE,2016,10500,5100,5,,,True
+,RED,LAGREIN Perflabilis,Griesbauer,,BOTTLE,2019,12800,5850,13,,,True
+,RED,LAGREIN Roblinus,Ansitz Waldgries,,BOTTLE,2017,12500,6490,2,,,True
+,RED,MERLOT Merlot Riserva,H. Lentsch,,BOTTLE,2017,3500,1290,20,,,True
+,RED,MERLOT Siebeneich,Schreckbichl,,BOTTLE,2020,4400,1650,15,,,True
+,RED,MERLOT 550,Istine,,BOTTLE,2019,5000,1800,2,,,True
+,RED,MERLOT Mühlweg,Niedrist,,BOTTLE,2020,6800,2550,10,,,True
+,RED,MERLOT Merlot Riserva Gant ,Andrian,,BOTTLE,2019,8000,3620,8,,,True
+,RED,MERLOT Brenntal Riserva,Kellerei Kurtatsch,,BOTTLE,2020,7500,3400,8,,,True
+,RED,MERLOT La Ricolma,San Giusto a Rentennano,,BOTTLE,2018,28500,4620,8,,,True
+,RED,MERLOT Merlot Collio,Radikon,,BOTTLE,2005,9900,4840,2,,,True
+,RED,MERLOT Rosso della Centa,Borgo del Tiglio,,BOTTLE,2018,13000,6400,3,,,True
+,RED,MERLOT Galatrona,Petrolo,,BOTTLE,2019,19500,8860,4,,,True
+,RED,MERLOT Palafreno,Querciabella,,BOTTLE,2017,22000,9500,5,,,True
+,RED,MERLOT Redigaffi,Tua Rita,,BOTTLE,2020,40000,22000,1,,,True
+,RED,MERLOT Masseto,ORNELLAIA,,BOTTLE,2020,135000,86000,1,,,True
+,RED,CABERNET Cabernet Riserva ,H. Lentsch,,BOTTLE,2018,3800,1270,14,,,True
+,RED,CABERNET 213 / 1,Peter Dipoli,,BOTTLE,2019,4500,1470,12,,,True
+,RED,CABERNET Saumur Champigny Paterne,Antoine Sanzay,,BOTTLE,2020,5500,1780,3,,,True
+,RED,CABERNET Cabernet,Unterganzner,,BOTTLE,2021,0,2200,12,,,True
+,RED,CABERNET Erminio,Bruno Grigolli,,BOTTLE,2018,6500,2500,8,,,True
+,RED,CABERNET Mumelter Riserva,Kellerei Bozen,,BOTTLE,2019,7000,2500,6,,,True
+,RED,CABERNET Amistar Edizione Cab Sav,Peter Sölva,,BOTTLE,2019,0,3790,2,,,True
+,RED,CABERNET Franschhoek CS,Boekenhoutskloof,,BOTTLE,2021,10500,3800,6,,,True
+,RED,CABERNET Stellenbosch CS,Boekenhoutskloof,,BOTTLE,2021,0,3800,12,,,True
+,RED,CABERNET Amistar CF,Peter Sölva,,BOTTLE,2020,8500,4300,7,,,True
+,RED,CABERNET Saumur Champigny Poyeux,Antoine Sanzay,,BOTTLE,2020,11200,4000,7,,,True
+,RED,CABERNET Freienfeld,Kurtatsch,,BOTTLE,2020,8500,3900,5,,,True
+,RED,CABERNET Lafoa,Schreckbichl,,BOTTLE,2020,8800,5500,11,,,True
+,RED,CABERNET Shay's Flat Cab Sav,Joshua Cooper,,BOTTLE,2020,12000,5700,5,,,True
+,RED,CABERNET Campo di Magnacosta (CF),Tenuta di Trinoro,,BOTTLE,2017,13500,5800,3,,,True
+,RED,CABERNET Cabernet Sauvignon Napa ,Heitz Cellars,,BOTTLE,2016,12500,6920,7,,,True
+,RED,CABERNET Cabernet Estate Santa Cruz Mountain,Ridge Vineyards,,BOTTLE,2019,14000,8000,7,,,True
+,RED,CABERNET Lafoa Harpf,Schreckbichl,,BOTTLE,2009,16200,8200,3,,,True
+,RED,CABERNET Toren,Tiefenbrunner,,BOTTLE,2020,17700,8300,1,,,True
+,RED,CABERNET Darmagi,Gaja,,BOTTLE,1995,24500,0,1,,,True
+,RED,CABERNET Paleo,Le Macchiole,,BOTTLE,2018,21500,10800,2,,,True
+,RED,CABERNET Sassicaia,Tenuta San Guido,,BOTTLE,2021,70000,30200,2,,,True
+,RED,CABERNET Sassicaia,Tenuta San Guido,,BOTTLE,2020,39000,18000,3,,,True
+,RED,CABERNET Sassicaia,Tenuta San Guido,,BOTTLE,2019,46500,24900,2,,,True
+,RED,CABERNET Sassicaia,Tenuta San Guido,,BOTTLE,2017,42000,18000,0,,,True
+,RED,CABERNET Sassicaia,Tenuta San Guido,,BOTTLE,2018,53400,30700,1,,,True
+,RED,CABERNET Sassicaia,Tenuta San Guido,,BOTTLE,1992,41000,0,0,,,True
+,RED,CABERNET Darmagi,Gaja,,BOTTLE,1995,34500,0,1,,,True
+,RED,VALPOLICELLA Valpolicella Classico,Ragose,,BOTTLE,2021,3500,790,9,,,True
+,RED,VALPOLICELLA Ripasso Progni,Salette,,BOTTLE,2018,4400,1330,32,,,True
+,RED,VALPOLICELLA Amarone della Valpolicela,Le Ragose,,BOTTLE,2012,8500,3660,22,,,True
+,RED,VALPOLICELLA Heletto,Garbole,,BOTTLE,2016,9200,3750,0,,,True
+,RED,VALPOLICELLA Amarone Pietro dal Cero,Ca dei Frati,,BOTTLE,2017,10500,4400,24,,,True
+,RED,VALPOLICELLA KAIROS IGT,Zymé,,BOTTLE,2018,9900,4390,2,,,True
+,RED,VALPOLICELLA Rosso del Merlo,Quintarelli,,BOTTLE,2015,13500,6900,7,,,True
+,RED,VALPOLICELLA Valpolicella Superiore,Giuseppe Quintarelli,,BOTTLE,2016,16500,7000,3,,,True
+,RED,VALPOLICELLA Amarone della Valpolicella,Bertani,,BOTTLE,2012,18000,7500,1,,,True
+,RED,VALPOLICELLA Valpolicella Superiore,Dal Forno,,BOTTLE,2013,20000,9500,4,,,True
+,RED,VALPOLICELLA Amarone Riserva,Rubinelli Vajol,,BOTTLE,2010,28500,10500,2,,,True
+,RED,VALPOLICELLA Amarone ,Quintarelli,,BOTTLE,2015,35000,21300,9,,,True
+,RED,VALPOLICELLA Amarone,Dal Forno,,BOTTLE,2013,43000,30500,3,,,True
+,RED,SYRAH Syrah Cortona,Amerighi Stefano,,BOTTLE,2019,6800,1650,13,,,True
+,RED,SYRAH Crozes-Hermitage Les Jalets,Paul Jaboulet Aine,,BOTTLE,2021,5500,2090,5,,,True
+,RED,SYRAH Gestad ,Ziereisen,,BOTTLE,2020,5200,2100,1,,,True
+,RED,SYRAH Mitterberg Syrah,Ignz Niedrist,,BOTTLE,2018,6600,2450,6,,,True
+,RED,SYRAH LP54,Lentsch,,BOTTLE,2020,6800,2900,8,,,True
+,RED,SYRAH Syrah,Quinta do Noval,,BOTTLE,2017,0,2600,1,,,True
+,RED,SYRAH Case Via,Fontodi,,BOTTLE,2019,7500,2990,2,,,True
+,RED,SYRAH Crozes-Hermitage,Alain Graillot,,BOTTLE,2022,0,3500,5,,,True
+,RED,SYRAH Swartland Syrah,Mullineux,,BOTTLE,2021,0,3500,12,,,True
+,RED,SYRAH Gigondas,Saint Cosme,,BOTTLE,2022,8500,3729,5,,,True
+,RED,SYRAH Syrah ,Boekenhoutskloof,,BOTTLE,2021,9500,3800,11,,,True
+,RED,SYRAH Bin 28 Syrah,Penfolds,,BOTTLE,2018,6800,3860,7,,,True
+,RED,SYRAH Cornas Nouvelle R,Guillaume Gilles,,BOTTLE,2022,8900,4750,5,,,True
+,RED,SYRAH Sonoma Coast Syrah,Ramey,,BOTTLE,2012,9800,4990,1,,,True
+,RED,SYRAH Yarra Valley Syrah,Timo Mayer,,BOTTLE,2022,11500,5500,5,,,True
+,RED,SYRAH Hermitage Rouge,Guigal,,BOTTLE,2019,12500,5620,1,,,True
+,RED,SYRAH Cote Rotie Ampodium,Domaine Rostaing,,BOTTLE,2022,0,6800,6,,,True
+,RED,SYRAH Cornas,Haisma,,BOTTLE,2022,12500,6400,6,,,True
+,RED,SYRAH Hermitage Rouge Domaine Tourettes,Delas,,BOTTLE,2021,18500,8600,3,,,True
+,RED,SYRAH Chateau d'Ampuis,Etienne Guigal,,BOTTLE,2015,17000,9200,4,,,True
+,RED,SYRAH Cornas,Clape,,BOTTLE,2021,0,11100,1,,,True
+,RED,SYRAH GRANITE Syrah,Mullineux,,BOTTLE,2021,0,12300,3,,,True
+,RED,SYRAH 10 Hoch4,Ziereisen,,BOTTLE,2018,22500,13000,2,,,True
+,RED,NEBBIOLO Langhe Nebbiolo ,Trediberri,,BOTTLE,2023,0,940,1,,,True
+,RED,NEBBIOLO Langhe Nebbiolo ,Vajra,,BOTTLE,2018,3800,1155,1,,,True
+,RED,NEBBIOLO Langhe Nebbiolo ,Produttori del Barbaresco,,BOTTLE,2022,3800,1100,3,,,True
+,RED,NEBBIOLO Langhe Nebbiolo ,Burlotto,,BOTTLE,2023,0,1500,5,,,True
+,RED,NEBBIOLO Langhe Nebbiolo ,Penna Currado,,BOTTLE,2023,0,1700,19,,,True
+,RED,NEBBIOLO Pian delle Mole,Giulia Negri,,BOTTLE,2022,5800,2000,2,,,True
+,RED,NEBBIOLO NO NAME,Borgogno,,BOTTLE,2020,7500,2483,3,,,True
+,RED,NEBBIOLO IL FAVOT,Aldo Conterno,,BOTTLE,2019,9000,3400,2,,,True
+,RED,NEBBIOLO Langhe Rosso,Roagna,,BOTTLE,2018,9500,3600,4,,,True
+,RED,NEBBIOLO Sito Moresco,Gaja,,BOTTLE,2021,0,4250,12,,,True
+,RED,NEBBIOLO Sito Moresco,Gaja,,BOTTLE,2019,0,4250,6,,,True
+,RED,NEBBIOLO Sito Moresco,Gaja,,BOTTLE,2016,0,4250,5,,,True
+,RED,NEBBIOLO Nebbiolo Ester Canale,Giovanni Rosso,,BOTTLE,2019,28000,0,4,,,True
+,RED,NEBBIOLO Nebbiolo Arione,Giacomo Conterno,,BOTTLE,2020,27000,12900,2,,,True
+,RED,BARBARESCO Barbaresco ,Produttori del Barbaresco,,BOTTLE,2019,5800,1850,0,,,True
+,RED,BARBARESCO Barbaresco,,,BOTTLE,2018,6500,1850,12,,,True
+,RED,BARBARESCO Asili,Produttori del Barbaresco,,BOTTLE,2019,9000,2800,4,,,True
+,RED,BARBARESCO Montefico,Produttori del Barbaresco,,BOTTLE,2019,9000,2800,5,,,True
+,RED,BARBARESCO Montestefano,Produttori del Barbaresco,,BOTTLE,2019,9000,2800,4,,,True
+,RED,BARBARESCO Muncagota,Produttori del Barbaresco,,BOTTLE,2019,9000,2800,4,,,True
+,RED,BARBARESCO Ovello,Produttori del Barbaresco,,BOTTLE,2019,9000,2800,8,,,True
+,RED,BARBARESCO Paje,Produttori del Barbaresco,,BOTTLE,2019,9000,2800,5,,,True
+,RED,BARBARESCO Pora,Produttori del Barbaresco,,BOTTLE,2019,9000,2800,6,,,True
+,RED,BARBARESCO Rabaja,Produttori del Barbaresco,,BOTTLE,2019,9000,2800,6,,,True
+,RED,BARBARESCO Rio Sordo,Produttori del Barbaresco,,BOTTLE,2019,9000,2800,8,,,True
+,RED,BARBARESCO Barbaresco Vallegrande,ca del baio,,BOTTLE,2019,7200,2815,0,,,True
+,RED,BARBARESCO Barbaresco,Ceretto,,BOTTLE,2021,8800,3375,2,,,True
+,RED,BARBARESCO Barbaresco Bordini,La Spinetta,,BOTTLE,2020,8500,4000,1,,,True
+,RED,BARBARESCO Barbaresco ,Francesco Versio,,BOTTLE,2020,8800,4200,12,,,True
+,RED,BARBARESCO Barbaresco ,Francesco Versio,,BOTTLE,2021,0,4300,18,,,True
+,RED,BARBARESCO Don Fiorino,Produttori del Barbaresco,,BOTTLE,2016,15200,4800,16,,,True
+,RED,BARBARESCO Barbaresco Martinenga,Marchesi Gresy,,BOTTLE,2018,0,5000,0,,,True
+,RED,BARBARESCO Barbaresco Rabaja,Bruno Rocca,,BOTTLE,2019,0,5700,6,,,True
+,RED,BARBARESCO Barbaresco Gallina,Ceretto,,BOTTLE,2019,15200,7300,4,,,True
+,RED,BARBARESCO Barbaresco Rabaja Riserva,Giuseppe Cortese,,BOTTLE,2016,15000,7750,6,,,True
+,RED,BARBARESCO BARBARESCO Asili Riserva,ca del baio,,BOTTLE,2018,16000,8280,3,,,True
+,RED,BARBARESCO Barbaresco Starderi Vürsu,La Spinetta,,BOTTLE,2019,16600,9800,6,,,True
+,RED,BARBARESCO Barbaresco Rabaja,Bruno Giacosa,,BOTTLE,2017,0,16500,1,,,True
+,RED,BARBARESCO Barbaresco Albesani,Roagna,,BOTTLE,2018,0,13300,2,,,True
+,RED,BARBARESCO Barbaresco Gallina,Roagna,,BOTTLE,2018,0,13300,2,,,True
+,RED,BARBARESCO Barbaresco Paje,Roagna,,BOTTLE,2019,0,14400,6,,,True
+,RED,BARBARESCO Barbaresco,Gaja,,BOTTLE,2019,32000,21800,10,,,True
+,RED,BARBARESCO Barbaresco,Gaja,,BOTTLE,2018,32000,15900,1,,,True
+,RED,BARBARESCO Barbaresco Asili Vecchie Vigne,Roagna,,BOTTLE,2019,0,31300,3,,,True
+,RED,BARBARESCO Barbaresco Harpf,Gaja,,BOTTLE,2004,41200,22900,3,,,True
+,RED,BARBARESCO Barbaresco Costa Russi,Gaja,,BOTTLE,1995,32500,0,1,,,True
+,RED,BAROLO Barolo Berri,Trediberri,,BOTTLE,2019,6800,2400,1,,,True
+,RED,BAROLO Barolo la Morra,Crissante,,BOTTLE,2020,7500,2200,14,,,True
+,RED,BAROLO Barolo Serralunga ,Ettore Germano,,BOTTLE,2019,6200,2730,11,,,True
+,RED,BAROLO Barolo Riserva,Boschetti,,BOTTLE,2015,10500,3000,4,,,True
+,RED,BAROLO Barolo Monforte,Domenico Clerico,,BOTTLE,2019,6500,3200,14,,,True
+,RED,BAROLO Barolo Ravera,Piero Benevelli,,BOTTLE,2019,7200,3000,13,,,True
+,RED,BAROLO Barolo Mosconi,Piero Benevelli,,BOTTLE,2018,6500,3200,2,,,True
+,RED,BAROLO Barolo Galina,Crissante,,BOTTLE,2019,0,3200,2,,,True
+,RED,BAROLO Barolo Capalot,Crissante,,BOTTLE,2019,0,3200,2,,,True
+,RED,BAROLO Barolo aArborina,Renato Corino,,BOTTLE,2019,7500,3300,1,,,True
+,RED,BAROLO Barolo Bussia,Giacomo Fenocchio,,BOTTLE,2018,7200,3600,1,,,True
+,RED,BAROLO Barolo In Vino Veritas,Borgogno,,BOTTLE,2019,8900,3650,12,,,True
+,RED,BAROLO Barolo Rocche Annunziata,Renato Corino,,BOTTLE,2019,0,3900,3,,,True
+,RED,BAROLO Barolo Rocche Annunziata,Trediberri,,BOTTLE,2019,9200,4000,15,,,True
+,RED,BAROLO Barolo Vigna Rionda,Pira Luigi,,BOTTLE,2018,9700,4735,1,,,True
+,RED,BAROLO Barolo Fossati Annata Storica,Borgogno,,BOTTLE,2013,13500,4800,3,,,True
+,RED,BAROLO Barolo la Tartufaia,Giulia Negri,,BOTTLE,2020,11200,5000,0,,,True
+,RED,BAROLO Barolo Riserva  ,Osvaldo Viberti,,BOTTLE,2016,11200,5000,10,,,True
+,RED,BAROLO Barolo Serra,Giovanni Rosso,,BOTTLE,2020,13000,5000,10,,,True
+,RED,BAROLO Barolo Aleste,Luciano Sandrone,,BOTTLE,2019,10800,5900,7,,,True
+,RED,BAROLO Barolo Liste,Borgogno,,BOTTLE,2019,0,5300,19,,,True
+,RED,BAROLO Barolo Bricco Ambrogio,Paolo Scavino,,BOTTLE,2019,0,5310,5,,,True
+,RED,BAROLO Barolo Bricco Ambrogio,Paolo Scavino,,BOTTLE,2020,0,5600,0,,,True
+,RED,BAROLO Bricco delle Viole,GD Vajra,,BOTTLE,2018,0,5300,5,,,True
+,RED,BAROLO Bricco delle Viole,GD Vajra,,BOTTLE,2017,10500,0,2,,,True
+,RED,BAROLO Barolo Mosconi Vigna Ped,Conterno Fantino,,BOTTLE,2019,12000,5750,5,,,True
+,RED,BAROLO Barolo le Vigne  ,Luciano Sandrone,,BOTTLE,2019,0,5900,6,,,True
+,RED,BAROLO Barolo le Vigne  ,Luciano Sandrone,,BOTTLE,2020,0,5300,6,,,True
+,RED,BAROLO Barolo Sori Ginestra,Conterno Fantino,,BOTTLE,2020,14500,6300,4,,,True
+,RED,BAROLO Barolo Ravera,Paolo Scavino,,BOTTLE,2019,0,6470,11,,,True
+,RED,BAROLO Barolo Ravera,Paolo Scavino,,BOTTLE,2020,0,6800,6,,,True
+,RED,BAROLO Barolo Monvigliero,Paolo Scavino,,BOTTLE,2019,12400,6470,4,,,True
+,RED,BAROLO Barolo Monvigliero,Paolo Scavino,,BOTTLE,2020,12400,7000,5,,,True
+,RED,BAROLO Barolo Pajana,Domenico Clerico,,BOTTLE,2014,14400,7045,2,,,True
+,RED,BAROLO Barolo Pajana,Domenico Clerico,,BOTTLE,2019,16200,6790,6,,,True
+,RED,BAROLO Barolo Aeroplanservaj,Domenico Clerico,,BOTTLE,2019,14000,7000,6,,,True
+,RED,BAROLO Barolo Prapo,Paolo Scavino,,BOTTLE,2020,0,6800,6,,,True
+,RED,BAROLO Barolo Dagromis,Gaja,,BOTTLE,2019,13500,7040,9,,,True
+,RED,BAROLO Barolo Dagromis,Gaja,,BOTTLE,2018,13500,7040,1,,,True
+,RED,BAROLO Barolo Serradenari,Giulia Negri,,BOTTLE,2020,16000,7200,12,,,True
+,RED,BAROLO Barolo Ciabot Mentin Ginestra,Domenico Clerico,,BOTTLE,2019,0,7200,6,,,True
+,RED,BAROLO Barolo Ciabot Mentin Ginestra,Domenico Clerico,,BOTTLE,2015,18900,8400,6,,,True
+,RED,BAROLO Barolo Ginestra Case Mate,Elio Grasso,,BOTTLE,2019,0,7559,2,,,True
+,RED,BAROLO Barolo Bric del Fiasc,Paolo Scavino,,BOTTLE,2019,0,7600,5,,,True
+,RED,BAROLO Barolo Bric del Fiasc,Paolo Scavino,,BOTTLE,2020,14800,6800,1,,,True
+,RED,BAROLO Barolo Via Nuova,Chiara Boschis,,BOTTLE,2020,14800,7600,10,,,True
+,RED,BAROLO Barolo Riserva Lazzarito,Ettore Germano,,BOTTLE,2016,15500,7680,14,,,True
+,RED,BAROLO Bussia 90 Dí,Giacomo Fenocchio,,BOTTLE,2015,16200,7820,2,,,True
+,RED,BAROLO Barolo Aleste Sibi et Paucis,Luciano Sandrone,,BOTTLE,2013,17200,8350,2,,,True
+,RED,BAROLO Barolo Cannubi Sibi et Paucis,Luciano Sandrone,,BOTTLE,2012,0,9000,6,,,True
+,RED,BAROLO Barolo Arborina,Elio Altare,,BOTTLE,2015,21800,9200,2,,,True
+,RED,BAROLO Barolo Cicala,Aldo Conterno,,BOTTLE,2018,20000,9600,3,,,True
+,RED,BAROLO Barolo Colonnello,Aldo Conterno,,BOTTLE,2018,20000,9600,4,,,True
+,RED,BAROLO Barolo Vigna Rionda,Massolino,,BOTTLE,2017,23100,10800,3,,,True
+,RED,BAROLO Barolo Bricco Cerretta,Elio Altare,,BOTTLE,2009,26200,12200,3,,,True
+,RED,BAROLO Perno Santo Stefano,Giuseppe Mascarello,,BOTTLE,2012,31700,13000,2,,,True
+,RED,BAROLO Barolo La Pira,Roagna,,BOTTLE,2018,0,13300,0,,,True
+,RED,BAROLO Barolo Rocche Castiglione,Roagna,,BOTTLE,2019,28500,14400,6,,,True
+,RED,BAROLO Barolo,Burlotto,,BOTTLE,2020,16000,3800,2,,,True
+,RED,BAROLO Acclivi ,Burlotto,,BOTTLE,2019,19000,4200,2,,,True
+,RED,BAROLO Cannubi,Burlotto,,BOTTLE,2020,40000,5300,6,,,True
+,RED,BAROLO Cannubi,Burlotto,,BOTTLE,2015,0,14700,2,,,True
+,RED,BAROLO Castelletto,Burlotto,,BOTTLE,2020,22000,4200,3,,,True
+,RED,BAROLO Monvigliero,Burlotto,,BOTTLE,2019,0,5900,1,,,True
+,RED,BAROLO Barolo Sperss,Gaja,,BOTTLE,2017,26100,0,1,,,True
+,RED,BAROLO Barolo Cicala,Aldo Conterno,,BOTTLE,2000,25500,0,0,,,True
+,RED,BAROLO Falletto le Rocche Et. Rossa,Bruno Giacosa,,BOTTLE,2016,0,49900,2,,,True
+,RED,BAROLO Barolo Francia,Giacomo Conterno,,BOTTLE,2010,43000,24800,2,,,True
+,RED,BAROLO Barolo Francia,Giacomo Conterno,,BOTTLE,2016,0,23900,1,,,True
+,RED,BAROLO Falletto le Rocche ,Bruno Giacosa,,BOTTLE,2019,0,19900,6,,,True
+,RED,BAROLO Rocche Annunziata,Paolo Scavino,,BOTTLE,2016,32000,15200,2,,,True
+,RED,BAROLO Tre Tine,Giuseppe Rinaldi,,BOTTLE,2010,0,54800,2,,,True
+,RED,Red Gattinara,Antoniolo,,BOTTLE,2019,8500,3479,3,,,True
+,RED,Red Carema,Ferrando,,BOTTLE,2019,9800,5200,2,,,True
+,RED,Red Gattinara,Nervi Conterno,,BOTTLE,2020,0,4690,13,,,True
+,RED,Red Vigna Molsino,Nervi Conterno,,BOTTLE,2018,17500,9400,7,,,True
+,RED,Red Vigna Valferana,Nervi Conterno,,BOTTLE,2019,17500,9400,4,,,True
+,RED,VALTELLINA Inferno,Rainoldi,,BOTTLE,2018,5500,2500,2,,,True
+,RED,VALTELLINA Gess Grumello Superiore,Dirupi,,BOTTLE,2019,6500,2800,5,,,True
+,RED,VALTELLINA Rocce Rosse,Arpepe,,BOTTLE,2016,10500,5600,3,,,True
+,RED,VALTELLINA Sfursat 5 Stelle,Nino Negri,,BOTTLE,2015,10800,0,1,,,True
+,RED,SANGIOVESE Pian del Ciampolo,Montevertine,,BOTTLE,2021,5800,1650,7,,,True
+,RED,SANGIOVESE Chianti Classico,Monteraponi,,BOTTLE,2022,5800,2200,17,,,True
+,RED,SANGIOVESE Bugialla Riserva,Poggerino,,BOTTLE,2019,8200,2100,2,,,True
+,RED,SANGIOVESE Il Carbonaione,Poggio Scalette,,BOTTLE,2021,7300,3000,4,,,True
+,RED,SANGIOVESE Montevertine IGT,Montevertine,,BOTTLE,2018,9500,4300,5,,,True
+,RED,SANGIOVESE Montevertine IGT,Montevertine,,BOTTLE,2019,9500,4300,9,,,True
+,RED,SANGIOVESE Montevertine IGT,Montevertine,,BOTTLE,2020,9500,4300,11,,,True
+,RED,SANGIOVESE Montevertine IGT,Montevertine,,BOTTLE,2014,9500,4300,0,,,True
+,RED,SANGIOVESE Nobile di Montepulciano Riserva Asinone,Poliziano,,BOTTLE,2019,8500,3925,5,,,True
+,RED,SANGIOVESE Baron Ugo,Monteraponi,,BOTTLE,2019,11200,5500,4,,,True
+,RED,SANGIOVESE Cepparello,Isole e Olena,,BOTTLE,2019,14000,6500,1,,,True
+,RED,SANGIOVESE Carla 6 ,La Massa,,BOTTLE,2017,13000,6650,0,,,True
+,RED,SANGIOVESE Flaccianello della Pieve,Fontodi,,BOTTLE,2019,18200,7390,11,,,True
+,RED,SANGIOVESE Flaccianello della Pieve,Fontodi,,BOTTLE,2014,40000,0,4,,,True
+,RED,SANGIOVESE Le Pergole Torte,Montevertine,,BOTTLE,2021,29500,9500,16,,,True
+,RED,SANGIOVESE Le Pergole Torte,Montevertine,,BOTTLE,2020,29500,0,9,,,True
+,RED,SANGIOVESE Le Pergole Torte,Montevertine,,BOTTLE,2019,29500,0,0,,,True
+,RED,SANGIOVESE Le Pergole Torte,Montevertine,,BOTTLE,2020,0,8500,5,,,True
+,RED,SANGIOVESE Le Pergole Torte,Montevertine,,BOTTLE,2019,32500,0,2,,,True
+,RED,SANGIOVESE Case Basse,Soldera,,BOTTLE,2018,99000,39900,1,,,True
+,RED,SANGIOVESE Case Basse,Soldera,,BOTTLE,2019,0,65000,2,,,True
+,RED,MONTALCINO Rosso di Montalcino,Canalicchio di Sopra,,BOTTLE,2022,4800,1880,16,,,True
+,RED,MONTALCINO Rosso di Montalcino,Le Ragnaie,,BOTTLE,2020,7000,1880,8,,,True
+,RED,MONTALCINO Rosso di Montalcino,Le Ragnaie,,BOTTLE,2014,0,2600,3,,,True
+,RED,MONTALCINO Brunello di Montalcino,Collosorbo,,BOTTLE,2018,6500,2500,2,,,True
+,RED,MONTALCINO Brunello di Montalcino,Il Poggione,,BOTTLE,2019,0,3495,12,,,True
+,RED,MONTALCINO Brunello di Montalcino,Talenti,,BOTTLE,2019,8200,3200,12,,,True
+,RED,MONTALCINO Brunello Pelagrilli,Siro Pacenti,,BOTTLE,2019,8200,3500,10,,,True
+,RED,MONTALCINO Brunello di Montalcino,Lisini,,BOTTLE,2019,0,3800,22,,,True
+,RED,MONTALCINO Brunello di Montalcino,La Magia,,BOTTLE,2019,8500,4100,1,,,True
+,RED,MONTALCINO Rosso di Montalcino,Poggio di Sotto,,BOTTLE,2018,9500,4480,10,,,True
+,RED,MONTALCINO Brunello di Montalcino,Conti Costanti,,BOTTLE,2019,15500,4900,9,,,True
+,RED,MONTALCINO Brunello di Montalcino,Canalicchio di Sopra,,BOTTLE,2019,10500,5100,16,,,True
+,RED,MONTALCINO Brunello di Montalcino,Le Ragnaie,,BOTTLE,2019,0,5400,10,,,True
+,RED,MONTALCINO Brunello di Montalcino,Le Ragnaie,,BOTTLE,2009,0,6800,2,,,True
+,RED,MONTALCINO Brunello di Montalcino,Castello Romitorio,,BOTTLE,2018,11200,5280,1,,,True
+,RED,MONTALCINO Brunello di Montalcino,Le Chiuse,,BOTTLE,2019,0,5700,11,,,True
+,RED,MONTALCINO Brunello Vecchie Vigne,Siro Pacenti,,BOTTLE,2017,12500,6000,10,,,True
+,RED,MONTALCINO Brunello NICCO,Capanna,,BOTTLE,2019,14500,6200,10,,,True
+,RED,MONTALCINO Brunello di Montalcino,Cupano,,BOTTLE,2018,13500,6470,4,,,True
+,RED,MONTALCINO Brunello di Montalcino,Cupano,,BOTTLE,2019,0,6470,6,,,True
+,RED,MONTALCINO Brunello Montosoli,Altesino,,BOTTLE,2019,17000,5000,10,,,True
+,RED,MONTALCINO Brunello di Montalcino Le Lucere,San Filippo,,BOTTLE,2016,16500,7000,3,,,True
+,RED,MONTALCINO Brunello Vigneti Versante,Pian dell'Orino,,BOTTLE,2017,15000,7200,2,,,True
+,RED,MONTALCINO Brunello Piero,Talenti,,BOTTLE,2018,16000,7500,2,,,True
+,RED,MONTALCINO Brunello Piero,Talenti,,BOTTLE,2019,0,7500,6,,,True
+,RED,MONTALCINO Brunello Tenuta Nuova,Casanova di Neri,,BOTTLE,2019,0,8700,6,,,True
+,RED,MONTALCINO Brunello Tenuta Nuova,Casanova di Neri,,BOTTLE,2017,19500,7900,2,,,True
+,RED,MONTALCINO Brunello Vigna Loreto,Mastrojanni,,BOTTLE,2017,18000,7800,5,,,True
+,RED,MONTALCINO Brunello di Montalcino Riserva,Il Poggione,,BOTTLE,1997,0,8900,1,,,True
+,RED,MONTALCINO Brunello di Montalcino Riserva,Tenuta Uccelliera,,BOTTLE,2016,19500,9690,3,,,True
+,RED,MONTALCINO Brunello Filo di Seta,Castello Romitorio,,BOTTLE,2018,19200,9429,4,,,True
+,RED,MONTALCINO Brunello Riserva,Il Poggione,,BOTTLE,2010,0,9700,2,,,True
+,RED,MONTALCINO Brunello di Montalcino Pietroso,Le Ragnaie,,BOTTLE,2019,0,11100,3,,,True
+,RED,MONTALCINO Brunello di Montalcino Casaccia,Canalicchio di Sopra,,BOTTLE,2019,0,11500,3,,,True
+,RED,MONTALCINO Brunello di Montalcino Montosoli,Canalicchio di Sopra,,BOTTLE,2019,0,11500,3,,,True
+,RED,MONTALCINO Brunello di Montalcino Vigna Vecchia,Le Ragnaie,,BOTTLE,2011,32200,11600,5,,,True
+,RED,MONTALCINO Brunello di Montalcino ,Biondi Santi,,BOTTLE,2015,28000,11900,4,,,True
+,RED,MONTALCINO Poggio di Sotto,Poggio di Sotto,,BOTTLE,2018,0,12500,5,,,True
+,RED,MONTALCINO Brunello di Montalcino Riserva,Pian dell'Orino,,BOTTLE,2004,26500,13000,3,,,True
+,RED,MONTALCINO Poggio di Sotto,Poggio di Sotto,,BOTTLE,2015,22500,12500,3,,,True
+,RED,MONTALCINO Brunello di Montalcino Cerretalto,Casanova di Neri,,BOTTLE,2013,60000,32900,3,,,True
+,RED,Red Primitivo,Rosa del Golfo,,BOTTLE,2020,4500,880,11,,,True
+,RED,Red Teatrale Incrocio,Malibran,,BOTTLE,2022,4200,650,9,,,True
+,RED,Red Schioppettino,I Clivi,,BOTTLE,2021,4500,911,7,,,True
+,RED,Red Terrazas Malbec,Terrazas de los Andes,,BOTTLE,2021,5500,1300,12,,,True
+,RED,Red Cannonau Manca,Garagisti Sorgono,,BOTTLE,2020,4500,1500,9,,,True
+,RED,Red Pignolo,Ronchi di Cialla,,BOTTLE,2016,0,2200,6,,,True
+,RED,Red Teroldego Morei,Foradori,,BOTTLE,2020,5800,2195,3,,,True
+,RED,Red Montepulciano d'Abruzzo Riserva,Praesidium,,BOTTLE,2019,6600,2439,0,,,True
+,RED,Red Mourvedre Monkey gone to Heaven,Testalonga,,BOTTLE,2021,5900,2600,3,,,True
+,RED,Red Montepulciano d'Abruzzo,Emidio Pepe,,BOTTLE,2022,12000,4160,12,,,True
+,RED,Red Refosco,Ronchi di Cialla,,BOTTLE,2014,7500,3150,2,,,True
+,RED,Red Schioppettino,Ronchi di Cialla,,BOTTLE,2018,8500,3500,5,,,True
+,RED,Red Nerobuffalj,Gulfi,,BOTTLE,2020,8200,3700,9,,,True
+,RED,Red Joschuari,Gut Oggau,,BOTTLE,2015,8500,3800,6,,,True
+,RED,Red Zinfandel Lytton Spring,Ridge ,,BOTTLE,2018,9000,4500,5,,,True
+,RED,Red Carnasciale ,Podere il Carnasciale,,BOTTLE,2016,10500,0,4,,,True
+,RED,Red JO Negroamaro,Gianfranco Fino,,BOTTLE,2020,11200,5000,6,,,True
+,RED,Red ES Primitivo,Gianfranco Fino,,BOTTLE,2021,11200,5110,9,,,True
+,RED,Red Moulin a Vent La Roche,Thibault Liger Belair,,BOTTLE,2020,9000,4860,5,,,True
+,RED,Red Oratorio San Lorenzo,Inama,,BOTTLE,2017,13800,5500,5,,,True
+,RED,Red Hillside Grenache,Torbreck,,BOTTLE,2018,0,5900,2,,,True
+,RED,Red Kurni,Oasi degli Angeli,,BOTTLE,2017,20500,9100,13,,,True
+,RED,Red Kupra,Oasi degli Angeli,,BOTTLE,2019,32000,19800,2,,,True
+,RED,Red Caberlot,Podere il Carnasciale,,BOTTLE,2016,26000,0,2,,,True
+,RED,Red Rosso di Mezzo,Federico Graziani,,BOTTLE,2021,0,3400,2,,,True
+,RED,Red Etna Rosso,Federico Graziani,,BOTTLE,2021,0,2000,2,,,True
+,RED,Red Etna Rosso,Terre Nere ,,BOTTLE,2020,5400,2500,3,,,True
+,RED,Red Idda Rosso,Gaja,,BOTTLE,2019,9200,2800,3,,,True
+,RED,Red Contrada Chiappemacine Etna,Passopisciaro,,BOTTLE,2019,8500,4224,0,,,True
+,RED,Red Profumo di Vulcano,Federico Graziani,,BOTTLE,2021,11000,5100,3,,,True
+,RED,Red Calderara Sottana,Tenuta Terre Nere,,BOTTLE,2021,11200,5278,10,,,True
+,RED,Red Contrada San Lorenzo,Terre Nere ,,BOTTLE,2019,14000,6500,7,,,True
+,RED,Red Contrada San Lorenzo,Terre Nere ,,BOTTLE,2021,0,6500,11,,,True
+,RED,Red Barbabecchi,Graci,,BOTTLE,2020,19000,9500,2,,,True
+,RED,Red Barbera d'Alba,Trediberri,,BOTTLE,2023,4200,863,9,,,True
+,RED,Red Barbera d'Alba,Burlotto,,BOTTLE,2023,0,1150,4,,,True
+,RED,Red Barbera d'Alba,GD Vajra,,BOTTLE,2021,4200,1213,2,,,True
+,RED,Red Barbera d'Alba,Giulia Negri,,BOTTLE,2022,6000,2000,0,,,True
+,RED,Red Pelaverga,Burlotto,,BOTTLE,2023,6500,1170,9,,,True
+,RED,Red Freisa Langhe,Burlotto,,BOTTLE,2022,6500,1290,10,,,True
+,RED,Red Dolcetto,Roagna,,BOTTLE,2022,8500,2000,2,,,True
+,RED,Red Freisa KYE,GD Vajra,,BOTTLE,2019,5500,2000,6,,,True
+,RED,Red Grignolino Bricco Bosco,Accornero,,BOTTLE,2019,7800,3200,3,,,True
+,RED,Red Bricco dell´uccellone,Braida,,BOTTLE,2020,9800,4600,4,,,True
+,RED,Red Barbera d'Alba,Giacomo Conterno,,BOTTLE,2021,16500,5000,2,,,True
+,RED,Red Negre Historic,Terroir al Limit,,BOTTLE,2021,5500,1936,1,,,True
+,RED,Red Vertebra Grenache,Terroir al Limit,,BOTTLE,2021,0,2350,5,,,True
+,RED,Red Les Eres Priorat Vinyes Viellies,Joan Simo,,BOTTLE,2016,7500,3325,1,,,True
+,RED,Red Vina Tondonia Reserva,Lopez de Heredia,,BOTTLE,2012,8000,3600,7,,,True
+,RED,Red Dits del Terra,Terroir al Limit,,BOTTLE,2021,11500,5100,5,,,True
+,RED,Red Lacima,Dominio do Bibei,,BOTTLE,2019,10500,5500,5,,,True
+,RED,Red Arbossar (Carignan),Terroir al Limit,,BOTTLE,2021,12000,6178,2,,,True
+,RED,Red Marcenca Negre (Grenache),Terroir al Limit,,BOTTLE,2021,12000,6178,4,,,True
+,RED,Red Toro Pintia,Vega Sicilia,,BOTTLE,2018,13500,6959,10,,,True
+,RED,Red Alion (Ribera),Vega Sicilia,,BOTTLE,2018,16000,8700,1,,,True
+,RED,Red Flor de Pingus,Dominio de Pingus,,BOTTLE,2019,18500,9700,0,,,True
+,RED,Red Les Manyes Vi d'Altura Garnacha,Terroir al Limit,,BOTTLE,2021,28000,16200,5,,,True
+,RED,Red Castillo Ygay,Marques de Murrieta,,BOTTLE,2011,35000,18900,2,,,True
+,RED,Red URAS,Garagisti Sorgono,,BOTTLE,2020,6000,1650,2,,,True
+,RED,Red il Conte,Manincor,,BOTTLE,2022,4800,1400,11,,,True
+,RED,Red Palestina CS/ME,H. Lentsch,,BOTTLE,2016,4800,1789,15,,,True
+,RED,Red Storlong ME/CS,Tröpfltalhof,,BOTTLE,2021,0,2100,2,,,True
+,RED,Red Sacrisassi,Le due Terre,,BOTTLE,2021,6500,2100,5,,,True
+,RED,Red Villa Gresti,Tenuta San Leonardo,,BOTTLE,2016,6000,2100,3,,,True
+,RED,Red Linticlarus Cuvee,Tiefenbrunner,,BOTTLE,2021,7600,2900,7,,,True
+,RED,Red Gemola ,Vignalta,,BOTTLE,2018,7200,3100,5,,,True
+,RED,Red Composition Reif CS/ME/LA/PV,Unterganzner,,BOTTLE,2020,7500,3260,1,,,True
+,RED,Red Palestina Limited 2011,H. Lentsch,,BOTTLE,2011,8500,3700,17,,,True
+,RED,Red Rosso Riserva,Borgo del Tiglio,,BOTTLE,2017,8500,3800,3,,,True
+,RED,Red Brenntal (ME/CF),Peter Dipoli,,BOTTLE,2020,8500,4150,28,,,True
+,RED,Red Kermesse,Elena Walch,,BOTTLE,2022,8500,4275,7,,,True
+,RED,Red Geyserville,Ridge,,BOTTLE,2019,0,5150,6,,,True
+,RED,Red Bandol Rouge,Chateau Pibarnon,,BOTTLE,2021,10200,4800,5,,,True
+,RED,Red Buri Bellaria,Ronco del Gnemiz,,BOTTLE,2020,10500,4990,7,,,True
+,RED,Red Buri Bellaria,Ronco del Gnemiz,,BOTTLE,2023,0,4990,6,,,True
+,RED,Red Viribus Unitis,Kofler & Soelva,,BOTTLE,2016,9800,5080,2,,,True
+,RED,Red Capo di Stato,Loredan Gasparini,,BOTTLE,2018,10800,5200,6,,,True
+,RED,Red Dry Red N1,Yarra Yering,,BOTTLE,2017,0,6300,3,,,True
+,RED,Red San Leonardo CS/ME/CF,Tenuta San Leonardo,,BOTTLE,2016,12000,6440,5,,,True
+,RED,Red San Leonardo CS/ME/CF,Tenuta San Leonardo,,BOTTLE,2019,0,6700,6,,,True
+,RED,Red San Leonardo CS/ME/CF,Tenuta San Leonardo,,BOTTLE,2018,0,6440,5,,,True
+,RED,Red San Leonardo CS/ME/CF,Tenuta San Leonardo,,BOTTLE,2014,9500,0,1,,,True
+,RED,Red San Leonardo CS/ME/CF,Tenuta San Leonardo,,BOTTLE,2010,10800,0,2,,,True
+,RED,Red San Leonardo CS/ME/CF,Tenuta San Leonardo,,BOTTLE,1991,0,0,1,,,True
+,RED,Red Barbacarlo,Lino Maga,,BOTTLE,2021,0,8000,3,,,True
+,RED,Red TAL ROT,Bozen,,BOTTLE,2020,16500,8100,0,,,True
+,RED,Red Rosso Gravner,Josko Gravner,,BOTTLE,1999,0,9000,1,,,True
+,RED,Red TRES,Kurtatsch,,BOTTLE,2016,0,12300,10,,,True
+,RED,Red Alzero,Quintarelli,,BOTTLE,2015,45000,24100,2,,,True
+,RED,SUPER TUSCANS Lucente,Tenuta Luce,,BOTTLE,2022,6000,2200,8,,,True
+,RED,SUPER TUSCANS Piastraia,Michele Satta,,BOTTLE,2021,7500,2950,9,,,True
+,RED,SUPER TUSCANS Turpino ,Querciabella,,BOTTLE,2017,7900,3200,0,,,True
+,RED,SUPER TUSCANS MAGARI,GAJA,,BOTTLE,2021,11000,5600,6,,,True
+,RED,SUPER TUSCANS Il Blu ME/SA/CS,Brancaia,,BOTTLE,2018,12500,5900,9,,,True
+,RED,SUPER TUSCANS Oreno,Tenuta Sette Ponti,,BOTTLE,2019,12000,6200,1,,,True
+,RED,SUPER TUSCANS Tinata SY/GR,Monteverro,,BOTTLE,2017,13000,6500,6,,,True
+,RED,SUPER TUSCANS Tignanello,Antinori,,BOTTLE,2021,18500,9500,18,,,True
+,RED,SUPER TUSCANS Camartina,Querciabella,,BOTTLE,2017,14800,7362,4,,,True
+,RED,SUPER TUSCANS Saffredi,Fonterutoli,,BOTTLE,2021,15500,7600,5,,,True
+,RED,SUPER TUSCANS Vigna d'Alceo,Castello dei Rampolla,,BOTTLE,2018,18000,8900,4,,,True
+,RED,SUPER TUSCANS Siepi,Fattoria le Pupille,,BOTTLE,2019,20000,9000,5,,,True
+,RED,SUPER TUSCANS Monteverro CS/CF/ME/PV,Monteverro,,BOTTLE,2017,19000,9500,1,,,True
+,RED,SUPER TUSCANS Guado al Tasso,Guado al Tasso,,BOTTLE,2020,20000,9680,3,,,True
+,RED,SUPER TUSCANS Biserno,Tenuta di Biserno,,BOTTLE,2019,23500,11900,3,,,True
+,RED,SUPER TUSCANS Biserno,Tenuta di Biserno,,BOTTLE,2021,0,10000,3,,,True
+,RED,SUPER TUSCANS Biserno,Tenuta di Biserno,,BOTTLE,2014,25000,10000,2,,,True
+,RED,SUPER TUSCANS Ca' Marcanda,Gaja,,BOTTLE,2019,25500,12500,4,,,True
+,RED,SUPER TUSCANS Ca Marcanda,Gaja,,BOTTLE,2013,31000,17800,2,,,True
+,RED,SUPER TUSCANS Trinoro CF/ME/CS,Tenuta di Trinoro,,BOTTLE,2019,39000,24000,0,,,True
+,RED,SUPER TUSCANS Ornellaia,Tenuta dell'Ornellaia,,BOTTLE,2020,43000,22900,2,,,True
+,RED,SUPER TUSCANS Solaia,Antinori,,BOTTLE,2019,60000,37500,1,,,True
+,RED,Red Chateau Quinalt L'Enclos Grand Cru,Quinault L'Enclos,,BOTTLE,2019,8700,3890,9,,,True
+,RED,Red Chateau Kirwan 3 Gran Cru Classè,KIRWAN,,BOTTLE,2016,10500,5680,1,,,True
+,RED,Red Les Pagode de Cos,Cos d´Estournel,,BOTTLE,2016,11000,5820,5,,,True
+,RED,Red 4eme Saint Julien,Chateau Talbot,,BOTTLE,2019,0,5800,6,,,True
+,RED,"Red Grand Vin, Margaux",Rauzan Segla,,BOTTLE,2017,16500,8600,1,,,True
+,RED,Red 4eme Saint Julien,Chateau Talbot,,BOTTLE,2016,19000,9900,1,,,True
+,RED,"Red Grand Vin, Pauillac",Pontet Canet,,BOTTLE,2020,25000,10900,3,,,True
+,RED,"Red Grand Vin, Pauillac",Pontet Canet,,BOTTLE,2013,25000,11500,0,,,True
+,RED,Red Lynch Bages 5eme,Lynch Bages,,BOTTLE,2021,0,13000,3,,,True
+,RED,Red 4eme Saint Julien,Chateau Beychevelle,,BOTTLE,2017,32500,14400,3,,,True
+,RED,Red St Emilion GC,Tertre Rotebeouf,,BOTTLE,2011,37700,14900,3,,,True
+,RED,"Red Grand Cru, St. Emilion",Troplong Mondot,,BOTTLE,2016,27500,14800,1,,,True
+,RED,Red Phelan Segur,Phelan Segur,,BOTTLE,2010,14200,7500,0,,,True
+,RED,"Red Grand Vin, St. Julien",Leoville Poyferre,,BOTTLE,2015,15000,10400,0,,,True
+,RED,Red Chateau Pape Clement,,,BOTTLE,2009,38200,18200,0,,,True
+,RED,"Red Grand vin, Pessac Leognan",Smith Haut Lafitte,,BOTTLE,2010,32000,19900,1,,,True
+,RED,Red Pomerol,La Conseillante,,BOTTLE,2019,42000,20500,3,,,True
+,RED,Red Pichon Longueville,,,BOTTLE,2012,35000,21200,2,,,True
+,RED,Red Chateau Montrose,,,BOTTLE,2020,39000,21500,2,,,True
+,RED,Red 2eme Saint Julien,Leoville las Cases,,BOTTLE,2019,0,23500,3,,,True
+,RED,Red Cos d'Estournel,Cos d´Estournel,,BOTTLE,2018,50000,26100,2,,,True
+,RED,Red Pomerol,Lafleur Petrus,,BOTTLE,2018,46000,25500,1,,,True
+,RED,Red Palmer,Chateau Palmer,,BOTTLE,2013,39000,26300,2,,,True
+,RED,Red Figeac,Chateau Figeac,,BOTTLE,2019,45000,28000,3,,,True
+,RED,Red HAUT BRION,,,BOTTLE,1993,54000,0,1,,,True
+,RED,Red Chateau Margaux,,,BOTTLE,1991,64000,0,0,,,True
+,RED,Red Clarence de Haut Brion,Haut Brion,,BOTTLE,2016,25500,15900,2,,,True
+,RED,Red Pomerol,Vieux Chateau Certan,,BOTTLE,2017,68000,38500,1,,,True
+,RED,Red 1eme Margaux,Chateau Margaux,,BOTTLE,2011,110000,77500,2,,,True
+,RED,Red 1eme Pauillac,Chateau Mouton,,BOTTLE,2017,110000,72500,2,,,True
+,RED,Red 1eme Pauillac,Chateau Latour,,BOTTLE,2014,110000,75500,1,,,True
+,RED,Red MAX,Miles Mossop,,BOTTLE,2017,4900,0,6,,,True
+,RED,Red Le Petit Clos,Casa Lapostolle,,BOTTLE,2018,7000,3290,3,,,True
+,RED,Red Chaetauneuf du Pape Telegramme,Le Vieux Telegraphe,,BOTTLE,2020,8200,3900,6,,,True
+,RED,Red Chateauneuf Clos de l'Oratoire,Ogier,,BOTTLE,2021,9500,4650,9,,,True
+,RED,Red Cuvée X,Knipser,,BOTTLE,2018,0,4372,6,,,True
+,RED,Red Chateauneuf du Pape,La Nerthe,,BOTTLE,2020,15200,7200,3,,,True
+,RED,Red Salzberg,Heinrich,,BOTTLE,2013,10800,0,4,,,True
+,RED,Red Gaston Hochar,Chateau Musar,,BOTTLE,2017,8800,4000,7,,,True
+,RED,Red Chaetauneuf du Pape  ,Clos de Papes,,BOTTLE,2022,0,9900,6,,,True
+,RED,Red Nicolas Zapata,Catena Zapata,,BOTTLE,2019,25000,10100,1,,,True
+,RED,Red Chateauneuf du Pape,Beaucastel,,BOTTLE,2020,25000,10900,3,,,True
+,RED,Red Belle Leone,La Peyre Rose,,BOTTLE,2013,0,11000,2,,,True
+,RED,Red Almaviva,Concha y Toro + Rotschild,,BOTTLE,2019,30000,17500,5,,,True
+,RED,Red Monte Bello,Ridge,,BOTTLE,2018,45000,27000,1,,,True
+,RED,Dessert Beerenauslese Kirschgarten 2015,Kuhn,,BOTTLE,2015,0,0,5,,WS,True
+,RED,Dessert Vintage,Noval,,BOTTLE,2017,1000,0,2,,,True
+,RED,Dessert Picolit ,Ronchi di Ciala,,BOTTLE,2015,0,5600,5,,,True
+,RED,Dessert Recioto Tordare,Cá la Bionda,,BOTTLE,2015,900,2600,0,,,True
+,RED,MAGNUMS Lugana MGM ,Ca die Frati,,Magnum,2021,0,2720,0,,,True
+,RED,MAGNUMS Vieris / Piere,Vie di Romans,,Magnum,2021,11200,4300,6,,,True
+,RED,MAGNUMS Vieris / Piere,Vie di Romans,,JEROBOAM,2021,0,0,2,,,True
+,RED,MAGNUMS Vieris / Piere,Vie di Romans,,BORDEAUX_JEROBOAM,2021,0,0,0,,,True
+,RED,MAGNUMS Dessimis,Vie di Romans,,MAGNUM,2021,11200,4300,2,,,True
+,RED,MAGNUMS Dessimis,Vie di Romans,,JEROBOAM,2021,0,0,0,,,True
+,RED,MAGNUMS Dessimis,Vie di Romans,,BORDEAUX_JEROBOAM,2021,0,0,0,,,True
+,RED,MAGNUMS Vie di Romans,Vie di Romans,,MAGNUM,2021,11200,4300,6,,,True
+,RED,MAGNUMS Vie di Romans,Vie di Romans,,MAGNUM,2022,0,0,3,,,True
+,RED,MAGNUMS Vie di Romans,Vie di Romans,,JEROBOAM,2022,0,0,2,,,True
+,RED,MAGNUMS Vie di Romans,Vie di Romans,,BORDEAUX_JEROBOAM,2022,0,0,0,,,True
+,RED,MAGNUMS Saskia,Max Miles,,MAGNUM,2018,0,0,1,,,True
+,RED,MAGNUMS Manna,Franz Haas,,MAGNUM,2022,10400,3540,2,,,True
+,RED,MAGNUMS Sauvignon Lafoa,Schreckbichl,,MAGNUM,2021,9000,3840,2,,,True
+,RED,MAGNUMS GWZ Kolbenhof,Hofstätter,,MAGNUM,2020,9800,0,3,,,True
+,RED,MAGNUMS Riesling Kirschgarten GG,Philipp Kuhn,,MAGNUM,2019,10800,0,1,,,True
+,RED,MAGNUMS Anaduron,Falkenstein,,MAGNUM,2019,15000,6600,3,,,True
+,RED,MAGNUMS Vorberg,Terlan,,MAGNUM,2019,13500,0,2,,,True
+,RED,MAGNUMS Nova Domus,Terlan,,MAGNUM,2013,26000,9300,2,,,True
+,RED,MAGNUMS Nova Domus,Terlan,,MAGNUM,2014,24000,8900,2,,,True
+,RED,MAGNUMS Nova Domus,Terlan,,MAGNUM,2015,22000,8500,2,,,True
+,RED,MAGNUMS Nova Domus,Terlan,,MAGNUM,2021,16000,5700,2,,,True
+,RED,MAGNUMS Quarz,Terlan,,MAGNUM,2016,26000,9000,1,,,True
+,RED,MAGNUMS Quarz,Terlan,,MAGNUM,2017,24000,8500,2,,,True
+,RED,MAGNUMS Quarz,Terlan,,MAGNUM,2018,22000,8500,2,,,True
+,RED,MAGNUMS Quarz,Terlan,,MAGNUM,2022,0,6800,3,,,True
+,RED,MAGNUMS Hermannshöhle GG,Dönnhoff,,MAGNUM,2022,0,12000,1,,,True
+,RED,MAGNUMS Hermannshöhle GG,Dönnhoff,,MAGNUM,2023,0,1500,2,,,True
+,RED,MAGNUMS Dellchen GG,Dönnhoff,,MAGNUM,2023,0,12000,2,,,True
+,RED,MAGNUMS Spätlese,Dönnhoff,,MAGNUM,2021,0,12000,1,,,True
+,RED,MAGNUMS Honivogl,Hirtberger,,MAGNUM,2022,0,18400,3,,,True
+,RED,MAGNUMS Rose,Arunda,,MAGNUM,0,0,0,0,,,True
+,RED,MAGNUMS DOM PERIGNON,DOM PERIGNON,,MAGNUM,2012,0,59500,1,,,True
+,RED,MAGNUMS Perle,Ferrari,,MAGNUM,2016,0,0,1,,,True
+,RED,MAGNUMS Max Miles,Mossop,,MAGNUM,0,0,0,5,,,True
+,RED,MAGNUMS Barbaresco  ,Produttori del Barbaresco,,MAGNUM,2019,0,0,2,,,True
+,RED,MAGNUMS Barbaresco Rocche 7 Fratelli,Lodali Walter,,MAGNUM,2020,0,3800,6,,,True
+,RED,MAGNUMS Barolo,San Biagio,,MAGNUM,2016,8500,0,1,,,True
+,RED,MAGNUMS MORUS,Lentsch,,MAGNUM,2011,9000,0,2,,,True
+,RED,MAGNUMS Palestina,Lentsch,,MAGNUM,2018,9000,0,3,,,True
+,RED,MAGNUMS Trattmann,Girlan,,MAGNUM,2019,11500,0,10,,,True
+,RED,MAGNUMS Lagrein Mirell,Ansitz Waldgries,,MAGNUM,2018,13000,0,1,,,True
+,RED,MAGNUMS Barbaresco Riserva Ovello,Produttori del Barbaresco,,MAGNUM,2019,0,5800,4,,,True
+,RED,MAGNUMS Casasilia Gr. Selezone,Poggio al Sole,,MAGNUM,2016,15000,0,1,,,True
+,RED,MAGNUMS REIF,Unterganzner,,MAGNUM,2020,0,0,4,,,True
+,RED,MAGNUMS REIF,Unterganzner,,JEROBOAM,2020,0,0,2,,,True
+,RED,MAGNUMS Etna Rosso,Federico Graziani,,MAGNUM,2021,9000,4200,0,,,True
+,RED,MAGNUMS Profumo di Vulcano,Federico Graziani,,MAGNUM,2021,0,11100,2,,,True
+,RED,MAGNUMS Brunello di Montalcino,Mastrojanni,,MAGNUM,2016,17000,0,0,,,True
+,RED,MAGNUMS Schioppettino,Ronchi di Cialla,,MAGNUM,2010,0,12000,2,,,True
+,RED,MAGNUMS Lamarein,Unterganzner,,MAGNUM,2020,17500,0,2,,,True
+,RED,MAGNUMS Sito Moresco,Gaja,,MAGNUM,2020,20000,0,1,,,True
+,RED,MAGNUMS Curlan MGM,Girlan,,MAGNUM,2019,22000,0,1,,,True
+,RED,MAGNUMS Ganger MGM,Girlan,,MAGNUM,2019,30000,0,1,,,True
+,RED,MAGNUMS Costabate,Uccelliera,,MAGNUM,2011,40000,0,2,,,True
+,RED,MAGNUMS Le Vigne 5L,Sandrone,,BORDEAUX_JEROBOAM,2019,0,0,1,,,True
+,RED,SAKE Hatsumago Honjozo,X,,BOTTLE,0,0,0,0,,,True
+,RED,SAKE Ichiban Shizuku Junmai Ginjo,X,,BOTTLE,0,0,0,2,,,True

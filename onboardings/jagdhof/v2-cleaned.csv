@@ -1,0 +1,384 @@
+external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantity,storage_area,internal_notes,visible
+,,Piris Prosecco (Extra Dry),Sacchetto,,BOTTLE,0,3900,422,50,Hauptlager,,True
+,,Spumante „Bella Glamour Zero Zero“,Iris Vigneti,,BOTTLE,0,3100,550,50,Hauptlager,,True
+,,Sekt Brut „Praeclarus“,Kellerei St. Pauls,,BOTTLE,0,4600,1490,50,Hauptlager,,True
+,,Sekt Brut Rosé,Arunda - Reiterer,,BOTTLE,0,5300,2050,50,Hauptlager,,True
+,,Sekt Extra Brut Riserva,Arunda - Reiterer,,BOTTLE,0,5900,2250,50,Hauptlager,,True
+,,Brut Riserva Methius ,Dorigati,,BOTTLE,2015,6900,2780,50,Hauptlager,,True
+,,Brut Riserva Methius ,Dorigati,,BOTTLE,2016,6900,2780,50,Hauptlager,,True
+,,Prosecco Brut Rosé Bio,Corvezzo,,BOTTLE,0,3800,595,50,Hauptlager,,True
+,,Franciacorta Brut Rosé,Marchese Antinori,,BOTTLE,0,6400,2550,50,Hauptlager,,True
+,,Franciacorta Brut Cuvée Prestige,Ca’ del Bosco,,BOTTLE,0,6600,3560,50,Hauptlager,,True
+,,Champagne Brut AOC „Tradition“,Pascal Machet,,BOTTLE,0,8500,2195,50,Hauptlager,,True
+,,Champagne Brut Riserva „Impérial“,Moët & Chandon,,BOTTLE,0,10900,4410,50,Hauptlager,,True
+,,Champagne „Ice Impérial“,Moët & Chandon ,,BOTTLE,0,14200,5900,50,Hauptlager,,True
+,,Champagne Brut „S. Pétersbourg“,Veuve Clicquot,,BOTTLE,0,11000,4790,50,Hauptlager,,True
+,,Champagne „Rich Collection“,Veuve Clicquot,,BOTTLE,0,12500,5300,50,Hauptlager,,True
+,,Champagne „Rich Rosé“,Veuve Clicquot,,BOTTLE,0,13900,9327,50,Hauptlager,,True
+,,Champagne Premier Brut,Ruinart,,BOTTLE,0,14000,4995,50,Hauptlager,,True
+,,Champagne Brut Grand Cru,Perrier Jouët,,BOTTLE,0,14900,5050,50,Hauptlager,,True
+,,Champagne Vintage,Dom Pérignon,,BOTTLE,2012,39000,19950,50,Hauptlager,,True
+,,Champagne „Belle Epoque”,Perrier Jouët ,,BOTTLE,2013,99000,53600,50,Hauptlager,,True
+,,S’Pom Apfelsekt Dry,Pur Südtirol,,BOTTLE,0,3400,495,50,Hauptlager,,True
+,,S’Pom Apfelsekt Rosé Dry,Pur Südtirol,,BOTTLE,0,3900,495,50,Hauptlager,,True
+,,Pera’S (Williams Birne),Roner,,BOTTLE,0,3900,1180,50,Hauptlager,,True
+,,Weissburgunder Ris. „Tecum“ ,Castelfeder ,,MAGNUM,2018,10500,4410,50,Hauptlager,,True
+,,Weissburgunder Ris. „Vorberg“ ,Terlan,,MAGNUM,2016,10800,4580,50,Hauptlager,,True
+,,Weissburgunder Ris. „Vorberg“ ,Terlan,,MAGNUM,2017,10800,4580,50,Hauptlager,,True
+,,Sauvignon „Lafóa“ ,Schreckbichl,,MAGNUM,2022,10100,4180,50,Hauptlager,,True
+,,Sauvignon „St. Valentin“ ,St. Michael/Eppan,,MAGNUM,2018,10200,4280,50,Hauptlager,,True
+,,Sauvignon  „Lieben Aich“ Bio,Manincor,,MAGNUM,2020,18000,9240,50,Hauptlager,,True
+,,Cuvée „Misto Mare“,Alois Lageder,,MAGNUM,2024,5000,1605,50,Hauptlager,,True
+,,Terlaner Klassisch,Terlan,,MAGNUM,2020,6800,2550,50,Hauptlager,,True
+,,La Contessa Bio,Manincor,,MAGNUM,2020,7900,2920,50,Hauptlager,,True
+,,La Contessa Bio,Manincor,,MAGNUM,2021,7900,2920,50,Hauptlager,,True
+,,Stoan,Tramin,,MAGNUM,2018,10800,4260,50,Hauptlager,,True
+,,Weiss „DJJ“ Riserva ,Niklas,,MAGNUM,2021,11700,5000,50,Hauptlager,,True
+,,Liebenstein,Baron Longo,,MAGNUM,2019,11800,4900,50,Hauptlager,,True
+,,Lagrein Ris. „Klassisch“ ,Unterganzner,,MAGNUM,2019,10900,4540,50,Hauptlager,,True
+,,Lagrein Ris. „Abtei Muri“ ,Muri Gries,,MAGNUM,2020,12500,3979,50,Hauptlager,,True
+,,Lagrein Ris. „Tor di Lupo” ,Andrian,,MAGNUM,2019,15200,5850,50,Hauptlager,,True
+,,Merlot Ris. „DJJ“,Niklas,,MAGNUM,2021,15100,7300,50,Hauptlager,,True
+,,Cabernet S. Ris. „Klassisch“ ,Wassererhof,,MAGNUM,2020,11100,4790,50,Hauptlager,,True
+,,Il Conte Bio,Manincor,,MAGNUM,2019,7900,2920,50,Hauptlager,,True
+,,Ripasso della Valpolicella ,Secondo Marco,,MAGNUM,2015,10800,4160,50,Hauptlager,,True
+,,Amarone della Valpolicella,Secondo Marco,,MAGNUM,2012,17500,8009,50,Hauptlager,,True
+,,Amarone della Valpolicella,Secondo Marco,,JEROBOAM,2011,28000,16925,50,Hauptlager,,True
+,,Cuvée „Rosso dei Notri“ ,Tua Rita,,MAGNUM,2023,6500,2585,50,Hauptlager,,True
+,,Bolgheri Sup. „Villa Donoratico“ ,Argentiera,,MAGNUM,2019,14800,6005,50,Hauptlager,,True
+,,Chardonnay Ris. „Löwengang“ Bio,Alois Lageder,,MAGNUM,2021,17900,9845,50,Hauptlager,,True
+,,Chardonnay Riserva „Troy“,Tramin,,MAGNUM,2018,21500,11970,50,Hauptlager,,True
+,,Appius,St. Michael/Eppan,,MAGNUM,2017,33000,23080,50,Hauptlager,,True
+,,Appius,St. Michael/Eppan,,MAGNUM,2012,35500,24600,50,Hauptlager,,True
+,,Appius,St. Michael/Eppan,,MAGNUM,2011,37500,26400,50,Hauptlager,,True
+,,Lagrein Ris. „Porphyr“ ,Terlan,,MAGNUM,2020,16800,7930,50,Hauptlager,,True
+,,Lagrein Ris. „Taber“ ,Bozen,,MAGNUM,2018,17500,6550,50,Hauptlager,,True
+,,Lagrein Ris. „Weingarten Klosteranger“ ,Muri Gries,,MAGNUM,2014,25000,10000,50,Hauptlager,,True
+,,Lagrein Ris. „Weingarten Klosteranger“ ,Muri Gries,,MAGNUM,2015,25000,10000,50,Hauptlager,,True
+,,Lamarein,Unterganzner,,MAGNUM,2021,27000,9320,50,Hauptlager,,True
+,,Merlot Ris. „LONA“ ,St. Pauls,,MAGNUM,2020,16500,8500,50,Hauptlager,,True
+,,Composition „Reif“ ,Unterganzner,,MAGNUM,2021,24000,7470,50,Hauptlager,,True
+,,Amarone della Valpolicella „Pietro dal Cero“ ,Ca’ dei Frati,,MAGNUM,2012,21500,11900,50,Hauptlager,,True
+,,Amarone della Valpolicella „Pietro dal Cero“ ,Ca’ dei Frati,,MAGNUM,2011,24500,14800,50,Hauptlager,,True
+,,Amarone della Valpolicella „Pietro dal Cero“ ,Ca’ dei Frati,,MAGNUM,2009,23500,13900,50,Hauptlager,,True
+,,Amarone della Valpolicella „Pietro dal Cero“ ,Ca’ dei Frati,,MAGNUM,2008,26500,16700,50,Hauptlager,,True
+,,Amarone della Valpolicella „Selezione Benedetto Speri“ ,Secondo Marco,,MAGNUM,2008,30500,17710,50,Hauptlager,,True
+,,Tignanello,Antinori,,MAGNUM,2018,31500,20300,50,Hauptlager,,True
+,,Weissburgunder „Steil“,St. Pauls,,BOTTLE,2024,3500,740,50,Hauptlager,,True
+,,Weissburgunder „Klassisch“,Wassererhof ,,BOTTLE,2020,3800,1175,50,Hauptlager,,True
+,,Weissburgunder „Klassisch“,Wassererhof ,,BOTTLE,2021,3800,1175,50,Hauptlager,,True
+,,Weissburgunder Ris. „Salamander“,Niklas,,BOTTLE,2021,4200,1233,50,Hauptlager,,True
+,,Weissburgunder „Praesulis“,Gumphof,,BOTTLE,2022,4500,1450,50,Hauptlager,,True
+,,Weissburgunder „Sirmian“,Nals/Margreid,,BOTTLE,2021,5000,1700,50,Hauptlager,,True
+,,Weissburgunder „Sirmian“,Nals/Margreid,,BOTTLE,2022,5000,1700,50,Hauptlager,,True
+,,Weissburgunder Ris. „Vorberg“,Terlan,,BOTTLE,2020,5600,2140,50,Hauptlager,,True
+,,Weissburgunder Ris. „Sanctissimus“,St. Pauls,,BOTTLE,2019,12500,5700,50,Hauptlager,,True
+,,Chardonnay „Somereto“,Andrian,,BOTTLE,2024,3600,770,50,Hauptlager,,True
+,,Chardonnay „Cardellino“,Elena Walch,,BOTTLE,2022,4400,1445,50,Hauptlager,,True
+,,Chardonnay „Cardellino“,Elena Walch,,BOTTLE,2023,4400,1445,50,Hauptlager,,True
+,,Chardonnay „Pfaffenegg”,Josmoar,,BOTTLE,2022,4700,1320,50,Hauptlager,,True
+,,Chardonnay Ris. „Burgum Novum“,Castelfeder ,,BOTTLE,2020,5400,1985,50,Hauptlager,,True
+,,Chardonnay Ris. „Belasy“,Schloss Englar,,BOTTLE,2021,5700,2230,50,Hauptlager,,True
+,,Chardonnay R. „Baron Salvadori“,Nals/Margreid,,BOTTLE,2021,6700,2700,50,Hauptlager,,True
+,,Cardonnay „Langenstein“,Baron Longo,,BOTTLE,2018,8300,3900,50,Hauptlager,,True
+,,Chardonnay Ris. „Löwengang“ Bio,Alois Lageder,,BOTTLE,2021,10900,4495,50,Hauptlager,,True
+,,Chardonnay Riserva „Troy”,Tramin,,BOTTLE,2019,14100,5660,50,Hauptlager,,True
+,,Chardonnay Riserva „Vigna Au”,Tiefenbrunner,,BOTTLE,2018,16000,6075,50,Hauptlager,,True
+,,Chardonnay Riserva „Kreuzweg“,Castelfeder ,,BOTTLE,2018,18100,7875,50,Hauptlager,,True
+,,Chardonnay Riserva „Kreuzweg“,Castelfeder ,,BOTTLE,2019,18100,7875,50,Hauptlager,,True
+,,Sauvignon „Mock“,Bozen,,BOTTLE,2023,3600,984,50,Hauptlager,,True
+,,Sauvignon „Klassisch“,Laimburg,,BOTTLE,2022,3800,1150,50,Hauptlager,,True
+,,Sauvignon „Klassisch“,Laimburg,,BOTTLE,2023,3800,1150,50,Hauptlager,,True
+,,Sauvignon „800“,Andreas Berger – Thurnhof ,,BOTTLE,2021,4100,1190,50,Hauptlager,,True
+,,Sauvignon „Pfaffenegg“,Josmoar,,BOTTLE,2022,4400,1380,50,Hauptlager,,True
+,,Sauvignon „Pfaffenegg“,Josmoar,,BOTTLE,2023,4400,1380,50,Hauptlager,,True
+,,Sauvignon „Voglar“,Peter Dipoli,,BOTTLE,2019,4700,1645,50,Hauptlager,,True
+,,Sauvignon „Voglar“,Peter Dipoli,,BOTTLE,2020,4700,1645,50,Hauptlager,,True
+,,Sauvignon „Lafóa“,Schreckbichl,,BOTTLE,2021,5200,1889,50,Hauptlager,,True
+,,Sauvignon „St. Valentin“,St. Michael/Eppan,,BOTTLE,2022,5500,1910,50,Hauptlager,,True
+,,Sauvignon „St. Valentin“,St. Michael/Eppan,,BOTTLE,2023,5500,1910,50,Hauptlager,,True
+,,Sauvignon „Schalenstein“,Luis Wine,,BOTTLE,2021,5800,2080,50,Hauptlager,,True
+,,Sauvignon „Lieben Aich“ Bio,Manincor,,BOTTLE,2020,10900,4545,50,Hauptlager,,True
+,,Sauvignon „Lieben Aich“ Bio,Manincor,,BOTTLE,2022,10900,4545,50,Hauptlager,,True
+,,Riesling „Aristos“,Eisacktal,,BOTTLE,2021,4500,1380,50,Hauptlager,,True
+,,Riesling „Paula“,Röck,,BOTTLE,2022,4900,1555,50,Hauptlager,,True
+,,Riesling „Falkenstein“,Falkenstein,,BOTTLE,2022,5100,1580,50,Hauptlager,,True
+,,Pinot Grigio „Sonnweiler“ Bio,Sonnweiler,,BOTTLE,2022,3500,715,50,Hauptlager,,True
+,,Pinot Grigio „Meanberg“,Baron Longo,,BOTTLE,2018,4200,990,50,Hauptlager,,True
+,,Pinot Grigio „Meanberg“,Baron Longo,,BOTTLE,2019,4200,990,50,Hauptlager,,True
+,,Pinot Grigio „Castel Ringberg“,Elena Walch,,BOTTLE,2022,5100,1689,50,Hauptlager,,True
+,,Pinot Grigio „Unterebner“,Tramin,,BOTTLE,2020,5500,1980,50,Hauptlager,,True
+,,Pinot Grigio „Unterebner“,Tramin,,BOTTLE,2021,5500,1980,50,Hauptlager,,True
+,,Gewürztraminer „Kleinstein“,Bozen,,BOTTLE,2022,3900,1270,50,Hauptlager,,True
+,,Gewürztraminer „Gols“,Griesserhof,,BOTTLE,2022,4400,1420,50,Hauptlager,,True
+,,Gewürztraminer „Nussbaumer“,Tramin,,BOTTLE,2022,5700,2110,50,Hauptlager,,True
+,,Gewürztraminer Orange „Norèy“,Laimburg,,BOTTLE,2011,17800,8980,50,Hauptlager,,True
+,,Müller Thurgau „Petra“,Röck,,BOTTLE,2022,4100,1260,50,Hauptlager,,True
+,,Kerner „Aristos“,Eisacktal,,BOTTLE,2022,4300,1290,50,Hauptlager,,True
+,,Eisacktaler Sylvaner „Gols“,Griesserhof,,BOTTLE,2022,4500,1290,50,Hauptlager,,True
+,,Eisacktaler Veltliner „Rigger“,Griesserhof,,BOTTLE,2022,4700,1278,50,Hauptlager,,True
+,,T.N. 04 „Bronner“ Bio,Hof Gandberg,,BOTTLE,2018,5000,1730,50,Hauptlager,,True
+,,Solaris „Initium“,Vinventum,,BOTTLE,2020,6900,1900,50,Hauptlager,,True
+,,Solaris „Initium“,Vinventum,,BOTTLE,2021,6900,1900,50,Hauptlager,,True
+,,Cuvée „Felix Anton“ Bio,Baron Longo,,BOTTLE,2022,3500,891,50,Hauptlager,,True
+,,Glimmer Collection „Castel Juval“,Unterortl Juval,,BOTTLE,2022,3700,1050,50,Hauptlager,,True
+,,Cuvée Blanc „Elisa“,Castel Sallegg,,BOTTLE,2022,3800,690,50,Hauptlager,,True
+,,Cuvée „Gloria Dei“,Eichenstein,,BOTTLE,2022,3900,1110,50,Hauptlager,,True
+,,Cuvée „Gloria Dei“,Eichenstein,,BOTTLE,2023,3900,1110,50,Hauptlager,,True
+,,Cuvée „Baronesse“,Baron Widmann,,BOTTLE,2022,4100,1225,50,Hauptlager,,True
+,,Terlaner Klassisch,Terlan,,BOTTLE,2022,4400,1180,50,Hauptlager,,True
+,,Terlaner Klassisch,Terlan,,BOTTLE,2023,4400,1180,50,Hauptlager,,True
+,,Cuvée „La Contessa“ Bio,Manincor,,BOTTLE,2022,4700,1355,50,Hauptlager,,True
+,,Weisses Handwerk,Kiemberger,,BOTTLE,2021,5400,1960,50,Hauptlager,,True
+,,Weiss „DJJ“ Riserva,Niklas,,BOTTLE,2021,5600,2150,50,Hauptlager,,True
+,,Weiss „DJJ“ Riserva,Niklas,,BOTTLE,2022,5600,2150,50,Hauptlager,,True
+,,Stoan,Tramin,,BOTTLE,2021,5700,1980,50,Hauptlager,,True
+,,Stoan,Tramin,,BOTTLE,2022,5700,1980,50,Hauptlager,,True
+,,Aichberg,Kornell,,BOTTLE,2019,5900,2150,50,Hauptlager,,True
+,,Aichberg,Kornell,,BOTTLE,2020,5900,2150,50,Hauptlager,,True
+,,Caroline Bio,Pranzegg,,BOTTLE,2019,5900,1920,50,Hauptlager,,True
+,,Caroline Bio,Pranzegg,,BOTTLE,2020,5900,1920,50,Hauptlager,,True
+,,Cuvée „Liebenstein“,Baron Longo,,BOTTLE,2019,6100,2200,50,Hauptlager,,True
+,,Cuvée „Amistar“ Weiss,Peter Sölva & Söhne,,BOTTLE,2023,6200,2500,50,Hauptlager,,True
+,,Cuvée „Nova Domus“,Terlan,,BOTTLE,2020,7300,3979,50,Hauptlager,,True
+,,Weiss „Casòn Hirschprunn“ Bio,Alois Lageder,,BOTTLE,2020,7500,2890,50,Hauptlager,,True
+,,Weiss „Viribus Unitis“,Kiemberger,,BOTTLE,2018,10900,4455,50,Hauptlager,,True
+,,Cuvée „TAL 1930“ Weiss,Bozen,,BOTTLE,2020,12900,5400,50,Hauptlager,,True
+,,Weiss „Beyond the Clouds“,Elena Walch,,BOTTLE,2020,13800,5465,50,Hauptlager,,True
+,,Weiss „Beyond the Clouds“,Elena Walch,,BOTTLE,2021,13800,5465,50,Hauptlager,,True
+,,Weiss „NAMA“,Nals/Margreid,,BOTTLE,2018,16400,7800,50,Hauptlager,,True
+,,Weiss „Appius“,St. Michael/Eppan,,BOTTLE,2017,19500,10490,50,Hauptlager,,True
+,,Chardonnay Riserva „Majerla“,Dorigati,,BOTTLE,2019,4100,1190,50,Hauptlager,,True
+,,Chardonnay Riserva „Majerla“,Dorigati,,BOTTLE,2021,4100,1190,50,Hauptlager,,True
+,,Pinot Grigio „Family Collection“ Bio,Corvezzo,,BOTTLE,2023,3500,650,50,Hauptlager,,True
+,,Pinot Grigio „Family Collection“ Bio,Corvezzo,,BOTTLE,2024,3500,650,50,Hauptlager,,True
+,,Soave Superiore „Runcata“,Corte Giacobbe,,BOTTLE,2020,5200,1880,50,Hauptlager,,True
+,,Soave Superiore „Runcata“,Corte Giacobbe,,BOTTLE,2021,5200,1880,50,Hauptlager,,True
+,,Pinot Grigio „Colli Orientali”,Torre Rosazza,,BOTTLE,2022,3800,880,50,Hauptlager,,True
+,,Pinot Grigio „Colli Orientali”,Torre Rosazza,,BOTTLE,2023,3800,880,50,Hauptlager,,True
+,,Lugana „Oro Blu”,Malavasi,,BOTTLE,2023,3700,790,50,Hauptlager,,True
+,,Lugana „Oro Blu”,Malavasi,,BOTTLE,2024,3700,790,50,Hauptlager,,True
+,,Lugana „Brolettino”,Ca' dei Frati,,BOTTLE,2020,4500,1440,50,Hauptlager,,True
+,,Lugana „Brolettino”,Ca' dei Frati,,BOTTLE,2021,4500,1440,50,Hauptlager,,True
+,,Langhe „Arneis“,Prunotto,,BOTTLE,2022,3500,1145,50,Hauptlager,,True
+,,Pinot Gris „élevé en barriques“,Lo Triolet,,BOTTLE,2020,5900,950,50,Hauptlager,,True
+,,Chardonnay „Bramìto”,Castello della Sala,,BOTTLE,2022,4900,1785,50,Hauptlager,,True
+,,Vermentino,Guado al Tasso,,BOTTLE,2020,4600,715,50,Hauptlager,,True
+,,Vermentino,Guado al Tasso,,BOTTLE,2021,4600,715,50,Hauptlager,,True
+,,Gronda Bianco Bio,Calafata,,BOTTLE,2021,5100,2190,50,Hauptlager,,True
+,,Trebbiano d’Abruzzo Bio,Emidio Pepe,,BOTTLE,2022,7700,1989,50,Hauptlager,,True
+,,Grillo Bio,Baglio di Pianetto,,BOTTLE,2023,4100,900,50,Hauptlager,,True
+,,Grillo Bio,Baglio di Pianetto,,BOTTLE,2024,4100,900,50,Hauptlager,,True
+,,Flaschenpost,Kiemberger,,HALF_BOTTLE,2019,3100,770,50,Hauptlager,,True
+,,Rosalie,Meran,,BOTTLE,2022,3400,690,50,Hauptlager,,True
+,,Rosalie,Meran,,BOTTLE,2023,3400,690,50,Hauptlager,,True
+,,Felix Anton,Baron Longo,,BOTTLE,2022,3700,990,50,Hauptlager,,True
+,,Blauburgunder Rosé „Summer“,Klosterhof,,BOTTLE,2022,4000,1070,50,Hauptlager,,True
+,,Blauburgunder Rosé „Summer“,Klosterhof,,BOTTLE,2023,4000,1070,50,Hauptlager,,True
+,,Merlot-Syrah Rosé,Niedrist,,BOTTLE,2023,4200,1245,50,Hauptlager,,True
+,,La Rose de Manincor Bio,Manincor,,BOTTLE,2021,4600,1460,50,Hauptlager,,True
+,,La Rose de Manincor Bio,Manincor,,BOTTLE,2022,4600,1460,50,Hauptlager,,True
+,,Lagrein Rosé,Luis Wine,,BOTTLE,2021,4900,810,50,Hauptlager,,True
+,,Bacio Rosa,Malavasi,,BOTTLE,2021,3500,832,50,Hauptlager,,True
+,,Rosa dei Frati,Ca’ dei Frati,,BOTTLE,2022,4000,1030,50,Hauptlager,,True
+,,I Pianali,Argentiera,,BOTTLE,2023,3900,1190,50,Hauptlager,,True
+,,Rose Scalabrone,Guado al Tasso,,BOTTLE,2022,4100,1350,50,Hauptlager,,True
+,,Rose Scalabrone,Guado al Tasso,,BOTTLE,2023,4100,1350,50,Hauptlager,,True
+,,Rosato „Sí“,Duemani,,BOTTLE,2023,5900,2370,50,Hauptlager,,True
+,,Calafuria,Tormaresca,,BOTTLE,2022,4700,1989,50,Hauptlager,,True
+,,Furia di Calafuria,Tormaresca,,BOTTLE,2021,5800,2020,50,Hauptlager,,True
+,,Furia di Calafuria,Tormaresca,,BOTTLE,2022,5800,2020,50,Hauptlager,,True
+,,Vernatsch „Campill“,Pranzegg,,BOTTLE,2020,5100,1725,50,Hauptlager,,True
+,,Zweigelt „Terrnais“,Rebhof,,BOTTLE,2020,4500,1360,50,Hauptlager,,True
+,,Zweigelt „Terrnais“,Rebhof,,BOTTLE,2021,4500,1360,50,Hauptlager,,True
+,,Blauburgunder „Klassisch“,Josmoar,,BOTTLE,2021,4800,1240,50,Hauptlager,,True
+,,Blauburgunder Riserva,Prackfol,,BOTTLE,2021,5400,1939,50,Hauptlager,,True
+,,Blauburgunder „Castel Juval“,Unterortl Juval,,BOTTLE,2019,5700,2135,50,Hauptlager,,True
+,,Blauburgunder „Castel Juval“,Unterortl Juval,,BOTTLE,2020,5700,2135,50,Hauptlager,,True
+,,Blauburgunder Ris. „Burgum Novum“,Castelfeder ,,BOTTLE,2020,5900,2310,50,Hauptlager,,True
+,,Blauburgunder Ris. „Mazzon“,Brunnenhof,,BOTTLE,2020,6600,2640,50,Hauptlager,,True
+,,Blauburgunder „U. Barthenau“,Hofstätter,,BOTTLE,2018,11900,4935,50,Hauptlager,,True
+,,Lagrein Riserva „Amperg“,Klaus Lentsch,,BOTTLE,2020,4600,1390,50,Hauptlager,,True
+,,Lagrein Gries Riserva „Select“,Rottensteiner,,BOTTLE,2021,4900,1620,50,Hauptlager,,True
+,,Lagrein Riserva „Barbagòl“,Laimburg,,BOTTLE,2020,5300,1880,50,Hauptlager,,True
+,,Lagrein Gries Ris. „Prestige Line“,Bozen,,BOTTLE,2021,5500,1920,50,Hauptlager,,True
+,,Lagrein Riserva „Klassisch“,Unterganzner,,BOTTLE,2021,5700,1839,50,Hauptlager,,True
+,,Lagrein Riserva „Rotes Bergwerk“,Kiemberger,,BOTTLE,2018,5900,1885,50,Hauptlager,,True
+,,Lagrein Riserva „Rotes Bergwerk“,Kiemberger,,BOTTLE,2019,5900,1885,50,Hauptlager,,True
+,,Lagrein Riserva „Lagröll“,St. Pauls,,BOTTLE,2021,6000,2100,50,Hauptlager,,True
+,,Lagrein Riserva „Carano”,Baron di Pauli,,BOTTLE,2019,6100,2240,50,Hauptlager,,True
+,,Lagrein Riserva „Abtei Muri“,Muri Gries,,BOTTLE,2021,6500,1989,50,Hauptlager,,True
+,,Lagrein Riserva „Tor di Lupo”,Andrian,,BOTTLE,2020,6900,2770,50,Hauptlager,,True
+,,Lagrein Riserva „Tor di Lupo”,Andrian,,BOTTLE,2021,6900,2770,50,Hauptlager,,True
+,,Lagrein Riserva „Mirell“,Waldgries,,BOTTLE,2019,7800,3095,50,Hauptlager,,True
+,,Lagrein Riserva „Taber“,Bozen,,BOTTLE,2020,8300,3150,50,Hauptlager,,True
+,,Lagrein Riserva „Taber“,Bozen,,BOTTLE,2021,8300,3150,50,Hauptlager,,True
+,,Lagrein Riserva „Porphyr“,Terlan,,BOTTLE,2019,9400,3590,50,Hauptlager,,True
+,,Lagrein Riserva „Porphyr“,Terlan,,BOTTLE,2020,9400,3590,50,Hauptlager,,True
+,,Lagrein Riserva „Raut“,Luis Wine,,BOTTLE,2019,9800,3970,50,Hauptlager,,True
+,,Lamarein,Unterganzner,,BOTTLE,2021,14500,4615,50,Hauptlager,,True
+,,Lamarein,Unterganzner,,BOTTLE,2022,14500,4615,50,Hauptlager,,True
+,,Lagrein Riserva „Perflabilis“,Griesbauerhof,,BOTTLE,2018,15500,5510,50,Hauptlager,,True
+,,Lagrein Riserva „Roblinus de' Waldgries“,Waldgries,,BOTTLE,2016,16100,7180,50,Hauptlager,,True
+,,Lagrein Riserva „Roblinus de' Waldgries“,Waldgries,,BOTTLE,2017,16100,7180,50,Hauptlager,,True
+,,Lagrein Ris. „Weing. Klosteranger“,Muri Gries,,BOTTLE,2017,16800,5000,50,Hauptlager,,True
+,,Merlot „Fihl“,Peter Dipoli,,BOTTLE,2020,4400,1260,50,Hauptlager,,True
+,,Merlot „Black“,Bozen,,BOTTLE,2021,4700,1256,50,Hauptlager,,True
+,,Merlot Riserva „Staffes“,Kornell,,BOTTLE,2020,5300,1850,50,Hauptlager,,True
+,,Merlot Riserva „Staffes“,Kornell,,BOTTLE,2021,5300,1850,50,Hauptlager,,True
+,,Merlot Riserva „Nussbaum“,Klosterhof,,BOTTLE,2020,5900,2020,50,Hauptlager,,True
+,,Merlot Riserva „Nussleiten“,Castel Sallegg,,BOTTLE,2018,8000,3200,50,Hauptlager,,True
+,,Merlot Riserva „DJJ“,Niklas,,BOTTLE,2021,8300,3250,50,Hauptlager,,True
+,,Merlot Riserva „Gant“,Andrian,,BOTTLE,2020,8500,3470,50,Hauptlager,,True
+,,Merlot Riserva „Gant“,Andrian,,BOTTLE,2021,8500,3470,50,Hauptlager,,True
+,,Merlot „Vecchie Viti MCMLVII“ Bio,Alois Lageder,,BOTTLE,2019,8700,3425,50,Hauptlager,,True
+,,Merlot Riserva „LONA“,St. Pauls,,BOTTLE,2020,9200,3700,50,Hauptlager,,True
+,,Merlot Riserva „LONA“,St. Pauls,,BOTTLE,2021,9200,3700,50,Hauptlager,,True
+,,Cabernet S. „Istrice“,Elena Walch,,BOTTLE,2022,4900,1795,50,Hauptlager,,True
+,,Cabernet S. Ris. „Sass Roà“,Laimburg,,BOTTLE,2020,5300,1750,50,Hauptlager,,True
+,,Cabernet S. Riserva „Idea”,Seeperle,,BOTTLE,2019,5500,2020,50,Hauptlager,,True
+,,Cabernet S. Riserva „Idea”,Seeperle,,BOTTLE,2020,5500,2020,50,Hauptlager,,True
+,,Cabernet S. Riserva „Klassisch“,Wassererhof ,,BOTTLE,2019,5900,2130,50,Hauptlager,,True
+,,Cabernet S. Riserva „Klassisch“,Wassererhof ,,BOTTLE,2020,5900,2130,50,Hauptlager,,True
+,,Cabernet S. Ris.„COR Römigberg“,Alois Lageder,,BOTTLE,2016,9500,3745,50,Hauptlager,,True
+,,Cabernet S. Ris.„COR Römigberg“,Alois Lageder,,BOTTLE,2017,9500,3745,50,Hauptlager,,True
+,,Cabernet S. Ris. „Höhepunkt“,Seeperle,,BOTTLE,2017,10500,4200,50,Hauptlager,,True
+,,Cabernet Sauvignon „Lafóa“,Schreckbichl,,BOTTLE,2016,13500,5500,50,Hauptlager,,True
+,,Cabernet Sauvignon „Lafóa“,Schreckbichl,,BOTTLE,2017,13500,5500,50,Hauptlager,,True
+,,Cuvée „Mumbolt“,Wassererhof ,,BOTTLE,2022,4400,1400,50,Hauptlager,,True
+,,Cuvée „Il Conte“ Bio,Manincor,,BOTTLE,2022,4800,1355,50,Hauptlager,,True
+,,Cuvée „Yhrn“,Schloss Plars,,BOTTLE,2022,5300,2000,50,Hauptlager,,True
+,,Cuvée „Staffelfeld“,Baron Widmann,,BOTTLE,2021,5700,1700,50,Hauptlager,,True
+,,Cuvée „Cassiano“ Bio,Manincor,,BOTTLE,2021,6300,2490,50,Hauptlager,,True
+,,Rot „Wellenburg,Baron Longo,,BOTTLE,2019,6300,2200,50,Hauptlager,,True
+,,Cuvée „Mauritius“,Bozen,,BOTTLE,2021,6500,2500,50,Hauptlager,,True
+,,„Amistar“ Rot,Peter Sölva & Söhne,,BOTTLE,2021,6500,2500,50,Hauptlager,,True
+,,Rot „Casòn Hirschprunn“ Bio,Alois Lageder,,BOTTLE,2019,6800,2570,50,Hauptlager,,True
+,,Rot „Casòn Hirschprunn“ Bio,Alois Lageder,,BOTTLE,2020,6800,2570,50,Hauptlager,,True
+,,Arzio,Baron di Pauli,,BOTTLE,2019,7300,2880,50,Hauptlager,,True
+,,Arzio,Baron di Pauli,,BOTTLE,2020,7300,2880,50,Hauptlager,,True
+,,Col de Réy,Laimburg,,BOTTLE,2018,7500,2820,50,Hauptlager,,True
+,,Iugum,Peter Dipoli,,BOTTLE,2018,7900,3075,50,Hauptlager,,True
+,,Loam,Tramin,,BOTTLE,2021,8200,3300,50,Hauptlager,,True
+,,Sagittarius,Kränzelhof,,BOTTLE,2019,8500,3329,50,Hauptlager,,True
+,,Kermesse,Elena Walch,,BOTTLE,2019,10600,4410,50,Hauptlager,,True
+,,Rot „Viribus Unitis“,Kiemberger,,BOTTLE,2017,11500,4860,50,Hauptlager,,True
+,,Composition „Reif“,Unterganzner,,BOTTLE,2021,12500,3690,50,Hauptlager,,True
+,,Composition „Reif“,Unterganzner,,BOTTLE,2022,12500,3690,50,Hauptlager,,True
+,,Historischer Satz „Löwengang“,Alois Lageder,,BOTTLE,2021,12800,5350,50,Hauptlager,,True
+,,Amistar Edizione,Peter Sölva & Söhne,,BOTTLE,2019,14700,6200,50,Hauptlager,,True
+,,Amistar Edizione,Peter Sölva & Söhne,,BOTTLE,2020,14700,6200,50,Hauptlager,,True
+,,Cuvée „TAL 1908“ Rot,Bozen,,BOTTLE,2020,17100,8100,50,Hauptlager,,True
+,,Cuvée „Rosso Planus“,Dorigati,,BOTTLE,2019,3800,980,50,Hauptlager,,True
+,,Tiroldego Gold,Dorigati,,BOTTLE,2019,4800,882,50,Hauptlager,,True
+,,Teroldego Rotaliano Superiore Ris. „Luigi“,Dorigati,,BOTTLE,2018,6800,2540,50,Hauptlager,,True
+,,Teroldego Rotaliano Superiore Ris. „Luigi“,Dorigati,,BOTTLE,2019,6800,2540,50,Hauptlager,,True
+,,Valpolicella „Classico“,Secondo Marco,,BOTTLE,2019,4500,1015,50,Hauptlager,,True
+,,Amarone della Valpolicella,Fumanelli ,,BOTTLE,2018,9800,4160,50,Hauptlager,,True
+,,Amarone della Valpolicella,Secondo Marco,,BOTTLE,2013,10300,3695,50,Hauptlager,,True
+,,Rosso „Solo per un amico”,Secondo Marco,,BOTTLE,2012,13800,5860,50,Hauptlager,,True
+,,Amarone della Valpolicella „Selezione Benedetto Speri”,Secondo Marco,,BOTTLE,2008,17900,8320,50,Hauptlager,,True
+,,Amarone della Valpolicella „Il Fumetto”,Secondo Marco,,BOTTLE,2008,29500,15400,50,Hauptlager,,True
+,,"Amarone della Valpolicella „Pietro dal Cero""",Ca' dei Frati,,BOTTLE,2015,12900,4530,50,Hauptlager,,True
+,,"Amarone della Valpolicella „Pietro dal Cero""",Ca' dei Frati,,BOTTLE,2013,20900,11800,50,Hauptlager,,True
+,,"Amarone della Valpolicella „Pietro dal Cero""",Ca' dei Frati,,BOTTLE,2012,25400,15890,50,Hauptlager,,True
+,,"Amarone della Valpolicella „Pietro dal Cero""",Ca' dei Frati,,BOTTLE,2011,24500,15069,50,Hauptlager,,True
+,,"Amarone della Valpolicella „Pietro dal Cero""",Ca' dei Frati,,BOTTLE,2009,22000,12800,50,Hauptlager,,True
+,,Cuvée „602020“ Riserva,Zýmē,,BOTTLE,2020,6500,2500,50,Hauptlager,,True
+,,Oseleta „Il Gene”,Zýmē,,BOTTLE,2013,8300,3300,50,Hauptlager,,True
+,,Oseleta „Il Gene”,Zýmē,,BOTTLE,2015,8300,3300,50,Hauptlager,,True
+,,Syrah „La mia passione“ Riserva,Zýmē,,BOTTLE,2017,9900,4070,50,Hauptlager,,True
+,,Syrah „La mia passione“ Riserva,Zýmē,,BOTTLE,2019,9900,4070,50,Hauptlager,,True
+,,Cuvée „Kairos“ Riserva,Zýmē,,BOTTLE,2019,9900,4070,50,Hauptlager,,True
+,,Cuvée „Kairos“ Riserva,Zýmē,,BOTTLE,2020,9900,4070,50,Hauptlager,,True
+,,Cuvée „Harlequin“ Riserva,Zýmē,,BOTTLE,2016,35900,25000,50,Hauptlager,,True
+,,Amarone „La Mattonara” Riserva,Zýmē,,BOTTLE,2009,35900,25000,50,Hauptlager,,True
+,,Ronchedone,Ca' dei Frati,,BOTTLE,2020,4900,1510,50,Hauptlager,,True
+,,Cuvée „Corte del Lupo“,Ca' del Bosco,,BOTTLE,2020,5500,2039,50,Hauptlager,,True
+,,Il Merlot,Ca' del Bosco,,BOTTLE,2011,14900,6250,50,Hauptlager,,True
+,,Rosso del Sebino „Carmenero“,Ca' del Bosco,,BOTTLE,2018,18300,9420,50,Hauptlager,,True
+,,S Cuvée Rosso „Mompertone“,Prunotto,,BOTTLE,2022,3700,1125,50,Hauptlager,,True
+,,Langhe Nebbiolo „Occhetti“,Prunotto,,BOTTLE,2022,4500,1470,50,Hauptlager,,True
+,,Barbera „Gradale“ Bio,Villa Terlina,,BOTTLE,2019,4900,1375,50,Hauptlager,,True
+,,Barbera „Bricco dell’Uccellone“,Braida,,BOTTLE,2019,11300,4340,50,Hauptlager,,True
+,,Barbaresco „Bric Turot“,Prunotto,,BOTTLE,2019,9700,3920,50,Hauptlager,,True
+,,Barbaresco „Bric Turot“,Prunotto,,BOTTLE,2020,9700,3920,50,Hauptlager,,True
+,,Barolo „Margheria“,Massolino,,BOTTLE,2017,12700,5065,50,Hauptlager,,True
+,,Barolo „Margheria“,Massolino,,BOTTLE,2019,12700,5065,50,Hauptlager,,True
+,,Barolo „Bussia“,Prunotto,,BOTTLE,2017,14900,6370,50,Hauptlager,,True
+,,Barolo „Bussia“,Prunotto,,BOTTLE,2018,14900,6370,50,Hauptlager,,True
+,,Barolo „Mosconi“,Prunotto,,BOTTLE,2020,16800,7759,50,Hauptlager,,True
+,,Barolo Riserva „Vigna Colonnello“,Prunotto,,BOTTLE,2018,24300,14540,50,Hauptlager,,True
+,,Chianti Classico „Colli Senesi“,Castello di Farnetella,,BOTTLE,2022,3700,700,50,Hauptlager,,True
+,,Chianti Classico „Colli Senesi“,Castello di Farnetella,,BOTTLE,2023,3700,700,50,Hauptlager,,True
+,,Chianti Classico „Berardenga“,Fèlsina,,BOTTLE,2020,5300,2400,50,Hauptlager,,True
+,,Chianti Class. Ris. „March. Antinori“,Tignanello,,BOTTLE,2019,7100,2800,50,Hauptlager,,True
+,,Cabreo „Il Borgo“,Folonari,,BOTTLE,2018,7600,2990,50,Hauptlager,,True
+,,Cabreo „Il Borgo“,Folonari,,BOTTLE,2019,7600,2990,50,Hauptlager,,True
+,,Fontalloro,Fèlsina,,BOTTLE,2018,10900,4390,50,Hauptlager,,True
+,,Tignanello,Marchese Antinori          ,,BOTTLE,2019,18200,8990,50,Hauptlager,,True
+,,Rosso di Montalcino Bio,Col d'Orcia,,BOTTLE,2021,4400,1600,50,Hauptlager,,True
+,,Brunello di Montalcino Bio,Col d'Orcia,,BOTTLE,2017,7500,2890,50,Hauptlager,,True
+,,Brunello di Montalcino Bio,Col d'Orcia,,BOTTLE,2018,7500,2890,50,Hauptlager,,True
+,,Brunello di Montalcino „Le Macioche“,Famiglia Cottarella,,BOTTLE,2016,13900,5436,50,Hauptlager,,True
+,,Brunello di Montalcino „Le Macioche“,Famiglia Cottarella,,BOTTLE,2017,13900,5436,50,Hauptlager,,True
+,,Brunello di Montalcino „Poggio al Vento” Bio,Col d'Orcia,,BOTTLE,2015,17900,8000,50,Hauptlager,,True
+,,Morellino di Scansano „Capatosta“,Poggioargentiera,,BOTTLE,2020,4500,1085,50,Hauptlager,,True
+,,Cuvée „Rosso dei Notri“,Tua Rita,,BOTTLE,2022,4900,1120,50,Hauptlager,,True
+,,Bolgheri Rosso „Varvàra“,Castello di Bolgheri,,BOTTLE,2020,5600,1825,50,Hauptlager,,True
+,,Bolgheri Rosso „Il Bruciato“,Guado al Tasso,,BOTTLE,2023,5900,2095,50,Hauptlager,,True
+,,Bolgheri Sup. „Villa Donoratico“,Argentiera,,BOTTLE,2021,7300,2200,50,Hauptlager,,True
+,,Cifra Bio,Duemani,,BOTTLE,2021,6800,2370,50,Hauptlager,,True
+,,Cont’Ugo,Guado al Tasso,,BOTTLE,2020,9400,3820,50,Hauptlager,,True
+,,Guidalberto,San Guido,,BOTTLE,2020,10400,3790,50,Hauptlager,,True
+,,Bolgheri Superiore „Argentiera“,Argentiera,,BOTTLE,2019,15900,7150,50,Hauptlager,,True
+,,Bolgheri Superiore „Argentiera“,Argentiera,,BOTTLE,2020,15900,7150,50,Hauptlager,,True
+,,Bolgheri Superiore „Guado al Tasso”,Marchese Antinori          ,,BOTTLE,2019,19800,11540,50,Hauptlager,,True
+,,Bolgheri Superiore „Guado al Tasso”,Marchese Antinori          ,,BOTTLE,2020,19800,11540,50,Hauptlager,,True
+,,Solaia,Marchese Antinori          ,,BOTTLE,2019,42900,29500,50,Hauptlager,,True
+,,Sassicaia,San Guido,,BOTTLE,2018,51400,35900,50,Hauptlager,,True
+,,Primitivo „Torcicoda”,Tormaresca,,BOTTLE,2021,4400,1280,50,Hauptlager,,True
+,,Primitivo „Torcicoda”,Tormaresca,,BOTTLE,2022,4400,1280,50,Hauptlager,,True
+,,Negroamaro „Appassimento Nireus”,Ionis,,BOTTLE,2021,4900,894,50,Hauptlager,,True
+,,Primitivo di Manduria „Ater”,Ionis,,BOTTLE,2015,5700,1689,50,Hauptlager,,True
+,,Primitivo „Diciotto“,Schola Sarmenti,,BOTTLE,2019,8900,3434,50,Hauptlager,,True
+,,Primitivo „Diciotto“,Schola Sarmenti,,BOTTLE,2020,8900,3434,50,Hauptlager,,True
+,,Primitivo „Se”,Gianfranco Fino,,BOTTLE,2019,10900,4500,50,Hauptlager,,True
+,,Aglianico „Castel del Monte” Bio,Bocca di Lupo,,BOTTLE,2019,11000,4700,50,Hauptlager,,True
+,,Aglianico „Castel del Monte” Bio,Bocca di Lupo,,BOTTLE,2020,11000,4700,50,Hauptlager,,True
+,,Negroamaro „Jo”,Gianfranco Fino,,BOTTLE,2018,11700,5100,50,Hauptlager,,True
+,,Primitivo „Es”,Gianfranco Fino,,BOTTLE,2021,11800,5100,50,Hauptlager,,True
+,,Primitivo „Es” – RED Edition,Gianfranco Fino,,BOTTLE,2017,18300,8650,50,Hauptlager,,True
+,,Sole dei Padri Bio,Die Principi di Spadafora,,BOTTLE,2009,8300,4400,50,Hauptlager,,True
+,,Sole dei Padri Bio,Die Principi di Spadafora,,BOTTLE,2012,8300,4400,50,Hauptlager,,True
+,,Mille e una Notte,Donnafugata,,BOTTLE,2018,11900,4930,50,Hauptlager,,True
+,,Terre Brune Superiore,Cantina Santadi,,BOTTLE,2018,10400,3960,50,Hauptlager,,True
+,,Spätburgunder GG „Bienenberg“,Bernhard Huber,,BOTTLE,2014,16400,7415,50,Hauptlager,,True
+,,Rioja „Jaun de Alzate“ Riserva,Bodegas Loli Casado,,BOTTLE,2018,4900,1902,50,Hauptlager,,True
+,,Negre de Negres,Clos del Portal/Arribas,,BOTTLE,2017,9500,2850,50,Hauptlager,,True
+,,Haut Médoc Rouge AOC,Château Sociando Mallet,,BOTTLE,2017,8900,3050,50,Hauptlager,,True
+,,Pauillac Rouge,Château Lynch-Bages,,BOTTLE,2017,21600,9370,50,Hauptlager,,True
+,,Pauillac Rouge,Château Lynch-Bages,,BOTTLE,2018,21600,9370,50,Hauptlager,,True
+,,Châteauneuf du Pape AOC,Domaine de Villeneuve,,BOTTLE,2016,9900,3279,50,Hauptlager,,True
+,,Châteauneuf du Pape AOC,Domaine de Villeneuve,,BOTTLE,2017,9900,3279,50,Hauptlager,,True
+,,Gevrey Chambertin AGC Vieilleis,Domaine F. Magnien,,BOTTLE,2017,12900,5520,50,Hauptlager,,True
+,,Pinot Noir „Block 10“,Saint Clair Family Estate,,BOTTLE,2020,8900,3400,50,Hauptlager,,True
+,,Cabernet Sauvignon „Redstone“,Capelands Estate,,BOTTLE,2013,8700,2500,50,Hauptlager,,True
+,,Cabernet Sauvignon „Redstone“,Capelands Estate,,BOTTLE,2016,8700,2500,50,Hauptlager,,True
+,,Rosenmuskateller,Kaltern,,BOTTLE,2022,3900,750,50,Hauptlager,,True
+,,Goldmuskateller,Kaltern,,BOTTLE,2022,4200,780,50,Hauptlager,,True
+,,"Moscato d’Asti „Serralunga“ 0,7 lt.",Massolino,,BOTTLE,2021,3700,800,50,Hauptlager,,True
+,,"Moscato d’Asti „Serralunga“ 0,7 lt.",Massolino,,BOTTLE,2022,3700,800,50,Hauptlager,,True
+,,"Petit Manseng „Aurie“ 0,5 lt.",St. Pauls,,BOTTLE,2019,4900,1700,50,Hauptlager,,True
+,,"Petit Manseng „Aurie“ 0,5 lt.",St. Pauls,,BOTTLE,2020,4900,1700,50,Hauptlager,,True
+,,Passito „Canthus“,Schreckbichl,,BOTTLE,2015,5700,2090,50,Hauptlager,,True
+,,Passito „Canthus“,Schreckbichl,,BOTTLE,2016,5700,2090,50,Hauptlager,,True
+,,Passito „Comtess“,St. Michael/Eppan,,BOTTLE,2021,6000,2310,50,Hauptlager,,True
+,,Kerner „Nectaris“,Eisacktaler Kellerei,,BOTTLE,2021,6200,2250,50,Hauptlager,,True
+,,Recioto della Valpolicella,Secondo Marco,,BOTTLE,2016,7500,2930,50,Hauptlager,,True
+,,Recioto della Valpolicella,Secondo Marco,,BOTTLE,2017,7500,2930,50,Hauptlager,,True
+,,Recioto della Valpolicella „Amandorlato”,Zýmē,,BOTTLE,2016,15500,6600,50,Hauptlager,,True
+,,"Verduzzo Friulano 0,5 lt.",Torre Rosazza,,BOTTLE,2018,4400,925,50,Hauptlager,,True
+,,"Verduzzo Friulano 0,5 lt.",Torre Rosazza,,BOTTLE,2019,4400,925,50,Hauptlager,,True
+,,Passito Primitivo „Corimei”,Schola Sarmenti,,BOTTLE,2020,4900,1000,50,Hauptlager,,True
+,,Passito della Pantelleria „Ben Ryé“          ,Donnafugata ,,BOTTLE,2020,6500,2580,50,Hauptlager,,True

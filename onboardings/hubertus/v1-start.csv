@@ -1,0 +1,1043 @@
+type,prefix,name,winery,internal_notes,size,vintage,ricavo,purchase_price,sales_price,qty
+,Metodo Charmat,Ruio Brut,Malibran,,,0,28,5.85 €, 35.00 € ,276
+,,Rose Brut,Malibran,,,0,33,5.85 €, 40.00 € ,58
+,,Col Fondo Sottoriva,Malibran,,,0,28,5.85 €, 35.00 € ,14
+,,Credamora,Malibran,,,2021,36,7 €, 45.00 € ,7
+,,Col Fondo vintage,Malibran,,,2016,ö,0 €, NON IN LIST,3
+,Metodo Classico,BRUT ANCESTRALE,LIESELEHOF,,,0,30,32.50 €, 70.00 € ,10
+,,BRUT SPUMANTE,H. LENTSCH,,,0,24,16.90 €, 45.00 € ,8
+,,Zero Infinito,Pojer & Sandri,,,0,39,13 €, 55.00 € ,8
+,,Dassie Favrel,Malibran,,,2014,32,15 €, 50.00 € ,5
+,,BLANC DE NOIRS PAS DOSE,FRANZ HAAS,,,2018,31,23.60 €, 60.00 € ,7
+,,Spumante Extra Brut,Bruno Giacosa,,,0,,22 €, NON IN LIST,1
+,,Alta Langa Pas Dosé,Contratto,,,2017,,15.84 €, 50.00 € ,2
+,,Alta Langa Extra Brut,Ettore Germano,,,2019,32,19 €, 55.00 € ,9
+,,Brut,Facchetti,,,0,35,16.20 €, 55.00 € ,32
+,,Perle´Bianco,Ferrari,,,2015,39,35.00 €, 80.00 € ,8
+,,Perle Rose,Ferrari,,,2016,39,39.00 €, 85.00 € ,8
+,,Hausmannhof Riserva Brut,Haderburg,,,2013,37,42 €, 88.00 € ,1
+,,Perlé Nero,Ferrari,,,2015,43,65 €, 108.00 € ,10
+,,Giulio Ferrari,Ferrari,,,2010,98,125.00 €, 250.00 € ,3
+,,Giulio Ferrari,Ferrari,,,2012,,143.00 €, NON IN LIST,5
+,,Giulio Ferrari ROSE,Ferrari,,,2008,ö,195.00 €, 400.00 € ,1
+,,Rose Arunda,Arunda,,,0.00 €,28.50 €,22.00 €, 55.00 € ,15
+,,Annamaria Clementi,Ca del Bosco,,,0.00 €,,98 €, 225.00 € ,4
+,,Brut Sekt,Raumland,,,0.00 €,34.00 €,17, 55.00 € ,4
+,CHAMPAGNE,Brut Tradition,Michel Laval,,,0,,20.00 €, NON IN LIST,6
+,,BRUT RESERVE ,CHARLES HEIDSIECK,,,0,51,44 €, 105.00 € ,1
+,,Brut Intuition,Legras Haas,,,0,50,32 €, 90.00 € ,21
+,,Reserve Perpetuelle,Maurice Groumier,,,0,,38.00 €, 115.00 € ,5
+,,Grand Cru Brut Nature,Sautiran,,,0,,49.70 €, 120.00 € ,4
+,,SPECIAL CUVEE,BOLLINGER,,,0,53,55.00 €, 120.00 € ,35
+,,Cuvèe 745,Jacquesson,MAGAZZINO,,0,44,62.00 €, NON IN LIST,5
+,,Cuvee 746,Jacquesson,,,0,59,73.00 €, 148.00 € ,3
+,,Cuvee 747,Jacquesson,,,0,,57.60 €, 148.00 € ,3
+,,BRUT NATURE 1er CRU Cumieres,GEORGES LAVAL,,,0,,, 160.00 € ,3
+,,BELLE EPOQUE,PERRIER JOUET,,,2012,104,189 €, 335.00 € ,1
+,,Extra Brut,Perseval Farge,,,0,55,44.00 €, 99.00 € ,2
+,,Blanc de Noirs,Palmer,,,0,,55.00 €, 138.00 € ,3
+,,Dans un Premier Temps,Dhondt Grellet,,,0,80,57.00 €, 150.00 € ,3
+,,Blanc de NOIRS Nature,Laherte Freres,,,0,,58.00 €, 142.00 € ,6
+,,Classic Cuvée,Nyetimber,,,0,,58.85 €, 135.00 € ,4
+,,L´Ouverture BdN,Frederic Savart,,,0,,60.00 €, 160.00 € ,4
+,,Reserve Brut,Bereche,,,0,,60.00 €, 125.00 € ,3
+,,BdB ,Delamotte,,,0,,79.00 €, 155.00 € ,2
+,,Les Terres Fines BdB,Dhondt Grellet,,,0,,77.50 €, NON IN LIST,4
+,,Blanc de Blancs,Billecart Salmon,,,0,,79.00 €, 165.00 € ,6
+,,Rive Gauche Pinot Meunier,Bereche,,,2020,,83.00 €, NON IN LIST,3
+,,Entre Ciel y Terre,Bedel,,,2016,,86.00 €, 175.00 € ,4
+,,Brut Vintage,Billecart Salmon,,,2013,,88.00 €, 208.00 € ,3
+,,Beaux Regards Extrabrut 1er cru BDB,Bereche,,,2020,,108.00 €, NON IN LIST,3
+,,742 Degorgement Tardif,Jacquesson,,,0,,95.20 €, NON IN LIST,6
+,,1522 Extra Brut Grand Cru,Philipponnat,,,2016,68,112.00 €, 205.00 € ,1
+,,Extra Brut Grand Cru,Egly Ouriet,,,0,93,120 €, 240.00 € ,5
+,,Champ Cain,Jacquesson,,,2013,,153.00 €, NON IN LIST,2
+,,DOM PERIGNON ,MOET & CHANDON,,,2012,85,250 €, 390.00 € ,2
+,,Grand Siecle N26,Laurent Perrier,,,0,,171 €, NON IN LIST,3
+,,DOM PERIGNON ,MOET & CHANDON,,,2015,,172 €, NON IN LIST,6
+,,Cristal,Louis Roederer,,,2015,79,255.00 €, 390.00 € ,1
+,,Grande Cuvée 169eme,Krug,,,0,111,229.00 €, 390.00 € ,2
+,,SIR WINSTON,POL ROGER,,,2012,103,235 €, 390.00 € ,2
+,,Le Leon,Philipponnat,,,2014,54,275 €, 390.00 € ,2
+,,P2,MOET & CHANDON,,,2004,175,389 €, 650.00 € ,3
+,,Initial,Selosse,,,0,351,450 €, 900.00 € ,1
+,Champagne Rose,ROSÉ,Legras Haas,,,0,,35 €, NON IN LIST,6
+,,Solera Rose,Palmer,,,0,,46.00 €, 115.00 € ,3
+,,Rose de Meunier Extra Brut,Laherte Freres,,,0,,52.00 €, 120.00 € ,3
+,,CUVEE SPECIAL ROSE ,BOLLINGER,,,0,56,81 €, 155.00 € ,2
+,,Rose Brut,Ruinart,,,0,,82.00 €, 162.00 € ,3
+,,Bulle de Rosé 1er Cru,Savart,,,0,,89.00 €, NON IN LIST,6
+,,Rose 23esima,Krug,,,0,,349, 650.00 € ,2
+WHITE,PINOT BIANCO,WEISSBURGUNDER,H. LENTSCH,,,2022,22,10.50 €, 35.00 € ,14
+,,Weissburgunder  ,Unterortl,,,2022,,13.10 €, 52.00 € ,4
+,,RISERVA FLORA,GIRLAN,,,2018,29,14.40 €, 47.00 € ,16
+,,Private Reserve,Falkenstein,,,2016,magaz,16.50 €, 70.00 € ,2
+,,Kristallberg,Elena Walch,,,2022,,17.00 €, 65.00 € ,12
+,,Tyrol,Meran,,,2022,,18.00 €, 60.00 € ,6
+,,ST.  VALENTIN,ST. MICHAEL EPPAN,,,X,32,20.64 €, 55.00 € ,8
+,,Limes,Ignaz Niedrist,,,2021,36,22 €, 60.00 € ,10
+,,RISERVA VORBERG,TERLAN,,,2020,52,20.90 €, 78.00 € ,10
+,,RISERVA VORBERG,TERLAN,,,2021,,23.00 €, non in list,24
+,,RISERVA VORBERG,TERLAN,Late release Harpf,,2015,,37.00 €, 93.00 € ,5
+,,Phileo,Falkenstein,,,2018,,26.80 €, 85.00 € ,1
+,,Weissburgunder  ,Dönnhoff,,,2021,,21.32 €, 62.00 € ,4
+,,REINASSANCE,Gumphof,,,2019,32,27 €, 65.00 € ,2
+,,Kirschgarten GG,Knipser,,,2020,34,36 €, 78.00 € ,5
+,,Weisser Burgunder I,Von Winning,,,2015,,37.00 €, 98.00 € ,4
+,,Castellberg GC,Martin Waßmer,,,2021,,40.00 €, 82.00 € ,9
+,,RISERVA 5 YEARS,MERAN,,,2016,37,45.00 €, 98.00 € ,4
+,,Weisser Burgunder S,Wittmann,,,2011,,53.00 €, NON IN LIST,2
+,,SANCTISSIMUS,ST. PAULS,,,2017,48,55 €, 115.00 € ,7
+,,RARITY,TERLAN,,,2010,143,108 €, 275.00 € ,2
+,,RARITY,TERLAN,,,2008,,132 €, non in list,2
+,,RARITY,TERLAN,,,2007,,137 €, non in list,2
+,,RARITY,TERLAN,,,2006,,142 €, non in list,2
+,CHARDONNAY,CHARDONNAY,H. LENTSCH,,,2019,22,10.30 €, 35.00 € ,30
+,,Kreuth,Terlan,,,2022,,14 €, 45.00 € ,13
+,,FLORA RISERVA,GIRLAN,,,2019,23,16.80 €, 48.00 € ,14
+,,St. Valentin,St. Michael Eppan,,,2020,23,20 €, 48.00 € ,8
+,,Crivelli,PETER ZEMMER,,,2021,27,25.40 €, 58.00 € ,8
+,,DORAN RISERVA,ANDRIAN,,,2020,30,26 €, 60.00 € ,9
+,,Chardonnay Vom Kalk,Ignaz Niedrist,,,2020,35,36 €, 75.00 € ,0
+,,Lowengang,Alois Lageder,,,2020,36,45 €, 88.00 € ,9
+,,Au,Tiefenbrunner,,,2020,,59 €, NON IN LIST,16
+,,TROY,TRAMIN,,,misti,39,58.00 €, 105.00 € ,10
+,,Kreuzweg,Castelfeder,,,2019,57,56.00 €, 125.00 € ,4
+,,Kreuzweg,Castelfeder,,,2020,,56.00 €, NON IN LIST,7
+,,Kreuzweg,Castelfeder,,,2018,,, NON IN LIST,0
+,, Curlan,Girlan,,,2019,50,70 €, 135.00 € ,3
+,, Curlan,Girlan,,,2020,62,60 €, NON IN LIST,7
+,,NAMA,Nals Margreid,,,2020,62,78 €, 185.00 € ,4
+,,Langhe Buschet,Moccagatta,,,2020,43,18 €, 65.00 € ,1
+,,Vie di Romans,Vie di Romans,,,2022,,21 €, NON IN LIST,18
+,,Vie di Romans,Vie di Romans,,,2021,30,20 €, 55.00 € ,6
+,,Chardonnay Malterdinger,Bernard Huber ,,,2021,,23.25 €, NON IN LIST,6
+,,CHARDONNAY GRANDE RESERVE,METZGER,,,2020,31,24.00 €, 60.00 € ,9
+,,Valentine ,Ca del Baio,,,2021,38,29.85 €, 75.00 € ,1
+,,Corrado di Manzano,Ronco del Gnemiz,,,2021,40,29.00 €, 75.00 € ,6
+,,Jura Chardonnay,Sylvain Jacquot,,,2022,,34.90 €, NON IN LIST,2
+,,Ronco Basso,Ronco del Gnemiz,,,2023,,34.50 €, NON IN LIST,6
+,,Kozana Chardonnay,Edi Simcic,,,2021,,36.00 €, 82.00 € ,4
+,,Cortesar,Vie di Romans,,,2016,26,38.00 €, 72.00 € ,0
+,,Curie Climat ,Vie di Romans,,,2015,38,39.00 €, 85.00 € ,2
+,,Etichetta Scura,Borgo del Tiglio,,,2021,44,35 €, 90.00 € ,2
+,,Etichetta Scura,Borgo del Tiglio,,,2022,44,35 €, 90.00 € ,12
+,,Chardonnay Napa,Mondavi,,,2018,34,42.00 €, 90.00 € ,8
+,,SOL,RONCO DEL GNEMIZ,,,2021,,, non IN LIST,5
+,,Block6 Chardonnay,Felton Road,,,2020,,54.00 €, 105.00 € ,5
+,,Chardonnay,Timo Mayer,,,2022,,55.00 €, 115.00 € ,5
+,,Rossj Bass,Gaja,,,2021,39,60.00 €, 112.00 € ,14
+,,Chardonnay Yarra,Yarra Yering,,,2021,,60 €, 120.00 € ,2
+,,Chardonnay,By Farr,,,2022,,61.00 €, 138.00 € ,13
+,,Nägelin,Ziereisen,,,2020,51,66 €, 132.00 € ,4
+,,Estate Chardonnay,The Hilt,,,2020,,73 €, 165.00 € ,6
+,,Chardonnay Patagonia,Chacra,,,2022,,75 €, NON IN LIST,5
+,,Cote Vineyard Chardonnay,By Farr,,,2021,,85 €, 125.00 € ,6
+,,Les Noisetiers,Kistler,,,2021,92,113.00 €, 230.00 € ,5
+,,Chardonnay ,Gantenbein,,,2018,64,136, 230.00 € ,3
+,White,Chablis,Droin,,,2023,,23.90 €, 56.00 € ,15
+,,Bourgogne Blanc Les Setilles ,Olivier Leflaive,,,2019,27,29.00 €, 62.00 € ,1
+,,Bourgogne Blanc,Fontaine Gagnard,,,2021,28,30 €, 65.00 € ,3
+,,Bourgogne Blanc,Mikulski,,,2020,26,32.00 €, 65.00 € ,2
+,,Chablis 1er Vaillons,Droin,,,2022,,32.00 €, NON IN LIST,15
+,,Chablis 1er Vaucoupin,Jean Paul Droin,,,2023,,35.00 €, NON IN LIST,12
+,,Meursault,Cristian Bellang,,,2023,,40 €, 83.00 € ,28
+,,Saint Aubin 1er Cru En Creot,Lamy Pillot,,,2021,,40.00 €, 85.00 € ,0
+,,Chablis 1er Monte Tonnere,Droin,,,2022,38,42.00 €, 89.00 € ,0
+,,Chablis 1er Montmains,Jean Paul Droin,,,2023,,39.00 €, NON IN LIST,12
+,,Chablis 1er Monte Tonnere,Jean Paul Droin,,,2023,,45.00 €, NON IN LIST,12
+,,Chablis 1er Vaulorent,Jean Paul Droin,,,2023,,45.00 €, NON IN LIST,12
+,,Chablis 1er Vaucoupin,Nicolas Potel,,,2021,,43.00 €, 95.00 € ,3
+,,Chassagne Montrachet Village,Lamy Pillot,,,2021,50,47 €, 105.00 € ,10
+,,Chassagne Village,Fontaine Gagnard,,,2021,110,57 €, 180.00 € ,2
+,,Saint Romain Sous le Chateau,Olivier Leflaive,,,2020,47,60 €, 120.00 € ,4
+,,Puligny Montrachet,Moingeon,,,2022,,60.00 €, 125.00 € ,12
+,,Chassagne 1er Cru Morgeot,Lamy Pillot,,,2021,,69 €, 145.00 € ,4
+,,Chablis Vaudesir,Jean Paul Droin,,,2022,,65 €, NON IN LIST,2
+,,Chablis Valmur,Jean Paul Droin,,,2022,,65 €, NON IN LIST,2
+,,Chablis Valmur,Jean Paul Droin,,,2023,,70 €, NON IN LIST,6
+,,Meursault Vielles Vignes,Guy Bocard,,,2022,magaz,75.50 €, NON IN LIST,6
+,,Chablis Hommage a Luis,Jean Paul Droin,,,2022,,76 €, NON IN LIST,2
+,,Chablis Hommage a Luis,Jean Paul Droin,,,2023,,83 €, NON IN LIST,6
+,,Chablis Grenouilles,Jean Paul Droin,,,2022,,76 €, NON IN LIST,2
+,,Meursault,Pierre Morey,,,2021,,79.00 €, NON IN LIST,3
+,,Puligny Montrachet,Sauzet,,,2022,,80.00 €, NON IN LIST,2
+,,Maltroie Chassagne 1er Cru,Fontaine Gagnard,,,2022,,84.00 €, NON IN LIST,3
+,,Chablis Les Clos GC,Nicolas Potel,,,2020,,90.00 €,0,3
+,,Meursault 1er Cru Blagny,Latour,,,2020,95,89.90 €, 205.00 € ,1
+,,Puligny 1er Perrieres,Lucien Boillot,,,2022,,95.00 €, 238.00 € ,9
+,,Corton Charlemagne Grand Cru,Domaine Denis,,,2022,,158.00 €, 292.00 € ,4
+,,Puligny 1er Champ Gain,Sauzet,,,2022,,170.00 €, NON IN LIST,2
+,GEWURZTRAMINER,Gewürztraminer,Terlan,,,2023,,10.00 €, 35.00 € ,34
+,,Gewurztraminer Eisacktal,Pacherhof,,,2021,30,18 €, 48.00 € ,14
+,,St. Valentin,St. Michael,,,2020,,21 €, 58.00 € ,12
+,,Gewurztraminer,Lieselehof,,,2020,30,18.00 €, 52.00 € ,13
+,,Selection 12 Coteaux de Schengen,Henri Ruppert,,,2015,43,18.00 €, 65.00 € ,1
+,,Grand Cru Altenberg,Frederic Mochel,,,2018,,19 €, 70.00 € ,1
+,,Nussbaumer,Tramin,,,2020,36,21.10 €, 62.00 € ,19
+,,GC Hengst,Zind Humbrecht,,,2013,51,55.00 €, 118.00 € ,1
+,PINOT GRIGIO,Tradition,Terlan,,,2022,,9 €, 35.00 € ,20
+,,Grauburgunder,Wassererhof,,,2021,27,14 €, 42.00 € ,16
+,,Grauer Burgunder,Bernard Huber,,,2019,37,17.00 €, 58.00 € ,2
+,,Gris,Lis Neris,,,2019,30,20.50 €, 55.00 € ,5
+,,Castel Ringberg,Elena Walch,,,2023,,18.00 €, 65.00 € ,14
+,,Giatl,Peter Zemmer ,,,2019,28,18 €, 49.00 € ,9
+,,Dessimis,Vie di Romans,,,2021,30,20 €, 55.00 € ,6
+,,Dessimis,Vie di Romans,,,2022,,21 €, NON IN LIST,24
+,,Grauburgunder,Dönnhoff,,,2021,39,21 €, 65.00 € ,0
+,,Grauburgunder ***,Knipser,,,2015,28,26 €, 62.00 € ,0
+,,Dessimis Millesimi,Vie di Romans,,,2008,43,26.00 €, 75.00 € ,2
+,,Riserva Ramato,Specogna,,,2020,,30 €, 75.00 € ,5
+,,GG Schlossberg,Franz Keller,,,2020,31,31 €, 69.00 € ,3
+,,Kunst.stück,Kaltern,,,2019,44,40 €, 93.00 € ,7
+,,Würmlin ,Ziereisen,,,2020,36,52 €, 100.00 € ,4
+,SYLVANER,Sabiona,Kellerei Eisacktaler,,,2019,25,24.50 €, 55.00 € ,5
+,,Sylvaner,Pacherhof,,,2022,,13.30 €, 45.00 € ,18
+,,Alte Reben,Pacherhof,,,202x,,22.00 €, 70.00 € ,9
+,,Sabiona 16,Pacherhof,,,2016,,24.50 €, 95.00 € ,1
+,,Aristos,Pacherhof,,,2013,,, non in list,2
+,,Eschendorf Am Lumpen 1655 GG,Sauer Horst,,,2018,32,27 €, 65.00 € ,6
+,,Schlossberg GG,Castell,,,2014,21,42 €, 72.00 € ,5
+,,Stiftsgarten,Neustift,,,2019,55,68.60 €, 133.00 € ,5
+,GRUNER VELTLINER, Veltliner,Pacherhof,,,2020,23,13.50 €, 40.00 € ,16
+,,Ried Achleiten,Jäger,,,2022,,25.90 €, 60.00 € ,2
+,,Kirchweg Smaragd,Hirtzberger,,,2021,,34.80 €, 78.00 € ,27
+,,Ried Loibenberg ,FX Pichler,,,2021,34,33.90 €, 98.00 € ,7
+,,Vincents Spiegel 1,Brundlmayer,,,2018,,37.50 €, 78.00 € ,2
+,,Ried Steinertal,FX Pichler,,,2022,,58.00 €, 75.00 € ,30
+,,Ried Steinertal,FX Pichler,,,2021,,42.40 €, 75.00 € ,6
+,,Ried Loibenberg Smaragd,Weingut E. Knoll,,,2022,29,46 €, 78.00 € ,22
+,,Ried Loibenberg Smaragd,Weingut E. Knoll,,,2021,29,46 €, 78.00 € ,3
+,,Rotes Tor Smaragd,Hirtzberger,,,2022,,43 €, 95.00 € ,35
+,,Rotes Tor Smaragd,Hirtzberger,,,2021,,52 €, 95.00 € ,5
+,,Vinothekfüllung,Weingut E. Knoll,,,2022,44,69 €, 128.00 € ,1
+,,Honivogl,Hirtberger,,,2022,47,88 €, 155.00 € ,11
+,,Ried Kellerberg,FX Pichler,,,2023,,95.00 €, NON IN LIST,3
+,RIESLING,Aristos,Eisacktaler Kellerei,,,2020,24,13.60 €, 43.00 € ,12
+,,Rotschiefer Sorentberg,Sorentberg,,,2020,34,17 €, 55.00 € ,7
+,,Riesling Estate,Pallisser,,,2021,29,17.00 €, 50.00 € ,2
+,,Spiegel Grand Cru,Eugene Mayer,,,2023,,19 €, NON IN LISTA,6
+,,Herzu Langhe Riesling,Ettore Germano,,,2021,25,19 €, 48.00 € ,5
+,,Herzu Langhe 2019,Ettore Germano,,,2019,25,19 €, 48.00 € ,6
+,,Hölle Spätlese,Künstler,,,2021,,20 €, 68.00 € ,2
+,,Kirschgarten GG (Pfalz),Philipp Kuhn,,,2021,,23 €, 60.00 € ,1
+,,Windbichl,Castel Juval,,,2021,52,27 €, 85.00 € ,4
+,,Westhofener Erste Lage,Wittmann,,,2021,35,31 €, 68.00 € ,8
+,,Anaduron,Falkenstein,,,2018,33,28 €, 68.00 € ,10
+,,Steinertal,FX Pichler,,,2021,,, NON IN LISTA,6
+,,Zöbinger Heiligenstein,Brundlmayer,,,2021,,29.75 €, 72.00 € ,5
+,,Hermannshöhle Spätlese,Dönnhoff,,,2021,,32.00 €, NON IN LISTA,3
+,,Bockstein GG,Nik Weis St. Urbans,,,2021,,34.00 €, NON IN LISTA,2
+,,Enkircher Batterieberg,Immich Batterieberg,,,2017,35,37.00 €, 80.00 € ,2
+,,Rudesheimer Berg Schlossberg Ehrenfels GG ,J. Leitz,,,2015,47,39 €, 95.00 € ,2
+,,Rudesheimer Berg Schlossberg Ehrenfels GG ,J. Leitz,,,2020,,, NON IN LISTA,6
+,,Aulerde GG,Wittmann,,,2021,,42 €, NON IN LISTA,6
+,,Höllenpfad im Mühlenberg GG,Dönnhoff,,,2021,31,42.00 €, 97.00 € ,3
+,,Niedermenningberg Herrenberg Spätlese,Molitor,,,2003,,43.50 €, 135.00 € ,6
+,,Schlossböckelheimer Felsenberg GG,Dönnhoff,,,2022,◍,45.00 €, NON IN LISTA,11
+,,Schlossböckelheimer Felsenberg GG,Dönnhoff,,,2023,◍,46.00 €, NON IN LISTA,24
+,,SPEZIAL,Jäger,,,2022,,45.00 €, 92.00 € ,3
+,,Herrenberg GG,Maximin Grünhaus,,,2022,,46.75 €, NON IN LIST,11
+,,Scharzhofberger GG,Van Volxem,,,2021,50,47.00 €, 108.00 € ,5
+,,Riesling Kellerberg,Knoll,,,2022,,47.50 €, NON IN LISTA,12
+,,Wehlener Sonnenuhr Spaetlese,J.J. Prum,,,2019,68,47.00 €, 125.00 € ,9
+,,Graacher Himmelreich Auslese,J.J. Prum,,,2019,70,49 €, 130.00 € ,6
+,,RR,Keller,,,2021,43,51 €, 105.00 € ,3
+,,Riesling Hochrain,Hirtzberger,,,2023,,54.70 €, NON IN LIST,12
+,,Ried Schutt,Knoll,,,2022,,55 €, NON IN LISTA,5
+,,Dellchen GG,Dönnhoff,,,2023,,55.00 €, NON IN LISTA,6
+,,Hermannshöhle GG,Dönnhoff,,,2022,,55 €, NON IN LISTA,6
+,,Hermannshöhle GG,Dönnhoff,,,2023,,57 €, NON IN LISTA,12
+,,Kiedrich Gräfenberg (Rheingau),Robert Weil,,,2011,,55.00 €, 148.00 € ,3
+,,Hölle 1. Gewächs (Rheingau),Künstler,,,2018,48,59 €, 120.00 € ,3
+,,Ried Steinertal,FX Pichler,,,2023,,58.00 €, NON IN LISTA,18
+,,Loibenberg,FX Pichler,,,2021,◍,, 112.00 € ,3
+,,Jesuitengarten GG,Von Winning,,,2021,,60.00 €, 125.00 € ,11
+,,Vinothekfüllung,Knoll,,,2019,80,61.00 €, 155.00 € ,1
+,,Vinothekfüllung,Knoll,,,2022,,79 €, NON IN LISTA,6
+,,Ried Kellerberg,FX Pichler,,,2021,94,95 €, 170.00 € ,12
+,,1000 Alte Reben,Sorentberg,,,2015,63,71 €, 150.00 € ,6
+,,Rangen de Thann,Zind Humbrecht,,,2020,82,80.00 €, 180.00 € ,3
+,,Sharzhofberger Kabinett,Egon Müller,,,2019,122,88.00 €, 230.00 € ,3
+,,Riesling Singerriedel,Hirtzberger,,,2023,,93.00 €, 225.00 € ,3
+,,Wiltinger Braune Kupp,Egon Müller,,,2021,142,109 €, 275.00 € ,4
+,,Gantenbein,Gantenbein,,,2018,99,165 €, 300.00 € ,3
+,,Unendlich,FX Pichler,,,2021,69,189 €, 300.00 € ,1
+,KERNER,Aristos,Eisacktaler Kellerei,,,2021,29,13 €, 45.00 € ,23
+,,Sabiona,Eisacktaler Kellerei,,,2015,31,22.00 €, 58.00 € ,14
+,,GRANIT 960,Eisacktaler Kellerei,,,2020,,105.00 €, NON IN LISTA,3
+,SAUVIGNON ,Indra,Girlan,,,2022,23,9.70 €, 35.00 € ,42
+,,Winkl,Terlan,,,2023,,13.00 €, 49.00 € ,14
+,,Folisny Breg,Ciringa - Tement,,,2022,,14.50 €, non IN LIST,2
+,,Lafoa,Schreckbichl - Colterenzio,,,2020,34,18.90 €, 55.00 € ,8
+,,Vassal,Elfenberg,,,2023,,17.00 €, 65.00 € ,21
+,,Maso delle Rose,Josef Weger,,,2021,,17.00 €, 75.00 € ,1
+,,Sauvignon Flora,Girlan,,,2022,,17.50 €, 55.00 € ,15
+,,Oberberg,Kornell,,,2020,30,21.40 €, 52.00 € ,7
+,,Cloudy Bay,Cloudy Bay,,,2023,,19.00 €, 55.00 € ,6
+,,WILD FERMENT,Greywacke,,,2021,,18.40 €, 55.00 € ,3
+,,Limes,Niedrist,,,2020,32,21.20 €, 58.00 € ,4
+,,Piere,Vie di Romans,,,2021,32,19.00 €, 55.00 € ,19
+,,Sauvignon Fumé,Abraham,,,2021,,25.00 €, 68.00 € ,0
+,,Salici,Ronco del Gnemiz,,,2021,,26.00 €, non IN LIST,4
+,,Iris,Ronco del Gnemiz,,,2021,,26.00 €, non IN LIST,4
+,,Retus,Falkenstein,,,2019,,26.80 €, 80.00 € ,0
+,,Lozeta,Ronco del Gnemiz,,,2021,37,29 €, 72.00 € ,0
+,,Sancerre,Vacheron,,,2023,,31.00 €, 78.00 € ,11
+,,Ronco delle Mele,Venica,,,2022,,31 €, 82.00 € ,9
+,,Lozeta,Ronco del Gnemiz,,,2022,,32 €, non IN LIST,4
+,,SOL,Ronco del Gnemiz,,,2021,52,33.00 €, 92.00 € ,8
+,,Peri,Ronco del Gnemiz,,,2021,34,33.40 €,75 €,1
+,,Ertichetta Scura,Borgo del Tiglio,,,2022,,35.00 €, 95.00 € ,10
+,,Quarz ,Terlan,,,2020,,, non IN LIST,6
+,,Quarz ,Terlan,,,2022,,36.00 €, 85.00 € ,31
+,,TE KOKO,Cloudy Bay,,,2020,,37.50 €, 88.00 € ,4
+,,Les Hauts de Smith Blanc,Smith Haut Lafite,,,2018,36,40 €, 85.00 € ,2
+,,Lieben Aich,Manincor,,,2022,,46.00 €, 103.00 € ,6
+,,Etienne Sancerre,Henri Bourgeois,,,2017,31,48 €, 90.00 € ,3
+,,Vigna Rachtl,Tiefenbrunner,,,2020,54,50 €, 115.00 € ,2
+,,Vigna Rachtl,Tiefenbrunner,,,2021,,53 €, non IN LIST,12
+,,Ried Zieregg,Tement,,,2019,36,51.00 €, 98.00 € ,4
+,,Ried Zieregg,Tement,,,2020,36,47.00 €, non IN LIST,6
+,,Sancerre Les Romains,Vacheron,,,2023,,59.00 €, non IN LIST,6
+,,Sancerre Les Romains,Alphonse Mellot,,,2021,,61.00 €, NON IN LIST,1
+,,Sancerre la Grande Cote,Pascal Cotat,,,2023,,67 €, 130.00 € ,4
+,,Sancerre le Mont Damnee,Pascal Cotat,,,2023,,67 €, non IN LIST,6
+,,Sauvignon The Wine Collection ,St. Michael Eppan,,,2018,73,75 €, 165.00 € ,3
+,,Baron de L,Ladoucette,,,2020,48,77 €, 142.00 € ,5
+,,Buisson Renard,Dagueneau,,,2019,,, 220.00 € ,2
+,,Alteni di Brassica,Gaja,,,2016,50,160.00 €, 245.00 € ,3
+,MULLER THURGAU,Muller Thurgau ,Pacherhof,,,2022,20,12 €, 35.00 € ,10
+,,Vinschgau,Unterortl,,,2022,,11.90 €, 45.00 € ,10
+,,Feldmarshall Von Fenner,Tiefenbrunner,,,2020,31,34.00 €, 73.00 € ,13
+,White,Lugana,Olivini,,,2022,25,8 €, 35.00 € ,13
+,,Boschera Centogufi,Malibran,,,2021,29,7 €, 38.00 € ,9
+,,Moscato Giallo Secco,Franz Haas,,,2022,35,16 €, 55.00 € ,4
+,,Moscato ,Pfefferer,,,2022,,,0,3
+,,Carjcanti,Gulfi,,,2022,,22 €, 58.00 € ,7
+,,Steinkrügle Gutedel,Ziereisen,,,2020,39,21 €, 65.00 € ,4
+,,Semillon,Principe Alberico,,,2017,,31 €, non in list,0
+,,Fojana Rebula,Edi Simcic,,,2021,,35.00 €, 78.00 € ,5
+,,Aligoté Clos du Roy,Sylvain Pataille,,,2017,43,37 €, 88.00 € ,3
+,,Franschhoek Semillon,Boekenhoutskloof,,,2021,,38 €, 85.00 € ,6
+,,Il San Lorenzo,Fattoria San Lorenzo,,,2008,31,40 €, 80.00 € ,1
+,,Trebbiano d'Abruzzo,Emidio Pepe,,,2019,59,43 €, 112.00 € ,9
+,,Pecorino d´Abruzzo,Emidio Pepe,,,2021,59,43 €, 112.00 € ,4
+,,Albarino Pazo Barrantes,Marques Murrieta,,,2019,,42 €, 102.00 € ,5
+,,Condrieu Combe Malleval,Ogier,,,2022,,57 €, 140.00 € ,2
+,,Trebbiano ,Monteraponi,,,2022,,58 €, 118.00 € ,5
+,,Clos de la Coulee de Serrant,Nicolas Joly,,,2015,58,75 €, 150.00 € ,1
+,,FMC,Ken Forrester,,,2020,,72 €, 165.00 € ,5
+,,SCHIST,Mullineux,,,2023,,83 €, NON IN LIST,3
+,,GRANITE,Mullineux,,,2023,,83 €, NON IN LIST,3
+,,Gutedel Jaspis Hoch 104,Ziereisen,,,2020,83,116 €, 225.00 € ,4
+,White,Mareneve,Federico Graziani,,,2021,30,37 €, 75.00 € ,0
+,,Etna Bianco ,Terre Nere,,,2022,23,24 €, 52.00 € ,5
+,,"Soave Classico ""I Palchi"" Foscarino",Inama,,,2020,29,25 €, 60.00 € ,5
+,,Ameixambar,Adega do Vulcao,,,2021,,26 €, 66.00 € ,3
+,,Idda Bianco,Gaja,,,2021,,27 €, 83.00 € ,2
+,,Vigne Niche Montalto,Tenuta Terre Nere,,,2020,37,43 €, 90.00 € ,0
+,,Vigne Niche Montalto,Tenuta Terre Nere,,,2021,,43 €, 90.00 € ,0
+,,Vigne Niche Montalto,Tenuta Terre Nere,,,2022,,43 €, 90.00 € ,6
+,,Santo Spirito,Tenuta Terre Nere,,,2022,,43 €, non in list,5
+,,Skitali,Hatzidakis,,,,,45 €, 90.00 € ,3
+,,DU LOT,Inama,,,2018,,35 €, 93.00 € ,5
+,,Calvarino,Pieropan,,,2010,33,49 €, 93.00 € ,2
+,Solaris,Solaris Pustrissa,Laimburg,,,2020,25,14.00 €, 42.00 € ,2
+,,Vino del Passo,Lieselehof,,,2020,34,37 €, 83.00 € ,75
+,White,Erbaluce ,Ferrando,,,2022,,12 €, 45.00 € ,5
+,,Roero Arneis,Bruno Giacosa,,,2023,,22 €, 62.00 € ,0
+,,Roero Arneis BLANGE,Ceretto,,,2023,,15 €, 62.00 € ,6
+,,Derthona Timorasso,Borgogno,,,2021,46,24 €, 75.00 € ,11
+,,Derthona Timorasso,Borgogno,,,2020,,, 75.00 € ,6
+,,Grand Fosto,Marina Coppi,,,2018,,39.00 €, 90.00 € ,5
+,,Derthona Scaldapulce,Borgogno,,,2020,,69 €, 130.00 € ,2
+,,Timorasso Montemarzino,Roagna,,,2022,,104 €, 208.00 € ,3
+,White,Ribolla Gialla,I Clivi,,,2021,35,8.00 €, 45.00 € ,6
+,,Friulano,I Clivi,,,2021,35,8 €, 45.00 € ,5
+,,Slatnik (CH+Friulano),Radikon,,,2021,,21 €, non in list,2
+,,Malvasia COLLEZIONE MILLESIMI,Vie di Romans,,,2009,43,26 €, 75.00 € ,3
+,,Friulano,Borgo del Tiglio,,,2021,,23 €, non in list,6
+,,Dolee Friulano,Vie di Romans,,,2008,45,24 €, 75.00 € ,4
+,,San Zuan,Ronco del Gnemiz,,,2021,36,26 €, 68.00 € ,2
+,,San Zuan,Ronco del Gnemiz,,,2022,,32 €, non in list,6
+,,San Zuan,Ronco del Gnemiz,,,2023,,35 €, non in list,6
+,,Malvasia Italo Bruno,Borgo del Tiglio,,,2021,35,41 €, 85.00 € ,8
+,,Ronco della Chiesa (Friulano),Borgo del Tiglio,,,2021,40,46 €, 96.00 € ,9
+,,Ribolla Gialla,Gravner,,,2015,60,66 €, 140.00 € ,7
+,,Picolit SOL,Ronchi di Ciala,,,2009,,95 €, 200.00 € ,2
+,White Cuvee,White Blend Saskia Miles,Mossop,,,2015,,, 42.00 € ,23
+,,Contessa,Manincor,,,2023,,14 €, 46.00 € ,14
+,,Manna,Franz Haas,,,2020,31,17 €, 52.00 € ,9
+,,Galea ,I Clivi,,,2021,34,19 €, 55.00 € ,10
+,,Flors di Uis,Vie di Romans,,,2022,,19 €, 62.00 € ,8
+,,Stoan,Tramin,,,2022,,20 €, 65.00 € ,6
+,,Trias,Ignaz Niedrist,,,2019,32,20 €, 56.00 € ,1
+,,Giovo,Bergkellerei Passeier,,,2019,39,21 €, 65.00 € ,0
+,,Aichberg,Kornell,,,2018,35,19 €, 58.00 € ,0
+,,Ciallabianco,Ronchi di Ciala,,,2020,,19 €, 75.00 € ,4
+,,Bordeaux Blanc,Chasse Spleen,,,2018,33,24 €, 62.00 € ,4
+,,Old Vines White,Mullineux,,,2023,,27 €, 82.00 € ,17
+,,Private Cuvee,Pacherhof,,,2020,31,29 €, 60.00 € ,18
+,,Private Cuvee Cassa Mista 14/15/16,Pacherhof,Private Cuvee Cassa Mista 14/15/16,,,,110 €, NON IN LIST,2
+,,Nova Domus,Terlan,,,2020,47,26 €, 79.00 € ,16
+,,Nova Domus,Terlan,,,2021,,29 €, NON IN LIST,18
+,,Nova Domus,Terlan,,,2017,,37 €, NON IN LIST,2
+,,Nova Domus,Terlan,,,2019,,33 €, NON IN LIST,2
+,,Gravonia Blanco,Lopez de Heredia,,,2014,90,29 €, 125.00 € ,1
+,,Terra de Cuques,Terroir al Limit,,,X,,30 €, 85.00 € ,1
+,,Veliko Belo,Movia,,,2017,31,30 €, 68.00 € ,0
+,,DUT UN,Vie di Romans,,,2020,40,31 €, 88.00 € ,1
+,,Marsannier ***,Knipser,,,2018,41,32 €, 80.00 € ,4
+,,Paleo Bianco,Le Macchiole,,,2022,,43 €, 130.00 € ,2
+,,Cervaro della Sala,Antinori,,,2022,45,49 €, 105.00 € ,21
+,,Studio di Bianco,Borgo del Tiglio,,,2022,,49 €, 95.00 € ,9
+,,Palette Blanc,Chateau Simone,,,2019,,50 €, NON IN LIST,2
+,,Beyond the Clouds,Elena Walch,,,2021,,52 €, 100.00 € ,-12
+,,Beyond the Clouds,Elena Walch,,,2022,,54 €, 100.00 € ,55
+,,TAL WEISS,Bozen,,,2020,45,54 €, 111.00 € ,1
+,,Amrita,Schiopetto,,,2021,,57 €, 150.00 € ,5
+,,BATAR,Querciabella,,,2019,48,59 €, 120.00 € ,1
+,,Blanc La Crau,Vieux Telegraphe,,,2020,106,61 €, 180.00 € ,0
+,,LR,Schreckbichl,,,2019,42,70 €, 120.00 € ,7
+,,Adamantis (SY/GV/PG/KE),Valle Isarco,,,2020,62,68 €, 145.00 € ,4
+,,Chateauneuf du Pape Blanc,La Nerthe,,,2022,21,77 €, 115.00 € ,1
+,,Hermitage Blanc Domaine Tourettes,Delas,,,2021,,87 €, 195.00 € ,3
+,,Appius,St. Michael Eppan,,,2019,126,90 €, 225.00 € ,5
+,,Appius,St. Michael Eppan,,,2015,,, 170.00 € ,2
+,,Appius,St. Michael Eppan,,,2013,,, 175.00 € ,2
+,,Primo Grand Cuvee,Terlan,,,2020,111,134 €, 275.00 € ,5
+,,Primo Grand Cuvee,Terlan,,,2021,111,137 €, 275.00 € ,0
+,,Chateauneuf du Pape,Beaucastel,,,2020,,141 €, 250.00 € ,3
+,,Tondonia Blanco,Lopez de Heredia,,,2011,,40 €, NON IN LIST,3
+,Rosè,Rose,H. Lentsch,,,2021,22,11 €, 35.00 € ,23
+,,Forget me not,Lieselehof,,,X,,10 €, 40.00 € ,145
+,,Rosa die Frati,Ca die Frati,,,2022,,11 €, 43.00 € ,28
+,,Rose de Manincor,Manincor,,,2021,31,15 €, 49.00 € ,14
+,,Whispering Angel,Chateua d'Esclans,,,2022,,17 €, 65.00 € ,9
+,,Cerasuolo d´Abruzzo,Emidio Pepe,,,2022,54,23 €, 82.00 € ,2
+,,Sancerre Rose,Vacheron,,,2023,,31.20 €, 75.00 € ,4
+,,Bandol Rose,Chateau Pibarnon,,,2022,,31.20 €, NON IN LIST,6
+,,GARRUS ,Chateua d'Esclans,,,2021,,76 €, 160.00 € ,4
+,,Rosenmuskateller,Kaltern,,,2023,,7 €, 35.00 € ,3
+,,Untertürkheimer Trollinger,Aldinger,,,X,,96 €, NON IN LIST,6
+,ORANGE Wine,Julian Orange,Lieselehof,,,X,,30 €, 88.00 € ,2
+,,Aurona,Laimburg,,,2015,39,17.00 €, 60.00 € ,5
+,,SIVI,Radikon,,,2021,,22.60 €, 95.00 € ,5
+,,Graue Freyheit,Heinrich,,,2020,48,22 €, 75.00 € ,4
+,ALK FREI,ALKOHOLFREI WEIß,VINUCI,,,2021,,, 35.00 € ,14
+,,Chardonnay 1.2.0,Leitz,,,0,,8 €, NON IN LIST,11
+,,PN 0.5,Leitz,,,0,,8 €, NON IN LIST,3
+,,sekt,Leitz,,,0,,9 €, NON IN LIST,2
+RED,VERNATSCH,St. Magdalener Classico,Hubertus,,,0,23,9.50 €, 35.00 € ,49
+RED,,Gschleier,Girlan,,,2021,32,13 €, 48.00 € ,15
+RED,,Kalterersee Quintessence,Kaltern,,,2022,29,10.40 €, 42.00 € ,2
+RED,,Gschleier Cellar Reserve,Girlan,,,2014,,31 €, 72.00 € ,2
+RED,PINOT NOIR,Patricia,Girlan,,,2019,26,11 €, 40.00 € ,46
+RED,,Buchholz,Castelfeder,,,2021,24,13 €, 50.00 € ,8
+RED,,Saltner,Kaltern,,,2021,,13 €, 54.00 € ,7
+RED,,Vassal,Elfenberg,,,2023,,17.00 €, 65.00 € ,25
+RED,,Blauburrgunder,Unterortl,,,2019,,22 €, 60.00 € ,7
+RED,,Trattmann Riserva ,Girlan,,,2020,37,27.00 €, 62.00 € ,33
+RED,,Pinot Nero Riserva,Niedrist,,,2019,40,28.90 €, 75.00 € ,11
+RED,,Vigna Kofl,Peter Zemmer,,,2021,,28 €, 80.00 € ,1
+RED,,Riserva Mazzon,Gottardi,,,2016,,31.75 €, NON IN LIST,0
+RED,,Krafuss,Alois Lageder,,,2022,,37 €, 93.00 € ,4
+RED,,Wildmonn,Wildmonn,,,2020,,45 €, 150.00 € ,4
+RED,,Dona Noir,Hartmann Dona,,,2016,,51 €, 108.00 € ,5
+RED,,Ponkler,Franz Haas,,,2018,50,57.00 €, 120.00 € ,0
+RED,, Curlan,Girlan,,,2019,,71 €, 120.00 € ,6
+RED,, Curlan,Girlan,,,2020,,60 €, NON IN LIST,8
+RED,,Vigna Ganger,Girlan,,,2019,,80 €, 160.00 € ,8
+RED,,Vigna das Lange Feld,Pfitscher,,,2019,,89 €, 180.00 € ,5
+RED,Red,Krauthaker Crni,Krauthaker,,,2016,28,22 €, 55.00 € ,2
+RED,,Merlijaki,Tilia,,,2017,25,25.50 €, 56.00 € ,2
+RED,,PN Serrania de Malaga,Cortijo Aguilares,,,2021,31,30 €, 68.00 € ,5
+RED,,Sancerre Rouge,Vacheron,,,2022,,37.90 €, 88.00 € ,6
+RED,,PN Carneros,Mondavi,,,2019,,43 €, 85.00 € ,2
+RED,,Lunita,Chacra,,,2021,31,42 €, 82.00 € ,5
+RED,,Les Rosiers Coteaux Champenois,Marucie Grumier,,,2020,,47 €, NON IN LIST,2
+RED,,Chacra 55,Chacra,,,2021,,49 €, NON IN LIST,16
+RED,,TE WAHI,Cloudy Bay,,,2019,,53 €, 120.00 € ,4
+RED,,Pino Rosso,Gulfi,,,2016,,54 €, 108.00 € ,6
+RED,,Close Planted,Timo Mayer,,,2022,,55 €, 110.00 € ,3
+RED,,Gippsland,William Downie,,,2022,,57 €, NON IN LIST,12
+RED,,Burn Cottage Vineyrad,Burn Cottage,,,2019,,60 €, NON IN LIST,4
+RED,,Yarra Pinot Noir,Yarra Yering,,,2018,,60.00 €, 125.00 € ,3
+RED,,Calvert,Felton Road,,,2020,,69 €, 148.00 € ,6
+RED,,Bull's Swamp,William Downie,,,2022,,85 €, NON IN LIST,3
+RED,,Tout Pres Pinot Noir,By Farr,,,2020,,85 €, 175.00 € ,5
+RED,,Les Montes Coteaux Champenois,Bereche,,,2022,,94.00 €, NON IN LIST,3
+RED,,Willamette,Nicolas Jay,,,2021,,109.00 €, NON IN LIST,2
+RED,,Pinot Noir,Gantenbein,,,2018,84,136 €, 250.00 € ,7
+RED,,Pinot Noir,Gantenbein,,,2019,,, 250.00 € ,2
+RED,,Pinot Noir,Gantenbein,,,2020,,, 250.00 € ,2
+RED,,Pinot Noir,Gantenbein,,,2017,,, 250.00 € ,3
+RED,Red,Spätburgunder Malterdinger,Bernard Huber ,,,2018,,19.30 €, NON IN LIST,5
+RED,,Schulen Spätburgunder,Ziereisen,,,2020,34,25 €, 65.00 € ,4
+RED,,Brauneberger Mandelgraben,Molitor,,,2018,,29.95 €, 75.00 € ,5
+RED,,Kirschgarten GG,Knipser,,,2017,38,38.61 €, 85.00 € ,1
+RED,,Rosenthal GG,Adeneuer,,,2018,33,37 €, 78.00 € ,2
+RED,,Spätburgunder Eichberg Grosse Lage,Franz Keller,,,2017,MAGAZ,41.10 €, NON IN LIST,6
+RED,,Zipsin Jaspis,Ziereisen,,,2020,32,43.30 €, 85.00 € ,1
+RED,,Im Großen Garten,Knipser,,,2018,,49 €, 95.00 € ,2
+RED,,Alte Lay GG (Ahr),Adeneuer,,,2019,30,53.46 €, 95.00 € ,2
+RED,,Schlossberg GG,Franz Keller,,,2020,MAGAZ,60 €, NON IN LIST,6
+RED,,Pfarringwer,Meyer Näkel,,,2017,46,69 €, 130.00 € ,2
+RED,,RDP,Knipser,,,2015,,94 €, 160.00 € ,5
+RED,Red,Chorey les Beaune,Domaine Gay,,,2020,,27.00 €, 58.00 € ,5
+RED,,Saint Aubin 1er Cru VV,Moingeon,,,2022,,32.00 €, 78.00 € ,6
+RED,,Fixin,Molin,,,2022,,36 €, 75.00 € ,4
+RED,,Bourgogne,Haisma,,,2022,,39.00 €, 85.00 € ,2
+RED,,Gevrey Chambertin,Lucien Boillot,,,2021,32,42.90 €, 85.00 € ,10
+RED,,Haut Cotes de Nuits Clos du Prieure,Thibault Liger Belair,,,2020,36,43.90 €, 90.00 € ,2
+RED,,Monthelie,Parent,,,2022,,48 €, NON IN LIST,5
+RED,,Volnay  Les Serpens,Douhairet Porcheret,,,2022,,48 €, 110.00 € ,4
+RED,,Volnay,Bouley,,,2011,,50 €, 112.00 € ,2
+RED,,Morey St Denis VV,Stephane Magnien,,,2022,,59.95 €, 122.00 € ,3
+RED,,Volnay 1er Clos des Angles,Lucien Boillot,,,2022,MAGAZ,60.00 €, NON IN LIST,5
+RED,,Corton  Perrieres GC,Philippe Girard,,,2017,72,62 €, 148.00 € ,1
+RED,,Vosne Romanee,Chevillon Chezeaux,,,2022,,69 €, NON IN LIST,1
+RED,,Morey St Denis,Arlaud,,,2022,,70.00 €, NON IN LIST,2
+RED,,Gevrey 1er Les Corbeuax,Lucien Boillot,,,2022,MAGAZ,72.00 €, NON IN LIST,5
+RED,,Marsannay Clos du Roy,Sylvain Pataille,,,2021,,74.00 €, 161.00 € ,6
+RED,,Chambolle Musigny VV,Stephane Magnien,,,2022,MAGAZ,75.00 €, 155.00 € ,4
+RED,,NSG 1er Cru Pruliers,Lucien Boillot,,,2021,,77 €, 175.00 € ,4
+RED,,Gevrey Chambertin Lavaux St Jacques,Seguin,,,2017,,82.00 €, 179.00 € ,6
+RED,,Chambolle Musigny,Hudelot Noellat,,,2022,,120.00 €, NON IN LIST,3
+RED,,Pommard 1er Cru Fremiers,Bouley,,,2010,,122 €, NON IN LIST,3
+RED,,Clos de Vougeot Grand Cru,Gros Frere et Soeur,,,2017,52,158 €, 245.00 € ,1
+RED,,Corton Grand Cru,Faiveley,,,2017,65,160 €, 260.00 € ,1
+RED,,Mazy Chambertin Grand Cru,Domaine Molin,,,2021,,299.00 €, 430.00 € ,3
+RED,LAGREIN,Lagrein ,H. Lentsch,,,2018,26,10 €, 38.00 € ,40
+RED,,Lagrein Morus,H. Lentsch ,,,2020,28,17.90 €, 50.00 € ,27
+RED,,Abtei Muri,Muri Gries,,,2020,33,19.90 €, 57.00 € ,-1
+RED,,Lagrein Riserva Late Release,H. Lentsch ,,,2018,,21.00 €,0,6
+RED,,BERGER GEI,Niedrist,,,2020,35,26 €, 62.00 € ,5
+RED,,Linticlarus,Tiefenbrunner,,,2020,36,24.50 €, 65.00 € ,2
+RED,,Tor di Lupo,Andrian,,,2020,38,29.00 €, 72.00 € ,7
+RED,,MIRELL,WALDGRIES,,,2020,,28, 79.00 € ,10
+RED,,Castel Ringberg,Elena Walch,,,2021,,29.10 €, 82.00 € ,21
+RED,,Lagrein Morus Late Release,H. Lentsch ,,,2015,28,30.00 €,0,4
+RED,,Taber Riserva,Kellerei Bozen,,,2020,39,31.00 €, 75.00 € ,18
+RED,,Porphyr Riserva,Kellerei Terlan,,,2020,40,36.70 €, 85.00 € ,6
+RED,,Porphyr Riserva,Kellerei Terlan,,,2021,,36.00 €, 85.00 € ,14
+RED,,Lamarein,Unterganzner,,,2021,93,42.90 €, 145.00 € ,10
+RED,,Kunst.stück,Kaltern,,,2020,38,45.00 €, 93.00 € ,1
+RED,,Hofacker,Georg Ramoser,,,2019,44,50 €, 105.00 € ,6
+RED,,Weingarten Klosteranger,Muri Gries,,,2016,43,51 €, 105.00 € ,5
+RED,,Perflabilis,Griesbauer,,,2019,57,58.50 €, 128.00 € ,13
+RED,,Roblinus,Ansitz Waldgries,,,2017,66,64.90 €, 125.00 € ,2
+RED,MERLOT,Merlot Riserva,H. Lentsch,,,2017,19,12.90 €, 35.00 € ,20
+RED,,Siebeneich,Schreckbichl,,,2020,24,16.50 €, 44.00 € ,15
+RED,,550,Istine,,,2019,28,18 €, 50.00 € ,2
+RED,,Mühlweg,Niedrist,,,2020,38,25.50 €, 68.00 € ,10
+RED,,Merlot Riserva Gant ,Andrian,,,2019,32,36.20 €, 80.00 € ,8
+RED,,Brenntal Riserva,Kellerei Kurtatsch,,,2020,33,34.00 €, 75.00 € ,8
+RED,,La Ricolma,San Giusto a Rentennano,,,2018,228,46.20 €, 285.00 € ,8
+RED,,Merlot Collio,Radikon,,,2005,56,48.40 €, 99.00 € ,2
+RED,,Rosso della Centa,Borgo del Tiglio,,,2018,52,64 €, 130.00 € ,3
+RED,,Galatrona,Petrolo,,,2019,87,88.60 €, 195.00 € ,4
+RED,,Palafreno,Querciabella,,,2017,,95 €, 220.00 € ,5
+RED,,Redigaffi,Tua Rita,,,2020,131,220 €, 400.00 € ,1
+RED,,Masseto,ORNELLAIA,,,2020,,860 €,1350,1
+RED,CABERNET,Cabernet Riserva ,H. Lentsch,,,2018,22,12.70 €, 38.00 € ,14
+RED,,213 / 1,Peter Dipoli,,,2019,28,14.70 €, 45.00 € ,12
+RED,,Saumur Champigny Paterne,Antoine Sanzay,,,2020,33,17.80 €, 55.00 € ,3
+RED,,Cabernet,Unterganzner,,,2021,,22 €, NON IN LIST,12
+RED,,Erminio,Bruno Grigolli,,,2018,,25.00 €, 65.00 € ,8
+RED,,Mumelter Riserva,Kellerei Bozen,,,2019,39,25 €, 70.00 € ,6
+RED,,Amistar Edizione Cab Sav,Peter Sölva,,,2019,46,37.90 €, NON IN LIST,2
+RED,,Franschhoek CS,Boekenhoutskloof,,,2021,,38 €, 105.00 € ,6
+RED,,Stellenbosch CS,Boekenhoutskloof,,,2021,,38 €, NON IN LIST,12
+RED,,Amistar CF,Peter Sölva,,,2020,,43 €, 85.00 € ,7
+RED,,Saumur Champigny Poyeux,Antoine Sanzay,,,2020,,40.00 €, 112.00 € ,7
+RED,,Freienfeld,Kurtatsch,,,2020,,39 €, 85.00 € ,5
+RED,,Lafoa,Schreckbichl,,,2020,28,55 €, 88.00 € ,11
+RED,,Shay's Flat Cab Sav,Joshua Cooper,,,2020,,57 €, 120.00 € ,5
+RED,,Campo di Magnacosta (CF),Tenuta di Trinoro,,,2017,64,58 €, 135.00 € ,3
+RED,,Cabernet Sauvignon Napa ,Heitz Cellars,,,2016,41,69.20 €, 125.00 € ,7
+RED,,Cabernet Estate Santa Cruz Mountain,Ridge Vineyards,,,2019,47,80 €, 140.00 € ,7
+RED,,Lafoa Harpf,Schreckbichl,,,2009,,82.00 €, 162.00 € ,3
+RED,,Toren,Tiefenbrunner,,,2020,,83.00 €, 177.00 € ,1
+RED,,Darmagi,Gaja,,,1995,,, 245.00 € ,1
+RED,,Paleo,Le Macchiole,,,2018,83,108 €, 215.00 € ,2
+RED,,Sassicaia,Tenuta San Guido,,,2021,,302 €, 700.00 € ,2
+RED,,Sassicaia,Tenuta San Guido,,,2020,170,180 €, 390.00 € ,3
+RED,,Sassicaia,Tenuta San Guido,,,2019,161,249 €, 465.00 € ,2
+RED,,Sassicaia,Tenuta San Guido,,,2017,200,180 €, 420.00 € ,0
+RED,,Sassicaia,Tenuta San Guido,,,2018,160,307 €, 534.00 € ,1
+RED,,Sassicaia,Tenuta San Guido,,,1992,,, 410.00 € ,0
+RED,,Darmagi,Gaja,,,1995,,, 345.00 € ,1
+RED,VALPOLICELLA,Valpolicella Classico,Ragose,,,2021,25,7.90 €, 35.00 € ,9
+RED,,Ripasso Progni,Salette,,,2018,28,13.30 €, 44.00 € ,32
+RED,,Amarone della Valpolicela,Le Ragose,,,2012,42,36.60 €, 85.00 € ,22
+RED,,Heletto,Garbole,,,2016,,37.50 €, 92.00 € ,0
+RED,,Amarone Pietro dal Cero,Ca dei Frati,,,2017,45,44.00 €, 105.00 € ,24
+RED,,KAIROS IGT,Zymé,,,2018,45,43.90 €, 99.00 € ,2
+RED,,Rosso del Merlo,Quintarelli,,,2015,59,69.00 €, 135.00 € ,7
+RED,,Valpolicella Superiore,Giuseppe Quintarelli,,,2016,,70.00 €, 165.00 € ,3
+RED,,Amarone della Valpolicella,Bertani,,,2012,53,75 €, 180.00 € ,1
+RED,,,,,,2013,,103 €, 130.00 € ,6
+RED,,Valpolicella Superiore,Dal Forno,,,2013,,95.00 €, 200.00 € ,4
+RED,,Amarone Riserva,Rubinelli Vajol,,,2010,,105 €, 285.00 € ,2
+RED,,Amarone ,Quintarelli,,,2015,107,213 €, 350.00 € ,9
+RED,,Amarone,Dal Forno,,,2013,58,305 €, 430.00 € ,3
+RED,SYRAH,Syrah Cortona,Amerighi Stefano,,,2019,48,16.50 €, 68.00 € ,13
+RED,,Crozes-Hermitage Les Jalets,Paul Jaboulet Aine,,,2021,24,20.90 €, 55.00 € ,5
+RED,,Gestad ,Ziereisen,,,2020,26,21 €, 52.00 € ,1
+RED,,Mitterberg Syrah,Ignz Niedrist,,,2018,36,24.50 €, 66.00 € ,6
+RED,,LP54,Lentsch,,,2020,,29.00 €, 68.00 € ,8
+RED,,Syrah,Quinta do Noval,,,2017,,26.00 €, non in lista,1
+RED,,Case Via,Fontodi,,,2019,,29.90 €, 75.00 € ,2
+RED,,Crozes-Hermitage,Alain Graillot,,,2022,,35.00 €, non in lista,5
+RED,,Swartland Syrah,Mullineux,,,2021,,35.00 €, non in lista,12
+RED,,Gigondas,Saint Cosme,,,2022,,37.30 €, 85.00 € ,5
+RED,,Syrah ,Boekenhoutskloof,,,2021,,38 €, 95.00 € ,11
+RED,,Bin 28 Syrah,Penfolds,,,2018,23,38.60 €, 68.00 € ,7
+RED,,Cornas Nouvelle R,Guillaume Gilles,,,2022,,47.50 €, 89.00 € ,5
+RED,,Sonoma Coast Syrah,Ramey,,,2012,37,49.90 €, 98.00 € ,1
+RED,,Yarra Valley Syrah,Timo Mayer,,,2022,,55 €, 115.00 € ,5
+RED,,Hermitage Rouge,Guigal,,,2019,56,56.20 €, 125.00 € ,1
+RED,,Cote Rotie Ampodium,Domaine Rostaing,,,2022,,68.00 €, non in lista,6
+RED,,Cornas,Haisma,,,2022,,64 €, 125.00 € ,6
+RED,,Hermitage Rouge Domaine Tourettes,Delas,,,2021,,86 €, 185.00 € ,3
+RED,,Chateau d'Ampuis,Etienne Guigal,,,2015,,92 €, 170.00 € ,4
+RED,,Cornas,Clape,,,2021,,111 €, non in lista,1
+RED,,GRANITE Syrah,Mullineux,,,2021,,123.00 €, non in lista,3
+RED,,10 Hoch4,Ziereisen,,,2018,66,130 €, 225.00 € ,2
+RED,NEBBIOLO,Langhe Nebbiolo ,Trediberri,,,2023,,9.40 €,0,1
+RED,,Langhe Nebbiolo ,Vajra,,,2018,24,11.55 €, 38.00 € ,1
+RED,,Langhe Nebbiolo ,Produttori del Barbaresco,,,2022,,11 €, 38.00 € ,3
+RED,,Langhe Nebbiolo ,Burlotto,,,2023,,15 €, NON IN LIST,5
+RED,,Langhe Nebbiolo ,Penna Currado,,,2023,,17 €, NON IN LIST,19
+RED,,Pian delle Mole,Giulia Negri,,,2022,,20 €, 58.00 € ,2
+RED,,NO NAME,Borgogno,,,2020,,24.83, 75.00 € ,3
+RED,,IL FAVOT,Aldo Conterno,,,2019,,34.00 €, 90.00 € ,2
+RED,,Langhe Rosso,Roagna,,,2018,,36.00 €, 95.00 € ,4
+RED,,Sito Moresco,Gaja,,,2021,,42.50 €, NON IN LIST,12
+RED,,Sito Moresco,Gaja,,,2019,,42.50 €, NON IN LIST,6
+RED,,Sito Moresco,Gaja,,,2016,,42.50 €, NON IN LIST,5
+RED,,Nebbiolo Ester Canale,Giovanni Rosso,,,2019,,, 280.00 € ,4
+RED,,Nebbiolo Arione,Giacomo Conterno,,,2020,,129 €, 270.00 € ,2
+RED,BARBARESCO,Barbaresco ,Produttori del Barbaresco,,,2019,35,18.50 €, 58.00 € ,0
+RED,,Barbaresco,,,,2018,,18.50 €, 65.00 € ,12
+RED,,Asili,Produttori del Barbaresco,,,2019,,28.00 €, 90.00 € ,4
+RED,,Montefico,Produttori del Barbaresco,,,2019,,28.00 €, 90.00 € ,5
+RED,,Montestefano,Produttori del Barbaresco,,,2019,#NAME?,28.00 €, 90.00 € ,4
+RED,,Muncagota,Produttori del Barbaresco,,,2019,,28.00 €, 90.00 € ,4
+RED,,Ovello,Produttori del Barbaresco,,,2019,,28.00 €, 90.00 € ,8
+RED,,Paje,Produttori del Barbaresco,,,2019,,28.00 €, 90.00 € ,5
+RED,,Pora,Produttori del Barbaresco,,,2019,,28.00 €, 90.00 € ,6
+RED,,Rabaja,Produttori del Barbaresco,,,2019,,28.00 €, 90.00 € ,6
+RED,,Rio Sordo,Produttori del Barbaresco,,,2019,,28.00 €, 90.00 € ,8
+RED,,Barbaresco Vallegrande,ca del baio,,,2019,,28.15 €, 72.00 € ,0
+RED,,Barbaresco,Ceretto,,,2021,,33.75 €, 88.00 € ,2
+RED,,Barbaresco Bordini,La Spinetta,,,2020,36,40 €, 85.00 € ,1
+RED,,Barbaresco ,Francesco Versio,,,2020,,42 €, 88.00 € ,12
+RED,,Barbaresco ,Francesco Versio,,,2021,,43 €, NON IN LIST,18
+RED,,Don Fiorino,Produttori del Barbaresco,,,2016,93,48 €, 152.00 € ,16
+RED,,Barbaresco Martinenga,Marchesi Gresy,,,2018,,50.00 €, NON IN LIST,0
+RED,,Barbaresco Rabaja,Bruno Rocca,,,2019,,57 €, NON IN LIST,6
+RED,,Barbaresco Gallina,Ceretto,,,2019,,73 €, 152.00 € ,4
+RED,,Barbaresco Rabaja Riserva,Giuseppe Cortese,,,2016,55,77.50 €, 150.00 € ,6
+RED,,BARBARESCO Asili Riserva,ca del baio,,,2018,,82.80 €, 160.00 € ,3
+RED,,Barbaresco Starderi Vürsu,La Spinetta,,,2019,46,98 €, 166.00 € ,6
+RED,,Barbaresco Rabaja,Bruno Giacosa,,,2017,,165 €, NON IN LIST,1
+RED,,Barbaresco Albesani,Roagna,,,2018,,133 €, NON IN LIST,2
+RED,,Barbaresco Gallina,Roagna,,,2018,,133 €, NON IN LIST,2
+RED,,Barbaresco Paje,Roagna,,,2019,,144 €, NON IN LIST,6
+RED,,Barbaresco,Gaja,,,2019,54,218 €, 320.00 € ,10
+RED,,Barbaresco,Gaja,,,2018,126,159 €, 320.00 € ,1
+RED,,Barbaresco Asili Vecchie Vigne,Roagna,,,2019,,313 €, NON IN LIST,3
+RED,,Barbaresco Harpf,Gaja,,,2004,,229.00 €, 412.00 € ,3
+RED,,Barbaresco Costa Russi,Gaja,,,1995,,, 325.00 € ,1
+RED,BAROLO,Barolo Berri,Trediberri,,,2019,,24 €, 68.00 € ,1
+RED,,Barolo la Morra,Crissante,,,2020,,22 €, 75.00 € ,14
+RED,,Barolo Serralunga ,Ettore Germano,,,2019,28,27.30 €, 62.00 € ,11
+RED,,Barolo Riserva,Boschetti,,,2015,,30.00 €, 105.00 € ,4
+RED,,Barolo Monforte,Domenico Clerico,,,2019,,32 €, 65.00 € ,14
+RED,,Barolo Ravera,Piero Benevelli,,,2019,35,30 €, 72.00 € ,13
+RED,,Barolo Mosconi,Piero Benevelli,,,2018,26,32 €, 65.00 € ,2
+RED,,Barolo Galina,Crissante,,,2019,,32 €, NON IN LIST,2
+RED,,Barolo Capalot,Crissante,,,2019,,32 €, NON IN LIST,2
+RED,,Barolo aArborina,Renato Corino,,,2019,,33 €, 75.00 € ,1
+RED,,Barolo Bussia,Giacomo Fenocchio,,,2018,26,36.00 €, 72.00 € ,1
+RED,,Barolo In Vino Veritas,Borgogno,,,2019,,36.50 €, 89.00 € ,12
+RED,,Barolo Rocche Annunziata,Renato Corino,,,2019,,39 €, NON IN LIST,3
+RED,,Barolo Rocche Annunziata,Trediberri,,,2019,,40 €, 92.00 € ,15
+RED,,Barolo Vigna Rionda,Pira Luigi,,,2018,,47.35 €, 97.00 € ,1
+RED,,Barolo Fossati Annata Storica,Borgogno,,,2013,,48.00 €, 135.00 € ,3
+RED,,Barolo la Tartufaia,Giulia Negri,,,2020,,50 €, 112.00 € ,0
+RED,,Barolo Riserva  ,Osvaldo Viberti,,,2016,51,50 €,112 €,10
+RED,,Barolo Serra,Giovanni Rosso,,,2020,,50.00 €, 130.00 € ,10
+RED,,Barolo Aleste,Luciano Sandrone,,,2019,46,59.00 €, 108.00 € ,7
+RED,,Barolo Liste,Borgogno,,,2019,,53.00 €, NON IN LIST,19
+RED,,Barolo Bricco Ambrogio,Paolo Scavino,,,2019,,53.10 €, NON IN LIST,5
+RED,,Barolo Bricco Ambrogio,Paolo Scavino,,,2020,,56.00 €, NON IN LIST,0
+RED,,Bricco delle Viole,GD Vajra,,,2018,,53 €, NON IN LIST,5
+RED,,Bricco delle Viole,GD Vajra,,,2017,40,, 105.00 € ,2
+RED,,Barolo Mosconi Vigna Ped,Conterno Fantino,,,2019,50,57.50 €, 120.00 € ,5
+RED,,Barolo le Vigne  ,Luciano Sandrone,,,2019,,59.00 €, NON IN LIST,6
+RED,,Barolo le Vigne  ,Luciano Sandrone,,,2020,,53.00 €, NON IN LIST,6
+RED,,Barolo Sori Ginestra,Conterno Fantino,,,2020,,63.00 €, 145.00 € ,4
+RED,,Barolo Ravera,Paolo Scavino,,,2019,,64.70 €, NON IN LIST,11
+RED,,Barolo Ravera,Paolo Scavino,,,2020,,68.00 €, NON IN LIST,6
+RED,,Barolo Monvigliero,Paolo Scavino,,,2019,45,64.70 €, 124.00 € ,4
+RED,,Barolo Monvigliero,Paolo Scavino,,,2020,,70.00 €, 124.00 € ,5
+RED,,Barolo Pajana,Domenico Clerico,,,2014,,70.45 €, 144.00 € ,2
+RED,,Barolo Pajana,Domenico Clerico,,,2019,,67.90 €, 162.00 € ,6
+RED,,Barolo Aeroplanservaj,Domenico Clerico,,,2019,54,70 €, 140.00 € ,6
+RED,,Barolo Prapo,Paolo Scavino,,,2020,,68.00 €, NON IN LIST,6
+RED,,Barolo Dagromis,Gaja,,,2019,49,70.40 €, 135.00 € ,9
+RED,,Barolo Dagromis,Gaja,,,2018,,70.40 €, 135.00 € ,1
+RED,,Barolo Serradenari,Giulia Negri,,,2020,,72 €, 160.00 € ,12
+RED,,Barolo Ciabot Mentin Ginestra,Domenico Clerico,,,2019,,72 €, NON IN LIST,6
+RED,,Barolo Ciabot Mentin Ginestra,Domenico Clerico,,,2015,,84 €, 189.00 € ,6
+RED,,Barolo Ginestra Case Mate,Elio Grasso,,,2019,,75.60 €, NON IN LIST,2
+RED,,Barolo Bric del Fiasc,Paolo Scavino,,,2019,,76 €, NON IN LIST,5
+RED,,Barolo Bric del Fiasc,Paolo Scavino,,,2020,,68 €, 148.00 € ,1
+RED,,Barolo Via Nuova,Chiara Boschis,,,2020,,76 €, 148.00 € ,10
+RED,,Barolo Riserva Lazzarito,Ettore Germano,,,2016,61,76.80 €, 155.00 € ,14
+RED,,Bussia 90 Dí,Giacomo Fenocchio,,,2015,67,78.20 €, 162.00 € ,2
+RED,,Barolo Aleste Sibi et Paucis,Luciano Sandrone,,,2013,,83.50 €, 172.00 € ,2
+RED,,Barolo Cannubi Sibi et Paucis,Luciano Sandrone,,,2012,,90.00 €, NON IN LIST,6
+RED,,Barolo Arborina,Elio Altare,,,2015,,92 €, 218.00 € ,2
+RED,,Barolo Cicala,Aldo Conterno,,,2018,83,96 €, 200.00 € ,3
+RED,,Barolo Colonnello,Aldo Conterno,,,2018,83,96 €, 200.00 € ,4
+RED,,Barolo Vigna Rionda,Massolino,,,2017,,108.00 €, 231.00 € ,3
+RED,,Barolo Bricco Cerretta,Elio Altare,,,2009,,122.00 €, 262.00 € ,3
+RED,,Perno Santo Stefano,Giuseppe Mascarello,,,2012,,130 €, 317.00 € ,2
+RED,,Barolo La Pira,Roagna,,,2018,,133 €, NON IN LIST,0
+RED,,Barolo Rocche Castiglione,Roagna,,,2019,,144 €, 285.00 € ,6
+RED,,Barolo,Burlotto,,,2020,,38, 160.00 € ,2
+RED,,Acclivi ,Burlotto,,,2019,,42, 190.00 € ,2
+RED,,Cannubi,Burlotto,,,2020,,53, 400.00 € ,6
+RED,,Cannubi,Burlotto,,,2015,,147.00 €, NON IN LIST,2
+RED,,Castelletto,Burlotto,,,2020,,42, 220.00 € ,3
+RED,,Monvigliero,Burlotto,,,2019,,59,0,1
+RED,,Barolo Sperss,Gaja,,,2017,,, 261.00 € ,1
+RED,,Barolo Cicala,Aldo Conterno,,,2000,,, 255.00 € ,0
+RED,,Falletto le Rocche Et. Rossa,Bruno Giacosa,,,2016,,499, NON IN LIST,2
+RED,,Barolo Francia,Giacomo Conterno,,,2010,,248 €, 430.00 € ,2
+RED,,Barolo Francia,Giacomo Conterno,,,2016,,239.00 €, non in list,1
+RED,,Falletto le Rocche ,Bruno Giacosa,,,2019,,199, NON IN LIST,6
+RED,,Rocche Annunziata,Paolo Scavino,,,2016,112,152 €, 320.00 € ,2
+RED,,Tre Tine,Giuseppe Rinaldi,,,2010,,548 €, NON IN LIST,2
+RED,Red,Gattinara,Antoniolo,,,2019,,34.80 €, 85.00 € ,3
+RED,,Carema,Ferrando,,,2019,,52.00 €, 98.00 € ,2
+RED,,Gattinara,Nervi Conterno,,,2020,,46.90 €, NON IN LIST,13
+RED,,Sumié Carema,Muraje,,,X,,48, 112.00 € ,6
+RED,,Vigna Molsino,Nervi Conterno,,,2018,60,94.00 €, 175.00 € ,7
+RED,,Vigna Valferana,Nervi Conterno,,,2019,,94.00 €, 175.00 € ,4
+RED,VALTELLINA,Inferno,Rainoldi,,,2018,,25.00 €, 55.00 € ,2
+RED,,Gess Grumello Superiore,Dirupi,,,2019,,28 €, 65.00 € ,5
+RED,,Rocce Rosse,Arpepe,,,2016,,56.00 €, 105.00 € ,3
+RED,,Sfursat 5 Stelle,Nino Negri,,,2015,,, 108.00 € ,1
+RED,SANGIOVESE,Pian del Ciampolo,Montevertine,,,2021,38,16.50 €, 58.00 € ,7
+RED,,Chianti Classico,Monteraponi,,,2022,,22.00 €, 58.00 € ,17
+RED,,Bugialla Riserva,Poggerino,,,2019,,21.00 €, 82.00 € ,2
+RED,,Chianti Classico,Carleone,,,x,,23.14, 72.00 € ,22
+RED,,Il Carbonaione,Poggio Scalette,,,2021,,30.00 €, 73.00 € ,4
+RED,,Montevertine IGT,Montevertine,,,2018,42,43 €, 95.00 € ,5
+RED,,Montevertine IGT,Montevertine,,,2019,,43 €, 95.00 € ,9
+RED,,Montevertine IGT,Montevertine,,,2020,,43 €, 95.00 € ,11
+RED,,Montevertine IGT,Montevertine,,,2014,,43 €, 95.00 € ,0
+RED,,Nobile di Montepulciano Riserva Asinone,Poliziano,,,2019,37,39.25 €, 85.00 € ,5
+RED,,Baron Ugo,Monteraponi,,,2019,,55.00 €, 112.00 € ,4
+RED,,Cepparello,Isole e Olena,,,2019,61,65.00 €, 140.00 € ,1
+RED,,Carla 6 ,La Massa,,,2017,49,66.50 €, 130.00 € ,0
+RED,,Flaccianello della Pieve,Fontodi,,,2019,102,73.90 €, 182.00 € ,11
+RED,,Flaccianello della Pieve,Fontodi,,,2014,,, 400.00 € ,4
+RED,,Le Pergole Torte,Montevertine,,,2021,,95 €, 295.00 € ,16
+RED,,Le Pergole Torte,Montevertine,,,2020,,, 295.00 € ,9
+RED,,Le Pergole Torte,Montevertine,,,2019,,, 295.00 € ,0
+RED,,Le Pergole Torte,Montevertine,,,2020,,85 €, non in list,5
+RED,,Le Pergole Torte,Montevertine,,,2019,,, 325.00 € ,2
+RED,,Case Basse,Soldera,,,2018,,399 €, 990.00 € ,1
+RED,,Case Basse,Soldera,,,2019,,650 €, non in list,2
+RED,MONTALCINO,Rosso di Montalcino,Canalicchio di Sopra,,,2022,,18.80 €, 48.00 € ,16
+RED,,Rosso di Montalcino,Le Ragnaie,,,2020,,18.80 €, 70.00 € ,8
+RED,,Rosso di Montalcino,Le Ragnaie,,,2014,,26.00 €, non in list,3
+RED,,Brunello di Montalcino,Collosorbo,,,2018,34,25 €, 65.00 € ,2
+RED,,Brunello di Montalcino,Il Poggione,,,2019,,34.95 €, non in list,12
+RED,,Brunello di Montalcino,Talenti,,,2019,,32.00 €, 82.00 € ,12
+RED,,Brunello Pelagrilli,Siro Pacenti,,,2019,,35.00 €, 82.00 € ,10
+RED,,Brunello di Montalcino,Lisini,,,2019,,38.00 €, non in list,22
+RED,,Brunello di Montalcino,La Magia,,,2019,,41.00 €, 85.00 € ,1
+RED,,Rosso di Montalcino,Poggio di Sotto,,,2018,40,44.80 €, 95.00 € ,10
+RED,,Brunello di Montalcino,Conti Costanti,,,2019,,49.00 €, 155.00 € ,9
+RED,,Brunello di Montalcino,Canalicchio di Sopra,,,2019,,51.00 €, 105.00 € ,16
+RED,,Brunello di Montalcino,Le Ragnaie,,,2019,,54.00 €, non in list,10
+RED,,Brunello di Montalcino,Le Ragnaie,,,2009,,68.00 €, non in list,2
+RED,,Brunello di Montalcino,Castello Romitorio,,,2018,,52.80 €, 112.00 € ,1
+RED,,Brunello di Montalcino,Le Chiuse,,,2019,,57.00 €, non in list,11
+RED,,Brunello Vecchie Vigne,Siro Pacenti,,,2017,51,60 €, 125.00 € ,10
+RED,,Brunello NICCO,Capanna,,,2019,,62.00 €, 145.00 € ,10
+RED,,Brunello di Montalcino,Cupano,,,2018,56,64.70 €, 135.00 € ,4
+RED,,Brunello di Montalcino,Cupano,,,2019,,64.70 €, non in list,6
+RED,,Brunello Montosoli,Altesino,,,2019,,50 €, 170.00 € ,10
+RED,,Brunello di Montalcino Le Lucere,San Filippo,,,2016,,70.00 €, 165.00 € ,3
+RED,,Brunello Vigneti Versante,Pian dell'Orino,,,2017,62,72 €, 150.00 € ,2
+RED,,Brunello Piero,Talenti,,,2018,68,75 €, 160.00 € ,2
+RED,,Brunello Piero,Talenti,,,2019,,75 €, non in list,6
+RED,,Brunello Tenuta Nuova,Casanova di Neri,,,2019,,87 €, non in list,6
+RED,,Brunello Tenuta Nuova,Casanova di Neri,,,2017,69,79 €, 195.00 € ,2
+RED,,Brunello Vigna Loreto,Mastrojanni,,,2017,85,78 €, 180.00 € ,5
+RED,,Brunello di Montalcino Riserva,Il Poggione,,,1997,,89.00 €, non in list,1
+RED,,Brunello di Montalcino Riserva,Tenuta Uccelliera,,,2016,77,96.90 €, 195.00 € ,3
+RED,,Brunello Filo di Seta,Castello Romitorio,,,2018,77,94.29 €, 192.00 € ,4
+RED,,Brunello Riserva,Il Poggione,,,2010,,97.00 €, non in list,2
+RED,,Brunello di Montalcino Pietroso,Le Ragnaie,,,2019,,111.00 €, non in list,3
+RED,,Brunello di Montalcino Casaccia,Canalicchio di Sopra,,,2019,,115.00 €, non in list,3
+RED,,Brunello di Montalcino Montosoli,Canalicchio di Sopra,,,2019,,115.00 €, non in list,3
+RED,,Brunello di Montalcino Vigna Vecchia,Le Ragnaie,,,2011,,116.00 €, 322.00 € ,5
+RED,,Brunello di Montalcino ,Biondi Santi,,,2015,134,119 €, 280.00 € ,4
+RED,,Poggio di Sotto,Poggio di Sotto,,,2018,,125 €, NON IN LIST,5
+RED,,Brunello di Montalcino Riserva,Pian dell'Orino,,,2004,,130.00 €, 265.00 € ,3
+RED,,Poggio di Sotto,Poggio di Sotto,,,2015,72,125 €, 225.00 € ,3
+RED,,Brunello di Montalcino Cerretalto,Casanova di Neri,,,2013,,329.00 €, 600.00 € ,3
+RED,Red,Primitivo,Rosa del Golfo,,,2020,35,8.80 €, 45.00 € ,11
+RED,,Teatrale Incrocio,Malibran,,,2022,34,6.50 €, 42.00 € ,9
+RED,,Schioppettino,I Clivi,,,2021,34,9.11 €, 45.00 € ,7
+RED,,Terrazas Malbec,Terrazas de los Andes,,,2021,,13 €, 55.00 € ,12
+RED,,Cannonau Manca,Garagisti Sorgono,,,2020,27,15 €, 45.00 € ,9
+RED,,Pignolo,Ronchi di Cialla,,,2016,,22.00 €, NON IN LIST,6
+RED,,Teroldego Morei,Foradori,,,2020,31,21.95 €, 58.00 € ,3
+RED,,Montepulciano d'Abruzzo Riserva,Praesidium,,,2019,,24.39 €, 66.00 € ,0
+RED,,Mourvedre Monkey gone to Heaven,Testalonga,,,2021,27,26 €, 59.00 € ,3
+RED,,Montepulciano d'Abruzzo,Emidio Pepe,,,2022,,41.60 €, 120.00 € ,12
+RED,,Refosco,Ronchi di Cialla,,,2014,,31.50 €, 75.00 € ,2
+RED,,Schioppettino,Ronchi di Cialla,,,2018,,35.00 €, 85.00 € ,5
+RED,,Nerobuffalj,Gulfi,,,2020,,37 €, 82.00 € ,9
+RED,,Joschuari,Gut Oggau,,,2015,39,38 €, 85.00 € ,6
+RED,,Lemberger Lammler Fellbacher,Aldinger,,,X,,43 €, NON IN LIST,#REF!
+RED,,Zinfandel Lytton Spring,Ridge ,,,2018,35,45 €, 90.00 € ,5
+RED,,Carnasciale ,Podere il Carnasciale,,,2016,,, 105.00 € ,4
+RED,,JO Negroamaro,Gianfranco Fino,,,2020,,50 €, 112.00 € ,6
+RED,,ES Primitivo,Gianfranco Fino,,,2021,50,51.10 €, 112.00 € ,9
+RED,,Moulin a Vent La Roche,Thibault Liger Belair,,,2020,31,48.60 €, 90.00 € ,5
+RED,,Oratorio San Lorenzo,Inama,,,2017,,55 €, 138.00 € ,5
+RED,,Hillside Grenache,Torbreck,,,2018,,59.00 €, NON IN LIST,2
+RED,,Kurni,Oasi degli Angeli,,,2017,94,91 €, 205.00 € ,13
+RED,,Kupra,Oasi degli Angeli,,,2019,78,198 €, 320.00 € ,2
+RED,,Caberlot,Podere il Carnasciale,,,2016,,, 260.00 € ,2
+RED,Red,Purgatorio, Curtaz,,,CHECK,,18 €, 48.00 € ,0
+RED,,Rosso di Mezzo,Federico Graziani,,,2021,,34 €, non in list,2
+RED,,Etna Rosso,Federico Graziani,,,2021,,20 €, non in list,2
+RED,,Reseca,Gulfi,,,x,,23.00 €, non in list,6
+RED,,Etna Rosso,Terre Nere ,,,2020,33,25.00 €, 54.00 € ,3
+RED,,Idda Rosso,Gaja,,,2019,,28.00 €, 92.00 € ,3
+RED,,Contrada Chiappemacine Etna,Passopisciaro,,,2019,33,42.24 €, 85.00 € ,0
+RED,,Profumo di Vulcano,Federico Graziani,,,2021,49,51 €, 110.00 € ,3
+RED,,Calderara Sottana,Tenuta Terre Nere,,,2021,47,52.78 €, 112.00 € ,10
+RED,,Contrada San Lorenzo,Terre Nere ,,,2019,61,65 €, 140.00 € ,7
+RED,,Contrada San Lorenzo,Terre Nere ,,,2021,,65 €, NON IN LIST,11
+RED,,Barbabecchi,Graci,,,2020,,95.00 €, 190.00 € ,2
+RED,Red,Barbera d'Alba,Trediberri,,,2023,,8.63 €, 42.00 € ,9
+RED,,Barbera d'Alba,Burlotto,,,2023,,11.50 €, NON IN LIST,4
+RED,,Barbera d'Alba,GD Vajra,,,2021,27,12.13 €, 42.00 € ,2
+RED,,Barbera d'Alba,Giulia Negri,,,2022,,20.00 €, 60.00 € ,0
+RED,,Pelaverga,Burlotto,,,2023,,11.70 €, 65.00 € ,9
+RED,,Freisa Langhe,Burlotto,,,2022,,12.90 €, 65.00 € ,10
+RED,,Dolcetto,Roagna,,,2022,,20.00 €, 85.00 € ,2
+RED,,Freisa KYE,GD Vajra,,,2019,31,20 €, 55.00 € ,6
+RED,,Grignolino Bricco Bosco,Accornero,,,2019,,32.00 €, 78.00 € ,3
+RED,,Bricco dell´uccellone,Braida,,,2020,42,46.00 €, 98.00 € ,4
+RED,,Barbera d'Alba,Giacomo Conterno,,,2021,,50 €, 165.00 € ,2
+RED,Red,Negre Historic,Terroir al Limit,,,2021,31,19.36 €, 55.00 € ,1
+RED,,Vertebra Grenache,Terroir al Limit,,,2021,,23.50 €,0,5
+RED,,Les Eres Priorat Vinyes Viellies,Joan Simo,,,2016,,33.25 €, 75.00 € ,1
+RED,,Vina Tondonia Reserva,Lopez de Heredia,,,2012,,36.00 €, 80.00 € ,7
+RED,,Velles Vinyes,Alvaro Palacios,,,X,,38.00 €, NON IN LIST,5
+RED,,Dits del Terra,Terroir al Limit,,,2021,,51.00 €, 115.00 € ,5
+RED,,Lacima,Dominio do Bibei,,,2019,,55 €, 105.00 € ,5
+RED,,Arbossar (Carignan),Terroir al Limit,,,2021,44,61.78 €, 120.00 € ,2
+RED,,Marcenca Negre (Grenache),Terroir al Limit,,,2021,44,61.78 €, 120.00 € ,4
+RED,,Toro Pintia,Vega Sicilia,,,2018,50,69.60 €, 135.00 € ,10
+RED,,Finca Dofi,Alvaro Palacios,,,X,,70.00 €, 172.00 € ,4
+RED,,Alion (Ribera),Vega Sicilia,,,2018,90,87 €, 160.00 € ,1
+RED,,Flor de Pingus,Dominio de Pingus,,,2019,66,97 €, 185.00 € ,0
+RED,,Les Manyes Vi d'Altura Garnacha,Terroir al Limit,,,2021,55,162.00 €, 280.00 € ,5
+RED,,Castillo Ygay,Marques de Murrieta,,,2011,38,189.00 €, 350.00 € ,2
+RED,Red,URAS,Garagisti Sorgono,,,2020,,16.50 €, 60.00 € ,2
+RED,,il Conte,Manincor,,,2022,,14 €, 48.00 € ,11
+RED,,Palestina CS/ME,H. Lentsch,,,2016,26,17.90 €, 48.00 € ,15
+RED,,Storlong ME/CS,Tröpfltalhof,,,2021,,21 €, NON IN LIST,2
+RED,,Sacrisassi,Le due Terre,,,2021,,21 €, 65.00 € ,5
+RED,,Villa Gresti,Tenuta San Leonardo,,,2016,34,21 €, 60.00 € ,3
+RED,,Feldhrr,Lieselehof,,,x,,27.00 €, 80.00 € ,4
+RED,,Linticlarus Cuvee,Tiefenbrunner,,,2021,,29 €, 76.00 € ,7
+RED,,Gemola ,Vignalta,,,2018,,31.00 €, 72.00 € ,5
+RED,,Composition Reif CS/ME/LA/PV,Unterganzner,,,2020,35,32.60 €, 75.00 € ,1
+RED,,Palestina Limited 2011,H. Lentsch,,,2011,40,37.00 €, 85.00 € ,17
+RED,,Rosso Riserva,Borgo del Tiglio,,,2017,,38 €, 85.00 € ,3
+RED,,Brenntal (ME/CF),Peter Dipoli,,,2020,34,41.50 €, 85.00 € ,28
+RED,,Kermesse,Elena Walch,,,2022,,42.75 €, 85.00 € ,7
+RED,,Geyserville,Ridge,,,2019,,51.50 €, NON IN LIST,6
+RED,,Bandol Rouge,Chateau Pibarnon,,,2021,,48.00 €, 102.00 € ,5
+RED,,Buri Bellaria,Ronco del Gnemiz,,,2020,44,49.90 €, 105.00 € ,7
+RED,,Buri Bellaria,Ronco del Gnemiz,,,2023,,49.90 €, NON IN LIST,6
+RED,,Viribus Unitis,Kofler & Soelva,,,2016,36,50.80 €, 98.00 € ,2
+RED,,Capo di Stato,Loredan Gasparini,,,2018,45,52 €, 108.00 € ,6
+RED,,Dry Red N1,Yarra Yering,,,2017,,63.00 €, NON IN LIST,3
+RED,,San Leonardo CS/ME/CF,Tenuta San Leonardo,,,2016,41,64.40 €, 120.00 € ,5
+RED,,San Leonardo CS/ME/CF,Tenuta San Leonardo,,,2019,,67.00 €, NON IN LIST,6
+RED,,San Leonardo CS/ME/CF,Tenuta San Leonardo,,,2018,,64.40 €,0,5
+RED,,San Leonardo CS/ME/CF,Tenuta San Leonardo,,,2014,,, 95.00 € ,1
+RED,,San Leonardo CS/ME/CF,Tenuta San Leonardo,,,2010,,, 108.00 € ,2
+RED,,San Leonardo CS/ME/CF,Tenuta San Leonardo,,,1991,,,0,1
+RED,,Barbacarlo,Lino Maga,,,2021,,80.00 €, NON IN LIST,3
+RED,,TAL ROT,Bozen,,,2020,66,81.00 €, 165.00 € ,0
+RED,,Rosso Gravner,Josko Gravner,,,1999,,90.00 €, non in list,1
+RED,,TRES,Kurtatsch,,,2016,,123 €, NON IN LIST,10
+RED,,Alzero,Quintarelli,,,2015,156,241 €, 450.00 € ,2
+RED,SUPER TUSCANS,Lucente,Tenuta Luce,,,2022,,22.00 €, 60.00 € ,8
+RED,,Piastraia,Michele Satta,,,2021,,29.50 €, 75.00 € ,9
+RED,,Turpino ,Querciabella,,,2017,,32.00 €, 79.00 € ,0
+RED,,MAGARI,GAJA,,,2021,40,56.00 €, 110.00 € ,6
+RED,,Il Blu ME/SA/CS,Brancaia,,,2018,52,59 €, 125.00 € ,9
+RED,,Oreno,Tenuta Sette Ponti,,,2019,44,62 €, 120.00 € ,1
+RED,,Tinata SY/GR,Monteverro,,,2017,51,65 €, 130.00 € ,6
+RED,,Tignanello,Antinori,,,2021,,95 €, 185.00 € ,18
+RED,,Camartina,Querciabella,,,2017,60,73.62 €, 148.00 € ,4
+RED,,Saffredi,Fonterutoli,,,2021,,76.00 €, 155.00 € ,5
+RED,,Vigna d'Alceo,Castello dei Rampolla,,,2018,,89.00 €, 180.00 € ,4
+RED,,Siepi,Fattoria le Pupille,,,2019,,90.00 €, 200.00 € ,5
+RED,,GIORGIO I,LA MASSA,,,x,,89 €, 176.00 € ,3
+RED,,Monteverro CS/CF/ME/PV,Monteverro,,,2017,74,95 €, 190.00 € ,1
+RED,,Guado al Tasso,Guado al Tasso,,,2020,82,96.80 €, 200.00 € ,3
+RED,,Biserno,Tenuta di Biserno,,,2019,90,119 €, 235.00 € ,3
+RED,,Biserno,Tenuta di Biserno,,,2021,,100 €, NON IN LIST,3
+RED,,Biserno,Tenuta di Biserno,,,2014,128,100 €, 250.00 € ,2
+RED,,Ca' Marcanda,Gaja,,,2019,120,125 €, 255.00 € ,4
+RED,,Ca Marcanda,Gaja,,,2013,,178.00 €, 310.00 € ,2
+RED,,Trinoro CF/ME/CS,Tenuta di Trinoro,,,2019,,240 €, 390.00 € ,0
+RED,,Ornellaia,Tenuta dell'Ornellaia,,,2020,,229 €, 430.00 € ,2
+RED,,Solaia,Antinori,,,2019,,375 €, 600.00 € ,1
+RED,Red,Chateau Quinalt L'Enclos Grand Cru,Quinault L'Enclos,,,2019,40,38.90 €, 87.00 € ,9
+RED,,Chateau Kirwan 3 Gran Cru Classè,KIRWAN,,,2016,,56.80 €, 105.00 € ,1
+RED,,Les Pagode de Cos,Cos d´Estournel,,,2016,,58.20 €, 110.00 € ,5
+RED,,4eme Saint Julien,Chateau Talbot,,,2019,,58 €, NON ,6
+RED,,"Grand Vin, Margaux",Rauzan Segla,,,2017,,86 €, 165.00 € ,1
+RED,,4eme Saint Julien,Chateau Talbot,,,2016,,99 €, 190.00 € ,1
+RED,,"Grand Vin, Pauillac",Pontet Canet,,,2020,117,109 €, 250.00 € ,3
+RED,,"Grand Vin, Pauillac",Pontet Canet,,,2013,,115 €, 250.00 € ,0
+RED,,Lynch Bages 5eme,Lynch Bages,,,2021,,130 €, NON ,3
+RED,,4eme Saint Julien,Chateau Beychevelle,,,2017,,144 €, 325.00 € ,3
+RED,,St Emilion GC,Tertre Rotebeouf,,,2011,,149 €, 377.00 € ,3
+RED,,"Grand Cru, St. Emilion",Troplong Mondot,,,2016,,148 €, 275.00 € ,1
+RED,,Phelan Segur,Phelan Segur,,,2010,50,75.00 €, 142.00 € ,0
+RED,,"Grand Vin, St. Julien",Leoville Poyferre,,,2015,,104 €, 150.00 € ,0
+RED,,Chateau Pape Clement,,,,2009,,182.00 €, 382.00 € ,0
+RED,,"Grand vin, Pessac Leognan",Smith Haut Lafitte,,,2010,,199 €, 320.00 € ,1
+RED,,Pomerol,La Conseillante,,,2019,,205 €, 420.00 € ,3
+RED,,Pichon Longueville,,,,2012,,212.00 €, 350.00 € ,2
+RED,,Chateau Montrose,,,,2020,,215.00 €, 390.00 € ,2
+RED,,2eme Saint Julien,Leoville las Cases,,,2019,,235 €, NON ,3
+RED,,Cos d'Estournel,Cos d´Estournel,,,2018,,261.00 €, 500.00 € ,2
+RED,,Pomerol,Lafleur Petrus,,,2018,100,255.00 €, 460.00 € ,1
+RED,,Palmer,Chateau Palmer,,,2013,,263 €, 390.00 € ,2
+RED,,Figeac,Chateau Figeac,,,2019,,280 €, 450.00 € ,3
+RED,,HAUT BRION,,,,1993,,, 540.00 € ,1
+RED,,Chateau Margaux,,,,1991,,, 640.00 € ,0
+RED,,Clarence de Haut Brion,Haut Brion,,,2016,,159 €, 255.00 € ,2
+RED,,Pomerol,Vieux Chateau Certan,,,2017,,385.00 €, 680.00 € ,1
+RED,,1eme Margaux,Chateau Margaux,,,2011,,775 €,1100,2
+RED,,1eme Pauillac,Chateau Mouton,,,2017,,725 €,1100,2
+RED,,1eme Pauillac,Chateau Latour,,,2014,,755 €,1100,1
+RED,Red,MAX,Miles Mossop,,,2017,,, 49.00 € ,6
+RED,,Le Petit Clos,Casa Lapostolle,,,2018,,32.90 €, 70.00 € ,3
+RED,,Chaetauneuf du Pape Telegramme,Le Vieux Telegraphe,,,2020,,39 €, 82.00 € ,6
+RED,,Chateauneuf Clos de l'Oratoire,Ogier,,,2021,,46.50 €, 95.00 € ,9
+RED,,Cuvée X,Knipser,,,2018,,43.72 €, NON IN LIST,6
+RED,,Chateauneuf du Pape,La Nerthe,,,2020,,72 €, 152.00 € ,3
+RED,,Salzberg,Heinrich,,,2013,,, 108.00 € ,4
+RED,,Gaston Hochar,Chateau Musar,,,2017,,40.00 €, 88.00 € ,7
+RED,,Chaetauneuf du Pape  ,Clos de Papes,,,2022,,99 €, NON IN LIST,6
+RED,,Nicolas Zapata,Catena Zapata,,,2019,,101.00 €, 250.00 € ,1
+RED,,Chateauneuf du Pape,Beaucastel,,,2020,,109 €, 250.00 € ,3
+RED,,Belle Leone,La Peyre Rose,,,2013,,110 €, NON IN LIST,2
+RED,,Almaviva,Concha y Toro + Rotschild,,,2019,86,175 €, 300.00 € ,5
+RED,,Monte Bello,Ridge,,,2018,,270 €, 450.00 € ,1
+RED,Dessert,Sweet Claire,Lieselehof,,,37.5,,, 11.00 € ,8
+RED,,Pasithea Rosa,Girlan,,,15.5,,, 7.00 € ,13
+RED,,Pasithea Oro,Girlan,,,21.5,,, 9.00 € ,13
+RED,,Essenzia,Pojer Sandri,,,15.75 €,,, 6.50 € ,5
+RED,,Beerenauslese Kirschgarten 2015,Kuhn,WS,,2015,,,0,5
+RED,,Beerenauslese,Kracher,,,x,,, 9.50 € ,1
+RED,,Quintessenz Passito,Kaltern,,,x,,28.40 €, 60.00 € ,7
+RED,,Tawny 10 yr,Noval,,,30.83,,, 10.00 € ,3
+RED,,Vintage,Noval,,,2017,,, 10.00 € ,2
+RED,,Niederhauser Hermannshöhle,Dönnhoff,,,x,,31 €, NON IN LIST,18
+RED,,Pedro Ximenez Murillo,Lustau,,,35 €,,,0,4
+RED,,VINSANGIUSTO,San Giusto Rentennano,,,x,,38 €, NON IN LIST,10
+RED,,Muffato,Merlano,,,x,,, NON IN LIST,5
+RED,,Oloroso Emperatriz,Lustau,,,x,,, NON IN LIST,1
+RED,,Tawny 10 yr,Grahams,,,x,,, NON IN LIST,1
+RED,,Eiswein,Dr Loosen,,,29 €,,,0,12
+RED,,Picolit ,Ronchi di Ciala,,,2015,,56 €, NON IN LIST,5
+RED,,Recioto Tordare,Cá la Bionda,,,2015,,26 €, 9.00 € ,0
+RED,,Madeira Verdelho 2007,H&H,,,42,,,0,1
+RED,MAGNUMS,Lugana MGM ,Ca die Frati,,Magnum,2021,,27.20 €, non in list,0
+RED,,Vieris / Piere,Vie di Romans,,Magnum,2021,,43 €, 112.00 € ,6
+RED,,Vieris / Piere,Vie di Romans,,JEROBOAM,2021,,,0,2
+RED,,Vieris / Piere,Vie di Romans,,BORDEAUX_JEROBOAM,2021,,,0,0
+RED,,Dessimis,Vie di Romans,,MAGNUM,2021,,43 €, 112.00 € ,2
+RED,,Dessimis,Vie di Romans,,JEROBOAM,2021,,,0,0
+RED,,Dessimis,Vie di Romans,,BORDEAUX_JEROBOAM,2021,,,0,0
+RED,,Vie di Romans,Vie di Romans,,MAGNUM,2021,,43 €, 112.00 € ,6
+RED,,Vie di Romans,Vie di Romans,,MAGNUM,2022,,, NON IN LIST,3
+RED,,Vie di Romans,Vie di Romans,,JEROBOAM,2022,,,0,2
+RED,,Vie di Romans,Vie di Romans,,BORDEAUX_JEROBOAM,2022,,,0,0
+RED,,Saskia,Max Miles,,MAGNUM,2018,,,0,1
+RED,,Manna,Franz Haas,,MAGNUM,2022,,35.40 €, 104.00 € ,2
+RED,,Sauvignon Lafoa,Schreckbichl,,MAGNUM,2021,,38.40 €, 90.00 € ,2
+RED,,GWZ Kolbenhof,Hofstätter,,MAGNUM,2020,,, 98.00 € ,3
+RED,,Riesling Kirschgarten GG,Philipp Kuhn,,MAGNUM,2019,,, 108.00 € ,1
+RED,,Anaduron,Falkenstein,,MAGNUM,2019,,66 €, 150.00 € ,3
+RED,,Vorberg,Terlan,,MAGNUM,2019,,, 135.00 € ,2
+RED,,Nova Domus,Terlan,,MAGNUM,2013,,93 €, 260.00 € ,2
+RED,,Nova Domus,Terlan,,MAGNUM,2014,,89 €, 240.00 € ,2
+RED,,Nova Domus,Terlan,,MAGNUM,2015,,85 €, 220.00 € ,2
+RED,,Nova Domus,Terlan,,MAGNUM,2021,,57, 160.00 € ,2
+RED,,Quarz,Terlan,,MAGNUM,2016,,90 €, 260.00 € ,1
+RED,,Quarz,Terlan,,MAGNUM,2017,,85 €, 240.00 € ,2
+RED,,Quarz,Terlan,,MAGNUM,2018,,85 €, 220.00 € ,2
+RED,,Quarz,Terlan,,MAGNUM,2022,,68 €, NON IN LIST,3
+RED,,Hermannshöhle GG,Dönnhoff,,MAGNUM,2022,,120 €, NON IN LIST,1
+RED,,Hermannshöhle GG,Dönnhoff,,MAGNUM,2023,,15 €, NON IN LIST,2
+RED,,Dellchen GG,Dönnhoff,,MAGNUM,2023,,120 €, NON IN LIST,2
+RED,,Spätlese,Dönnhoff,,MAGNUM,2021,,120 €, NON IN LIST,1
+RED,,Honivogl,Hirtberger,,MAGNUM,2022,,184 €, NON IN LIST,3
+RED,,Rose,Arunda,,MAGNUM,0,,,0,
+RED,,DOM PERIGNON,DOM PERIGNON,,MAGNUM,2012,,595 €, NON IN LIST,1
+RED,,Perle,Ferrari,,MAGNUM,2016,,,0,1
+RED,,Max Miles,Mossop,,MAGNUM,0,,,0,5
+RED,,Barbaresco  ,Produttori del Barbaresco,,MAGNUM,2019,,,0,2
+RED,,Barbaresco Rocche 7 Fratelli,Lodali Walter,,MAGNUM,2020,,38 €, NON IN LIST,6
+RED,,Barolo,San Biagio,,MAGNUM,2016,,, 85.00 € ,1
+RED,,MORUS,Lentsch,,MAGNUM,2011,,, 90.00 € ,2
+RED,,Palestina,Lentsch,,MAGNUM,2018,,, 90.00 € ,3
+RED,,Trattmann,Girlan,,MAGNUM,2019,,, 115.00 € ,10
+RED,,Lagrein Mirell,Ansitz Waldgries,,MAGNUM,2018,,, 130.00 € ,1
+RED,,Barbaresco Riserva Ovello,Produttori del Barbaresco,,MAGNUM,2019,,58 €, NON IN LIST,4
+RED,,Casasilia Gr. Selezone,Poggio al Sole,,MAGNUM,2016,,, 150.00 € ,1
+RED,,REIF,Unterganzner,,MAGNUM,2020,,,0,4
+RED,,REIF,Unterganzner,,JEROBOAM,2020,,,0,2
+RED,,Etna Rosso,Federico Graziani,,MAGNUM,2021,39,42 €, 90.00 € ,0
+RED,,Profumo di Vulcano,Federico Graziani,,MAGNUM,2021,,111 €, non in list,2
+RED,,Brunello di Montalcino,Mastrojanni,,MAGNUM,2016,,, 170.00 € ,0
+RED,,Cabernet kunst stück,Kaltern,,MAGNUM,x,,,0,0
+RED,,Schioppettino,Ronchi di Cialla,,MAGNUM,2010,,120 €, non in list,2
+RED,,Montevertine Doppio Magnum,Montevertine,,JEROBOAM,x,,,0,1
+RED,,Kalterersee Kunst stück,Kaltern,,MAGNUM,x,,,0,2
+RED,,Porphyr ,Terlan,,MAGNUM,x,,,0,1
+RED,,Lamarein,Unterganzner,,MAGNUM,2020,,, 175.00 € ,2
+RED,,Sito Moresco,Gaja,,MAGNUM,2020,,, 200.00 € ,1
+RED,,Curlan MGM,Girlan,,MAGNUM,2019,,, 220.00 € ,1
+RED,,Ganger MGM,Girlan,,MAGNUM,2019,,, 300.00 € ,1
+RED,,Costabate,Uccelliera,,MAGNUM,2011,,, 400.00 € ,2
+RED,,Le Vigne 5L,Sandrone,,BORDEAUX_JEROBOAM,2019,,,0,1
+RED,SAKE,Hatsumago Honjozo,X,,,0,,,0,0
+RED,,Ichiban Shizuku Junmai Ginjo,X,,,0,,,0,2

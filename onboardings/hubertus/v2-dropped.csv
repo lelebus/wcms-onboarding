@@ -1,0 +1,41 @@
+type,prefix,name,winery,internal_notes,size,vintage,ricavo,purchase_price,sales_price,qty
+,Metodo Classico,Rose Arunda,Arunda,,,0.00 €,28.50 €,22.00 €, 55.00 € ,15
+,Metodo Classico,Annamaria Clementi,Ca del Bosco,,,0.00 €,,98 €, 225.00 € ,4
+,Metodo Classico,Brut Sekt,Raumland,,,0.00 €,34.00 €,17, 55.00 € ,4
+,PINOT BIANCO,ST.  VALENTIN,ST. MICHAEL EPPAN,,,X,32,20.64 €, 55.00 € ,8
+,CHARDONNAY,TROY,TRAMIN,,,misti,39,58.00 €, 105.00 € ,10
+,SYLVANER,Alte Reben,Pacherhof,,,202x,,22.00 €, 70.00 € ,9
+,White,Skitali,Hatzidakis,,,,,45 €, 90.00 € ,3
+,White Cuvee,Private Cuvee Cassa Mista 14/15/16,Pacherhof,Private Cuvee Cassa Mista 14/15/16,,,,110 €, NON IN LIST,2
+,White Cuvee,Terra de Cuques,Terroir al Limit,,,X,,30 €, 85.00 € ,1
+,Rosè,Forget me not,Lieselehof,,,X,,10 €, 40.00 € ,145
+,Rosè,Untertürkheimer Trollinger,Aldinger,,,X,,96 €, NON IN LIST,6
+,ORANGE Wine,Julian Orange,Lieselehof,,,X,,30 €, 88.00 € ,2
+RED,Red,Sumié Carema,Muraje,,,X,,48, 112.00 € ,6
+RED,SANGIOVESE,Chianti Classico,Carleone,,,x,,23.14, 72.00 € ,22
+RED,Red,Lemberger Lammler Fellbacher,Aldinger,,,X,,43 €, NON IN LIST,#REF!
+RED,Red,Purgatorio, Curtaz,,,CHECK,,18 €, 48.00 € ,0
+RED,Red,Reseca,Gulfi,,,x,,23.00 €, non in list,6
+RED,Red,Velles Vinyes,Alvaro Palacios,,,X,,38.00 €, NON IN LIST,5
+RED,Red,Finca Dofi,Alvaro Palacios,,,X,,70.00 €, 172.00 € ,4
+RED,Red,Feldhrr,Lieselehof,,,x,,27.00 €, 80.00 € ,4
+RED,SUPER TUSCANS,GIORGIO I,LA MASSA,,,x,,89 €, 176.00 € ,3
+RED,Dessert,Sweet Claire,Lieselehof,,,37.5,,, 11.00 € ,8
+RED,Dessert,Pasithea Rosa,Girlan,,,15.5,,, 7.00 € ,13
+RED,Dessert,Pasithea Oro,Girlan,,,21.5,,, 9.00 € ,13
+RED,Dessert,Essenzia,Pojer Sandri,,,15.75 €,,, 6.50 € ,5
+RED,Dessert,Beerenauslese,Kracher,,,x,,, 9.50 € ,1
+RED,Dessert,Quintessenz Passito,Kaltern,,,x,,28.40 €, 60.00 € ,7
+RED,Dessert,Tawny 10 yr,Noval,,,30.83,,, 10.00 € ,3
+RED,Dessert,Niederhauser Hermannshöhle,Dönnhoff,,,x,,31 €, NON IN LIST,18
+RED,Dessert,Pedro Ximenez Murillo,Lustau,,,35 €,,,0,4
+RED,Dessert,VINSANGIUSTO,San Giusto Rentennano,,,x,,38 €, NON IN LIST,10
+RED,Dessert,Muffato,Merlano,,,x,,, NON IN LIST,5
+RED,Dessert,Oloroso Emperatriz,Lustau,,,x,,, NON IN LIST,1
+RED,Dessert,Tawny 10 yr,Grahams,,,x,,, NON IN LIST,1
+RED,Dessert,Eiswein,Dr Loosen,,,29 €,,,0,12
+RED,Dessert,Madeira Verdelho 2007,H&H,,,42,,,0,1
+RED,MAGNUMS,Cabernet kunst stück,Kaltern,,MAGNUM,x,,,0,0
+RED,MAGNUMS,Montevertine Doppio Magnum,Montevertine,,JEROBOAM,x,,,0,1
+RED,MAGNUMS,Kalterersee Kunst stück,Kaltern,,MAGNUM,x,,,0,2
+RED,MAGNUMS,Porphyr ,Terlan,,MAGNUM,x,,,0,1

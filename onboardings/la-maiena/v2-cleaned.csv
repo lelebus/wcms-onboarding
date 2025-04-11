@@ -1,0 +1,856 @@
+external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantity,storage_area,internal_notes,visible
+,, Brut Arunda,,,BOTTLE,0,5800,0,50,,,True
+,, Brut Arunda,,,MAGNUM,0,12500,0,50,,,True
+,, Extra Brut Cuvée Marianna  Arunda,,,BOTTLE,0,7100,0,50,,,True
+,, Extra Brut Cuvée Marianna Arunda,,,MAGNUM,0,14500,0,50,,,True
+,, Brut Rosé Arunda,,,BOTTLE,0,6400,0,50,,,True
+,, Brut Rosé Arunda,,,MAGNUM,0,13500,0,50,,,True
+,, Extra Brut Metodo Classico Sölva & Söhne,,,BOTTLE,0,5800,0,50,,,True
+,, Winkler Lamm No. 12 Sektmanufaktur Winkler,,,BOTTLE,0,8500,0,50,,,True
+,,Brut Souvignier Gris Lieselehof,,,BOTTLE,2019,8000,0,50,,,True
+,,Brut Rosè Bronner | Johanniter Lieselehof,,,BOTTLE,2020,8900,0,50,,,True
+,,Brut Riserva 36 Kellerei Meran,,,BOTTLE,2016,6700,0,50,,,True
+,,Brut Riserva 36 Kellerei Meran,,,BOTTLE,2018,6700,0,50,,,True
+,, Prosecco Loggia del Colle Carmina,,,BOTTLE,0,3850,0,50,,,True
+,, Franciacorta Brut Chardonnay Antica Fratta,,,BOTTLE,0,5900,0,50,,,True
+,,Franciacorta Saten Chardonnay Antica Fratta,,,BOTTLE,2020,6700,0,50,,,True
+,, Franciacorta Gr. Cuvée Brut Alma Bellavista,,,BOTTLE,0,6900,0,50,,,True
+,, Franciacorta Gr. Cuvée Brut Alma Bellavista,,,MAGNUM,0,14500,0,50,,,True
+,, Franciacorta Gran Cuvée Rosé Bellavista,,,BOTTLE,0,9700,0,50,,,True
+,,Franciacorta Brut Teatro a. Scala Bellavista,,,BOTTLE,2012,8550,0,50,,,True
+,,Franciacorta Pas Opere Bellavista,,,BOTTLE,2011,8800,0,50,,,True
+,, Franciacorta Cuvée Prestige Ca’del Bosco,,,BOTTLE,0,6750,0,50,,,True
+,, Franciacorta Blanc de Blanc Montenisa Antinori,,,BOTTLE,0,6700,0,50,,,True
+,, Franciacorta Rosé Montenisa Antinori,,,BOTTLE,0,6900,0,50,,,True
+,, Brut Perle Chardonnay Ferrari,,,BOTTLE,0,7400,0,50,,,True
+,, Flavio Trento Doc Chardonnay Rotari,,,BOTTLE,0,5800,0,50,,,True
+,, Cremant de Bourgogne Brut Pierre Ponnelle,,,BOTTLE,0,5800,0,50,,,True
+,, Blanquette de Limoux Antech,,,BOTTLE,0,4600,0,50,,,True
+,,Champagne Cristal Louis Roederer Bio,,,BOTTLE,2014,43500,0,50,,,True
+,,Champagne Brut Dom Perignon,,,BOTTLE,2012,37500,0,50,,,True
+,,Champagne Brut Dom Perignon,,,BOTTLE,2008,42000,0,50,,,True
+,,Champagne Brut Rosé Dom Perignon,,,BOTTLE,2006,53900,0,50,,,True
+,, La Reserve Palmer & Co,,,BOTTLE,0,8900,0,50,,,True
+,, Tradition Brut Michel Laval,,,BOTTLE,0,8800,0,50,,,True
+,, Champagne Brut Blanc de Blanc Pierre Legras,,,BOTTLE,0,9500,0,50,,,True
+,, Champagne Brut Evidence Bernard Bremont,,,BOTTLE,0,7700,0,50,,,True
+,, Champagne Parcellaire Millesime Bernard Bremont,,,BOTTLE,0,9200,0,50,,,True
+,, Champagne Brut Blauburgunder Morel,,,BOTTLE,0,8600,0,50,,,True
+,, Champagne Brut Rosé Blauburgunder Morel,,,BOTTLE,0,9400,0,50,,,True
+,, Champagne Prologue Grand Cru J.M. Labruyere,,,BOTTLE,0,9400,0,50,,,True
+,, Champagne Brut Blanc de Noirs Philippe Gilbert,,,BOTTLE,0,9300,0,50,,,True
+,, Brut Grand Cuvee 172 Edition Krug,,,BOTTLE,0,36500,0,50,,,True
+,, Brut Apanage Pommery,,,MAGNUM,0,16900,0,50,,,True
+,, Brut Apanage Rosé  Pommery,,,BOTTLE,0,14000,0,50,,,True
+,,Brut Cuveé Louise Millésimé Pommery,,,BOTTLE,2004,24500,0,50,,,True
+,, Brut Pinot Noir | Chardonnay Ruinart,,,BOTTLE,0,13500,0,50,,,True
+,, Brut Pinot Noir | Chardonnay Ruinart,,,MAGNUM,0,27500,0,50,,,True
+,, Brut Rosé Chardonnay | Pinot Noir Ruinart,,,BOTTLE,0,15900,0,50,,,True
+,, Brut Rosé Chardonnay | Pinot Noir Ruinart,,,MAGNUM,0,33500,0,50,,,True
+,, Blanc de Blanc Chardonnay Ruinart,,,BOTTLE,0,16500,0,50,,,True
+,, Blanc de Blanc Chardonnay Ruinart,,,MAGNUM,0,34000,0,50,,,True
+,, Brut Joseph Perrier,,,BOTTLE,0,13900,0,50,,,True
+,, Rosé Prestige Brut Taittinger,,,BOTTLE,0,13800,0,50,,,True
+,, Bla Alcohol Free Sparkling Tea Com.,,,BOTTLE,0,4300,0,50,,,True
+,, Lyserod Alcohol Free Sparkling Tea Com.,,,BOTTLE,0,4300,0,50,,,True
+,, Lysegron Alcohol Free Sparkling Tea Com.,,,BOTTLE,0,4300,0,50,,,True
+,,Weissburgunder Lepus Franz Haas,,,BOTTLE,2023,4100,0,50,,,True
+,,Weissburgunder Eichhorn Manincor,,,BOTTLE,2023,5200,0,50,,,True
+,,Weissburgunder „La Maiena“ Kellerei Meran,,,BOTTLE,2023,3450,0,50,,,True
+,,Weissburgunder Delago  Kellerei Bozen,,,BOTTLE,2023,3800,0,50,,,True
+,,Weissburgunder Kristallberg Elena Walch,,,BOTTLE,2022,5450,0,50,,,True
+,,Weissburgunder Sirmian Nals Margreid,,,BOTTLE,2022,5500,0,50,,,True
+,,Weissburgunder Luma Romen,,,BOTTLE,2022,4200,0,50,,,True
+,,Weissburgunder Hofstatt Kellerei Kurtatsch,,,BOTTLE,2022,4000,0,50,,,True
+,,Weissburgunder Berg Kellerei Schreckbichl,,,BOTTLE,2022,4500,0,50,,,True
+,,Weissburgunder Lapis Oberstein,,,BOTTLE,2021,4600,0,50,,,True
+,,Weissburgunder Vorberg Kellerei Terlan,,,BOTTLE,2021,6200,0,50,,,True
+,,Weissburgunder Quintessenz Kellerei Kaltern,,,BOTTLE,2021,5200,0,50,,,True
+,,Weissburgunder St. Valentin St. Michael Eppan,,,BOTTLE,2021,5750,0,50,,,True
+,,Weissburgunder Tyrol Kellerei Meran,,,BOTTLE,2021,6900,0,50,,,True
+,,Chardonnay Caliz Kellerei Kurtatsch,,,BOTTLE,2023,4300,0,50,,,True
+,,Chardonnay Terlaner Weingut Dona,,,BOTTLE,2023,4250,0,50,,,True
+,,Chardonnay Cardellino Elena Walch,,,BOTTLE,2023,4700,0,50,,,True
+,,Chardonnay Sophie Manincor BIO,,,BOTTLE,2023,6300,0,50,,,True
+,,Chardonnay Lafoa Schreckbichl,,,BOTTLE,2022,5900,0,50,,,True
+,,Chardonnay Kleinstein Kellerei Bozen,,,BOTTLE,2022,4100,0,50,,,True
+,,Chardonnay Kreuth Kellerei Terlan,,,BOTTLE,2022,4700,0,50,,,True
+,,Chardonnay St. Valentin Kellerei St. Michael,,,BOTTLE,2022,5750,0,50,,,True
+,,Chardonnay Baron Salvadori Nals Margreid,,,BOTTLE,2020,5950,0,50,,,True
+,,Chardonnay Baron Salvadori Nals Margreid,,,BOTTLE,2021,5950,0,50,,,True
+,,Chardonnay Löwengang  Alois Lageder BIO,,,BOTTLE,2020,9500,0,50,,,True
+,,Chardonnay Löwengang  Alois Lageder BIO,,,BOTTLE,2021,9500,0,50,,,True
+,,Chardonnay Ris. Burgum Novum Castelfeder,,,BOTTLE,2020,6200,0,50,,,True
+,,Chardonnay Riserva Freienfeld Kellerei Kurtatsch,,,BOTTLE,2020,7600,0,50,,,True
+,,Chardonnay Riserva Belasy Schloss Englar,,,BOTTLE,2020,7500,0,50,,,True
+,,Chardonnay Vigna AU Tiefenbrunner,,,BOTTLE,2014,9500,0,50,,,True
+,,Sauvignon De Silva  Sölva & Söhne,,,BOTTLE,2020,4600,0,50,,,True
+,,Sauvignon De Silva  Sölva & Söhne,,,BOTTLE,2023,4600,0,50,,,True
+,,Sauvignon Winkl Kellerei Terlan,,,BOTTLE,2023,4300,0,50,,,True
+,,Sauvignon St. Valentin  St. Michael Eppan,,,BOTTLE,2023,5750,0,50,,,True
+,,Sauvignon Franz Haas,,,BOTTLE,2023,4950,0,50,,,True
+,,Sauvignon Weingut Doná,,,BOTTLE,2023,4600,0,50,,,True
+,,Sauvignon Quarz Kellerei Terlan,,,BOTTLE,2022,7600,0,50,,,True
+,,Sauvignon Luma Weingut Romen,,,BOTTLE,2022,4400,0,50,,,True
+,,Sauvignon Mock Kellerei Bozen,,,BOTTLE,2022,3800,0,50,,,True
+,,Sauvignon Tannenberg  Manincor BIO,,,BOTTLE,2020,5900,0,50,,,True
+,,Sauvignon Tannenberg  Manincor BIO,,,BOTTLE,2022,5900,0,50,,,True
+,,Sauvignon Gennen Nals - Margreid,,,BOTTLE,2021,3950,0,50,,,True
+,,Sauvignon Kinesis Baron di Pauli,,,BOTTLE,2021,4550,0,50,,,True
+,,Sauvignon Exclusiv Ploner,,,BOTTLE,2021,7900,0,50,,,True
+,,Sauvignon Quintessenz Kellerei Kaltern,,,BOTTLE,2020,5100,0,50,,,True
+,,Sauvignon Quintessenz Kellerei Kaltern,,,BOTTLE,2021,5100,0,50,,,True
+,,Sauvignon Andrius Kellerei Andrian,,,BOTTLE,2020,5850,0,50,,,True
+,,Sauvignon Mantele Nals – Margreid,,,BOTTLE,2020,5200,0,50,,,True
+,,Sauvignon Mervin Kellerei Meran,,,BOTTLE,2019,4850,0,50,,,True
+,,Sauvignon The Wine Collection  St. Michael Eppan,,,BOTTLE,2018,19900,0,50,,,True
+,,Sauvignon Lieben Aich  Manincor BIO,,,BOTTLE,2016,9700,0,50,,,True
+,,Sauvignon Lieben Aich  Manincor BIO,,,BOTTLE,2017,9700,0,50,,,True
+,,Sauvignon Riserva Grand Lafoa Schreckbichl,,,BOTTLE,2021,13800,0,50,,,True
+,,Sauvignon Lafoa Schreckbichl,,,BOTTLE,2020,5900,0,50,,,True
+,,Sauvignon Lafoa Schreckbichl,,,BOTTLE,2022,5900,0,50,,,True
+,,Sauvignon Lafoa Schreckbichl,,,BOTTLE,2018,6200,0,50,,,True
+,,Sauvignon Lafoa Schreckbichl,,,BOTTLE,2016,6800,0,50,,,True
+,,Riesling Vinschgau Falkenstein,,,BOTTLE,2022,4750,0,50,,,True
+,,Riesling Praepositus Kloster Neustift,,,BOTTLE,2021,5500,0,50,,,True
+,,Riesling Marinushof,,,BOTTLE,2021,4350,0,50,,,True
+,,Riesling Pitzon Nals Margreid,,,BOTTLE,2018,4350,0,50,,,True
+,,Riesling Pitzon Nals Margreid,,,BOTTLE,2021,4350,0,50,,,True
+,,Riesling Aristos Kellerei Eisacktal,,,BOTTLE,2020,4400,0,50,,,True
+,,Grüner Veltliner Pacherhof,,,BOTTLE,2023,4400,0,50,,,True
+,,Grüner Veltliner Aristos Kellerei Eisacktal,,,BOTTLE,2022,4450,0,50,,,True
+,,Gewürztraminer Joseph Josef Hofstätter,,,BOTTLE,2023,4100,0,50,,,True
+,,Gewürztraminer Damian Kornell,,,BOTTLE,2023,3950,0,50,,,True
+,,Gewürztraminer Lafoa Schreckbichl,,,BOTTLE,2022,5100,0,50,,,True
+,,Gewürztraminer Nussbaumer  Traminer Kellerei,,,BOTTLE,2022,6200,0,50,,,True
+,,Gewürztraminer Kastelatz Elena Walch,,,BOTTLE,2021,6850,0,50,,,True
+,,Gewürztraminer Brenntal  Kellerei Kurtatsch,,,BOTTLE,2019,5700,0,50,,,True
+,,Gewürztraminer Brenntal  Kellerei Kurtatsch,,,BOTTLE,2020,5700,0,50,,,True
+,,Gewürztraminer Kolbenhof  Josef Hofstätter,,,BOTTLE,2018,6850,0,50,,,True
+,,Gewürztraminer Epokale Traminer Kellerei,,,BOTTLE,2011,38000,0,50,,,True
+,,Sylvaner Praepositus Kloster Neustift,,,BOTTLE,2022,4600,0,50,,,True
+,,Sylvaner Alte Reben Riserva Pacherhof,,,BOTTLE,2021,5100,0,50,,,True
+,,Pinot Grigio De Silva Sölva & Söhne,,,BOTTLE,2021,4300,0,50,,,True
+,,Pinot Grigio De Silva Sölva & Söhne,,,BOTTLE,2023,4300,0,50,,,True
+,,Pinot Grigio Franz Haas,,,BOTTLE,2023,3900,0,50,,,True
+,,Pinot Grigio Castel Ringberg Elena Walch,,,BOTTLE,2023,5200,0,50,,,True
+,,Pinot Grigio Söll Kellerei Kaltern,,,BOTTLE,2022,3850,0,50,,,True
+,,Pinot Grigio Puiten Schreckbichl,,,BOTTLE,2022,3950,0,50,,,True
+,,Pinot Grigio Penon Kellerei Kurtatsch,,,BOTTLE,2022,3850,0,50,,,True
+,,Pinot Grigio Aristos Eisacktaler Kellerei,,,BOTTLE,2022,4300,0,50,,,True
+,,Pinot Grigio Unterebner Kellerei Tramin,,,BOTTLE,2021,5300,0,50,,,True
+,,Pinot Grigio Unterebner Kellerei Tramin,,,BOTTLE,2022,5300,0,50,,,True
+,,Pinot Grigio kunst.stück Kellerei Kaltern,,,BOTTLE,2019,10500,0,50,,,True
+,,Müller Thurgau Pacherhof,,,BOTTLE,2022,4200,0,50,,,True
+,,Kerner Graf von Meran Kellerei Meran,,,BOTTLE,2023,3950,0,50,,,True
+,,Kerner Praepositus Kloster Neustift,,,BOTTLE,2023,4800,0,50,,,True
+,,Moscato Giallo  Manincor BIO,,,BOTTLE,2021,4450,0,50,,,True
+,,Petit Manseng Franz Haas,,,BOTTLE,2023,5200,0,50,,,True
+,,Amistar Weiss Sölva & Söhne,,,BOTTLE,2023,5800,0,50,,,True
+,,Ebeneich Manincor,,,BOTTLE,2023,5200,0,50,,,True
+,,Gloria Dei Weingut Eichenstein,,,BOTTLE,2023,4150,0,50,,,True
+,,La Contessa Manincor BIO,,,BOTTLE,2023,4750,0,50,,,True
+,,Terlaner Klassisch  Kellerei Terlan,,,BOTTLE,2023,3950,0,50,,,True
+,,Cuvée Nörder Ploner,,,BOTTLE,2023,4600,0,50,,,True
+,,De Vite J. Hofstätter,,,BOTTLE,2022,4450,0,50,,,True
+,,Beyond the Clouds Chardonnay | Diverse Elena Walch,,,BOTTLE,2022,9300,0,50,,,True
+,,Amos Kellerei Kurtatsch,,,BOTTLE,2021,4900,0,50,,,True
+,,Nova Domus Kellerei Terlan,,,BOTTLE,2020,7100,0,50,,,True
+,,Nova Domus Kellerei Terlan,,,BOTTLE,2021,7100,0,50,,,True
+,,Vino del Passo Solaris Lieselehof BIO,,,BOTTLE,2020,9000,0,50,,,True
+,,Enosi Riesling | Sauvignon Baron di Pauli,,,BOTTLE,2019,4200,0,50,,,True
+,,Enosi Riesling | Sauvignon Baron di Pauli,,,BOTTLE,2020,4200,0,50,,,True
+,,Julian Bronner | Johanniter Lieselehof BIO,,,BOTTLE,2019,4900,0,50,,,True
+,,Julian Bronner | Johanniter Lieselehof BIO,,,BOTTLE,2021,4900,0,50,,,True
+,,DJJ Weiss Weingut Niklas,,,BOTTLE,2018,5900,0,50,,,True
+,,Cason Bianco Viognier | Petit Manseng Alois Lageder BIO,,,BOTTLE,2017,7000,0,50,,,True
+,,Nama Nals Margreid,,,BOTTLE,2016,16500,0,50,,,True
+,,Terlaner Grande Cuveé Kellerei Terlan,,,BOTTLE,2015,21800,0,50,,,True
+,,Appius Weiss St. Michael Eppan,,,BOTTLE,2019,19500,0,50,,,True
+,,Appius Weiss St. Michael Eppan,,,BOTTLE,2013,20500,0,50,,,True
+,,Manna Franz Haas,,,BOTTLE,2022,5800,0,50,,,True
+,,Manna Franz Haas,,,BOTTLE,2020,6100,0,50,,,True
+,,Manna Franz Haas,,,BOTTLE,2017,6300,0,50,,,True
+,,Manna Franz Haas,,,BOTTLE,2015,7500,0,50,,,True
+,,Lr Schreckbichl,,,BOTTLE,2020,14000,0,50,,,True
+,,Lr Schreckbichl,,,BOTTLE,2019,15000,0,50,,,True
+,,Riesling Famèi Corvée,,,BOTTLE,2019,3900,0,50,,,True
+,,Chardonnay Majerla Dorigati,,,BOTTLE,2016,4050,0,50,,,True
+,,Pinot Grigio Livon,,,BOTTLE,2022,3900,0,50,,,True
+,,Ribolla Gialla Roncalto Livon,,,BOTTLE,2022,4550,0,50,,,True
+,,Friulano  Ermacora,,,BOTTLE,2022,3550,0,50,,,True
+,,Chardonnay Vie di Romans,,,BOTTLE,2021,5750,0,50,,,True
+,,Sauvignon Vie di Romans,,,BOTTLE,2021,5650,0,50,,,True
+,,Chardonnay Were Dreams… Jermann,,,BOTTLE,2020,8950,0,50,,,True
+,,Braide Alte Livon,,,BOTTLE,2019,7500,0,50,,,True
+,,Chardonnay Jurosa Lis Neris,,,BOTTLE,2016,4950,0,50,,,True
+,,Chardonnay Jurosa Lis Neris,,,BOTTLE,2019,4950,0,50,,,True
+,,Lis Lis Neris,,,BOTTLE,2016,6150,0,50,,,True
+,,Lugana Fornaci Tommasi,,,BOTTLE,2024,3400,0,50,,,True
+,,Lugana Riserva Fornaci Tommasi,,,BOTTLE,2021,4200,0,50,,,True
+,,Verdicchio Primo Ballo  Tenuta di Fra,,,BOTTLE,2023,3850,0,50,,,True
+,,Verdicchio Primo Ballo  Tenuta di Fra,,,BOTTLE,2024,3850,0,50,,,True
+,,Verdicchio Lorenzo ‘’Superiore’’ Tenuta di Fra,,,BOTTLE,2020,4450,0,50,,,True
+,,Verdicchio Lorenzo ‘’Superiore’’ Tenuta di Fra,,,BOTTLE,2022,4450,0,50,,,True
+,,Verdicchio Franz ‘’Superiore’’  Tenuta di Fra,,,BOTTLE,2021,6250,0,50,,,True
+,,Chardonnay Le Bruniche Tenuta di Nozzole,,,BOTTLE,2021,3800,0,50,,,True
+,,Chardonnay Le Bruniche Tenuta di Nozzole,,,BOTTLE,2022,3800,0,50,,,True
+,,Chardonnay Pomino Benef. Ris. Frescobaldi,,,BOTTLE,2014,5200,0,50,,,True
+,,Chardonnay Pomino Benef. Ris. Frescobaldi,,,BOTTLE,2016,5200,0,50,,,True
+,,Chardonnay La Pietra Tenute del Cabreo,,,BOTTLE,2021,6900,0,50,,,True
+,,Chardonnay La Pietra Tenute del Cabreo,,,BOTTLE,2020,7100,0,50,,,True
+,,Chardonnay La Pietra Tenute del Cabreo,,,BOTTLE,2019,7300,0,50,,,True
+,,Chardonnay La Pietra Tenute del Cabreo,,,BOTTLE,2014,7500,0,50,,,True
+,,Chardonnay La Pietra Tenute del Cabreo,,,BOTTLE,2013,7900,0,50,,,True
+,,Chardonnay Monteverro,,,BOTTLE,2019,13800,0,50,,,True
+,,Chardonnay Monteverro,,,BOTTLE,2018,12800,0,50,,,True
+,,Chardonnay  Monteverro,,,BOTTLE,2017,14800,0,50,,,True
+,,Chardonnay  Monteverro,,,BOTTLE,2016,13800,0,50,,,True
+,,Chardonnay Monteverro,,,BOTTLE,2015,13800,0,50,,,True
+,,Chardonnay Monteverro,,,BOTTLE,2014,14200,0,50,,,True
+,,Chardonnay  Monteverro,,,BOTTLE,2013,15800,0,50,,,True
+,,Cervaro Castello della Sala  Antinori,,,BOTTLE,2018,8900,0,50,,,True
+,,Cervaro Castello della Sala  Antinori,,,BOTTLE,2022,8900,0,50,,,True
+,,Roero Arneis Bruno Giacosa,,,BOTTLE,2023,4900,0,50,,,True
+,,Riesling Tonschiefer Dönnhoff,,,BOTTLE,2023,4950,0,50,,,True
+,,Riesling GG Sonnenuhr Wehlen S.A. Prüm,,,BOTTLE,2020,5900,0,50,,,True
+,,Riesling GG Bernkastel Lay S.A. Prüm,,,BOTTLE,2019,5150,0,50,,,True
+,,Sylvaner  Domaine Ostertag,,,BOTTLE,2021,5200,0,50,,,True
+,,Pinot Gris Schoffitt,,,BOTTLE,2018,4900,0,50,,,True
+,,Sancerre Sauvignon Francois Millet,,,BOTTLE,2022,4900,0,50,,,True
+,,Anjou Chauvigne Chenin Blanc Richou,,,BOTTLE,2016,5600,0,50,,,True
+,,Sevre et Maine Gras Mouton Domaine H. Fevrie,,,BOTTLE,2021,4100,0,50,,,True
+,,,,,BOTTLE,0,0,0,50,,,True
+,,Caillou Blanc Sauvignon | Sémillion Chateau Talbot,,,BOTTLE,2014,10600,0,50,,,True
+,,Chablis Saint Pierre Chardonnay Albert Pic,,,BOTTLE,2023,6700,0,50,,,True
+,,Chablis AOC Chardonnay Droin Jean Paul,,,BOTTLE,2022,6450,0,50,,,True
+,,Chablis Chardonnay Domaine Fevre,,,BOTTLE,2022,4600,0,50,,,True
+,,Chablis 1er Cru Fourchaume Domaine Fevre,,,BOTTLE,2022,6900,0,50,,,True
+,,Chablis Grand Cru Les Preuses Domaine Fevre,,,BOTTLE,2021,13900,0,50,,,True
+,,Chardonnay Jacques Prieur,,,BOTTLE,2020,10400,0,50,,,True
+,,Meursault Dom. Andre Goichot,,,BOTTLE,2019,14500,0,50,,,True
+,,Saint Aubin 1er cru En Creot Dom. Lamy-Pillot,,,BOTTLE,2021,13800,0,50,,,True
+,,Chassagne Montrachet Andre Goichot,,,BOTTLE,2022,15900,0,50,,,True
+,,Rully Montmorin Dom. Jacques Dury,,,BOTTLE,2022,5200,0,50,,,True
+,,Pouilly Fumé Sauvignon De Ladoucette,,,BOTTLE,2019,6150,0,50,,,True
+,,Vire’ Clesse’ Chardonnay Seguin Manuel,,,BOTTLE,2021,6800,0,50,,,True
+,,Mantoulan blanc Sec Clos Lapeyre,,,BOTTLE,2017,6800,0,50,,,True
+,,Cote du Rhone Blanc Dom. de la Solitude,,,BOTTLE,2023,4000,0,50,,,True
+,,Pacherenc Blanc Petit Courbu Chateau Montus,,,BOTTLE,2019,9600,0,50,,,True
+,,Gamlitz Sauvignon Blanc Sattlerhof,,,BOTTLE,2022,4800,0,50,,,True
+,,Gamlitz Morillon (Chardonnay) Sattlerhof,,,BOTTLE,2021,4700,0,50,,,True
+,,Ried Pfarrweingarten  Sattlerhof,,,BOTTLE,2020,9400,0,50,,,True
+,,G30 Ried Kranachberg BIO Sattlerhof,,,BOTTLE,2020,8600,0,50,,,True
+,,Veltliner Ried Klaus Federspiel Weingut Jäger,,,BOTTLE,2023,4800,0,50,,,True
+,,Veltliner Ried Achleiten Smaragd Weingut Jäger,,,BOTTLE,2022,6350,0,50,,,True
+,,Whitestone Chenin Blanc Capelands Estate,,,BOTTLE,2023,4350,0,50,,,True
+,,Whitestone Sauvignon Blanc Capelands Estate,,,BOTTLE,2024,4350,0,50,,,True
+,,IGT Rosé Weinberg Dolomiten Popphof,,,BOTTLE,2023,4100,0,50,,,True
+,,Rosé 20/26 Elena Walch,,,BOTTLE,2023,4400,0,50,,,True
+,,La Rose de Manincor Manincor BIO,,,BOTTLE,2023,5050,0,50,,,True
+,,Blauburgunder Rosé Pinosé Kellerei Kurtatsch,,,BOTTLE,2022,4350,0,50,,,True
+,,Blauburgunder Rosé Pinosé Kellerei Kurtatsch,,,BOTTLE,2023,4350,0,50,,,True
+,,Rosé  Marinushof,,,BOTTLE,2022,4850,0,50,,,True
+,,Ros’Anna Tenuta di Fra,,,BOTTLE,2023,4100,0,50,,,True
+,,Ros’Anna Tenuta di Fra,,,BOTTLE,2024,4100,0,50,,,True
+,,Whitestone Rose Capelands Estate,,,BOTTLE,2023,4450,0,50,,,True
+,,Whitestone Rose Capelands Estate,,,BOTTLE,2024,4450,0,50,,,True
+,,Vernatsch „La Maiena“ Kellerei Meran,,,BOTTLE,2023,3550,0,50,,,True
+,,Meraner*in Vernatsch Popphof,,,BOTTLE,2023,3700,0,50,,,True
+,,St. Magdalena Huck am Bach Kellerei Bozen,,,BOTTLE,2023,4050,0,50,,,True
+,,Vernatsch Weingut Doná,,,BOTTLE,2022,3900,0,50,,,True
+,,Kalterer See Ausl. Quintessenz Kellerei Kaltern,,,BOTTLE,2022,4200,0,50,,,True
+,,Zweigelt Marinushof,,,BOTTLE,2022,4450,0,50,,,True
+,,Lagrein Aditus 1644 Kellerei Bozen,,,BOTTLE,2023,3950,0,50,,,True
+,,Lagrein Riserva Staffes Kornell,,,BOTTLE,2021,5100,0,50,,,True
+,,Lagrein Abtei Abtei Muri,,,BOTTLE,2021,6800,0,50,,,True
+,,Lagrein Porphyr Kellerei Terlan,,,BOTTLE,2021,9100,0,50,,,True
+,,Lagrein Riserva Frauenhügel Kellerei Kurtatsch,,,BOTTLE,2021,6400,0,50,,,True
+,,Lagrein Riserva Prestige Kellerei Bozen,,,BOTTLE,2021,6050,0,50,,,True
+,,Lagrein Rubatsch Manincor BIO,,,BOTTLE,2021,6700,0,50,,,True
+,,Lagrein Riserva Gries Schreckbichl,,,BOTTLE,2021,6200,0,50,,,True
+,,Lagrein Riserva Grafleiten Obermoser,,,BOTTLE,2020,6500,0,50,,,True
+,,Lagrein Ris. Kristan Egger Ramer,,,BOTTLE,2020,6200,0,50,,,True
+,,Lagrein Riserva Taber Kellerei Bozen,,,BOTTLE,2020,8500,0,50,,,True
+,,Lagrein Riserva Segen Kellerei Meran,,,BOTTLE,2020,6900,0,50,,,True
+,,Lamarein Unterganzner,,,BOTTLE,2019,11550,0,50,,,True
+,,Lagrein Steinraffler J. Hofstätter,,,BOTTLE,2019,5950,0,50,,,True
+,,Lagrein Roblinus Ansitz Waldgries,,,BOTTLE,2015,17500,0,50,,,True
+,,Lagrein Riserva Klosteranger Muri Gries,,,BOTTLE,2014,14500,0,50,,,True
+,,Lagrein Riserva Carano Baron di Pauli,,,BOTTLE,2019,6550,0,50,,,True
+,,Lagrein Riserva Carano Baron di Pauli,,,BOTTLE,2015,8550,0,50,,,True
+,,Cabernet Riserva Istrice Elena Walch,,,BOTTLE,2022,4850,0,50,,,True
+,,Amistar Cabernet Franc Riserva Sölva & Söhne,,,BOTTLE,2022,12500,0,50,,,True
+,,Cabernet Sauvignon Ris. Staffes Kornell,,,BOTTLE,2021,5100,0,50,,,True
+,,Cabernet Ris. Ringberg Elena Walch,,,BOTTLE,2021,7800,0,50,,,True
+,,Cabernet Riserva Kirchhügel  Kellerei Kurtatsch,,,BOTTLE,2020,4800,0,50,,,True
+,,Cabernet Riserva Kirchhügel  Kellerei Kurtatsch,,,BOTTLE,2021,4800,0,50,,,True
+,,Cabernet Sauvignon 213/1 Peter Dipoli,,,BOTTLE,2019,4900,0,50,,,True
+,,Cabernet Franc Nicolussi Leck,,,BOTTLE,2019,6400,0,50,,,True
+,,Cabernet S. Ris. Quintessenz  Kellerei Kaltern,,,BOTTLE,2018,6250,0,50,,,True
+,,Cabernet S. Ris. Quintessenz  Kellerei Kaltern,,,BOTTLE,2019,6250,0,50,,,True
+,,Cabernet Cor Römigberg Alois Lageder BIO,,,BOTTLE,2018,9450,0,50,,,True
+,,Cabernet Riserva Mumelter Kellerei Bozen,,,BOTTLE,2018,6350,0,50,,,True
+,,Cabernet Löwengang Alois Lageder BIO,,,BOTTLE,2016,12000,0,50,,,True
+,,Cabernet Riserva Unterganzner,,,BOTTLE,2016,6900,0,50,,,True
+,,Cabernet Sauvignon Ris. Pfarrhof Kellerei Kaltern,,,BOTTLE,2011,9200,0,50,,,True
+,,Cabernet Riserva Freienfeld Kellerei Kurtatsch,,,BOTTLE,2016,8200,0,50,,,True
+,,Cabernet Riserva Freienfeld Kellerei Kurtatsch,,,BOTTLE,2011,11500,0,50,,,True
+,,Cabernet Sauvignon Lafoa Schreckbichl,,,BOTTLE,2018,8400,0,50,,,True
+,,Cabernet Sauvignon Lafoa Schreckbichl,,,BOTTLE,2016,8800,0,50,,,True
+,,Cabernet Sauvignon Lafoa Schreckbichl,,,BOTTLE,2015,9500,0,50,,,True
+,,Merlot Riserva Staffes Kornell,,,BOTTLE,2021,5100,0,50,,,True
+,,Merlot Riserva Siebeneich Kellerei Terlan,,,BOTTLE,2021,4950,0,50,,,True
+,,Merlot Riserva Gant Kellerei Andrian,,,BOTTLE,2021,7900,0,50,,,True
+,,Merlot Brenntal Kellerei Kurtatsch,,,BOTTLE,2020,7800,0,50,,,True
+,,Merlot Levad Nals Margreid,,,BOTTLE,2020,4400,0,50,,,True
+,,Merlot Ris. Siebeneich Kellerei Bozen,,,BOTTLE,2020,6250,0,50,,,True
+,,Merlot Nussleiten Castel Salegg,,,BOTTLE,2019,6700,0,50,,,True
+,,Merlot Riserva Vigna Kressfeld Kornell,,,BOTTLE,2018,9500,0,50,,,True
+,,Merlot Kornell Schreckbichl,,,BOTTLE,2011,16500,0,50,,,True
+,,Blauburgunder Ploner,,,BOTTLE,2024,4100,0,50,,,True
+,,Blauburgunder Franz Haas,,,BOTTLE,2022,5300,0,50,,,True
+,,Blauburgunder Amantus Weingut Eichenstein,,,BOTTLE,2022,5100,0,50,,,True
+,,Blauburgunder Ris. Ludwig Elena Walch,,,BOTTLE,2021,6700,0,50,,,True
+,,Blauburgunder Marinushof,,,BOTTLE,2021,5150,0,50,,,True
+,,Blauburgunder Vinschgau  Kellerei Meran,,,BOTTLE,2021,3800,0,50,,,True
+,,Blauburgunder Schweizer Franz Haas,,,BOTTLE,2021,6900,0,50,,,True
+,,Blauburgunder Riserva Saltner Kellerei Kaltern,,,BOTTLE,2021,4400,0,50,,,True
+,,Blauburgunder Ris. St. Valentin St. Michael Eppan,,,BOTTLE,2021,6550,0,50,,,True
+,,Blauburgunder Mason di Mason Manincor BIO,,,BOTTLE,2021,13500,0,50,,,True
+,,Pinot Nero Maso Thaler,,,BOTTLE,2020,4700,0,50,,,True
+,,Blauburgunder Jura Nals - Margreid,,,BOTTLE,2020,5250,0,50,,,True
+,,Blauburgunder Luma Romen,,,BOTTLE,2020,5900,0,50,,,True
+,,Blauburgunder Riserva Lafóa Schreckbichl,,,BOTTLE,2020,6800,0,50,,,True
+,,Blauburgunder Ris. Exclusiv Ploner,,,BOTTLE,2020,6900,0,50,,,True
+,,Blauburgunder Ris. Exclusiv LIM Ploner,,,BOTTLE,2019,9500,0,50,,,True
+,,Blauburgunder Ris. Exclusiv LIM Ploner,,,BOTTLE,2016,9900,0,50,,,True
+,,Blauburgunder The Wine Collection St. Michael Eppan,,,BOTTLE,2019,16900,0,50,,,True
+,,Blauburgunder Aton Elena Walch,,,BOTTLE,2019,17500,0,50,,,True
+,,Blauburgunder Riserva Zeno Kellerei Meran,,,BOTTLE,2019,5500,0,50,,,True
+,,Blauburgunder Ris. Burgum N.  Castelfeder,,,BOTTLE,2019,5850,0,50,,,True
+,,Blauburgunder Riserva Matan Pfitscher,,,BOTTLE,2019,6400,0,50,,,True
+,,Blauburgunder Lehmont Riserva St. Pauls,,,BOTTLE,2018,6800,0,50,,,True
+,,Blauburgunder San Urbano  J. Hofstätter,,,BOTTLE,2018,10500,0,50,,,True
+,,Blauburgunder San Urbano  J. Hofstätter,,,BOTTLE,2017,10700,0,50,,,True
+,,Il Conte Manincor BIO,,,BOTTLE,2022,4950,0,50,,,True
+,,Zeder Weinberg Dolomiten Kornell,,,BOTTLE,2022,3950,0,50,,,True
+,,Merlot Lagrein  Weingut Doná,,,BOTTLE,2021,5400,0,50,,,True
+,,Amistar Rot Sölva & Söhne,,,BOTTLE,2021,6800,0,50,,,True
+,,Amistar Rot Sölva & Söhne,,,BOTTLE,2022,6800,0,50,,,True
+,,Soma Merlot | Cabernet Kellerei Kurtatsch,,,BOTTLE,2021,5500,0,50,,,True
+,,Cassiano Manincor BIO,,,BOTTLE,2021,6900,0,50,,,True
+,,Kermesse Elena Walch,,,BOTTLE,2019,9900,0,50,,,True
+,,Kermesse Elena Walch,,,BOTTLE,2021,9900,0,50,,,True
+,,Cornelius Merlot | Cabernet Schreckbichl,,,BOTTLE,2021,6200,0,50,,,True
+,,Frauenriegel Merlot | Cabernet Franc Peter Dipoli,,,BOTTLE,2020,8200,0,50,,,True
+,,Baccará Merlot | Cabernet Franc Weingut Eichenstein,,,BOTTLE,2020,5150,0,50,,,True
+,,Castel Campan Manincor BIO,,,BOTTLE,2019,11500,0,50,,,True
+,,Lacus Walter Schullian,,,BOTTLE,2015,9800,0,50,,,True
+,,Lacus Walter Schullian,,,BOTTLE,2019,9800,0,50,,,True
+,,Saperaia Kellerei Meran,,,BOTTLE,2019,8800,0,50,,,True
+,,Anticus Riserva Nals Margreid,,,BOTTLE,2019,6400,0,50,,,True
+,,Anticus Riserva Nals Margreid,,,BOTTLE,2021,6400,0,50,,,True
+,,Arzio Baron di Pauli,,,BOTTLE,2020,7550,0,50,,,True
+,,Amistar Edizione Riserva Sölva & Söhne,,,BOTTLE,2018,12900,0,50,,,True
+,,Amistar Edizione Riserva Sölva & Söhne,,,BOTTLE,2021,12900,0,50,,,True
+,,Amistar Private Reserve Sölva & Söhne,,,BOTTLE,2018,8500,0,50,,,True
+,,Feldherr Cabernet S. | Cabernet F. | Carmenere Lieselehof,,,BOTTLE,2017,6800,0,50,,,True
+,,Iugum Merlot | Cabernet Sauvignon Peter Dipoli,,,BOTTLE,2017,7300,0,50,,,True
+,,Iugum Merlot | Cabernet Sauvignon Peter Dipoli,,,BOTTLE,2016,7900,0,50,,,True
+,,Composition Reif Unterganzner,,,BOTTLE,2016,8950,0,50,,,True
+,,Tres  Kellerei Kurtatsch,,,BOTTLE,2018,23500,0,50,,,True
+,,Tres  Kellerei Kurtatsch,,,BOTTLE,2016,24500,0,50,,,True
+,,Tres  Kellerei Kurtatsch,,,BOTTLE,2015,25500,0,50,,,True
+,,Tiareblu Merlot | Cabernet Sauvignon Livon,,,BOTTLE,2018,4550,0,50,,,True
+,,Pignolo Ermacora,,,BOTTLE,2017,6050,0,50,,,True
+,,Lis Neris Merlot | Cabernet Sauvignon Lis Neris,,,BOTTLE,2015,5300,0,50,,,True
+,,Lis Neris Merlot | Cabernet Sauvignon Lis Neris,,,BOTTLE,2016,5300,0,50,,,True
+,,Teroldego Foradori,,,BOTTLE,2021,4600,0,50,,,True
+,,San Leonardo T. San Leonardo BIO,,,BOTTLE,2018,9600,0,50,,,True
+,,San Leonardo T. San Leonardo BIO,,,BOTTLE,2015,10500,0,50,,,True
+,,Teroldego Luigi Dorigati,,,BOTTLE,2013,5600,0,50,,,True
+,,Brolo di Campofiorin Masi,,,BOTTLE,2020,4200,0,50,,,True
+,,Ripasso della Valpolicella Tommasi,,,BOTTLE,2019,4800,0,50,,,True
+,,Ripasso della Valpolicella Tommasi,,,BOTTLE,2021,4800,0,50,,,True
+,,Valpolicella Superiore De Buris,,,BOTTLE,2019,8900,0,50,,,True
+,,La Poia Corvina Allegrini,,,BOTTLE,2015,12900,0,50,,,True
+,,Amarone Costasera  Masi,,,BOTTLE,2019,8200,0,50,,,True
+,,Amarone Corvina | Rondinella | Molinara Allegrini,,,BOTTLE,2019,11550,0,50,,,True
+,,Amarone Corvina | Rondinella | Molinara Tommasi,,,BOTTLE,2018,9300,0,50,,,True
+,,Amarone Pietro dal Cero Cà dei Frati,,,BOTTLE,2013,10500,0,50,,,True
+,,Amarone Pietro dal Cero Cà dei Frati,,,BOTTLE,2012,11700,0,50,,,True
+,,Amarone Ca Florian Tommasi,,,BOTTLE,2010,12500,0,50,,,True
+,,Amarone della Valpolicella Romano dal Forno,,,BOTTLE,2009,47500,0,50,,,True
+,,Amarone della Valpolicella  Romano dal Forno,,,BOTTLE,2008,48500,0,50,,,True
+,,Amarone della Valpolicella Tommasi,,,BOTTLE,2008,45000,0,50,,,True
+,,Amarone della Valpolicella Romano dal Forno,,,BOTTLE,2006,49500,0,50,,,True
+,,Amarone Campolongo di Torbe Masi,,,BOTTLE,1997,24900,0,50,,,True
+,,Amarone Mazzano Masi,,,BOTTLE,1997,24900,0,50,,,True
+,,Marrubium Riserva del Bono Masseria le Fabriche,,,BOTTLE,2022,7900,0,50,,,True
+,,Primitivo Es Gianfranco Fino,,,BOTTLE,2022,8400,0,50,,,True
+,,Primitivo Es Gianfranco Fino,,,BOTTLE,2021,8600,0,50,,,True
+,,Primitivo Fanoi Cantele,,,BOTTLE,2019,7700,0,50,,,True
+,,Negramaro Jo IGT Gianfranco Fino,,,BOTTLE,2021,8400,0,50,,,True
+,,Primitivo Es Red Gianfranco Fino,,,BOTTLE,2017,17500,0,50,,,True
+,,Bocca di Lupo Aglianico Tormaresca BIO,,,BOTTLE,2020,7300,0,50,,,True
+,,Bocca di Lupo Aglianico Tormaresca BIO,,,BOTTLE,2014,7600,0,50,,,True
+,,Notarpanaro Negroamaro Salento Cosimo Taurino,,,BOTTLE,2010,3950,0,50,,,True
+,,Mille e una Notte Donnafugata,,,BOTTLE,2018,10500,0,50,,,True
+,,Cabernet Sauvignon Tasca d’Almerita,,,BOTTLE,2017,5750,0,50,,,True
+,,Duca Enrico Duca di Salaparuta,,,BOTTLE,2015,9300,0,50,,,True
+,,Guarnaccio Perricone Tasca d’Almerita,,,BOTTLE,2015,3600,0,50,,,True
+,,Palari Faro Rosso Palari,,,BOTTLE,2012,5900,0,50,,,True
+,,Bansella Nizza Riserva Barbera Prunotto,,,BOTTLE,2021,5950,0,50,,,True
+,,Barbera d’Alba Vigna Martina Elio Grasso,,,BOTTLE,2021,5100,0,50,,,True
+,,Bricco dell’ Uccellone Barbera Braida,,,BOTTLE,2020,10500,0,50,,,True
+,,Barbera d’Alba Vignota Conterno Fantino,,,BOTTLE,2020,4850,0,50,,,True
+,,Barbera d’Asti Montebruna Braida,,,BOTTLE,2020,3850,0,50,,,True
+,,Nebbiolo Classico Pio Cesare,,,BOTTLE,2021,4300,0,50,,,True
+,,Nebbiolo d’Alba Bruno Giacosa,,,BOTTLE,2022,5500,0,50,,,True
+,,Nebbiolo d’Alba Ceretto,,,BOTTLE,2019,4450,0,50,,,True
+,,Barbaresco Prunotto Nebbiolo Prunotto,,,BOTTLE,2020,4900,0,50,,,True
+,,Barbaresco Ris. Montestefano Prod. del Barbaresco,,,BOTTLE,2019,9500,0,50,,,True
+,,Barbaresco Ris. Montefico Nebbiolo Prod. del Barbaresco,,,BOTTLE,2019,9500,0,50,,,True
+,,Barbaresco Ris. Muncagota Nebbiolo Prod. del Barbaresco,,,BOTTLE,2019,9500,0,50,,,True
+,,Barbaresco Ris. Rabaja Nebbiolo Prod. del Barbaresco,,,BOTTLE,2019,9500,0,50,,,True
+,,Barbaresco Ris. Pora Nebbiolo Prod. del Barbaresco,,,BOTTLE,2019,9500,0,50,,,True
+,,Barbaresco Ris. Ovello Nebbiolo Prod. del Barbaresco,,,BOTTLE,2019,9500,0,50,,,True
+,,Barbaresco Ris. Don Fiorino Prod. del Barbaresco,,,BOTTLE,2016,15500,0,50,,,True
+,,Barbaresco Nubiola Nebbiolo Pelissero,,,BOTTLE,2019,5700,0,50,,,True
+,,Barbaresco Vanotu Nebbiolo Pelissero,,,BOTTLE,2016,9800,0,50,,,True
+,,Barolo Classico Nebbiolo Pio Cesare,,,BOTTLE,2020,9100,0,50,,,True
+,,Barolo Ornato Nebbiolo Pio Cesare,,,BOTTLE,2020,15500,0,50,,,True
+,,Barolo Nebbiolo Bruno Giacosa,,,BOTTLE,2020,21000,0,50,,,True
+,,Barolo Le Vigne Nebbiolo Sandrone Luciano,,,BOTTLE,2019,14900,0,50,,,True
+,,Barolo Castiglione Nebbiolo Vietti,,,BOTTLE,2019,8700,0,50,,,True
+,,Barolo Ginestra C. Maté Nebbiolo Elio Grasso,,,BOTTLE,2018,9900,0,50,,,True
+,,Barolo Ginestra C. Maté Nebbiolo Elio Grasso,,,BOTTLE,2019,9900,0,50,,,True
+,,Barolo Sori Ginestra Nebbiolo Conterno Fantino,,,BOTTLE,2015,11550,0,50,,,True
+,,Barolo Sori Ginestra Nebbiolo Conterno Fantino,,,BOTTLE,2017,11550,0,50,,,True
+,,Barolo Prapó Nebbiolo Ceretto,,,BOTTLE,2014,15200,0,50,,,True
+,,Barolo Brunate Nebbiolo Ceretto,,,BOTTLE,2012,19500,0,50,,,True
+,,Barolo Bussia Nebbiolo Prunotto,,,BOTTLE,2011,11800,0,50,,,True
+,,Barolo Bussia Nebbiolo Prunotto,,,BOTTLE,2013,11800,0,50,,,True
+,,Monpra Conterno Fantino,,,BOTTLE,2014,7400,0,50,,,True
+,,Semel Pater Blauburgunder Anselmet,,,BOTTLE,2019,7900,0,50,,,True
+,,Roggio Del Filare Rosso Piceno Velenosi,,,BOTTLE,2021,7500,0,50,,,True
+,,Montepulciano Don Giovanni  Tenuta di Fra’,,,BOTTLE,2021,5100,0,50,,,True
+,,Merlot Donna Fra’  Tenuta di Fra’,,,BOTTLE,2018,6500,0,50,,,True
+,,Sagrantino di Montefalco Lungarotti,,,BOTTLE,2019,6400,0,50,,,True
+,,Rubesco Rosso Riserva Lungarotti,,,BOTTLE,2017,9200,0,50,,,True
+,,Rubesco Rosso Riserva Lungarotti,,,BOTTLE,2018,9200,0,50,,,True
+,,Chianti Classico Sangiovese Tenuta di Nozzole,,,BOTTLE,2022,4650,0,50,,,True
+,,Chianti Classico Gran Selezione Tenuta Tignanello,,,BOTTLE,2021,5900,0,50,,,True
+,,Chianti Classico Riserva La Forra Tenuta di Nozzole,,,BOTTLE,2021,5900,0,50,,,True
+,,Chianti Classico Riserva Sangiovese Brancaia,,,BOTTLE,2018,5800,0,50,,,True
+,,Chianti Classico Sangiovese Fontodi BIO,,,BOTTLE,2018,4850,0,50,,,True
+,,Chianti Classico Riserva Sangiovese Tenuta Casenuove,,,BOTTLE,2018,7200,0,50,,,True
+,,Chianti Classico Gran Selezione Tenuta di Nozzole,,,BOTTLE,2016,6850,0,50,,,True
+,,Vino Nobile di Montepulciano La Braccesca,,,BOTTLE,2019,4150,0,50,,,True
+,,Nobile di Montep. Sangiovese Avignonesi,,,BOTTLE,2018,6600,0,50,,,True
+,,Nobile di Montep. Sangiovese Avignonesi,,,BOTTLE,2020,6600,0,50,,,True
+,,Nobile di Montep. Asinone Poliziano,,,BOTTLE,2016,9900,0,50,,,True
+,,Grandi Annate Sangiovese | Cabernet S. Avignonesi,,,BOTTLE,2015,9500,0,50,,,True
+,,Rosso di Montalcino Sangiovese Tenuta La Fuga,,,BOTTLE,2021,4400,0,50,,,True
+,,Rosso di Montalcino Sangiovese Tenuta La Fuga,,,BOTTLE,2022,4400,0,50,,,True
+,,Rosso di Montalcino Sangiovese Lisini,,,BOTTLE,2021,4650,0,50,,,True
+,,Rosso di Montalcino La Caduta Tenuta Caparzo,,,BOTTLE,2017,4950,0,50,,,True
+,,Brunello di Montalcino  Antinori,,,BOTTLE,2019,9900,0,50,,,True
+,,Brunello di Montalcino Sangiovese Lisini,,,BOTTLE,2018,8700,0,50,,,True
+,,Brunello di Montalcino La Casa Tenuta Caparzo,,,BOTTLE,2017,9500,0,50,,,True
+,,Brunello di Montalcino Sangiovese Tenuta la Fuga,,,BOTTLE,2017,7200,0,50,,,True
+,,Brunello di Montacino Riserva Tenuta la Fuga,,,BOTTLE,2015,9500,0,50,,,True
+,,Brunello di Montalcino Sangiovese Tenuta Caparzo,,,BOTTLE,2018,6950,0,50,,,True
+,,Brunello d.Montalcino Sangiovese Tenuta Caparzo,,,BOTTLE,2014,7550,0,50,,,True
+,,Brunello di Montalcino Sangiovese Costanti,,,BOTTLE,2016,10100,0,50,,,True
+,,Brunello d.Montalcino Sangiovese Costanti,,,BOTTLE,2013,11100,0,50,,,True
+,,Brunello di Montalcino Sangiovese Castiglion del Bosco,,,BOTTLE,2013,8500,0,50,,,True
+,,Brunello di Montalcino Castiglion del Bosco,,,BOTTLE,2013,11500,0,50,,,True
+,,Brunello di Montalcino  Banfi,,,BOTTLE,2013,8500,0,50,,,True
+,,Brunello di Montalcino Sangiovese CastelGiocondo,,,BOTTLE,2013,7800,0,50,,,True
+,,Brunello di Montalcino Sangiovese Talenti,,,BOTTLE,2013,7900,0,50,,,True
+,,Brunello di Montalcino Riserva Frescobaldi,,,BOTTLE,2013,13400,0,50,,,True
+,,Brunello di Montalcino Sangiovese La Magia,,,BOTTLE,2010,14900,0,50,,,True
+,,Brunello di Montalcino Sangiovese Poggio Antico,,,BOTTLE,2012,9200,0,50,,,True
+,,Brunello di Montalcino Riserva  Col d’Orcia BIO,,,BOTTLE,2008,10200,0,50,,,True
+,,Brunello di Montalcino Sangiovese Biondi Santi,,,BOTTLE,1990,32000,0,50,,,True
+,,Poggio alle Nane Le Mortelle Antinori,,,BOTTLE,2022,8900,0,50,,,True
+,,Tignanello Sangiovese | Cabernet Sauvignon Tenuta Tignanello,,,BOTTLE,2021,13500,0,50,,,True
+,,Baia al Vento Merlot | Cabernet Franc Campo al Mare,,,BOTTLE,2020,8900,0,50,,,True
+,,Cabreo il Borgo Tenute del Cabreo,,,BOTTLE,2020,6900,0,50,,,True
+,,Le Serre Nuove Tenuta d. Ornellaia,,,BOTTLE,2020,8200,0,50,,,True
+,,Selvante Cabernet Franc T. Campo al Mare,,,BOTTLE,2019,9500,0,50,,,True
+,,Cabreo Mytho Sangiovese Tenute del Cabreo,,,BOTTLE,2019,18000,0,50,,,True
+,,Cabreo Mytho Sangiovese Tenute del Cabreo,,,BOTTLE,2020,18000,0,50,,,True
+,,Fontalloro Sangiovese Felsina,,,BOTTLE,2019,12500,0,50,,,True
+,,Petra IGT Toscana Rosso Petra,,,BOTTLE,2019,6900,0,50,,,True
+,,Ornellaia Tenuta d. Ornellaia,,,BOTTLE,2018,29000,0,50,,,True
+,,Lucente Merlot | Sangiovese Luce della Vite,,,BOTTLE,2018,6400,0,50,,,True
+,,Lucente Merlot | Sangiovese Luce della Vite,,,BOTTLE,2016,6900,0,50,,,True
+,,Ca del Pazzo Sangiovese | Cabernet S.  Tenuta Caparzo,,,BOTTLE,2018,6800,0,50,,,True
+,,Il Blu Brancaia,,,BOTTLE,2018,8800,0,50,,,True
+,,Syrah Collezione Privata Isole e Olena,,,BOTTLE,2018,9500,0,50,,,True
+,,Ca’Marcanda Gaja,,,BOTTLE,2018,24500,0,50,,,True
+,,Magari Gaja,,,BOTTLE,2018,11500,0,50,,,True
+,,Il Pino di Biserno Tenuta di Biserno,,,BOTTLE,2018,8500,0,50,,,True
+,,Cepparello Sangiovese Isole e Olena,,,BOTTLE,2018,14950,0,50,,,True
+,,Flaccianello Sangiovese Fontodi BIO,,,BOTTLE,2017,15200,0,50,,,True
+,,Luce Merlot | Sangiovese Luce della Vite,,,BOTTLE,2018,14500,0,50,,,True
+,,Tenuta di Trinoro Cabernet Franc | Merlot Tenuta di Trinoro,,,BOTTLE,2018,32000,0,50,,,True
+,,Palazzi Merlot Tenuta di Trinoro,,,BOTTLE,2018,32500,0,50,,,True
+,,Contugo Merlot Antinori,,,BOTTLE,2016,6200,0,50,,,True
+,,Contugo Merlot Antinori,,,BOTTLE,2017,6200,0,50,,,True
+,,Dedicato a Walter Cabernet Franc Poggio al Tesoro,,,BOTTLE,2016,19900,0,50,,,True
+,,Collezione Privata Cabernet Sauvignon Isole e Olena,,,BOTTLE,2016,11850,0,50,,,True
+,,La Maione Merlot Frescobaldi,,,BOTTLE,2016,9600,0,50,,,True
+,,Quercegobbe Merlot Petra,,,BOTTLE,2016,5450,0,50,,,True
+,,Redigaffi Merlot Tua Rita,,,BOTTLE,2016,31000,0,50,,,True
+,,Hebo Petra,,,BOTTLE,2016,4700,0,50,,,True
+,,Maestro Raro Cabernet Sauvignon Felsina,,,BOTTLE,2016,7900,0,50,,,True
+,,Altrovino Merlot | Cabernet Franc Duemani BIO,,,BOTTLE,2016,7200,0,50,,,True
+,,Suisassi Syrah Duemani BIO,,,BOTTLE,2016,17800,0,50,,,True
+,,Alauda Cabernet Franc | Merlot | Colorino Ruffino,,,BOTTLE,2015,11850,0,50,,,True
+,,Duemani Cabernet Franc Duemani BIO,,,BOTTLE,2016,18650,0,50,,,True
+,,Diadema Rosso Diadema,,,BOTTLE,2015,10500,0,50,,,True
+,,Casalferro Merlot Barone Ricasoli,,,BOTTLE,2015,8900,0,50,,,True
+,,Al Passo Sangiovese | Merlot Tolaini,,,BOTTLE,2015,5200,0,50,,,True
+,,Il Borro IGT Tenuta Ferragamo,,,BOTTLE,2014,6900,0,50,,,True
+,,Lodovico Cabernet Franc | Merlot | Petit Verdot Tenuta di Biserno,,,BOTTLE,2013,58000,0,50,,,True
+,,Giorgio Primo La Massa,,,BOTTLE,2013,11400,0,50,,,True
+,,Potenti Cabernet Sauvignon Petra,,,BOTTLE,2012,6200,0,50,,,True
+,,Montesodi Sangiovese Frescobaldi,,,BOTTLE,2012,6900,0,50,,,True
+,,Sassoalloro Sangiovese Biondi Santi,,,BOTTLE,2012,6950,0,50,,,True
+,,Solaia Tenuta Tignanello,,,BOTTLE,2012,38000,0,50,,,True
+,,Cabreo Nino Sangiovese Tenute del Cabreo,,,BOTTLE,2011,11900,0,50,,,True
+,,Matarocchio Cabernet Franc Ten. Guado al Tasso,,,BOTTLE,2011,43500,0,50,,,True
+,,Cignale Cabernet Sauvignon | Merlot Cast. di Querceto,,,BOTTLE,2010,8300,0,50,,,True
+,,Cignale Cabernet Sauvignon | Merlot Cast. di Querceto,,,BOTTLE,2011,8300,0,50,,,True
+,,La Corte Sangiovese Cast. di Querceto,,,BOTTLE,2010,7900,0,50,,,True
+,,La Corte Sangiovese Cast. di Querceto,,,BOTTLE,2011,7900,0,50,,,True
+,,Ornello Di Frasinello Rocca di Frasinello,,,BOTTLE,2014,4200,0,50,,,True
+,,Le Sughere Di Frasinello Rocca di Frasinello,,,BOTTLE,2018,4700,0,50,,,True
+,,Rocca di Frasinello Rocca di Frasinello,,,BOTTLE,2013,8500,0,50,,,True
+,,Baffonero Merlot Rocca di Frasinello,,,BOTTLE,2019,34900,0,50,,,True
+,,Baffonero Merlot Rocca di Frasinello,,,BOTTLE,2014,32200,0,50,,,True
+,,Masseto Merlot Tenuta d. Ornellaia,,,BOTTLE,2016,139900,0,50,,,True
+,,Masseto Merlot Tenuta d. Ornellaia,,,BOTTLE,2015,140500,0,50,,,True
+,,Masseto Merlot Tenuta d. Ornellaia,,,BOTTLE,2014,125000,0,50,,,True
+,,50 & 50 Sangiovese I Merlot Avignonesi & Cap.,,,BOTTLE,2018,15500,0,50,,,True
+,,50 & 50 Sangiovese I Merlot Avignonesi & Cap.,,,BOTTLE,2017,14800,0,50,,,True
+,,Summus Banfi,,,BOTTLE,2014,6600,0,50,,,True
+,,Summus Banfi,,,BOTTLE,2012,6900,0,50,,,True
+,,Il Pareto Cabernet Sauvignon Tenuta di Nozzole,,,BOTTLE,2019,8950,0,50,,,True
+,,Il Pareto Cabernet Sauvignon Tenuta di Nozzole,,,BOTTLE,2013,9550,0,50,,,True
+,,Il Pareto Collezione Annate Storiche Tenuta di Nozzole,,,BOTTLE,2010,10550,0,50,,,True
+,,Il Pareto Collezione Annate Storiche Tenuta di Nozzole,,,BOTTLE,1999,12550,0,50,,,True
+,,Il Pareto Collezione Annate Storiche Tenuta di Nozzole,,,BOTTLE,1987,13550,0,50,,,True
+,,Sassicaia Tenuta San Guido,,,BOTTLE,2022,38000,0,50,,,True
+,,Sassicaia Tenuta San Guido,,,BOTTLE,2021,38000,0,50,,,True
+,,Sassicaia Tenuta San Guido,,,BOTTLE,2020,31500,0,50,,,True
+,,Sassicaia Tenuta San Guido,,,BOTTLE,2014,35000,0,50,,,True
+,,Sassicaia Tenuta San Guido,,,BOTTLE,1998,59900,0,50,,,True
+,,Sassicaia Tenuta San Guido,,,BOTTLE,1997,62000,0,50,,,True
+,,Sassicaia Tenuta San Guido,,,BOTTLE,1996,38000,0,50,,,True
+,,Sassicaia Tenuta San Guido,,,BOTTLE,1994,35000,0,50,,,True
+,,Sassicaia Tenuta San Guido,,,BOTTLE,1991,35000,0,50,,,True
+,,Sassicaia Tenuta San Guido,,,BOTTLE,1990,80000,0,50,,,True
+,,Pian del Ciampolo Montevertine,,,BOTTLE,2019,4800,0,50,,,True
+,,Montevertine Montevertine,,,BOTTLE,2021,9900,0,50,,,True
+,,Montevertine Montevertine,,,BOTTLE,2018,9400,0,50,,,True
+,,Montevertine Montevertine,,,BOTTLE,2017,9400,0,50,,,True
+,,Le Pergole Torte Montevertine,,,BOTTLE,2021,29000,0,50,,,True
+,,Le Pergole Torte Montevertine,,,BOTTLE,2018,30200,0,50,,,True
+,,Le Pergole Torte Montevertine,,,BOTTLE,2017,29800,0,50,,,True
+,,Terra di Monteverro Monteverro,,,BOTTLE,2018,8600,0,50,,,True
+,,Tinata Monteverro,,,BOTTLE,2018,14600,0,50,,,True
+,,Monteverro Monteverro,,,BOTTLE,2018,18700,0,50,,,True
+,,Monteverro Monteverro,,,BOTTLE,2017,19000,0,50,,,True
+,,Monteverro Monteverro,,,BOTTLE,2016,19300,0,50,,,True
+,,Monteverro Monteverro,,,BOTTLE,2014,19900,0,50,,,True
+,,Monteverro Monteverro,,,BOTTLE,2013,20200,0,50,,,True
+,,Monteverro Monteverro,,,BOTTLE,2012,20500,0,50,,,True
+,,Monteverro Monteverro,,,BOTTLE,2011,20800,0,50,,,True
+,,Monteverro Monteverro,,,BOTTLE,2010,21100,0,50,,,True
+,,Monteverro Monteverro,,,BOTTLE,2009,21400,0,50,,,True
+,,Monteverro Monteverro,,,BOTTLE,2008,21700,0,50,,,True
+,,CR1 Redstone Grand Reserve Capelands Estate,,,BOTTLE,2021,19900,0,50,,,True
+,,CR1 Malbec Special Reserve Capelands Estate,,,BOTTLE,2020,9200,0,50,,,True
+,,Klein Redstone Capelands Estate,,,BOTTLE,2020,4200,0,50,,,True
+,,CR1 Redstone Reserve Capelands Estate,,,BOTTLE,2020,7800,0,50,,,True
+,,CR1 Redstone Capelands Estate,,,BOTTLE,2019,5400,0,50,,,True
+,,CR1 Redstone Reserve Capelands Estate,,,BOTTLE,2016,8000,0,50,,,True
+,,Corbec Corvina | Malbec Masi Tupungato,,,BOTTLE,2020,6200,0,50,,,True
+,,G30 Blaufränkisch Alter Berg BIO Heinrich,,,BOTTLE,2021,8700,0,50,,,True
+,,Freude am Leben Pinot Noir Sattlerhof,,,BOTTLE,2019,7200,0,50,,,True
+,,Pinot Noir Seguin Manuel,,,BOTTLE,2020,6600,0,50,,,True
+,,Gevrey Chambertin Les Platieres Domaine Guyon,,,BOTTLE,2017,16700,0,50,,,True
+,,Vosne Romanee Domaine des Perdix,,,BOTTLE,2021,23900,0,50,,,True
+,,Clos de Vougeot Grand Cru Dom. Jacques Prieur,,,BOTTLE,2020,69800,0,50,,,True
+,,Nuits  Saint Georges 1er cru Domaine des Perdix,,,BOTTLE,2020,27500,0,50,,,True
+,,Nuits St. Georges  Domaine Faiveley,,,BOTTLE,2018,17500,0,50,,,True
+,,Aloxe Corton Domaine Cauvard,,,BOTTLE,2018,13200,0,50,,,True
+,,Clos de Cortons Domaine Faiveley,,,BOTTLE,2018,35500,0,50,,,True
+,,Pernand Vergelesses Andre Goichot,,,BOTTLE,2022,6400,0,50,,,True
+,,Rully Chaponniere Domaine Ninot,,,BOTTLE,2022,6100,0,50,,,True
+,,Chateau Tronquoy-Lalande Merlot | Cabernet S. | Petit Verdot,,,BOTTLE,2015,8500,0,50,,,True
+,,Chateau Tronquoy-Lalande Merlot | Cabernet S. | Petit Verdot,,,JEROBOAM,2017,26900,0,50,,,True
+,,Chateau Phelan-Segur Cabernet S |  Merlot | Petit Verdot | Cabernet F.,,,BOTTLE,2018,9400,0,50,,,True
+,,,,,BOTTLE,0,0,0,50,,,True
+,,,,,BOTTLE,0,0,0,50,,,True
+,,Chateau Haut Batailley Cabernet S. | Merlot,,,BOTTLE,2018,14400,0,50,,,True
+,,Chateau Lynch Bages Cabernet S. | Merlot | Cabernet F. | Petit Verdot,,,BOTTLE,2012,31500,0,50,,,True
+,,,,,BOTTLE,0,0,0,50,,,True
+,,,,,BOTTLE,0,0,0,50,,,True
+,,Chateau Mouton Rothschild Cabernet S. | Merlot | Cabernet F. | PV,,,BOTTLE,1992,64000,0,50,,,True
+,,Chateau Mouton Rothschild Cabernet S. | Merlot | Cabernet F. | PV,,,BOTTLE,1991,65000,0,50,,,True
+,,Chateau Mouton Rothschild Cabernet S. | Merlot | Cabernet F. | PV,,,BOTTLE,1987,75000,0,50,,,True
+,,Chateau Mouton Rothschild Cabernet S. | Merlot | Cabernet F. | PV,,,BOTTLE,1983,85000,0,50,,,True
+,,Comtesse de Lalande Pichon Longueville,,,BOTTLE,2009,37500,0,50,,,True
+,,Comtesse de Lalande Pichon Longueville,,,BOTTLE,1993,39500,0,50,,,True
+,,Chateau Chasse Spleen Cabernet S. | Merlot | Petit V. | Cabernet F.,,,BOTTLE,2019,8800,0,50,,,True
+,,Chateau Mauvesin Barton Cabernet F. | Cabernet S. | Merlot,,,BOTTLE,2018,5900,0,50,,,True
+,,Château Poujeaux Cabernet Sauvignon |Merlot | Cabernet Franc,,,BOTTLE,1996,18500,0,50,,,True
+,,Chateau Ducru Beaucaillou Cabernet S. | Merlot | Cabernet F. | PV,,,BOTTLE,2017,42500,0,50,,,True
+,,Le Petit Ducru Chat.D. Beaucaillou,,,BOTTLE,2018,8400,0,50,,,True
+,,Chateau Pontac Lynch Cabernet S. | Cabernet F. | Merlot | Petit Verdot,,,BOTTLE,2019,8900,0,50,,,True
+,,Chateau du Tertre Cabernet S. | Merlot | Cabernet F. | Petit Verdot,,,BOTTLE,2019,10600,0,50,,,True
+,,,,,BOTTLE,0,0,0,50,,,True
+,,Chateau Brane Cantenac Cabernet Sauvignon | Merlot,,,BOTTLE,2011,15900,0,50,,,True
+,,Château Labegorce,,,BOTTLE,1996,9100,0,50,,,True
+,,Chateau Croix Mouton Cabernet Sauvignon | Merlot,,,BOTTLE,2018,4200,0,50,,,True
+,,Chateau Sociando Mallet Merlot | Cabernet Sauvignon | Cabernet F.,,,BOTTLE,2014,9800,0,50,,,True
+,,Chateau Ampelia Merlot | Cabernet Franc,,,BOTTLE,2016,4800,0,50,,,True
+,,Chateau Puygueraud Merlot | Cabernet Sauvignon | Malbec,,,BOTTLE,2016,5700,0,50,,,True
+,,Château La Lagune,,,BOTTLE,1996,8900,0,50,,,True
+,,Château Cantemerle,,,BOTTLE,1996,8800,0,50,,,True
+,,Château Le Boscq Cru Bourgeois Médoc,,,BOTTLE,1996,9300,0,50,,,True
+,,,,,BOTTLE,0,0,0,50,,,True
+,,,,,BOTTLE,0,0,0,50,,,True
+,,Chateau Cermes Haut Brion Cabernet F. | Merlot | Cabernet S.,,,BOTTLE,2018,38500,0,50,,,True
+,,Les Tours de Laroque Merlot | Cabernet Franc,,,BOTTLE,2019,4900,0,50,,,True
+,,Chateau Daugay Grand Cru Merlot | Cabernet Franc,,,BOTTLE,2011,6700,0,50,,,True
+,,Chateau Daugay Merlot | Cabernet Franc,,,MAGNUM,2014,25800,0,50,,,True
+,,Chateau Grand Corbin Despagne,,,BOTTLE,2018,8700,0,50,,,True
+,,Chateau Grand Corbin Despagne,,,BOTTLE,2016,8900,0,50,,,True
+,,Chateau Grand Corbin Despagne,,,BOTTLE,2011,8200,0,50,,,True
+,,Chateau Angelus Merlot | Cabernet Franc,,,BOTTLE,2015,83700,0,50,,,True
+,,Chateau Pavie Macquin Merlot | Cabernet Franc | Cabernet Sauvignon,,,BOTTLE,2015,21600,0,50,,,True
+,,Chateau Canon Grand Crus Classe Merlot | Cabernet Franc,,,BOTTLE,1992,14800,0,50,,,True
+,,Chateau La Pointe Merlot | Cabernet Franc,,,BOTTLE,2016,10300,0,50,,,True
+,,Ballade de la Point Merlot | Cabernet F. Chateau La Pointe,,,BOTTLE,2016,6900,0,50,,,True
+,,Chateau Vieux Merlot | Cabernet Franc Chateau Certain,,,BOTTLE,2013,45600,0,50,,,True
+,,Chateau Vieux Merlot | Cabernet Franc  Chateau Certain,,,BOTTLE,1985,49500,0,50,,,True
+,,,,,BOTTLE,0,0,0,50,,,True
+,,Chateau Gazin Merlot | Cabernet Franc,,,BOTTLE,2012,18900,0,50,,,True
+,,,,,BOTTLE,0,0,0,50,,,True
+,,Chateau L'Evangile Merlot | Cabernet Franc,,,BOTTLE,1992,24600,0,50,,,True
+,,Château La Croix de Gay,,,BOTTLE,1995,8700,0,50,,,True
+,,Seigneur de Grezette Malbec Chateau Lagrezette,,,BOTTLE,2018,3600,0,50,,,True
+,,Cote du Rhone Dom. de la Solitude,,,BOTTLE,2021,3700,0,50,,,True
+,,Chateauneuf du Pape Dom. de la Solitude,,,BOTTLE,2021,6800,0,50,,,True
+,,Chateau Montus Rouge  Chateau  Montus,,,BOTTLE,2016,8800,0,50,,,True
+,,Hermitage Rouge Syrah Dom. du Colombier,,,BOTTLE,2014,15900,0,50,,,True
+,,Crozes Hermitage Shiraz Graillot,,,BOTTLE,2021,7800,0,50,,,True
+,,Rioja Riserva Finca Ygay Marqués de Murrieta,,,BOTTLE,2013,8600,0,50,,,True
+,,Chardonnay Altkirch Schreckbichl,,,HALF_BOTTLE,2022,2200,0,50,,,True
+,,Chardonnay Cardellino  Elena Walch,,,MAGNUM,2023,10500,0,50,,,True
+,,Kerner Praepositus Kloster Neustift,,,MAGNUM,2022,10400,0,50,,,True
+,,Sauvignon Quarz Kellerei Terlan,,,MAGNUM,2022,14500,0,50,,,True
+,,Weissburgunder Sirmian Nals Margreid,,,MAGNUM,2022,11400,0,50,,,True
+,,Chardonnay Lafoa Schreckbichl,,,MAGNUM,2022,14000,0,50,,,True
+,,Chardonnay Kreuth Kellerei Terlan,,,MAGNUM,2022,10600,0,50,,,True
+,,Beyond the Clouds Elena Walch,,,MAGNUM,2022,20500,0,50,,,True
+,,Weissburgunder Vorberg Kellerei Terlan,,,MAGNUM,2021,14500,0,50,,,True
+,,Nova Domus Kellerei Terlan,,,MAGNUM,2021,15400,0,50,,,True
+,,Vino del Passo Solaris Lieselehof,,,MAGNUM,2020,20500,0,50,,,True
+,,Sauvignon Lafoa Schreckbichl,,,MAGNUM,2011,14000,0,50,,,True
+,,Sauvignon Lafoa Schreckbichl,,,MAGNUM,2022,14000,0,50,,,True
+,,Chardonnay Riserva Freienfeld Kellerei Kurtatsch,,,MAGNUM,2019,15600,0,50,,,True
+,,Weissburgunder Hofstatt Kellerei Kurtatsch,,,MAGNUM,2017,9300,0,50,,,True
+,,Sauvignon Exclusiv Ploner,,,MAGNUM,2016,17500,0,50,,,True
+,,Sauvignon Tannenberg Manincor BIO,,,MAGNUM,2015,12600,0,50,,,True
+,,Sauvignon Tannenberg Manincor BIO,,,MAGNUM,2022,12600,0,50,,,True
+,,Weissburgunder Vorberg Kellerei Terlan,,,MAGNUM,2015,15000,0,50,,,True
+,,Nova Domus Kellerei Terlan,,,MAGNUM,2015,16800,0,50,,,True
+,,Weissburgunder kunst.stück Kellerei Kaltern,,,MAGNUM,2014,17500,0,50,,,True
+,,Weissburgunder Vorberg Kellerei Terlan,,,MAGNUM,2008,16000,0,50,,,True
+,,Chardonnay Formigar Cornell Schreckbichl,,,MAGNUM,2009,14500,0,50,,,True
+,,Castelli di Jesi Verdicchio  Tenuta di Fra,,,MAGNUM,2021,9900,0,50,,,True
+,,Castelli di Jesi Verdicchio Tenuta di Fra,,,MAGNUM,2018,8000,0,50,,,True
+,,Friulano Ermacora,,,MAGNUM,2022,7500,0,50,,,True
+,,Braide Alte Livon,,,MAGNUM,2015,16500,0,50,,,True
+,,Riesling Sonnenuhr Wehlen S.A. Prüm,,,MAGNUM,2020,13900,0,50,,,True
+,,Riesling Sonnenuhr Wehlen S.A. Prüm,,,JEROBOAM,2020,28500,0,50,,,True
+,,Dorsheim Riesling Joj. Bapt. Schäfer,,,MAGNUM,2019,9000,0,50,,,True
+,,17/21/23 La Rose de Manincor Manincor BIO,,,MAGNUM,0,11500,0,50,,,True
+,,Blauburgunder Schreckbichl,,,HALF_BOTTLE,2022,2900,0,50,,,True
+,,Lagrein Kellerei Tramin,,,HALF_BOTTLE,2021,3150,0,50,,,True
+,,Merlot Riserva Siebeneich Schreckbichl,,,HALF_BOTTLE,2020,3100,0,50,,,True
+,,Cornelius Merlot | Cabernet Sauvignon Schreckbichl,,,HALF_BOTTLE,2020,3950,0,50,,,True
+,,Barolo Vigna Sori Ginestra Conterno Fantino,,,HALF_BOTTLE,2015,6500,0,50,,,True
+,,Amarone della Valpolicella  Masi,,,HALF_BOTTLE,2019,4900,0,50,,,True
+,,Il Pino di Biserno Tenuta di Biserno,,,HALF_BOTTLE,2020,4950,0,50,,,True
+,,Fontalloro Sangiovese Felsina,,,HALF_BOTTLE,2019,8000,0,50,,,True
+,,Vino Nobile di Montepulciano Avignonesi,,,HALF_BOTTLE,2017,3050,0,50,,,True
+,,Cabreo Il Borgo Tenute del Cabreo,,,HALF_BOTTLE,2016,3700,0,50,,,True
+,,Sassicaia Cabernet S. | Cabernet F. Tenuta di San Guido,,,HALF_BOTTLE,1995,15000,0,50,,,True
+,,Lagrein Riserva Taber Kellerei Bozen,,,MAGNUM,2021,18000,0,50,,,True
+,,Lagrein Riserva Tor di Lupo Kellerei Andrian,,,MAGNUM,2021,17600,0,50,,,True
+,,Lagrein Carano Baron di Pauli,,,MAGNUM,2020,14300,0,50,,,True
+,,Lagrein Rubatsch Manincor BIO,,,MAGNUM,2019,14500,0,50,,,True
+,,Lagrein Riserva Frauenrigl Kellerei Kurtatsch,,,MAGNUM,2015,14500,0,50,,,True
+,,Lagrein Riserva Frauenrigl Kellerei Kurtatsch,,,MAGNUM,2017,14500,0,50,,,True
+,,Lagrein Riserva Steinraffler Josef Hofstätter,,,MAGNUM,2018,12800,0,50,,,True
+,,Lagrein Riserva Taber Kellerei Bozen,,,MAGNUM,2016,19000,0,50,,,True
+,,Lagrein Cornell Schreckbichl,,,MAGNUM,2010,19900,0,50,,,True
+,,Lagrein Riserva Sigis Mundus Schreckbichl,,,MAGNUM,2010,15500,0,50,,,True
+,,Lagrein Riserva Sigis Mundus Schreckbichl,,,MAGNUM,2004,15500,0,50,,,True
+,,Lagrein Riserva Sigis Mundus Schreckbichl,,,MAGNUM,2001,16500,0,50,,,True
+,,Blauburgunder Mason di Mason Manincor BIO,,,MAGNUM,2018,28100,0,50,,,True
+,,Blauburgunder Mason di Mason Manincor BIO,,,MAGNUM,2021,28100,0,50,,,True
+,,Blauburgunder Ludwig Elena Walch,,,MAGNUM,2021,13900,0,50,,,True
+,,Blauburgunder Ludwig Elena Walch,,,MAGNUM,2017,14800,0,50,,,True
+,,Blauburgunder Ludwig Elena Walch,,,MAGNUM,2016,15500,0,50,,,True
+,,Blauburgunder Jura Nals Margreid,,,MAGNUM,2020,10500,0,50,,,True
+,,Blauburgunder Riserva Mazon J. Hofstätter,,,MAGNUM,2018,12800,0,50,,,True
+,,Blauburgunder Franz Haas,,,MAGNUM,2016,12500,0,50,,,True
+,,Blauburgunder San Urbano J. Hofstätter,,,MAGNUM,2015,24500,0,50,,,True
+,,Merlot Siebeneich Kellerei Bozen,,,MAGNUM,2020,13800,0,50,,,True
+,,Merlot Siebeneich Kellerei Bozen,,,MAGNUM,2012,15500,0,50,,,True
+,,Merlot Riserva Gant Kellerei Andrian,,,MAGNUM,2015,15500,0,50,,,True
+,,Cabernet Riserva Istrice Elena Walch,,,MAGNUM,2022,10350,0,50,,,True
+,,Cabernet Riserva Freienfeld Kellerei Kurtatsch,,,MAGNUM,2018,17500,0,50,,,True
+,,13/14/18 Cabernet Mumelter Kellerei Bozen,,,MAGNUM,0,13200,0,50,,,True
+,,Cabernet Riserva Quintessenz Kellerei Kaltern,,,MAGNUM,2016,13500,0,50,,,True
+,,Cabernet Riserva One by One Kellerei Kaltern,,,MAGNUM,2016,11000,0,50,,,True
+,,Cabernet Sauvignon Lafoa Schreckbichl,,,MAGNUM,2015,18200,0,50,,,True
+,,Cabernet Sauvignon Lafoa Schreckbichl,,,MAGNUM,2016,18200,0,50,,,True
+,,Cabernet Riserva kunst.stück Kellerei Kaltern,,,MAGNUM,2015,19500,0,50,,,True
+,,Cabernet Löwengang Alois Lageder BIO,,,MAGNUM,2013,24200,0,50,,,True
+,,Cabernet Riserva Pfarrhof Kellerei Kaltern,,,MAGNUM,2012,12200,0,50,,,True
+,,Cabernet Sauvignon Lafoa Schreckbichl,,,MAGNUM,2004,22000,0,50,,,True
+,,Cassiano Manincor BIO,,,MAGNUM,2021,14500,0,50,,,True
+,,Castel Campan Merlot | Cabernet Franc Manincor BIO,,,MAGNUM,2019,24100,0,50,,,True
+,,Lacus Cabernet franc | Merlot Walter Schullian,,,MAGNUM,2019,20400,0,50,,,True
+,,Amistar Edizione Sölva & Söhne,,,MAGNUM,2018,20800,0,50,,,True
+,,Reif Unterganzner,,,MAGNUM,2019,19900,0,50,,,True
+,,Reif Unterganzner,,,MAGNUM,2018,20300,0,50,,,True
+,,Reif Unterganzner,,,MAGNUM,2017,20500,0,50,,,True
+,,Reif Unterganzner,,,MAGNUM,2016,20900,0,50,,,True
+,,Amistar Rot Sölva & Söhne,,,MAGNUM,2022,14200,0,50,,,True
+,,Amistar Rot Sölva & Söhne,,,JEROBOAM,2022,29300,0,50,,,True
+,,Amistar Edizione Riserva Sölva & Söhne,,,MAGNUM,2021,25200,0,50,,,True
+,,13/14/19 Soma Merlot | Cabernet Kellerei Kurtatsch,,,MAGNUM,0,11800,0,50,,,True
+,,Merlot – Lagrein Kellerei Meran,,,MAGNUM,2019,9800,0,50,,,True
+,,Lacus Selection Cabernet Franc | Merlot Walter Schullian,,,MAGNUM,2018,21500,0,50,,,True
+,,Arzio Baron di Pauli,,,MAGNUM,2013,16200,0,50,,,True
+,,Arzio Baron di Pauli,,,MAGNUM,2018,16200,0,50,,,True
+,,Iugum Merlot I Cabernet Sauvignon Peter Dipoli,,,MAGNUM,2015,16500,0,50,,,True
+,,Baccara Merlot | Cabernet Weingut Eichenstein,,,MAGNUM,2012,10800,0,50,,,True
+,,Merlot – Lagrein Kellerei Meran,,,JEROBOAM,2015,22000,0,50,,,True
+,,Cornelius Merlot | Cabernet Schreckbichl,,,MAGNUM,2018,13000,0,50,,,True
+,,Cornelius Merlot | Cabernet Schreckbichl,,,MAGNUM,2005,14800,0,50,,,True
+,,Cornelius Merlot | Cabernet Schreckbichl,,,MAGNUM,1999,16500,0,50,,,True
+,,San Leonardo BIO Tenuta San Leonardo,,,MAGNUM,2013,20500,0,50,,,True
+,,San Leonardo BIO Tenuta San Leonardo,,,JEROBOAM,2013,41600,0,50,,,True
+,,Amarone Tommasi,,,MAGNUM,2019,19900,0,50,,,True
+,,Amarone Costasera Masi,,,MAGNUM,2013,17200,0,50,,,True
+,,Amarone Pietro dal Cero Cà dei Frati,,,MAGNUM,2013,24200,0,50,,,True
+,,Amarone Tommasi,,,JEROBOAM,2013,41000,0,50,,,True
+,,Amarone Costasera Masi,,,MAGNUM,2012,17500,0,50,,,True
+,,Amarone Costasera Masi,,,JEROBOAM,2012,35500,0,50,,,True
+,,Amarone Tommasi,,,MAGNUM,2011,22000,0,50,,,True
+,,Amarone Tommasi,,,MAGNUM,2012,22000,0,50,,,True
+,,Amarone Costasera Masi,,,MAGNUM,2010,18900,0,50,,,True
+,,Amarone Costasera Riserva Masi,,,MAGNUM,2008,22500,0,50,,,True
+,,Le Pergole Torte Sangiovese Montevertine,,,MAGNUM,2021,65000,0,50,,,True
+,,Cabreo il Borgo Tenute del Cabreo,,,MAGNUM,2018,14900,0,50,,,True
+,,Cabreo il Borgo Tenute del Cabreo,,,MAGNUM,2020,14900,0,50,,,True
+,,Le Pergole Torte Sangiovese Montevertine,,,MAGNUM,2018,65500,0,50,,,True
+,,Chianti Classico Sangiovese Fontodi BIO,,,MAGNUM,2018,10100,0,50,,,True
+,,Chianti Classico Sangiovese Tenuta di Nozzole,,,MAGNUM,2018,9900,0,50,,,True
+,,Chianti Classico Sangiovese Tenuta di Nozzole,,,MAGNUM,2022,9900,0,50,,,True
+,,Chianti Classico Riserva La Forra Tenuta di Nozzole,,,MAGNUM,2019,12800,0,50,,,True
+,,Chianti Classico Riserva La Forra Tenuta di Nozzole,,,MAGNUM,2020,12800,0,50,,,True
+,,Cepparello Sangiovese Isole ed Olena,,,MAGNUM,2018,29900,0,50,,,True
+,,Le Serre Nuove Tenuta d. Ornellaia,,,MAGNUM,2018,15800,0,50,,,True
+,,Il Blu Merlot I Cabernet Sauvingon I Sangiovese Brancaia,,,MAGNUM,2018,18500,0,50,,,True
+,,Ornellaia Tenuta d. Ornellaia,,,MAGNUM,2018,62000,0,50,,,True
+,,Brunello di Montalcino Sangiovese Caparzo,,,MAGNUM,2017,16000,0,50,,,True
+,,Tignanello Sangiovese | Cabernet Sauvignon Tenuta Tignanello,,,MAGNUM,2021,29500,0,50,,,True
+,,Brunello di Montalcino Sangiovese Costanti,,,MAGNUM,2016,21500,0,50,,,True
+,,Brunello di Montalcino Sangiovese Tenuta la Fuga,,,MAGNUM,2016,16500,0,50,,,True
+,,Redigaffi Merlot Tua Rita,,,MAGNUM,2016,64000,0,50,,,True
+,,Giusto di Notri Tua Rita,,,MAGNUM,2016,21600,0,50,,,True
+,,Ornellaia Tenuta d. Ornellaia,,,MAGNUM,2016,63000,0,50,,,True
+,,Brunello di Montalcino Sangiovese Castel Giocondo,,,MAGNUM,2015,13800,0,50,,,True
+,,Chianti Classico Sangiovese Tenuta Tignanello,,,MAGNUM,2015,12000,0,50,,,True
+,,Ornellaia Tenuta d. Ornellaia,,,MAGNUM,2015,63500,0,50,,,True
+,,Brunello di Montalcino Sangiovese CastelGiocondo,,,MAGNUM,2013,16300,0,50,,,True
+,,La Corte Sangiovese Cast. di Querceto,,,MAGNUM,2012,16500,0,50,,,True
+,,Brunello di Montalcino Sangiovese Costanti,,,MAGNUM,2011,22500,0,50,,,True
+,,Duemani Cabernet Franc Duemani BIO,,,MAGNUM,2016,37500,0,50,,,True
+,,Petra Cabernet Sauvignon | Merlot Petra,,,MAGNUM,2015,14900,0,50,,,True
+,,Petra Cabernet Sauvignon | Merlot Petra,,,MAGNUM,2014,15200,0,50,,,True
+,,Altrovino Merlot | Cabernet Franc Duemani BIO,,,MAGNUM,2015,14800,0,50,,,True
+,,Lucente Merlot | Sangiovese Luce della Vite,,,MAGNUM,2015,12800,0,50,,,True
+,,Luce Merlot | Sangiovese Luce della Vite,,,MAGNUM,2015,29500,0,50,,,True
+,,La Massa La Massa,,,MAGNUM,2013,10200,0,50,,,True
+,,La Massa La Massa,,,MAGNUM,2014,10200,0,50,,,True
+,,I Sodi di San Nicolo Castellare,,,MAGNUM,2013,26800,0,50,,,True
+,,Il Pareto Cabernet Sauvignon Nozzole,,,MAGNUM,2013,17400,0,50,,,True
+,,Cignale Cabernet Sauvignon | Merlot Cast. di Querceto,,,MAGNUM,2012,17200,0,50,,,True
+,,Valdisanti Tolaini,,,MAGNUM,2012,17800,0,50,,,True
+,,Biserno Merlot | Cabernet | Petit Verdot Tenuta di Biserno,,,MAGNUM,2012,30500,0,50,,,True
+,,Cabreo Nino Sangiovese Tenuta del Cabreo,,,MAGNUM,2011,23500,0,50,,,True
+,,Brunello di Montalcino Vasco Sassetti,,,JEROBOAM,2018,36500,0,50,,,True
+,,Ornellaia Tenuta d. Ornellaia,,,JEROBOAM,2015,119900,0,50,,,True
+,,Duemani Cabernet Franc Duemani BIO,,,JEROBOAM,2015,75200,0,50,,,True
+,,Guidalberto Merlot Tenuta di San Guido,,,JEROBOAM,2010,28500,0,50,,,True
+,,Cabreo il Borgo Tenute del Cabreo,,,BORDEAUX_JEROBOAM,2020,46800,0,50,,,True
+,,Schioppettino Ermacora,,,MAGNUM,2021,8200,0,50,,,True
+,,Riul Merlot | Refosco | Cabernet Sauvignon Ermacora,,,MAGNUM,2018,8600,0,50,,,True
+,,Cabernet Tasca d’Almerita,,,MAGNUM,2015,12200,0,50,,,True
+,,Rosso del Conte Tasca d’Almerita,,,MAGNUM,2014,13800,0,50,,,True
+,,Palari Faro Rosso Palari,,,MAGNUM,2012,13900,0,50,,,True
+,,Barbaresco Ris. Montestefano Prod. del Barbaresco,,,MAGNUM,2019,19200,0,50,,,True
+,,Barbaresco Ris. Rabaja Nebbiolo Prod. del Barbaresco,,,MAGNUM,2019,19200,0,50,,,True
+,,Barbera d’Asti Montebruna Braida,,,MAGNUM,2015,8100,0,50,,,True
+,,Barbaresco Vanotu Nebbiolo Pelissero,,,MAGNUM,2014,19900,0,50,,,True
+,,Monpra Langhe Rosso Conterno Fantino,,,MAGNUM,2014,15500,0,50,,,True
+,,Barbaresco Martinenga Nebbiolo Marchesi di Gresy,,,MAGNUM,2013,15500,0,50,,,True
+,,Barolo Ginestra Casa Maté Elio Grasso,,,MAGNUM,2013,22500,0,50,,,True
+,,Barolo Castiglione Nebbiolo Vietti,,,MAGNUM,2013,18000,0,50,,,True
+,,Es Magnum Primitivo Gianfranco Fino,,,MAGNUM,2021,17900,0,50,,,True
+,,Amativo Primitivo | Negroamaro Cantele,,,BOTTLE,2021,17500,0,50,,,True
+,,G30 Blaufränkisch Alter Berg BIO Heinrich,,,MAGNUM,2021,17700,0,50,,,True
+,,G30 Blaufränkisch Alter Berg BIO Heinrich,,,JEROBOAM,2021,35900,0,50,,,True
+,,CR1 Redstone Grand Reserve Capelands Estate,,,MAGNUM,2021,42000,0,50,,,True
+,,CR1 Redstone Reserve Capelands Estate,,,MAGNUM,2020,14900,0,50,,,True
+,,CR1 Redstone Cabernet Sauvignon | Malbec Capelands Estate,,,MAGNUM,2019,10800,0,50,,,True
+,,CR1 Redstone Cabernet Sauvignon | Malbec Capelands Estate,,,MAGNUM,2018,11200,0,50,,,True
+,,CR1 Redstone Reserve Capelands Estate,,,MAGNUM,2016,15200,0,50,,,True
+,,CR1 Redstone Reserve Capelands Estate,,,MAGNUM,2015,15400,0,50,,,True
+,,Redstone Cabernet Sauvignon | Malbec Capelands Estate,,,MAGNUM,2014,11000,0,50,,,True
+,,Redstone Cabernet Sauvignon | Malbec Capelands Estate,,,MAGNUM,2013,11500,0,50,,,True
+,,CR1 Redstone Reserve Capelands Estate,,,JEROBOAM,2015,29900,0,50,,,True
+,,Moscato Rosa Franz Haas,,,HALF_LITER,2022,5400,0,50,,,True
+,,Aruna Gewürztraminer Kellerei Kurtatsch,,,HALF_BOTTLE,2020,6800,0,50,,,True
+,,Rosenmuskateller  Muri Gries,,,HALF_BOTTLE,2020,6800,0,50,,,True
+,,Canthus Petit Manseng Schreckbichl,,,HALF_BOTTLE,2019,7200,0,50,,,True
+,,Le Petit Petit Manseng Manincor BIO,,,HALF_BOTTLE,2018,8500,0,50,,,True
+,,Le Petit Petit Manseng Manincor BIO,,,HALF_BOTTLE,2019,8500,0,50,,,True
+,,Sissi Goldmuskateller Kellerei Meran,,,HALF_BOTTLE,2018,7500,0,50,,,True
+,,Quintessenz Passito Goldmuskateller Kellerei Kaltern,,,HALF_BOTTLE,2016,7800,0,50,,,True
+,,Quintessenz Passito Goldmuskateller Kellerei Kaltern,,,HALF_BOTTLE,2017,7800,0,50,,,True
+,,Vin Santo del Chianti Classico Tenuta di Nozzole,,,HALF_BOTTLE,2020,6800,0,50,,,True
+,,Ben Rye Zibibbo Donnafugata,,,HALF_BOTTLE,2020,7800,0,50,,,True
+,,Moscato d’Asti Saracco,,,BOTTLE,2023,3850,0,50,,,True
+,,Moscato d’Asti Saracco,,,HALF_BOTTLE,2020,2650,0,50,,,True
+,,"Vieux Chai , Jurancon doux Cave de Gan",,,BOTTLE,2020,3800,0,50,,,True
+,,Sauternes  Chateau Coutet,,,HALF_BOTTLE,2019,6500,0,50,,,True
+,,Sauternes  Carmes de Rieussec,,,HALF_BOTTLE,2018,4800,0,50,,,True
+,,Chateau d’Yqueme,,,HALF_BOTTLE,2018,42900,0,50,,,True
+,,Tokaji Aszu 5 Puttonyos Disznokö,,,HALF_LITER,2010,10650,0,50,,,True
+,,Tokaji Aszu 6 Puttonyos Disznokö,,,HALF_LITER,2002,14550,0,50,,,True

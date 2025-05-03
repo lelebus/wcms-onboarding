@@ -1,0 +1,117 @@
+external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantity,storage_area,internal_notes,visible
+,SPARKLING, Praeclarus brut,Kelleri St. Pauls,,BOTTLE,0,3900,0,9,,,True
+,SPARKLING, Haderburg Pas Dosè Millesimato,Sektkellerei Haderburg ,,BOTTLE,2024,5700,0,6,,,True
+,SPARKLING, Athesis Brut Rosè ,Sektkellerei Kettmeier,,BOTTLE,2020,4600,0,2,,,True
+,SPARKLING, Ferrari Maximum Blanc de Blanc Brut ,Ferrari,,BOTTLE,0,5200,0,3,,,True
+,SPARKLING, Corvezzo Rosè Family Collection Millesimato,Corvezzo,,BOTTLE,0,2400,0,5,,,True
+,SPARKLING, Franciacorta Curvee Prestige Blanc de Blanc Extra brut,Ca' del Bosco,,BOTTLE,0,5950,0,5,,,True
+,SPARKLING, Franciacorta Rose,Marchese Antinori,,BOTTLE,0,5600,0,6,,,True
+,SPARKLING, Franciacorta Amor brut ,,,BOTTLE,0,3800,0,1,,,True
+,SPARKLING, Franciacorta Amor rose,,,BOTTLE,0,3900,0,3,,,True
+,SPARKLING, Franciacorta Vezzoli (BB) Brut,Tenuta Vezzoli,,BOTTLE,0,4700,0,12,,,True
+,SPARKLING, Blanc de Blan Brut Origine,Mandois,,BOTTLE,0,5950,0,12,,,True
+,SPARKLING, Blanc de Blan Brut Origine,Mandois,,BOTTLE,2018,7500,0,12,,,True
+,SPARKLING, Reserve Imperial ,Moet & Chandon,,BOTTLE,0,9500,0,1,,,True
+,SPARKLING, Ruinart Rose Brut,Maison Ruinart,,BOTTLE,0,15550,0,2,,,True
+,SPARKLING, Ruinart blanc de blanc brut,Maison Ruinart,,BOTTLE,0,14950,0,2,,,True
+,SPARKLING, Dom Perignon Vintage 2006,Moet & Chandon,,BOTTLE,2006,24000,0,1,,,True
+,SPARKLING, Perrier-Jouët : Grand Brut,Perrier-Jouët ,,BOTTLE,0,7800,0,1,,,True
+,SPARKLING, Ferrari Maximum Blanc de Blanc,Ferrari,,MAGNUM,2021,10800,0,1,,,True
+,SPARKLING, Der Blauwal extra brut,Cesconi,,MAGNUM,2022,19950,0,1,,,True
+,SPARKLING, Cuvee Royal Brut,Marchesi Antinori,,MAGNUM,2022,12400,0,1,,,True
+,SPARKLING, Reserve Imperial Brut,Moet & Chandon,,MAGNUM,0,19950,0,1,,,True
+,SPARKLING, Athesis Brut Rose Millesimato 2018,Kettmaier,,MAGNUM,2018,9900,0,1,,,True
+,SPARKLING, Le Marchesine Brut Rose Millesimato 2017,Le Marchesine,,MAGNUM,2017,15550,0,1,,,True
+,,Weissburgunder Setaria,Weingut Seppi,,BOTTLE,2022,3000,0,3,,,True
+,,Weissburgunder Verus,Ritterhof,,BOTTLE,2021,3400,0,3,,,True
+,,Weissburgunder Sirmian,Nals & Magreid,,BOTTLE,2020,4400,0,4,,,True
+,,Weissburgunder Vom Berg,Weingut Rohegger,,BOTTLE,2023,4300,0,12,,,True
+,, Pinot Grigio,Castelfelder,,BOTTLE,2023,3100,0,3,,,True
+,,Pinot Grigio Punggl,Nals Magreid,,BOTTLE,2022,3550,0,8,,,True
+,,Pinot Grigio Castel Ringberg,Elena Walch,,BOTTLE,2021,4400,0,4,,,True
+,,Pinot Grigio Unterebner,Tramin,,BOTTLE,2022,4950,0,1,,,True
+,,Chardonnay Cardellino,Elena Walch,,BOTTLE,2023,3900,0,6,,,True
+,,Chardonnay Lafoa,Schreckbichl,,BOTTLE,2022,4650,0,3,,,True
+,,Chardonnay St. Valentin,St. Michael,,BOTTLE,2022,4800,0,3,,,True
+,,Chardonnay Castel Rinberg ,Elena Walch,,BOTTLE,2019,7700,0,6,,,True
+,,Chardonnay Linticlarus Chardonnay Riserva ,Tiefenbrunner,,BOTTLE,2022,6300,0,12,,,True
+,,Sauvignon Preyda Bio,Seppi Werner,,BOTTLE,2020,3600,0,9,,,True
+,,Sauvignon Mantele,Nals & Nagreid,,BOTTLE,2022,4150,0,5,,,True
+,,Sauvignon Quintessenz,Kellerei Kaltern,,BOTTLE,2019,4350,0,4,,,True
+,,Sauvignon Lafoa,Schreckbichl,,BOTTLE,2022,4750,0,11,,,True
+,,Sauvignon Grand Lafoa,Schreckbichl,,BOTTLE,2021,12000,0,2,,,True
+,,Sauvignon Indrä,Girlan,,BOTTLE,2021,3200,0,8,,,True
+,,Sauvignon vom Kalk,Rohegger,,BOTTLE,2022,4300,0,12,,,True
+,,Gewürztraminer Pancium Bio,Seppi Werner,,BOTTLE,2021,3700,0,10,,,True
+,,Gewürztraminer Aristos,Eisacktal,,BOTTLE,2021,3800,0,5,,,True
+,,Gewürztraminer Nussbaumer ,Tramin,,BOTTLE,2021,5150,0,10,,,True
+,,Gewürztraminer Nussbaumer ,Tramin,,BOTTLE,2020,5150,0,1,,,True
+,,Riesling Bergspiel,St. Pauls,,BOTTLE,2023,3000,0,2,,,True
+,,Riesling Fallwind,St. Michael,,BOTTLE,2023,3200,0,3,,,True
+,,Riesling Aristos,Eisacktal,,BOTTLE,2022,3800,0,6,,,True
+,,Riesling Kaiton,Kuenhof,,BOTTLE,2022,3900,0,5,,,True
+,, Müller-Thurgau,Strasserhof,,BOTTLE,2021,2800,0,2,,,True
+,, Sylvaner,Pacherhof,,BOTTLE,2022,3700,0,3,,,True
+,, Kerner,Pacherhofer,,BOTTLE,2023,3700,0,5,,,True
+,," Paul (WB, CH, S)",St. Pauls,,BOTTLE,2023,2400,0,6,,,True
+,," Lenz (WB, GM, MT)",Ritterhof,,BOTTLE,2023,2500,0,7,,,True
+,, Reserve della contessa bio,Manincor,,BOTTLE,2023,3700,0,6,,,True
+,," Stoan (WB, CH S, GT)",Tramin,,BOTTLE,2021,4900,0,2,,,True
+,," Stoan (WB, CH S, GT)",Tramin,,BOTTLE,2022,4900,0,6,,,True
+,, Elisa,Castel Salegg,,BOTTLE,2021,2600,0,8,,,True
+,, Lugana,Ca de frati,,BOTTLE,2023,3600,0,7,,,True
+,, Lacus,Cavaliere del Garda,,BOTTLE,2024,3800,0,2,,,True
+,, Vintage Tunina ,Jermann ,,BOTTLE,2008,6500,0,7,,,True
+,, Macon Milly Lomortine,Les Héritiers du Comte Lafon,,BOTTLE,2023,5300,0,12,,,True
+,, Lagrein Kretzer,St. Pauls,,BOTTLE,2023,2600,0,7,,,True
+,, Roseppi,Seppi,,BOTTLE,2023,3400,0,7,,,True
+,, Rosa die Frati,Ca de frati,,BOTTLE,2022,3300,0,5,,,True
+,, Provence,Triennes ,,BOTTLE,2024,3200,0,12,,,True
+,, Sauvignon Indra,Girlan,,MAGNUM,2017,5500,0,1,,,True
+,, Sauvignon Lafoa,Schreckbichl,,MAGNUM,2017,9000,0,2,,,True
+,, Gewürztramine Fuchslahn,Lentsch,,MAGNUM,2015,6500,0,1,,,True
+,, Terlaner Classico,Terlan,,MAGNUM,2016,5500,0,1,,,True
+,, La Rose de Manincor bio,Manincor,,MAGNUM,2017,8300,0,1,,,True
+,, Novo Domus,Terlan,,JEROBOAM,2014,18000,0,1,,,True
+,RED,Vernatsch Waldgries,Waldgries,,BOTTLE,2023,3200,0,3,,,True
+,RED,Vernatsch Pelagium,Seppi Werner,,BOTTLE,2022,2900,0,7,,,True
+,RED,Vernatsch Keil Bio ,Manincor,,BOTTLE,2022,3600,0,4,,,True
+,RED,Pinot Nero Luzia,St. Pauls,,BOTTLE,2023,3100,0,46,,,True
+,RED,Pinot Nero St. Daniel,Schreckbichl,,BOTTLE,2022,3700,0,6,,,True
+,RED,Pinot Nero Bachgart,Lentsch,,BOTTLE,2020,3850,0,11,,,True
+,RED,Pinot Nero Trattman Riserva,Girlan,,BOTTLE,2020,6200,0,5,,,True
+,RED,Pinot Nero Mason Mason,Manincor,,BOTTLE,2015,8600,0,18,,,True
+,RED,Pinot Nero Schwarze Madonna,Tenuta Klosterhof,,BOTTLE,2018,6500,0,4,,,True
+,RED,Merlot Huberfeld,St. Pauls,,BOTTLE,2022,3100,0,6,,,True
+,RED,Merlot Levad,Nals&Margreid,,BOTTLE,2021,3750,0,6,,,True
+,RED,Merlot Siebeneich,Terlan,,BOTTLE,2021,4100,0,6,,,True
+,RED,Merlot Riserva,Salegg,,BOTTLE,2020,4400,0,10,,,True
+,RED,Lagrein Latus,Ritterhof,,BOTTLE,2022,3850,0,9,,,True
+,RED,Lagrein Waldgries,Waldgries,,BOTTLE,2021,4550,0,6,,,True
+,RED,Lagrein Urban,Tramin,,BOTTLE,2020,5300,0,6,,,True
+,RED,Lagrein Abtei Muri,Muri Gries,,BOTTLE,2021,6000,0,9,,,True
+,RED,Lagrein Mirell,Waldgries,,BOTTLE,2019,7100,0,15,,,True
+,RED,Lagrein Mirell,Waldgries,,BOTTLE,2021,6700,0,6,,,True
+,RED,Lagrein Porphyr,Terlan,,BOTTLE,2021,7800,0,3,,,True
+,RED,Lagrein Roblinus,Waldgries,,BOTTLE,2015,13000,0,2,,,True
+,RED,Lagrein Barbagol,Laimburg,,BOTTLE,2018,4900,0,9,,,True
+,RED,Cabernet Riserva Turmfeld,St. Pauls,,BOTTLE,2022,3400,0,2,,,True
+,RED, Istrice Barrique,Elena Walch,,BOTTLE,2022,4500,0,6,,,True
+,RED, Römiberg,Alois Lageder,,BOTTLE,2013,7350,0,7,,,True
+,RED, Franc Lerian ,Seppi,,BOTTLE,2019,4400,0,3,,,True
+,RED, Perlhofer,Ritterhof,,BOTTLE,2022,3200,0,11,,,True
+,RED, Laurin,Girlan,,BOTTLE,2022,3300,0,6,,,True
+,RED, Reserve del conte,Manincor,,BOTTLE,2022,3700,0,13,,,True
+,RED, Arzio Riserva,Baron di Paoli,,BOTTLE,2019,6000,0,4,,,True
+,RED, Arzio Riserva,Baron di Paoli,,BOTTLE,2020,5600,0,6,,,True
+,RED, Mauritius,Bozen,,BOTTLE,2021,5950,0,20,,,True
+,RED, Barolo,Massolino,,BOTTLE,2020,5400,0,3,,,True
+,RED, Morellino di scansano,Valdifalco,,BOTTLE,2021,3000,0,7,,,True
+,RED, Tignanello,Marchesi,,BOTTLE,2012,20000,0,2,,,True
+,RED, Tignanello,Marchesi,,BOTTLE,2010,20000,0,1,,,True
+,RED, Tignanello,Marchesi,,BOTTLE,2020,16000,0,6,,,True
+,RED, Lagröll,St. Pauls,,MAGNUM,2018,9000,0,1,,,True
+,RED, Maison de Maison,Manicor,,MAGNUM,2013,17000,0,2,,,True
+,RED, Pinot Nero Riserva Passion,St. Pauls,,MAGNUM,2013,10000,0,2,,,True
+,RED, Merlot Riserva Passion,St. Pauls,,MAGNUM,2011,15000,0,1,,,True
+,RED, Bolgheri rosso ,Dario di vaira,,MAGNUM,2022,15000,0,2,,,True

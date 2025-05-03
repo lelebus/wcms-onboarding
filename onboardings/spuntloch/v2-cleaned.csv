@@ -1,0 +1,220 @@
+external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantity,storage_area,internal_notes,visible
+1,,Pinot bianco DeSilva DOC ´,,,BOTTLE,2023,2900,0,20,,,True
+2,,"SAUVIGNON BLANC De Silva, Peter Sölva ´",,,BOTTLE,2022,3100,0,20,,,True
+3,,"PINOT GRIGIO De Silva, Peter Sölva ´",,,BOTTLE,2023,2900,0,20,,,True
+4,,"GEWÜRZTRAMINER De Silva, Peter Sölva ´",,,BOTTLE,2023,3100,0,20,,,True
+5,,"Il Secondo, cuvèe bianco WB-CH-SV ",,,BOTTLE,0,3500,0,20,,,True
+6,,"AMISTAR, cuvée bianco CH-SV, Peter Sölva ´",,,MAGNUM,2022,12500,0,20,,,True
+7,,"AMISTAR, cuvée bianco CH-SV, Peter Sölva ´",,,BOTTLE,2022,6500,0,20,,,True
+8,,"De Silva Perrosé, Peter Sölva ´",,,BOTTLE,2022,2900,0,20,,,True
+9,,"Vernatsch Kalterersee Peterleiten, Peter Sölva ´",,,BOTTLE,2022,2800,0,20,,,True
+10,,"Pinot Nero  De Silva,Peter Sölva `",,,BOTTLE,2022,3800,0,20,,,True
+11,,Pinot Nero  De Silva Private Reserve ,,,BOTTLE,2021,5500,0,20,,,True
+12,,"LAGREIN De Silva, Peter Sölva ´",,,MAGNUM,2022,6500,0,20,,,True
+13,,"LAGREIN De Silva, Peter Sölva ´",,,BOTTLE,2022,3100,0,20,,,True
+14,,"Il Secondo, cuvèe rosso, ME-CF-LA, Peter Sölva ´",,,MAGNUM,2022,7000,0,20,,,True
+15,,"Il Secondo, cuvèe rosso, ME-CF-LA, Peter Sölva ´",,,BOTTLE,2022,3500,0,20,,,True
+16,,"AMISTAR, cuvèe rosso, CS-ME-LA, Peter Sölva ´",,,MAGNUM,2022,12500,0,20,,,True
+17,,"AMISTAR, cuvèe rosso, CS-ME-LA, Peter Sölva ´",,,BOTTLE,2022,6500,0,20,,,True
+18,,"AMISTAR Edizione, CS, Peter Sölva ´",,,MAGNUM,2020,17000,0,20,,,True
+19,,"AMISTAR Edizione, CS, Peter Sölva ´",,,BOTTLE,2020,9000,0,20,,,True
+20,WHITE,"COLLECTION, Pinot Bianco St.Valentin `",,,BOTTLE,2009,8700,0,20,,,True
+21,WHITE,"VORBERG, Weissburgunder Ris., Kellerei Terlan `",,,BOTTLE,2017,7000,0,20,,,True
+22,WHITE,"KRISTALLBERG, Pinot Bianco, Weingut Elena Walch `",,,BOTTLE,2016,7000,0,20,,,True
+23,WHITE,"SIRMIAN, Pinot Bianco, Kellerei Nals/Magreid `",,,BOTTLE,2016,6000,0,20,,,True
+24,WHITE,"UNTEREBNER, Pinot Grigio, Kellerei Tramin `",,,BOTTLE,2015,5900,0,20,,,True
+25,WHITE,"UNTEREBNER, Pinot Grigio, Kellerei Tramin `",,,BOTTLE,2016,5500,0,20,,,True
+26,WHITE,VIGNA AU Chardonnay Ris. Kellerei Tiefenbrunner ,,,BOTTLE,2015,12000,0,20,,,True
+27,WHITE,"BARON SALVADORI, Chardonnay Ris., Kellerei Nals/Margeid ´",,,BOTTLE,2015,8500,0,20,,,True
+28,WHITE,"VIGNA Castel Ringberg, Chardonay Ris. Weingut Elena Walch `",,,BOTTLE,2020,11000,0,20,,,True
+29,WHITE,"LÖWENGANG, Chardonnay Ris. Weingut Alois Lageder `",,,BOTTLE,2020,11000,0,20,,,True
+30,WHITE,"LIEBENAICH, Sauvignon blanc, Kellerei Manincor BIO ´",,,BOTTLE,2021,11000,0,20,,,True
+31,WHITE,"RACHTL, Sauvignon blanc, Kellerei Tiefenbrunner ´",,,BOTTLE,2015,11500,0,20,,,True
+32,RED,"KRESSFELD Merlot Riserva, Weingut Kornell Florian Brigl `",,,BOTTLE,2018,9000,0,20,,,True
+33,RED,"DATUS Blauburgunder Riserva, Weingut Ritterhof `",,,BOTTLE,2018,14000,0,20,,,True
+34,RED,"BARTHENAU Blauburgunder Ris., Weingut Hofstätter `",,,BOTTLE,2008,13000,0,20,,,True
+35,RED,"BARTHENAU Blauburgunder Ris., Weingut Hofstätter `",,,BOTTLE,2009,12500,0,20,,,True
+36,RED,"BARTHENAU Blauburgunder Ris., Weingut Hofstätter `",,,BOTTLE,2010,12000,0,20,,,True
+37,RED,"BARTHENAU Blauburgunder Ris., Weingut Hofstätter `",,,BOTTLE,2013,10500,0,20,,,True
+38,RED,"Hausmannhof Riserva, Weingut Haderburg´",,,BOTTLE,2017,7500,0,20,,,True
+39,RED,"MANUS Lagrein Riserva, Weingut Ritterhof ´",,,BOTTLE,2015,8500,0,20,,,True
+40,RED,"TABER Lagrein Riserva, Kellerei Bozen `",,,BOTTLE,2017,7500,0,20,,,True
+41,RED,"TOREN Cabernet Souvignon, Ris. Kellerei Tiefenbrunner ",,,BOTTLE,2015,15000,0,20,,,True
+42,RED,"RAMUS Cabernet-Merlot Riserva, Weingut Ritterhof ´",,,BOTTLE,2014,7500,0,20,,,True
+43,RED,"PLANTIES Rot, Cabernet Cortis, Weingut St. Quirinus BIO´",,,BOTTLE,2018,6600,0,20,,,True
+44,,"Athesis Brut Rosé, Kellerei Kettmeir ´",,,MAGNUM,2021,8400,0,20,,,True
+45,,"Weissburgunder, LEOPOLDINE, Castel Sallegg ´",,,MAGNUM,2022,7000,0,20,,,True
+46,,"Chardonnay, Marei, Castel Sallegg ´",,,MAGNUM,2022,7500,0,20,,,True
+47,,"Kerner, Weingut Thomas Unterhofer, ´",,,MAGNUM,2022,6000,0,20,,,True
+48,,"Sauvignon blanc, Mirum, Weingut Thomas Unterhofer ´",,,MAGNUM,2022,6000,0,20,,,True
+49,,"Kalterer See, BISCHOFSLEITEN, Castel Sallegg ´",,,MAGNUM,2020,6300,0,20,,,True
+50,,Kalterer See Kunststück Kellerei Kaltern `,,,MAGNUM,2016,8000,0,20,,,True
+51,,Kalterer See Kunststück Kellerei Kaltern `,,,MAGNUM,2023,8500,0,20,,,True
+52,,"St. Magdalena, Artis, Weingut Thomas Unterhofer `",,,MAGNUM,2022,6000,0,20,,,True
+53,,"Blauburgunder, Ris. Schwarze Madonna Weingut Klosterhof `",,,MAGNUM,2018,12000,0,20,,,True
+54,,"Blauburgunder, Ris. Saltner Kellerei Kaltern `",,,MAGNUM,2021,7500,0,20,,,True
+55,,"Blauburgunder, Pigano Weingut Strobelhof `",,,MAGNUM,2021,8500,0,20,,,True
+56,,"Lagrein, Ris., Bos Taurus, Weingut Niklas ´",,,MAGNUM,2020,9000,0,20,,,True
+57,,"Lagrein, Morus Ris., H.Lentsch ´",,,MAGNUM,2015,12500,0,20,,,True
+58,,"Lagrein, Morus Ris., H.Lentsch ´",,,MAGNUM,2016,12000,0,20,,,True
+59,,"Lagrein, Morus Ris., H.Lentsch ´",,,MAGNUM,2017,11500,0,20,,,True
+60,,"Lagrein, Prestige, Ris. Kellerei Bozen ´",,,MAGNUM,2021,9600,0,20,,,True
+61,,"Merlot, NUSSBAUM Ris. Weingut Klosterhof ",,,MAGNUM,2018,11000,0,20,,,True
+62,,"Merlot, NUSSLEITEN Ris. Castel Sallegg ´",,,MAGNUM,2018,14500,0,20,,,True
+63,,"Merlot, NUSSLEITEN Ris. Castel Sallegg ´",,,MAGNUM,2019,13800,0,20,,,True
+64,,"Cabernet Sauv., Ris. Quintessenz, Kellerei Kaltern ´",,,MAGNUM,2019,10500,0,20,,,True
+65,,"Cabernet Sauv., Kunststück Ris., Kellerei Kaltern `",,,MAGNUM,2015,15000,0,20,,,True
+66,,"Cabernet Sauvignon, Ris. Castel Sallegg ´",,,MAGNUM,2020,12500,0,20,,,True
+67,,"Cabernet Sauv.-Merlot, Ris. Linticlarus, Kellerei Tiefenbrunner ´",,,MAGNUM,2021,13000,0,20,,,True
+68,,"Cabernet Sauv. -Merlot, Ris. Palestina, Weingut H.Lentsch `",,,MAGNUM,2016,13000,0,20,,,True
+69,,"Cabernet Sauv. -Merlot, Ris. Palestina, Weingut H.Lentsch `",,,MAGNUM,2017,12500,0,20,,,True
+70,,"Cabernet Sauv. -Merlot, Ris. Palestina, Weingut H.Lentsch `",,,MAGNUM,2018,12000,0,20,,,True
+71,,"Cabernet Sauv. -Merlot, Ris. Palestina, Weingut H.Lentsch `",,,MAGNUM,2020,11500,0,20,,,True
+72,,"Athesis Brut Rosé, Kellerei Kettmeir ´",,,BOTTLE,2021,4500,0,20,,,True
+73,,Von Braunbach Brut DOC ´,,,BOTTLE,2021,3700,0,20,,,True
+74,,CUVEE MARIANNA Sektkellerei Arunda Extra Brut`,,,BOTTLE,2020,5000,0,20,,,True
+75,,EXCELLOR Brut Rose Metodo Classico Sektkellerei Arunda,,,BOTTLE,0,4600,0,20,,,True
+76,WHITE,"PINOT BIANCO Salamander, Riserva Weingut Niklas`",,,BOTTLE,2020,3000,0,20,,,True
+77,WHITE,"PINOT BIANCO Strahler, Weingut Stroblhof ´",,,BOTTLE,2022,3000,0,20,,,True
+78,WHITE,"PINOT BIANCO Athesis, Kellerei Kettmeir ´",,,BOTTLE,2022,3700,0,20,,,True
+79,WHITE,"PINOT BIANCO Vorberg Riserva, Kellerei Terlan, ´",,,BOTTLE,2022,4800,0,20,,,True
+80,WHITE,"PINOT BIANCO St Valentin, Kellerei St. Michael´",,,BOTTLE,2021,4200,0,20,,,True
+81,WHITE,"CHARDONNAY Feld, Steflhof Georg Andergassen ´",,,BOTTLE,2023,2500,0,20,,,True
+82,WHITE,"CHARDONNAY Marei, Castel Sallegg ´",,,BOTTLE,2022,3700,0,20,,,True
+83,WHITE,"CHARDONNAY Lafoa´, Kellerei Schreckbichl ",,,BOTTLE,2021,4600,0,20,,,True
+84,WHITE,"CHARDONNAY BARON SALVADORI, Riserva Kellerei Nals-Margreid ´",,,BOTTLE,2021,4500,0,20,,,True
+85,WHITE,"SAUVIGNON BLANC Stern, Kellerei Kaltern ´",,,BOTTLE,2022,3000,0,20,,,True
+86,WHITE,"SAUVIGNON BLANC Vom Kalk, Stefan Rohregger ´",,,BOTTLE,2021,3900,0,20,,,True
+87,WHITE,"SAUVIGNON BLANC preyda, Weingut Seppi BIO ´",,,BOTTLE,2019,4000,0,20,,,True
+88,WHITE,"Moscato Giallo, Castel Sallegg ´",,,BOTTLE,2023,2800,0,20,,,True
+89,WHITE,"Goldmuskateller, Weingut Dominikus ",,,BOTTLE,0,2700,0,20,,,True
+90,WHITE,"Riesling Mitterberg, Weingut Andi Sölva ´",,,BOTTLE,2021,3300,0,20,,,True
+91,WHITE,"Kerner, Weingut Thomas Unterhofer, ´",,,BOTTLE,2023,3000,0,20,,,True
+92,WHITE,"Kerner, Weingut Strasserhof, ´",,,BOTTLE,2022,3100,0,20,,,True
+93,WHITE,"Kerner Praepositus, Stiftskellerei Neustift ´",,,BOTTLE,2022,3700,0,20,,,True
+94,WHITE,"GEWÜRZTRAMINER STEPHANIE, Weingut Nicolussi Leck ´",,,BOTTLE,2021,3300,0,20,,,True
+95,WHITE,"GEWÜRZTRAMINER Selida, Kellerei Tramin ´",,,BOTTLE,2022,2800,0,20,,,True
+96,WHITE,"GEWÜRZTRAMINER PANICUM, Weingut Seppi BIO ´",,,BOTTLE,2020,5200,0,20,,,True
+97,WHITE,"GEWÜRZTRAMINER KOLBENHOF, Gewürztraminer, Kellerei J. Hofstätter ´",,,BOTTLE,2020,6200,0,20,,,True
+98,WHITE,"Muller Thurgau Coste, Weingut Manuel Tadde, `",,,BOTTLE,2022,3600,0,20,,,True
+99,WHITE,Solaris INITIUM VINEVENTUM Weinmanufaktur Wallnöfner Stefan BIO `,,,BOTTLE,2021,5800,0,20,,,True
+100,WHITE,Solaris INITIUM VINEVENTUM Weinmanufaktur Wallnöfner Stefan BIO `,,,BOTTLE,2022,6400,0,20,,,True
+101,WHITE,"Planties weiss, AG-PR-JH, BIO, Weingut St. Quirinus ´",,,BOTTLE,2022,3100,0,20,,,True
+102,WHITE,Fruglau WB-PG-SV Weingut Romen `,,,BOTTLE,2022,3000,0,20,,,True
+103,WHITE,"AICHBERG WB-CH-SV, Weingut Kornell `",,,BOTTLE,2020,5000,0,20,,,True
+104,,"LUIS, Lagrein Rose` Mitterberg, Luis Oberrauch ´",,,BOTTLE,2021,3500,0,20,,,True
+105,,"ROSE`, Weingut Unterhofer Thomas `",,,BOTTLE,2023,2500,0,20,,,True
+106,RED,"KALTERER SEE Erbe & Auftrag, Weingut Andi Sölva ´",,,BOTTLE,2020,4800,0,20,,,True
+107,RED,"KALTERER SEE Plantaditsch, Weingut Klosterhof ´",,,BOTTLE,2020,2900,0,20,,,True
+108,RED,"KALTERER SEE Bischofsleiten, Castel Sallegg ´",,,BOTTLE,2021,3100,0,20,,,True
+109,RED,"KALTERER SEE Quintessenz, Kellerei Kaltern ´",,,BOTTLE,2022,3100,0,20,,,True
+110,RED,"KALTERER SEE Alexander, Weingut Nicolussi- Leck ",,,BOTTLE,2022,2900,0,20,,,True
+111,RED,"KALTERER SEE Olte Reben, Thomas Pichler ´",,,BOTTLE,2021,2900,0,20,,,True
+112,RED,"KALTERER SEE Dominikus, Weingut Dominikus ",,,BOTTLE,2024,2900,0,20,,,True
+113,RED,"Magdalener Artis, Weingut Thomas Unterhofer ´",,,BOTTLE,2021,3000,0,20,,,True
+114,RED,"Magdalener Isarcus, Griesbauerhof ´",,,BOTTLE,2021,3600,0,20,,,True
+115,RED,"PINOT NOIR Pigeno, Weingut Stroblhof ´",,,BOTTLE,2021,3900,0,20,,,True
+116,RED,"PINOT NOIR Schwarze Madonna, Weingut Klosterhof ´",,,BOTTLE,2020,4500,0,20,,,True
+117,RED,"PINOT NOIR Turmhof, Kellerei Tiefenbrunner ´",,,BOTTLE,2022,3300,0,20,,,True
+118,RED,"Puntay, Pinot Nero Riserva, Kellerei Kaltern BIO´",,,BOTTLE,2022,3400,0,20,,,True
+119,RED,"PINOT NOIR MAZON, Weingut Castelfeder ´",,,BOTTLE,2022,4100,0,20,,,True
+120,RED,"PINOT NOIR LACUNA, Weingut Michael Puff ´",,,BOTTLE,2021,5500,0,20,,,True
+121,RED,"PINOT NOIR VOM LEHM, Riserva, Stefan Rohregger ´",,,BOTTLE,2021,6300,0,20,,,True
+122,RED,"PINOT NOIR BURGUM NOVUM, Riserva, Weingut Castelfeder `",,,BOTTLE,2019,5900,0,20,,,True
+123,RED,"PINOT NOIR MAZON, Riserva, Kellerei J. Hofstätter `",,,BOTTLE,2020,6300,0,20,,,True
+124,RED,"PINOT NOIR St. Valentin, Riserva, Kellerei St. Michael ´",,,BOTTLE,2021,6100,0,20,,,True
+125,RED,"PINOT NOIR LEHMONT, Riserva, Kellerei St. Pauls `",,,BOTTLE,2020,6000,0,20,,,True
+126,RED,Cabernet ISTRICE CB Riserva Weingut Elena Walch ,,,BOTTLE,2021,4500,0,20,,,True
+127,RED,"Cabernet QUINTESSENZ, CS Riserva Kellerei Kaltern ",,,BOTTLE,2021,5600,0,20,,,True
+128,RED,Cabernet BURGUM NOVUM CB Riserva Weingut Castelfeder ,,,BOTTLE,2020,5500,0,20,,,True
+129,RED,"Cabernet LERIAN CF, Weingut Seppi BIO´",,,BOTTLE,2019,4500,0,20,,,True
+130,RED,"Cabernet PODALIRIUS, CF, Weingut Morandell ´",,,BOTTLE,2020,4300,0,20,,,True
+131,RED,"Cabernet Franc, Weingut Nicolussi Leck `",,,BOTTLE,2020,5600,0,20,,,True
+132,RED,Cabernet Sauvignon Castel Salegg Riserva ,,,BOTTLE,2021,4600,0,20,,,True
+133,RED,"LAGREIN LATUS, Weingut Ritterhof ´",,,BOTTLE,2021,3400,0,20,,,True
+134,RED,"LAGREIN Bellutti Riserva Weinberghof Tramin, ´",,,BOTTLE,2020,4300,0,20,,,True
+135,RED,"LAGREIN SEPP, Weingut Nicolussi Leck´",,,BOTTLE,2021,3400,0,20,,,True
+136,RED,"LAGREIN LUIS, Mitterberg, Weingut Luis Oberrauch ´",,,BOTTLE,2021,4300,0,20,,,True
+137,RED,"LAGREIN Calldiv, Von Braunbach ´",,,BOTTLE,2020,3100,0,20,,,True
+138,RED,"LAGREIN Bos Taurus, Riserva,Weingut Niklas ´",,,BOTTLE,2021,3800,0,20,,,True
+139,RED,"LAGREIN PRESTIGE, Kellerei Bozen ´",,,BOTTLE,2021,4700,0,20,,,True
+140,RED,"LAGREIN Carano,ARZENHOF, Riserva, Baron di Pauli ´",,,BOTTLE,2020,4900,0,20,,,True
+141,RED,"MERLOT Roan, Steflhof, Weingut Georg Andergassen ´",,,BOTTLE,2023,2900,0,20,,,True
+142,RED,"MERLOT Siebeneich, Riserva Kellerei Terlan ´",,,BOTTLE,2021,4000,0,20,,,True
+143,RED,"MERLOT Castel Sallegg, Riserva, ´",,,BOTTLE,2020,4000,0,20,,,True
+144,RED,"MERLOT NUSSBAUM, Riserva Weingut Klosterhof `",,,BOTTLE,2020,4600,0,20,,,True
+145,RED,MERLOT KASTELAZ Riserva Weingut Elena Walch `,,,BOTTLE,2019,6500,0,20,,,True
+146,RED,"MERLOT NUSSLEITEN, Riserva, Castel Sallegg ´",,,BOTTLE,2020,7000,0,20,,,True
+147,RED,"MERLOT BRENNTAL Riserva, Kellerei Kurtatsch ´",,,BOTTLE,2020,7000,0,20,,,True
+148,RED,"PALESTINA CS-ME Riserva, Weingut H.Lentsch ´",,,BOTTLE,2020,5500,0,20,,,True
+149,RED,"LINTICLARUS, CS-ME Riserva Kellerei Tiefenbrunner ´",,,BOTTLE,2021,6000,0,20,,,True
+150,RED,"ANTICUS, CS-ME, Riserva, Kellerei Nals-Margreid ",,,BOTTLE,2021,6100,0,20,,,True
+151,RED,"KERMESSE Grand Cuvee`ME-LA-CS-PV-SY, Weingut Elena Walch `",,,BOTTLE,2019,8500,0,20,,,True
+152,RED,"Il Conte, LA-ME-CS, Weingut Manincor BIO ´",,,BOTTLE,2021,3700,0,20,,,True
+153,RED,"Soma, ME-CS, Kellerei Kurtatsch ´",,,BOTTLE,2021,4000,0,20,,,True
+154,RED,"PLANTIES Rot, Cabernet Cortis, St. Quirinus BIO´",,,BOTTLE,2018,7000,0,20,,,True
+155,RED,"FELDHERR, CS-CF-CB, Weingut Lieselehof BIO ´",,,BOTTLE,2019,5700,0,20,,,True
+156,RED,"COL DE RÉY, LA-PV-TA, Landesweingut Laimburg ´",,,BOTTLE,2017,5800,0,20,,,True
+157,RED,"LOAM, CS-ME, Riserva, Kellerei Tramin ´",,,BOTTLE,2021,6800,0,20,,,True
+158,RED,"ARZIO, ME-CS, Riserva, Baron di Pauli ´",,,BOTTLE,2020,6000,0,20,,,True
+159,RED,"VALBION, ME-CF,Weingut  Stroblhof ´",,,BOTTLE,2020,5200,0,20,,,True
+160,RED,"MAURITIUS, LA-ME, Kellerei Bozen ´",,,BOTTLE,2012,7500,0,20,,,True
+161,RED,"MAURITIUS, LA-ME, Kellerei Bozen `",,,BOTTLE,2013,7000,0,20,,,True
+162,RED,"MAURITIUS, LA-ME, Kellerei Bozen `",,,BOTTLE,2020,5500,0,20,,,True
+163,RED,"CASSIANO, ME-CF-TE, Weingut Manincor BIO´",,,BOTTLE,2021,6500,0,20,,,True
+164,RED,Vigna Windegg ME-CS Kellerei Josef Brigl `,,,BOTTLE,2019,3800,0,20,,,True
+165,DESSERT,"Quintessenz Passito, Kellerei Kaltern, 0,375l `",,,HALF_BOTTLE,2019,6100,0,20,,,True
+166,DESSERT,"Moscato Giallo, Baronesse, Kellerei Nals-Margeid  0,375l `",,,HALF_BOTTLE,2021,5300,0,20,,,True
+167,DESSERT,"Rosenmuskateller, Ansitz Waldgries, 0,375l `",,,HALF_BOTTLE,2021,5000,0,20,,,True
+168,DESSERT,"Feldmarschall, Müller-Thurgau, Kellerei Tiefenbrunner, 0,5l `",,,HALF_LITER,2016,12000,0,20,,,True
+169,WHITE,Grüner Veltliner Kamptal Reserve trocken BRANDL Zöbing LAMM 1 `,,,BOTTLE,2019,4200,0,20,,,True
+170,WHITE,Riesling Kamptal Reserve trocken BRANDL Zöbing KOGELBERG 1 `,,,BOTTLE,2020,5000,0,20,,,True
+171,,"Franciacorta DOCG Riserva ""EL SOC L E BU"" Le CantoriE ´",,,BOTTLE,2015,7800,0,20,,,True
+172,,"Franciacorta, DOCG Brut Armonia, Le CantoriE ´",,,BOTTLE,2020,9900,0,20,,,True
+173,,"Franciacorta DOCG Brut Armonia, Le CantoriE ´",,,BOTTLE,2020,4800,0,20,,,True
+174,,"Franciacorta DOCG Rosé, Le CantoriE ´",,,BOTTLE,2019,5200,0,20,,,True
+175,,"Toblino Vent, Extra Brut, Trento DOC ´",,,BOTTLE,2020,3500,0,20,,,True
+176,,"Praal, Pinot Bianco Kellerei/Cantina Toblino `",,,BOTTLE,2020,3800,0,20,,,True
+177,,"Prosecco D.O.C. Treviso Extra Dry, Ciodet ""Sàntol"" ´",,,BOTTLE,2023,2600,0,20,,,True
+178,WHITE,"Lugana DOC Il Gruccione, Nunzio Ghiraldi ´",,,BOTTLE,2023,2600,0,20,,,True
+179,RED,"AMARONE Riserva Musella, Valpolicella, Veneto BIO ´",,,BOTTLE,2016,7000,0,20,,,True
+180,RED,"MONTEVERRO, Cuvee Toscana CS-CF-ME-PV, `",,,BOTTLE,2019,15000,0,20,,,True
+181,RED,CHIANTI Castello di Brolio Gan Selezione `,,,BOTTLE,2010,9500,0,20,,,True
+182,RED,CHIANTI Castello di Brolio Gan Selezione `,,,BOTTLE,2015,8500,0,20,,,True
+183,RED,MERLOT CASALFERRO Castello di Brolio Toscana `,,,BOTTLE,2016,7500,0,20,,,True
+184,RED,MERLOT CASALFERRO Castello di Brolio Toscana `,,,BOTTLE,2019,6800,0,20,,,True
+185,RED,"Rosso di Toscana in Anfora, CS-ME, Fatt. di Poggiopiano BIO ´",,,BOTTLE,2017,3900,0,20,,,True
+186,RED,"Terra di Monteverro Toscana, CS-CF-ME-PV, `",,,BOTTLE,2018,8500,0,20,,,True
+187,RED,"Terra di Monteverro Toscana, CS-CF-ME-PV, `",,,BOTTLE,2019,8000,0,20,,,True
+188,RED,CAIAROSSA CF-M-SY-CS-PV-SG- Toscana ,,,BOTTLE,2019,7000,0,20,,,True
+189,RED,"Chianti DOCG Riserva, Fattoria di Poggiopiano, Toscana, BIO ´",,,BOTTLE,2018,3300,0,20,,,True
+190,RED,"BAROLO Gramolere (Cru Monforte), Manzone Giovanni, Piemonte `",,,BOTTLE,2015,8000,0,20,,,True
+191,RED,"BAROLO Gramolere (Cru Monforte), Manzone Giovanni, Piemonte `",,,BOTTLE,2016,7500,0,20,,,True
+192,RED,"BAROLO Gramolere  (Cru Lage Monforte), Manzone `",,,MAGNUM,2013,16000,0,20,,,True
+193,RED,"BAROLO Gramolere  (Cru Lage Monforte), Manzone `",,,MAGNUM,2016,13500,0,20,,,True
+194,RED,"BARBERA D`ALBA “La Marchesa”, Manzone Giovanni, Piemonte ´",,,BOTTLE,2019,3600,0,20,,,True
+195,RED,"Nebbiolo Il Crutina, Manzone Giovanni, Piemonte ´",,,BOTTLE,2019,3000,0,20,,,True
+196,RED,"Nabucco Vino IGT Emilia Rosso BA-ME, Monte delle Vigne ´",,,BOTTLE,2018,5500,0,20,,,True
+197,WHITE,Champagne Brut AOC Royale Réserve Philipponnat ´,,,BOTTLE,2018,8000,0,20,,,True
+198,WHITE,"Champagne Monmarthe, Extra brut, Coup de Coeur ´",,,BOTTLE,2017,7000,0,20,,,True
+199,WHITE,"Bourgone Blanc Cote d’Or, Domaine Michel Mallard ´",,,BOTTLE,2022,5500,0,20,,,True
+200,RED,"Cote De Nuits-Villages Le Fourmeau, Dom. Michel Mallard ´",,,BOTTLE,2021,6900,0,20,,,True
+201,RED,Pommard Appell. Jan Marc Bouley ´,,,BOTTLE,2021,13600,0,20,,,True
+202,RED,Geverey Chambertin 1er Cru Domaine Gallois ´,,,BOTTLE,2019,15500,0,20,,,True
+203,RED,Chateau Corix de Labrie GRAN CRU Saint Emillion ´,,,BOTTLE,2020,16700,0,20,,,True
+204,RED,Chateau Palmer ALTER EGO Appellation Margaux ´,,,BOTTLE,2020,16100,0,20,,,True
+205,RED,Tempranillo AALTO RIBERA DEL DUERO ´,,,BOTTLE,2021,7700,0,20,,,True
+206,RED,EL Jardin de La Emperatriz – Hermanos WST ´,,,BOTTLE,2017,3300,0,20,,,True
+207,WHITE,"Weissburgunder Reserve SALWEY, Oberrotweiler ",,,BOTTLE,2020,3900,0,20,,,True
+208,WHITE,"SALWEY, Weissburgunder Reserve Oberrotweiler GG Steingubenberg `",,,BOTTLE,2019,6000,0,20,,,True
+209,WHITE,"Riesling trocken Rotschiefer, Sorentberg, Mosel (D/I) Kellerei Castelfeder ´",,,BOTTLE,2021,4000,0,20,,,True
+210,WHITE,Riesling trocken Gut Hermannsberg GG Altenbamberger Rotenberg ´,,,BOTTLE,2020,4200,0,20,,,True
+211,WHITE,Riesling trocken Schäfer Fröhlich Vulkangestein ´,,,BOTTLE,2019,4800,0,20,,,True
+212,WHITE,Riesling trocken Clemens Busch Marienburg GG ´,,,BOTTLE,2020,5800,0,20,,,True
+213,RED,Künstler GG Assmannshausen Höllenberg ´,,,BOTTLE,2018,9000,0,20,,,True
+214,RED,Adenauer No.1 `,,,BOTTLE,2018,7000,0,20,,,True
+215,RED,Adenauer Alte Ley GG ´,,,BOTTLE,2019,10500,0,20,,,True
+216,RED,SALWEY Oberrotweil `,,,BOTTLE,2019,5800,0,20,,,True
+217,RED,SALWEY Kirchberg GG `,,,BOTTLE,2016,12500,0,20,,,True
+218,RED,Benhard Huber Malterdinger Bienenberg GG ´,,,BOTTLE,2018,15400,0,20,,,True
+219,RED,KNIPSER Kirschgarten GG ,,,BOTTLE,2018,11000,0,20,,,True

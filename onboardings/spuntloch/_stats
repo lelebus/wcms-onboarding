@@ -1,0 +1,25 @@
+TIME Pre-Process: 25' 44'' - Gabriele
+
+TIME v1-to-v2: 23' - Gabriele
+
+TIME v3-selection: 24' - Tobias
+
+TIME v4-matches: 1h 40' - Tobias
+
+--- 
+
+Insertion:
+
+Total wines: 219
+
+Automatically matched: 137
+Manually matched: 59
+Duplicates: 4
+Total inserted: 192
+Saved to onboardings/spuntloch/v5-insert-draft.csv
+
+Forwarding:
+
+To forward from matching: 23
+To forward from v2-dropped.csv: 0
+To forward from duplicates: 4

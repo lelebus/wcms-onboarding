@@ -20,10 +20,7 @@ external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantit
 ,WHITE,Chardonnay Bio Löwengang,Lageder,,BOTTLE,2016,8600,2990,3,C1,,True,29.90 €
 ,WHITE,Chardonnay Bio Löwengang,Lageder,,BOTTLE,2015,8600,2990,2,C1,,True,29.90 €
 ,WHITE,Chardonnay  Beyond the Clouds,Elena Walch,,BOTTLE,2022,8800,3940,1,B4,,True,39.40 €
-,WHITE,Chardonnay Chablis V.V.,Thierry Laffay,,BOTTLE,2019,5800,2190,0,OUT,,True,21.90 €
-,WHITE,Chardonnay Chablis Cote de Ledhet 1er Cru,Daniel Dampt,,BOTTLE,2021,6800,2650,0,A5,,True,26.50 €
 ,WHITE,Chardonnay Bourgogne Blanc Cote d'Or,Jean Michael Gaunoux,,BOTTLE,2022,6800,2750,14,A4,,True,27.50 €
-,WHITE,Chenin Blanc Les Perrieres Saumur Blanc,Arnaud Lambert,,BOTTLE,2020,4400,1520,0,A5,,True,15.20 €
 ,WHITE,Cuvee Pet Nat vol 4,Fuchs und Hase,,BOTTLE,0,5200,1900,24,E1,,True,19.00 €
 ,WHITE,Cuvee Pet Nat vol 2,Fuchs und Hase,,BOTTLE,0,5200,1700,12,MAG,,True,17.00 €
 ,WHITE,"Cuvee GrünVel, Riesl, bacche rosse Kalkspitz Pet Nat Bio",Christoph Hoch,,BOTTLE,0,4200,1350,3,D2,,True,13.50 €
@@ -53,15 +50,11 @@ external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantit
 ,WHITE,Gewürztraminer Castelfeder,Von Lehm,,BOTTLE,2023,3800,1250,35,MAG,,True,12.50 €
 ,WHITE,Gewürztraminer Mitterberg IGT/Doc,In der Eben ,,BOTTLE,2021,4800,1660,18,MAG,,True,16.60 €
 ,WHITE,Gewürztraminer Emmeramm,Gut Oggau,,BOTTLE,2023,9200,3900,5,B3,,True,39.00 €
-,WHITE,Gewürztraminer Praesulis,Gumpfhof,,BOTTLE,2022,4200,1380,0,MAG,,True,13.80 €
-,WHITE,Grüner Veltliner Kollmütz Terrassen,Rudi Pichler,,BOTTLE,2021,7400,3090,0,A2,,True,30.90 €
-,WHITE,Kerner Gall,Griesser,,BOTTLE,2023,3900,1270,0,MAG,,True,12.70 €
 ,WHITE,Kerner Kontur ,Rielingerhof,,BOTTLE,2021,6200,2500,8,B1,,True,25.00 €
 ,WHITE,Müller Thurgau Thur XVI,Alois Lageder,,BOTTLE,2016,4800,1500,2,,,True,15.00 €
 ,WHITE,Pigato/Vermentino Crescendo,Tenuta Selvadolce,,BOTTLE,2022,5800,2100,6,A2,,True,21.00 €
 ,WHITE,Pinot Grigio Fuoripista,Foradori,,BOTTLE,2022,5100,1900,20,MAG,,True,19.00 €
 ,WHITE,Pinot Grigio Sivi,Radikon,,BOTTLE,2022,5600,1920,10,C4,,True,19.20 €
-,WHITE,Pinot Grigio Pinot Grigio,Lageder,,BOTTLE,2023,3200,944,0,MAG,,True,9.45 €
 ,WHITE,Ribolla Gialla Rebula Blu,Nando,,BOTTLE,2021,4100,1243,10,D2,,True,12.43 €
 ,WHITE,Ribolla Gialla Gravner,Gravner,,BOTTLE,2015,11200,5000,6,D2,,True,50.00 €
 ,WHITE,Ribolla Gialla Damijan,Damijan Podversic,,BOTTLE,2018,6400,2500,5,D1,,True,25.00 €
@@ -82,7 +75,6 @@ external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantit
 ,WHITE,Sauvignon 18-19-20 Pulsar,Roberto Ferrari,18-19-20,BOTTLE,0,7200,2850,3,B5,,True,28.50 €
 ,WHITE,Sauvignon LUI XX,A. Lageder,,BOTTLE,2020,4800,1500,2,,,True,15.00 €
 ,WHITE,Sauvignon Pouilly Fumé En Travertin,D. Henri Bourgeois,,BOTTLE,2022,5200,1814,6,A5,,True,18.15 €
-,WHITE,Sauvignon DOC,Wassererhof,,BOTTLE,2021,3800,1180,0,MAG,,True,11.80 €
 ,WHITE,Sauvignon Blanc Sancerre Blanc Le Pierrier,Thomas & Fills,,BOTTLE,2022,5200,1980,1,A4,,True,19.80 €
 ,WHITE,Timorasso Bianco frizz Mec L'è?,Nebraie,,BOTTLE,2019,3800,1300,15,E1,,True,13.00 €
 ,WHITE,Verdicchio Campo delle Oche,Fattoria San Lorenzo,,BOTTLE,2020,4300,1460,1,B1,,True,14.60 €
@@ -115,7 +107,6 @@ external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantit
 ,,Spum Lambrusco  Ancestrale,Bellei,,BOTTLE,0,2900,900,14,,,True,9.00 €
 ,,Spumante MUS XXIII,A. Lageder,,BOTTLE,2023,4800,1500,2,,,True,15.00 €
 ,,Spumante Brut Rosé,Quirinus,,BOTTLE,0,5100,1889,20,,,True,18.90 €
-,,Spumante Trento Doc Blauwal,Cesconi,,BOTTLE,0,4600,1590,0,,,True,15.90 €
 ,,Spumante Rose Sur Lies,Lispida H,,BOTTLE,2017,4400,1595,2,,,True,15.95 €
 ,,Spumante Phineas Arunda,J. Reiterer,,BOTTLE,0,10800,5000,8,,,True,50.00 €
 ,,Spumante Brut Arunda,J. Reiterer,,BOTTLE,0,5200,1880,60,,,True,18.80 €
@@ -142,7 +133,6 @@ external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantit
 ,RED,Cabernet Franc Chinon,Les Athletes du vin,,BOTTLE,2021,4200,1030,18,MAG,,True,10.30 €
 ,RED,Cab. Franc e Cab Sauv Poggio alle Nane,Antinori Le Mortelle,,BOTTLE,2021,8800,3900,9,,,True,39.00 €
 ,RED,Cabernet Merlot Ris Arzio,Baron di Pauli,,BOTTLE,2020,6800,2500,6,F2,,True,25.00 €
-,RED,Cabernet Merlot Aufhof,Baron Widman,,BOTTLE,2022,6800,2550,0,,,True,25.50 €
 ,RED,Cabernet Merlot Staffelfeld ROT,Baron Widman,,BOTTLE,2021,4600,1700,30,MAG,,True,17.00 €
 ,RED,Cabernet Merlot Curtis,K. Kurtatsch,,BOTTLE,2022,3200,930,15,MAG,,True,9.30 €
 ,RED,Cabernet Sauvignon Campaner,K. Kaltern,,BOTTLE,2020,3600,1150,6,MAG,,True,11.50 €
@@ -157,7 +147,6 @@ external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantit
 ,RED,"Cuvee Corvina, Corvinone, Rondinella, Molinara Oseleta Valpolicella Ripasso",Rubinelli Vajol,,BOTTLE,2021,5300,1680,6,MAG,,True,16.80 €
 ,RED,"Cuvee Corvina, Corvinone, Rondinella, Molinara Oseleta Valpolicella Ripasso",Rubinelli Vajol,,BOTTLE,2022,5300,1390,18,MAG,,True,13.90 €
 ,RED,Cuvee Skythos,Dolomytos,,BOTTLE,2014,6800,2400,5,F2,,True,24.00 €
-,RED,Cuvee Margaux AOC,Chateau Brane Cantenac,,BOTTLE,2018,16400,7850,0,,,True,78.50 €
 ,RED,Cuvee St. Julien AOC,Chateau Leoville Barton,,BOTTLE,2018,19200,9750,5,J4,,True,97.50 €
 ,RED,Cuvee Reif ,Unterganzner,,BOTTLE,2022,9800,3690,18,G3,,True,36.90 €
 ,RED,Cuvee Rot Bio,Oggau,,BOTTLE,2016,7200,2870,2,,,True,28.70 €
@@ -193,7 +182,6 @@ external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantit
 ,RED,Merlot Alto Adige DOC,Lentsch,,BOTTLE,2019,4200,1290,6,MAG,,True,12.90 €
 ,RED,Merlot Cabernet Franc Altrovino,Costa Toscana,,BOTTLE,2020,5800,2240,16,G1,,True,22.40 €
 ,RED,Merlot Cabernet Franc Altrovino,Costa Toscana,,BOTTLE,2018,5800,2150,1,G1,,True,21.50 €
-,RED,Nebiolo Doc LangheEster Canale,Giovanni Rosso,,BOTTLE,2021,21000,10000,0,E2,,True,100.00 €
 ,RED,Nebbiolo Langhe Doc,Giovanni Rosso,,BOTTLE,2022,3600,1300,30,MAG,,True,13.00 €
 ,RED,Nebbiolo  Barbaresco Ronchi,Rocca Albino,,BOTTLE,2020,8200,3400,6,H5,,True,34.00 €
 ,RED,Nebbiolo d'Alba Réva,Réva,,BOTTLE,2022,3900,1390,12,I2,,True,13.90 €
@@ -203,7 +191,6 @@ external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantit
 ,RED,Nerello Mascalese Etna Rosso Arcuria,Graci,,BOTTLE,2020,6800,2900,6,I1,,True,29.00 €
 ,RED,Nerello Mascalese Etna Rosso,De Bartoli Etna,,BOTTLE,2021,5400,2060,8,H1,,True,20.60 €
 ,RED,Nerello Mascalese Contrada,Passopisciaro,,BOTTLE,2021,7600,3400,6,H1,,True,34.00 €
-,RED,Pinot Nero Vinschgau,K. Meran,,BOTTLE,2022,3600,1330,0,MAG,,True,13.30 €
 ,RED,Pinot Nero Mason di Mason,Manincor,,BOTTLE,2021,9800,4500,18,F3,,True,45.00 €
 ,RED,Pinot Nero Mazzon,W. Gottardi,,BOTTLE,2019,5200,2140,18,F4,,True,21.40 €
 ,RED,Pinot Nero Thaler Hof,Maso Thaler,,BOTTLE,2021,4400,1450,30,E4,,True,14.50 €
@@ -232,7 +219,6 @@ external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantit
 ,RED,Syrah Il San Lorenzo,Fattoria San Lorenzo,,BOTTLE,2009,11800,5050,6,,,True,50.50 €
 ,RED,Tinto Fino Callejo Felix,Callejo,,BOTTLE,2018,18200,8415,2,,,True,84.15 €
 ,RED,Rosso Ruje,Zidarich,,BOTTLE,2015,8600,3600,4,G2,,True,36.00 €
-,RED,Rosso Rujno,Gravner,,BOTTLE,2003,19600,8000,0,,,True,80.00 €
 ,RED,Rosso Rah XVI,Alois Ladeger,,BOTTLE,0,4800,1500,1,,,True,15.00 €
 ,RED,Teroldego Dolomiti,Foradori,,BOTTLE,2021,3600,1130,3,G2,,True,11.30 €
 ,RED,Valpolicella Ca'Fiui,Corte Sant'Alda,,BOTTLE,2021,3050,900,20,G4,,True,9.00 €
@@ -252,7 +238,6 @@ external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantit
 ,RED,BArolo Mosconi,Parusso,,MAGNUM,2019,28000,14400,3,MAG,,True,144.00 €
 ,RED,Brunello di Montalcino Podernovi,San Polo,,MAGNUM,2019,32000,18000,3,MAG,,True,180.00 €
 ,RED,Nebbiolo Langhe Doc,Giovanni Rosso,,MAGNUM,2020,7200,2400,8,MAG,,True,24.00 €
-,RED,Cabernet Merlot Riserva Staffelfeld,Baron Widmann,,MAGNUM,2020,9200,3600,0,,,True,36.00 €
 ,RED,Cab. Franc e Cab Sauv Poggio alle Nanne,Antinori Le Mortelle,,MAGNUM,2022,18400,8100,1,,,True,81.00 €
 ,RED,Cabernet Sauv Ris Campaner,K. Kaltern,,MAGNUM,2021,7400,2910,7,,,True,29.10 €
 ,RED,Cabernet Sauv Kunststück,K.Kaltern,,MAGNUM,2015,15600,8000,3,,,True,80.00 €
@@ -261,7 +246,6 @@ external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantit
 ,RED,Cabernet Istrice,E. Walch,,MAGNUM,2022,9200,3990,7,,,True,39.90 €
 ,RED,Cuvee Kermesse,E. Walch,,MAGNUM,2019,15800,7520,1,,,True,75.20 €
 ,RED,Cuvee La Grola,Allegrini,,MAGNUM,2020,9200,3800,3,,,True,38.00 €
-,RED,Lagrein Lamarein,Mayr Josephus,,MAGNUM,2022,20400,8200,0,,,True,82.00 €
 ,RED,Lagrein Porphyr Riserva,Terlan,,MAGNUM,2021,17800,8530,6,,,True,85.30 €
 ,RED,Lagrein Frauenrigl,Kurtatsch,,MAGNUM,2022,9600,3590,1,,,True,35.90 €
 ,RED,Merlot e Cab. Franc Altrovino Bio,Costa Toscana,,MAGNUM,2021,11800,5000,1,,,True,50.00 €
@@ -273,13 +257,8 @@ external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantit
 ,RED,Pino Nero Riserva,Stroblhof,,MAGNUM,2019,14000,5530,4,,,True,55.30 €
 ,RED,Pinot Nero Mazzon,K. Gottardi,,MAGNUM,2020,10800,4640,7,,,True,46.40 €
 ,RED,Pinot Nero Flora,Girlan,,MAGNUM,2021,9600,3750,7,,,True,37.50 €
-,RED,Pinot Nero Riserva Vigna Ganger,K. Girlan,,MAGNUM,2014,34000,15000,0,,,True,150.00 €
-,,Franciacorta Doppio Erredi,Derbusco,,MAGNUM,0,9200,3500,0,,,True,35.00 €
-,,Franciacorta Brut La Capinera,Vigni Cenci,,MAGNUM,0,9200,3429,0,,,True,34.30 €
 ,,Spumante Arunda,Arunda,,MAGNUM,0,10600,4930,7,,,True,49.30 €
 ,,Trento doc extra Brut Vent,Toblino,,MAGNUM,2019,8800,4100,1,,,True,41.00 €
-,,Bianco  Kaplja,Damijan Podversic,,MAGNUM,2018,12400,5200,0,,,True,52.00 €
-,,Kerner Gall,Griesser,,MAGNUM,2023,7800,3670,0,,,True,36.70 €
 ,,Cuvee Nova Domus Riserva,K. Terlan,,MAGNUM,2020,14200,6580,2,,,True,65.80 €
 ,,Cuvee Nova Domus Riserva,K. Terlan,,MAGNUM,2021,14200,6580,1,,,True,65.80 €
 ,,Cuvee Nova Domus Riserva,K. Terlan,,MAGNUM,2013,18000,8500,2,,,True,85.00 €
@@ -290,24 +269,18 @@ external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantit
 ,,Weissburgunder Vorberg,Terlan,,MAGNUM,2014,17500,8000,2,,,True,80.00 €
 ,,Weissburgunder Vorberg,Terlan,,MAGNUM,2015,17500,8000,2,,,True,80.00 €
 ,,Weissburgunder Vorberg,Terlan,,MAGNUM,2016,17500,8000,2,,,True,80.00 €
-,,Vitovska Vitovska Collection,Zidarich,,MAGNUM,2015,20600,9000,0,,,True,90.00 €
 ,,Vitovska Vitovska ,Zidarich,,MAGNUM,2019,10200,3600,1,,,True,36.00 €
 ,,Vitovska Kamen,Zidarich,,MAGNUM,2020,13200,3700,3,,,True,37.00 €
 ,,Vitovska Origine,Vodopivec,,MAGNUM,2019,15600,7000,2,,,True,70.00 €
 ,,Chardonnay Sophie,Manincor,,MAGNUM,2023,11600,5180,10,,,True,51.80 €
 ,,Chardonnay Löwengang,Lageder,,MAGNUM,2018,15200,6595,1,,,True,65.95 €
 ,,Chardonnay Löwengang,Lageder,,MAGNUM,2021,15200,6595,2,,,True,65.95 €
-,,Chardonnay Beyond the Clouds,Elena Walch,,MAGNUM,2021,18200,8635,0,,,True,86.35 €
 ,, Champagne  Blanc du Blanc,Ruinart,,MAGNUM,0,26000,12650,1,,,True,126.50 €
 ,,Ribolla Gialla Gravner,Gravner,,MAGNUM,2015,20800,7200,2,,,True,72.00 €
-,,Ribolla Gialla Gravner,Gravner,,MAGNUM,2006,21800,11000,0,,,True,110.00 €
-,,Sauvignon Lafoa,Schreckbichl,,MAGNUM,2021,10200,3620,0,,,True,36.20 €
 ,,Prosecco Brut Brunei,La Tordera,,MAGNUM,0,5600,1390,3,,,True,13.90 €
 ,,Bianco Vespa,Bastianich,,MAGNUM,2008,13200,6556,1,,,True,65.57 €
 ,,Bianco Vespa,Bastianich,,MAGNUM,2009,13200,5738,1,,,True,57.38 €
-,,Spumante Brut Arunda,J. Reiterer,,JEROBOAM,0,18800,8100,0,,,True,81.00 €
 ,,Cuvee Kermesse,Elena Walch,,JEROBOAM,2020,28000,16500,1,,,True,165.00 €
-,,Cab. Sauv. Riserva Campaner,K. Kaltern,,JEROBOAM,2020,16200,6170,0,,,True,61.70 €
 ,,Kerner Praepositus,Neustift Kellerei,,JEROBOAM,2021,14400,5820,1,,,True,58.20 €
 ,,Lagrein 3L Porphyr,Terlan,,JEROBOAM,2020,30400,13300,1,,,True,133.00 €
 ,,Cuvee Kermesse ,Elena Walch,,RHEOBOAM,2013,48000,25300,1,,,True,253.00 €

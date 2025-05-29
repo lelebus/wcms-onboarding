@@ -1,383 +1,383 @@
-"type","name","size","vintage","winery","qty","purchase_price_eur"
-,"Prosecco DOCG Extra Dry",,,"La Tordera",156," 6.96 € "
-,"(Prosecco Valdobbiadene)",,,,,
-,"Prosecco DOCG Extra Dry Magnum",,,"La Tordera",13," 15.50 € "
-,"(Prosecco Valdobbiadene)",,,,,
-,"Prosecco DOCG Extra Dry  3L","JEROBOAM",,"La Tordera",3," 49.95 € "
-,"(Prosecco Valdobbiadene)",,,,,
-,"Lamm 12 Extra Brut - Südt. Sekt",,,"Winkler Sektmanifaktur",15," 28.50 € "
-,"Haderburg Pas Dosè Millesimato – Südt. Sekt",,,"Haderburg",3," 25.50 € "
-,"(Chardonnay – Pinot Noir)",,,,,
-,"Comitissa pas dosè Riserva– Südtirol Sekt",,,"Lorenz Martini",15," 23.20 € "
-,"(Pinot bianco – Chardonnay – Pinot nero)",,,,,
-,"Athesis - Brut Rosè Classico",,,"Kettmeir",20," 20.50 € "
-,"(Pinot bianco – Chardonnay – Pinot nero)",,,,,
-,"KK Spumante Dosaggio Zero",,,"Kante",4," 18.00 € "
-,"(Chardonnay – Malvasia)",,,,,
-,"Montris Blanc de blancs Brut nature",,,"Martin Ramoser",11," 26.00 € "
-,"Zero Infinito (vino bianco frizzante fermentato in bott.)",,,"Pojer & Sandri",11," 14.10 € "
-,"(Solaris)",,,,,
-,"Trento Doc Brut 1223 kg ",,,"Cantine Micheli",22," 16.50 € "
-,"Franciacorta Cuvè Prestige",,,"Ca' Del Bosco",7," 33.40 € "
-,"Franciacorta Satèn – Millesimato",,,"Contadi Castaldi",19," 20.90 € "
-,"(Chardonnay)",,,,,
-,"Franciacorta Satèn – Millesimato MAG","MAGNUM",,"Contadi Castaldi",2," 41.60 € "
-,"(Chardonnay)",,,,,
-,"Ferrari Perlè",,,"Ferrari",7," 29.90 € "
-,"(Chardonnay)",,,,,
-,"Ferrari Perlè Zero",,,"Ferrari",10," 54.80 € "
-,"(Chardonnay)",,,,,
-,,,,,,
-,"Blanc De Blancs",,,"Ruinart",7," 84.90 € "
-,"Blanc De Blancs - MAG","MAGNUM",,"Ruinart",3," 205.00 € "
-,"Cuvée Brut",,,"Beaumet",11," 19.95 € "
-"WHITE","La Contessa - biodyn",,2023,"Manincor",72," 12.90 € "
-"WHITE","(Weißburgunder-Chardonnay-Sauvignon Blanc)",,,,,
-"WHITE","Reserve della Contessa  MAG - biodyn","MAGNUM",2023,"Manincor",4," 27.80 € "
-"WHITE","Manna Cru",,2023,"Franz Haas",18," 21.40 € "
-"WHITE","(Chardonnay-Riesling-Gewürztraminer)",,,,,
-"WHITE","Mann Cru MAG","MAGNUM",2022,"Franz Haas",3," 44.20 € "
-"WHITE","(Chardonnay-Riesling-Gewürztraminer)",,,,,
-"WHITE","Nova Domus",,2021,"Terlan",4," 31.10 € "
-"WHITE","(Pinot bianco-Sauvignon-Chardonnay)",,,,,
-"WHITE","Nova Domus",,2019,,2,
-"WHITE","Nova Domus MAG","MAGNUM",2020,"Terlan",2," 65.80 € "
-"WHITE","(Pinot bianco-Sauvignon-Chardonnay)",,,,,
-"WHITE","Stoan",,2022,"Tramin",17," 20.80 € "
-"WHITE","(Chard.-Weissb.-Sauv.-Gewürztraminer)",,,,,
-"WHITE","Stoan MAG","MAGNUM",2020,"Tramin",5," 44.80 € "
-"WHITE","Stoan 3L","JEROBOAM",2023,"Tramin",1," 99.90 € "
-"WHITE","Beyond the clouds",,2020,"Elena Walch",5," 59.00 € "
-"WHITE","Beyond the clouds",,2019,,1,
-"WHITE","Beyond the clouds",,2021,,6,
-"WHITE","(Chardonnay - …)",,,,,
-"WHITE","Pulsar Blanc – Natural wine in Anfora",,2017,"Roberto Ferrari",12," 33.30 € "
-"WHITE","Pulsar Blanc – Natural wine in Anfora",,2016,,1,
-"WHITE","Pulsar Blanc – Natural wine in Anfora",,2018,,16,
-"WHITE","(Riesling – Gewürztraminer – Chardonnay)",,,,,
-"WHITE","Abendrot – Natural wine   Wein.Werk",,2018,"Thomas Niedermayr",7," 26.00 € "
-"WHITE","(100% Souvignier gris)",,,,,
-"WHITE","Abendrot – Natural wine   Wein.Werk",,2019,,24,
-"WHITE","Johanniter   Wein.werk",,2020,"Burgerhof",18," 12.50 € "
-"WHITE","(100% Johanniter)",,,,,
-"WHITE","Johanniter   Wein.werk MAG","MAGNUM",2018,"Burgerhof",1," 28.80 € "
-"WHITE",,,,,,
-"WHITE","Chardonnay ""Doss""",,2024,"Castelfeder",78," 9.50 € "
-"WHITE","Chardonnay Cardellino",,2023,"Elena Walch",13," 13.05 € "
-"WHITE","Chardonnay Cardellino MAG","MAGNUM",2023,"Elena Walch",4," 33.55 € "
-"WHITE","Chardonnay „Löwengang“ - biodyn",,2021,"Alois Lageder",12," 46.50 € "
-"WHITE","Chardonnay ""Löwengang"" - biodyn",,2018,,4,
-"WHITE","Chardonnay „La Foa“",,2022,"Schreckbichl",12," 20.40 € "
-"WHITE","Chardonnay „La Foa“ Mag","MAGNUM",2022,"Schreckbichl",3," 44.80 € "
-"WHITE","Chardonnay St.Valentin",,2022,"St.Michael Eppan",9," 20.00 € "
-"WHITE",,,,,,
-"WHITE","Terlaner Weissburgunder Berg",,2022,"Niedrist",12," 15.80 € "
-"WHITE","Weissburgunder „Schulthauser“",,2023,"St.Michael Eppan",18," 10.50 € "
-"WHITE","Weissburgunder „Strahler“",,2022,"Stroblhof",18," 11.50 € "
-"WHITE","Weissburgunder Doc ",,2022,"Klaus Lentsch",29," 9.50 € "
-"WHITE",,,2021,,,
-"WHITE",,,,,,
-"WHITE","Pinot Grigio Punggl",,2022,"Nals Magreid",18," 13.40 € "
-"WHITE",,,2020,,,
-"WHITE","Pinot Grigio Aristos",,2022,"Eisacktaler",12," 14.10 € "
-"WHITE",,,,,,
-"WHITE","Sauvignon",,2021,"Wassererhof",39," 11.80 € "
-"WHITE","Sauvignon Porphyr & Kalk",,2022,"Niedrist",13," 16.10 € "
-"WHITE","Sauvignon Tasnim",,2022,"Loacker",11,
-"WHITE","Sauvignon Lafòa",,2022,"Schreckbichl",12," 20.40 € "
-"WHITE","Sauvignon Lafòa – MAG","MAGNUM",2022,"Schreckbichl",2," 44.80 € "
-"WHITE","Sauvignon Lafòa – MAG","MAGNUM",2021,,4,
-"WHITE","Sauvignon Quarz",,2022,"Terlan",6," 37.30 € "
-"WHITE","Sauvignon Quarz – MAG","MAGNUM",2020,"Terlan",2," 78.30 € "
-"WHITE","Sauvignon TWC (The Wine Collection)",,2017,"St. Michael Eppan",4," 81.10 € "
-"WHITE","Sauvignon DOC",,2019,"Bergkellerei Passeier",16," 21.70 € "
-"WHITE",,,,,,
-"WHITE","Kerner",,2023,"Köfererhof",30," 13.20 € "
-"WHITE","Kerner – MAG","MAGNUM",2022,"Köfererhof",3," 33.60 € "
-"WHITE","Kerner   wein.werk",,2023,"Griesser Hof",25," 12.70 € "
-"WHITE","Kerner MAG   wein.werk","MAGNUM",2023,"Griesser Hof",1," 36.70 € "
-"WHITE","Kerner Kontour - Natural wine",,2021,"Rielinger",10," 25.00 € "
-"WHITE","Kerner Praepositus",,2022,"Neustift",10," 16.20 € "
-"WHITE","Sylvaner Praepositus",,2021,"Neustift",12," 15.20 € "
-"WHITE","Sylvaner",,2022,"Thomas Dorfmann",6," 16.00 € "
-"WHITE",,,2019,,5,
-"WHITE","Riesling Praepositus",,2021,"Neustift",10," 22.30 € "
-"WHITE","Riesling Kaiton",,2023,"Kuenhof",16," 17.10 € "
-"WHITE",,,,,,
-"WHITE","Gewürztraminer Campaner",,2022,"Kaltern",7," 11.30 € "
-"WHITE","Gewürztraminer “Am Sand” - biodyn",,2022,"Alois Lageder",10," 17.30 € "
-"WHITE","Gewürztraminer Flora",,2022,"Girlan",22," 16.80 € "
-"WHITE","Gewürztraminer Nussbaumer",,2022,"Tramin",17," 22.10 € "
-"WHITE","Gewürztraminer - Selezione",,2023,"Elena Walch",26," 10.45 € "
-"WHITE",,,,,,
-"WHITE","Friuli – Friaul",,,,,
-"WHITE","Vitovska – Natural wine",,2018,"Zidarich",9," 20.90 € "
-"WHITE","Vitovska Kamen – Natural wine in Pietra",,2018,"Zidarich",8," 46.50 € "
-"WHITE","Malvasia “Damijan”",,2016,"Damijan Podversic",6," 23.00 € "
-"WHITE","Friulano “San Zuan”",,2022,"Ronco del Gnemiz",7," 23.50 € "
-"WHITE","Ribolla Gialla Collio DOC - Natural wine",,2017,"La Castellada",14," 20.80 € "
-"WHITE",,,,,,
-"WHITE","Trentino - Trient",,,,,
-"WHITE","Pinot Grigio - Fuoripista - Natural vine",,2022,"Foradori",16," 24.50 € "
-"WHITE",,,,,,
-"WHITE","Veneto",,,,,
-"WHITE","Lugana",,2023,"Allegrini",17," 9.90 € "
-"WHITE",,,,,,
-"WHITE","Abruzzo - Abruzzen",,,,,
-"WHITE","Trebbiano d'Abruzzo - Anfora",,2020,"Az.Agr.Cirelli",6," 16.60 € "
-"WHITE",,,,,,
-"WHITE","Campania",,,,,
-"WHITE","Greco di Tufo",,2023,"Di Meo",15," 12.90 € "
-"WHITE",,,,,,
-"WHITE","Sicilia– Sizilien",,,,,
-"WHITE","Grillo Sicilia doc bio",,2023,"Tenuta Bastonaca",14," 8.90 € "
-"WHITE","Etna Bianco",,2022,"Quantico",8," 14.60 € "
-"WHITE",,,,,,
-"WHITE",,,,,,
-"WHITE","Austria – Österreich",,,,,
-"WHITE","Grüner Veltliner Terrassen Federsp.",,2022,"Piewald",12," 10.90 € "
-"WHITE",,,2021,,4,
-"WHITE",,,,,,
-"WHITE","Grüner Veltliner Smaragd - Kolmütz",,2021,"R.Pichler",11," 35.15 € "
-"WHITE",,,,,,
-"WHITE","Riesling Pfaffenberg Undhof",,2014,"Erich Salomon",5," 28.05 € "
-"WHITE","Riesling Pfaffenberg Undhof",,2018,"Erich Salomon",6,
-"WHITE","Riesling Smaragd – Loibenberg",,2021,"Knoll",12," 38.90 € "
-"WHITE",,,,,,
-"WHITE","Germania – Deutschland",,,,,
-"WHITE","Riesling Mosel",,2022,"Schloss Lieser",65," 11.50 € "
-"WHITE",,,,,,
-"WHITE","Riesling Doosberg GG",,2021,"Jakob Kühn",5," 56.00 € "
-"WHITE","Riesling Ruppertsberger Hoheburg P.C.",,2019,"Burklin-Wolf",5," 31.15 € "
-"WHITE","Riesling Ruppertsberger Hoheburg P.C.",,2022,,6,
-"WHITE","Kalmuth Silvaner ",,2022,"Fürst Löwenstein",2," 17.70 € "
-"WHITE",,,,,,
-"WHITE","Francia – Frankreich",,,,,
-"WHITE","Chablis Vielles Vignes (Chardonnay)",,2022,"Thierry Laffay",6," 24.90 € "
-"WHITE","Chardonnay - Bourgogne Côte d'or",,2021,"Pierre Morey",4," 26.70 € "
-"RED","Kermesse",,2022,"Elena Walch",6," 33.85 € "
-"RED","(Lagrein-Merlot-Syrah-Cab.s.-Petit Verdot)",,,,,
-"RED","Kermesse – MAG","MAGNUM",2018,"Elena Walch",2," 68.00 € "
-"RED","(Lagrein-Merlot-Syrah-Cab.s.-Petit Verdot)",,,,,
-"RED","Kermesse – MAG","MAGNUM",2020,,1,
-"RED","Cornelius",,2018,"Schreckbichl",23," 21.20 € "
-"RED","(Cabernet-Merlot)",,,,,
-"RED","Cornelius – MAG","MAGNUM",2019,"Schreckbichl",4," 46.40 € "
-"RED","(Cabernet-Merlot)",,,,,
-"RED","Lacus",,2020,"Schullian",6," 39.90 € "
-"RED","(Cabernet-Merlot)",,,,,
-"RED","Lacus - MAG","MAGNUM",2020,"Schullian",3," 82.10 € "
-"RED","Soma",,2022,"Kurtatsch",17," 18.30 € "
-"RED","(Cabernet-Merlot)",,,,,
-"RED","Soma – MAG","MAGNUM",2020,"Kurtatsch",3," 39.50 € "
-"RED","(Cabernet-Merlot)",,,,,
-"RED","Soma – MAG","MAGNUM",2022,,3,
-"RED","ROT Mitterberg ""Luis""      Wein.Werk",,2019,"Luis Oberrauch",12," 17.90 € "
-"RED","(Vernatsch - Lagrein)",,,,,
-"RED","448 slm Rosso",,2022,"Girlan",106," 5.95 € "
-"RED","(Lagrein – Pinot Noir – Vernatsch)",,,,,
-"RED",,,,,,
-"RED","Vernatsch Gschleier",,2022,"Girlan",6," 13.50 € "
-"RED","Kalterersee Erbe und Auftrag",,2021,"Andi Sölwa",22," 22.90 € "
-"RED","Mirus",,,"Kandlerhof",13," 26.90 € "
-"RED","St. Magdalener Malanders",,2023,"Pitzner",13," 11.10 € "
-"RED","St. Magdalener - Huck am Bach",,2023,"Kellerei Bozen",84," 8.60 € "
-"RED",,,,,,
-"RED","Cab. Sauvig. Ris. “kunst.stück” 1,5 l","MAGNUM",2015,"Kaltern",1," 70.00 € "
-"RED","Cabernet Sauvig. Staves",,2015,"Kornell",2," 19.70 € "
-"RED","Cabernet Sauvig. Ris. Campaner",,2021,"Kaltern",19," 11.50 € "
-"RED","Cabernet Sauvig. Ris. Campaner 1,5 l","MAGNUM",2021,"Kaltern",9," 29.10 € "
-"RED","Cabernet Sauvig. Ris. Campaner 3 l","JEROBOAM",2021,"Kaltern",4," 61.70 € "
-"RED","Cabarone",,2020,"Kaltern",13," 29.90 € "
-"RED","Cabernet Sauvig. ""Barleit"" - Anfora",,2018,"Tröpfltalhof",7," 34.00 € "
-"RED","Cabernet Sauvig. ""Barleit"" - Anfora",,2020,,6,
-"RED","Cabernet Franc Riserva",,2020,"Nicolussi Leck",11," 26.50 € "
-"RED","Cabernet Franc Riserva Mag","MAGNUM",2021,"Nicolussi Leck",2," 52.00 € "
-"RED",,,,,,
-"RED","Merlot Riserva Brenntal",,2018,"Kurtatsch",10," 34.30 € "
-"RED","Merlot Riserva Brenntal – MAG","MAGNUM",2020,"Kurtatsch",2," 72.70 € "
-"RED","Merlot",,2021,"Putzenhof",139," 10.50 € "
-"RED","Merlot Freiherr",,2018,"Meran",11," 20.30 € "
-"RED",,,,,,
-"RED","Lagrein Riserva Berger Gei",,2020,"Niedrist",5," 25.90 € "
-"RED","Lagrein Riserva Berger Gei MAG","MAGNUM",2020,"Niedrist",4," 29.00 € "
-"RED",,,2017,,1,
-"RED","Lagrein Riserva Manus",,2018,"Ritterhof",12," 33.30 € "
-"RED","Lagrein Riserva Manus – MAG","MAGNUM",2019,"Ritterhof",3," 82.10 € "
-"RED","Lagrein Sepp",,2021,"Nicolussi Leck",21," 13.90 € "
-"RED","Lagrein Sepp -MAG","MAGNUM",2021,"Nicolussi Leck",2," 32.50 € "
-"RED","Lagrein Riserva Porphyr",,2021,"Terlan",2," 41.10 € "
-"RED","Lagrein Riserva Porphyr - MAG","MAGNUM",2020,"Terlan",5," 79.30 € "
-"RED","Lagrein Riserva Porphyr – 3 L","JEROBOAM",2019,"Terlan",2," 178.40 € "
-"RED","Lagrein Riserva Taber",,2021,"Bozen",6," 31.90 € "
-"RED","Lagrein Riserva Taber – MAG","MAGNUM",2020,"Bozen",5," 66.50 € "
-"RED","Lagrein Greif",,2023,"Kornell",110," 10.10 € "
-"RED","Lagrein Greif Mag","MAGNUM",2022,,6," 24.90 € "
-"RED","Lagrein Greif 3L","JEROBOAM",2022,,," 64.20 € "
-"RED","Lagrein Riserva",,2022,"Waldgries",26," 18.20 € "
-"RED","Lagrein Riserva Abtei",,2018,"Muri Gries",13," 24.50 € "
-"RED","Lagrein Riserva Abtei – Magnum","MAGNUM",2021,"Muri Gries",4," 48.90 € "
-"RED",,,,,,
-"RED","Blauburgunder ",,2022,"Castel Sallegg",44," 11.40 € "
-"RED","Blauburgunder Riserva",,2019,"Niedrist",15," 28.90 € "
-"RED","Blauburguner Ris Mag","MAGNUM",2020,"Niedrist",5," 62.20 € "
-"RED",,,2019,,1,
-"RED","Blauburg. Mason de Mason - biodyn",,2020,"Manincor",12," 56.00 € "
-"RED","Blauburg. Mason de Mason - biodyn",,2016,,2,
-"RED","Blauburg. Ris. Praepositus",,2019,"Neustift",11," 25.80 € "
-"RED","Blauburg. Ris. Praepositus",,2018,,4,
-"RED","Blauburg. Ris. Praepositus - Magnum","MAGNUM",2019,"Neustift",2," 51.40 € "
-"RED","Blauburg. Ris Trattmann",,2017,"Girlan",12," 29.70 € "
-"RED","Blauburg. Ris Trattmann – Magnum","MAGNUM",2013,"Girlan",1," 62.90 € "
-"RED","Blauburg. Ris. ""Vigna Ganger""",,2018,"Girlan",1," 80.00 € "
-"RED","Blauburg. Ris. ""Vigna Ganger""",,2019,"Girlan",3," 80.00 € "
-"RED","Blauburg. Ris. „Vigna Ganger“ MAG","MAGNUM",2018,"Girlan",1," 160.00 € "
-"RED","Blauburg. Ris. ""Vigna Ganger"" MAG","MAGNUM",2019,,2,
-"RED","Blauburg. Riserva Fallwind",,2021,"St.Michael Eppan",10," 16.30 € "
-"RED","Blauburgunder Hausmannhof - bio",,2020,"Haderburg",7," 22.50 € "
-"RED","Blauburg. Ris. Matan",,2019,"Pfitscher",10," 30.00 € "
-"RED","Blauburgunder Ris. Pinot Noir",,2017,"Wildmon",1," 45.00 € "
-"RED","Blauburgunder Ris. Pinot Noir",,2019,,3,
-"RED","Blauburgunder Riserva    wein.werk",,2021,"Prackfolerhof",33," 19.40 € "
-"RED","Blauburgunder Riserva Mag   wein.werk",,2019,"Prackfolerhof",3," 41.00 € "
-"RED","Blauburgunder Skytos",,2016,"Ansitz Dolomytos",20," 24.00 € "
-"RED","Blauburg. Riserva TWC (The Wine Collection)",,2018,"St.Michael Eppan",5," 91.90 € "
-"RED",,,,,,
-"RED","Vino rosso d’Italia – Rotwein aus Italien",,,,,
-"RED","La Quadratura – Winecircus",,2018,"Roberto Cipresso",2," 14.00 € "
-"RED","(Montepulciano – Sangiovese – Sagrantino)",,,,,
-"RED","Pigreco",,2019,"Roberto Cipresso",12," 9.10 € "
-"RED","(San Giovese 100%)",,,,,
-"RED",,,,,,
-"RED","Trentino – Trient",,,,,
-"RED","Moratel IGT Bio",,2018,"Cesconi",10," 11.20 € "
-"RED","(Lagrein, Teroldego, Merlot, Cabernet)",,,,,
-"RED","Moratel IGT Bio",,2019,,12,
-"RED","Moratel IGT Bio - Magnum","MAGNUM",2016,,2," 22.90 € "
-"RED","Teroldego BIO",,2022,"Foradori",15," 13.80 € "
-"RED","San Leonardo",,2015,"Ten. S. Leonardo",3," 40.00 € "
-"RED","(Cabernet Sauvignon, Merlot, Carménère)",,,,,
-"RED","San Leonardo",,2018,"Ten. S. Leonardo",7," 55.00 € "
-"RED","San Leonardo",,2019,"Ten. S. Leonardo",13," 58.00 € "
-"RED","San Leonardo MAG","MAGNUM",2019,"Ten. S. Leonardo",3," 128.00 € "
-"RED","Toscana – Toskana",,,,,
-"RED","Chianti Classico DOCG BIO",,2020,"Poggio al sole",9," 11.90 € "
-"RED","Chianti Classico DOCG Bio Mag","MAGNUM",2020,"Poggio al sole",1," 25.90 € "
-"RED","Chianti Classico DOCG",,2021,"Riecine",10," 15.80 € "
-"RED","Rosso di Montalcino",,2022,"Talenti",36," 11.20 € "
-"RED","Rosso di Montalcino - MAG","MAGNUM",2022,,10," 23.00 € "
-"RED","Rosso di Montalcino",,2022,"Valdicava",17," 21.10 € "
-"RED","Brunello di Montalcino",,2017,"Patrizia Cencioni",8," 26.00 € "
-"RED","Brunello di Montalcino",,2016,"La Fiorita",2," 31.00 € "
-"RED",,,2015,,3,
-"RED",,,2017,,1,
-"RED","Hebo",,2020,"Petra",23," 11.60 € "
-"RED","(Merlot-Sangiovese-Cab.Sauv)",,,,,
-"RED","Hebo",,2022,,6,
-"RED","Hebo – Magnum","MAGNUM",2020,"Petra",2," 28.20 € "
-"RED","Petra ",,2011,"Petra",1," 39.45 € "
-"RED","(Merlot-Cab.Sauv)",,,,,
-"RED","Petra – Magnum","MAGNUM",2015,"Petra",1," 71.80 € "
-"RED","Tignanello ",,2020,"Antinori",8," 83.80 € "
-"RED","(Sangiovese-Cab.Sauv.-Cab. F)",,,,,
-"RED","Tignanello",,2016,"Antinori",8," 160.00 € "
-"RED","Tignanello",,2021,,12,
-"RED","Tignanello - MAG","MAGNUM",2016,,1," 340.00 € "
-"RED","Tignanello - MAG","MAGNUM",2021,,2,
-"RED","Avvoltore ",,2018,"Morris Farms",12," 31.40 € "
-"RED","(Sangiovese-Cab.Sauv.-Syrah)",,,,,
-"RED","Avvoltore – Magnum","MAGNUM","2015-16",,," 61.40 € "
-"RED","Le Volte ",,2022,"Ornellaia",16," 17.50 € "
-"RED","(Merlot-Sangiov.-Cab.Sauv)",,,,,
-"RED","Le Volte – Magnum","MAGNUM",2020,"Ornellaia",1," 41.40 € "
-"RED","(Syrah-Alic.-Merlot-Cab. Franc-Marselan)",,,,,
-"RED","Volpolo DOC Bolgheri",,2021,"Podere Sappaio",6," 16.40 € "
-"RED","Volpolo DOC Bolgheri",,2022,,12,
-"RED","(Cab.Sauv.-Merlot-Petit Verdot)",,,,,
-"RED","Villa Donoratico - Bolgheri",,2019,"Tenuta Argentiera",2," 24.20 € "
-"RED","(Cab.F.-Cab.Sauv.-Merlot-Petit Verdot)",,,,,
-"RED","Villa Donoratico - Bolgheri",,2020,,11,
-"RED","Piastraia Bolgheri Superiori",,2021,"Michele Satta",25," 29.50 € "
-"RED","Piastraia Bolgheri Superiori Mag","MAGNUM",2021,,," 65.00 € "
-"RED","Piastraia Bolgheri Superiori 3L","JEROBOAM",2021,,," 142.00 € "
-"RED","Syrah Cortona doc Mementum",,2020,"Paolo Magi",8," 19.80 € "
-"RED","Filari 18 Cabernet Franc Bio - anfora",,2018,"Casadei",5," 23.70 € "
-"RED","Villa Antinori Rosso  IGT",,2020,"Villa Antinori",20," 12.30 € "
-"RED","(Sangiovese-cab.sauv.-Merlot-Syrah)",,2022,,16,
-"RED",,,2022,,,
-"RED","Villa Antinori Rosso IGT Rosso Mag","MAGNUM",2020,"Villa Antinori",1," 31.80 € "
-"RED","Villa Antinori Rosso IGT Rosso Mag","MAGNUM",2022,,3,
-"RED","Villa Antinori Rosso IGT Rosso 3L","JEROBOAM",2022,,2," 69.00 € "
-"RED","Veneto – Venetien",,,,,
-"RED","Valpolicella Superiore",,2020,"Zanoni",9," 7.90 € "
-"RED","Valpolicella Superiore",,2021,"Allegrini",74," 9.90 € "
-"RED","Amarone della Valpolicella",,2013,"Zanoni",," 32.00 € "
-"RED","Amarone Capitel Monte Olmi",,2015,"Tedeschi",," 45.30 € "
-"RED","Carminium (Carmenere)",,2021,"Inama",5," 18.00 € "
-"RED",,,,,,
-"RED","Piemonte – Piemont",,,,,
-"RED","Nebbiolo Val dei Preti",,2019,"Matteo Coreggia",5," 15.90 € "
-"RED","Nebbiolo Val dei Preti",,2021,,11,
-"RED","Nebbiolo Val dei Preti",,2018,,6,
-"RED","Nebbiolo Val dei Preti MAG","MAGNUM",2018,"Matteo Coreggia",3," 32.00 € "
-"RED","Nebbiolo Val dei Preti MAG","MAGNUM",2020,,3,
-"RED","Nebbiolo Val dei Preti 3L","JEROBOAM",2019,"Matteo Coreggia",1," 85.00 € "
-"RED","Nebbiolo Val dei Preti 3L","JEROBOAM",2020,,1,
-"RED","Nebbiolo Val dei Preti 5L","BORDEAUX_JEROBOAM",20219,,,
-"RED","Barbera d’Alba",,2022,"Matteo Coreggia",17," 8.60 € "
-"RED","Barbera d’Alba MAG","MAGNUM",2019,"Matteo Coreggia",2," 16.00 € "
-"RED","Nebbiolo Langhe",,2020,"La Ca’ Nova",4," 11.00 € "
-"RED","Nebbiolo ""Fralù""",,2022,"Bruno Rocca",18," 14.50 € "
-"RED","Nebbiolo ""Fralù""",,2023,,24,
-"RED","Nebbiolo ""Fralù"" MAG","MAGNUM",2022,,9,
-"RED","Barbaresco Montestefano",,2018,"La Ca’ Nova",5," 27.00 € "
-"RED","Barbaresco Montestefano",,2015,,3,
-"RED","Barolo - Antiche Cantine",,2019,"Marchesi di Barolo",6," 33.70 € "
-"RED","Barolo - Antiche Cantine",,2017,,2,
-"RED","Barbaresco",,2022,"Bruno Rocca",24,
-"RED","Barbaresco Mag",,2022,"Bruno Rocca",4,
-"RED","Barbaresco Rabajà",,2021,"Bruno Rocca",6," 60.00 € "
-"RED","Barbaresco Rabajà",,2020,,3,
-"RED","Barbaresco Rabajà MAG","MAGNUM",2021,,2," 129.00 € "
-"RED","Barbera d’Asti",,2020,"Frasca",10," 8.50 € "
-"RED","Barbera d’Asti Mag","MAGNUM",2020,"Frasca",4," 22.00 € "
-"RED","Barolo Massolino",,2020,"Massolino",8," 24.20 € "
-"RED",,,,,,
-"RED","Sicilia – Sizilien",,,,,
-"RED","Nero d’Avola Ris.a Don Antonio",,2018,"Morgante",5," 20.80 € "
-"RED","Nero d’Avola Ris. Don Antonio 1,5 l","MAGNUM",2019,"Morgante",5," 52.20 € "
-"RED","Laeneo (Nerello Cappuccio)",,2016,"Tenuta di Fessina",4," 11.40 € "
-"RED","Passorosso (Nerello Mascalese)",,2021,"Passopisciaro",11," 15.00 € "
-"RED",,,,,,
-"RED",,,,,,
-"RED","Friuli - Friaul",,,,,
-"RED","Prelit (Merlot - Cab. Sauvignon) - natural wine",,2017,"Damijan Podversic",9," 24.00 € "
-"RED","Prelit (Merlot - Cab. Sauvignon) - natural wine",,2014,,2,
-"RED",,,,,,
-"RED","Marche – Marken",,,,,
-"RED","Rosso Piceno DOC Maschio da monte",,2018,"Santa Barbara",5," 15.00 € "
-"RED",,,,,,
-"RED","Abruzzo - Abruzzen",,,,,
-"RED","Montepulciano d'Abruzzo",,2021,"Emidio Pepe",9," 41.50 € "
-"RED",,,,,,
-"RED","Campania – Kampanien",,,,,
-"RED","Aglianico Paestum “Donnaluna” BIO",,2019,"De Conciliis",18," 9.90 € "
-"RED",,,,,,
-"RED","Francia – Frankreich",,,,,
-"RED","Bourgogne",,,,,
-"RED","Bourgogne Côte d'or Pinot noir",,2021,"Pierre Morey",8," 23.80 € "
-"RED","Gevrey Chambertin Pinot Noir",,2021,"Harmand-Geoffroy",8," 49.50 € "
-"RED",,,,,,
-"RED","Bordeaux",,,,,
-"RED","Saint-Georges-Saint-Emilion - Château Calon",,2018,"Boidron",13," 19.40 € "
-"RED","(Cab.Sauv.-Cab.Franc-Merlot)",,,,,
-"RED","Pomerol",,2016,"Château Cantelauze",9," 50.00 € "
-"RED","(Cab.Franc-Merlot)",,,,,
-,,,,,,
-,"Hofstätter Rosé",,2022,"J.Hofstätter",8," 8.95 € "
-,"Rosé 2026",,2023,"Elena Walch",8," 10.10 € "
-,"Rosè Marie biodyn",,2021,"Tröpfltalhof",16," 18.50 € "
-,"Goldmuskateller",,2022,"Kaltern",3," 7.20 € "
-,"5Quintessenz Passito 0,375 l","HALF_BOTTLE",2018,"Kaltern",3," 28.40 € "
-,"5Quintessenz Passito 0,375 l","HALF_BOTTLE",2017,,2,
-,"Moscato Rosa 0,5","HALF_LITER",2022,"Haas",7," 27.40 € "
+type,name,size,vintage,winery,qty,purchase_price_eur,sales_price_eur
+,Prosecco DOCG Extra Dry,,,La Tordera,156, 6.96 € ,28
+,(Prosecco Valdobbiadene),,,,,,
+,Prosecco DOCG Extra Dry Magnum,,,La Tordera,13, 15.50 € ,58
+,(Prosecco Valdobbiadene),,,,,,
+,Prosecco DOCG Extra Dry  3L,JEROBOAM,,La Tordera,3, 49.95 € ,120
+,(Prosecco Valdobbiadene),,,,,,
+,Lamm 12 Extra Brut - Südt. Sekt,,,Winkler Sektmanifaktur,15, 28.50 € ,54
+,Haderburg Pas Dosè Millesimato – Südt. Sekt,,,Haderburg,3, 25.50 € ,62
+,(Chardonnay – Pinot Noir),,,,,,
+,Comitissa pas dosè Riserva– Südtirol Sekt,,,Lorenz Martini,15, 23.20 € ,57
+,(Pinot bianco – Chardonnay – Pinot nero),,,,,,
+,Athesis - Brut Rosè Classico,,,Kettmeir,20, 20.50 € ,52
+,(Pinot bianco – Chardonnay – Pinot nero),,,,,,
+,KK Spumante Dosaggio Zero,,,Kante,4, 18.00 € ,43
+,(Chardonnay – Malvasia),,,,,,
+,Montris Blanc de blancs Brut nature,,,Martin Ramoser,11, 26.00 € ,60
+,Zero Infinito (vino bianco frizzante fermentato in bott.),,,Pojer & Sandri,11, 14.10 € ,35
+,(Solaris),,,,,,
+,Trento Doc Brut 1223 kg ,,,Cantine Micheli,22, 16.50 € ,45
+,Franciacorta Cuvè Prestige,,,Ca' Del Bosco,7, 33.40 € ,76
+,Franciacorta Satèn – Millesimato,,,Contadi Castaldi,19, 20.90 € ,52
+,(Chardonnay),,,,,,
+,Franciacorta Satèn – Millesimato MAG,MAGNUM,,Contadi Castaldi,2, 41.60 € ,104
+,(Chardonnay),,,,,,
+,Ferrari Perlè,,,Ferrari,7, 29.90 € ,69
+,(Chardonnay),,,,,,
+,Ferrari Perlè Zero,,,Ferrari,10, 54.80 € ,105
+,(Chardonnay),,,,,,
+,,,,,,,
+,Blanc De Blancs,,,Ruinart,7, 84.90 € ,169
+,Blanc De Blancs - MAG,MAGNUM,,Ruinart,3, 205.00 € ,320
+,Cuvée Brut,,,Beaumet,11, 19.95 € ,54
+WHITE,La Contessa - biodyn,,2023,Manincor,72, 12.90 € ,39
+WHITE,(Weißburgunder-Chardonnay-Sauvignon Blanc),,,,,,
+WHITE,Reserve della Contessa  MAG - biodyn,MAGNUM,2023,Manincor,4, 27.80 € ,78
+WHITE,Manna Cru,,2023,Franz Haas,18, 21.40 € ,54
+WHITE,(Chardonnay-Riesling-Gewürztraminer),,,,,,
+WHITE,Mann Cru MAG,MAGNUM,2022,Franz Haas,3, 44.20 € ,108
+WHITE,(Chardonnay-Riesling-Gewürztraminer),,,,,,
+WHITE,Nova Domus,,2021,Terlan,4, 31.10 € ,72
+WHITE,(Pinot bianco-Sauvignon-Chardonnay),,,,,,
+WHITE,Nova Domus,,2019,,2,,
+WHITE,Nova Domus MAG,MAGNUM,2020,Terlan,2, 65.80 € ,144
+WHITE,(Pinot bianco-Sauvignon-Chardonnay),,,,,,
+WHITE,Stoan,,2022,Tramin,17, 20.80 € ,53
+WHITE,(Chard.-Weissb.-Sauv.-Gewürztraminer),,,,,,
+WHITE,Stoan MAG,MAGNUM,2020,Tramin,5, 44.80 € ,106
+WHITE,Stoan 3L,JEROBOAM,2023,Tramin,1, 99.90 € ,212
+WHITE,Beyond the clouds,,2020,Elena Walch,5, 59.00 € ,110
+WHITE,Beyond the clouds,,2019,,1,,
+WHITE,Beyond the clouds,,2021,,6,,
+WHITE,(Chardonnay - …),,,,,,
+WHITE,Pulsar Blanc – Natural wine in Anfora,,2017,Roberto Ferrari,12, 33.30 € ,69
+WHITE,Pulsar Blanc – Natural wine in Anfora,,2016,,1,,
+WHITE,Pulsar Blanc – Natural wine in Anfora,,2018,,16,,
+WHITE,(Riesling – Gewürztraminer – Chardonnay),,,,,,
+WHITE,Abendrot – Natural wine   Wein.Werk,,2018,Thomas Niedermayr,7, 26.00 € ,62
+WHITE,(100% Souvignier gris),,,,,,
+WHITE,Abendrot – Natural wine   Wein.Werk,,2019,,24,,
+WHITE,Johanniter   Wein.werk,,2020,Burgerhof,18, 12.50 € ,38
+WHITE,(100% Johanniter),,,,,,
+WHITE,Johanniter   Wein.werk MAG,MAGNUM,2018,Burgerhof,1, 28.80 € ,76
+WHITE,,,,,,,
+WHITE,"Chardonnay ""Doss""",,2024,Castelfeder,78, 9.50 € ,32
+WHITE,Chardonnay Cardellino,,2023,Elena Walch,13, 13.05 € ,39
+WHITE,Chardonnay Cardellino MAG,MAGNUM,2023,Elena Walch,4, 33.55 € ,78
+WHITE,Chardonnay „Löwengang“ - biodyn,,2021,Alois Lageder,12, 46.50 € ,
+WHITE,"Chardonnay ""Löwengang"" - biodyn",,2018,,4,,89
+WHITE,Chardonnay „La Foa“,,2022,Schreckbichl,12, 20.40 € ,52
+WHITE,Chardonnay „La Foa“ Mag,MAGNUM,2022,Schreckbichl,3, 44.80 € ,104
+WHITE,Chardonnay St.Valentin,,2022,St.Michael Eppan,9, 20.00 € ,51
+WHITE,,,,,,,
+WHITE,Terlaner Weissburgunder Berg,,2022,Niedrist,12, 15.80 € ,44
+WHITE,Weissburgunder „Schulthauser“,,2023,St.Michael Eppan,18, 10.50 € ,34
+WHITE,Weissburgunder „Strahler“,,2022,Stroblhof,18, 11.50 € ,36
+WHITE,Weissburgunder Doc ,,2022,Klaus Lentsch,29, 9.50 € ,33
+WHITE,,,2021,,,,
+WHITE,,,,,,,
+WHITE,Pinot Grigio Punggl,,2022,Nals Magreid,18, 13.40 € ,40
+WHITE,,,2020,,,,
+WHITE,Pinot Grigio Aristos,,2022,Eisacktaler,12, 14.10 € ,41
+WHITE,,,,,,,
+WHITE,Sauvignon,,2021,Wassererhof,39, 11.80 € ,36
+WHITE,Sauvignon Porphyr & Kalk,,2022,Niedrist,13, 16.10 € ,44
+WHITE,Sauvignon Tasnim,,2022,Loacker,11,,
+WHITE,Sauvignon Lafòa,,2022,Schreckbichl,12, 20.40 € ,52
+WHITE,Sauvignon Lafòa – MAG,MAGNUM,2022,Schreckbichl,2, 44.80 € ,104
+WHITE,Sauvignon Lafòa – MAG,MAGNUM,2021,,4,,
+WHITE,Sauvignon Quarz,,2022,Terlan,6, 37.30 € ,78
+WHITE,Sauvignon Quarz – MAG,MAGNUM,2020,Terlan,2, 78.30 € ,156
+WHITE,Sauvignon TWC (The Wine Collection),,2017,St. Michael Eppan,4, 81.10 € ,141
+WHITE,Sauvignon DOC,,2019,Bergkellerei Passeier,16, 21.70 € ,54
+WHITE,,,,,,,
+WHITE,Kerner,,2023,Köfererhof,30, 13.20 € ,36
+WHITE,Kerner – MAG,MAGNUM,2022,Köfererhof,3, 33.60 € ,72
+WHITE,Kerner   wein.werk,,2023,Griesser Hof,25, 12.70 € ,38
+WHITE,Kerner MAG   wein.werk,MAGNUM,2023,Griesser Hof,1, 36.70 € ,76
+WHITE,Kerner Kontour - Natural wine,,2021,Rielinger,10, 25.00 € ,60
+WHITE,Kerner Praepositus,,2022,Neustift,10, 16.20 € ,45
+WHITE,Sylvaner Praepositus,,2021,Neustift,12, 15.20 € ,43
+WHITE,Sylvaner,,2022,Thomas Dorfmann,6, 16.00 € ,45
+WHITE,,,2019,,5,,
+WHITE,Riesling Praepositus,,2021,Neustift,10, 22.30 € ,43
+WHITE,Riesling Kaiton,,2023,Kuenhof,16, 17.10 € ,45
+WHITE,,,,,,,
+WHITE,Gewürztraminer Campaner,,2022,Kaltern,7, 11.30 € ,34
+WHITE,Gewürztraminer “Am Sand” - biodyn,,2022,Alois Lageder,10, 17.30 € ,46
+WHITE,Gewürztraminer Flora,,2022,Girlan,22, 16.80 € ,46
+WHITE,Gewürztraminer Nussbaumer,,2022,Tramin,17, 22.10 € ,55
+WHITE,Gewürztraminer - Selezione,,2023,Elena Walch,26, 10.45 € ,34
+WHITE,,,,,,,
+WHITE,Friuli – Friaul,,,,,,
+WHITE,Vitovska – Natural wine,,2018,Zidarich,9, 20.90 € ,57
+WHITE,Vitovska Kamen – Natural wine in Pietra,,2018,Zidarich,8, 46.50 € ,75
+WHITE,Malvasia “Damijan”,,2016,Damijan Podversic,6, 23.00 € ,59
+WHITE,Friulano “San Zuan”,,2022,Ronco del Gnemiz,7, 23.50 € ,47
+WHITE,Ribolla Gialla Collio DOC - Natural wine,,2017,La Castellada,14, 20.80 € ,49
+WHITE,,,,,,,
+WHITE,Trentino - Trient,,,,,,
+WHITE,Pinot Grigio - Fuoripista - Natural vine,,2022,Foradori,16, 24.50 € ,59
+WHITE,,,,,,,
+WHITE,Veneto,,,,,,
+WHITE,Lugana,,2023,Allegrini,17, 9.90 € ,33
+WHITE,,,,,,,
+WHITE,Abruzzo - Abruzzen,,,,,,
+WHITE,Trebbiano d'Abruzzo - Anfora,,2020,Az.Agr.Cirelli,6, 16.60 € ,44
+WHITE,,,,,,,
+WHITE,Campania,,,,,,
+WHITE,Greco di Tufo,,2023,Di Meo,15, 12.90 € ,39
+WHITE,,,,,,,
+WHITE,Sicilia– Sizilien,,,,,,
+WHITE,Grillo Sicilia doc bio,,2023,Tenuta Bastonaca,14, 8.90 € ,31
+WHITE,Etna Bianco,,2022,Quantico,8, 14.60 € ,41
+WHITE,,,,,,,
+WHITE,,,,,,,
+WHITE,Austria – Österreich,,,,,,
+WHITE,Grüner Veltliner Terrassen Federsp.,,2022,Piewald,12, 10.90 € ,35
+WHITE,,,2021,,4,,
+WHITE,,,,,,,
+WHITE,Grüner Veltliner Smaragd - Kolmütz,,2021,R.Pichler,11, 35.15 € ,84
+WHITE,,,,,,,
+WHITE,Riesling Pfaffenberg Undhof,,2014,Erich Salomon,5, 28.05 € ,79
+WHITE,Riesling Pfaffenberg Undhof,,2018,Erich Salomon,6,,
+WHITE,Riesling Smaragd – Loibenberg,,2021,Knoll,12, 38.90 € ,72
+WHITE,,,,,,,
+WHITE,Germania – Deutschland,,,,,,
+WHITE,Riesling Mosel,,2022,Schloss Lieser,65, 11.50 € ,33
+WHITE,,,,,,,
+WHITE,Riesling Doosberg GG,,2021,Jakob Kühn,5, 56.00 € ,114
+WHITE,Riesling Ruppertsberger Hoheburg P.C.,,2019,Burklin-Wolf,5, 31.15 € ,74
+WHITE,Riesling Ruppertsberger Hoheburg P.C.,,2022,,6,,74
+WHITE,Kalmuth Silvaner ,,2022,Fürst Löwenstein,2, 17.70 € ,48
+WHITE,,,,,,,
+WHITE,Francia – Frankreich,,,,,,
+WHITE,Chablis Vielles Vignes (Chardonnay),,2022,Thierry Laffay,6, 24.90 € ,61
+WHITE,Chardonnay - Bourgogne Côte d'or,,2021,Pierre Morey,4, 26.70 € ,63
+RED,Kermesse,,2022,Elena Walch,6, 33.85 € ,76
+RED,(Lagrein-Merlot-Syrah-Cab.s.-Petit Verdot),,,,,,
+RED,Kermesse – MAG,MAGNUM,2018,Elena Walch,2, 68.00 € ,152
+RED,(Lagrein-Merlot-Syrah-Cab.s.-Petit Verdot),,,,,,
+RED,Kermesse – MAG,MAGNUM,2020,,1,,152
+RED,Cornelius,,2018,Schreckbichl,23, 21.20 € ,54
+RED,(Cabernet-Merlot),,,,,,
+RED,Cornelius – MAG,MAGNUM,2019,Schreckbichl,4, 46.40 € ,108
+RED,(Cabernet-Merlot),,,,,,
+RED,Lacus,,2020,Schullian,6, 39.90 € ,85
+RED,(Cabernet-Merlot),,,,,,
+RED,Lacus - MAG,MAGNUM,2020,Schullian,3, 82.10 € ,170
+RED,Soma,,2022,Kurtatsch,17, 18.30 € ,48
+RED,(Cabernet-Merlot),,,,,,
+RED,Soma – MAG,MAGNUM,2020,Kurtatsch,3, 39.50 € ,96
+RED,(Cabernet-Merlot),,,,,,
+RED,Soma – MAG,MAGNUM,2022,,3,,96
+RED,"ROT Mitterberg ""Luis""      Wein.Werk",,2019,Luis Oberrauch,12, 17.90 € ,47
+RED,(Vernatsch - Lagrein),,,,,,
+RED,448 slm Rosso,,2022,Girlan,106, 5.95 € ,26
+RED,(Lagrein – Pinot Noir – Vernatsch),,,,,,
+RED,,,,,,,
+RED,Vernatsch Gschleier,,2022,Girlan,6, 13.50 € ,39
+RED,Kalterersee Erbe und Auftrag,,2021,Andi Sölwa,22, 22.90 € ,57
+RED,Mirus,,,Kandlerhof,13, 26.90 € ,64
+RED,St. Magdalener Malanders,,2023,Pitzner,13, 11.10 € ,35
+RED,St. Magdalener - Huck am Bach,,2023,Kellerei Bozen,84, 8.60 € ,30
+RED,,,,,,,
+RED,"Cab. Sauvig. Ris. “kunst.stück” 1,5 l",MAGNUM,2015,Kaltern,1, 70.00 € ,136
+RED,Cabernet Sauvig. Staves,,2015,Kornell,2, 19.70 € ,52
+RED,Cabernet Sauvig. Ris. Campaner,,2021,Kaltern,19, 11.50 € ,37
+RED,"Cabernet Sauvig. Ris. Campaner 1,5 l",MAGNUM,2021,Kaltern,9, 29.10 € ,74
+RED,Cabernet Sauvig. Ris. Campaner 3 l,JEROBOAM,2021,Kaltern,4, 61.70 € ,148
+RED,Cabarone,,2020,Kaltern,13, 29.90 € ,69
+RED,"Cabernet Sauvig. ""Barleit"" - Anfora",,2018,Tröpfltalhof,7, 34.00 € ,77
+RED,"Cabernet Sauvig. ""Barleit"" - Anfora",,2020,,6,,77
+RED,Cabernet Franc Riserva,,2020,Nicolussi Leck,11, 26.50 € ,64
+RED,Cabernet Franc Riserva Mag,MAGNUM,2021,Nicolussi Leck,2, 52.00 € ,128
+RED,,,,,,,
+RED,Merlot Riserva Brenntal,,2018,Kurtatsch,10, 34.30 € ,77
+RED,Merlot Riserva Brenntal – MAG,MAGNUM,2020,Kurtatsch,2, 72.70 € ,154
+RED,Merlot,,2021,Putzenhof,139, 10.50 € ,33
+RED,Merlot Freiherr,,2018,Meran,11, 20.30 € ,51
+RED,,,,,,,
+RED,Lagrein Riserva Berger Gei,,2020,Niedrist,5, 25.90 € ,63
+RED,Lagrein Riserva Berger Gei MAG,MAGNUM,2020,Niedrist,4, 29.00 € ,126
+RED,,,2017,,1,,
+RED,Lagrein Riserva Manus,,2018,Ritterhof,12, 33.30 € ,76
+RED,Lagrein Riserva Manus – MAG,MAGNUM,2019,Ritterhof,3, 82.10 € ,152
+RED,Lagrein Sepp,,2021,Nicolussi Leck,21, 13.90 € ,41
+RED,Lagrein Sepp -MAG,MAGNUM,2021,Nicolussi Leck,2, 32.50 € ,82
+RED,Lagrein Riserva Porphyr,,2021,Terlan,2, 41.10 € ,89
+RED,Lagrein Riserva Porphyr - MAG,MAGNUM,2020,Terlan,5, 79.30 € ,178
+RED,Lagrein Riserva Porphyr – 3 L,JEROBOAM,2019,Terlan,2, 178.40 € ,330
+RED,Lagrein Riserva Taber,,2021,Bozen,6, 31.90 € ,73
+RED,Lagrein Riserva Taber – MAG,MAGNUM,2020,Bozen,5, 66.50 € ,146
+RED,Lagrein Greif,,2023,Kornell,110, 10.10 € ,33
+RED,Lagrein Greif Mag,MAGNUM,2022,,6, 24.90 € ,66
+RED,Lagrein Greif 3L,JEROBOAM,2022,,, 64.20 € ,132
+RED,Lagrein Riserva,,2022,Waldgries,26, 18.20 € ,48
+RED,Lagrein Riserva Abtei,,2018,Muri Gries,13, 24.50 € ,61
+RED,Lagrein Riserva Abtei – Magnum,MAGNUM,2021,Muri Gries,4, 48.90 € ,122
+RED,,,,,,,
+RED,Blauburgunder ,,2022,Castel Sallegg,44, 11.40 € ,35
+RED,Blauburgunder Riserva,,2019,Niedrist,15, 28.90 € ,66
+RED,Blauburguner Ris Mag,MAGNUM,2020,Niedrist,5, 62.20 € ,132
+RED,,,2019,,1,,
+RED,Blauburg. Mason de Mason - biodyn,,2020,Manincor,12, 56.00 € ,108
+RED,Blauburg. Mason de Mason - biodyn,,2016,,2,,108
+RED,Blauburg. Ris. Praepositus,,2019,Neustift,11, 25.80 € ,63
+RED,Blauburg. Ris. Praepositus,,2018,,4,,63
+RED,Blauburg. Ris. Praepositus - Magnum,MAGNUM,2019,Neustift,2, 51.40 € ,126
+RED,Blauburg. Ris Trattmann,,2017,Girlan,12, 29.70 € ,72
+RED,Blauburg. Ris Trattmann – Magnum,MAGNUM,2013,Girlan,1, 62.90 € ,144
+RED,"Blauburg. Ris. ""Vigna Ganger""",,2018,Girlan,1, 80.00 € ,163
+RED,"Blauburg. Ris. ""Vigna Ganger""",,2019,Girlan,3, 80.00 € ,161
+RED,Blauburg. Ris. „Vigna Ganger“ MAG,MAGNUM,2018,Girlan,1, 160.00 € ,315
+RED,"Blauburg. Ris. ""Vigna Ganger"" MAG",MAGNUM,2019,,2,,315
+RED,Blauburg. Riserva Fallwind,,2021,St.Michael Eppan,10, 16.30 € ,46
+RED,Blauburgunder Hausmannhof - bio,,2020,Haderburg,7, 22.50 € ,57
+RED,Blauburg. Ris. Matan,,2019,Pfitscher,10, 30.00 € ,69
+RED,Blauburgunder Ris. Pinot Noir,,2017,Wildmon,1, 45.00 € ,82
+RED,Blauburgunder Ris. Pinot Noir,,2019,,3,,82
+RED,Blauburgunder Riserva    wein.werk,,2021,Prackfolerhof,33, 19.40 € ,49
+RED,Blauburgunder Riserva Mag   wein.werk,,2019,Prackfolerhof,3, 41.00 € ,98
+RED,Blauburgunder Skytos,,2016,Ansitz Dolomytos,20, 24.00 € ,55
+RED,Blauburg. Riserva TWC (The Wine Collection),,2018,St.Michael Eppan,5, 91.90 € ,175
+RED,,,,,,,
+RED,Vino rosso d’Italia – Rotwein aus Italien,,,,,,
+RED,La Quadratura – Winecircus,,2018,Roberto Cipresso,2, 14.00 € ,41
+RED,(Montepulciano – Sangiovese – Sagrantino),,,,,,
+RED,Pigreco,,2019,Roberto Cipresso,12, 9.10 € ,36
+RED,(San Giovese 100%),,,,,,
+RED,,,,,,,
+RED,Trentino – Trient,,,,,,
+RED,Moratel IGT Bio,,2018,Cesconi,10, 11.20 € ,35
+RED,"(Lagrein, Teroldego, Merlot, Cabernet)",,,,,,
+RED,Moratel IGT Bio,,2019,,12,,
+RED,Moratel IGT Bio - Magnum,MAGNUM,2016,,2, 22.90 € ,70
+RED,Teroldego BIO,,2022,Foradori,15, 13.80 € ,40
+RED,San Leonardo,,2015,Ten. S. Leonardo,3, 40.00 € ,129
+RED,"(Cabernet Sauvignon, Merlot, Carménère)",,,,,,
+RED,San Leonardo,,2018,Ten. S. Leonardo,7, 55.00 € ,120
+RED,San Leonardo,,2019,Ten. S. Leonardo,13, 58.00 € ,118
+RED,San Leonardo MAG,MAGNUM,2019,Ten. S. Leonardo,3, 128.00 € ,245
+RED,Toscana – Toskana,,,,,,
+RED,Chianti Classico DOCG BIO,,2020,Poggio al sole,9, 11.90 € ,35
+RED,Chianti Classico DOCG Bio Mag,MAGNUM,2020,Poggio al sole,1, 25.90 € ,68
+RED,Chianti Classico DOCG,,2021,Riecine,10, 15.80 € ,41
+RED,Rosso di Montalcino,,2022,Talenti,36, 11.20 € ,35
+RED,Rosso di Montalcino - MAG,MAGNUM,2022,,10, 23.00 € ,70
+RED,Rosso di Montalcino,,2022,Valdicava,17, 21.10 € ,54
+RED,Brunello di Montalcino,,2017,Patrizia Cencioni,8, 26.00 € ,71
+RED,Brunello di Montalcino,,2016,La Fiorita,2, 31.00 € ,67
+RED,,,2015,,3,,
+RED,,,2017,,1,,
+RED,Hebo,,2020,Petra,23, 11.60 € ,36
+RED,(Merlot-Sangiovese-Cab.Sauv),,,,,,
+RED,Hebo,,2022,,6,,
+RED,Hebo – Magnum,MAGNUM,2020,Petra,2, 28.20 € ,72
+RED,Petra ,,2011,Petra,1, 39.45 € ,77
+RED,(Merlot-Cab.Sauv),,,,,,
+RED,Petra – Magnum,MAGNUM,2015,Petra,1, 71.80 € ,154
+RED,Tignanello ,,2020,Antinori,8, 83.80 € ,165
+RED,(Sangiovese-Cab.Sauv.-Cab. F),,,,,,
+RED,Tignanello,,2016,Antinori,8, 160.00 € ,285
+RED,Tignanello,,2021,,12,,
+RED,Tignanello - MAG,MAGNUM,2016,,1, 340.00 € ,520
+RED,Tignanello - MAG,MAGNUM,2021,,2,,
+RED,Avvoltore ,,2018,Morris Farms,12, 31.40 € ,71
+RED,(Sangiovese-Cab.Sauv.-Syrah),,,,,,
+RED,Avvoltore – Magnum,MAGNUM,2015-16,,, 61.40 € ,142
+RED,Le Volte ,,2022,Ornellaia,16, 17.50 € ,47
+RED,(Merlot-Sangiov.-Cab.Sauv),,,,,,
+RED,Le Volte – Magnum,MAGNUM,2020,Ornellaia,1, 41.40 € ,94
+RED,(Syrah-Alic.-Merlot-Cab. Franc-Marselan),,,,,,
+RED,Volpolo DOC Bolgheri,,2021,Podere Sappaio,6, 16.40 € ,44
+RED,Volpolo DOC Bolgheri,,2022,,12,,44
+RED,(Cab.Sauv.-Merlot-Petit Verdot),,,,,,
+RED,Villa Donoratico - Bolgheri,,2019,Tenuta Argentiera,2, 24.20 € ,57
+RED,(Cab.F.-Cab.Sauv.-Merlot-Petit Verdot),,,,,,
+RED,Villa Donoratico - Bolgheri,,2020,,11,,
+RED,Piastraia Bolgheri Superiori,,2021,Michele Satta,25, 29.50 € ,68
+RED,Piastraia Bolgheri Superiori Mag,MAGNUM,2021,,, 65.00 € ,136
+RED,Piastraia Bolgheri Superiori 3L,JEROBOAM,2021,,, 142.00 € ,272
+RED,Syrah Cortona doc Mementum,,2020,Paolo Magi,8, 19.80 € ,51
+RED,Filari 18 Cabernet Franc Bio - anfora,,2018,Casadei,5, 23.70 € ,57
+RED,Villa Antinori Rosso  IGT,,2020,Villa Antinori,20, 12.30 € ,36
+RED,Villa Antinori Rosso  IGT,,2022,Villa Antinori,16, 12.30 € ,36
+RED,,,,,,,36
+RED,Villa Antinori Rosso IGT Rosso Mag,MAGNUM,2020,Villa Antinori,1, 31.80 € ,72
+RED,Villa Antinori Rosso IGT Rosso Mag,MAGNUM,2022,,3,,72
+RED,Villa Antinori Rosso IGT Rosso 3L,JEROBOAM,2022,,2, 69.00 € ,144
+RED,Veneto – Venetien,,,,,,
+RED,Valpolicella Superiore,,2020,Zanoni,9, 7.90 € ,30
+RED,Valpolicella Superiore,,2021,Allegrini,74, 9.90 € ,33
+RED,Amarone della Valpolicella,,2013,Zanoni,, 32.00 € ,73
+RED,Amarone Capitel Monte Olmi,,2015,Tedeschi,, 45.30 € ,96
+RED,Carminium (Carmenere),,2021,Inama,5, 18.00 € ,48
+RED,,,,,,,
+RED,Piemonte – Piemont,,,,,,
+RED,Nebbiolo Val dei Preti,,2019,Matteo Coreggia,5, 15.90 € ,44
+RED,Nebbiolo Val dei Preti,,2021,,11,,44
+RED,Nebbiolo Val dei Preti,,2018,,6,,44
+RED,Nebbiolo Val dei Preti MAG,MAGNUM,2018,Matteo Coreggia,3, 32.00 € ,88
+RED,Nebbiolo Val dei Preti MAG,MAGNUM,2020,,3,,88
+RED,Nebbiolo Val dei Preti 3L,JEROBOAM,2019,Matteo Coreggia,1, 85.00 € ,176
+RED,Nebbiolo Val dei Preti 3L,JEROBOAM,2020,,1,,176
+RED,Nebbiolo Val dei Preti 5L,BORDEAUX_JEROBOAM,20219,,,,296
+RED,Barbera d’Alba,,2022,Matteo Coreggia,17, 8.60 € ,30
+RED,Barbera d’Alba MAG,MAGNUM,2019,Matteo Coreggia,2, 16.00 € ,60
+RED,Nebbiolo Langhe,,2020,La Ca’ Nova,4, 11.00 € ,38
+RED,"Nebbiolo ""Fralù""",,2022,Bruno Rocca,18, 14.50 € ,41
+RED,"Nebbiolo ""Fralù""",,2023,,24,,
+RED,"Nebbiolo ""Fralù"" MAG",MAGNUM,2022,,9,,82
+RED,Barbaresco Montestefano,,2018,La Ca’ Nova,5, 27.00 € ,64
+RED,Barbaresco Montestefano,,2015,,3,,64
+RED,Barolo - Antiche Cantine,,2019,Marchesi di Barolo,6, 33.70 € ,76
+RED,Barolo - Antiche Cantine,,2017,,2,,76
+RED,Barbaresco,,2022,Bruno Rocca,24,,
+RED,Barbaresco Mag,,2022,Bruno Rocca,4,,
+RED,Barbaresco Rabajà,,2021,Bruno Rocca,6, 60.00 € ,119
+RED,Barbaresco Rabajà,,2020,,3,,119
+RED,Barbaresco Rabajà MAG,MAGNUM,2021,,2, 129.00 € ,
+RED,Barbera d’Asti,,2020,Frasca,10, 8.50 € ,31
+RED,Barbera d’Asti Mag,MAGNUM,2020,Frasca,4, 22.00 € ,62
+RED,Barolo Massolino,,2020,Massolino,8, 24.20 € ,59
+RED,,,,,,,
+RED,Sicilia – Sizilien,,,,,,
+RED,Nero d’Avola Ris.a Don Antonio,,2018,Morgante,5, 20.80 € ,51
+RED,"Nero d’Avola Ris. Don Antonio 1,5 l",MAGNUM,2019,Morgante,5, 52.20 € ,102
+RED,Laeneo (Nerello Cappuccio),,2016,Tenuta di Fessina,4, 11.40 € ,40
+RED,Passorosso (Nerello Mascalese),,2021,Passopisciaro,11, 15.00 € ,48
+RED,,,,,,,
+RED,,,,,,,
+RED,Friuli - Friaul,,,,,,
+RED,Prelit (Merlot - Cab. Sauvignon) - natural wine,,2017,Damijan Podversic,9, 24.00 € ,59
+RED,Prelit (Merlot - Cab. Sauvignon) - natural wine,,2014,,2,,59
+RED,,,,,,,
+RED,Marche – Marken,,,,,,
+RED,Rosso Piceno DOC Maschio da monte,,2018,Santa Barbara,5, 15.00 € ,39
+RED,,,,,,,
+RED,Abruzzo - Abruzzen,,,,,,
+RED,Montepulciano d'Abruzzo,,2021,Emidio Pepe,9, 41.50 € ,87
+RED,,,,,,,
+RED,Campania – Kampanien,,,,,,
+RED,Aglianico Paestum “Donnaluna” BIO,,2019,De Conciliis,18, 9.90 € ,
+RED,,,,,,,
+RED,Francia – Frankreich,,,,,,
+RED,Bourgogne,,,,,,
+RED,Bourgogne Côte d'or Pinot noir,,2021,Pierre Morey,8, 23.80 € ,58
+RED,Gevrey Chambertin Pinot Noir,,2021,Harmand-Geoffroy,8, 49.50 € ,105
+RED,,,,,,,
+RED,Bordeaux,,,,,,
+RED,Saint-Georges-Saint-Emilion - Château Calon,,2018,Boidron,13, 19.40 € ,61
+RED,(Cab.Sauv.-Cab.Franc-Merlot),,,,,,
+RED,Pomerol,,2016,Château Cantelauze,9, 50.00 € ,105
+RED,(Cab.Franc-Merlot),,,,,,
+,,,,,,,
+,Hofstätter Rosé,,2022,J.Hofstätter,8, 8.95 € ,31
+,Rosé 2026,,2023,Elena Walch,8, 10.10 € ,33
+,Rosè Marie biodyn,,2021,Tröpfltalhof,16, 18.50 € ,49
+,Goldmuskateller,,2022,Kaltern,3, 7.20 € ,28
+,"5Quintessenz Passito 0,375 l",HALF_BOTTLE,2018,Kaltern,3, 28.40 € ,66
+,"5Quintessenz Passito 0,375 l",HALF_BOTTLE,2017,,2,,
+,"Moscato Rosa 0,5",HALF_LITER,2022,Haas,7, 27.40 € ,59

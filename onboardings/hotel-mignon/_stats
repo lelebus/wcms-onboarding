@@ -1,0 +1,26 @@
+TIME Pre-Process: 10' 07'' - Gabriele
+TIME Pre-Process (add prices manually from wine list): 2h 30' - Tobias
+
+TIME v1-to-v2: 21' 18'' - Gabriele
+
+TIME v3-selection: 25' - Tobias
+
+TIME v4-matches: 2h 10' - Tobias
+
+--- 
+
+Insertion:
+
+Total wines: 314
+
+Automatically matched: 124
+Manually matched: 174
+Duplicates: 4
+Total inserted: 294
+Saved to onboardings/hotel-mignon/v5-insert-draft.csv
+
+Forwarding:
+
+To forward from matching: 16
+To forward from v2-dropped.csv: 0
+To forward from duplicates: 4

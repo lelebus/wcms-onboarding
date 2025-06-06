@@ -1,0 +1,335 @@
+vintage,name,size,type,last_supplier,last_purchase_date,last_purchase_qty,fallback_purchase_price,qty,price_eur
+,Arunda Brut - Half bottle,,,Weindiele,06/12/2023,6,"9,30 €",7,32
+,Arunda Blanc de Blanc,,,Vinum Bozen,06/12/2023,6,"21,00 €",10,45
+,Bellavista Brut Alma,,,Vinum Bozen,06/03/2025,4,"29,00 €",8,60
+2014,Brut Balter Trentodoc,,,Liber International,06/06/2023,6,"24,40 €",8,50
+,Bollé Rosè Spumante,,,Agricola Andreola,16/12/2023,30,"5,40 €",27,
+,"Champagne Ruinart 0,375",HALF_BOTTLE,,Weindiele,19/12/2024,1,"33,90 €",3,75
+,Champagne Ruinart,,,Weindiele,19/12/2024,1,"49,90 €",3,112
+,Champagne Premier Roedere,,,Weindiele,06/12/2023,1,"51,50 €",4,
+,Cuvée di Gabry Rosé Dry,,,La Tordera,25/01/2025,36,"5,90 €",63,
+2016,Ferrari Trento Brut Perlé,,,Fine Wines,07/12/2023,6,"27,85 €",8,65
+,Franciacorta Cà del Bosco,,,Vinum Bozen,19/12/2024,2,"26,50 €",6,60
+,Franciacorta half bottle,,,Vinum Bozen,07/06/2024,6,"14,30 €",9,39
+2011,Methius Dorigati,,,Azienda Dorigati,07/07/2017,6,"21,00 €",6,49
+,Prosecco Dirupo Brut,,,Agricola Andreola,11/12/2024,30,"7,60 €",42,36
+,Prosecco Cartizze Tordera,,,La Tordera,25/01/2025,6,"17,00 €",21,37
+,Tittoni Millesimato Dry,,,La Tordera,25/01/2025,12,"7,80 €",15,37
+2017,Trento Natur Bellaveder,,,Azienda Agricola Bellaveder,09/07/2023,12,"14,90 €",12,44
+2009,Trento Giulio Ferrari Ris,,,Weindiele,18/09/2024,1,"143,00 €",3,203
+,Jelmas Exta Dry Tordera,,,La Tordera,13/07/2018,24,"3,65 €",,
+,Veuve Clicquot Champagne,,,Weindiele,19/12/2024,2,"46,00 €",2,91
+,Arunda Brut Rosé Excellor,,,Vinum Bozen,25/11/2021,6,"18,00 €",4,49
+,Pas Dosé Pinot Noir,,,Fine Wines,25/06/2024,6,"23,60 €",8,49
+,Spumante Fujente Bianco - Coppadoro,,,Tenuta Coppadoro,31/03/2024,24,"5,80 €",12,
+,Spumante Fujente Rosé - Coppadoro,,,Tenuta Coppadoro,03/06/2019,12,"5,60 €",,
+,Comitissa Pas Dosé Riserva - Lorenz Martini,,,Vinum Bozen,19/12/2024,1,"26,30 €",4,55
+,Prosecco Treviso Alnè - La Tordera,,,La Tordera,18/09/2024,24,"6,25 €",42,
+2017,Trentodoc Rosé Extra Brut Moser,,,Fine Wines,12/06/2023,6,"19,00 €",15,50
+,Arunda Cuveé Muggi,,,Weindiele,03/08/2019,6,"17,50 €",2,
+,Champagne Rosé Majuer Ayala,,,Weindiele,09/12/2022,2,"48,50 €",4,110
+,Cava Brut Reserva Heredad Segura,,,Weindiele,07/12/2019,3,"22,80 €",2,60
+,Champagne Cuveé Rosé Laurent-Perrier,,,Vinum Bozen,05/12/2022,1,"60,20 €",3,118
+,"Prosecco Dirupo Brut 0,375",HALF_BOTTLE,,Agricola Andreola,11/12/2024,12,"4,30 €",14,24
+,XXIII - Ai Boschi Brut Andreola,,,Agricola Andreola,16/12/2023,12,"9,20 €",19,38
+,Champagne Brut Moët Imperial,,,Weindiele,19/12/2024,1,"64,90 €",4,125
+2017,Trentodoc Rosé Nature Riserva Bellaveder,,,Azienda Agricola Bellaveder,09/07/2023,6,"19,60 €",13,48
+,Tor Sè Prosecco Rosé Tordera,,,La Tordera,16/12/2023,12,,22,34
+,Franciacorta ’61 Rosé Berlucchi ,,,Liber International,24/05/2022,6,"19,70 €",,
+2017,Trentodoc MAGNUM Rosè Brut Moser,,,Fine Wines,07/12/2024,6,"40,00 €",4,99
+2015,Trentodoc Blauen Blanc de Noirs Moser,,,,,,,3,76
+2017,Trentodoc 1673 Noir Nature Cesarini Sforza,,,Cantina Lavis e Valle di Cembra,19/05/2023,6,"19,60 €",2,48
+,"Brut Riserva ""36"" Cantina di Merano",,,Vinum Bozen,16/07/2023,6,"18,00 €",5,46
+2015,Franciacorta Brut Annamaria Clementi Cuvée,,,Vinum Bozen,23/01/2024,2,"95,70 €",2,190
+,Bella Glamour Drink,,,Vinum Bozen,12/02/2025,5,"5,15 €",10,
+,ALPL Golden Times Apple Cider,,,,,,,,
+,ALPL Sunset Rosé Apple Cider,,,Weindiele,19/07/2024,6,"6,40 €",5,
+,"Prosecco Brunei 0,375 La Tordera",HALF_BOTTLE,,La Tordera,18/09/2024,11,"5,15 €",23,
+2018,Trento Natur MAGNUM Bellaveder Riserva,MAGNUM,,,,,,,90
+,Praeclarus Pas dosé Rosé,,,Kellerei St. Pauls,19/12/2024,6,"19,50 €",5,45
+2018,Fiano di Avellino Exultet,,WHITE,Pellegrini SpA,06/07/2022,6,"21,00 €",4,48
+2022,Anthìlia Donnafugata,,WHITE,Vinum Bozen,18/07/2024,6,"9,10 €",9,36
+2023,Bianco di Custoza,,WHITE,Vinum Bozen,06/12/2024,6,"9,60 €",10,36
+2021,"Chardonnay Altkirch 0,375",HALF_BOTTLE,WHITE,Vinum Bozen,15/06/2022,12,"4,15 €",8,22
+2023,Chardonnay Cardellino,,WHITE,Avenue - Elena Walch,06/12/2024,18,"13,05 €",20,39
+2018,Chardonnay Löwengang,,WHITE,Vinum Bozen,06/12/2024,2,"45,00 €",2,84
+2023,Chardonnay Altkirch,,WHITE,Weindiele,06/02/2025,6,"7,60 €",19,34
+2023,Gewürztraminer F. Haas,,WHITE,Fine Wines,30/09/2024,12,"12,35 €",12,38
+2021,Gewürztra. Doc Flora Girl,,WHITE,Kellerei Girlan,14/12/2024,6,"15,00 €",13,42
+2021,Gewürztraminer Kolbenhof,,WHITE,Weindiele,16/07/2023,6,"24,90 €",6,52
+2022,Gewürztraminer Nussbaumer,,WHITE,Vinum Bozen,18/09/2024,6,"21,10 €",9,47
+2021,Gewürztraminer Kastelaz,,WHITE,Avenue - Elena Walch,06/12/2024,6,"18,55 €",19,46
+2022,"Gewürtraminer Tramin 0,37",HALF_BOTTLE,WHITE,Vinum Bozen,06/12/2024,6,"5,80 €",5,26
+2023,Kerner Nössing Val Isarco,,WHITE,Weindiele,13/02/2025,6,"11,20 €",14,37
+2022,Lugana Molin Ca Maiol,,WHITE,Weindiele,27/12/2024,6,"13,20 €",9,40
+2020,Müller Thurgau V. Forche,,WHITE,Cantina Lavis e Valle di Cembra,19/05/2023,12,"13,00 €",12,
+2021,Müller Thurgau Etza,,WHITE,Vinum Bozen,11/12/2024,6,"10,20 €",6,36
+2022,Müller Thurgau Nössing,,WHITE,Fine Wines,30/09/2024,6,"10,50 €",12,36
+2023,Müller Thurgau San Lorenz,,WHITE,Azienda Agricola Bellaveder,31/07/2024,18,"6,90 €",22,35
+2021,Müller Thuragu frizzante,,WHITE,Weindiele,10/07/2023,6,"6,30 €",5,29
+2022,Moscato Giallo amabile,,WHITE,Weindiele,19/09/2023,2,"7,20 €",2,34
+2023,Nosiola Trentino Sole Alto,,WHITE,Liber International,11/09/2024,12,"9,20 €",11,35
+2023,Pinot Grigio Köfererhof,,WHITE,Weindiele,06/12/2024,6,"12,70 €",10,39
+2022,Pinot grigio Livio Fellug,,WHITE,Livio Felluga,14/06/2024,6,"12,70 €",6,40
+2022,Pinot grigio Punggl Nals,,WHITE,Fine Wines,23/12/2024,6,"12,40 €",10,36
+2023,Pinot grigio Ringberg,,WHITE,Avenue - Elena Walch,06/12/2024,6,"15,65 €",10,43
+2024,Pinot Grigio Muri Gries,,WHITE,Convento Muri Gries,05/02/2025,60,"7,65 €",54,33
+2023,Pinot bianco Plattenriegl,,WHITE,Kellerei Girlan,14/12/2024,24,"9,70 €",32,35
+2022,Riesling Falkenstein,,WHITE,Weindiele,13/02/2025,6,"13,50 €",11,39
+2023,Riesling Kaiton Kuenhof,,WHITE,Vinum Bozen,13/02/2025,6,"14,70 €",11,41
+2019,Riesling Unterortl Juval,,WHITE,Vinum Bozen,13/02/2025,3,"19,90 €",10,47
+2022,"Sauvignon Valentin 0,375",HALF_BOTTLE,WHITE,Vinum Bozen,14/06/2023,6,"9,70 €",5,31
+2022,Sauvignon Niedrist Ignaz,,WHITE,Fine Wines,16/07/2024,6,"15,40 €",6,
+2023,Sauvignon Franz Haas,,WHITE,Weindiele,13/02/2025,6,"16,10 €",23,43
+2022,Soave Classico Calvarino,,WHITE,Weindiele,13/02/2025,12,"17,05 €",15,36
+2022,Stoan Cuvée Tramin,,WHITE,Weindiele,10/01/2025,6,"19,90 €",13,46
+2022,Sylvaner Kuenhof Pliger,,WHITE,Vinum Bozen,01/02/2024,6,"13,95 €",3,
+2023,Sylvaner Villscheiderhof,,WHITE,Weindiele,27/12/2024,6,"9,60 €",9,36
+2023,Terlaner Classico,,WHITE,Kellerei Terlan,30/01/2025,18,"10,30 €",34,37
+2022,Terlaner Cl. Kiemberger,,WHITE,Weindiele,08/08/2024,6,"10,50 €",5,38
+2023,Veltliner Strasserhof,,WHITE,Vinum Bozen,28/01/2025,6,"11,75 €",8,36
+2022,Vernaccia di S. Gimignano,,WHITE,Fine Wines,07/12/2023,6,"6,95 €",4,
+2024,Trentino Pinot Grigio Dorigati,,WHITE,Azienda Dorigati,09/03/2024,18,"8,40 €",,
+2020,Terlaner Sauvignon Quarz,,WHITE,,06/07/2022,6,"27,99 €",6,
+2022,Chardonnay Lafoa - Colterenzio,,WHITE,Weindiele,10/01/2025,6,"19,90 €",8,
+2023,Pinot Grigio St. Pauls,,WHITE,Kellerei St. Pauls,19/12/2024,24,"6,90 €",25,33
+2022,Pinot Bianco Kristallberg - Elena Walch,,WHITE,Avenue - Elena Walch,06/12/2024,12,"15,70 €",16,
+2022,Grüner Veltliner Praepositus - Novacella,,WHITE,Vinum Bozen,19/03/2025,6,"14,90 €",10,
+2013,LR Cuveé Bianco - Schreckbichl,,WHITE,Schreckbichl,16/02/2018,1,"49,00 €",2,130
+2023,Pinot bianco Eichhorn - Manincor,,WHITE,Weindiele,01/10/2024,6,"21,20 €",6,49
+2019,Terre Alte - Livio Felluga,,WHITE,Weindiele,07/06/2024,4,"57,50 €",4,
+2021,Magnum Pinot Bianco Sirmian,,WHITE,Weindiele,25/01/2025,1,"41,00 €",1,
+2018,Magnum - Lugana Cà dei Frati,,WHITE,Vinum Bozen,14/06/2023,1,"27,20 €",3,
+2023,Pfefferer - Moscato Giallo Colterenzio,,WHITE,Weindiele,25/08/2024,6,"7,60 €",11,33
+2023,Conte della Vipera Antinori,,WHITE,Marchesi Antinori,28/05/2024,6,"16,00 €",5,47
+2019,Pinot Grigio Gris - Lis Neris,,WHITE,Weindiele,20/07/2022,5,"18,10 €",4,
+,Gewürztraminer Lafoa - Colterenzio,,WHITE,,,,,,
+2022,"Pinot Bianco 0,375 Plötzner St. Pauls",HALF_BOTTLE,WHITE,Vinum Bozen,18/03/2022,6,"4,60 €",3,24
+2021,Chardonnay Cardellino Magnum,,WHITE,Avenue - Elena Walch,06/12/2024,1,"26,80 €",5,80
+2022,Kerner Praepositus Abbazia di Novacella,,WHITE,Vinum Bozen,18/09/2024,6,"14,90 €",4,42
+2017,Müller Thurgau Feldmarschall Tiefenbrunner,,WHITE,Fine Wines,07/06/2024,6,"37,25 €",14,74
+2024,Verdicchio di Matelica Colle Stefano,,WHITE,Vinum Bozen,19/03/2025,12,"6,70 €",14,33
+2022,Ribolla gialla l'Adelchi - Venica & Venica,,WHITE,Weindiele,10/01/2025,6,"19,90 €",9,46
+2022,W... Dreams ... - Jermann,,WHITE,Fine Wines,07/12/2024,6,"36,20 €",6,69
+2020,Private Cuvée Pacherhof,,WHITE,Vinum Bozen,31/12/2024,6,"27,90 €",23,60
+2018,Magnum Müller Thurgau Nössing,,WHITE,Fine Wines,06/12/2019,3,"17,00 €",1,72
+2024,Lugana Pansere Tenuta Fraccaroli,,WHITE,Weindiele,06/03/2025,12,"7,50 €",7,34
+2018,Magnum Sylvaner Aristos,,WHITE,Weindiele,05/12/2022,1,"31,00 €",2,71
+2021,Le Viogn BIO Tröpfeltalhof,,WHITE,Vinum Bozen,16/07/2024,6,"17,20 €",5,44
+2023,Vermentino Diomede Coppadoro,,WHITE,Tenuta Coppadoro,31/03/2024,12,"6,00 €",7,33
+2022,Vermentino di Sardegna Olianas,,WHITE,Vinum Bozen,19/03/2025,6,"8,90 €",6,34
+2019,Giovo Cuveé Bergkellerei Passeier,,WHITE,Vinum Bozen,06/12/2023,6,"21,00 €",6,48
+2022,Gavi del Comundi di Gavi Minaia,,WHITE,Vinum Bozen,06/12/2024,6,"7,30 €",8,34
+2022,Grüner Veltliner Tenuta Röck,,WHITE,Vinum Bozen,11/03/2025,6,"13,50 €",9,39
+2021,Friulano Collio Mario Schiopetto,,WHITE,Vinum Bozen,14/03/2024,6,"16,90 €",7,43
+2022,Malvasia Collio Ronco dei Tassi,,WHITE,Fine Wines,07/06/2024,5,"10,50 €",9,37
+2022,Offida Passerina Tenuta Santori,,WHITE,Weindiele,02/02/2024,6,"6,75 €",6,34
+2023,Chardonnay Marna Kellerei Girlan,,WHITE,Kellerei Girlan,14/12/2024,12,"10,20 €",23,36
+2023,Chardonnay Fallwind St. Michael Kellerei,,WHITE,Vinum Bozen,20/02/2025,6,"9,40 €",12,35
+2023,Orvieto Classico San Giovanni,,WHITE,Vinum Bozen,06/12/2024,12,"10,70 €",18,43
+2022,Pinot Grigio Isonzo Dessimis Vie di Romans,,WHITE,Fine Wines,30/09/2024,6,"20,85 €",8,46
+2023,Friuliano Collio Ronco delle Cime Venica,,WHITE,Weindiele,07/06/2024,12,"24,30 €",9,51
+2021,Gewürztraminer Upupa Orange Abraham,,WHITE,Weindiele,07/06/2024,6,"21,00 €",5,48
+2022,"Riesling ""R"" Valle Isarco Köfererhof",,WHITE,Weindiele,30/01/2025,6,"18,10 €",9,44
+2023,Müller Thurgau SOFI Franz Haas,,WHITE,Weindiele,13/02/2025,6,"7,85 €",25,35
+2022,Chardonnay Gottesacker Tenuta Abraham,,WHITE,Vinum Bozen,23/01/2025,8,"21,50 €",5,48
+,Gewürztraminer Selida Cantina Tramin,,WHITE,Vinum Bozen,06/12/2024,6,"10,10 €",10,
+2023,Fiano di Avellino Colli di Lapio,,WHITE,Vinum Bozen,26/06/2024,12,"14,60 €",9,42
+2022,Manna Franz Haas,,WHITE,Fine Wines,23/12/2024,6,"17,15 €",8,44
+2022,Greco IGT Campania 2021 - Pietracupa,,WHITE,Vinum Bozen,06/12/2024,12,"15,70 €",10,42
+2022,Cabernet Blanc Eugen Schneider,,WHITE,,,,,10,37
+2022,Roero Arneis Molino,,WHITE,,,,,,36
+2024,Pinot Grigio Alois Lageder,,WHITE,,,,,,35
+2024,Müller Thurgau Maso Warth Moser,,WHITE,,,,,,35
+2023,Riesling Renano Trentino Maso Warth,,WHITE,,,,,,40
+2024,Pinot Bianco Castel Juval,,WHITE,,,,,,40
+2015,Pinot Nero Riserva Linticlarus,,RED,Fine Wines,12/06/2018,12,"22,30 €",4,
+2016,"Amistar 0,375 - Sölva",HALF_BOTTLE,RED,Weindiele,02/03/2019,6,"9,25 €",3,32
+2018,Amarone Costasera Masi,,RED,Masi Agricola,04/02/2024,6,"24,40 €",10,70
+2018,Avvoltore Moris Farms,,RED,Weindiele,14/03/2024,3,"24,90 €",6,
+2018,"Amarone Castagnedi 0,375",HALF_BOTTLE,RED,Weindiele,10/01/2023,1,"11,95 €",1,39
+2000,Bolgheri Sassicaia,,RED,,,,,11,
+2023,Bardolino Classico Fresca,,RED,Masi Agricola,01/03/2025,18,"6,80 €",14,
+,Barolo Marchesi di Barolo,,RED,,,,,,
+2017,Barbanico Balter,,RED,Liber International,11/09/2024,6,"15,45 €",7,42
+2022,Barbera d'Alba Vignota,,RED,Fine Wines,30/09/2024,6,"13,80 €",6,40
+2021,Barbaresco Albino Rocca,,RED,Weindiele,14/01/2025,6,"23,50 €",6,50
+2013,Bricco Uccellone Braida,,RED,Vinum Bozen,20/02/2022,4,"40,80 €",7,93
+2010,Brunello Biondi Santi,,RED,Weindiele,19/01/2020,1,"103,50 €",2,256
+2017,Brunello Montalcino Talen,,RED,Fine Wines,21/05/2022,6,"27,50 €",6,70
+2018,Blauburgunder Mazzon,,RED,Fine Wines,12/06/2023,12,"16,30 €",9,49
+2016,Blauburgunder Krafuss,,RED,Weindiele,31/05/2022,3,"29,50 €",5,70
+2020,"Chianti Fonterutoli 0,375",HALF_BOTTLE,RED,Weindiele,05/12/2022,6,"9,40 €",7,30
+2020,Cabernet Ris. Campaner,,RED,Weindiele,25/01/2025,6,"11,50 €",6,38
+2013,Cabernet Sauvignon Lafoa,,RED,Weindiele,20/07/2022,3,"42,90 €",8,99
+2015,Chianti Badia Passignano,,RED,Marchesi Antinori,28/05/2024,6,"28,00 €",11,76
+2012,"Cabernet Istrice 0,375",HALF_BOTTLE,RED,Weindiele,12/06/2023,4,"10,80 €",7,31
+2022,Cabernet Istrice Walch,,RED,Avenue - Elena Walch,06/12/2024,6,"16,25 €",15,43
+2017,Fojaneghe Rosso,,RED,Masi Agricola,01/03/2025,12,"16,70 €",17,44
+2013,Fontalloro Fèlsina,,RED,Fine Wines,07/12/2023,2,"41,80 €",5,89
+2013,Granato Foradori Elisab.,,RED,Az. Agricola Foradori,09/03/2022,6,"30,00 €",7,65
+2016,Linticlarus Cuveé,,RED,Fine Wines,07/12/2023,6,"29,40 €",11,60
+2022,Le Volte dell' Ornellaia,,RED,Weindiele,04/02/2025,6,"17,50 €",9,
+2019,Lagrein Dunkel Mansum,,RED,Azienda Agricola Bellaveder,31/07/2024,6,"11,50 €",12,40
+2011,Lagrein Abtei Muri 2011,,RED,,,,,5,68
+2020,Lagrein Nusserhof Riserva,,RED,Weindiele,18/09/2024,12,"22,90 €",13,49
+2023,Lagrein Tenuta Waldgries,,RED,Weindiele,04/02/2025,12,"11,50 €",25,37
+2019,Lagrein Praepositus,,RED,Abbazia Di Novacella,31/01/2023,6,"18,70 €",6,48
+2020,Lagrein Riserva Gojer,,RED,Franz Gojer - Glögglhof,06/12/2024,12,"18,70 €",50,46
+2021,Lagrein Riserva Taber,,RED,Vinum Bozen,21/03/2024,6,"31,50 €",4,65
+2021,Lagrein Mayr Unterganzner,,RED,Vinum Bozen,07/06/2024,6,"21,50 €",6,48
+2022,Lagrein Tor di Lupo,,RED,Kellerei Andrian,30/01/2025,6,"22,48 €",8,55
+2021,Lagrein Riserva Carlotto,,RED,Fine Wines,30/09/2024,12,"13,60 €",12,40
+2017,"Lagrein Riserva 0,375",HALF_BOTTLE,RED,Weindiele,31/05/2022,6,"11,50 €",10,31
+2017,La Massa Giorgio Primo,,RED,Weindiele,19/07/2024,1,"94,00 €",3,
+2011,Le Serre Nuove Ornellaia,,RED,Weindiele,17/01/2020,3,"35,90 €",4,
+2013,Lamarein 2013 Mayr Josep.,,RED,,,,,4,69
+2014,Lamarein 2014 Josef Mayr,,RED,,,,,3,69
+,Masseto,,RED,,,,,3,
+2014,Milleunanotte Donnafugata,,RED,Weindiele,05/12/2022,2,"43,10 €",3,
+2019,Mauracher Sand Foradori,,RED,Mauracher Agricola,09/03/2022,18,"12,50 €",8,41
+2020,Marzemino d'Isera Trentin,,RED,Weindiele,20/08/2024,6,"8,90 €",6,35
+2023,Merlot Elena Walch,,RED,Avenue - Elena Walch,06/12/2024,24,"9,60 €",20,36
+2015,"Merlot Siebeneich 0,375",HALF_BOTTLE,RED,Schreckbichl,05/07/2018,12,"6,40 €",8,28
+2020,Morellino di Scansano,,RED,Weindiele,01/10/2024,3,"10,70 €",7,36
+2020,Pinot Nero Filari Carlott,,RED,Fine Wines,30/09/2024,6,"17,70 €",17,44
+2020,Pinot Nero Trattmann,,RED,Kellerei Girlan,14/12/2024,6,"32,50 €",16,56
+2017,Pinot Nero San Urbano,,RED,Weindiele,01/03/2022,2,"42,60 €",2,91
+2021,Pinot Nero Vigna Cantangh,,RED,Pellegrini SpA,14/12/2024,12,,25,46
+2021,"Pinot Nero Patricia 0,375",HALF_BOTTLE,RED,Kellerei Girlan,19/06/2023,12,"5,70 €",11,28
+2018,Pinot Nero Abtei Muri,,RED,Convento Muri Gries,24/06/2023,6,"18,60 €",11,47
+2020,Pinot Nero Schweizer,,RED,Weindiele,13/02/2025,6,"30,00 €",11,57
+2020,Pinot Nero Monticol Riser,,RED,Kellerei Terlan,23/01/2024,12,"15,55 €",13,43
+2012,Pinot Nero Vigna Ganger,,RED,Kellerei Girlan,11/12/2019,2,"70,00 €",4,160
+2020,Pinot Nero Ludwig Walch,,RED,Avenue - Elena Walch,19/06/2024,6,"25,00 €",15,52
+2020,Pinot Nero Faedi Bellaved,,RED,Azienda Agricola Bellaveder,31/07/2024,6,"15,50 €",9,45
+2005,Ornellaia 2005,,RED,,,,,1,
+2006,Ornellaia 2006,,RED,,,,,9,
+2007,Ornellaia 2007,,RED,,,,,6,
+2020,Refosco Peduncolo Rosso,,RED,Livio Felluga,14/06/2024,12,"15,52 €",15,43
+2022,Rosè Lagrein Mayr Joseph,,RED,Vinum Bozen,07/06/2024,6,"12,00 €",6,37
+2023,Le Rose de Manincor,,RED,Weindiele,11/09/2024,6,"15,50 €",14,42
+2023,Muri Rosé Lagrein Kretzer,,RED,Convento Muri Gries,05/02/2025,24,"7,70 €",31,34
+2022,Torilan,,RED,Kellerei Terlan,30/01/2025,24,"12,00 €",25,37
+2019,Teroldego Riserva Rotalia,,RED,Vinum Bozen,25/08/2024,6,"11,20 €",6,38
+,"Teroldego 0,375 Foradori",HALF_BOTTLE,RED,Weindiele,20/05/2017,14,"5,76 €",1,
+2022,Teroldego Foradori Elisab,,RED,Vinum Bozen,11/12/2024,6,"13,80 €",9,40
+2016,Terre Brune Santadi,,RED,Weindiele,31/05/2022,2,"32,90 €",3,
+2020,Tancredi Contessa Entelli,,RED,Weindiele,04/02/2025,6,"25,90 €",8,
+2020,Tignanello Antinori,,RED,Marchesi Antinori,28/05/2024,6,"61,00 €",14,
+2012,Taurasi Feusi S. Gregorio,,RED,Vinum Bozen,13/03/2019,6,"19,10 €",4,44
+2013,Turriga Antonio Argiolas,,RED,Weindiele,25/01/2025,2,"79,50 €",3,
+2017,San Leonardo Gonzaga,,RED,Weindiele,31/05/2022,6,"59,90 €",3,91
+2022,Schiava Grigia Larcherhof,,RED,Weindiele,11/08/2023,6,"8,50 €",6,34
+2022,Vernatsch Gschleier Girla,,RED,Kellerei Girlan,17/08/2024,12,"13,50 €",28,38
+2022,Vernatsch Galea Nals,,RED,Vinum Bozen,24/09/2024,6,"9,50 €",9,35
+2023,Vernatsch Alte Reben Gojer,,RED,Franz Gojer - Glögglhof,11/06/2024,18,"8,10 €",23,35
+2023,448 s.l.m. Rosso Cuveé,,RED,Kellerei Girlan,14/12/2024,12,"5,95 €",18,32
+2017,"St. Magdalener 0,375",HALF_BOTTLE,RED,Kellerei Nals Margreid,10/12/2018,12,"3,30 €",7,25
+2023,St. Magdalener Gojer F.,,RED,Franz Gojer - Glögglhof,11/06/2024,24,"12,60 €",47,38
+2022,St. Magdalener J. Mayr,,RED,Vinum Bozen,23/08/2024,12,"12,00 €",23,38
+2003,Solaia Marchesi Antinori,,RED,Vinum Bozen,20/05/2017,6,"174,70 €",6,
+2020,Upupa Rosso Abraham,,RED,Weindiele,12/06/2023,6,"13,00 €",5,39
+2022,Vertigo - Livio Felluga,,RED,Livio Felluga,14/06/2024,12,"17,50 €",15,
+2016,Vino Nobile Asinone Poliz,,RED,Fine Wines,07/06/2024,2,"39,25 €",6,80
+2020,Vino Nobile Boscarelli,,RED,Weindiele,25/01/2025,6,"20,50 €",7,47
+,Arrocco Albana di Romagna,,RED,,,,,8,
+,Comtess Passito,,RED,,,,,,33
+,Eiswein Cuvee Kracher,,RED,,,,,,
+2020,Juvelo Gewürz. Passito,,RED,Weindiele,04/02/2025,2,"25,00 €",2,48
+2001,Moscato Rosa F. Haas,,RED,Fine Wines,31/01/2020,3,"19,30 €",3,45
+2000,Moscato Rosa Muri Gries,,RED,,,,,5,42
+2008,Praepositus Kerner Passit,,RED,,,,,3,37
+2011,Pipa XI Porto ~ Gojer,,RED,,,,,6,45
+2022,Amistar Cuveé Rosso - Peter Sölva,,RED,Weindiele,08/08/2024,12,"25,00 €",16,52
+2020,Primitivo Impavido - Tenuta Coppadoro,,RED,Tenuta Coppadoro,31/03/2024,18,"18,50 €",2,50
+2015,Lamarein 2015 Josephus Mayr,,RED,Weindiele,04/07/2017,6,"32,90 €",2,78
+2021,Merlot Huberfeld St. Pauls,,RED,Kellerei St. Pauls,19/12/2024,12,"9,30 €",9,35
+2017,Petit Manseng Passion - Cantina St. Pauls,,RED,Kellerei St. Pauls,11/12/2019,6,"16,00 €",1,40
+2019,Arzio - Baron di Pauli,,RED,Vinum Bozen,02/03/2023,2,"25,00 €",3,60
+,Furioso Rosso - Thomas Pichler,,RED,Weindiele,03/03/2020,3,"36,00 €",,
+2017,Cabernet Sauvignon Cor Römigberg,,RED,Vinum Bozen,06/12/2024,3,"37,50 €",4,78
+2019,Merlot Riserva Brenntal - Kurtatsch,,RED,Weindiele,05/01/2024,3,"34,00 €",5,60
+2016,Lagrein Riserva Porphyr - Cantina Terlano,,RED,,06/07/2022,6,"30,03 €",9,63
+2016,Magnum - Schiava Botte Nr. 9 - Girlan,MAGNUM,RED,Kellerei Girlan,13/06/2018,2,"16,60 €",3,65
+2019,Magnum - Laurin Cantina Cornaiano,MAGNUM,RED,Kellerei Girlan,19/12/2022,2,"24,00 €",3,69
+2021,Magnum - Cabernet Istrice Elena Walch,MAGNUM,RED,Avenue - Elena Walch,03/01/2024,3,"35,00 €",,88
+2017,Magnum - Amarone Classico Costasera Masi,MAGNUM,RED,Masi Agricola,27/02/2023,2,"53,50 €",2,151
+2015,Lagrein 2015 Abtei Muri Riserva,,RED,Vinum Bozen,02/10/2018,3,"19,20 €",39,58
+2020,Magnum - Lagrein Abtei Muri Riserva ,MAGNUM,RED,Convento Muri Gries,05/02/2025,2,"39,80 €",4,
+2012,Pinot Nero Ponkler 2012 - Franz Haas,,RED,Fine Wines,06/12/2019,3,"50,50 €",4,110
+2014,Lagrein Vigna Klosteranger Muri,,RED,Convento Muri Gries,15/02/2024,3,"50,00 €",14,100
+2014,Montevetrano - Colli di Salerno,,RED,,08/06/2018,4,"117,20 €",2,
+2015,Pinot Nero Riserva Tenuta Wildmonn,,RED,Weingut Wildmonn,11/12/2019,6,"40,00 €",10,80
+2016,Lamarein 2016 Unterganzner,,RED,Weindiele,27/06/2018,6,"33,90 €",4,
+2015,Magnum Primitivo Impavido Coppadoro,MAGNUM,RED,Tenuta Coppadoro,25/05/2022,1,"43,00 €",1,99
+2018,Magnum St. Magdalener Vigna Rondell,MAGNUM,RED,Franz Gojer - Glögglhof,24/06/2023,2,"26,20 €",10,76
+2007,Magnum Bolgheri Sassicaia 2007 - Tenuta San Guido,MAGNUM,RED,,,,,1,
+2016,Terra d'Eclano Aglianico - Quintodecimo,,RED,Pellegrini SpA,12/12/2018,6,"24,00 €",2,50
+2019,Syrah Maroccoli Planeta,,RED,Weindiele,09/03/2024,6,"15,20 €",4,47
+2019,Pinot Nero Saosent Cantina Cembra,,RED,Cantina Lavis e Valle di Cembra,19/05/2023,12,"19,00 €",8,45
+2016,Lagrein Abtei Muri 2016,,RED,Weindiele,07/12/2019,6,"15,50 €",47,50
+2022,Pinot Nero St. Daniel Riserva Colterenzio,,RED,Vinum Bozen,06/03/2025,6,"12,29 €",7,40
+2019,Montepulciano d'Abruzzo Riserva Spelt La Valentina,,RED,Weindiele,25/03/2025,3,"14,60 €",7,45
+2023,Caldaro Classico Superiore Quintessenz,,RED,Weindiele,20/02/2025,6,"10,40 €",13,37
+2015,Montefalco di Sagrantino Collepiano Caprai,,RED,Weindiele,23/01/2025,2,"20,90 €",4,52
+2017,Lamarein 2017 J. Mayr,,RED,,28/06/2019,6,"35,90 €",1,70
+2020,Teroldego Rotaliano Diedri Riserva Dorigati,,RED,Azienda Dorigati,09/03/2024,6,"15,10 €",12,42
+2017,Aglianico Molise Riserva Contado - Di Majo Norante,,RED,Weindiele,02/02/2024,6,"10,90 €",6,40
+2019,Merlot Mühlweg Ignaz Niedrist,,RED,Fine Wines,16/07/2024,12,"23,50 €",11,49
+2020,Lagrein Staffes Riserva Kornell,,RED,Weindiele,25/08/2024,3,"17,90 €",5,44
+2016,Brunello di Montalcino Mastrojanni,,RED,Fine Wines,07/03/2024,6,"37,80 €",8,80
+2022,Rosato Schiava - Rosé Vernatsch Gojer,,RED,Franz Gojer - Glögglhof,11/06/2024,12,"8,85 €",26,34
+2010,Brunello di Montalcino Poggio al Vento - Col d'Orc,,RED,Vinum Bozen,05/12/2022,1,"71,20 €",3,150
+2021,Rosso di Montalcino Uccelliera,,RED,Weindiele,10/01/2024,6,"15,60 €",9,43
+2020,Chianti Classico Cavarchione BIO Istine,,RED,Weindiele,18/09/2024,6,"19,00 €",8,45
+2018,Lamarein 2018 30° Anniversario J. Mayr,,RED,Vinum Bozen,18/08/2020,3,"36,90 €",5,70
+2019,Cannonau di Sardegna riserva Olianas,,RED,Vinum Bozen,11/03/2025,4,"14,10 €",6,40
+2018,Kålch Cuveé Bergmannhof,,RED,Weindiele,14/03/2024,6,"31,00 €",5,64
+2023,Lagrein Granat Franz Gojer,,RED,Franz Gojer - Glögglhof,04/01/2025,42,"10,50 €",17,37
+2018,Lagrein Abtei Muri 2018,,RED,Convento Muri Gries,13/08/2021,48,"15,50 €",32,50
+2021,Planus Rosso Cuveé Dorigati,,RED,Azienda Dorigati,09/03/2024,18,"9,80 €",1,39
+2022,Pinosé Kurtasch - Pinot Nero Rosé,,RED,Vinum Bozen,05/01/2024,12,"8,80 €",8,35
+2018,Cabernet Franc Generation K - Andi Sölva,,RED,Vinum Bozen,27/02/2023,2,"24,00 €",4,55
+2019,Rombo Cuveé Bergkellerei Passaier,,RED,Vinum Bozen,28/01/2025,3,"23,70 €",5,50
+2018,"Kalterersee - Caldaro ""Erbe & Auftrag"" Andi Sölva",,RED,Vinum Bozen,25/11/2021,6,"20,20 €",3,49
+2018,"Vino Nobile Boscarelli 0,375",HALF_BOTTLE,RED,Weindiele,08/01/2022,6,"10,70 €",5,31
+2018,Valtellina Inferno Superiore Riserva Rainoldi,,RED,Weindiele,04/02/2025,4,"25,30 €",9,52
+2022,Schiava gentile - Edelvernatsch Haselhof,,RED,Weindiele,25/03/2025,6,"8,70 €",8,35
+2018,Pinot Nero Riserva Curlan Girlan,,RED,Kellerei Girlan,16/07/2023,3,"60,00 €",5,126
+2021,Pinot Nero Riserva Thalman Cantina Bolzano,,RED,Weindiele,14/02/2024,6,"19,00 €",5,44
+,Zero Infinito CREMISI di Pojer & Sandri,,RED,Fine Wines,12/06/2023,6,"13,00 €",7,38
+2023,Rosato Primitivo Rosett - Tenute Sannella,,RED,Tenuta Coppadoro,31/03/2024,12,"6,50 €",13,33
+,Rosato Anphora Rosé Marie Tröpfeltalhof,,RED,Vinum Bozen,06/12/2023,2,"18,00 €",4,
+2016,Magnum - Pinot Nero Ludwig Elena Walch,MAGNUM,RED,Avenue - Elena Walch,20/07/2022,3,"50,50 €",2,105
+2017,Pinot Nero Oltrepò Pavese Conte Vistarino,,RED,Weindiele,20/08/2022,4,"21,00 €",3,48
+2020,"Petit Manseng Aurie 0,50 cl",,RED,,,,,6,32
+2016,Barolo Riserva Lazzarito Ettore Germano,,RED,Weindiele,25/03/2025,1,"76,00 €",3,138
+2020,Lagrein Abtei Muri 2020,,RED,Convento Muri Gries,27/12/2022,48,"19,90 €",45,50
+2023,Sicilia Rosato Lumera Donnafugata,,RED,Vinum Bozen,25/07/2024,12,"10,70 €",8,37
+2021,Syrah Vigneti delle Dolomiti Franz Gojer,,RED,Franz Gojer - Glögglhof,11/12/2023,12,"25,00 €",10,55
+2023,Vernatsch Meraner Schickenburg,,RED,Weindiele,30/01/2025,6,"9,00 €",7,35
+2021,Echo der Erde Thomas Pichler,,RED,Weindiele,19/07/2024,2,"42,00 €",2,89
+2020,Nero d'Avola Don Antonio Morgante,,RED,Weindiele,25/03/2025,6,"23,50 €",10,51
+2021,Cabernet Sauvignon Riserva Sass Roà Laimburg,,RED,Vinum Bozen,19/12/2024,6,"17,10 €",4,44
+2021,St. Magdalener Klassisch Heilmann,,RED,Vinum Bozen,12/02/2025,6,"15,50 €",7,42
+2021,Lamarein 2021 Mayr Josephus,,RED,Vinum Bozen,26/08/2023,9,"42,90 €",9,85
+2018,Merlot Maurus Vie di Romans,,RED,Fine Wines,07/12/2023,6,"14,70 €",5,43
+2021,Lagrein Abtei Muri 2021,,RED,Weindiele,15/03/2024,6,"19,90 €",51,50
+2021,Moscato d'Asti Canelli Casa Bianca Doglia,,RED,Weindiele,07/06/2024,2,"11,10 €",3,38
+2020,Valpolicella Ripassa Zenato,,RED,Weindiele,13/03/2025,6,"15,50 €",5,43
+2021,Magnum - Amistar Cuvée Rosso,MAGNUM,RED,Vinum Bozen,07/06/2024,1,"54,30 €",1,108
+2019,Zweigelt Befehlhof Mitterberg ,,RED,Weindiele,25/03/2025,3,"10,70 €",5,38
+2021,Chianti Classico Riserva Villa Antinori,,RED,Marchesi Antinori,28/05/2024,12,"14,50 €",7,44
+2020,Merlot Fihl Alto Adige Dipoli Peter,,RED,Fine Wines,07/06/2024,18,"14,00 €",7,40
+2022,Lamarein 2022 Mayr Josephus,,RED,Vinum Bozen,27/08/2024,6,"46,10 €",12,89
+,Rosé Rosa Cantina di Bolzano,,RED,Vinum Bozen,18/07/2024,5,"8,90 €",2,
+2023,Dolcetto Mosesco Prunotto,,RED,Vinum Bozen,27/09/2024,12,"11,00 €",9,39
+2022,"St. Magdalener Vigna Rondell ""R""",,RED,Franz Gojer - Glögglhof,06/12/2024,6,"25,00 €",5,51
+2021,Nebbiolo Langhe Pio Cesare,,RED,Weindiele,11/03/2025,6,"18,50 €",8,47
+2024,Rosé Felix Anton Baron Longo,,RED,Vinum Bozen,01/12/2024,5,"9,90 €",5,37
+2018,Pinot Nero Mazzon Tenuta Gottardi,,RED,,,,,-1,49
+2022,Lagrein Abtei Muri 2022,,RED,Convento Muri Gries,05/02/2025,48,"20,00 €",48,50
+2021,Barolo Bric del Fiasc Paolo Scavino,,RED,Vinum Bozen,11/03/2025,4,"82,20 €",4,142
+2022,Pinot Nero Josmoar Val Venosta,,RED,,,,,,43
+2022,Merlot Riserva Gant Cantina Andriano,,RED,,,,,,62

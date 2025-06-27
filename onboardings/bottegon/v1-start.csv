@@ -1,0 +1,465 @@
+type,winery,name,size,vintage,supplier,price_eur,qty,Storage_1,Storage_2,Storage_3,purchase_price_inclvat
+RED,Agricoltori del Chianti Geografico,Chianti Classico,,1971,,,1,Collezione,,, 1 € 
+RED,Allegrini,Amarone della Valpolicella Classico docg,,2017,,150 €,4,s2 - legno,,, 76 € 
+RED,Allegrini,Amarone della Valpolicella Classico docg ,,2019,,120 €,5,s2 - legno,,, 53 € 
+RED,Allegrini,La Grola igt Rosso Veronese,,2018,,,,,,,
+RED,Allegrini,La Grola igt Rosso Veronese,,2019,,45 €,17,s4,bar005,, 18 € 
+RED,Allegrini,La Poja - Corvina Veronese igt V.S Cassa Luxury,,2017,,140 €,5,s3 - legno,,, 76 € 
+RED,Allegrini,Palazzo della Torre igt - Corvina e Rond. Met. Alleg,,2016,,45 €,4,bar005,,, 13 € 
+RED,Allegrini,Valpolicella doc Corte Giara,,2022,,25 €,2,bar005,,, 7 € 
+RED,Angelo Negro,Barolo docg Comune Serralunga C.Legno,,2017,,60 €,1,bar003,,, 31 € 
+RED,Angelo Negro,Basarin - Barbaresco docg Ris.C.Legno,,2016,,70 €,1,s3 - legno,,, 34 € 
+RED,Angelo Negro,Prachiosso Roero docg (Omaggio),,2018,,25 €,1,bar003,,, 10 € 
+RED,Angelo Negro,Sudisfa' - Roero docg Riserva,,2017,,60 €,1,bar003,,, 27 € 
+RED,Antinori,Badia a Passignano - Chianti G.S.,,2020,,70 €,2,S4,,, 34 € 
+RED,Antinori,Guado al Tasso- Bolgheri Sup,,2021,,180 €,6,s4 - legno,,, 88 € 
+RED,Antinori,Peppoli Chianti Classico,,2022,Friends,30 €,8,s4,,, 8 € 
+RED,Antinori,Tignanello Sang.C.S +C.F.Barrique,,2021,,150 €,4,tav10,,, 71 € 
+RED,Antinori,Villa Antinori Riserva Chianti Cl.,,2021,,45 €,5,s3,,, 15 € 
+RED,Antinori,Villa Antinori Ryder Cup,,2020,,30 €,1,bar010,,, 11 € 
+RED,Antinori ,Il Bruciato - Tenuta Guado al Tasso,,2022,Friends,40 €,9,s4,bar010,, 14 € 
+RED,Arnaldo Caprai,Grecante - Grechetto,,2023,,26 €,7,Frigo Sala sx,Frigo bianchi,, 9 € 
+RED,Arnaldo Caprai,Merlot 2 Anni Barrique,,2018,,55 €,2,s4,,, 23 € 
+RED,Arnaldo Caprai,Montefalco Rosso Riserva doc,,2019,,50 €,8,s4,bar009,, 16 € 
+RED,Arnaldo Caprai,Montefalco Rosso Riserva doc,,2021,,50 €,17,s4,,, 17 € 
+RED,Arnaldo Caprai,Montefalco Sagrantino  - 25 Anni docg ,,2018,,100 €,3,cheba-top,,, 40 € 
+RED,Arnaldo Caprai,Montefalco Sagrantino  - 25 Anni docg ,,2019,,100 €,6,s4 - legno,,, 40 € 
+RED,Arnaldo Caprai,Montefalco Sagrantino Val di Maggio docg,,2019,,60 €,6,s4,bar009,, 22 € 
+RED,Arnaldo Caprai,Vigna Flaminia Maremmana (Montefalco Rosso doc),,2021,,30 €,,,,, 10 € 
+RED,Atlantic Brand,Caelum Malbech,,2018,,50 €,1,bar010,,, 18 € 
+RED,Atlantic Brandcae,Caelum Cabernet sauvignon,,2019,,60 €,1,bar010,,, 23 € 
+RED,Bagnarol,Terra Sancti Viti,,2021,,,1,snack,,, 1 € 
+RED,Bandinelli,Il Macinatoio di Panzano,,1975,,,1,Collezione,,, 1 € 
+RED,Baron De Ley,Club Privado Tempranillo - Rioja,,2020,Bolis,25 €,15,s4,bar008,, 8 € 
+RED,Baron De Ley ,Finca Monasterio Baron De Ley,,2017,Bolis,55 €,2,bar008,,, 21 € 
+RED,Baron De Ley ,Rioja Reserva Tempranillo - Rioja Reserv,,2020,Bolis,36 €,12,s4,bar008,, 12 € 
+RED,Bellia,De Promisso,,2019,,,1,tav11,,, 1 € 
+RED,Bertani,Amarone Valpolicella Classico docg  ,,2008,,150 €,6,s2 - legno,tav10,, 67 € 
+RED,Bertani,Rosso di Verona,,2016,,,5,bar004,s2 - legno,,
+RED,Borgo San Daniele,Arbis Ros Pignolo,,2016,,60 €,3,s2,,, 22 € 
+RED,Borgo San Daniele,Arbis ROS Pignolo,,2019,,80 €,13,s2,,, 29 € 
+RED,Borgo San Daniele,Jiasik Rosso Cabernet Sauvignon,,2022,,25 €,23,bar007,carni,, 10 € 
+RED,Braida,Bricco Dell'uccellone,,2020,TOLM,100 €,3,tav10,,, 34 € 
+RED,Brandolini,Brando ,,2017,,50 €,12,s2,bar006,, 23 € 
+RED,Brandolini,Refosco,,2017,,20 €,1,bar005,,, 5 € 
+RED,Brandolini,Stomo,,2019,,25 €,1,bar005,,, 6 € 
+RED,Brandolini,Stomo,,2020,,25 €,11,s2,bar005,, 6 € 
+RED,Brandolini,Vistorta Merlot igt ,,2018,,50 €,9,s2,bar006,, 22 € 
+RED,Bressani,Merlot,,2021,,30 €,12,s2,bar006,, 12 € 
+RED,Bressani,Refosco Dal Peduncolo Rosso,,2021,,30 €,2,bar006,,, 13 € 
+RED,Ca Bianca,Assesel Barbera  Omaggio,,2023,GIV,,1,s3,,, 1 € 
+RED,Ca Bianca,Barbera d'Asti Superiore,,2022,GIV,25 €,19,s3,bar002,, 8 € 
+RED,Ca Bianca,Nebbiolo Langhe,,2022,GIV,25 €,13,s3,bar002,, 7 € 
+RED,Ca Bianca,Nebbiolo Langhe,,2023,GIV,25 €,24,s4,abbattitore,, 7 € 
+RED,Calatroni,Fioravanti - Pinot Nero dell'Oltrepò Pavese doc ,,2014,,25 €,2,bar003,,, 7 € 
+RED,Calatroni,Pinot Nero (Oltrepo Pavese),,2012,,36 €,2,bar003,,, 16 € 
+RED,Calatroni,Riesling,,2013,,36 €,3,Frigo Sala sx,,, 16 € 
+RED,Campe Dhei,Sior ,,2018,,,12,tav10-top,MAG,, 10 € 
+RED,Carolina Gatti,El Gat Ros,,,,,5,tav10-top,MAG,,
+RED,Carolina Gatti,Raboso,,2019,,21 €,1,tav10-top,,, 8 € 
+RED,Castellare di Castellina,I Sodi di S. Nicolò,,2019,,,1,cheba-top,,, 40 € 
+RED,Castello di Ama,Chianti Classico docg,,2021,,40 €,14,s3,bar010,, 17 € 
+RED,Castello di Ama,San Lorenzo,,2019,,80 €,4,Frigo Sala sx,,, 37 € 
+RED,Castello Monaci,Artas Primitivo del Salento,,2020,GIV,52 €,6,s4,,, 20 € 
+RED,Castello Monaci,Maru Negroamaro Salento igt,,2020,GIV,25 €,1,bar008,,, 6 € 
+RED,Castello Monaci,Piluna Primitivo Salento,,2021,GIV,25 €,2,bar008,,, 7 € 
+RED,Castello Monaci,Sciu,,2020,GIV,25 €,2,bar008,,, 7 € 
+RED,Ceretto,Barbaresco,,2020,,,2,s3,,, 1 € 
+RED,Ceretto,Barbaresco docg Bio,,2021,,72 €,5,s3,,, 36 € 
+RED,Ceretto,Barolo docg Bio,,2020,,90 €,2,bar002,,, 45 € 
+RED,Ceretto,Brunat,,2020,,,1,snack,,, 1 € 
+RED,Ceretto,Dolcetto Rossana,,2018,,,1,bar002,,, 11 € 
+RED,Ceretto,Dolcetto Rossana,,2020,,30 €,1,bar002,,, 11 € 
+RED,Ceretto,Monsordo Langhe Bio doc,,2020,,45 €,3,s3,,, 16 € 
+RED,Ceretto,Monsordo Langhe Bio doc,,2021,Om,45 €,6,s3,,, 18 € 
+RED,Ceretto,Nebbiolo d'Alba Bernardina,,2021,,45 €,1,bar002,,, 18 € 
+RED,Ceretto,Nebbiolo d'Alba Bernardina,,2022,,45 €,5,s3,,, 18 € 
+RED,Ceretto,Prapo',,2020,,,1,snack,,, 1 € 
+RED,Cesconi,Moratel Vigneti delle Dolomiti ,,2020,,30 €,1,bar001,,, 10 € 
+RED,Chateau Mont Redon,Chateaunef - Du - Pape (Cote Du Rohn),,2020,Ceretto,95 €,6,s4,,, 45 € 
+RED,Colle Duga di Damian Princic,Colle Duga - Collio - Merlot ,,2022,TOLM,39 €,2,bar006,,, 14 € 
+RED,Comte de Dauzac,Bordeaux Rouge,,2020,,29 €,1,bar009,,, 13 € 
+RED,Coronica Moreno,Gran Terran -Terrano 100% Umago,,2013,,60 €,2,Collezione,,, 27 € 
+RED,Coronica Moreno,Teran - Terrano (Umago),,2015,,55 €,7,s4,,, 24 € 
+RED,Dorigo,Monsclapade Taglio Bordolese,,2020,TOLM,50 €,3,Frigo Sala sx,,, 16 € 
+RED,Doro Princic,Merlot,,2021,,40 €,1,bar006,,, 18 € 
+RED,Elio Perrone,Mongovone Barbera d'Asti (da Litro),LITER,2021,TOLM,50 €,1,tav10,,, 18 € 
+RED,Fattoria del Teso,Montecarlo Bianco,,,,25 €,1,Frigo bianchi,magazzino,, 7 € 
+RED,Fattoria del Teso,Montecarlo Riserva,,2020,,35 €,4,bar010,,, 15 € 
+RED,Fiegl,Cabernet Franc,,2022,,,15,tav10,s1,bar007,
+RED,Fiegl,Cabernet Sauvignon,,2024,,20 €,42,tav10,,, 7 € 
+RED,Fiegl,Leopold Merlot,,2018,,35 €,6,s1,bar007,,
+RED,Fiegl,Merlot ,,2023,,20 €,4,tav10,,,
+RED,Fiegl,Pinot Nero,,2022,,,1,snack,,,
+RED,Fiegl,Refosco (raduno DS 2024),,2023,,,5,tav10,,,
+RED,Fontanafredda,Barolo docg Serralunga d'Alba,,2014,,72 €,1,Collezione,,, 30 € 
+RED,Fontanafredda,Barolo docg Serralunga d'Alba,,2019,,69 €,16,s3,ingresso,bar002, 23 € 
+RED,Formentini,Merlot,,2021,GIV,25 €,8,bar007,sarpi,, 8 € 
+RED,Formentini,Merlot,,2022,,25 €,6,s2,bar007,,
+RED,Francesco Clerico,Bussia - Barolo,,2020,,60 €,34,s3,bar001,, 26 € 
+RED,Francesco Clerico,Nebbiolo Langhe,,2022,,30 €,3,bar001,,, 13 € 
+RED,Francois Lurton,Mas Janeil - Le Petit Pas,,2022,,30 €,13,s4,bar008,, 11 € 
+RED,Frescobaldi ,Lucente igt,,2020,Friends,50 €,20,s4,Frigo Sala sx,bar010, 15 € 
+RED,G. D. Vajra,Albe (Barolo),,2020,,,1,Frigo Sala sx,,, 1 € 
+RED,Gregoletto,Cabernet Colli Trevigiani docg ,,2022,,25 €,17,bar004,cheba giù,, 8 € 
+RED,Gregoletto,Merlot Colli Trevigiani docg,,2022,,25 €,9,bar004,cheba giù,, 7 € 
+RED,Gregoletto,Vino Rosso Colli Trev.Mer.+C.S.+C.F.,,2018,,40 €,8,bar004,cheba giù,, 16 € 
+RED,Guido Porro,Barolo,,2019,Friends,80 €,1,Collezione,,, 1 € 
+RED,I Clivi,Merlot Galea Terreno Argilloso Vigne 80 Anni,,2018,,40 €,3,Frigo bianchi,,, 14 € 
+RED,Il Mongetto,"""Guera"" Barbera d'Asti Superiore docg",,2020,,50 €,8,s3,bar002,, 16 € 
+RED,Il Mongetto,"""Guera"" Barbera d'Asti Superiore docg",,2021,,50 €,24,s3,bar002,cheba giù, 17 € 
+RED,Il Mongetto,Barbera del Monferrato doc Superiore ,,2017,,,2,Collezione,,,
+RED,Il Mongetto,Barbera del Monferrato doc Superiore ,,2019,,30 €,1,bar002,,, 10 € 
+RED,Il Mongetto,Barbera del Monferrato doc Superiore ,,2020,,34 €,10,s3,bar002,, 10 € 
+RED,Il Mongetto,Barbera del Monferrato doc Superiore ,,2021,,34 €,24,s3,bar002,cheba giù, 12 € 
+RED,Il Mongetto,Grignolino del Moferrato doc,,2020,,25 €,11,s3,bar002,, 9 € 
+RED,Il Mongetto,Kurteis - Cortese Bianco,,2018,,25 €,1,Frigo bianchi,,, 6 € 
+RED,Jaffelin Borgogn,Pinot Noir App. Bourgogne Controle,,2022,,49 €,11,s4,bar008,, 19 € 
+RED,Jaffelin Borgogn,Pinot Noir Vin De France Cote D'or,,2023,,25 €,23,s4,bar008,, 8 € 
+RED,Joseph Faiveley,Cote De Nuits (Pinot Nero),,2021,Friends,75 €,4,s4,bar008,, 28 € 
+RED,La Castellada,Merlot,,2014,,80 €,10,s2,Frigo Sala sx,, 31 € 
+RED,La Castellada,Rosso della Castellada  - 80% Merlot +Cab.Sau,,2013,,80 €,3,Frigo Sala sx,,, 30 € 
+RED,La Colombera,"Arche' Croatina- Spezie, Bals. Erbe Ar. Barriq",,2017,,35 €,2,Frigo bianchi,,, 13 € 
+RED,La Luna Storta,Merlot  ,,2020,,30 €,7,s2,bar007,, 12 € 
+RED,La Mannella di Cortonesi,Brunello Di Montalc.,,2017,,75 €,4,bar010,,, 32 € 
+RED,La Mannella di Cortonesi,Leonus Toscana Rosso,,2021,,30 €,3, bar010,,, 8 € 
+RED,La Selvanella,Chianti Classico Radda In Chianti,,2020,,40 €,5,tav10,,, 17 € 
+RED,Le Due Terre,Pinot Nero   ,,2018,TOLM,60 €,1,Frigo bianchi,,, 22 € 
+RED,Le Konde,Merlot,,2022,,27 €,5,s2,,, 8 € 
+RED,Le Monde,Cabernet Sauvignon,,2022,,27 €,5,s2,,, 8 € 
+RED,Le Monde,Merlot,,2022,,27 €,5,s2,,,
+RED,Le Vigne di Zamò,Refosco,,2019,,40 €,1,Frigo bianchi,,, 10 € 
+RED,Le Vigne di Zamò,Ronco dei Roseti Rosso,,2001,,30 €,1,Frigo bianchi,,, 10 € 
+RED,Livio Felluga,Merlot,,2020,,40 €,12,s2,Frigo Sala sx,bar007, 18 € 
+RED,Livio Felluga,Refosco dal Peduncolo Rosso,,2020,,40 €,6,s2,Frigo Sala sx,bar007, 18 € 
+RED,Livio Felluga,Sossò,,2016,,80 €,6,s2 - legno,,, 35 € 
+RED,Livio Felluga,Vertigo  - Merlot e Cab.Sauvignon,,2022,,25 €,33,s2,bar007,, 11 € 
+RED,Manincor,Mason - Pinot Nero,,2021,,60 €,5,tav11,,, 27 € 
+RED,Marco Felluga,Merlot Varneri,,2022,,27 €,30,s1,bar008,, 9 € 
+RED,Marinacci,Barbaresco Riserva Paja,,2009,,90 €,2,bar003,,, 31 € 
+RED,Marinacci,Dolcetto d'Alba doc,,2018,,30 €,2,bar003,,, 9 € 
+RED,Masut Da Rive,Pinot Nero,,2021,,40 €,1,Frigo Sala sx,,, 14 € 
+RED,Mazzei,Zisola  (Nero D'avola doc Noto Sicilia),,2018,,26 €,1,bar009,,, 8 € 
+RED,Moschioni,"Real (Tazzelenghe, Mer, C.Sau. Mariotti)",,2013,,50 €,2,Frigo Sala sx,,, 23 € 
+RED,Moschioni,"Real (Tazzelenghe, Mer, C.Sau. Mariotti)",,2015,,50 €,,Frigo Sala sx,,, 23 € 
+RED,Moschioni ,Rosso Celtico (Merlot e Cab Sauvignon Mariotti),,2015,,50 €,7,Frigo Sala sx,bar006,, 23 € 
+RED,Nino Negri,Ca' Guicciardi - Inferno docg,,2019,,60 €,2,s4,,, 23 € 
+RED,Nino Negri,Castel Chiuro (Conf.Blu) Valt. Super.,,2009,,100 €,1,tav10-top,,, 34 € 
+RED,Nino Negri,Fracia Valgella,,2017,,55 €,1,bar004,,, 23 € 
+RED,Nino Negri,Fracia Valgella,,2018,,60 €,3,s4,tav10,, 24 € 
+RED,Nino Negri,Giuen Nebbiolo,,2021,,30 €,4,bar004,,, 9 € 
+RED,Nino Negri,Sassorosso-Grumello ,,2019,,60 €,5,s4,tav10,, 23 € 
+RED,Nino Negri,Sfursat 5 Stelle ,,2020,,99 €,2,tav10-top,,, 57 € 
+RED,Nino Negri,Sfursat Valtellina Carlo Negri docg,,2017,GIV,90 €,1,bar004,,, 30 € 
+RED,Nino Negri,Sfursat Valtellina Carlo Negri docg,,2019,GIV,70 €,4,bar004,tav10-top,, 25 € 
+RED,Nino Negri,Sfursat Valtellina Carlo Negri docg,,2021,GIV,80 €,6,bar004,tav10-top,, 30 € 
+RED,Ornella Molon,Malanotte,,2012,,,1,tav10-top,,, 1 € 
+RED,Ornellaia Bolgheri,Bolgheri Ornellaia,,2021,,,1,tav10-top,,, 125 € 
+RED,Pellegrino,Biosfera Catarratto Igp,,2021,,25 €,4,Frigo Sala sx,,, 5 € 
+RED,Pellegrino,Materico Nero D'avola,,2020,,25 €,1,bar009,,, 5 € 
+RED,Pellegrino (Rinazzo),Rinazzo - Syrah,,2020,,25 €,4,bar009,,, 8 € 
+RED,Pescaja,Solneri Barbera d'Asti Superiore,,2022,,42 €,5,bar001,,, 18 € 
+RED,Pescaja,"Sololuna Terre Alfieri, Bianco Arneis  ",,2020,,36 €,5,Frigo Sala sx,,, 16 € 
+RED,Peteglia,Cabernet Maremma,,2019,,39 €,3,s3,,, 13 € 
+RED,Peteglia,Mezzodi' Sangiovese,,2023,,25 €,5,s3,,, 8 € 
+RED,Peteglia,Montecucco Sangiovese 18 Barriques ,,2019,,,1,s3,,, 16 € 
+RED,Peteglia,Montecucco Sangiovese Ris. 36 Barr.,,2019,,40 €,6,s3,,, 16 € 
+RED,Peteglia ,Montecucco Sangiovese 18 Barriques ,,2020,,27 €,11,s3,,, 10 € 
+RED,Pizzulin,Merlot Scaglia Rossa,,2021,,97 €,1,snack,,, 49 € 
+RED,Podere Monolo,Bramaterra doc,,2019,,,1,Collezione,,, 1 € 
+RED,Prunotto (Antinori),Barbera d'Alba (Antinori),,2022,,30 €,2,bar001,,, 10 € 
+RED,Prunotto (Antinori),Barolo (Antinori),,2020,,65 €,4,bar001,,, 33 € 
+RED,Re Manfredi,Aglianico Del Vulture,,2016,GIV,36 €,1,bar009,,, 16 € 
+RED,Rieppi,Tazzelenghe doc,,2018,,40 €,1,Collezione,,, 18 € 
+RED,Ronk,Red Selectus,,,,,1,tav10-top,,,
+RED,Russiz Superiore Marco Felluga ,Cabernet Franc,,2021,,35 €,3,bar006,,, 15 € 
+RED,Russiz Superiore Marco Felluga ,Merlot,,2018,,35 €,1,bar006,,, 15 € 
+RED,Salcheto ,Rosso di Montepulciano+C295,,2020,,25 €,4,bar010,,, 9 € 
+RED,Sancin,Refosco,,2021,,30 €,3,tav10-top,,, 11 € 
+RED,Sandro De Bruno,Tempus Soave Soc Colli Scaligeri,,2007,Area 6 srl,30 €,1,MAG,,, 13 € 
+RED,Santa Cristina (Antinori),Giardino Rose' igt Rosato,,2023,,25 €,5,tav10-top,,, 6 € 
+RED,Santi,Amarone,,2017,GIV,,,Frigo bianchi,,, 33 € 
+RED,Santi,Carlo Santi 1843 Amarone,,2016,GIV,70 €,5,s4 - legno,,, 35 € 
+RED,Santi,Crinaia Cab. Sauv.Franc E Merlot,,2019,GIV,30 €,2,bar005,,, 13 € 
+RED,Santi,"Solane (Valpolicella Ripasso-Corvina, Rondinella)",,2020,GIV,29 €,3,bar005,,, 11 € 
+RED,Santi,"Ventale Valpolicellacorvina, Rond.",,2020,GIV,27 €,9,s4,bar005,, 9 € 
+RED,Scansano,Capoccia Ciliegiolo,,2023,,25 €,8,bar009,,, 6 € 
+RED,Simon di Brazzan,Merlot,,2021,,35 €,14,s2,bar007,Frigo bianchi, 12 € 
+RED,Società Agricola Francesca,Toscana Rosso,,2021,,,1,tav10-top,,, 1 € 
+RED,Tami,Merlot,,2021,,26 €,6,s2,bar008,, 1 € 
+RED,Tami,Merlot,,2022,,,,,,, 9 € 
+RED,Tami,Refosco dal Peduncolo Rosso,,2021,,26 €,9,s2,bar008,, 9 € 
+RED,Tami,Rosso Riserva,,2017,,50 €,6,s2,,, 17 € 
+RED,Tenuta del Buonamico,Il Fortino (Syrah),,2018,,,2,tav11,,, 1 € 
+RED,Tenuta del Buonamico,Vasario igt (Pinot Bianco),,2020,,,3,tav11,,, 1 € 
+RED,Tenuta Rapitalà,Conte Hugues Chardonnay igt,,2019,,44 €,2,Frigo Sala sx,,, 19 € 
+RED,Tenuta Rapitalà,Hugonis Cab.Sauvig.+Nero D'avola doc,,2019,,50 €,5,s3 - legno,,, 19 € 
+RED,Terlan,Gries  doc Riserva ,,2020,,50 €,7,tav11,,, 21 € 
+RED,Terlan,Gries doc Riserva ,,2021,,50 €,6,tav11,,,
+RED,Terlan,Lagrein doc ,,2023,,35 €,1,bar000,,, 13 € 
+RED,Terlan,Monticol Pinot Nero ,,2021,,65 €,10,tav11,bar000,, 25 € 
+RED,Terlan,Monticol Pinot Nero ,,2022,,65 €,5,tav11,,, 25 € 
+RED,Terlan,Pinot Noir Tradition ,,2023,,40 €,14,tav11,bar000,, 15 € 
+RED,Terlan,Siebenich - Merlot Riserva,,2017,,,2,tav11,,,
+RED,Terlan,Siebenich - Merlot Riserva,,2019,,50 €,4,tav11,,, 19 € 
+RED,Terlan,Siebenich - Merlot Riserva,,2020,,50 €,6,tav11,bar000,,
+RED,Terlan,Torilan Merlot E Cabernet,,2021,,35 €,6,tav11,bar000,, 13 € 
+RED,Terlan,Torilan Merlot E Cabernet,,2022,,35 €,7,tav11,,, 14 € 
+RED,Tonut,Refosco (Regalo) e Rosso,,,,,3,sarpi terra,,, 1 € 
+RED,Torre dei Beati,Montepulciano d'Abruzzo,,2016,,,1,bar010,,, 1 € 
+RED,Tramin,Marjun Pinot Nero Riserva ,,2022,,35 €,19,tav11,bar001,, 13 € 
+RED,Tramin,Rungg Merlot + Cabernet doc,,2017,,45 €,2,bar001,,, 13 € 
+RED,Tramin,Rungg Merlot + Cabernet doc,,2020,,40 €,5,bar001,tav11,, 13 € 
+RED,Tramin,Urban Lagrein Riserva,,2020,,55 €,5,tav11,,, 26 € 
+RED,Travaglini,Gattinara Riserva,,2018,,,1,Collezione,,, 1 € 
+RED,Vignalta Colli Euganei,Rosso Riserva,,2017,,30 €,2,bar005,,, 11 € 
+RED,Viticoltori De Conciliis,Purple Haze Igp Paestum Aglianico,,2016,Area 6 srl,30 €,2,bar009,,, 13 € 
+RED,Viticoltori De Conciliis,Red,,2018,,,1,tav10-top,,,
+RED,Zorzettig,Pignolo,,2016,,48 €,5,s2,bar007,, 16 € 
+RED,Zorzettig,Refosco Myo,,2019,,40 €,18,s2,bar007,, 13 € 
+RED,Zorzettig,Schioppettino Myo,,2019,,40 €,9,s2,bar007,, 15 € 
+DESSERT,Antinori ,Muffato della Sala,,2022,,64 €,8,tav10,cartone a lato tav10,, 27 € 
+DESSERT,Borgo San Daniele,Santon Bianco (Vermout),,,,,2,totem,,, 23 € 
+DESSERT,Braida,Brachetto d'Aqui,,2019,TOLM,25 €,2,s4,bar003,, 6 € 
+DESSERT,Braida,Brachetto d'Aqui,,2021,TOLM,25 €,5,s4,bar003,, 6 € 
+DESSERT,Bressani,Ramandolo,,2019,,,1,tav10,,, 14 € 
+DESSERT,Bressani,Ramandolo,,2020,,40 €,6,tav10,,, 14 € 
+DESSERT,Ca Bianca,Moscato d'Asti,,2022,,,3,tav10,,, 10 € 
+DESSERT,Chateau Gravas,"Sauternes-Semillon 0,375",HALF_BOTTLE,2022,,70 €,6,Frigo Sala dx,tav10,, 24 € 
+DESSERT,Chateau Gravas,"Sauternes-Semillon 0,75",,2022,,,3,Frigo Sala dx,,, 24 € 
+DESSERT,Donna Fugata,Venryè Passito di Pantelleria,,2017,,,1,tav10,,, 19 € 
+DESSERT,Donna Fugata,Venryè Passito di Pantelleria,,2018,,,1,tav10,,, 19 € 
+DESSERT,Fattoria del Teso,Montecarlo Vin Santo,,1999,,,5,tav10,,, 48 € 
+DESSERT,I Vignaioli di Santo Stefano,Moscato d'Asti docg ,,2022,,,6,tav10,,, 10 € 
+DESSERT,Mesa,Carignano del Sulcis - Passito Forterosso,,2023,,,1,tav10,,, 1 € 
+DESSERT,Niegl,"Gruner Veltliner - Eis Wein 0,375",HALF_BOTTLE,2021,,70 €,2,Frigo Sala dx,,, 31 € 
+DESSERT,Pellegrino,Giardino Pantesco - Passito di Pantelleria,,2020,,,1,tav10,,, 13 € 
+DESSERT,Pellegrino,Giardino Pantesco - Passito di Pantelleria,,2021,,30 €,2,tav10,,, 13 € 
+DESSERT,Pellegrino,Old John - Marsala,,1998,,,2,tav10,,, 10 € 
+DESSERT,Tami,"Ramandolo 0,50",HALF_LITER,2022,,35 €,5,tav10,,, 12 € 
+DESSERT,Vignalta Colli Euganei,Fior d'arancio Moscato Giallo Charmat,,,,30 €,3,totem,Frigo bianchi,, 8 € 
+DESSERT,Zorzettig,"Picolit 0,50 Lt",HALF_LITER,2019,,60 €,4,tav10,,, 29 € 
+WHITE,Alain Geoffroy,Chablis Vieilles Vignes,,2021,,50 €,4,Frigo Sala dx,,, 19 € 
+WHITE,Borgo San Daniele,Arbis Blanc,,2021,,40 €,5,s1,,,
+WHITE,Borgo San Daniele,Friulano,,2022,,30 €,3,s1,Frigo friulani,, 11 € 
+WHITE,Borgo San Daniele,Friulano,,2023,,40 €,24,s1,Frigo friulani,, 14 € 
+WHITE,Borgo San Daniele,Jiasik Bianco Riesling e Malvasia,,2023,,25 €,20,carni terra,Frigo bianchi,bar007, 10 € 
+WHITE,Borgo San Daniele,Malvasia doc,,2023,,30 €,7,carni terra,Frigo bianchi,, 11 € 
+WHITE,Borgo San Daniele,Pinot Grigio,,,,30 €,5,s1,,,
+WHITE,Bozzon Emilio,Plumbus ,,,,,1,tav10-top,,, 1 € 
+WHITE,Brandolini,Bianca,,2020,,50 €,4,s1,,, 23 € 
+WHITE,Brandolini,Friulano,,2023,,25 €,2,Frigo friulani,,, 6 € 
+WHITE,Bressan,Carat (Tocai-Malvasia-Ribolla),,2018,,90 €,2,Frigo bianchi,,, 32 € 
+WHITE,Bressani,Friulano,,2022,,25 €,2,Frigo friulani,,, 10 € 
+WHITE,Carolina Gatti,Bolle Bandite,,,,,1,tav10-top,,,
+WHITE,Carolina Gatti,Canaja,,,,35 €,1,MAG,,, 14 € 
+WHITE,Cesconi,Manzoni Bianco,,2023,,30 €,4,Frigo Sala sx,,, 10 € 
+WHITE,Cesconi,Nosiola Vigneti Dolomiti,,2022,,30 €,,,,, 11 € 
+WHITE,Colle Duga di Damian Princic,Colle Duga - Collio - Friulano - Vigna del Rolat,,2023,TOLM,36 €,9,Frigo friulani,tav10-top,, 13 € 
+WHITE,Colle Duga di Damian Princic,Colle Duga - Collio - Ribolla Gialla,,2022,TOLM,35 €,1,Frigo bianchi,,, 13 € 
+WHITE,Doro Princic,Pinot Bianco?,,2022,TOLM,40 €,2,Frigo bianchi,,, 17 € 
+WHITE,Doro Princic,Sauvignon,,2022,,40 €,1,Frigo bianchi,,, 17 € 
+WHITE,Fattoria del Teso,Orange del Teso,,,,,3,Frigo bianchi,,, 15 € 
+WHITE,Fiegl,Chardonnay,,2022,,20 €,8,tav10,Frigo bianchi,,
+WHITE,Fiegl,Friulano,,2024,,20 €,13,Frigo friulani,tav10,, 7 € 
+WHITE,Fiegl,Malvasia,,2023,,20 €,2,tav10,,,
+WHITE,Fiegl,Pinot Grigio,,2022,,20 €,8,Frigo bianchi,tav10,,
+WHITE,Fiegl,Ribolla Gialla,,2024,,30 €,8,tav10,Frigo bianchi,, 10 € 
+WHITE,Fiegl,Ribolla Macerata,,2020,,,6,tav10,,,
+WHITE,Fiegl,Sauvignon,,2023,,20 €,9,tav10,Frigo bianchi,,
+WHITE,Formentini,Bianco,,2020,,25 €,1,Frigo friulani,,,
+WHITE,Formentini,Chardonnay   ,,2021,,25 €,11,Frigo bianchi,sarpi,,
+WHITE,Formentini,Chardonnay   ,,2023,GIV,25 €,11,sarpi,,, 9 € 
+WHITE,Formentini,Friulano  doc Collio,,2023,GIV,25 €,28,s1,Frigo friulani,sarpi, 8 € 
+WHITE,Formentini,Pinot Grigio,,2023,GIV,25 €,6,sarpi,,, 9 € 
+WHITE,Formentini,Ribolla Gialla Collio ,,2023,GIV,25 €,1,Frigo friulani,,, 8 € 
+WHITE,Hermines Du Cardinal ,Muscadet Sèvre Et Maine - Loira,,2020,,25 €,1,Frigo bianchi,,, 11 € 
+WHITE,Hermines Du Cardinal ,Muscadet Sèvre Et Maine - Loira,,2021,,,1,Frigo bianchi,,, 11 € 
+WHITE,Huchet Jeremie,Clos Les Montys Muscadet-Melon Bourgo,,2022,,25 €,2,Frigo Sala dx,,, 9 € 
+WHITE,I Clivi ,Verduzzo,,2017,,30 €,2,Frigo bianchi,,, 11 € 
+WHITE,IT-VR,Heartbreaker - Riesling Renano Trevenezie,,2019,Area 6 srl,36 €,1,Frigo bianchi,,, 16 € 
+WHITE,Jaffelin Borgogn,Chablis - Cote D'or - Beaune,,2023,,60 €,6,Frigo Sala sx,,, 21 € 
+WHITE,Jaffelin Borgogn,Chardonnay Vin De France,,2023,,25 €,11,Frigo Sala sx,Frigo bianchi,, 8 € 
+WHITE,Jaffelin Borgogn,Chardonnay Vin De France,,2024,,25 €,8,Frigo Sala sx,,, 8 € 
+WHITE,Kante,Chardonnay,,2021,,35 €,2,Frigo bianchi,,, 14 € 
+WHITE,Kante,Sauvignon ,,2021,,35 €,1,Frigo bianchi,,, 14 € 
+WHITE,La Bella Notte,Conte Lucio Pinot Grigio,,2018,,34 €,6,Frigo Sala sx,,, 15 € 
+WHITE,La Bella Notte,Luna De Ronchi Sauvignon,,2018,,27 €,3,Frigo bianchi,,, 12 € 
+WHITE,La Castellada ,Friulano,,2017,,55 €,2,Frigo Sala sx,Frigo friulani,, 22 € 
+WHITE,La Luna Storta,Ante Lucem Bianco,,2022,,30 €,5,Frigo Sala sx,,, 11 € 
+WHITE,La Luna Storta,Friulano,,2022,,25 €,8,Frigo Sala sx,Frigo friulani,, 9 € 
+WHITE,Le Monde,Friulano,,2024,,25 €,12,s1,Frigo friulani,, 8 € 
+WHITE,Le Monde,Pinot Bianco,,2024,,25 €,10,s1,Frigo bianchi,, 6 € 
+WHITE,Le Vigne Di Zamò,No Name Friulano,,2022,TOLM,34 €,1,Collezione,,, 12 € 
+WHITE,Le Vigne Di Zamò,Ribolla Gialla,,2021,TOLM,34 €,1,Frigo bianchi,,, 12 € 
+WHITE,Livio Felluga,Abbazia di Rosazzo,,2021,regalo Paolo,,1,Frigo Sala sx,,, 30 € 
+WHITE,Livio Felluga,Friulano,,2023,,30 €,9,s1,Frigo friulani,, 12 € 
+WHITE,Livio Felluga,Sharis - Chardonnay + Ribolla,,2023,,25 €,16,s1,Frigo bianchi,, 8 € 
+WHITE,Louis Moreau,Chablis - Chardonnay/Bourgogne,,2023,,60 €,6,Frigo Sala dx,,, 23 € 
+WHITE,Manincor,Sophie,,2022,,48 €,1,tav11,,, 1 € 
+WHITE,Manincor,Tannenberg - Sauvignon Blanc,,2022,,48 €,2,tav11,,, 22 € 
+WHITE,Marco Felluga,Amani Friulano,,2023,,27 €,35,s1,Frigo friulani,Frigo bianchi, 9 € 
+WHITE,Marjan Simcic,Pinot Grigio,,2020,,33 €,2,Frigo Sala dx,,, 12 € 
+WHITE,Marjan Simcic,Ribolla Brda,,2020,,30 €,1,Frigo Sala dx,,, 11 € 
+WHITE,Meroi Bianco,Meroi Bianco,,2022,TOLM,28 €,2,Frigo bianchi,,, 10 € 
+WHITE,Moschioni,Bianco Colli Orientali ,,2021,,45 €,2,Frigo friulani,,, 17 € 
+WHITE,Niegl,Urgenstein - Riesling,,2023,,60 €,6,Frigo Sala dx,,, 24 € 
+WHITE,Nino Negri,Alpi Retiche Igp-Nebbiolo In Bianco,,2023,,25 €,5,tav10-top,Frigo bianchi,, 9 € 
+WHITE,Pojer e Sandri,Monogramma Mueller Thurgau,,2020,,36 €,1,Frigo bianchi,,, 16 € 
+WHITE,Pojer e Sandri,Monogramma Riesling,,2021,,38 €,1,Frigo bianchi,,, 17 € 
+WHITE,Pulec,Rebula Brda,,2022,,,1,Frigo bianchi,,,
+WHITE,Raccaro,Friulano - Vigna del Rolat,,2023,TOLM,42 €,5,Frigo friulani,tav10-top,, 15 € 
+WHITE,Ronco Severo,Ribolla Gialla,,2020,TOLM,50 €,4,Frigo Sala sx,,, 17 € 
+WHITE,Ronk,Chardonnay Selectus,,2019,,,1,tav10-top,,, 1 € 
+WHITE,Sancin,Malvasia,,2022,,25 €,2,Frigo bianchi,,, 10 € 
+WHITE,Santa Barbara,Satisfaction - Verdicchio Cast. Jesi Marche,,2018,Area 6 srl,25 €,1,Frigo bianchi,,, 11 € 
+WHITE,Santa Cristina (Antinori),Vermentino igt,,2023,,,1,Frigo bianchi,tav10-top,, 6 € 
+WHITE,Schioppetto,Friulano,,2022,TOLM,34 €,1,Frigo friulani,,, 12 € 
+WHITE,Schreckbichl,Chardonnay Colterenzio (Oscar),,2023,,,1,Frigo bianchi,,, 1 € 
+WHITE,Serge Dagueneau,Pouilly Fumé - Sauvignon Blanc/Loire,,2023,,50 €,4,Frigo Sala dx,,, 24 € 
+WHITE,Simon di Brazzan,Friulano ,,2023,,30 €,2,Frigo friulani,,, 9 € 
+WHITE,Sturm,Chardonnay Andritz igt,,2016,,30 €,1,Frigo bianchi,,, 11 € 
+WHITE,Tami,Friulano,,2023,,25 €,2,Frigo friulani,,, 7 € 
+WHITE,Tenuta di Tavignano,Verdicchio Castelli di Jesi,,2023,,30 €,15,s4,tav10-top,Frigo bianchi, 9 € 
+WHITE,Terlan,Chardonnay,,2022,,,12,Frigo bianchi,tav11,,
+WHITE,Terlan,Chardonnay,,2023,,30 €,12,tav11,Frigo bianchi,, 11 € 
+WHITE,Terlan,Pinot Bianco,,2023,,30 €,2,Frigo bianchi,,, 11 € 
+WHITE,Terlan,Terlaner Classico doc ,,2022,,35 €,8,tav11,Frigo bianchi,, 13 € 
+WHITE,Terlan,Vorberg Riserva Pinot Bianco,,2022,,60 €,6,tav11,,, 26 € 
+WHITE,Terlan,Winkl  Sauvignon Blanc,,2015,,45 €,1,Frigo bianchi,,, 12 € 
+WHITE,Terlan,Winkl  Sauvignon Blanc,,2022,,36 €,9,tav11,,, 12 € 
+WHITE,Terre Del Faet,Friulano,,2022,,30 €,4,Frigo friulani,,, 10 € 
+WHITE,Tonut,Bianco Blend - Suo Tempo,,2018,,25 €,1,tav11,,, 10 € 
+WHITE,Toros Friulano,Toros Friulano,,2022,TOLM,42 €,2,Frigo friulani,,, 15 € 
+WHITE,Tramin,Glarea Chardonnay,,2021,,35 €,3,Frigo bianchi,,, 13 € 
+WHITE,Tramin,Nussbaumer Gewuerztraminer,,2021,,50 €,5,tav11,,, 23 € 
+WHITE,Tramin,Pepi Sauvignon,,2021,,35 €,6,Frigo Sala sx,,, 13 € 
+WHITE,Tramin,Unterebener Pinot Grigio,,2021,,50 €,6,tav11,,, 21 € 
+WHITE,Zorzettig,Friulano Myo,,2022,,30 €,30,s1,Frigo friulani,, 11 € 
+,Tuzko (Antinori),Pannon Riesling Tuzko,,2022,,30 €,4,Frigo Sala dx,,, 5 € 
+,Adami,Bosco di Gica Brut Valdobbiadene docg Prosecco Superiore,,,,21 €,89,Frigo bianchi,braceria,, 8 € 
+,Adami,Col Credas (Extra Brut),,2023,,25 €,66,Frigo bianchi,braceria,, 9 € 
+,Adami,Col Fondo Brut Nature Valdobbiadene docg Prosecco Superiore Sui Lieviti,,2022,,21 €,9,ingresso,Frigo bianchi,, 8 € 
+,Ca Bianca,Alta Langa Met.Classico,,2020,,35 €,3,Frigo Sala dx,totem,, 15 € 
+,Campe Dhei,Canaja,,,,,2,,,, 14 € 
+,Campe Dhei,Sgajo Rosé ,,2018,,,3,tav10-top,MAG,, 10 € 
+,Ermes Botanica,Rubeôlus - Ribolla Gialla Brut,,,Ermes Botanica,,36,F bianchi,totem,MAG, 8 € 
+,Gregoletto ,Boschera,,,,21 €,1,Frigo Sala sx,,, 8 € 
+,Gregoletto ,Prosecco Sui Lieviti Erti doc Tv,,,,21 €,8,Frigo Sala sx,totem,, 8 € 
+,Pojer e Sandri,Zero Infinito - Solaris-Bio,,2022,,33 €,12,totem,cheba giù,, 12 € 
+,Pojer e Sandri,Zero Infinito - Solaris-Bio,,2023,,33 €,11,totem,totem,cheba giù, 12 € 
+,Tenuta Rapitalà,Bouquet Frizzante,,,,25 €,1,Frigo bianchi,,, 6 € 
+,Tenute Cadorin Le Favole,Ribolla Gialla (Caneva di Sacile),,,,,1,tav10-top,,, 1 € 
+SPIRITS,Bodegas Toro Albala (Ceretto),Don PX Cosecha,,2020,,,2,MAG,,, 27 € 
+SPIRITS,Bodegas Toro Albala (Ceretto),Don PX Cosecha ,,2021,,,3,MAG,,, 28 € 
+SPIRITS,Bodegas Toro Albala (Ceretto),Don PX G.R. Magnum,,1986,,,1,tav10-top,,, 1 € 
+SPIRITS,Bodegas Toro Albala (Ceretto),Don PX Gran Reserva (Do-Montilla-Moriles),,1986,,,1,MAG,,, 1 € 
+SPIRITS,Bodegas Toro Albala (Ceretto),Don PX Pedro Ximenez,,1999,,84 €,1,MAG,,, 37 € 
+SPIRITS,Ermes Botanica,Il Vermut Cannabis,,,Ermes Botanica,,1,MAG,,, 19 € 
+SPIRITS,Ermes Botanica,Il Vermut Ribolla Gialla,,,Ermes Botanica,,2,MAG,,, 19 € 
+SPIRITS,H. Fuente (Ceretto),H. Fuente Rum Nicaragua 15 Anni,,,,,2,MAG,,, 52 € 
+SPIRITS,Hennessy,Fine de Cognac,,,,,1,MAG,,, 1 € 
+SPIRITS,J.Trefois (Ceretto),Rhum Agricole Guadalupe,,,,,1,MAG,,, 59 € 
+SPIRITS,Le Lieu Chéri (Ceretto),Calvados Pays d'Auge 5 ans,,,,,1,MAG,,, 34 € 
+SPIRITS,Zacapa,Etiqueta Negra - Solera 23),,,,,1,MAG,,, 1 € 
+SPIRITS,Zacapa,Riserva Limitada,,2019,,,1,MAG,,, 1 € 
+SPIRITS,Zacapa,XO Solera Gran Riserva ,,,,,1,MAG,,, 1 € 
+,Antinori ,Rose' Franciacorta (Tenuta Montenisa),,,,48 €,2,totem,,, 21 € 
+,Arnaldo Caprai,Brut P.Nero E Chard. 20 Mesi Sui Lieviti,,,,39 €,5,totem,,, 13 € 
+,Bellei,Cuvée Brut Rosè Pinot Nero e Chardonnay,,,,38 €,1,totem,,, 16 € 
+,Bozzon Emilio,Nina Rosè Brut Millesimato Glera Raboso,,,,21 €,6,totem,tav10-top,, 7 € 
+,Carolina Gatti,"Sgajo Rose, Bolle Bandite",,,,28 €,5,totem,tav10-top,MAG, 10 € 
+,Castel Faglia,Monogram (Franciacorta),,,GIV,35 €,35,totem,ingresso,, 15 € 
+,Castello di Cigognola,Moratti Oltrepò Pavese,,,,45 €,20,Frigo Sala dx,totem,ingresso, 16 € 
+,Cesconi,Blauwal,,,,40 €,,totem,,, 17 € 
+,Cesconi,Der Blauwal Riserva Extra Brut,,2016,,70 €,3,Frigo Sala dx,totem,, 29 € 
+,Fontanafredda,Alta Langa Anniversario 166,,,,45 €,1,totem,,, 20 € 
+,Il Mongetto,Cisgnanum,,,,,1,totem,s3,,
+,Kante,Dosaggio Zero Chardonnay E Malvasia,,,,35 €,1,totem,,, 14 € 
+,Monte Rossa,Cabochon Doppiozero ,,2018,,,1,tav10,,,
+,Monte Rossa,Cabochon Fuoriserie n° 021,,,,,1,tav10,,,
+,Monte Rossa,Cabochon Fuoriserie n° 023,,,,,2,tav10,totem,totem,
+,Monte Rossa,Cabochon Fuoriserie n° 025,,,,95 €,4,totem,totem,, 42 € 
+,Monte Rossa,Cabochon Fuoriserie n° 06 Rosé,,,,,2,tav10,,,
+,Monte Rossa,Coupe' Brut Nature - Chardonnay,,,,36 €,84,totem,Frigo carni,, 19 € 
+,Monte Rossa,Flamingo Rosé,,,,39 €,9,totem,Frigo carni,, 21 € 
+,Monte Rossa,Millesimato,,2014,,,1,tav10,,,
+,Monte Rossa,Sanseveè,,,,,1,totem,totem,,
+,Adami,Vigneto Giardino Asciutto Prosecco di Valdobbiadene docg Rive di Colbertaldo,MAGNUM,2023,,,1,snack,,, 24 € 
+,Adami ,Prosecco Magnum,MAGNUM,,,50 €,1,totem,,, 24 € 
+,Adami ,Proseco 3 Litri,JEROBOAM,,,130 €,1,braceria,,, 95 € 
+,Allegrini,La Grola igt Rosso Veronese,MAGNUM,2018,,80 €,3,tav10-top,,, 37 € 
+,Allegrini,Palazzo della Torre - Veronese igt,MAGNUM,2018,,70 €,2,tav10-top,,, 21 € 
+,Angelo Negro,Basarin - Barbaresco,MAGNUM,2020,friends???,140 €,1,tav10-top,,, 1 € 
+,Antinori,Tignanello,MAGNUM,2021,,290 €,1,cheba-top,,, 165 € 
+,Arnaldo Caprai,Montefalco Rosso Riserva In Cassa,MAGNUM,2019,,80 €,1,cheba-top,,, 35 € 
+,Arnaldo Caprai,Montefalco Val di Maggio docg,MAGNUM,2016,,100 €,6,cheba-top,,, 48 € 
+,Arnaldo Caprai,Vigna Flaminia Maremmana (Montefalco Rosso doc),MAGNUM,2019,,60 €,,,,, 24 € 
+,Borgo San Daniele,Jiasik,MAGNUM,2021,,50 €,1,tav10-top,,, 23 € 
+,Borgo San Daniele,Jiasik (3 Litri),JEROBOAM,2022,,,1,tav10-top,,, 95 € 
+,Bressani,Merlot Riserva,MAGNUM,2019,,80 €,2,s1,,, 35 € 
+,Bressani,Refosco Riserva,MAGNUM,2019,,80 €,3,s1,,, 35 € 
+,Castello Monaci,Artas Primitivo del Salento,MAGNUM,2017,,85 €,1,tav10-top,,, 44 € 
+,Castelnau,Champagne Brut Serserve,MAGNUM,,,150 €,3,totem,,, 67 € 
+,Ceretto ,Barolo doc Magn,MAGNUM,2016,,140 €,9,s3,,, 68 € 
+,Ceretto ,Barolo doc,MAGNUM,2019,Om,180 €,1,snack,,, 90 € 
+,Cesconi,Blauwal Trento doc Cuvee Extra Brut,MAGNUM,,,85 €,2,tav10-top,totem,, 37 € 
+,Comelli,Pinot Bianco?,MAGNUM,,,,1,tav10-top,,, 1 € 
+,Fiegl,Cuvee Rouge,MAGNUM,2015,,,1,s2,,,
+,Fiegl,Cuvee Rouge,MAGNUM,2017,,,3,s2,,,
+,Fiegl,Leopold Merlot,MAGNUM,2013,,,1,s2,,,
+,Fiegl,Leopold Merlot,MAGNUM,2015,,70 €,2,Collezione,,,
+,Fiegl,Leopold Merlot,MAGNUM,2016,,,1,s2,,,
+,Fiegl,Leopold Merlot,MAGNUM,2017,,56 €,3,s2,,, 24 € 
+,Gino Fuso Carmignani,Merlo della Topanera C.L.,MAGNUM,1998,,,1,tra frigo e tav11,,, 60 € 
+,Gino Fuso Carmignani,Merlo Della Topanera C.L.,MAGNUM,2000,,,1,tra frigo e tav11,,, 60 € 
+,Gino Fuso Carmignani,Merlo Della Topanera C.L.,MAGNUM,2016,,,1,tra frigo e tav11,,, 60 € 
+,Gino Fuso Carmignani,Merlo Della Topanera C.L.,MAGNUM,2017,,130 €,4,tra frigo e tav11,,, 60 € 
+,Gino Fuso Carmignani,Merlo Della Topanera C.L.,MAGNUM,2017,,,1,tra frigo e tav11,,, 60 € 
+,Gino Fuso Carmignani,Merlo Della Topanera C.L. PORTOFINO,MAGNUM,,,,1,tra frigo e tav11,,, 60 € 
+,Gosset ,Gosset Extra Brut,MAGNUM,,TOLM,200 €,2,totem,,, 90 € 
+,Il Mongetto,"""Guera"" Barbera d'Asti Superiore docg",MAGNUM,2004,,130 €,1,s3,,, 49 € 
+,Il Mongetto,"""Guera"" Barbera d'Asti Superiore docg",MAGNUM,2006,,110 €,1,s3,,, 46 € 
+,Il Mongetto,"""Guera"" Barbera d'Asti Superiore docg",MAGNUM,2013,,110 €,3,s3,,, 39 € 
+,Il Mongetto,"""Guera"" Barbera d'Asti Superiore docg",MAGNUM,2018,,100 €,2,cheba giù,,,
+,Il Mongetto,"""Guera"" Barbera d'Asti Superiore docg",MAGNUM,2019,,100 €,4,s3,cheba giù,, 36 € 
+,Il Mongetto,"""Guera"" Barbera d'Asti Superiore docg",MAGNUM,2020,,100 €,2,s3,cheba giù,,
+,Il Mongetto,Barbera del Monferrato Superiore,MAGNUM,2020,,60 €,12,s3,,, 21 € 
+,La Castellada,Pinot Grigio,MAGNUM,2018,zio,100 €,1,tav10-top,,,
+,La Luna Storta,Pepe Nero Schioppettino E Pinot Nero,MAGNUM,2022,,70 €,1,tav10-top,,, 28 € 
+,La Selvanella,Chianti Classico Radda In Chianti,MAGNUM,2020,,90 €,1,cheba-top,,, 42 € 
+,Livio Felluga,Sossò,MAGNUM,2001,,200 €,1,tav10-top,,, 70 € 
+,Livio Felluga,Sossò,MAGNUM,2016,,160 €,2,tav10-top,,, 73 € 
+,Nino Negri,Ca' Guicciardi - Inferno docg,MAGNUM,2019,,100 €,1,tav10-top,,, 50 € 
+,Nino Negri,Fracia Valgella,MAGNUM,2016,,100 €,1,tav10-top,,, 50 € 
+,Nino Negri,Fracia Valgella,MAGNUM,2018,,110 €,1,tav10-top,,, 54 € 
+,Nino Negri,Sassorosso-Grumello ,MAGNUM,2019,,100 €,1,tav10-top,,, 50 € 
+,Peteglia,Montecucco Sangiovese 18 Mesi Barr,MAGNUM,2020,,78 €,4,tav10-top,snack,, 32 € 
+,Rotari,Brut Trento doc,MAGNUM,,,,1,tav10-top,,,
+,Santi,Amarone (dedica Il Bottegon),MAGNUM,2018,,,1,cheba-top,,,
+,Tenuta Rapitalà,Hugonis Rosso igt C.L.,MAGNUM,2013,,90 €,1,tav10-top,,, 42 € 
+,Terre Del Faet,Bianco Uve Autoctone,MAGNUM,2021,,75 €,1,Frigo friulani,,, 31 € 
+,Tramin,"Maglen Blauburg.Riserva 1,5 Lt",MAGNUM,2020,,90 €,2,tav10-top,,, 26 € 
+,Beaumont,Fleur  De Meunier - P.Meunier,,,GIV,100 €,1,totem,,, 44 € 
+,Billecart Salmon,Billecart Salmon Brut Reserve,,,TOLM,95 €,4,Frigo Sala dx,totem,tav10, 35 € 
+,Bollinger,Bollinger 30/10/24 Special Cuvée,,,TOLM,120 €,10,Frigo Sala dx,totem,, 43 € 
+,Castelnau,Brut Reserve,,,,80 €,8,Frigo Sala dx,Totem,, 29 € 
+,Charles Heidsieck,Charles Heidsieck,,,TOLM,90 €,3,Frigo Sala dx,totem,, 38 € 
+,Delamotte,Champagne,,,,60 €,51,Frigo Sala dx,totem,ingresso, 38 € 
+,Delamotte,Salon Champagne Cuvee's,,2013,,,1,Frigo Sala dx,,, 854 € 
+,Dom Perignon ,Dom Perignon Vintage ,,2015,Friends,300 €,17,Frigo Sala dx,totem,tav10, 150 € 
+,Gosset ,Gosset Extra Brut P.N+ P.M.+ Ch,,,TOLM,90 €,1,totem,,, 30 € 
+,Jacques Rousseaux,Cuvee Montgolfier,,,,,1,totem,,,
+,Joseph Perrier,Champagne,,,,,1,totem,,, 1 € 
+,Krug,Krug 171 Eme Edizione ,,,Friends,300 €,14,Frigo Sala dx,tav10,, 165 € 
+,Laurent Perrier,Laurent Perrier,,,TOLM,110 €,1,totem,,, 36 € 
+,Legras & Haas,Exigence N°10 Gran Cru P.N E Ch.,,,,160 €,4,Frigo Sala dx,totem,, 80 € 
+,Legras & Haas,L'evidence Blanc De Blanc ,,,,120 €,6,Frigo Sala dx,totem,, 51 € 
+,Louis Roederer,Cristal ,,2015,Friends,320 €,11,Frigo Sala dx,totem,tav10, 200 € 
+,Perrier Jouet,Belle Epoque ,,2015,,250 €,1,totem,,, 158 € 
+,Philipponnat,Philipponnat Royal Non Dosè  (Pn+Ch+Pm),,,TOLM,100 €,1,Frigo Sala dx,,, 38 € 
+,Philipponnat,Philipponnat Royal Reserve Brut  (Pn+Ch+Pm),,,TOLM,100 €,2,Frigo Sala dx,totem,, 35 € 
+,Pol Roger,Pol Roger Brut Réserve,,,TOLM,98 €,2,totem,tav10,, 37 € 
+,Pol Roger,Pol Roger Rosè Vintage Millesime,,2015,,,1,totem,,, 37 € 
+,Taittinger,Taittinger Cuvee Prestige ,,,TOLM,90 €,1,totem,,, 38 € 
+,Veuve Ambal,Cremant de Bourgogne Brut,,,,30 €,90,Frigo Sala dx,totem,ingresso, 12 € 

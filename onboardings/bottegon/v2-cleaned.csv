@@ -1,0 +1,465 @@
+external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantity,storage_area,internal_notes,visible,purchase_price_inclvat
+,RED,Chianti Classico,Agricoltori del Chianti Geografico,,BOTTLE,1971,0,81,1,Collezione,,True, 1 € 
+,RED,Amarone della Valpolicella Classico docg,Allegrini,,BOTTLE,2017,15000,6229,4,s2 - legno,,True, 76 € 
+,RED,Amarone della Valpolicella Classico docg ,Allegrini,,BOTTLE,2019,12000,4344,5,s2 - legno,,True, 53 € 
+,RED,La Grola igt Rosso Veronese,Allegrini,,BOTTLE,2018,0,0,0,nan,,True,0
+,RED,La Grola igt Rosso Veronese,Allegrini,,BOTTLE,2019,4500,1475,17,s4+bar005,,True, 18 € 
+,RED,La Poja - Corvina Veronese igt V.S Cassa Luxury,Allegrini,,BOTTLE,2017,14000,6229,5,s3 - legno,,True, 76 € 
+,RED,Palazzo della Torre igt - Corvina e Rond. Met. Alleg,Allegrini,,BOTTLE,2016,4500,1065,4,bar005,,True, 13 € 
+,RED,Valpolicella doc Corte Giara,Allegrini,,BOTTLE,2022,2500,573,2,bar005,,True, 7 € 
+,RED,Barolo docg Comune Serralunga C.Legno,Angelo Negro,,BOTTLE,2017,6000,2540,1,bar003,,True, 31 € 
+,RED,Basarin - Barbaresco docg Ris.C.Legno,Angelo Negro,,BOTTLE,2016,7000,2786,1,s3 - legno,,True, 34 € 
+,RED,Prachiosso Roero docg (Omaggio),Angelo Negro,,BOTTLE,2018,2500,819,1,bar003,,True, 10 € 
+,RED,Sudisfa' - Roero docg Riserva,Angelo Negro,,BOTTLE,2017,6000,2213,1,bar003,,True, 27 € 
+,RED,Badia a Passignano - Chianti G.S.,Antinori,,BOTTLE,2020,7000,2786,2,S4,,True, 34 € 
+,RED,Guado al Tasso- Bolgheri Sup,Antinori,,BOTTLE,2021,18000,7213,6,s4 - legno,,True, 88 € 
+,RED,Peppoli Chianti Classico,Antinori,,BOTTLE,2022,3000,655,8,s4,Fornitore: Friends,True, 8 € 
+,RED,Tignanello Sang.C.S +C.F.Barrique,Antinori,,BOTTLE,2021,15000,5819,4,tav10,,True, 71 € 
+,RED,Villa Antinori Riserva Chianti Cl.,Antinori,,BOTTLE,2021,4500,1229,5,s3,,True, 15 € 
+,RED,Villa Antinori Ryder Cup,Antinori,,BOTTLE,2020,3000,901,1,bar010,,True, 11 € 
+,RED,Il Bruciato - Tenuta Guado al Tasso,Antinori ,,BOTTLE,2022,4000,1147,9,s4+bar010,Fornitore: Friends,True, 14 € 
+,RED,Grecante - Grechetto,Arnaldo Caprai,,BOTTLE,2023,2600,737,7,Frigo Sala sx+Frigo bianchi,,True, 9 € 
+,RED,Merlot 2 Anni Barrique,Arnaldo Caprai,,BOTTLE,2018,5500,1885,2,s4,,True, 23 € 
+,RED,Montefalco Rosso Riserva doc,Arnaldo Caprai,,BOTTLE,2019,5000,1311,8,s4+bar009,,True, 16 € 
+,RED,Montefalco Rosso Riserva doc,Arnaldo Caprai,,BOTTLE,2021,5000,1393,17,s4,,True, 17 € 
+,RED,Montefalco Sagrantino  - 25 Anni docg ,Arnaldo Caprai,,BOTTLE,2018,10000,3278,3,cheba-top,,True, 40 € 
+,RED,Montefalco Sagrantino  - 25 Anni docg ,Arnaldo Caprai,,BOTTLE,2019,10000,3278,6,s4 - legno,,True, 40 € 
+,RED,Montefalco Sagrantino Val di Maggio docg,Arnaldo Caprai,,BOTTLE,2019,6000,1803,6,s4+bar009,,True, 22 € 
+,RED,Vigna Flaminia Maremmana (Montefalco Rosso doc),Arnaldo Caprai,,BOTTLE,2021,3000,819,0,nan,,True, 10 € 
+,RED,Caelum Malbech,Atlantic Brand,,BOTTLE,2018,5000,1475,1,bar010,,True, 18 € 
+,RED,Caelum Cabernet sauvignon,Atlantic Brandcae,,BOTTLE,2019,6000,1885,1,bar010,,True, 23 € 
+,RED,Terra Sancti Viti,Bagnarol,,BOTTLE,2021,0,81,1,snack,,True, 1 € 
+,RED,Il Macinatoio di Panzano,Bandinelli,,BOTTLE,1975,0,81,1,Collezione,,True, 1 € 
+,RED,Club Privado Tempranillo - Rioja,Baron De Ley,,BOTTLE,2020,2500,655,15,s4+bar008,Fornitore: Bolis,True, 8 € 
+,RED,Finca Monasterio Baron De Ley,Baron De Ley ,,BOTTLE,2017,5500,1721,2,bar008,Fornitore: Bolis,True, 21 € 
+,RED,Rioja Reserva Tempranillo - Rioja Reserv,Baron De Ley ,,BOTTLE,2020,3600,983,12,s4+bar008,Fornitore: Bolis,True, 12 € 
+,RED,De Promisso,Bellia,,BOTTLE,2019,0,81,1,tav11,,True, 1 € 
+,RED,Amarone Valpolicella Classico docg  ,Bertani,,BOTTLE,2008,15000,5491,6,s2 - legno+tav10,,True, 67 € 
+,RED,Rosso di Verona,Bertani,,BOTTLE,2016,0,0,5,bar004+s2 - legno,,True,0
+,RED,Arbis Ros Pignolo,Borgo San Daniele,,BOTTLE,2016,6000,1803,3,s2,,True, 22 € 
+,RED,Arbis ROS Pignolo,Borgo San Daniele,,BOTTLE,2019,8000,2377,13,s2,,True, 29 € 
+,RED,Jiasik Rosso Cabernet Sauvignon,Borgo San Daniele,,BOTTLE,2022,2500,819,23,bar007+carni,,True, 10 € 
+,RED,Bricco Dell'uccellone,Braida,,BOTTLE,2020,10000,2786,3,tav10,Fornitore: TOLM,True, 34 € 
+,RED,Brando ,Brandolini,,BOTTLE,2017,5000,1885,12,s2+bar006,,True, 23 € 
+,RED,Refosco,Brandolini,,BOTTLE,2017,2000,409,1,bar005,,True, 5 € 
+,RED,Stomo,Brandolini,,BOTTLE,2019,2500,491,1,bar005,,True, 6 € 
+,RED,Stomo,Brandolini,,BOTTLE,2020,2500,491,11,s2+bar005,,True, 6 € 
+,RED,Vistorta Merlot igt ,Brandolini,,BOTTLE,2018,5000,1803,9,s2+bar006,,True, 22 € 
+,RED,Merlot,Bressani,,BOTTLE,2021,3000,983,12,s2+bar006,,True, 12 € 
+,RED,Refosco Dal Peduncolo Rosso,Bressani,,BOTTLE,2021,3000,1065,2,bar006,,True, 13 € 
+,RED,Assesel Barbera  Omaggio,Ca Bianca,,BOTTLE,2023,0,81,1,s3,Fornitore: GIV,True, 1 € 
+,RED,Barbera d'Asti Superiore,Ca Bianca,,BOTTLE,2022,2500,655,19,s3+bar002,Fornitore: GIV,True, 8 € 
+,RED,Nebbiolo Langhe,Ca Bianca,,BOTTLE,2022,2500,573,13,s3+bar002,Fornitore: GIV,True, 7 € 
+,RED,Nebbiolo Langhe,Ca Bianca,,BOTTLE,2023,2500,573,24,s4+abbattitore,Fornitore: GIV,True, 7 € 
+,RED,Fioravanti - Pinot Nero dell'Oltrepò Pavese doc ,Calatroni,,BOTTLE,2014,2500,573,2,bar003,,True, 7 € 
+,RED,Pinot Nero (Oltrepo Pavese),Calatroni,,BOTTLE,2012,3600,1311,2,bar003,,True, 16 € 
+,RED,Riesling,Calatroni,,BOTTLE,2013,3600,1311,3,Frigo Sala sx,,True, 16 € 
+,RED,Sior ,Campe Dhei,,BOTTLE,2018,0,819,12,tav10-top+MAG,,True, 10 € 
+,RED,El Gat Ros,Carolina Gatti,,BOTTLE,0,0,0,5,tav10-top+MAG,,True,0
+,RED,Raboso,Carolina Gatti,,BOTTLE,2019,2100,655,1,tav10-top,,True, 8 € 
+,RED,I Sodi di S. Nicolò,Castellare di Castellina,,BOTTLE,2019,0,3278,1,cheba-top,,True, 40 € 
+,RED,Chianti Classico docg,Castello di Ama,,BOTTLE,2021,4000,1393,14,s3+bar010,,True, 17 € 
+,RED,San Lorenzo,Castello di Ama,,BOTTLE,2019,8000,3032,4,Frigo Sala sx,,True, 37 € 
+,RED,Artas Primitivo del Salento,Castello Monaci,,BOTTLE,2020,5200,1639,6,s4,Fornitore: GIV,True, 20 € 
+,RED,Maru Negroamaro Salento igt,Castello Monaci,,BOTTLE,2020,2500,491,1,bar008,Fornitore: GIV,True, 6 € 
+,RED,Piluna Primitivo Salento,Castello Monaci,,BOTTLE,2021,2500,573,2,bar008,Fornitore: GIV,True, 7 € 
+,RED,Sciu,Castello Monaci,,BOTTLE,2020,2500,573,2,bar008,Fornitore: GIV,True, 7 € 
+,RED,Barbaresco,Ceretto,,BOTTLE,2020,0,81,2,s3,,True, 1 € 
+,RED,Barbaresco docg Bio,Ceretto,,BOTTLE,2021,7200,2950,5,s3,,True, 36 € 
+,RED,Barolo docg Bio,Ceretto,,BOTTLE,2020,9000,3688,2,bar002,,True, 45 € 
+,RED,Brunat,Ceretto,,BOTTLE,2020,0,81,1,snack,,True, 1 € 
+,RED,Dolcetto Rossana,Ceretto,,BOTTLE,2018,0,901,1,bar002,,True, 11 € 
+,RED,Dolcetto Rossana,Ceretto,,BOTTLE,2020,3000,901,1,bar002,,True, 11 € 
+,RED,Monsordo Langhe Bio doc,Ceretto,,BOTTLE,2020,4500,1311,3,s3,,True, 16 € 
+,RED,Monsordo Langhe Bio doc,Ceretto,,BOTTLE,2021,4500,1475,6,s3,Fornitore: Om,True, 18 € 
+,RED,Nebbiolo d'Alba Bernardina,Ceretto,,BOTTLE,2021,4500,1475,1,bar002,,True, 18 € 
+,RED,Nebbiolo d'Alba Bernardina,Ceretto,,BOTTLE,2022,4500,1475,5,s3,,True, 18 € 
+,RED,Prapo',Ceretto,,BOTTLE,2020,0,81,1,snack,,True, 1 € 
+,RED,Moratel Vigneti delle Dolomiti ,Cesconi,,BOTTLE,2020,3000,819,1,bar001,,True, 10 € 
+,RED,Chateaunef - Du - Pape (Cote Du Rohn),Chateau Mont Redon,,BOTTLE,2020,9500,3688,6,s4,Fornitore: Ceretto,True, 45 € 
+,RED,Colle Duga - Collio - Merlot ,Colle Duga di Damian Princic,,BOTTLE,2022,3900,1147,2,bar006,Fornitore: TOLM,True, 14 € 
+,RED,Bordeaux Rouge,Comte de Dauzac,,BOTTLE,2020,2900,1065,1,bar009,,True, 13 € 
+,RED,Gran Terran -Terrano 100% Umago,Coronica Moreno,,BOTTLE,2013,6000,2213,2,Collezione,,True, 27 € 
+,RED,Teran - Terrano (Umago),Coronica Moreno,,BOTTLE,2015,5500,1967,7,s4,,True, 24 € 
+,RED,Monsclapade Taglio Bordolese,Dorigo,,BOTTLE,2020,5000,1311,3,Frigo Sala sx,Fornitore: TOLM,True, 16 € 
+,RED,Merlot,Doro Princic,,BOTTLE,2021,4000,1475,1,bar006,,True, 18 € 
+,RED,Mongovone Barbera d'Asti (da Litro),Elio Perrone,,LITER,2021,5000,1475,1,tav10,Fornitore: TOLM,True, 18 € 
+,RED,Montecarlo Bianco,Fattoria del Teso,,BOTTLE,0,2500,573,1,Frigo bianchi+magazzino,,True, 7 € 
+,RED,Montecarlo Riserva,Fattoria del Teso,,BOTTLE,2020,3500,1229,4,bar010,,True, 15 € 
+,RED,Cabernet Franc,Fiegl,,BOTTLE,2022,0,0,15,tav10+s1+bar007,,True,0
+,RED,Cabernet Sauvignon,Fiegl,,BOTTLE,2024,2000,573,42,tav10,,True, 7 € 
+,RED,Leopold Merlot,Fiegl,,BOTTLE,2018,3500,0,6,s1+bar007,,True,0
+,RED,Merlot ,Fiegl,,BOTTLE,2023,2000,0,4,tav10,,True,0
+,RED,Pinot Nero,Fiegl,,BOTTLE,2022,0,0,1,snack,,True,0
+,RED,Refosco (raduno DS 2024),Fiegl,,BOTTLE,2023,0,0,5,tav10,,True,0
+,RED,Barolo docg Serralunga d'Alba,Fontanafredda,,BOTTLE,2014,7200,2459,1,Collezione,,True, 30 € 
+,RED,Barolo docg Serralunga d'Alba,Fontanafredda,,BOTTLE,2019,6900,1885,16,s3+ingresso+bar002,,True, 23 € 
+,RED,Merlot,Formentini,,BOTTLE,2021,2500,655,8,bar007+sarpi,Fornitore: GIV,True, 8 € 
+,RED,Merlot,Formentini,,BOTTLE,2022,2500,0,6,s2+bar007,,True,0
+,RED,Bussia - Barolo,Francesco Clerico,,BOTTLE,2020,6000,2131,34,s3+bar001,,True, 26 € 
+,RED,Nebbiolo Langhe,Francesco Clerico,,BOTTLE,2022,3000,1065,3,bar001,,True, 13 € 
+,RED,Mas Janeil - Le Petit Pas,Francois Lurton,,BOTTLE,2022,3000,901,13,s4+bar008,,True, 11 € 
+,RED,Lucente igt,Frescobaldi ,,BOTTLE,2020,5000,1229,20,s4+Frigo Sala sx+bar010,Fornitore: Friends,True, 15 € 
+,RED,Albe (Barolo),G. D. Vajra,,BOTTLE,2020,0,81,1,Frigo Sala sx,,True, 1 € 
+,RED,Cabernet Colli Trevigiani docg ,Gregoletto,,BOTTLE,2022,2500,655,17,bar004+cheba giù,,True, 8 € 
+,RED,Merlot Colli Trevigiani docg,Gregoletto,,BOTTLE,2022,2500,573,9,bar004+cheba giù,,True, 7 € 
+,RED,Vino Rosso Colli Trev.Mer.+C.S.+C.F.,Gregoletto,,BOTTLE,2018,4000,1311,8,bar004+cheba giù,,True, 16 € 
+,RED,Barolo,Guido Porro,,BOTTLE,2019,8000,81,1,Collezione,Fornitore: Friends,True, 1 € 
+,RED,Merlot Galea Terreno Argilloso Vigne 80 Anni,I Clivi,,BOTTLE,2018,4000,1147,3,Frigo bianchi,,True, 14 € 
+,RED,"""Guera"" Barbera d'Asti Superiore docg",Il Mongetto,,BOTTLE,2020,5000,1311,8,s3+bar002,,True, 16 € 
+,RED,"""Guera"" Barbera d'Asti Superiore docg",Il Mongetto,,BOTTLE,2021,5000,1393,24,s3+bar002+cheba giù,,True, 17 € 
+,RED,Barbera del Monferrato doc Superiore ,Il Mongetto,,BOTTLE,2017,0,0,2,Collezione,,True,0
+,RED,Barbera del Monferrato doc Superiore ,Il Mongetto,,BOTTLE,2019,3000,819,1,bar002,,True, 10 € 
+,RED,Barbera del Monferrato doc Superiore ,Il Mongetto,,BOTTLE,2020,3400,819,10,s3+bar002,,True, 10 € 
+,RED,Barbera del Monferrato doc Superiore ,Il Mongetto,,BOTTLE,2021,3400,983,24,s3+bar002+cheba giù,,True, 12 € 
+,RED,Grignolino del Moferrato doc,Il Mongetto,,BOTTLE,2020,2500,737,11,s3+bar002,,True, 9 € 
+,RED,Kurteis - Cortese Bianco,Il Mongetto,,BOTTLE,2018,2500,491,1,Frigo bianchi,,True, 6 € 
+,RED,Pinot Noir App. Bourgogne Controle,Jaffelin Borgogn,,BOTTLE,2022,4900,1557,11,s4+bar008,,True, 19 € 
+,RED,Pinot Noir Vin De France Cote D'or,Jaffelin Borgogn,,BOTTLE,2023,2500,655,23,s4+bar008,,True, 8 € 
+,RED,Cote De Nuits (Pinot Nero),Joseph Faiveley,,BOTTLE,2021,7500,2295,4,s4+bar008,Fornitore: Friends,True, 28 € 
+,RED,Merlot,La Castellada,,BOTTLE,2014,8000,2540,10,s2+Frigo Sala sx,,True, 31 € 
+,RED,Rosso della Castellada  - 80% Merlot +Cab.Sau,La Castellada,,BOTTLE,2013,8000,2459,3,Frigo Sala sx,,True, 30 € 
+,RED,"Arche' Croatina- Spezie, Bals. Erbe Ar. Barriq",La Colombera,,BOTTLE,2017,3500,1065,2,Frigo bianchi,,True, 13 € 
+,RED,Merlot  ,La Luna Storta,,BOTTLE,2020,3000,983,7,s2+bar007,,True, 12 € 
+,RED,Brunello Di Montalc.,La Mannella di Cortonesi,,BOTTLE,2017,7500,2622,4,bar010,,True, 32 € 
+,RED,Leonus Toscana Rosso,La Mannella di Cortonesi,,BOTTLE,2021,3000,655,3, bar010,,True, 8 € 
+,RED,Chianti Classico Radda In Chianti,La Selvanella,,BOTTLE,2020,4000,1393,5,tav10,,True, 17 € 
+,RED,Pinot Nero   ,Le Due Terre,,BOTTLE,2018,6000,1803,1,Frigo bianchi,Fornitore: TOLM,True, 22 € 
+,RED,Merlot,Le Konde,,BOTTLE,2022,2700,655,5,s2,,True, 8 € 
+,RED,Cabernet Sauvignon,Le Monde,,BOTTLE,2022,2700,655,5,s2,,True, 8 € 
+,RED,Merlot,Le Monde,,BOTTLE,2022,2700,0,5,s2,,True,0
+,RED,Refosco,Le Vigne di Zamò,,BOTTLE,2019,4000,819,1,Frigo bianchi,,True, 10 € 
+,RED,Ronco dei Roseti Rosso,Le Vigne di Zamò,,BOTTLE,2001,3000,819,1,Frigo bianchi,,True, 10 € 
+,RED,Merlot,Livio Felluga,,BOTTLE,2020,4000,1475,12,s2+Frigo Sala sx+bar007,,True, 18 € 
+,RED,Refosco dal Peduncolo Rosso,Livio Felluga,,BOTTLE,2020,4000,1475,6,s2+Frigo Sala sx+bar007,,True, 18 € 
+,RED,Sossò,Livio Felluga,,BOTTLE,2016,8000,2868,6,s2 - legno,,True, 35 € 
+,RED,Vertigo  - Merlot e Cab.Sauvignon,Livio Felluga,,BOTTLE,2022,2500,901,33,s2+bar007,,True, 11 € 
+,RED,Mason - Pinot Nero,Manincor,,BOTTLE,2021,6000,2213,5,tav11,,True, 27 € 
+,RED,Merlot Varneri,Marco Felluga,,BOTTLE,2022,2700,737,30,s1+bar008,,True, 9 € 
+,RED,Barbaresco Riserva Paja,Marinacci,,BOTTLE,2009,9000,2540,2,bar003,,True, 31 € 
+,RED,Dolcetto d'Alba doc,Marinacci,,BOTTLE,2018,3000,737,2,bar003,,True, 9 € 
+,RED,Pinot Nero,Masut Da Rive,,BOTTLE,2021,4000,1147,1,Frigo Sala sx,,True, 14 € 
+,RED,Zisola  (Nero D'avola doc Noto Sicilia),Mazzei,,BOTTLE,2018,2600,655,1,bar009,,True, 8 € 
+,RED,"Real (Tazzelenghe, Mer, C.Sau. Mariotti)",Moschioni,,BOTTLE,2013,5000,1885,2,Frigo Sala sx,,True, 23 € 
+,RED,"Real (Tazzelenghe, Mer, C.Sau. Mariotti)",Moschioni,,BOTTLE,2015,5000,1885,0,Frigo Sala sx,,True, 23 € 
+,RED,Rosso Celtico (Merlot e Cab Sauvignon Mariotti),Moschioni ,,BOTTLE,2015,5000,1885,7,Frigo Sala sx+bar006,,True, 23 € 
+,RED,Ca' Guicciardi - Inferno docg,Nino Negri,,BOTTLE,2019,6000,1885,2,s4,,True, 23 € 
+,RED,Castel Chiuro (Conf.Blu) Valt. Super.,Nino Negri,,BOTTLE,2009,10000,2786,1,tav10-top,,True, 34 € 
+,RED,Fracia Valgella,Nino Negri,,BOTTLE,2017,5500,1885,1,bar004,,True, 23 € 
+,RED,Fracia Valgella,Nino Negri,,BOTTLE,2018,6000,1967,3,s4+tav10,,True, 24 € 
+,RED,Giuen Nebbiolo,Nino Negri,,BOTTLE,2021,3000,737,4,bar004,,True, 9 € 
+,RED,Sassorosso-Grumello ,Nino Negri,,BOTTLE,2019,6000,1885,5,s4+tav10,,True, 23 € 
+,RED,Sfursat 5 Stelle ,Nino Negri,,BOTTLE,2020,9900,4672,2,tav10-top,,True, 57 € 
+,RED,Sfursat Valtellina Carlo Negri docg,Nino Negri,,BOTTLE,2017,9000,2459,1,bar004,Fornitore: GIV,True, 30 € 
+,RED,Sfursat Valtellina Carlo Negri docg,Nino Negri,,BOTTLE,2019,7000,2049,4,bar004+tav10-top,Fornitore: GIV,True, 25 € 
+,RED,Sfursat Valtellina Carlo Negri docg,Nino Negri,,BOTTLE,2021,8000,2459,6,bar004+tav10-top,Fornitore: GIV,True, 30 € 
+,RED,Malanotte,Ornella Molon,,BOTTLE,2012,0,81,1,tav10-top,,True, 1 € 
+,RED,Bolgheri Ornellaia,Ornellaia Bolgheri,,BOTTLE,2021,0,10245,1,tav10-top,,True, 125 € 
+,RED,Biosfera Catarratto Igp,Pellegrino,,BOTTLE,2021,2500,409,4,Frigo Sala sx,,True, 5 € 
+,RED,Materico Nero D'avola,Pellegrino,,BOTTLE,2020,2500,409,1,bar009,,True, 5 € 
+,RED,Rinazzo - Syrah,Pellegrino (Rinazzo),,BOTTLE,2020,2500,655,4,bar009,,True, 8 € 
+,RED,Solneri Barbera d'Asti Superiore,Pescaja,,BOTTLE,2022,4200,1475,5,bar001,,True, 18 € 
+,RED,"Sololuna Terre Alfieri, Bianco Arneis  ",Pescaja,,BOTTLE,2020,3600,1311,5,Frigo Sala sx,,True, 16 € 
+,RED,Cabernet Maremma,Peteglia,,BOTTLE,2019,3900,1065,3,s3,,True, 13 € 
+,RED,Mezzodi' Sangiovese,Peteglia,,BOTTLE,2023,2500,655,5,s3,,True, 8 € 
+,RED,Montecucco Sangiovese 18 Barriques ,Peteglia,,BOTTLE,2019,0,1311,1,s3,,True, 16 € 
+,RED,Montecucco Sangiovese Ris. 36 Barr.,Peteglia,,BOTTLE,2019,4000,1311,6,s3,,True, 16 € 
+,RED,Montecucco Sangiovese 18 Barriques ,Peteglia ,,BOTTLE,2020,2700,819,11,s3,,True, 10 € 
+,RED,Merlot Scaglia Rossa,Pizzulin,,BOTTLE,2021,9700,4016,1,snack,,True, 49 € 
+,RED,Bramaterra doc,Podere Monolo,,BOTTLE,2019,0,81,1,Collezione,,True, 1 € 
+,RED,Barbera d'Alba (Antinori),Prunotto (Antinori),,BOTTLE,2022,3000,819,2,bar001,,True, 10 € 
+,RED,Barolo (Antinori),Prunotto (Antinori),,BOTTLE,2020,6500,2704,4,bar001,,True, 33 € 
+,RED,Aglianico Del Vulture,Re Manfredi,,BOTTLE,2016,3600,1311,1,bar009,Fornitore: GIV,True, 16 € 
+,RED,Tazzelenghe doc,Rieppi,,BOTTLE,2018,4000,1475,1,Collezione,,True, 18 € 
+,RED,Red Selectus,Ronk,,BOTTLE,0,0,0,1,tav10-top,,True,0
+,RED,Cabernet Franc,Russiz Superiore Marco Felluga ,,BOTTLE,2021,3500,1229,3,bar006,,True, 15 € 
+,RED,Merlot,Russiz Superiore Marco Felluga ,,BOTTLE,2018,3500,1229,1,bar006,,True, 15 € 
+,RED,Rosso di Montepulciano+C295,Salcheto ,,BOTTLE,2020,2500,737,4,bar010,,True, 9 € 
+,RED,Refosco,Sancin,,BOTTLE,2021,3000,901,3,tav10-top,,True, 11 € 
+,RED,Tempus Soave Soc Colli Scaligeri,Sandro De Bruno,,BOTTLE,2007,3000,1065,1,MAG,Fornitore: Area 6 srl,True, 13 € 
+,RED,Giardino Rose' igt Rosato,Santa Cristina (Antinori),,BOTTLE,2023,2500,491,5,tav10-top,,True, 6 € 
+,RED,Amarone,Santi,,BOTTLE,2017,0,2704,0,Frigo bianchi,Fornitore: GIV,True, 33 € 
+,RED,Carlo Santi 1843 Amarone,Santi,,BOTTLE,2016,7000,2868,5,s4 - legno,Fornitore: GIV,True, 35 € 
+,RED,Crinaia Cab. Sauv.Franc E Merlot,Santi,,BOTTLE,2019,3000,1065,2,bar005,Fornitore: GIV,True, 13 € 
+,RED,"Solane (Valpolicella Ripasso-Corvina, Rondinella)",Santi,,BOTTLE,2020,2900,901,3,bar005,Fornitore: GIV,True, 11 € 
+,RED,"Ventale Valpolicellacorvina, Rond.",Santi,,BOTTLE,2020,2700,737,9,s4+bar005,Fornitore: GIV,True, 9 € 
+,RED,Capoccia Ciliegiolo,Scansano,,BOTTLE,2023,2500,491,8,bar009,,True, 6 € 
+,RED,Merlot,Simon di Brazzan,,BOTTLE,2021,3500,983,14,s2+bar007+Frigo bianchi,,True, 12 € 
+,RED,Toscana Rosso,Società Agricola Francesca,,BOTTLE,2021,0,81,1,tav10-top,,True, 1 € 
+,RED,Merlot,Tami,,BOTTLE,2021,2600,81,6,s2+bar008,,True, 1 € 
+,RED,Merlot,Tami,,BOTTLE,2022,0,737,0,nan,,True, 9 € 
+,RED,Refosco dal Peduncolo Rosso,Tami,,BOTTLE,2021,2600,737,9,s2+bar008,,True, 9 € 
+,RED,Rosso Riserva,Tami,,BOTTLE,2017,5000,1393,6,s2,,True, 17 € 
+,RED,Il Fortino (Syrah),Tenuta del Buonamico,,BOTTLE,2018,0,81,2,tav11,,True, 1 € 
+,RED,Vasario igt (Pinot Bianco),Tenuta del Buonamico,,BOTTLE,2020,0,81,3,tav11,,True, 1 € 
+,RED,Conte Hugues Chardonnay igt,Tenuta Rapitalà,,BOTTLE,2019,4400,1557,2,Frigo Sala sx,,True, 19 € 
+,RED,Hugonis Cab.Sauvig.+Nero D'avola doc,Tenuta Rapitalà,,BOTTLE,2019,5000,1557,5,s3 - legno,,True, 19 € 
+,RED,Gries  doc Riserva ,Terlan,,BOTTLE,2020,5000,1721,7,tav11,,True, 21 € 
+,RED,Gries doc Riserva ,Terlan,,BOTTLE,2021,5000,0,6,tav11,,True,0
+,RED,Lagrein doc ,Terlan,,BOTTLE,2023,3500,1065,1,bar000,,True, 13 € 
+,RED,Monticol Pinot Nero ,Terlan,,BOTTLE,2021,6500,2049,10,tav11+bar000,,True, 25 € 
+,RED,Monticol Pinot Nero ,Terlan,,BOTTLE,2022,6500,2049,5,tav11,,True, 25 € 
+,RED,Pinot Noir Tradition ,Terlan,,BOTTLE,2023,4000,1229,14,tav11+bar000,,True, 15 € 
+,RED,Siebenich - Merlot Riserva,Terlan,,BOTTLE,2017,0,0,2,tav11,,True,0
+,RED,Siebenich - Merlot Riserva,Terlan,,BOTTLE,2019,5000,1557,4,tav11,,True, 19 € 
+,RED,Siebenich - Merlot Riserva,Terlan,,BOTTLE,2020,5000,0,6,tav11+bar000,,True,0
+,RED,Torilan Merlot E Cabernet,Terlan,,BOTTLE,2021,3500,1065,6,tav11+bar000,,True, 13 € 
+,RED,Torilan Merlot E Cabernet,Terlan,,BOTTLE,2022,3500,1147,7,tav11,,True, 14 € 
+,RED,Refosco (Regalo) e Rosso,Tonut,,BOTTLE,0,0,81,3,sarpi terra,,True, 1 € 
+,RED,Montepulciano d'Abruzzo,Torre dei Beati,,BOTTLE,2016,0,81,1,bar010,,True, 1 € 
+,RED,Marjun Pinot Nero Riserva ,Tramin,,BOTTLE,2022,3500,1065,19,tav11+bar001,,True, 13 € 
+,RED,Rungg Merlot + Cabernet doc,Tramin,,BOTTLE,2017,4500,1065,2,bar001,,True, 13 € 
+,RED,Rungg Merlot + Cabernet doc,Tramin,,BOTTLE,2020,4000,1065,5,bar001+tav11,,True, 13 € 
+,RED,Urban Lagrein Riserva,Tramin,,BOTTLE,2020,5500,2131,5,tav11,,True, 26 € 
+,RED,Gattinara Riserva,Travaglini,,BOTTLE,2018,0,81,1,Collezione,,True, 1 € 
+,RED,Rosso Riserva,Vignalta Colli Euganei,,BOTTLE,2017,3000,901,2,bar005,,True, 11 € 
+,RED,Purple Haze Igp Paestum Aglianico,Viticoltori De Conciliis,,BOTTLE,2016,3000,1065,2,bar009,Fornitore: Area 6 srl,True, 13 € 
+,RED,Red,Viticoltori De Conciliis,,BOTTLE,2018,0,0,1,tav10-top,,True,0
+,RED,Pignolo,Zorzettig,,BOTTLE,2016,4800,1311,5,s2+bar007,,True, 16 € 
+,RED,Refosco Myo,Zorzettig,,BOTTLE,2019,4000,1065,18,s2+bar007,,True, 13 € 
+,RED,Schioppettino Myo,Zorzettig,,BOTTLE,2019,4000,1229,9,s2+bar007,,True, 15 € 
+,DESSERT,Muffato della Sala,Antinori ,,BOTTLE,2022,6400,2213,8,tav10+cartone a lato tav10,,True, 27 € 
+,DESSERT,Santon Bianco (Vermout),Borgo San Daniele,,BOTTLE,0,0,1885,2,totem,,True, 23 € 
+,DESSERT,Brachetto d'Aqui,Braida,,BOTTLE,2019,2500,491,2,s4+bar003,Fornitore: TOLM,True, 6 € 
+,DESSERT,Brachetto d'Aqui,Braida,,BOTTLE,2021,2500,491,5,s4+bar003,Fornitore: TOLM,True, 6 € 
+,DESSERT,Ramandolo,Bressani,,BOTTLE,2019,0,1147,1,tav10,,True, 14 € 
+,DESSERT,Ramandolo,Bressani,,BOTTLE,2020,4000,1147,6,tav10,,True, 14 € 
+,DESSERT,Moscato d'Asti,Ca Bianca,,BOTTLE,2022,0,819,3,tav10,,True, 10 € 
+,DESSERT,"Sauternes-Semillon 0,375",Chateau Gravas,,HALF_BOTTLE,2022,7000,1967,6,Frigo Sala dx+tav10,,True, 24 € 
+,DESSERT,"Sauternes-Semillon 0,75",Chateau Gravas,,BOTTLE,2022,0,1967,3,Frigo Sala dx,,True, 24 € 
+,DESSERT,Venryè Passito di Pantelleria,Donna Fugata,,BOTTLE,2017,0,1557,1,tav10,,True, 19 € 
+,DESSERT,Venryè Passito di Pantelleria,Donna Fugata,,BOTTLE,2018,0,1557,1,tav10,,True, 19 € 
+,DESSERT,Montecarlo Vin Santo,Fattoria del Teso,,BOTTLE,1999,0,3934,5,tav10,,True, 48 € 
+,DESSERT,Moscato d'Asti docg ,I Vignaioli di Santo Stefano,,BOTTLE,2022,0,819,6,tav10,,True, 10 € 
+,DESSERT,Carignano del Sulcis - Passito Forterosso,Mesa,,BOTTLE,2023,0,81,1,tav10,,True, 1 € 
+,DESSERT,"Gruner Veltliner - Eis Wein 0,375",Niegl,,HALF_BOTTLE,2021,7000,2540,2,Frigo Sala dx,,True, 31 € 
+,DESSERT,Giardino Pantesco - Passito di Pantelleria,Pellegrino,,BOTTLE,2020,0,1065,1,tav10,,True, 13 € 
+,DESSERT,Giardino Pantesco - Passito di Pantelleria,Pellegrino,,BOTTLE,2021,3000,1065,2,tav10,,True, 13 € 
+,DESSERT,Old John - Marsala,Pellegrino,,BOTTLE,1998,0,819,2,tav10,,True, 10 € 
+,DESSERT,"Ramandolo 0,50",Tami,,HALF_LITER,2022,3500,983,5,tav10,,True, 12 € 
+,DESSERT,Fior d'arancio Moscato Giallo Charmat,Vignalta Colli Euganei,,BOTTLE,0,3000,655,3,totem+Frigo bianchi,,True, 8 € 
+,DESSERT,"Picolit 0,50 Lt",Zorzettig,,HALF_LITER,2019,6000,2377,4,tav10,,True, 29 € 
+,WHITE,Chablis Vieilles Vignes,Alain Geoffroy,,BOTTLE,2021,5000,1557,4,Frigo Sala dx,,True, 19 € 
+,WHITE,Arbis Blanc,Borgo San Daniele,,BOTTLE,2021,4000,0,5,s1,,True,0
+,WHITE,Friulano,Borgo San Daniele,,BOTTLE,2022,3000,901,3,s1+Frigo friulani,,True, 11 € 
+,WHITE,Friulano,Borgo San Daniele,,BOTTLE,2023,4000,1147,24,s1+Frigo friulani,,True, 14 € 
+,WHITE,Jiasik Bianco Riesling e Malvasia,Borgo San Daniele,,BOTTLE,2023,2500,819,20,carni terra+Frigo bianchi+bar007,,True, 10 € 
+,WHITE,Malvasia doc,Borgo San Daniele,,BOTTLE,2023,3000,901,7,carni terra+Frigo bianchi,,True, 11 € 
+,WHITE,Pinot Grigio,Borgo San Daniele,,BOTTLE,0,3000,0,5,s1,,True,0
+,WHITE,Plumbus ,Bozzon Emilio,,BOTTLE,0,0,81,1,tav10-top,,True, 1 € 
+,WHITE,Bianca,Brandolini,,BOTTLE,2020,5000,1885,4,s1,,True, 23 € 
+,WHITE,Friulano,Brandolini,,BOTTLE,2023,2500,491,2,Frigo friulani,,True, 6 € 
+,WHITE,Carat (Tocai-Malvasia-Ribolla),Bressan,,BOTTLE,2018,9000,2622,2,Frigo bianchi,,True, 32 € 
+,WHITE,Friulano,Bressani,,BOTTLE,2022,2500,819,2,Frigo friulani,,True, 10 € 
+,WHITE,Bolle Bandite,Carolina Gatti,,BOTTLE,0,0,0,1,tav10-top,,True,0
+,WHITE,Canaja,Carolina Gatti,,BOTTLE,0,3500,1147,1,MAG,,True, 14 € 
+,WHITE,Manzoni Bianco,Cesconi,,BOTTLE,2023,3000,819,4,Frigo Sala sx,,True, 10 € 
+,WHITE,Nosiola Vigneti Dolomiti,Cesconi,,BOTTLE,2022,3000,901,0,nan,,True, 11 € 
+,WHITE,Colle Duga - Collio - Friulano - Vigna del Rolat,Colle Duga di Damian Princic,,BOTTLE,2023,3600,1065,9,Frigo friulani+tav10-top,Fornitore: TOLM,True, 13 € 
+,WHITE,Colle Duga - Collio - Ribolla Gialla,Colle Duga di Damian Princic,,BOTTLE,2022,3500,1065,1,Frigo bianchi,Fornitore: TOLM,True, 13 € 
+,WHITE,Pinot Bianco?,Doro Princic,,BOTTLE,2022,4000,1393,2,Frigo bianchi,Fornitore: TOLM,True, 17 € 
+,WHITE,Sauvignon,Doro Princic,,BOTTLE,2022,4000,1393,1,Frigo bianchi,,True, 17 € 
+,WHITE,Orange del Teso,Fattoria del Teso,,BOTTLE,0,0,1229,3,Frigo bianchi,,True, 15 € 
+,WHITE,Chardonnay,Fiegl,,BOTTLE,2022,2000,0,8,tav10+Frigo bianchi,,True,0
+,WHITE,Friulano,Fiegl,,BOTTLE,2024,2000,573,13,Frigo friulani+tav10,,True, 7 € 
+,WHITE,Malvasia,Fiegl,,BOTTLE,2023,2000,0,2,tav10,,True,0
+,WHITE,Pinot Grigio,Fiegl,,BOTTLE,2022,2000,0,8,Frigo bianchi+tav10,,True,0
+,WHITE,Ribolla Gialla,Fiegl,,BOTTLE,2024,3000,819,8,tav10+Frigo bianchi,,True, 10 € 
+,WHITE,Ribolla Macerata,Fiegl,,BOTTLE,2020,0,0,6,tav10,,True,0
+,WHITE,Sauvignon,Fiegl,,BOTTLE,2023,2000,0,9,tav10+Frigo bianchi,,True,0
+,WHITE,Bianco,Formentini,,BOTTLE,2020,2500,0,1,Frigo friulani,,True,0
+,WHITE,Chardonnay   ,Formentini,,BOTTLE,2021,2500,0,11,Frigo bianchi+sarpi,,True,0
+,WHITE,Chardonnay   ,Formentini,,BOTTLE,2023,2500,737,11,sarpi,Fornitore: GIV,True, 9 € 
+,WHITE,Friulano  doc Collio,Formentini,,BOTTLE,2023,2500,655,28,s1+Frigo friulani+sarpi,Fornitore: GIV,True, 8 € 
+,WHITE,Pinot Grigio,Formentini,,BOTTLE,2023,2500,737,6,sarpi,Fornitore: GIV,True, 9 € 
+,WHITE,Ribolla Gialla Collio ,Formentini,,BOTTLE,2023,2500,655,1,Frigo friulani,Fornitore: GIV,True, 8 € 
+,WHITE,Muscadet Sèvre Et Maine - Loira,Hermines Du Cardinal ,,BOTTLE,2020,2500,901,1,Frigo bianchi,,True, 11 € 
+,WHITE,Muscadet Sèvre Et Maine - Loira,Hermines Du Cardinal ,,BOTTLE,2021,0,901,1,Frigo bianchi,,True, 11 € 
+,WHITE,Clos Les Montys Muscadet-Melon Bourgo,Huchet Jeremie,,BOTTLE,2022,2500,737,2,Frigo Sala dx,,True, 9 € 
+,WHITE,Verduzzo,I Clivi ,,BOTTLE,2017,3000,901,2,Frigo bianchi,,True, 11 € 
+,WHITE,Heartbreaker - Riesling Renano Trevenezie,IT-VR,,BOTTLE,2019,3600,1311,1,Frigo bianchi,Fornitore: Area 6 srl,True, 16 € 
+,WHITE,Chablis - Cote D'or - Beaune,Jaffelin Borgogn,,BOTTLE,2023,6000,1721,6,Frigo Sala sx,,True, 21 € 
+,WHITE,Chardonnay Vin De France,Jaffelin Borgogn,,BOTTLE,2023,2500,655,11,Frigo Sala sx+Frigo bianchi,,True, 8 € 
+,WHITE,Chardonnay Vin De France,Jaffelin Borgogn,,BOTTLE,2024,2500,655,8,Frigo Sala sx,,True, 8 € 
+,WHITE,Chardonnay,Kante,,BOTTLE,2021,3500,1147,2,Frigo bianchi,,True, 14 € 
+,WHITE,Sauvignon ,Kante,,BOTTLE,2021,3500,1147,1,Frigo bianchi,,True, 14 € 
+,WHITE,Conte Lucio Pinot Grigio,La Bella Notte,,BOTTLE,2018,3400,1229,6,Frigo Sala sx,,True, 15 € 
+,WHITE,Luna De Ronchi Sauvignon,La Bella Notte,,BOTTLE,2018,2700,983,3,Frigo bianchi,,True, 12 € 
+,WHITE,Friulano,La Castellada ,,BOTTLE,2017,5500,1803,2,Frigo Sala sx+Frigo friulani,,True, 22 € 
+,WHITE,Ante Lucem Bianco,La Luna Storta,,BOTTLE,2022,3000,901,5,Frigo Sala sx,,True, 11 € 
+,WHITE,Friulano,La Luna Storta,,BOTTLE,2022,2500,737,8,Frigo Sala sx+Frigo friulani,,True, 9 € 
+,WHITE,Friulano,Le Monde,,BOTTLE,2024,2500,655,12,s1+Frigo friulani,,True, 8 € 
+,WHITE,Pinot Bianco,Le Monde,,BOTTLE,2024,2500,491,10,s1+Frigo bianchi,,True, 6 € 
+,WHITE,No Name Friulano,Le Vigne Di Zamò,,BOTTLE,2022,3400,983,1,Collezione,Fornitore: TOLM,True, 12 € 
+,WHITE,Ribolla Gialla,Le Vigne Di Zamò,,BOTTLE,2021,3400,983,1,Frigo bianchi,Fornitore: TOLM,True, 12 € 
+,WHITE,Abbazia di Rosazzo,Livio Felluga,,BOTTLE,2021,0,2459,1,Frigo Sala sx,Fornitore: regalo Paolo,True, 30 € 
+,WHITE,Friulano,Livio Felluga,,BOTTLE,2023,3000,983,9,s1+Frigo friulani,,True, 12 € 
+,WHITE,Sharis - Chardonnay + Ribolla,Livio Felluga,,BOTTLE,2023,2500,655,16,s1+Frigo bianchi,,True, 8 € 
+,WHITE,Chablis - Chardonnay/Bourgogne,Louis Moreau,,BOTTLE,2023,6000,1885,6,Frigo Sala dx,,True, 23 € 
+,WHITE,Sophie,Manincor,,BOTTLE,2022,4800,81,1,tav11,,True, 1 € 
+,WHITE,Tannenberg - Sauvignon Blanc,Manincor,,BOTTLE,2022,4800,1803,2,tav11,,True, 22 € 
+,WHITE,Amani Friulano,Marco Felluga,,BOTTLE,2023,2700,737,35,s1+Frigo friulani+Frigo bianchi,,True, 9 € 
+,WHITE,Pinot Grigio,Marjan Simcic,,BOTTLE,2020,3300,983,2,Frigo Sala dx,,True, 12 € 
+,WHITE,Ribolla Brda,Marjan Simcic,,BOTTLE,2020,3000,901,1,Frigo Sala dx,,True, 11 € 
+,WHITE,Meroi Bianco,Meroi Bianco,,BOTTLE,2022,2800,819,2,Frigo bianchi,Fornitore: TOLM,True, 10 € 
+,WHITE,Bianco Colli Orientali ,Moschioni,,BOTTLE,2021,4500,1393,2,Frigo friulani,,True, 17 € 
+,WHITE,Urgenstein - Riesling,Niegl,,BOTTLE,2023,6000,1967,6,Frigo Sala dx,,True, 24 € 
+,WHITE,Alpi Retiche Igp-Nebbiolo In Bianco,Nino Negri,,BOTTLE,2023,2500,737,5,tav10-top+Frigo bianchi,,True, 9 € 
+,WHITE,Monogramma Mueller Thurgau,Pojer e Sandri,,BOTTLE,2020,3600,1311,1,Frigo bianchi,,True, 16 € 
+,WHITE,Monogramma Riesling,Pojer e Sandri,,BOTTLE,2021,3800,1393,1,Frigo bianchi,,True, 17 € 
+,WHITE,Rebula Brda,Pulec,,BOTTLE,2022,0,0,1,Frigo bianchi,,True,0
+,WHITE,Friulano - Vigna del Rolat,Raccaro,,BOTTLE,2023,4200,1229,5,Frigo friulani+tav10-top,Fornitore: TOLM,True, 15 € 
+,WHITE,Ribolla Gialla,Ronco Severo,,BOTTLE,2020,5000,1393,4,Frigo Sala sx,Fornitore: TOLM,True, 17 € 
+,WHITE,Chardonnay Selectus,Ronk,,BOTTLE,2019,0,81,1,tav10-top,,True, 1 € 
+,WHITE,Malvasia,Sancin,,BOTTLE,2022,2500,819,2,Frigo bianchi,,True, 10 € 
+,WHITE,Satisfaction - Verdicchio Cast. Jesi Marche,Santa Barbara,,BOTTLE,2018,2500,901,1,Frigo bianchi,Fornitore: Area 6 srl,True, 11 € 
+,WHITE,Vermentino igt,Santa Cristina (Antinori),,BOTTLE,2023,0,491,1,Frigo bianchi+tav10-top,,True, 6 € 
+,WHITE,Friulano,Schioppetto,,BOTTLE,2022,3400,983,1,Frigo friulani,Fornitore: TOLM,True, 12 € 
+,WHITE,Chardonnay Colterenzio (Oscar),Schreckbichl,,BOTTLE,2023,0,81,1,Frigo bianchi,,True, 1 € 
+,WHITE,Pouilly Fumé - Sauvignon Blanc/Loire,Serge Dagueneau,,BOTTLE,2023,5000,1967,4,Frigo Sala dx,,True, 24 € 
+,WHITE,Friulano ,Simon di Brazzan,,BOTTLE,2023,3000,737,2,Frigo friulani,,True, 9 € 
+,WHITE,Chardonnay Andritz igt,Sturm,,BOTTLE,2016,3000,901,1,Frigo bianchi,,True, 11 € 
+,WHITE,Friulano,Tami,,BOTTLE,2023,2500,573,2,Frigo friulani,,True, 7 € 
+,WHITE,Verdicchio Castelli di Jesi,Tenuta di Tavignano,,BOTTLE,2023,3000,737,15,s4+tav10-top+Frigo bianchi,,True, 9 € 
+,WHITE,Chardonnay,Terlan,,BOTTLE,2022,0,0,12,Frigo bianchi+tav11,,True,0
+,WHITE,Chardonnay,Terlan,,BOTTLE,2023,3000,901,12,tav11+Frigo bianchi,,True, 11 € 
+,WHITE,Pinot Bianco,Terlan,,BOTTLE,2023,3000,901,2,Frigo bianchi,,True, 11 € 
+,WHITE,Terlaner Classico doc ,Terlan,,BOTTLE,2022,3500,1065,8,tav11+Frigo bianchi,,True, 13 € 
+,WHITE,Vorberg Riserva Pinot Bianco,Terlan,,BOTTLE,2022,6000,2131,6,tav11,,True, 26 € 
+,WHITE,Winkl  Sauvignon Blanc,Terlan,,BOTTLE,2015,4500,983,1,Frigo bianchi,,True, 12 € 
+,WHITE,Winkl  Sauvignon Blanc,Terlan,,BOTTLE,2022,3600,983,9,tav11,,True, 12 € 
+,WHITE,Friulano,Terre Del Faet,,BOTTLE,2022,3000,819,4,Frigo friulani,,True, 10 € 
+,WHITE,Bianco Blend - Suo Tempo,Tonut,,BOTTLE,2018,2500,819,1,tav11,,True, 10 € 
+,WHITE,Toros Friulano,Toros Friulano,,BOTTLE,2022,4200,1229,2,Frigo friulani,Fornitore: TOLM,True, 15 € 
+,WHITE,Glarea Chardonnay,Tramin,,BOTTLE,2021,3500,1065,3,Frigo bianchi,,True, 13 € 
+,WHITE,Nussbaumer Gewuerztraminer,Tramin,,BOTTLE,2021,5000,1885,5,tav11,,True, 23 € 
+,WHITE,Pepi Sauvignon,Tramin,,BOTTLE,2021,3500,1065,6,Frigo Sala sx,,True, 13 € 
+,WHITE,Unterebener Pinot Grigio,Tramin,,BOTTLE,2021,5000,1721,6,tav11,,True, 21 € 
+,WHITE,Friulano Myo,Zorzettig,,BOTTLE,2022,3000,901,30,s1+Frigo friulani,,True, 11 € 
+,,Pannon Riesling Tuzko,Tuzko (Antinori),,BOTTLE,2022,3000,409,4,Frigo Sala dx,,True, 5 € 
+,,Bosco di Gica Brut Valdobbiadene docg Prosecco Superiore,Adami,,BOTTLE,0,2100,655,89,Frigo bianchi+braceria,,True, 8 € 
+,,Col Credas (Extra Brut),Adami,,BOTTLE,2023,2500,737,66,Frigo bianchi+braceria,,True, 9 € 
+,,Col Fondo Brut Nature Valdobbiadene docg Prosecco Superiore Sui Lieviti,Adami,,BOTTLE,2022,2100,655,9,ingresso+Frigo bianchi,,True, 8 € 
+,,Alta Langa Met.Classico,Ca Bianca,,BOTTLE,2020,3500,1229,3,Frigo Sala dx+totem,,True, 15 € 
+,,Canaja,Campe Dhei,,BOTTLE,0,0,1147,2,nan,,True, 14 € 
+,,Sgajo Rosé ,Campe Dhei,,BOTTLE,2018,0,819,3,tav10-top+MAG,,True, 10 € 
+,,Rubeôlus - Ribolla Gialla Brut,Ermes Botanica,,BOTTLE,0,0,655,36,F bianchi+totem+MAG,Fornitore: Ermes Botanica,True, 8 € 
+,,Boschera,Gregoletto ,,BOTTLE,0,2100,655,1,Frigo Sala sx,,True, 8 € 
+,,Prosecco Sui Lieviti Erti doc Tv,Gregoletto ,,BOTTLE,0,2100,655,8,Frigo Sala sx+totem,,True, 8 € 
+,,Zero Infinito - Solaris-Bio,Pojer e Sandri,,BOTTLE,2022,3300,983,12,totem+cheba giù,,True, 12 € 
+,,Zero Infinito - Solaris-Bio,Pojer e Sandri,,BOTTLE,2023,3300,983,11,totem+totem+cheba giù,,True, 12 € 
+,,Bouquet Frizzante,Tenuta Rapitalà,,BOTTLE,0,2500,491,1,Frigo bianchi,,True, 6 € 
+,,Ribolla Gialla (Caneva di Sacile),Tenute Cadorin Le Favole,,BOTTLE,0,0,81,1,tav10-top,,True, 1 € 
+,SPIRITS,Don PX Cosecha,Bodegas Toro Albala (Ceretto),,BOTTLE,2020,0,2213,2,MAG,,True, 27 € 
+,SPIRITS,Don PX Cosecha ,Bodegas Toro Albala (Ceretto),,BOTTLE,2021,0,2295,3,MAG,,True, 28 € 
+,SPIRITS,Don PX G.R. Magnum,Bodegas Toro Albala (Ceretto),,BOTTLE,1986,0,81,1,tav10-top,,True, 1 € 
+,SPIRITS,Don PX Gran Reserva (Do-Montilla-Moriles),Bodegas Toro Albala (Ceretto),,BOTTLE,1986,0,81,1,MAG,,True, 1 € 
+,SPIRITS,Don PX Pedro Ximenez,Bodegas Toro Albala (Ceretto),,BOTTLE,1999,8400,3032,1,MAG,,True, 37 € 
+,SPIRITS,Il Vermut Cannabis,Ermes Botanica,,BOTTLE,0,0,1557,1,MAG,Fornitore: Ermes Botanica,True, 19 € 
+,SPIRITS,Il Vermut Ribolla Gialla,Ermes Botanica,,BOTTLE,0,0,1557,2,MAG,Fornitore: Ermes Botanica,True, 19 € 
+,SPIRITS,H. Fuente Rum Nicaragua 15 Anni,H. Fuente (Ceretto),,BOTTLE,0,0,4262,2,MAG,,True, 52 € 
+,SPIRITS,Fine de Cognac,Hennessy,,BOTTLE,0,0,81,1,MAG,,True, 1 € 
+,SPIRITS,Rhum Agricole Guadalupe,J.Trefois (Ceretto),,BOTTLE,0,0,4836,1,MAG,,True, 59 € 
+,SPIRITS,Calvados Pays d'Auge 5 ans,Le Lieu Chéri (Ceretto),,BOTTLE,0,0,2786,1,MAG,,True, 34 € 
+,SPIRITS,Etiqueta Negra - Solera 23),Zacapa,,BOTTLE,0,0,81,1,MAG,,True, 1 € 
+,SPIRITS,Riserva Limitada,Zacapa,,BOTTLE,2019,0,81,1,MAG,,True, 1 € 
+,SPIRITS,XO Solera Gran Riserva ,Zacapa,,BOTTLE,0,0,81,1,MAG,,True, 1 € 
+,,Rose' Franciacorta (Tenuta Montenisa),Antinori ,,BOTTLE,0,4800,1721,2,totem,,True, 21 € 
+,,Brut P.Nero E Chard. 20 Mesi Sui Lieviti,Arnaldo Caprai,,BOTTLE,0,3900,1065,5,totem,,True, 13 € 
+,,Cuvée Brut Rosè Pinot Nero e Chardonnay,Bellei,,BOTTLE,0,3800,1311,1,totem,,True, 16 € 
+,,Nina Rosè Brut Millesimato Glera Raboso,Bozzon Emilio,,BOTTLE,0,2100,573,6,totem+tav10-top,,True, 7 € 
+,,"Sgajo Rose, Bolle Bandite",Carolina Gatti,,BOTTLE,0,2800,819,5,totem+tav10-top+MAG,,True, 10 € 
+,,Monogram (Franciacorta),Castel Faglia,,BOTTLE,0,3500,1229,35,totem+ingresso,Fornitore: GIV,True, 15 € 
+,,Moratti Oltrepò Pavese,Castello di Cigognola,,BOTTLE,0,4500,1311,20,Frigo Sala dx+totem+ingresso,,True, 16 € 
+,,Blauwal,Cesconi,,BOTTLE,0,4000,1393,0,totem,,True, 17 € 
+,,Der Blauwal Riserva Extra Brut,Cesconi,,BOTTLE,2016,7000,2377,3,Frigo Sala dx+totem,,True, 29 € 
+,,Alta Langa Anniversario 166,Fontanafredda,,BOTTLE,0,4500,1639,1,totem,,True, 20 € 
+,,Cisgnanum,Il Mongetto,,BOTTLE,0,0,0,1,totem+s3,,True,0
+,,Dosaggio Zero Chardonnay E Malvasia,Kante,,BOTTLE,0,3500,1147,1,totem,,True, 14 € 
+,,Cabochon Doppiozero ,Monte Rossa,,BOTTLE,2018,0,0,1,tav10,,True,0
+,,Cabochon Fuoriserie n° 021,Monte Rossa,,BOTTLE,0,0,0,1,tav10,,True,0
+,,Cabochon Fuoriserie n° 023,Monte Rossa,,BOTTLE,0,0,0,2,tav10+totem+totem,,True,0
+,,Cabochon Fuoriserie n° 025,Monte Rossa,,BOTTLE,0,9500,3442,4,totem+totem,,True, 42 € 
+,,Cabochon Fuoriserie n° 06 Rosé,Monte Rossa,,BOTTLE,0,0,0,2,tav10,,True,0
+,,Coupe' Brut Nature - Chardonnay,Monte Rossa,,BOTTLE,0,3600,1557,84,totem+Frigo carni,,True, 19 € 
+,,Flamingo Rosé,Monte Rossa,,BOTTLE,0,3900,1721,9,totem+Frigo carni,,True, 21 € 
+,,Millesimato,Monte Rossa,,BOTTLE,2014,0,0,1,tav10,,True,0
+,,Sanseveè,Monte Rossa,,BOTTLE,0,0,0,1,totem+totem,,True,0
+,,Vigneto Giardino Asciutto Prosecco di Valdobbiadene docg Rive di Colbertaldo,Adami,,MAGNUM,2023,0,1967,1,snack,,True, 24 € 
+,,Prosecco Magnum,Adami ,,MAGNUM,0,5000,1967,1,totem,,True, 24 € 
+,,Proseco 3 Litri,Adami ,,JEROBOAM,0,13000,7786,1,braceria,,True, 95 € 
+,,La Grola igt Rosso Veronese,Allegrini,,MAGNUM,2018,8000,3032,3,tav10-top,,True, 37 € 
+,,Palazzo della Torre - Veronese igt,Allegrini,,MAGNUM,2018,7000,1721,2,tav10-top,,True, 21 € 
+,,Basarin - Barbaresco,Angelo Negro,,MAGNUM,2020,14000,81,1,tav10-top,Fornitore: friends???,True, 1 € 
+,,Tignanello,Antinori,,MAGNUM,2021,29000,13524,1,cheba-top,,True, 165 € 
+,,Montefalco Rosso Riserva In Cassa,Arnaldo Caprai,,MAGNUM,2019,8000,2868,1,cheba-top,,True, 35 € 
+,,Montefalco Val di Maggio docg,Arnaldo Caprai,,MAGNUM,2016,10000,3934,6,cheba-top,,True, 48 € 
+,,Vigna Flaminia Maremmana (Montefalco Rosso doc),Arnaldo Caprai,,MAGNUM,2019,6000,1967,0,nan,,True, 24 € 
+,,Jiasik,Borgo San Daniele,,MAGNUM,2021,5000,1885,1,tav10-top,,True, 23 € 
+,,Jiasik (3 Litri),Borgo San Daniele,,JEROBOAM,2022,0,7786,1,tav10-top,,True, 95 € 
+,,Merlot Riserva,Bressani,,MAGNUM,2019,8000,2868,2,s1,,True, 35 € 
+,,Refosco Riserva,Bressani,,MAGNUM,2019,8000,2868,3,s1,,True, 35 € 
+,,Artas Primitivo del Salento,Castello Monaci,,MAGNUM,2017,8500,3606,1,tav10-top,,True, 44 € 
+,,Champagne Brut Serserve,Castelnau,,MAGNUM,0,15000,5491,3,totem,,True, 67 € 
+,,Barolo doc Magn,Ceretto ,,MAGNUM,2016,14000,5573,9,s3,,True, 68 € 
+,,Barolo doc,Ceretto ,,MAGNUM,2019,18000,7377,1,snack,Fornitore: Om,True, 90 € 
+,,Blauwal Trento doc Cuvee Extra Brut,Cesconi,,MAGNUM,0,8500,3032,2,tav10-top+totem,,True, 37 € 
+,,Pinot Bianco?,Comelli,,MAGNUM,0,0,81,1,tav10-top,,True, 1 € 
+,,Cuvee Rouge,Fiegl,,MAGNUM,2015,0,0,1,s2,,True,0
+,,Cuvee Rouge,Fiegl,,MAGNUM,2017,0,0,3,s2,,True,0
+,,Leopold Merlot,Fiegl,,MAGNUM,2013,0,0,1,s2,,True,0
+,,Leopold Merlot,Fiegl,,MAGNUM,2015,7000,0,2,Collezione,,True,0
+,,Leopold Merlot,Fiegl,,MAGNUM,2016,0,0,1,s2,,True,0
+,,Leopold Merlot,Fiegl,,MAGNUM,2017,5600,1967,3,s2,,True, 24 € 
+,,Merlo della Topanera C.L.,Gino Fuso Carmignani,,MAGNUM,1998,0,4918,1,tra frigo e tav11,,True, 60 € 
+,,Merlo Della Topanera C.L.,Gino Fuso Carmignani,,MAGNUM,2000,0,4918,1,tra frigo e tav11,,True, 60 € 
+,,Merlo Della Topanera C.L.,Gino Fuso Carmignani,,MAGNUM,2016,0,4918,1,tra frigo e tav11,,True, 60 € 
+,,Merlo Della Topanera C.L.,Gino Fuso Carmignani,,MAGNUM,2017,13000,4918,4,tra frigo e tav11,,True, 60 € 
+,,Merlo Della Topanera C.L.,Gino Fuso Carmignani,,MAGNUM,2017,0,4918,1,tra frigo e tav11,,True, 60 € 
+,,Merlo Della Topanera C.L. PORTOFINO,Gino Fuso Carmignani,,MAGNUM,0,0,4918,1,tra frigo e tav11,,True, 60 € 
+,,Gosset Extra Brut,Gosset ,,MAGNUM,0,20000,7377,2,totem,Fornitore: TOLM,True, 90 € 
+,,"""Guera"" Barbera d'Asti Superiore docg",Il Mongetto,,MAGNUM,2004,13000,4016,1,s3,,True, 49 € 
+,,"""Guera"" Barbera d'Asti Superiore docg",Il Mongetto,,MAGNUM,2006,11000,3770,1,s3,,True, 46 € 
+,,"""Guera"" Barbera d'Asti Superiore docg",Il Mongetto,,MAGNUM,2013,11000,3196,3,s3,,True, 39 € 
+,,"""Guera"" Barbera d'Asti Superiore docg",Il Mongetto,,MAGNUM,2018,10000,0,2,cheba giù,,True,0
+,,"""Guera"" Barbera d'Asti Superiore docg",Il Mongetto,,MAGNUM,2019,10000,2950,4,s3+cheba giù,,True, 36 € 
+,,"""Guera"" Barbera d'Asti Superiore docg",Il Mongetto,,MAGNUM,2020,10000,0,2,s3+cheba giù,,True,0
+,,Barbera del Monferrato Superiore,Il Mongetto,,MAGNUM,2020,6000,1721,12,s3,,True, 21 € 
+,,Pinot Grigio,La Castellada,,MAGNUM,2018,10000,0,1,tav10-top,Fornitore: zio,True,0
+,,Pepe Nero Schioppettino E Pinot Nero,La Luna Storta,,MAGNUM,2022,7000,2295,1,tav10-top,,True, 28 € 
+,,Chianti Classico Radda In Chianti,La Selvanella,,MAGNUM,2020,9000,3442,1,cheba-top,,True, 42 € 
+,,Sossò,Livio Felluga,,MAGNUM,2001,20000,5737,1,tav10-top,,True, 70 € 
+,,Sossò,Livio Felluga,,MAGNUM,2016,16000,5983,2,tav10-top,,True, 73 € 
+,,Ca' Guicciardi - Inferno docg,Nino Negri,,MAGNUM,2019,10000,4098,1,tav10-top,,True, 50 € 
+,,Fracia Valgella,Nino Negri,,MAGNUM,2016,10000,4098,1,tav10-top,,True, 50 € 
+,,Fracia Valgella,Nino Negri,,MAGNUM,2018,11000,4426,1,tav10-top,,True, 54 € 
+,,Sassorosso-Grumello ,Nino Negri,,MAGNUM,2019,10000,4098,1,tav10-top,,True, 50 € 
+,,Montecucco Sangiovese 18 Mesi Barr,Peteglia,,MAGNUM,2020,7800,2622,4,tav10-top+snack,,True, 32 € 
+,,Brut Trento doc,Rotari,,MAGNUM,0,0,0,1,tav10-top,,True,0
+,,Amarone (dedica Il Bottegon),Santi,,MAGNUM,2018,0,0,1,cheba-top,,True,0
+,,Hugonis Rosso igt C.L.,Tenuta Rapitalà,,MAGNUM,2013,9000,3442,1,tav10-top,,True, 42 € 
+,,Bianco Uve Autoctone,Terre Del Faet,,MAGNUM,2021,7500,2540,1,Frigo friulani,,True, 31 € 
+,,"Maglen Blauburg.Riserva 1,5 Lt",Tramin,,MAGNUM,2020,9000,2131,2,tav10-top,,True, 26 € 
+,,Fleur  De Meunier - P.Meunier,Beaumont,,BOTTLE,0,10000,3606,1,totem,Fornitore: GIV,True, 44 € 
+,,Billecart Salmon Brut Reserve,Billecart Salmon,,BOTTLE,0,9500,2868,4,Frigo Sala dx+totem+tav10,Fornitore: TOLM,True, 35 € 
+,,Bollinger 30/10/24 Special Cuvée,Bollinger,,BOTTLE,0,12000,3524,10,Frigo Sala dx+totem,Fornitore: TOLM,True, 43 € 
+,,Brut Reserve,Castelnau,,BOTTLE,0,8000,2377,8,Frigo Sala dx+Totem,,True, 29 € 
+,,Charles Heidsieck,Charles Heidsieck,,BOTTLE,0,9000,3114,3,Frigo Sala dx+totem,Fornitore: TOLM,True, 38 € 
+,,Champagne,Delamotte,,BOTTLE,0,6000,3114,51,Frigo Sala dx+totem+ingresso,,True, 38 € 
+,,Salon Champagne Cuvee's,Delamotte,,BOTTLE,2013,0,70000,1,Frigo Sala dx,,True, 854 € 
+,,Dom Perignon Vintage ,Dom Perignon ,,BOTTLE,2015,30000,12295,17,Frigo Sala dx+totem+tav10,Fornitore: Friends,True, 150 € 
+,,Gosset Extra Brut P.N+ P.M.+ Ch,Gosset ,,BOTTLE,0,9000,2459,1,totem,Fornitore: TOLM,True, 30 € 
+,,Cuvee Montgolfier,Jacques Rousseaux,,BOTTLE,0,0,0,1,totem,,True,0
+,,Champagne,Joseph Perrier,,BOTTLE,0,0,81,1,totem,,True, 1 € 
+,,Krug 171 Eme Edizione ,Krug,,BOTTLE,0,30000,13524,14,Frigo Sala dx+tav10,Fornitore: Friends,True, 165 € 
+,,Laurent Perrier,Laurent Perrier,,BOTTLE,0,11000,2950,1,totem,Fornitore: TOLM,True, 36 € 
+,,Exigence N°10 Gran Cru P.N E Ch.,Legras & Haas,,BOTTLE,0,16000,6557,4,Frigo Sala dx+totem,,True, 80 € 
+,,L'evidence Blanc De Blanc ,Legras & Haas,,BOTTLE,0,12000,4180,6,Frigo Sala dx+totem,,True, 51 € 
+,,Cristal ,Louis Roederer,,BOTTLE,2015,32000,16393,11,Frigo Sala dx+totem+tav10,Fornitore: Friends,True, 200 € 
+,,Belle Epoque ,Perrier Jouet,,BOTTLE,2015,25000,12950,1,totem,,True, 158 € 
+,,Philipponnat Royal Non Dosè  (Pn+Ch+Pm),Philipponnat,,BOTTLE,0,10000,3114,1,Frigo Sala dx,Fornitore: TOLM,True, 38 € 
+,,Philipponnat Royal Reserve Brut  (Pn+Ch+Pm),Philipponnat,,BOTTLE,0,10000,2868,2,Frigo Sala dx+totem,Fornitore: TOLM,True, 35 € 
+,,Pol Roger Brut Réserve,Pol Roger,,BOTTLE,0,9800,3032,2,totem+tav10,Fornitore: TOLM,True, 37 € 
+,,Pol Roger Rosè Vintage Millesime,Pol Roger,,BOTTLE,2015,0,3032,1,totem,,True, 37 € 
+,,Taittinger Cuvee Prestige ,Taittinger,,BOTTLE,0,9000,3114,1,totem,Fornitore: TOLM,True, 38 € 
+,,Cremant de Bourgogne Brut,Veuve Ambal,,BOTTLE,0,3000,983,90,Frigo Sala dx+totem+ingresso,,True, 12 € 

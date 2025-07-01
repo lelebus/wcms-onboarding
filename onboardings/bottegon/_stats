@@ -1,0 +1,26 @@
+TIME Pre-Process: 5' - Gabriele
+
+TIME v1-to-v2: 10' - Gabriele
+
+TIME v3-selection: 34' - Tobias
+
+TIME v4-matches: 3h - Tobias
+
+--- 
+
+Insertion:
+
+Total wines: 464
+
+Automatically matched: 283
+Manually matched: 142
+Duplicates: 4
+Total inserted: 421
+Saved to onboardings/bottegon/v5-insert-draft.csv
+
+Forwarding:
+
+To forward from matching: 39
+To forward from v2-dropped.csv: 0
+To forward from duplicates: 4
+Saved to onboardings/bottegon/v5-forward-draft.ods

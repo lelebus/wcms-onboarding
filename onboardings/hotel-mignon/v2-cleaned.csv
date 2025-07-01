@@ -1,0 +1,315 @@
+external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantity,storage_area,internal_notes,visible
+,,Arunda Brut - Half bottle,,,BOTTLE,0,3200,930,7,,"Ultimo acquisto pre-vinoteqa  (06/12/2023): 6 x 9,30 € da Weindiele",True
+,,Arunda Blanc de Blanc,,,BOTTLE,0,4500,2100,10,,"Ultimo acquisto pre-vinoteqa  (06/12/2023): 6 x 21,00 € da Vinum Bozen",True
+,,Bellavista Brut Alma,,,BOTTLE,0,6000,2900,8,,"Ultimo acquisto pre-vinoteqa  (06/03/2025): 4 x 29,00 € da Vinum Bozen",True
+,,Brut Balter Trentodoc,,,BOTTLE,2014,5000,2440,8,,"Ultimo acquisto pre-vinoteqa  (06/06/2023): 6 x 24,40 € da Liber International",True
+,,Bollé Rosè Spumante,,,BOTTLE,0,0,540,27,,"Ultimo acquisto pre-vinoteqa  (16/12/2023): 30 x 5,40 € da Agricola Andreola",True
+,,"Champagne Ruinart 0,375",,,HALF_BOTTLE,0,7500,3390,3,,"Ultimo acquisto pre-vinoteqa  (19/12/2024): 1 x 33,90 € da Weindiele",True
+,,Champagne Ruinart,,,BOTTLE,0,11200,4990,3,,"Ultimo acquisto pre-vinoteqa  (19/12/2024): 1 x 49,90 € da Weindiele",True
+,,Champagne Premier Roedere,,,BOTTLE,0,0,5150,4,,"Ultimo acquisto pre-vinoteqa  (06/12/2023): 1 x 51,50 € da Weindiele",True
+,,Cuvée di Gabry Rosé Dry,,,BOTTLE,0,0,590,63,,"Ultimo acquisto pre-vinoteqa  (25/01/2025): 36 x 5,90 € da La Tordera",True
+,,Ferrari Trento Brut Perlé,,,BOTTLE,2016,6500,2785,8,,"Ultimo acquisto pre-vinoteqa  (07/12/2023): 6 x 27,85 € da Fine Wines",True
+,,Franciacorta Cà del Bosco,,,BOTTLE,0,6000,2650,6,,"Ultimo acquisto pre-vinoteqa  (19/12/2024): 2 x 26,50 € da Vinum Bozen",True
+,,Franciacorta half bottle,,,BOTTLE,0,3900,1430,9,,"Ultimo acquisto pre-vinoteqa  (07/06/2024): 6 x 14,30 € da Vinum Bozen",True
+,,Methius Dorigati,,,BOTTLE,2011,4900,2100,6,,"Ultimo acquisto pre-vinoteqa  (07/07/2017): 6 x 21,00 € da Azienda Dorigati",True
+,,Prosecco Dirupo Brut,,,BOTTLE,0,3600,760,42,,"Ultimo acquisto pre-vinoteqa  (11/12/2024): 30 x 7,60 € da Agricola Andreola",True
+,,Prosecco Cartizze Tordera,,,BOTTLE,0,3700,1700,21,,"Ultimo acquisto pre-vinoteqa  (25/01/2025): 6 x 17,00 € da La Tordera",True
+,,Tittoni Millesimato Dry,,,BOTTLE,0,3700,780,15,,"Ultimo acquisto pre-vinoteqa  (25/01/2025): 12 x 7,80 € da La Tordera",True
+,,Trento Natur Bellaveder,,,BOTTLE,2017,4400,1490,12,,"Ultimo acquisto pre-vinoteqa  (09/07/2023): 12 x 14,90 € da Azienda Agricola Bellaveder",True
+,,Trento Giulio Ferrari Ris,,,BOTTLE,2009,20300,14300,3,,"Ultimo acquisto pre-vinoteqa  (18/09/2024): 1 x 143,00 € da Weindiele",True
+,,Veuve Clicquot Champagne,,,BOTTLE,0,9100,4600,2,,"Ultimo acquisto pre-vinoteqa  (19/12/2024): 2 x 46,00 € da Weindiele",True
+,,Arunda Brut Rosé Excellor,,,BOTTLE,0,4900,1800,4,,"Ultimo acquisto pre-vinoteqa  (25/11/2021): 6 x 18,00 € da Vinum Bozen",True
+,,Pas Dosé Pinot Noir,,,BOTTLE,0,4900,2360,8,,"Ultimo acquisto pre-vinoteqa  (25/06/2024): 6 x 23,60 € da Fine Wines",True
+,,Spumante Fujente Bianco - Coppadoro,,,BOTTLE,0,0,580,12,,"Ultimo acquisto pre-vinoteqa  (31/03/2024): 24 x 5,80 € da Tenuta Coppadoro",True
+,,Comitissa Pas Dosé Riserva - Lorenz Martini,,,BOTTLE,0,5500,2630,4,,"Ultimo acquisto pre-vinoteqa  (19/12/2024): 1 x 26,30 € da Vinum Bozen",True
+,,Prosecco Treviso Alnè - La Tordera,,,BOTTLE,0,0,625,42,,"Ultimo acquisto pre-vinoteqa  (18/09/2024): 24 x 6,25 € da La Tordera",True
+,,Trentodoc Rosé Extra Brut Moser,,,BOTTLE,2017,5000,1900,15,,"Ultimo acquisto pre-vinoteqa  (12/06/2023): 6 x 19,00 € da Fine Wines",True
+,,Arunda Cuveé Muggi,,,BOTTLE,0,0,1750,2,,"Ultimo acquisto pre-vinoteqa  (03/08/2019): 6 x 17,50 € da Weindiele",True
+,,Champagne Rosé Majuer Ayala,,,BOTTLE,0,11000,4850,4,,"Ultimo acquisto pre-vinoteqa  (09/12/2022): 2 x 48,50 € da Weindiele",True
+,,Cava Brut Reserva Heredad Segura,,,BOTTLE,0,6000,2280,2,,"Ultimo acquisto pre-vinoteqa  (07/12/2019): 3 x 22,80 € da Weindiele",True
+,,Champagne Cuveé Rosé Laurent-Perrier,,,BOTTLE,0,11800,6020,3,,"Ultimo acquisto pre-vinoteqa  (05/12/2022): 1 x 60,20 € da Vinum Bozen",True
+,,"Prosecco Dirupo Brut 0,375",,,HALF_BOTTLE,0,2400,430,14,,"Ultimo acquisto pre-vinoteqa  (11/12/2024): 12 x 4,30 € da Agricola Andreola",True
+,,XXIII - Ai Boschi Brut Andreola,,,BOTTLE,0,3800,919,19,,"Ultimo acquisto pre-vinoteqa  (16/12/2023): 12 x 9,20 € da Agricola Andreola",True
+,,Champagne Brut Moët Imperial,,,BOTTLE,0,12500,6490,4,,"Ultimo acquisto pre-vinoteqa  (19/12/2024): 1 x 64,90 € da Weindiele",True
+,,Trentodoc Rosé Nature Riserva Bellaveder,,,BOTTLE,2017,4800,1960,13,,"Ultimo acquisto pre-vinoteqa  (09/07/2023): 6 x 19,60 € da Azienda Agricola Bellaveder",True
+,,Tor Sè Prosecco Rosé Tordera,,,BOTTLE,0,3400,0,22,,Ultimo acquisto pre-vinoteqa  (16/12/2023): 12 x nan da La Tordera,True
+,,Trentodoc MAGNUM Rosè Brut Moser,,,BOTTLE,2017,9900,4000,4,,"Ultimo acquisto pre-vinoteqa  (07/12/2024): 6 x 40,00 € da Fine Wines",True
+,,Trentodoc Blauen Blanc de Noirs Moser,,,BOTTLE,2015,7600,0,3,,Ultimo acquisto pre-vinoteqa  (nan): 0 x nan da nan,True
+,,Trentodoc 1673 Noir Nature Cesarini Sforza,,,BOTTLE,2017,4800,1960,2,,"Ultimo acquisto pre-vinoteqa  (19/05/2023): 6 x 19,60 € da Cantina Lavis e Valle di Cembra",True
+,,"Brut Riserva ""36"" Cantina di Merano",,,BOTTLE,0,4600,1800,5,,"Ultimo acquisto pre-vinoteqa  (16/07/2023): 6 x 18,00 € da Vinum Bozen",True
+,,Franciacorta Brut Annamaria Clementi Cuvée,,,BOTTLE,2015,19000,9570,2,,"Ultimo acquisto pre-vinoteqa  (23/01/2024): 2 x 95,70 € da Vinum Bozen",True
+,,Bella Glamour Drink,,,BOTTLE,0,0,515,10,,"Ultimo acquisto pre-vinoteqa  (12/02/2025): 5 x 5,15 € da Vinum Bozen",True
+,,ALPL Sunset Rosé Apple Cider,,,BOTTLE,0,0,640,5,,"Ultimo acquisto pre-vinoteqa  (19/07/2024): 6 x 6,40 € da Weindiele",True
+,,"Prosecco Brunei 0,375 La Tordera",,,HALF_BOTTLE,0,0,515,23,,"Ultimo acquisto pre-vinoteqa  (18/09/2024): 11 x 5,15 € da La Tordera",True
+,,Praeclarus Pas dosé Rosé,,,BOTTLE,0,4500,1950,5,,"Ultimo acquisto pre-vinoteqa  (19/12/2024): 6 x 19,50 € da Kellerei St. Pauls",True
+,WHITE,Fiano di Avellino Exultet,,,BOTTLE,2018,4800,2100,4,,"Ultimo acquisto pre-vinoteqa  (06/07/2022): 6 x 21,00 € da Pellegrini SpA",True
+,WHITE,Anthìlia Donnafugata,,,BOTTLE,2022,3600,910,9,,"Ultimo acquisto pre-vinoteqa  (18/07/2024): 6 x 9,10 € da Vinum Bozen",True
+,WHITE,Bianco di Custoza,,,BOTTLE,2023,3600,960,10,,"Ultimo acquisto pre-vinoteqa  (06/12/2024): 6 x 9,60 € da Vinum Bozen",True
+,WHITE,"Chardonnay Altkirch 0,375",,,HALF_BOTTLE,2021,2200,415,8,,"Ultimo acquisto pre-vinoteqa  (15/06/2022): 12 x 4,15 € da Vinum Bozen",True
+,WHITE,Chardonnay Cardellino,,,BOTTLE,2023,3900,1305,20,,"Ultimo acquisto pre-vinoteqa  (06/12/2024): 18 x 13,05 € da Avenue - Elena Walch",True
+,WHITE,Chardonnay Löwengang,,,BOTTLE,2018,8400,4500,2,,"Ultimo acquisto pre-vinoteqa  (06/12/2024): 2 x 45,00 € da Vinum Bozen",True
+,WHITE,Chardonnay Altkirch,,,BOTTLE,2023,3400,760,19,,"Ultimo acquisto pre-vinoteqa  (06/02/2025): 6 x 7,60 € da Weindiele",True
+,WHITE,Gewürztraminer F. Haas,,,BOTTLE,2023,3800,1235,12,,"Ultimo acquisto pre-vinoteqa  (30/09/2024): 12 x 12,35 € da Fine Wines",True
+,WHITE,Gewürztra. Doc Flora Girl,,,BOTTLE,2021,4200,1500,13,,"Ultimo acquisto pre-vinoteqa  (14/12/2024): 6 x 15,00 € da Kellerei Girlan",True
+,WHITE,Gewürztraminer Kolbenhof,,,BOTTLE,2021,5200,2490,6,,"Ultimo acquisto pre-vinoteqa  (16/07/2023): 6 x 24,90 € da Weindiele",True
+,WHITE,Gewürztraminer Nussbaumer,,,BOTTLE,2022,4700,2110,9,,"Ultimo acquisto pre-vinoteqa  (18/09/2024): 6 x 21,10 € da Vinum Bozen",True
+,WHITE,Gewürztraminer Kastelaz,,,BOTTLE,2021,4600,1855,19,,"Ultimo acquisto pre-vinoteqa  (06/12/2024): 6 x 18,55 € da Avenue - Elena Walch",True
+,WHITE,"Gewürtraminer Tramin 0,37",,,HALF_BOTTLE,2022,2600,580,5,,"Ultimo acquisto pre-vinoteqa  (06/12/2024): 6 x 5,80 € da Vinum Bozen",True
+,WHITE,Kerner Nössing Val Isarco,,,BOTTLE,2023,3700,1120,14,,"Ultimo acquisto pre-vinoteqa  (13/02/2025): 6 x 11,20 € da Weindiele",True
+,WHITE,Lugana Molin Ca Maiol,,,BOTTLE,2022,4000,1320,9,,"Ultimo acquisto pre-vinoteqa  (27/12/2024): 6 x 13,20 € da Weindiele",True
+,WHITE,Müller Thurgau V. Forche,,,BOTTLE,2020,0,1300,12,,"Ultimo acquisto pre-vinoteqa  (19/05/2023): 12 x 13,00 € da Cantina Lavis e Valle di Cembra",True
+,WHITE,Müller Thurgau Etza,,,BOTTLE,2021,3600,1019,6,,"Ultimo acquisto pre-vinoteqa  (11/12/2024): 6 x 10,20 € da Vinum Bozen",True
+,WHITE,Müller Thurgau Nössing,,,BOTTLE,2022,3600,1050,12,,"Ultimo acquisto pre-vinoteqa  (30/09/2024): 6 x 10,50 € da Fine Wines",True
+,WHITE,Müller Thurgau San Lorenz,,,BOTTLE,2023,3500,690,22,,"Ultimo acquisto pre-vinoteqa  (31/07/2024): 18 x 6,90 € da Azienda Agricola Bellaveder",True
+,WHITE,Müller Thuragu frizzante,,,BOTTLE,2021,2900,630,5,,"Ultimo acquisto pre-vinoteqa  (10/07/2023): 6 x 6,30 € da Weindiele",True
+,WHITE,Moscato Giallo amabile,,,BOTTLE,2022,3400,720,2,,"Ultimo acquisto pre-vinoteqa  (19/09/2023): 2 x 7,20 € da Weindiele",True
+,WHITE,Nosiola Trentino Sole Alto,,,BOTTLE,2023,3500,919,11,,"Ultimo acquisto pre-vinoteqa  (11/09/2024): 12 x 9,20 € da Liber International",True
+,WHITE,Pinot Grigio Köfererhof,,,BOTTLE,2023,3900,1270,10,,"Ultimo acquisto pre-vinoteqa  (06/12/2024): 6 x 12,70 € da Weindiele",True
+,WHITE,Pinot grigio Livio Fellug,,,BOTTLE,2022,4000,1270,6,,"Ultimo acquisto pre-vinoteqa  (14/06/2024): 6 x 12,70 € da Livio Felluga",True
+,WHITE,Pinot grigio Punggl Nals,,,BOTTLE,2022,3600,1240,10,,"Ultimo acquisto pre-vinoteqa  (23/12/2024): 6 x 12,40 € da Fine Wines",True
+,WHITE,Pinot grigio Ringberg,,,BOTTLE,2023,4300,1565,10,,"Ultimo acquisto pre-vinoteqa  (06/12/2024): 6 x 15,65 € da Avenue - Elena Walch",True
+,WHITE,Pinot Grigio Muri Gries,,,BOTTLE,2024,3300,765,54,,"Ultimo acquisto pre-vinoteqa  (05/02/2025): 60 x 7,65 € da Convento Muri Gries",True
+,WHITE,Pinot bianco Plattenriegl,,,BOTTLE,2023,3500,969,32,,"Ultimo acquisto pre-vinoteqa  (14/12/2024): 24 x 9,70 € da Kellerei Girlan",True
+,WHITE,Riesling Falkenstein,,,BOTTLE,2022,3900,1350,11,,"Ultimo acquisto pre-vinoteqa  (13/02/2025): 6 x 13,50 € da Weindiele",True
+,WHITE,Riesling Kaiton Kuenhof,,,BOTTLE,2023,4100,1470,11,,"Ultimo acquisto pre-vinoteqa  (13/02/2025): 6 x 14,70 € da Vinum Bozen",True
+,WHITE,Riesling Unterortl Juval,,,BOTTLE,2019,4700,1989,10,,"Ultimo acquisto pre-vinoteqa  (13/02/2025): 3 x 19,90 € da Vinum Bozen",True
+,WHITE,"Sauvignon Valentin 0,375",,,HALF_BOTTLE,2022,3100,969,5,,"Ultimo acquisto pre-vinoteqa  (14/06/2023): 6 x 9,70 € da Vinum Bozen",True
+,WHITE,Sauvignon Niedrist Ignaz,,,BOTTLE,2022,0,1540,6,,"Ultimo acquisto pre-vinoteqa  (16/07/2024): 6 x 15,40 € da Fine Wines",True
+,WHITE,Sauvignon Franz Haas,,,BOTTLE,2023,4300,1610,23,,"Ultimo acquisto pre-vinoteqa  (13/02/2025): 6 x 16,10 € da Weindiele",True
+,WHITE,Soave Classico Calvarino,,,BOTTLE,2022,3600,1705,15,,"Ultimo acquisto pre-vinoteqa  (13/02/2025): 12 x 17,05 € da Weindiele",True
+,WHITE,Stoan Cuvée Tramin,,,BOTTLE,2022,4600,1989,13,,"Ultimo acquisto pre-vinoteqa  (10/01/2025): 6 x 19,90 € da Weindiele",True
+,WHITE,Sylvaner Kuenhof Pliger,,,BOTTLE,2022,0,1395,3,,"Ultimo acquisto pre-vinoteqa  (01/02/2024): 6 x 13,95 € da Vinum Bozen",True
+,WHITE,Sylvaner Villscheiderhof,,,BOTTLE,2023,3600,960,9,,"Ultimo acquisto pre-vinoteqa  (27/12/2024): 6 x 9,60 € da Weindiele",True
+,WHITE,Terlaner Classico,,,BOTTLE,2023,3700,1030,34,,"Ultimo acquisto pre-vinoteqa  (30/01/2025): 18 x 10,30 € da Kellerei Terlan",True
+,WHITE,Terlaner Cl. Kiemberger,,,BOTTLE,2022,3800,1050,5,,"Ultimo acquisto pre-vinoteqa  (08/08/2024): 6 x 10,50 € da Weindiele",True
+,WHITE,Veltliner Strasserhof,,,BOTTLE,2023,3600,1175,8,,"Ultimo acquisto pre-vinoteqa  (28/01/2025): 6 x 11,75 € da Vinum Bozen",True
+,WHITE,Vernaccia di S. Gimignano,,,BOTTLE,2022,0,695,4,,"Ultimo acquisto pre-vinoteqa  (07/12/2023): 6 x 6,95 € da Fine Wines",True
+,WHITE,Terlaner Sauvignon Quarz,,,BOTTLE,2020,0,2799,6,,"Ultimo acquisto pre-vinoteqa  (06/07/2022): 6 x 27,99 € da nan",True
+,WHITE,Chardonnay Lafoa - Colterenzio,,,BOTTLE,2022,0,1989,8,,"Ultimo acquisto pre-vinoteqa  (10/01/2025): 6 x 19,90 € da Weindiele",True
+,WHITE,Pinot Grigio St. Pauls,,,BOTTLE,2023,3300,690,25,,"Ultimo acquisto pre-vinoteqa  (19/12/2024): 24 x 6,90 € da Kellerei St. Pauls",True
+,WHITE,Pinot Bianco Kristallberg - Elena Walch,,,BOTTLE,2022,0,1570,16,,"Ultimo acquisto pre-vinoteqa  (06/12/2024): 12 x 15,70 € da Avenue - Elena Walch",True
+,WHITE,Grüner Veltliner Praepositus - Novacella,,,BOTTLE,2022,0,1490,10,,"Ultimo acquisto pre-vinoteqa  (19/03/2025): 6 x 14,90 € da Vinum Bozen",True
+,WHITE,LR Cuveé Bianco - Schreckbichl,,,BOTTLE,2013,13000,4900,2,,"Ultimo acquisto pre-vinoteqa  (16/02/2018): 1 x 49,00 € da Schreckbichl",True
+,WHITE,Pinot bianco Eichhorn - Manincor,,,BOTTLE,2023,4900,2120,6,,"Ultimo acquisto pre-vinoteqa  (01/10/2024): 6 x 21,20 € da Weindiele",True
+,WHITE,Terre Alte - Livio Felluga,,,BOTTLE,2019,0,5750,4,,"Ultimo acquisto pre-vinoteqa  (07/06/2024): 4 x 57,50 € da Weindiele",True
+,WHITE,Magnum Pinot Bianco Sirmian,,,BOTTLE,2021,0,4100,1,,"Ultimo acquisto pre-vinoteqa  (25/01/2025): 1 x 41,00 € da Weindiele",True
+,WHITE,Magnum - Lugana Cà dei Frati,,,BOTTLE,2018,0,2720,3,,"Ultimo acquisto pre-vinoteqa  (14/06/2023): 1 x 27,20 € da Vinum Bozen",True
+,WHITE,Pfefferer - Moscato Giallo Colterenzio,,,BOTTLE,2023,3300,760,11,,"Ultimo acquisto pre-vinoteqa  (25/08/2024): 6 x 7,60 € da Weindiele",True
+,WHITE,Conte della Vipera Antinori,,,BOTTLE,2023,4700,1600,5,,"Ultimo acquisto pre-vinoteqa  (28/05/2024): 6 x 16,00 € da Marchesi Antinori",True
+,WHITE,Pinot Grigio Gris - Lis Neris,,,BOTTLE,2019,0,1810,4,,"Ultimo acquisto pre-vinoteqa  (20/07/2022): 5 x 18,10 € da Weindiele",True
+,WHITE,"Pinot Bianco 0,375 Plötzner St. Pauls",,,HALF_BOTTLE,2022,2400,459,3,,"Ultimo acquisto pre-vinoteqa  (18/03/2022): 6 x 4,60 € da Vinum Bozen",True
+,WHITE,Chardonnay Cardellino Magnum,,,BOTTLE,2021,8000,2680,5,,"Ultimo acquisto pre-vinoteqa  (06/12/2024): 1 x 26,80 € da Avenue - Elena Walch",True
+,WHITE,Kerner Praepositus Abbazia di Novacella,,,BOTTLE,2022,4200,1490,4,,"Ultimo acquisto pre-vinoteqa  (18/09/2024): 6 x 14,90 € da Vinum Bozen",True
+,WHITE,Müller Thurgau Feldmarschall Tiefenbrunner,,,BOTTLE,2017,7400,3725,14,,"Ultimo acquisto pre-vinoteqa  (07/06/2024): 6 x 37,25 € da Fine Wines",True
+,WHITE,Verdicchio di Matelica Colle Stefano,,,BOTTLE,2024,3300,670,14,,"Ultimo acquisto pre-vinoteqa  (19/03/2025): 12 x 6,70 € da Vinum Bozen",True
+,WHITE,Ribolla gialla l'Adelchi - Venica & Venica,,,BOTTLE,2022,4600,1989,9,,"Ultimo acquisto pre-vinoteqa  (10/01/2025): 6 x 19,90 € da Weindiele",True
+,WHITE,W... Dreams ... - Jermann,,,BOTTLE,2022,6900,3620,6,,"Ultimo acquisto pre-vinoteqa  (07/12/2024): 6 x 36,20 € da Fine Wines",True
+,WHITE,Private Cuvée Pacherhof,,,BOTTLE,2020,6000,2790,23,,"Ultimo acquisto pre-vinoteqa  (31/12/2024): 6 x 27,90 € da Vinum Bozen",True
+,WHITE,Magnum Müller Thurgau Nössing,,,BOTTLE,2018,7200,1700,1,,"Ultimo acquisto pre-vinoteqa  (06/12/2019): 3 x 17,00 € da Fine Wines",True
+,WHITE,Lugana Pansere Tenuta Fraccaroli,,,BOTTLE,2024,3400,750,7,,"Ultimo acquisto pre-vinoteqa  (06/03/2025): 12 x 7,50 € da Weindiele",True
+,WHITE,Magnum Sylvaner Aristos,,,BOTTLE,2018,7100,3100,2,,"Ultimo acquisto pre-vinoteqa  (05/12/2022): 1 x 31,00 € da Weindiele",True
+,WHITE,Le Viogn BIO Tröpfeltalhof,,,BOTTLE,2021,4400,1720,5,,"Ultimo acquisto pre-vinoteqa  (16/07/2024): 6 x 17,20 € da Vinum Bozen",True
+,WHITE,Vermentino Diomede Coppadoro,,,BOTTLE,2023,3300,600,7,,"Ultimo acquisto pre-vinoteqa  (31/03/2024): 12 x 6,00 € da Tenuta Coppadoro",True
+,WHITE,Vermentino di Sardegna Olianas,,,BOTTLE,2022,3400,890,6,,"Ultimo acquisto pre-vinoteqa  (19/03/2025): 6 x 8,90 € da Vinum Bozen",True
+,WHITE,Giovo Cuveé Bergkellerei Passeier,,,BOTTLE,2019,4800,2100,6,,"Ultimo acquisto pre-vinoteqa  (06/12/2023): 6 x 21,00 € da Vinum Bozen",True
+,WHITE,Gavi del Comundi di Gavi Minaia,,,BOTTLE,2022,3400,730,8,,"Ultimo acquisto pre-vinoteqa  (06/12/2024): 6 x 7,30 € da Vinum Bozen",True
+,WHITE,Grüner Veltliner Tenuta Röck,,,BOTTLE,2022,3900,1350,9,,"Ultimo acquisto pre-vinoteqa  (11/03/2025): 6 x 13,50 € da Vinum Bozen",True
+,WHITE,Friulano Collio Mario Schiopetto,,,BOTTLE,2021,4300,1689,7,,"Ultimo acquisto pre-vinoteqa  (14/03/2024): 6 x 16,90 € da Vinum Bozen",True
+,WHITE,Malvasia Collio Ronco dei Tassi,,,BOTTLE,2022,3700,1050,9,,"Ultimo acquisto pre-vinoteqa  (07/06/2024): 5 x 10,50 € da Fine Wines",True
+,WHITE,Offida Passerina Tenuta Santori,,,BOTTLE,2022,3400,675,6,,"Ultimo acquisto pre-vinoteqa  (02/02/2024): 6 x 6,75 € da Weindiele",True
+,WHITE,Chardonnay Marna Kellerei Girlan,,,BOTTLE,2023,3600,1019,23,,"Ultimo acquisto pre-vinoteqa  (14/12/2024): 12 x 10,20 € da Kellerei Girlan",True
+,WHITE,Chardonnay Fallwind St. Michael Kellerei,,,BOTTLE,2023,3500,940,12,,"Ultimo acquisto pre-vinoteqa  (20/02/2025): 6 x 9,40 € da Vinum Bozen",True
+,WHITE,Orvieto Classico San Giovanni,,,BOTTLE,2023,4300,1070,18,,"Ultimo acquisto pre-vinoteqa  (06/12/2024): 12 x 10,70 € da Vinum Bozen",True
+,WHITE,Pinot Grigio Isonzo Dessimis Vie di Romans,,,BOTTLE,2022,4600,2085,8,,"Ultimo acquisto pre-vinoteqa  (30/09/2024): 6 x 20,85 € da Fine Wines",True
+,WHITE,Friuliano Collio Ronco delle Cime Venica,,,BOTTLE,2023,5100,2430,9,,"Ultimo acquisto pre-vinoteqa  (07/06/2024): 12 x 24,30 € da Weindiele",True
+,WHITE,Gewürztraminer Upupa Orange Abraham,,,BOTTLE,2021,4800,2100,5,,"Ultimo acquisto pre-vinoteqa  (07/06/2024): 6 x 21,00 € da Weindiele",True
+,WHITE,"Riesling ""R"" Valle Isarco Köfererhof",,,BOTTLE,2022,4400,1810,9,,"Ultimo acquisto pre-vinoteqa  (30/01/2025): 6 x 18,10 € da Weindiele",True
+,WHITE,Müller Thurgau SOFI Franz Haas,,,BOTTLE,2023,3500,785,25,,"Ultimo acquisto pre-vinoteqa  (13/02/2025): 6 x 7,85 € da Weindiele",True
+,WHITE,Chardonnay Gottesacker Tenuta Abraham,,,BOTTLE,2022,4800,2150,5,,"Ultimo acquisto pre-vinoteqa  (23/01/2025): 8 x 21,50 € da Vinum Bozen",True
+,WHITE,Gewürztraminer Selida Cantina Tramin,,,BOTTLE,0,0,1010,10,,"Ultimo acquisto pre-vinoteqa  (06/12/2024): 6 x 10,10 € da Vinum Bozen",True
+,WHITE,Fiano di Avellino Colli di Lapio,,,BOTTLE,2023,4200,1460,9,,"Ultimo acquisto pre-vinoteqa  (26/06/2024): 12 x 14,60 € da Vinum Bozen",True
+,WHITE,Manna Franz Haas,,,BOTTLE,2022,4400,1714,8,,"Ultimo acquisto pre-vinoteqa  (23/12/2024): 6 x 17,15 € da Fine Wines",True
+,WHITE,Greco IGT Campania 2021 - Pietracupa,,,BOTTLE,2022,4200,1570,10,,"Ultimo acquisto pre-vinoteqa  (06/12/2024): 12 x 15,70 € da Vinum Bozen",True
+,WHITE,Cabernet Blanc Eugen Schneider,,,BOTTLE,2022,3700,0,10,,Ultimo acquisto pre-vinoteqa  (nan): 0 x nan da nan,True
+,RED,Pinot Nero Riserva Linticlarus,,,BOTTLE,2015,0,2230,4,,"Ultimo acquisto pre-vinoteqa  (12/06/2018): 12 x 22,30 € da Fine Wines",True
+,RED,"Amistar 0,375 - Sölva",,,HALF_BOTTLE,2016,3200,925,3,,"Ultimo acquisto pre-vinoteqa  (02/03/2019): 6 x 9,25 € da Weindiele",True
+,RED,Amarone Costasera Masi,,,BOTTLE,2018,7000,2440,10,,"Ultimo acquisto pre-vinoteqa  (04/02/2024): 6 x 24,40 € da Masi Agricola",True
+,RED,Avvoltore Moris Farms,,,BOTTLE,2018,0,2490,6,,"Ultimo acquisto pre-vinoteqa  (14/03/2024): 3 x 24,90 € da Weindiele",True
+,RED,"Amarone Castagnedi 0,375",,,HALF_BOTTLE,2018,3900,1195,1,,"Ultimo acquisto pre-vinoteqa  (10/01/2023): 1 x 11,95 € da Weindiele",True
+,RED,Bolgheri Sassicaia,,,BOTTLE,2000,0,0,11,,Ultimo acquisto pre-vinoteqa  (nan): 0 x nan da nan,True
+,RED,Bardolino Classico Fresca,,,BOTTLE,2023,0,680,14,,"Ultimo acquisto pre-vinoteqa  (01/03/2025): 18 x 6,80 € da Masi Agricola",True
+,RED,Barbanico Balter,,,BOTTLE,2017,4200,1545,7,,"Ultimo acquisto pre-vinoteqa  (11/09/2024): 6 x 15,45 € da Liber International",True
+,RED,Barbera d'Alba Vignota,,,BOTTLE,2022,4000,1380,6,,"Ultimo acquisto pre-vinoteqa  (30/09/2024): 6 x 13,80 € da Fine Wines",True
+,RED,Barbaresco Albino Rocca,,,BOTTLE,2021,5000,2350,6,,"Ultimo acquisto pre-vinoteqa  (14/01/2025): 6 x 23,50 € da Weindiele",True
+,RED,Bricco Uccellone Braida,,,BOTTLE,2013,9300,4079,7,,"Ultimo acquisto pre-vinoteqa  (20/02/2022): 4 x 40,80 € da Vinum Bozen",True
+,RED,Brunello Biondi Santi,,,BOTTLE,2010,25600,10350,2,,"Ultimo acquisto pre-vinoteqa  (19/01/2020): 1 x 103,50 € da Weindiele",True
+,RED,Brunello Montalcino Talen,,,BOTTLE,2017,7000,2750,6,,"Ultimo acquisto pre-vinoteqa  (21/05/2022): 6 x 27,50 € da Fine Wines",True
+,RED,Blauburgunder Mazzon,,,BOTTLE,2018,4900,1630,9,,"Ultimo acquisto pre-vinoteqa  (12/06/2023): 12 x 16,30 € da Fine Wines",True
+,RED,Blauburgunder Krafuss,,,BOTTLE,2016,7000,2950,5,,"Ultimo acquisto pre-vinoteqa  (31/05/2022): 3 x 29,50 € da Weindiele",True
+,RED,"Chianti Fonterutoli 0,375",,,HALF_BOTTLE,2020,3000,940,7,,"Ultimo acquisto pre-vinoteqa  (05/12/2022): 6 x 9,40 € da Weindiele",True
+,RED,Cabernet Ris. Campaner,,,BOTTLE,2020,3800,1150,6,,"Ultimo acquisto pre-vinoteqa  (25/01/2025): 6 x 11,50 € da Weindiele",True
+,RED,Cabernet Sauvignon Lafoa,,,BOTTLE,2013,9900,4290,8,,"Ultimo acquisto pre-vinoteqa  (20/07/2022): 3 x 42,90 € da Weindiele",True
+,RED,Chianti Badia Passignano,,,BOTTLE,2015,7600,2800,11,,"Ultimo acquisto pre-vinoteqa  (28/05/2024): 6 x 28,00 € da Marchesi Antinori",True
+,RED,"Cabernet Istrice 0,375",,,HALF_BOTTLE,2012,3100,1080,7,,"Ultimo acquisto pre-vinoteqa  (12/06/2023): 4 x 10,80 € da Weindiele",True
+,RED,Cabernet Istrice Walch,,,BOTTLE,2022,4300,1625,15,,"Ultimo acquisto pre-vinoteqa  (06/12/2024): 6 x 16,25 € da Avenue - Elena Walch",True
+,RED,Fojaneghe Rosso,,,BOTTLE,2017,4400,1670,17,,"Ultimo acquisto pre-vinoteqa  (01/03/2025): 12 x 16,70 € da Masi Agricola",True
+,RED,Fontalloro Fèlsina,,,BOTTLE,2013,8900,4180,5,,"Ultimo acquisto pre-vinoteqa  (07/12/2023): 2 x 41,80 € da Fine Wines",True
+,RED,Granato Foradori Elisab.,,,BOTTLE,2013,6500,3000,7,,"Ultimo acquisto pre-vinoteqa  (09/03/2022): 6 x 30,00 € da Az. Agricola Foradori",True
+,RED,Linticlarus Cuveé,,,BOTTLE,2016,6000,2940,11,,"Ultimo acquisto pre-vinoteqa  (07/12/2023): 6 x 29,40 € da Fine Wines",True
+,RED,Le Volte dell' Ornellaia,,,BOTTLE,2022,0,1750,9,,"Ultimo acquisto pre-vinoteqa  (04/02/2025): 6 x 17,50 € da Weindiele",True
+,RED,Lagrein Dunkel Mansum,,,BOTTLE,2019,4000,1150,12,,"Ultimo acquisto pre-vinoteqa  (31/07/2024): 6 x 11,50 € da Azienda Agricola Bellaveder",True
+,RED,Lagrein Abtei Muri 2011,,,BOTTLE,2011,6800,0,5,,Ultimo acquisto pre-vinoteqa  (nan): 0 x nan da nan,True
+,RED,Lagrein Nusserhof Riserva,,,BOTTLE,2020,4900,2290,13,,"Ultimo acquisto pre-vinoteqa  (18/09/2024): 12 x 22,90 € da Weindiele",True
+,RED,Lagrein Tenuta Waldgries,,,BOTTLE,2023,3700,1150,25,,"Ultimo acquisto pre-vinoteqa  (04/02/2025): 12 x 11,50 € da Weindiele",True
+,RED,Lagrein Praepositus,,,BOTTLE,2019,4800,1870,6,,"Ultimo acquisto pre-vinoteqa  (31/01/2023): 6 x 18,70 € da Abbazia Di Novacella",True
+,RED,Lagrein Riserva Gojer,,,BOTTLE,2020,4600,1870,50,,"Ultimo acquisto pre-vinoteqa  (06/12/2024): 12 x 18,70 € da Franz Gojer - Glögglhof",True
+,RED,Lagrein Riserva Taber,,,BOTTLE,2021,6500,3150,4,,"Ultimo acquisto pre-vinoteqa  (21/03/2024): 6 x 31,50 € da Vinum Bozen",True
+,RED,Lagrein Mayr Unterganzner,,,BOTTLE,2021,4800,2150,6,,"Ultimo acquisto pre-vinoteqa  (07/06/2024): 6 x 21,50 € da Vinum Bozen",True
+,RED,Lagrein Tor di Lupo,,,BOTTLE,2022,5500,2248,8,,"Ultimo acquisto pre-vinoteqa  (30/01/2025): 6 x 22,48 € da Kellerei Andrian",True
+,RED,Lagrein Riserva Carlotto,,,BOTTLE,2021,4000,1360,12,,"Ultimo acquisto pre-vinoteqa  (30/09/2024): 12 x 13,60 € da Fine Wines",True
+,RED,"Lagrein Riserva 0,375",,,HALF_BOTTLE,2017,3100,1150,10,,"Ultimo acquisto pre-vinoteqa  (31/05/2022): 6 x 11,50 € da Weindiele",True
+,RED,La Massa Giorgio Primo,,,BOTTLE,2017,0,9400,3,,"Ultimo acquisto pre-vinoteqa  (19/07/2024): 1 x 94,00 € da Weindiele",True
+,RED,Le Serre Nuove Ornellaia,,,BOTTLE,2011,0,3590,4,,"Ultimo acquisto pre-vinoteqa  (17/01/2020): 3 x 35,90 € da Weindiele",True
+,RED,Lamarein 2013 Mayr Josep.,,,BOTTLE,2013,6900,0,4,,Ultimo acquisto pre-vinoteqa  (nan): 0 x nan da nan,True
+,RED,Lamarein 2014 Josef Mayr,,,BOTTLE,2014,6900,0,3,,Ultimo acquisto pre-vinoteqa  (nan): 0 x nan da nan,True
+,RED,Masseto,,,BOTTLE,0,0,0,3,,Ultimo acquisto pre-vinoteqa  (nan): 0 x nan da nan,True
+,RED,Milleunanotte Donnafugata,,,BOTTLE,2014,0,4310,3,,"Ultimo acquisto pre-vinoteqa  (05/12/2022): 2 x 43,10 € da Weindiele",True
+,RED,Mauracher Sand Foradori,,,BOTTLE,2019,4100,1250,8,,"Ultimo acquisto pre-vinoteqa  (09/03/2022): 18 x 12,50 € da Mauracher Agricola",True
+,RED,Marzemino d'Isera Trentin,,,BOTTLE,2020,3500,890,6,,"Ultimo acquisto pre-vinoteqa  (20/08/2024): 6 x 8,90 € da Weindiele",True
+,RED,Merlot Elena Walch,,,BOTTLE,2023,3600,960,20,,"Ultimo acquisto pre-vinoteqa  (06/12/2024): 24 x 9,60 € da Avenue - Elena Walch",True
+,RED,"Merlot Siebeneich 0,375",,,HALF_BOTTLE,2015,2800,640,8,,"Ultimo acquisto pre-vinoteqa  (05/07/2018): 12 x 6,40 € da Schreckbichl",True
+,RED,Morellino di Scansano,,,BOTTLE,2020,3600,1070,7,,"Ultimo acquisto pre-vinoteqa  (01/10/2024): 3 x 10,70 € da Weindiele",True
+,RED,Pinot Nero Filari Carlott,,,BOTTLE,2020,4400,1770,17,,"Ultimo acquisto pre-vinoteqa  (30/09/2024): 6 x 17,70 € da Fine Wines",True
+,RED,Pinot Nero Trattmann,,,BOTTLE,2020,5600,3250,16,,"Ultimo acquisto pre-vinoteqa  (14/12/2024): 6 x 32,50 € da Kellerei Girlan",True
+,RED,Pinot Nero San Urbano,,,BOTTLE,2017,9100,4260,2,,"Ultimo acquisto pre-vinoteqa  (01/03/2022): 2 x 42,60 € da Weindiele",True
+,RED,Pinot Nero Vigna Cantangh,,,BOTTLE,2021,4600,0,25,,Ultimo acquisto pre-vinoteqa  (14/12/2024): 12 x nan da Pellegrini SpA,True
+,RED,"Pinot Nero Patricia 0,375",,,HALF_BOTTLE,2021,2800,570,11,,"Ultimo acquisto pre-vinoteqa  (19/06/2023): 12 x 5,70 € da Kellerei Girlan",True
+,RED,Pinot Nero Abtei Muri,,,BOTTLE,2018,4700,1860,11,,"Ultimo acquisto pre-vinoteqa  (24/06/2023): 6 x 18,60 € da Convento Muri Gries",True
+,RED,Pinot Nero Schweizer,,,BOTTLE,2020,5700,3000,11,,"Ultimo acquisto pre-vinoteqa  (13/02/2025): 6 x 30,00 € da Weindiele",True
+,RED,Pinot Nero Monticol Riser,,,BOTTLE,2020,4300,1555,13,,"Ultimo acquisto pre-vinoteqa  (23/01/2024): 12 x 15,55 € da Kellerei Terlan",True
+,RED,Pinot Nero Vigna Ganger,,,BOTTLE,2012,16000,7000,4,,"Ultimo acquisto pre-vinoteqa  (11/12/2019): 2 x 70,00 € da Kellerei Girlan",True
+,RED,Pinot Nero Ludwig Walch,,,BOTTLE,2020,5200,2500,15,,"Ultimo acquisto pre-vinoteqa  (19/06/2024): 6 x 25,00 € da Avenue - Elena Walch",True
+,RED,Pinot Nero Faedi Bellaved,,,BOTTLE,2020,4500,1550,9,,"Ultimo acquisto pre-vinoteqa  (31/07/2024): 6 x 15,50 € da Azienda Agricola Bellaveder",True
+,RED,Ornellaia 2005,,,BOTTLE,2005,0,0,1,,Ultimo acquisto pre-vinoteqa  (nan): 0 x nan da nan,True
+,RED,Ornellaia 2006,,,BOTTLE,2006,0,0,9,,Ultimo acquisto pre-vinoteqa  (nan): 0 x nan da nan,True
+,RED,Ornellaia 2007,,,BOTTLE,2007,0,0,6,,Ultimo acquisto pre-vinoteqa  (nan): 0 x nan da nan,True
+,RED,Refosco Peduncolo Rosso,,,BOTTLE,2020,4300,1552,15,,"Ultimo acquisto pre-vinoteqa  (14/06/2024): 12 x 15,52 € da Livio Felluga",True
+,RED,Rosè Lagrein Mayr Joseph,,,BOTTLE,2022,3700,1200,6,,"Ultimo acquisto pre-vinoteqa  (07/06/2024): 6 x 12,00 € da Vinum Bozen",True
+,RED,Le Rose de Manincor,,,BOTTLE,2023,4200,1550,14,,"Ultimo acquisto pre-vinoteqa  (11/09/2024): 6 x 15,50 € da Weindiele",True
+,RED,Muri Rosé Lagrein Kretzer,,,BOTTLE,2023,3400,770,31,,"Ultimo acquisto pre-vinoteqa  (05/02/2025): 24 x 7,70 € da Convento Muri Gries",True
+,RED,Torilan,,,BOTTLE,2022,3700,1200,25,,"Ultimo acquisto pre-vinoteqa  (30/01/2025): 24 x 12,00 € da Kellerei Terlan",True
+,RED,Teroldego Riserva Rotalia,,,BOTTLE,2019,3800,1120,6,,"Ultimo acquisto pre-vinoteqa  (25/08/2024): 6 x 11,20 € da Vinum Bozen",True
+,RED,"Teroldego 0,375 Foradori",,,HALF_BOTTLE,0,0,576,1,,"Ultimo acquisto pre-vinoteqa  (20/05/2017): 14 x 5,76 € da Weindiele",True
+,RED,Teroldego Foradori Elisab,,,BOTTLE,2022,4000,1380,9,,"Ultimo acquisto pre-vinoteqa  (11/12/2024): 6 x 13,80 € da Vinum Bozen",True
+,RED,Terre Brune Santadi,,,BOTTLE,2016,0,3290,3,,"Ultimo acquisto pre-vinoteqa  (31/05/2022): 2 x 32,90 € da Weindiele",True
+,RED,Tancredi Contessa Entelli,,,BOTTLE,2020,0,2590,8,,"Ultimo acquisto pre-vinoteqa  (04/02/2025): 6 x 25,90 € da Weindiele",True
+,RED,Tignanello Antinori,,,BOTTLE,2020,0,6100,14,,"Ultimo acquisto pre-vinoteqa  (28/05/2024): 6 x 61,00 € da Marchesi Antinori",True
+,RED,Taurasi Feusi S. Gregorio,,,BOTTLE,2012,4400,1910,4,,"Ultimo acquisto pre-vinoteqa  (13/03/2019): 6 x 19,10 € da Vinum Bozen",True
+,RED,Turriga Antonio Argiolas,,,BOTTLE,2013,0,7950,3,,"Ultimo acquisto pre-vinoteqa  (25/01/2025): 2 x 79,50 € da Weindiele",True
+,RED,San Leonardo Gonzaga,,,BOTTLE,2017,9100,5990,3,,"Ultimo acquisto pre-vinoteqa  (31/05/2022): 6 x 59,90 € da Weindiele",True
+,RED,Schiava Grigia Larcherhof,,,BOTTLE,2022,3400,850,6,,"Ultimo acquisto pre-vinoteqa  (11/08/2023): 6 x 8,50 € da Weindiele",True
+,RED,Vernatsch Gschleier Girla,,,BOTTLE,2022,3800,1350,28,,"Ultimo acquisto pre-vinoteqa  (17/08/2024): 12 x 13,50 € da Kellerei Girlan",True
+,RED,Vernatsch Galea Nals,,,BOTTLE,2022,3500,950,9,,"Ultimo acquisto pre-vinoteqa  (24/09/2024): 6 x 9,50 € da Vinum Bozen",True
+,RED,Vernatsch Alte Reben Gojer,,,BOTTLE,2023,3500,810,23,,"Ultimo acquisto pre-vinoteqa  (11/06/2024): 18 x 8,10 € da Franz Gojer - Glögglhof",True
+,RED,448 s.l.m. Rosso Cuveé,,,BOTTLE,2023,3200,595,18,,"Ultimo acquisto pre-vinoteqa  (14/12/2024): 12 x 5,95 € da Kellerei Girlan",True
+,RED,"St. Magdalener 0,375",,,HALF_BOTTLE,2017,2500,330,7,,"Ultimo acquisto pre-vinoteqa  (10/12/2018): 12 x 3,30 € da Kellerei Nals Margreid",True
+,RED,St. Magdalener Gojer F.,,,BOTTLE,2023,3800,1260,47,,"Ultimo acquisto pre-vinoteqa  (11/06/2024): 24 x 12,60 € da Franz Gojer - Glögglhof",True
+,RED,St. Magdalener J. Mayr,,,BOTTLE,2022,3800,1200,23,,"Ultimo acquisto pre-vinoteqa  (23/08/2024): 12 x 12,00 € da Vinum Bozen",True
+,RED,Solaia Marchesi Antinori,,,BOTTLE,2003,0,17470,6,,"Ultimo acquisto pre-vinoteqa  (20/05/2017): 6 x 174,70 € da Vinum Bozen",True
+,RED,Upupa Rosso Abraham,,,BOTTLE,2020,3900,1300,5,,"Ultimo acquisto pre-vinoteqa  (12/06/2023): 6 x 13,00 € da Weindiele",True
+,RED,Vertigo - Livio Felluga,,,BOTTLE,2022,0,1750,15,,"Ultimo acquisto pre-vinoteqa  (14/06/2024): 12 x 17,50 € da Livio Felluga",True
+,RED,Vino Nobile Asinone Poliz,,,BOTTLE,2016,8000,3925,6,,"Ultimo acquisto pre-vinoteqa  (07/06/2024): 2 x 39,25 € da Fine Wines",True
+,RED,Vino Nobile Boscarelli,,,BOTTLE,2020,4700,2050,7,,"Ultimo acquisto pre-vinoteqa  (25/01/2025): 6 x 20,50 € da Weindiele",True
+,RED,Arrocco Albana di Romagna,,,BOTTLE,0,0,0,8,,Ultimo acquisto pre-vinoteqa  (nan): 0 x nan da nan,True
+,RED,Juvelo Gewürz. Passito,,,BOTTLE,2020,4800,2500,2,,"Ultimo acquisto pre-vinoteqa  (04/02/2025): 2 x 25,00 € da Weindiele",True
+,RED,Moscato Rosa F. Haas,,,BOTTLE,2001,4500,1930,3,,"Ultimo acquisto pre-vinoteqa  (31/01/2020): 3 x 19,30 € da Fine Wines",True
+,RED,Moscato Rosa Muri Gries,,,BOTTLE,2000,4200,0,5,,Ultimo acquisto pre-vinoteqa  (nan): 0 x nan da nan,True
+,RED,Praepositus Kerner Passit,,,BOTTLE,2008,3700,0,3,,Ultimo acquisto pre-vinoteqa  (nan): 0 x nan da nan,True
+,RED,Pipa XI Porto ~ Gojer,,,BOTTLE,2011,4500,0,6,,Ultimo acquisto pre-vinoteqa  (nan): 0 x nan da nan,True
+,RED,Amistar Cuveé Rosso - Peter Sölva,,,BOTTLE,2022,5200,2500,16,,"Ultimo acquisto pre-vinoteqa  (08/08/2024): 12 x 25,00 € da Weindiele",True
+,RED,Primitivo Impavido - Tenuta Coppadoro,,,BOTTLE,2020,5000,1850,2,,"Ultimo acquisto pre-vinoteqa  (31/03/2024): 18 x 18,50 € da Tenuta Coppadoro",True
+,RED,Lamarein 2015 Josephus Mayr,,,BOTTLE,2015,7800,3290,2,,"Ultimo acquisto pre-vinoteqa  (04/07/2017): 6 x 32,90 € da Weindiele",True
+,RED,Merlot Huberfeld St. Pauls,,,BOTTLE,2021,3500,930,9,,"Ultimo acquisto pre-vinoteqa  (19/12/2024): 12 x 9,30 € da Kellerei St. Pauls",True
+,RED,Petit Manseng Passion - Cantina St. Pauls,,,BOTTLE,2017,4000,1600,1,,"Ultimo acquisto pre-vinoteqa  (11/12/2019): 6 x 16,00 € da Kellerei St. Pauls",True
+,RED,Arzio - Baron di Pauli,,,BOTTLE,2019,6000,2500,3,,"Ultimo acquisto pre-vinoteqa  (02/03/2023): 2 x 25,00 € da Vinum Bozen",True
+,RED,Cabernet Sauvignon Cor Römigberg,,,BOTTLE,2017,7800,3750,4,,"Ultimo acquisto pre-vinoteqa  (06/12/2024): 3 x 37,50 € da Vinum Bozen",True
+,RED,Merlot Riserva Brenntal - Kurtatsch,,,BOTTLE,2019,6000,3400,5,,"Ultimo acquisto pre-vinoteqa  (05/01/2024): 3 x 34,00 € da Weindiele",True
+,RED,Lagrein Riserva Porphyr - Cantina Terlano,,,BOTTLE,2016,6300,3003,9,,"Ultimo acquisto pre-vinoteqa  (06/07/2022): 6 x 30,03 € da nan",True
+,RED,Magnum - Schiava Botte Nr. 9 - Girlan,,,MAGNUM,2016,6500,1660,3,,"Ultimo acquisto pre-vinoteqa  (13/06/2018): 2 x 16,60 € da Kellerei Girlan",True
+,RED,Magnum - Laurin Cantina Cornaiano,,,MAGNUM,2019,6900,2400,3,,"Ultimo acquisto pre-vinoteqa  (19/12/2022): 2 x 24,00 € da Kellerei Girlan",True
+,RED,Magnum - Amarone Classico Costasera Masi,,,MAGNUM,2017,15100,5350,2,,"Ultimo acquisto pre-vinoteqa  (27/02/2023): 2 x 53,50 € da Masi Agricola",True
+,RED,Lagrein 2015 Abtei Muri Riserva,,,BOTTLE,2015,5800,1920,39,,"Ultimo acquisto pre-vinoteqa  (02/10/2018): 3 x 19,20 € da Vinum Bozen",True
+,RED,Magnum - Lagrein Abtei Muri Riserva ,,,MAGNUM,2020,0,3979,4,,"Ultimo acquisto pre-vinoteqa  (05/02/2025): 2 x 39,80 € da Convento Muri Gries",True
+,RED,Pinot Nero Ponkler 2012 - Franz Haas,,,BOTTLE,2012,11000,5050,4,,"Ultimo acquisto pre-vinoteqa  (06/12/2019): 3 x 50,50 € da Fine Wines",True
+,RED,Lagrein Vigna Klosteranger Muri,,,BOTTLE,2014,10000,5000,14,,"Ultimo acquisto pre-vinoteqa  (15/02/2024): 3 x 50,00 € da Convento Muri Gries",True
+,RED,Montevetrano - Colli di Salerno,,,BOTTLE,2014,0,11720,2,,"Ultimo acquisto pre-vinoteqa  (08/06/2018): 4 x 117,20 € da nan",True
+,RED,Pinot Nero Riserva Tenuta Wildmonn,,,BOTTLE,2015,8000,4000,10,,"Ultimo acquisto pre-vinoteqa  (11/12/2019): 6 x 40,00 € da Weingut Wildmonn",True
+,RED,Lamarein 2016 Unterganzner,,,BOTTLE,2016,0,3390,4,,"Ultimo acquisto pre-vinoteqa  (27/06/2018): 6 x 33,90 € da Weindiele",True
+,RED,Magnum Primitivo Impavido Coppadoro,,,MAGNUM,2015,9900,4300,1,,"Ultimo acquisto pre-vinoteqa  (25/05/2022): 1 x 43,00 € da Tenuta Coppadoro",True
+,RED,Magnum St. Magdalener Vigna Rondell,,,MAGNUM,2018,7600,2620,10,,"Ultimo acquisto pre-vinoteqa  (24/06/2023): 2 x 26,20 € da Franz Gojer - Glögglhof",True
+,RED,Magnum Bolgheri Sassicaia 2007 - Tenuta San Guido,,,MAGNUM,2007,0,0,1,,Ultimo acquisto pre-vinoteqa  (nan): 0 x nan da nan,True
+,RED,Terra d'Eclano Aglianico - Quintodecimo,,,BOTTLE,2016,5000,2400,2,,"Ultimo acquisto pre-vinoteqa  (12/12/2018): 6 x 24,00 € da Pellegrini SpA",True
+,RED,Syrah Maroccoli Planeta,,,BOTTLE,2019,4700,1520,4,,"Ultimo acquisto pre-vinoteqa  (09/03/2024): 6 x 15,20 € da Weindiele",True
+,RED,Pinot Nero Saosent Cantina Cembra,,,BOTTLE,2019,4500,1900,8,,"Ultimo acquisto pre-vinoteqa  (19/05/2023): 12 x 19,00 € da Cantina Lavis e Valle di Cembra",True
+,RED,Lagrein Abtei Muri 2016,,,BOTTLE,2016,5000,1550,47,,"Ultimo acquisto pre-vinoteqa  (07/12/2019): 6 x 15,50 € da Weindiele",True
+,RED,Pinot Nero St. Daniel Riserva Colterenzio,,,BOTTLE,2022,4000,1229,7,,"Ultimo acquisto pre-vinoteqa  (06/03/2025): 6 x 12,29 € da Vinum Bozen",True
+,RED,Montepulciano d'Abruzzo Riserva Spelt La Valentina,,,BOTTLE,2019,4500,1460,7,,"Ultimo acquisto pre-vinoteqa  (25/03/2025): 3 x 14,60 € da Weindiele",True
+,RED,Caldaro Classico Superiore Quintessenz,,,BOTTLE,2023,3700,1040,13,,"Ultimo acquisto pre-vinoteqa  (20/02/2025): 6 x 10,40 € da Weindiele",True
+,RED,Montefalco di Sagrantino Collepiano Caprai,,,BOTTLE,2015,5200,2090,4,,"Ultimo acquisto pre-vinoteqa  (23/01/2025): 2 x 20,90 € da Weindiele",True
+,RED,Lamarein 2017 J. Mayr,,,BOTTLE,2017,7000,3590,1,,"Ultimo acquisto pre-vinoteqa  (28/06/2019): 6 x 35,90 € da nan",True
+,RED,Teroldego Rotaliano Diedri Riserva Dorigati,,,BOTTLE,2020,4200,1510,12,,"Ultimo acquisto pre-vinoteqa  (09/03/2024): 6 x 15,10 € da Azienda Dorigati",True
+,RED,Aglianico Molise Riserva Contado - Di Majo Norante,,,BOTTLE,2017,4000,1090,6,,"Ultimo acquisto pre-vinoteqa  (02/02/2024): 6 x 10,90 € da Weindiele",True
+,RED,Merlot Mühlweg Ignaz Niedrist,,,BOTTLE,2019,4900,2350,11,,"Ultimo acquisto pre-vinoteqa  (16/07/2024): 12 x 23,50 € da Fine Wines",True
+,RED,Lagrein Staffes Riserva Kornell,,,BOTTLE,2020,4400,1789,5,,"Ultimo acquisto pre-vinoteqa  (25/08/2024): 3 x 17,90 € da Weindiele",True
+,RED,Brunello di Montalcino Mastrojanni,,,BOTTLE,2016,8000,3779,8,,"Ultimo acquisto pre-vinoteqa  (07/03/2024): 6 x 37,80 € da Fine Wines",True
+,RED,Rosato Schiava - Rosé Vernatsch Gojer,,,BOTTLE,2022,3400,885,26,,"Ultimo acquisto pre-vinoteqa  (11/06/2024): 12 x 8,85 € da Franz Gojer - Glögglhof",True
+,RED,Brunello di Montalcino Poggio al Vento - Col d'Orc,,,BOTTLE,2010,15000,7120,3,,"Ultimo acquisto pre-vinoteqa  (05/12/2022): 1 x 71,20 € da Vinum Bozen",True
+,RED,Rosso di Montalcino Uccelliera,,,BOTTLE,2021,4300,1560,9,,"Ultimo acquisto pre-vinoteqa  (10/01/2024): 6 x 15,60 € da Weindiele",True
+,RED,Chianti Classico Cavarchione BIO Istine,,,BOTTLE,2020,4500,1900,8,,"Ultimo acquisto pre-vinoteqa  (18/09/2024): 6 x 19,00 € da Weindiele",True
+,RED,Lamarein 2018 30° Anniversario J. Mayr,,,BOTTLE,2018,7000,3690,5,,"Ultimo acquisto pre-vinoteqa  (18/08/2020): 3 x 36,90 € da Vinum Bozen",True
+,RED,Cannonau di Sardegna riserva Olianas,,,BOTTLE,2019,4000,1410,6,,"Ultimo acquisto pre-vinoteqa  (11/03/2025): 4 x 14,10 € da Vinum Bozen",True
+,RED,Kålch Cuveé Bergmannhof,,,BOTTLE,2018,6400,3100,5,,"Ultimo acquisto pre-vinoteqa  (14/03/2024): 6 x 31,00 € da Weindiele",True
+,RED,Lagrein Granat Franz Gojer,,,BOTTLE,2023,3700,1050,17,,"Ultimo acquisto pre-vinoteqa  (04/01/2025): 42 x 10,50 € da Franz Gojer - Glögglhof",True
+,RED,Lagrein Abtei Muri 2018,,,BOTTLE,2018,5000,1550,32,,"Ultimo acquisto pre-vinoteqa  (13/08/2021): 48 x 15,50 € da Convento Muri Gries",True
+,RED,Planus Rosso Cuveé Dorigati,,,BOTTLE,2021,3900,980,1,,"Ultimo acquisto pre-vinoteqa  (09/03/2024): 18 x 9,80 € da Azienda Dorigati",True
+,RED,Pinosé Kurtasch - Pinot Nero Rosé,,,BOTTLE,2022,3500,880,8,,"Ultimo acquisto pre-vinoteqa  (05/01/2024): 12 x 8,80 € da Vinum Bozen",True
+,RED,Cabernet Franc Generation K - Andi Sölva,,,BOTTLE,2018,5500,2400,4,,"Ultimo acquisto pre-vinoteqa  (27/02/2023): 2 x 24,00 € da Vinum Bozen",True
+,RED,Rombo Cuveé Bergkellerei Passaier,,,BOTTLE,2019,5000,2370,5,,"Ultimo acquisto pre-vinoteqa  (28/01/2025): 3 x 23,70 € da Vinum Bozen",True
+,RED,"Kalterersee - Caldaro ""Erbe & Auftrag"" Andi Sölva",,,BOTTLE,2018,4900,2020,3,,"Ultimo acquisto pre-vinoteqa  (25/11/2021): 6 x 20,20 € da Vinum Bozen",True
+,RED,"Vino Nobile Boscarelli 0,375",,,HALF_BOTTLE,2018,3100,1070,5,,"Ultimo acquisto pre-vinoteqa  (08/01/2022): 6 x 10,70 € da Weindiele",True
+,RED,Valtellina Inferno Superiore Riserva Rainoldi,,,BOTTLE,2018,5200,2530,9,,"Ultimo acquisto pre-vinoteqa  (04/02/2025): 4 x 25,30 € da Weindiele",True
+,RED,Schiava gentile - Edelvernatsch Haselhof,,,BOTTLE,2022,3500,869,8,,"Ultimo acquisto pre-vinoteqa  (25/03/2025): 6 x 8,70 € da Weindiele",True
+,RED,Pinot Nero Riserva Curlan Girlan,,,BOTTLE,2018,12600,6000,5,,"Ultimo acquisto pre-vinoteqa  (16/07/2023): 3 x 60,00 € da Kellerei Girlan",True
+,RED,Pinot Nero Riserva Thalman Cantina Bolzano,,,BOTTLE,2021,4400,1900,5,,"Ultimo acquisto pre-vinoteqa  (14/02/2024): 6 x 19,00 € da Weindiele",True
+,RED,Zero Infinito CREMISI di Pojer & Sandri,,,BOTTLE,0,3800,1300,7,,"Ultimo acquisto pre-vinoteqa  (12/06/2023): 6 x 13,00 € da Fine Wines",True
+,RED,Rosato Primitivo Rosett - Tenute Sannella,,,BOTTLE,2023,3300,650,13,,"Ultimo acquisto pre-vinoteqa  (31/03/2024): 12 x 6,50 € da Tenuta Coppadoro",True
+,RED,Rosato Anphora Rosé Marie Tröpfeltalhof,,,BOTTLE,0,0,1800,4,,"Ultimo acquisto pre-vinoteqa  (06/12/2023): 2 x 18,00 € da Vinum Bozen",True
+,RED,Magnum - Pinot Nero Ludwig Elena Walch,,,MAGNUM,2016,10500,5050,2,,"Ultimo acquisto pre-vinoteqa  (20/07/2022): 3 x 50,50 € da Avenue - Elena Walch",True
+,RED,Pinot Nero Oltrepò Pavese Conte Vistarino,,,BOTTLE,2017,4800,2100,3,,"Ultimo acquisto pre-vinoteqa  (20/08/2022): 4 x 21,00 € da Weindiele",True
+,RED,"Petit Manseng Aurie 0,50 cl",,,BOTTLE,2020,3200,0,6,,Ultimo acquisto pre-vinoteqa  (nan): 0 x nan da nan,True
+,RED,Barolo Riserva Lazzarito Ettore Germano,,,BOTTLE,2016,13800,7600,3,,"Ultimo acquisto pre-vinoteqa  (25/03/2025): 1 x 76,00 € da Weindiele",True
+,RED,Lagrein Abtei Muri 2020,,,BOTTLE,2020,5000,1989,45,,"Ultimo acquisto pre-vinoteqa  (27/12/2022): 48 x 19,90 € da Convento Muri Gries",True
+,RED,Sicilia Rosato Lumera Donnafugata,,,BOTTLE,2023,3700,1070,8,,"Ultimo acquisto pre-vinoteqa  (25/07/2024): 12 x 10,70 € da Vinum Bozen",True
+,RED,Syrah Vigneti delle Dolomiti Franz Gojer,,,BOTTLE,2021,5500,2500,10,,"Ultimo acquisto pre-vinoteqa  (11/12/2023): 12 x 25,00 € da Franz Gojer - Glögglhof",True
+,RED,Vernatsch Meraner Schickenburg,,,BOTTLE,2023,3500,900,7,,"Ultimo acquisto pre-vinoteqa  (30/01/2025): 6 x 9,00 € da Weindiele",True
+,RED,Echo der Erde Thomas Pichler,,,BOTTLE,2021,8900,4200,2,,"Ultimo acquisto pre-vinoteqa  (19/07/2024): 2 x 42,00 € da Weindiele",True
+,RED,Nero d'Avola Don Antonio Morgante,,,BOTTLE,2020,5100,2350,10,,"Ultimo acquisto pre-vinoteqa  (25/03/2025): 6 x 23,50 € da Weindiele",True
+,RED,Cabernet Sauvignon Riserva Sass Roà Laimburg,,,BOTTLE,2021,4400,1710,4,,"Ultimo acquisto pre-vinoteqa  (19/12/2024): 6 x 17,10 € da Vinum Bozen",True
+,RED,St. Magdalener Klassisch Heilmann,,,BOTTLE,2021,4200,1550,7,,"Ultimo acquisto pre-vinoteqa  (12/02/2025): 6 x 15,50 € da Vinum Bozen",True
+,RED,Lamarein 2021 Mayr Josephus,,,BOTTLE,2021,8500,4290,9,,"Ultimo acquisto pre-vinoteqa  (26/08/2023): 9 x 42,90 € da Vinum Bozen",True
+,RED,Merlot Maurus Vie di Romans,,,BOTTLE,2018,4300,1470,5,,"Ultimo acquisto pre-vinoteqa  (07/12/2023): 6 x 14,70 € da Fine Wines",True
+,RED,Lagrein Abtei Muri 2021,,,BOTTLE,2021,5000,1989,51,,"Ultimo acquisto pre-vinoteqa  (15/03/2024): 6 x 19,90 € da Weindiele",True
+,RED,Moscato d'Asti Canelli Casa Bianca Doglia,,,BOTTLE,2021,3800,1110,3,,"Ultimo acquisto pre-vinoteqa  (07/06/2024): 2 x 11,10 € da Weindiele",True
+,RED,Valpolicella Ripassa Zenato,,,BOTTLE,2020,4300,1550,5,,"Ultimo acquisto pre-vinoteqa  (13/03/2025): 6 x 15,50 € da Weindiele",True
+,RED,Magnum - Amistar Cuvée Rosso,,,MAGNUM,2021,10800,5430,1,,"Ultimo acquisto pre-vinoteqa  (07/06/2024): 1 x 54,30 € da Vinum Bozen",True
+,RED,Zweigelt Befehlhof Mitterberg ,,,BOTTLE,2019,3800,1070,5,,"Ultimo acquisto pre-vinoteqa  (25/03/2025): 3 x 10,70 € da Weindiele",True
+,RED,Chianti Classico Riserva Villa Antinori,,,BOTTLE,2021,4400,1450,7,,"Ultimo acquisto pre-vinoteqa  (28/05/2024): 12 x 14,50 € da Marchesi Antinori",True
+,RED,Merlot Fihl Alto Adige Dipoli Peter,,,BOTTLE,2020,4000,1400,7,,"Ultimo acquisto pre-vinoteqa  (07/06/2024): 18 x 14,00 € da Fine Wines",True
+,RED,Lamarein 2022 Mayr Josephus,,,BOTTLE,2022,8900,4610,12,,"Ultimo acquisto pre-vinoteqa  (27/08/2024): 6 x 46,10 € da Vinum Bozen",True
+,RED,Rosé Rosa Cantina di Bolzano,,,BOTTLE,0,0,890,2,,"Ultimo acquisto pre-vinoteqa  (18/07/2024): 5 x 8,90 € da Vinum Bozen",True
+,RED,Dolcetto Mosesco Prunotto,,,BOTTLE,2023,3900,1100,9,,"Ultimo acquisto pre-vinoteqa  (27/09/2024): 12 x 11,00 € da Vinum Bozen",True
+,RED,"St. Magdalener Vigna Rondell ""R""",,,BOTTLE,2022,5100,2500,5,,"Ultimo acquisto pre-vinoteqa  (06/12/2024): 6 x 25,00 € da Franz Gojer - Glögglhof",True
+,RED,Nebbiolo Langhe Pio Cesare,,,BOTTLE,2021,4700,1850,8,,"Ultimo acquisto pre-vinoteqa  (11/03/2025): 6 x 18,50 € da Weindiele",True
+,RED,Rosé Felix Anton Baron Longo,,,BOTTLE,2024,3700,990,5,,"Ultimo acquisto pre-vinoteqa  (01/12/2024): 5 x 9,90 € da Vinum Bozen",True
+,RED,Lagrein Abtei Muri 2022,,,BOTTLE,2022,5000,2000,48,,"Ultimo acquisto pre-vinoteqa  (05/02/2025): 48 x 20,00 € da Convento Muri Gries",True
+,RED,Barolo Bric del Fiasc Paolo Scavino,,,BOTTLE,2021,14200,8220,4,,"Ultimo acquisto pre-vinoteqa  (11/03/2025): 4 x 82,20 € da Vinum Bozen",True

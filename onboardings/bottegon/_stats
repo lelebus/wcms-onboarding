@@ -10,16 +10,17 @@ TIME v4-matches: 3h - Tobias
 
 Insertion:
 
-Total wines: ---
+Total wines: 464
 
-Automatically matched: ---
-Manually matched: --
-Duplicates: ---
-Total inserted: ---
-Saved to onboardings/crep-de-munt/v5-insert-draft.csv
+Automatically matched: 283
+Manually matched: 142
+Duplicates: 4
+Total inserted: 421
+Saved to onboardings/bottegon/v5-insert-draft.csv
 
 Forwarding:
 
-To forward from matching: ---
-To forward from v2-dropped.csv: ---
-To forward from duplicates: ---
+To forward from matching: 39
+To forward from v2-dropped.csv: 0
+To forward from duplicates: 4
+Saved to onboardings/bottegon/v5-forward-draft.ods

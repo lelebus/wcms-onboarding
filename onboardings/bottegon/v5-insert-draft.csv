@@ -1,0 +1,422 @@
+wine_id,external_id,size,vintage,price,purchase_price,info,storage_area,quantity,internal_notes,visible
+wine_01gzr4ksd1qj0jje38pjazzgjz,,BOTTLE,2022,3000,655,,s4,8,Fornitore: Friends,True
+wine_01hcwsykjf3y90hjc2qekxk4a2,,BOTTLE,2019,0,81,,tav11,1,,True
+wine_01gzr4kt3908a0efbnzj576vc7,,BOTTLE,2022,2000,0,,tav10+Frigo bianchi,8,,True
+wine_01h0qzm0t1fv9hy7mdbs5q5na0,,BOTTLE,2017,3000,901,,Frigo bianchi,2,,True
+wine_01h0qzm23hcm2x4xhdhxsq1zxg,,BOTTLE,2021,3500,1147,,Frigo bianchi,2,,True
+wine_01h0qzm23hjxgfhda4ex1gp6fh,,BOTTLE,2021,3500,1147,,Frigo bianchi,1,,True
+wine_01h0qsxmvf8k7vy5ffxx34j9kt,,BOTTLE,2017,5500,1803,,Frigo Sala sx+Frigo friulani,2,,True
+wine_01h0qzm2mcc77j7xxs545j5g1p,,BOTTLE,2022,2500,737,,Frigo Sala sx+Frigo friulani,8,,True
+wine_01h0qzm19t2y4wyvn506nah9jw,,BOTTLE,2024,2500,655,,s1+Frigo friulani,12,,True
+wine_01h0my5re6p0empb8e8tky0mbn,,BOTTLE,2024,2500,491,,s1+Frigo bianchi,10,,True
+wine_01gzr4kt16zvn63tak4qvz1d71,,BOTTLE,2022,3400,983,,Collezione,1,Fornitore: TOLM,True
+wine_01gzr4kt16my30v7ht02gf3jta,,BOTTLE,2021,3400,983,,Frigo bianchi,1,Fornitore: TOLM,True
+wine_01gzr4kskw9f9wt2tmgyg2xznx,,BOTTLE,2021,0,2459,,Frigo Sala sx,1,Fornitore: regalo Paolo,True
+wine_01gzr4kskw3dxfswyhynw8e7e1,,BOTTLE,2023,3000,983,,s1+Frigo friulani,9,,True
+wine_01gzr4ksszdmaty1zt92kbvgd4,,BOTTLE,2020,3300,983,,Frigo Sala dx,2,,True
+wine_01gzr4kseha5rxdrym6cc56j1y,,BOTTLE,2021,3800,1393,,Frigo bianchi,1,,True
+wine_01gzr4kskfs3q9v7kynnr2c26d,,BOTTLE,2020,5000,1393,,Frigo Sala sx,4,Fornitore: TOLM,True
+wine_01hcw4dfc1ej2zgs212qab8vya,,BOTTLE,2019,0,81,,tav10-top,1,,True
+wine_01h0r2pphvh1waeaszvx5ssz87,,BOTTLE,2022,2500,819,,Frigo bianchi,2,,True
+wine_01h4pmmfqewvawppfkq8fqqb7j,,BOTTLE,2023,2500,573,,Frigo friulani,2,,True
+wine_01h0my5sg4xghzhfhqczrp2k2q,,BOTTLE,2022,3000,819,,Frigo friulani,4,,True
+wine_01gzr4kts27p4kajygc89h1rdr,,MAGNUM,2020,14000,81,,tav10-top,1,Fornitore: friends???,True
+wine_01gzr4kt39zdn46ebzqq723adb,,MAGNUM,2013,0,0,,s2,1,,True
+wine_01gzr4kt39zdn46ebzqq723adb,,MAGNUM,2015,7000,0,,Collezione,2,,True
+wine_01gzr4kt39zdn46ebzqq723adb,,MAGNUM,2016,0,0,,s2,1,,True
+wine_01gzr4kt39zdn46ebzqq723adb,,MAGNUM,2017,5600,1967,,s2,3,,True
+wine_01h0r2pq52td2bbpqmbja71b11,,MAGNUM,2020,6000,1721,,s3,12,,True
+wine_01h0qsxmvgctt8akt0s1yea669,,MAGNUM,2018,10000,0,,tav10-top,1,Fornitore: zio,True
+wine_01h0qzm03xa1e98z3bfbvkkrbh,,BOTTLE,2022,4000,1393,,Frigo bianchi,1,,True
+wine_01h0qzm03xgbf59yrnks5vwjaf,,BOTTLE,2022,4000,1393,,Frigo bianchi,2,Fornitore: TOLM,True
+wine_01h0qsxn5k8198k3bx7wp4hkft,,BOTTLE,2023,3000,819,,Frigo Sala sx,4,,True
+wine_01h0my5sg2v9vexazchvnnjkk7,,BOTTLE,2018,6000,1803,,Frigo bianchi,1,Fornitore: TOLM,True
+wine_01h0my5sw25v6jb7e77rwje2t8,,BOTTLE,2016,6000,1803,,s2,3,,True
+wine_01h0my5sw25v6jb7e77rwje2t8,,BOTTLE,2019,8000,2377,,s2,13,,True
+wine_01gzr4kss36badsv9jpbfkc4h3,,BOTTLE,2021,2500,573,,bar008,2,Fornitore: GIV,True
+wine_01gzr4kt6e8t3kr0338y8df3ry,,BOTTLE,2020,0,81,,s3,2,,True
+wine_01gzr4kt6e57qeprbbe7k7g6rg,,BOTTLE,2021,4500,1475,,bar002,1,,True
+wine_01gzr4kt6e57qeprbbe7k7g6rg,,BOTTLE,2022,4500,1475,,s3,5,,True
+wine_01h0qzm0exntz9mz108jpsx0dd,,BOTTLE,2020,3500,1229,,bar010,4,,True
+wine_01gzr4kt39zdn46ebzqq723adb,,BOTTLE,2018,3500,0,,s1+bar007,6,,True
+wine_01gzr4kt395142gkhja8j29qa8,,BOTTLE,2023,2000,0,,tav10,4,,True
+wine_01gzr4ksd3h1yg01e98qnrzvhg,,BOTTLE,2020,0,81,,Frigo Sala sx,1,,True
+wine_01h0qzm1t6m08zdq2c5s93mw0s,,BOTTLE,2019,8000,81,,Collezione,1,Fornitore: Friends,True
+wine_01h0qzm259pkq80ppx53c4nvx5,,BOTTLE,2014,8000,2540,,s2+Frigo Sala sx,10,,True
+wine_01h0qzm2mn3g6ecvtth470bxtd,,BOTTLE,2020,3000,983,,s2+bar007,7,,True
+wine_01h0qzm19qr1wdjn8dk1rj61em,,BOTTLE,2022,2700,655,,s2,5,,True
+wine_01h0my5sw231h0r91yvwtme6rf,,BOTTLE,2021,4000,0,,s1,5,,True
+wine_01gzr4kskw53xk5s2tff6nqw82,,BOTTLE,2020,4000,1475,,s2+Frigo Sala sx+bar007,12,,True
+wine_01gzr4kskwpk96y45xa8mdmadx,,BOTTLE,2020,4000,1475,,s2+Frigo Sala sx+bar007,6,,True
+wine_01gzr4ksfwaj53g2kkswa7fr05,,BOTTLE,2022,2700,737,,s1+bar008,30,,True
+wine_01h0qzm19tan6xtn3xzc6ct6yw,,BOTTLE,2021,4000,1147,,Frigo Sala sx,1,,True
+wine_01hcwsykxqwdwkkmst6wp85989,,BOTTLE,2022,4200,1475,,bar001,5,,True
+wine_01gzr4ksfwfhjssaqbjqgfd3j2,,BOTTLE,2018,3500,1229,,bar006,1,,True
+wine_01havwef1zm91bwxeqnrt7c86w,,BOTTLE,2021,2600,81,,s2+bar008,6,,True
+wine_01havwef1zm91bwxeqnrt7c86w,,BOTTLE,2022,0,737,,,0,,True
+wine_01h4pmmge5vve7vqe8t0h8d3en,,BOTTLE,2017,5000,1393,,s2,6,,True
+wine_01gzr4ksrq6j2g61bp99jgzzr6,,BOTTLE,2016,0,81,,bar010,1,,True
+wine_01gzr4kse554gs5v0h51dt1ezv,,BOTTLE,2018,0,81,,Collezione,1,,True
+wine_01h0my5rf5wxcvkyp8gx0gjxhx,,BOTTLE,1971,0,81,,Collezione,1,,True
+wine_01h0my5sa34h23fs9v85bm5gda,,BOTTLE,2017,15000,6229,,s2 - legno,4,,True
+wine_01h0my5sa34h23fs9v85bm5gda,,BOTTLE,2019,12000,4344,,s2 - legno,5,,True
+wine_01gzr4kt1jzz1a8gwy6nhwq2y1,,BOTTLE,2018,0,0,,,0,,True
+wine_01gzr4kt1jzz1a8gwy6nhwq2y1,,BOTTLE,2019,4500,1475,,s4+bar005,17,,True
+wine_01gzr4kt1k9nn59ds3pr5ma5en,,BOTTLE,2017,14000,6229,,s3 - legno,5,,True
+wine_01h0my5sa02ad24d2x408hzb0v,,BOTTLE,2016,4500,1065,,bar005,4,,True
+wine_01h0my5sy3y1kqf6tebnn50gnt,,BOTTLE,2017,6000,2540,,bar003,1,,True
+wine_01gzr4ktrfe6yv841ms5t057ee,,BOTTLE,2018,2500,819,,bar003,1,,True
+wine_01gzr4ktrf6jmyd1egy7bpg47n,,BOTTLE,2017,6000,2213,,bar003,1,,True
+wine_01gzr4ksswn8cnrh7jb8qff1wy,,BOTTLE,2021,15000,5819,,tav10,4,,True
+wine_01gzr4ktggtdj3xcbecw69tg5d,,BOTTLE,2019,5000,1311,,s4+bar009,8,,True
+wine_01gzr4ktggtdj3xcbecw69tg5d,,BOTTLE,2021,5000,1393,,s4,17,,True
+wine_01gzr4ktggtgq4pa2w8y1fjxhc,,BOTTLE,2018,10000,3278,,cheba-top,3,,True
+wine_01gzr4ktggtgq4pa2w8y1fjxhc,,BOTTLE,2019,10000,3278,,s4 - legno,6,,True
+wine_01gzr4ktggrp9abymnq375z6r3,,BOTTLE,2021,3000,819,,,0,,True
+wine_01gzr4ksd1yt1swkrtcvd3k873,,BOTTLE,2017,5500,1721,,bar008,2,Fornitore: Bolis,True
+wine_01gzr4ksd304mne6hz94hhd71x,,BOTTLE,2008,15000,5491,,s2 - legno+tav10,6,,True
+wine_01h0my5sw21agn19vzr4h1zdhz,,BOTTLE,2022,2500,819,,bar007+carni,23,,True
+wine_01gzr4ksd40fyqcc0945rr0se7,,BOTTLE,2020,10000,2786,,tav10,3,Fornitore: TOLM,True
+wine_01gzr4ktqw0pna4n405bgzyw1a,,BOTTLE,2017,2000,409,,bar005,1,,True
+wine_01gzr4ktqwvgngb3qncn7dgr2d,,BOTTLE,2019,2500,491,,bar005,1,,True
+wine_01gzr4ktqwvgngb3qncn7dgr2d,,BOTTLE,2020,2500,491,,s2+bar005,11,,True
+wine_01h0f3cmc6zq8z5b7mnbbj38pq,,BOTTLE,2022,2500,655,,s3+bar002,19,Fornitore: GIV,True
+wine_01h0my5t5ebarpxr0m8fyf85wv,,BOTTLE,2022,2500,573,,s3+bar002,13,Fornitore: GIV,True
+wine_01h0my5t5ebarpxr0m8fyf85wv,,BOTTLE,2023,2500,573,,s4+abbattitore,24,Fornitore: GIV,True
+wine_01gzr4ksdncphwjw90tsebxe6t,,BOTTLE,2014,2500,573,,bar003,2,,True
+wine_01gzr4kse7x7aptpf2s9b3s6eh,,BOTTLE,2019,2100,655,,tav10-top,1,,True
+wine_01gzr4ksny2hxt8mx9sfhqn7vs,,BOTTLE,2019,0,3278,,cheba-top,1,,True
+wine_01gzr4ksd458e1b3jk0y3k9tsm,,BOTTLE,2021,4000,1393,,s3+bar010,14,,True
+wine_01gzr4kss4qsdj9vggv33c33rh,,BOTTLE,2020,5200,1639,,s4,6,Fornitore: GIV,True
+wine_01gzr4kss3atthgzhq3znk125v,,BOTTLE,2020,2500,491,,bar008,1,Fornitore: GIV,True
+wine_01gzr4kt6eyea97wmmagbfda3y,,BOTTLE,2020,0,81,,snack,1,,True
+wine_01gzr4kt6epdnjf9qax3c3x132,,BOTTLE,2018,0,901,,bar002,1,,True
+wine_01gzr4kt6epdnjf9qax3c3x132,,BOTTLE,2020,3000,901,,bar002,1,,True
+wine_01gzr4kt6e4ng9xz5qjspjhnze,,BOTTLE,2020,4500,1311,,s3,3,,True
+wine_01gzr4kt6e4ng9xz5qjspjhnze,,BOTTLE,2021,4500,1475,,s3,6,Fornitore: Om,True
+wine_01gzr4kt6ehmbxr0sw4wbs86bm,,BOTTLE,2020,0,81,,snack,1,,True
+wine_01gzr4ksd4xdbyp498dk50r5wm,,BOTTLE,2020,9500,3688,,s4,6,Fornitore: Ceretto,True
+wine_01gzr4ksn6qc9qvxpnyrqq4af8,,BOTTLE,2013,6000,2213,,Collezione,2,,True
+wine_01gzr4ksn7m7x8zvzv1z92r6as,,BOTTLE,2015,5500,1967,,s4,7,,True
+wine_01gzr4kt39z4r9wn1re1t61jy6,,BOTTLE,2022,0,0,,tav10+s1+bar007,15,,True
+wine_01gzr4kt395qpwbxfa9psjyz6h,,BOTTLE,2024,2000,573,,tav10,42,,True
+wine_01h0my5sa32n43s6yw85t7x813,,BOTTLE,2014,7200,2459,,Collezione,1,,True
+wine_01h0my5sa32n43s6yw85t7x813,,BOTTLE,2019,6900,1885,,s3+ingresso+bar002,16,,True
+wine_01h0qsxnj6qvefdb8500c71kcs,,BOTTLE,2021,2500,655,,bar007+sarpi,8,Fornitore: GIV,True
+wine_01h0qsxnj6qvefdb8500c71kcs,,BOTTLE,2022,2500,0,,s2+bar007,6,,True
+wine_01h0my5sgz5050cq3dyk0sj8pj,,BOTTLE,2022,3000,1065,,bar001,3,,True
+wine_01h0my5rm9t1289514mmb8xrf1,,BOTTLE,2020,5000,1229,,s4+Frigo Sala sx+bar010,20,Fornitore: Friends,True
+wine_01h0qzm1smpsdvns8nvydrsf1a,,BOTTLE,2022,2500,655,,bar004+cheba giù,17,,True
+wine_01h0qzm1smh2bt5vr0mtescnx5,,BOTTLE,2022,2500,573,,bar004+cheba giù,9,,True
+wine_01h0qzm1j01xvtbc4vfaasq410,,BOTTLE,2020,5000,1311,,s3+bar002,8,,True
+wine_01h0qzm1j01xvtbc4vfaasq410,,BOTTLE,2021,5000,1393,,s3+bar002+cheba giù,24,,True
+wine_01h0r2pq52td2bbpqmbja71b11,,BOTTLE,2017,0,0,,Collezione,2,,True
+wine_01h0r2pq52td2bbpqmbja71b11,,BOTTLE,2019,3000,819,,bar002,1,,True
+wine_01h0r2pq52td2bbpqmbja71b11,,BOTTLE,2020,3400,819,,s3+bar002,10,,True
+wine_01h0r2pq52td2bbpqmbja71b11,,BOTTLE,2021,3400,983,,s3+bar002+cheba giù,24,,True
+wine_01h0sq48dck0p73s6h69mzym1h,,BOTTLE,2023,2500,655,,s4+bar008,23,,True
+wine_01gzr4ktjtcwxp96kh013apbsw,,BOTTLE,2021,7500,2295,,s4+bar008,4,Fornitore: Friends,True
+wine_01gzr4kss7rcye6mxrkgrdmn8w,,BOTTLE,2013,8000,2459,,Frigo Sala sx,3,,True
+wine_01h0qsxnexw1hfahn8shp8g61m,,BOTTLE,2017,3500,1065,,Frigo bianchi,2,,True
+wine_01h0qzm2mwafe67896sa422arw,,BOTTLE,2017,7500,2622,,bar010,4,,True
+wine_01gzr4kssk5tdbqtpnhrdcnqa5,,BOTTLE,2021,3000,655,,bar010,3,,True
+wine_01gzr4kt16z73tz5r7dg72brm4,,BOTTLE,2001,3000,819,,Frigo bianchi,1,,True
+wine_01gzr4kskv9y7t62t3vethmey1,,BOTTLE,2022,2500,901,,s2+bar007,33,,True
+wine_01gzr4ksk78jt956tpj87xh1wb,,BOTTLE,2021,6000,2213,,tav11,5,,True
+wine_01h0qsxnxz2yckpgbjfjy4fk43,,BOTTLE,2018,3000,737,,bar003,2,,True
+wine_01gzr4kt3jre0y0r2gykrdkzgd,,BOTTLE,2013,5000,1885,,Frigo Sala sx,2,,True
+wine_01gzr4kt3jre0y0r2gykrdkzgd,,BOTTLE,2015,5000,1885,,Frigo Sala sx,0,,True
+wine_01gzr4kt3jx6w0wx63xvrs0snr,,BOTTLE,2015,5000,1885,,Frigo Sala sx+bar006,7,,True
+wine_01gzr4ktg10fzq2qa9zwy7z1pe,,BOTTLE,2021,3000,737,,bar004,4,,True
+wine_01gzr4ktg1azgwqca3yna2nbb4,,BOTTLE,2019,6000,1885,,s4+tav10,5,,True
+wine_01gzr4ktg1s7wrcryy88b5gc8s,,BOTTLE,2020,9900,4672,,tav10-top,2,,True
+wine_01gzr4ktg10qm2jmjmq1at2v3q,,BOTTLE,2017,9000,2459,,bar004,1,Fornitore: GIV,True
+wine_01gzr4ktg10qm2jmjmq1at2v3q,,BOTTLE,2019,7000,2049,,bar004+tav10-top,4,Fornitore: GIV,True
+wine_01gzr4ktg10qm2jmjmq1at2v3q,,BOTTLE,2021,8000,2459,,bar004+tav10-top,6,Fornitore: GIV,True
+wine_01gzr4ksk6rbbvyqxayj77pfwc,,BOTTLE,2012,0,81,,tav10-top,1,,True
+wine_01hfvgk1q39g2jv68bzta79nbe,,BOTTLE,2021,0,10245,,tav10-top,1,,True
+wine_01gzr4ktsscyrtnrvypvf3gqdz,,BOTTLE,2020,2500,409,,bar009,1,,True
+wine_01gzr4ktsr08g4new5v0k2rwjx,,BOTTLE,2020,2500,655,,bar009,4,,True
+wine_01harvcmgpjzg4f21vwgsq2f1t,,BOTTLE,2019,3900,1065,,s3,3,,True
+wine_01harvcmgn9ydxjdk0r7r4e838,,BOTTLE,2023,2500,655,,s3,5,,True
+wine_01h0qsxny7ws1h94xq2nqfprxc,,BOTTLE,2021,9700,4016,,snack,1,,True
+wine_01gzr4kt7qy0qb80gky3xckf99,,BOTTLE,2022,3000,819,,bar001,2,,True
+wine_01hcwsykyy1thmkmmsqy4xerk1,,BOTTLE,2018,4000,1475,,Collezione,1,,True
+wine_01gzr4ksfwexgp2k36a037vt01,,BOTTLE,2021,3500,1229,,bar006,3,,True
+wine_01h0qzm1ah55sy8tc96evxpnxe,,BOTTLE,2020,2500,737,,bar010,4,,True
+wine_01h0qzm1dnfsyr6ssp2y3rxzm6,,BOTTLE,2021,3000,901,,tav10-top,3,,True
+wine_01hcycw564vqehm2fedqssccqe,,BOTTLE,2016,7000,2868,,s4 - legno,5,Fornitore: GIV,True
+wine_01h0b4rjgn6gdhx8tqtdcakpsg,,BOTTLE,2023,2500,491,,bar009,8,,True
+wine_01gzr4ksk6gj9qbq1cf8pwef6t,,BOTTLE,2021,3500,983,,s2+bar007+Frigo bianchi,14,,True
+wine_01havwef6h6ekqg56jj48s4tc2,,BOTTLE,2021,2600,737,,s2+bar008,9,,True
+wine_01h0my5rm2bdgbq8rajbtdadw1,,BOTTLE,2018,0,81,,tav11,2,,True
+wine_01h0qsxmw0vzqjrfqj736kvgyt,,BOTTLE,2019,5000,1557,,s3 - legno,5,,True
+wine_01gzr4ksn5m0e7ce1fcdzegd7s,,BOTTLE,2023,3500,1065,,bar000,1,,True
+wine_01gzr4kskrzeq3gy8dcj154h2z,,BOTTLE,2023,4000,1229,,tav11+bar000,14,,True
+wine_01gzr4ksn5y4nmgm36x8hcwy1b,,BOTTLE,2017,0,0,,tav11,2,,True
+wine_01gzr4ksn5y4nmgm36x8hcwy1b,,BOTTLE,2019,5000,1557,,tav11,4,,True
+wine_01gzr4ksn5y4nmgm36x8hcwy1b,,BOTTLE,2020,5000,0,,tav11+bar000,6,,True
+wine_01gzr4ksn5krczaydj3qa1wznz,,BOTTLE,2021,3500,1065,,tav11+bar000,6,,True
+wine_01gzr4ksn5krczaydj3qa1wznz,,BOTTLE,2022,3500,1147,,tav11,7,,True
+wine_01h0r2pppta5xywnmvtvrdg6ep,,BOTTLE,2022,3500,1065,,tav11+bar001,19,,True
+wine_01h0sq47xg3b58xtbd7181s02w,,BOTTLE,2017,4500,1065,,bar001,2,,True
+wine_01h0sq47xg3b58xtbd7181s02w,,BOTTLE,2020,4000,1065,,bar001+tav11,5,,True
+wine_01h0sq47xhxk56xm9rbe5d0q07,,BOTTLE,2020,5500,2131,,tav11,5,,True
+wine_01gzr4ksfkq9m6mbx5kcqfgr1k,,BOTTLE,2017,3000,901,,bar005,2,,True
+wine_01gzr4kss355ytexachj17ewzz,,BOTTLE,2022,6400,2213,,tav10+cartone a lato tav10,8,,True
+wine_01gzr4kt5e61j0mgby5sx7gm74,,BOTTLE,2019,2500,491,,s4+bar003,2,Fornitore: TOLM,True
+wine_01gzr4kt5e61j0mgby5sx7gm74,,BOTTLE,2021,2500,491,,s4+bar003,5,Fornitore: TOLM,True
+wine_01h0my5t8r8f74dnt9gwz97nxz,,BOTTLE,2019,0,1147,,tav10,1,,True
+wine_01h0my5t8r8f74dnt9gwz97nxz,,BOTTLE,2020,4000,1147,,tav10,6,,True
+wine_01h0my5t5eq0jc5hnpnad79zb2,,BOTTLE,2022,0,819,,tav10,3,,True
+wine_01hqvfh4dm4fq51pwrhqny45ke,,BOTTLE,2022,0,819,,tav10,6,,True
+wine_01gzr4ktgt3vvfam1nhxse0vnr,,BOTTLE,2020,0,1065,,tav10,1,,True
+wine_01gzr4ktgt3vvfam1nhxse0vnr,,BOTTLE,2021,3000,1065,,tav10,2,,True
+wine_01j52teveshxbyhsd7bmet0bft,,HALF_LITER,2022,3500,983,,tav10,5,,True
+wine_01h0my5rpjnh3df536fm71hjnt,,HALF_LITER,2019,6000,2377,,tav10,4,,True
+wine_01gzr4ks5h2hddbefsyh459f9h,,BOTTLE,2021,5000,1557,,Frigo Sala dx,4,,True
+wine_01h0my5sw250s7h60h8ws75t4r,,BOTTLE,2023,2500,819,,carni terra+Frigo bianchi+bar007,20,,True
+wine_01h0my5sw2jy3jvxry3fwf7t2h,,BOTTLE,2023,3000,901,,carni terra+Frigo bianchi,7,,True
+wine_01h0my5t0ea53shhxahj7fnpdh,,BOTTLE,2023,2500,491,,Frigo friulani,2,,True
+wine_01h0qzm19rddvc7b1h9qe8c0cb,,BOTTLE,2018,9000,2622,,Frigo bianchi,2,,True
+wine_01h0qsxn5kgnqmze5ts2y7nd4p,,BOTTLE,2022,3000,901,,,0,,True
+wine_01h0qsxndv6wft8e5jhhhvvqps,,BOTTLE,2022,3500,1065,,Frigo bianchi,1,Fornitore: TOLM,True
+wine_01gzr4kt39shmar36q7pastqf7,,BOTTLE,2024,2000,573,,Frigo friulani+tav10,13,,True
+wine_01gzr4kt39xxvb8sn7mndz5k4g,,BOTTLE,2023,2000,0,,tav10,2,,True
+wine_01gzr4kt39yp960kvnxr6wtbrp,,BOTTLE,2022,2000,0,,Frigo bianchi+tav10,8,,True
+wine_01gzr4kt39zkf70kvhars9k508,,BOTTLE,2023,2000,0,,tav10+Frigo bianchi,9,,True
+wine_01h0qsxnj36w66syb1b9t3dvx6,,BOTTLE,2021,2500,0,,Frigo bianchi+sarpi,11,,True
+wine_01h0qsxnj36w66syb1b9t3dvx6,,BOTTLE,2023,2500,737,,sarpi,11,Fornitore: GIV,True
+wine_01h0qsxnj2ss11s8vh09wynmhy,,BOTTLE,2023,2500,737,,sarpi,6,Fornitore: GIV,True
+wine_01h0qsxnj4s7kx9nk0v80y74e5,,BOTTLE,2023,2500,655,,Frigo friulani,1,Fornitore: GIV,True
+wine_01h0r2pp6e8pe8h61nfxxptbv9,,BOTTLE,2022,2500,737,,Frigo Sala dx,2,,True
+wine_01h4pmmh0ty5g12mp4y9qvtsbm,,BOTTLE,2023,6000,1721,,Frigo Sala sx,6,,True
+wine_01j52tesv8846f005d5ev8yxjz,,BOTTLE,2023,2500,655,,Frigo Sala sx+Frigo bianchi,11,,True
+wine_01j52tesv8846f005d5ev8yxjz,,BOTTLE,2024,2500,655,,Frigo Sala sx,8,,True
+wine_01hcwsykkwk490dx7j60m0n6sy,,BOTTLE,2022,3000,901,,Frigo Sala sx,5,,True
+wine_01gzr4kskvdx4mbc559tkc254n,,BOTTLE,2023,2500,655,,s1+Frigo bianchi,16,,True
+wine_01gzr4ksk7gf3nsnzy6tbmskh6,,BOTTLE,2022,4800,1803,,tav11,2,,True
+wine_01gzr4ksfw2r65ewb7hh5fy8tx,,BOTTLE,2023,2700,737,,s1+Frigo friulani+Frigo bianchi,35,,True
+wine_01gzr4kssypr8ssbgks1t13j1y,,BOTTLE,2020,3000,901,,Frigo Sala dx,1,,True
+wine_01gzr4kt3jy6ykq8qasagtad6m,,BOTTLE,2021,4500,1393,,Frigo friulani,2,,True
+wine_01hawwcx2pb0xvtq6fehhw0p7d,,BOTTLE,2023,6000,1967,,Frigo Sala dx,6,,True
+wine_01gzr4ktg1wt3xn4p50wjaxv2q,,BOTTLE,2023,2500,737,,tav10-top+Frigo bianchi,5,,True
+wine_01gzr4kseh2gyde6v2khcsrhgm,,BOTTLE,2020,3600,1311,,Frigo bianchi,1,,True
+wine_01hcw4dfc1jemtnxx66en37zte,,BOTTLE,2022,0,0,,Frigo bianchi,1,,True
+wine_01gzr4ksqs9tykk1ffy1f2q2ah,,BOTTLE,2018,2500,901,,Frigo bianchi,1,Fornitore: Area 6 srl,True
+wine_01h0my5smvc6vdgtw75cf4nszx,,BOTTLE,2023,0,491,,Frigo bianchi+tav10-top,1,,True
+wine_01h4pmmfqcb5pvevmfry1h2yq3,,BOTTLE,2022,3400,983,,Frigo friulani,1,Fornitore: TOLM,True
+wine_01h4pmmh56sv48ht2mxp15z8ha,,BOTTLE,2023,5000,1967,,Frigo Sala dx,4,,True
+wine_01harvcmpjhp7hh4jdnd09qy2d,,BOTTLE,2016,3000,901,,Frigo bianchi,1,,True
+wine_01gzr4ksn50qsgk0g2wxb8dd8s,,BOTTLE,2022,0,0,,Frigo bianchi+tav11,12,,True
+wine_01gzr4ksn50qsgk0g2wxb8dd8s,,BOTTLE,2023,3000,901,,tav11+Frigo bianchi,12,,True
+wine_01gzr4ksn5hrrj46e95x5nft46,,BOTTLE,2022,3500,1065,,tav11+Frigo bianchi,8,,True
+wine_01gzr4kskpz3t6pte1cfyvzpzv,,BOTTLE,2022,6000,2131,,tav11,6,,True
+wine_01gzr4ksn5fkhy5h5v8sa71dfk,,BOTTLE,2015,4500,983,,Frigo bianchi,1,,True
+wine_01gzr4ksn5fkhy5h5v8sa71dfk,,BOTTLE,2022,3600,983,,tav11,9,,True
+wine_01h0sq47xhtaben7v4bqz0drhr,,BOTTLE,2021,3500,1065,,Frigo bianchi,3,,True
+wine_01h0sq47xgwvqvqhjhsn8v8t7z,,BOTTLE,2021,5000,1885,,tav11,5,,True
+wine_01h0sq47xgsyyyyza4b81pgf2p,,BOTTLE,2021,3500,1065,,Frigo Sala sx,6,,True
+wine_01h0sq47xg5g76922shspm60e7,,BOTTLE,2021,5000,1721,,tav11,6,,True
+wine_01h0my5rc9ven2xapcx9zmhtpe,,BOTTLE,2022,2100,655,,ingresso+Frigo bianchi,9,,True
+wine_01gzr4ksehy4wftxc3709gvxsk,,BOTTLE,2022,3300,983,,totem+cheba giù,12,,True
+wine_01gzr4ksehy4wftxc3709gvxsk,,BOTTLE,2023,3300,983,,totem+totem+cheba giù,11,,True
+wine_01gzr4ksm3d8erhrf5tygfaenc,,BOTTLE,2020,0,2213,,MAG,2,,True
+wine_01gzr4ksm3d8erhrf5tygfaenc,,BOTTLE,2021,0,2295,,MAG,3,,True
+wine_01gzr4kskyttd1nbmxrqzetpzp,,BOTTLE,1986,0,81,,MAG,1,,True
+wine_01gzr4ksd8c8a4z1jdmzd4t8dy,,BOTTLE,1999,8400,3032,,MAG,1,,True
+wine_01hb8x6jbd5f7a5e2hnn1cmt4s,,BOTTLE,2016,7000,2377,,Frigo Sala dx+totem,3,,True
+wine_01h0f3cmc5r6jrprwqzs593r3e,,MAGNUM,2023,0,1967,,snack,1,,True
+wine_01gzr4kt1jzz1a8gwy6nhwq2y1,,MAGNUM,2018,8000,3032,,tav10-top,3,,True
+wine_01h0my5sa02ad24d2x408hzb0v,,MAGNUM,2018,7000,1721,,tav10-top,2,,True
+wine_01gzr4ktggrp9abymnq375z6r3,,MAGNUM,2019,6000,1967,,,0,,True
+wine_01h0my5sw21agn19vzr4h1zdhz,,MAGNUM,2021,5000,1885,,tav10-top,1,,True
+wine_01h0my5sw21agn19vzr4h1zdhz,,JEROBOAM,2022,0,7786,,tav10-top,1,,True
+wine_01h0my5t8s6ve1f24wtyvfcpvq,,MAGNUM,2019,8000,2868,,s1,2,,True
+wine_01h0my5t8vvvtkt5k6eqbexkcp,,MAGNUM,2019,8000,2868,,s1,3,,True
+wine_01gzr4kss4qsdj9vggv33c33rh,,MAGNUM,2017,8500,3606,,tav10-top,1,,True
+wine_01gzr4kt6dg12ga74cyqmag57t,,MAGNUM,2016,14000,5573,,s3,9,,True
+wine_01gzr4kt6dg12ga74cyqmag57t,,MAGNUM,2019,18000,7377,,snack,1,Fornitore: Om,True
+wine_01h0sq48spzg1zrkmkpjtk820w,,MAGNUM,1998,0,4918,,tra frigo e tav11,1,,True
+wine_01h0sq48spzg1zrkmkpjtk820w,,MAGNUM,2000,0,4918,,tra frigo e tav11,1,,True
+wine_01h0sq48spzg1zrkmkpjtk820w,,MAGNUM,2016,0,4918,,tra frigo e tav11,1,,True
+wine_01harvcmpkykdcz53xwq9pb0nk,,MAGNUM,2022,7000,2295,,tav10-top,1,,True
+wine_01gzr4ktg10x91qf45zg2myj5f,,MAGNUM,2019,10000,4098,,tav10-top,1,,True
+wine_01gzr4ktg1d6e4jh94f2p1kmnh,,MAGNUM,2016,10000,4098,,tav10-top,1,,True
+wine_01gzr4ktg1d6e4jh94f2p1kmnh,,MAGNUM,2018,11000,4426,,tav10-top,1,,True
+wine_01gzr4ktg1azgwqca3yna2nbb4,,MAGNUM,2019,10000,4098,,tav10-top,1,,True
+wine_01h0r2pq9qv620rb9bhyn26drj,,MAGNUM,2020,7800,2622,,tav10-top+snack,4,,True
+wine_01h0qsxmw0vzqjrfqj736kvgyt,,MAGNUM,2013,9000,3442,,tav10-top,1,,True
+wine_01h0my5sg98ypp6rzsdcdmzw5r,,MAGNUM,2021,7500,2540,,Frigo friulani,1,,True
+wine_01h0sq47xgextx2bt5q0y3cr2n,,MAGNUM,2020,9000,2131,,tav10-top,2,,True
+wine_01gzr4ksd1q5hvwrcr5dxtbzer,,BOTTLE,2015,30000,12295,,Frigo Sala dx+totem+tav10,17,Fornitore: Friends,True
+wine_01gzr4ks5t1m4jw7wrm83pbwtn,,BOTTLE,2015,32000,16393,,Frigo Sala dx+totem+tav10,11,Fornitore: Friends,True
+wine_01havwedtv3snjac55rc0g595r,,BOTTLE,2015,25000,12950,,totem,1,,True
+wine_01jz16aaz1n37c958s18trsk0k,,BOTTLE,2021,0,81,,snack,1,,True
+wine_01jz16s2yccvnkbgdx8ccz8we6,,BOTTLE,2017,5000,1885,,s2+bar006,12,,True
+wine_01gzr4ksdn9ymr8eah7pq7gj4z,,BOTTLE,2013,3600,1311,,Frigo Sala sx,3,,True
+wine_01jz17y3xjwtnwjy6x1x17hm0n,,BOTTLE,2016,4800,1311,,s2+bar007,5,,True
+wine_01jz185bx3vc0rq37d4gsv1ryc,,BOTTLE,2020,2500,0,,Frigo friulani,1,,True
+wine_01hfsh6jsg9wghbzx1ekg9h1kk,,BOTTLE,2023,4200,1229,,Frigo friulani+tav10-top,5,Fornitore: TOLM,True
+wine_01h0qsxnmrdrf4zfc9ctv8bwvv,,BOTTLE,2022,2500,573,,bar005,2,,True
+wine_01hcwsym3wkqs67cnc42m9b5be,,BOTTLE,2016,7000,2786,,s3 - legno,1,,True
+wine_01gzr4ksswmjc0wtjr9eygj1cy,,BOTTLE,2020,7000,2786,,S4,2,,True
+wine_01gzr4kssww5k215dr9ea2695w,,BOTTLE,2021,18000,7213,,s4 - legno,6,,True
+wine_01gzr4ksswndtayhsp089ks5c1,,BOTTLE,2021,4500,1229,,s3,5,,True
+wine_01gzr4ksd12q2hmw4ae4sbrw25,,BOTTLE,2022,4000,1147,,s4+bar010,9,Fornitore: Friends,True
+wine_01gzr4ktggyks9ttvaqt6yq9yw,,BOTTLE,2023,2600,737,,Frigo Sala sx+Frigo bianchi,7,,True
+wine_01gzr4ktggganrztbvpv745vf7,,BOTTLE,2018,5500,1885,,s4,2,,True
+wine_01gzr4ktggt0tvh2f2g2xy7yhk,,BOTTLE,2019,6000,1803,,s4+bar009,6,,True
+wine_01j52ter28g7ckp6zvyvmcqc5p,,BOTTLE,2018,5000,1475,,bar010,1,,True
+wine_01j52ter26t62jsaf55xmzfwv8,,BOTTLE,2019,6000,1885,,bar010,1,,True
+wine_01gzr4ktnfbyc1at7acdaxhyeh,,BOTTLE,2020,2500,655,,s4+bar008,15,Fornitore: Bolis,True
+wine_01gzr4ksd2khb6gw718p7j4cvr,,BOTTLE,2020,3600,983,,s4+bar008,12,Fornitore: Bolis,True
+wine_01gzr4kt3q8mp8305kt2cmh353,,BOTTLE,2018,5000,1803,,s2+bar006,9,,True
+wine_01h0my5t8t4tntecade9y07590,,BOTTLE,2021,3000,983,,s2+bar006,12,,True
+wine_01h0my5t8qtkdvz46fcck3ccy6,,BOTTLE,2021,3000,1065,,bar006,2,,True
+wine_01jz1btr5gv7h93tathdbbsdmv,,BOTTLE,2023,0,81,,s3,1,Fornitore: GIV,True
+wine_01gzr4ksdnb1kbf1atknkzn6n6,,BOTTLE,2012,3600,1311,,bar003,2,,True
+wine_01gzr4ksny6gja7fn0tpxa4jdv,,BOTTLE,2019,8000,3032,,Frigo Sala sx,4,,True
+wine_01h0qsxmy7hkfw57d7zez20rme,,BOTTLE,2020,2500,573,,bar008,2,Fornitore: GIV,True
+wine_01gzr4kt6e8t3kr0338y8df3ry,,BOTTLE,2021,7200,2950,,s3,5,,True
+wine_01gzr4kt6dg12ga74cyqmag57t,,BOTTLE,2020,9000,3688,,bar002,2,,True
+wine_01h0qsxn5k74jzqrxfe4ypa43z,,BOTTLE,2020,3000,819,,bar001,1,,True
+wine_01h0qsxndvg3xnwgs0bcxygspy,,BOTTLE,2022,3900,1147,,bar006,2,Fornitore: TOLM,True
+wine_01gzr4ksfx8hkgv1j5rgnzatry,,BOTTLE,2020,5000,1311,,Frigo Sala sx,3,Fornitore: TOLM,True
+wine_01h0qzm03xf3zc2q2xn2er9fng,,BOTTLE,2021,4000,1475,,bar006,1,,True
+wine_01h0f3cmc369y932yma7kjm6qw,,LITER,2021,5000,1475,,tav10,1,Fornitore: TOLM,True
+wine_01jz1cfdc7wrecwwk5yw1kev1d,,BOTTLE,2022,0,0,,snack,1,,True
+wine_01gzr4kt39bgtavewwmkf99eg6,,BOTTLE,2023,0,0,,tav10,5,,True
+wine_01jz274qg3fdjp5fma69917sdc,,BOTTLE,2020,6000,2131,,s3+bar001,34,,True
+wine_01h0my5re33gy8vcww6n1j8nzc,,BOTTLE,2022,3000,901,,s4+bar008,13,,True
+wine_01h0qzm1smzm2hab3eqfyb703c,,BOTTLE,2018,4000,1311,,bar004+cheba giù,8,,True
+wine_01h0my5vtsesm296h7ba03qgs4,,BOTTLE,2020,2500,737,,s3+bar002,11,,True
+wine_01h0qzm1v013zefkq9mfy1kf2f,,BOTTLE,2018,2500,491,,Frigo bianchi,1,,True
+wine_01gzr4kt1mfpf59d0b2xzz16td,,BOTTLE,2020,4000,1393,,tav10,5,,True
+wine_01gzr4kt16pmder93vwgbgr010,,BOTTLE,2019,4000,819,,Frigo bianchi,1,,True
+wine_01jz27y9fdc23a6dr88zhavh0c,,BOTTLE,2016,8000,2868,,s2 - legno,6,,True
+wine_01gzr4kt0w5k6z1f0yvgtw1w91,,BOTTLE,2009,9000,2540,,bar003,2,,True
+wine_01h0sq48xg5kd201gze9zxdpp6,,BOTTLE,2018,2600,655,,bar009,1,,True
+wine_01gzr4ktg10x91qf45zg2myj5f,,BOTTLE,2019,6000,1885,,s4,2,,True
+wine_01gzr4ktg19fgprxtdf9ddpgys,,BOTTLE,2009,10000,2786,,tav10-top,1,,True
+wine_01gzr4ktg1d6e4jh94f2p1kmnh,,BOTTLE,2017,5500,1885,,bar004,1,,True
+wine_01gzr4ktg1d6e4jh94f2p1kmnh,,BOTTLE,2018,6000,1967,,s4+tav10,3,,True
+wine_01jz290raa0r8mzaj3gynewwsh,,BOTTLE,2020,3600,1311,,Frigo Sala sx,5,,True
+wine_01h0r2pq9qv620rb9bhyn26drj,,BOTTLE,2019,0,1311,,s3,1,,True
+wine_01h0r2pq9tr63an7kzj8nwmtb7,,BOTTLE,2019,4000,1311,,s3,6,,True
+wine_01h0r2pq9qv620rb9bhyn26drj,,BOTTLE,2020,2700,819,,s3,11,,True
+wine_01jz29vgwxzajhyp200j057719,,BOTTLE,2019,0,81,,Collezione,1,,True
+wine_01gzr4kt7q9taqpx6aw36m5xp7,,BOTTLE,2020,6500,2704,,bar001,4,,True
+wine_01h0my5sg15w8qsx4esdveg7kj,,BOTTLE,2016,3600,1311,,bar009,1,Fornitore: GIV,True
+wine_01jz2b4wqbrfyyvnb2bft3zbpd,,BOTTLE,2007,3000,1065,,MAG,1,Fornitore: Area 6 srl,True
+wine_01h0my5smv3dav0hc682anf83g,,BOTTLE,2023,2500,491,,tav10-top,5,,True
+wine_01gzr4ksd5qvqzwd71w831d9q3,,BOTTLE,2017,0,2704,,Frigo bianchi,0,Fornitore: GIV,True
+wine_01jz2bdk4h00q1z5k99cpga51t,,BOTTLE,2019,3000,1065,,bar005,2,Fornitore: GIV,True
+wine_01h0f3cmc13azgy2d7kqcryyt5,,BOTTLE,2020,2900,901,,bar005,3,Fornitore: GIV,True
+wine_01h0f3cmc5ptzhns0hc8wgqd6j,,BOTTLE,2020,2700,737,,s4+bar005,9,Fornitore: GIV,True
+wine_01gzr4kts2s4gnxsrma8yabq4f,,BOTTLE,2020,0,81,,tav11,3,,True
+wine_01gzr4ktqykkyyy5rcfn55pgfs,,BOTTLE,2019,4400,1557,,Frigo Sala sx,2,,True
+wine_01gzr4ksn5yach7bbmsg2nehj3,,BOTTLE,2020,5000,1721,,tav11,7,,True
+wine_01gzr4ksn5yach7bbmsg2nehj3,,BOTTLE,2021,5000,0,,tav11,6,,True
+wine_01gzr4ksn5agw365140he6yvs3,,BOTTLE,2021,6500,2049,,tav11+bar000,10,,True
+wine_01gzr4ksn5agw365140he6yvs3,,BOTTLE,2022,6500,2049,,tav11,5,,True
+wine_01jz2c250g7kf34wm20pesnsr1,,BOTTLE,2016,3000,1065,,bar009,2,Fornitore: Area 6 srl,True
+wine_01h0my5rpe6dwecd4qqg2bj6pa,,BOTTLE,2019,4000,1065,,s2+bar007,18,,True
+wine_01h0my5rpfdhe1df7wfpy9cr9g,,BOTTLE,2019,4000,1229,,s2+bar007,9,,True
+wine_01h4pmmh0d4nv67mfa75zmn58q,,HALF_BOTTLE,2022,7000,1967,,Frigo Sala dx+tav10,6,,True
+wine_01h4pmmh0d4nv67mfa75zmn58q,,BOTTLE,2022,0,1967,,Frigo Sala dx,3,,True
+wine_01gzr4ktfg94yr4a3qs46j1p4r,,BOTTLE,2017,0,1557,,tav10,1,,True
+wine_01gzr4ktfg94yr4a3qs46j1p4r,,BOTTLE,2018,0,1557,,tav10,1,,True
+wine_01gzr4ktfqgch4bckxb7pta7a8,,BOTTLE,1999,0,3934,,tav10,5,,True
+wine_01h0f3cmc05cgxytbg1cgmds8n,,BOTTLE,2023,0,81,,tav10,1,,True
+wine_01havwefgwnk6de855m72dnbby,,HALF_BOTTLE,2021,7000,2540,,Frigo Sala dx,2,,True
+wine_01gzr4ktsrt4c17p5zxstxcdgb,,BOTTLE,1998,0,819,,tav10,2,,True
+wine_01h0my5sw2dvrd695j7mn0ty4q,,BOTTLE,2022,3000,901,,s1+Frigo friulani,3,,True
+wine_01h0my5sw2dvrd695j7mn0ty4q,,BOTTLE,2023,4000,1147,,s1+Frigo friulani,24,,True
+wine_01h0my5t8swg6z82ctts5b4tcr,,BOTTLE,2022,2500,819,,Frigo friulani,2,,True
+wine_01h0qsxndvhb4jtw5hv0yf842d,,BOTTLE,2023,3600,1065,,Frigo friulani+tav10-top,9,Fornitore: TOLM,True
+wine_01gzr4kt39pz8evdww3myrmt3y,,BOTTLE,2024,3000,819,,tav10+Frigo bianchi,8,,True
+wine_01hcw4dfbb74mczav9fqf57k83,,BOTTLE,2020,0,0,,tav10,6,,True
+wine_01jz2echkztawpjcb50rccf06q,,BOTTLE,2023,2500,655,,s1+Frigo friulani+sarpi,28,Fornitore: GIV,True
+wine_01h0my5vprv29y3519yjrv9cpv,,BOTTLE,2020,2500,901,,Frigo bianchi,1,,True
+wine_01h0my5vprv29y3519yjrv9cpv,,BOTTLE,2021,0,901,,Frigo bianchi,1,,True
+wine_01jz2es20jm9t9q3t0m2k21enp,,BOTTLE,2019,3600,1311,,Frigo bianchi,1,Fornitore: Area 6 srl,True
+wine_01jz2fbmqjrembabty096e93a9,,BOTTLE,2018,3400,1229,,Frigo Sala sx,6,,True
+wine_01h0qzm24c06f80msxqssq62tg,,BOTTLE,2018,2700,983,,Frigo bianchi,3,,True
+wine_01h4pmmh0r1j8tvxt1v9j3af2s,,BOTTLE,2023,6000,1885,,Frigo Sala dx,6,,True
+wine_01gzr4ksk7jghjn59q3qk4nxkq,,BOTTLE,2022,4800,81,,tav11,1,,True
+wine_01gzr4kt49t7m9wgzbasn8qbmg,,BOTTLE,2023,0,81,,Frigo bianchi,1,,True
+wine_01gzr4ksk68e54tnsqw760cv4w,,BOTTLE,2023,3000,737,,Frigo friulani,2,,True
+wine_01h0sq471yt8nqeyy33e6qqemt,,BOTTLE,2023,3000,737,,s4+tav10-top+Frigo bianchi,15,,True
+wine_01gzr4ksn59z5trnp1pzag3g26,,BOTTLE,2023,3000,901,,Frigo bianchi,2,,True
+wine_01gzr4kskx095ns4s3qs8j5kpb,,BOTTLE,2022,4200,1229,,Frigo friulani,2,Fornitore: TOLM,True
+wine_01jz2g1r3fx7yjt49vbtbza54k,,BOTTLE,2022,3000,901,,s1+Frigo friulani,30,,True
+wine_01jz2gdmmw31vz07b8zbxbrxt7,,BOTTLE,2022,3000,409,,Frigo Sala dx,4,,True
+wine_01jz2hx3gddc565j25jfmv8hsy,,BOTTLE,2020,3500,1229,,Frigo Sala dx+totem,3,,True
+wine_01h0r2pq9bnadj4b5ws1mc80n4,,BOTTLE,2018,0,0,,tav10,1,,True
+wine_01h0f3cmbq3wz8386etj5pdgqz,,BOTTLE,2014,0,0,,tav10,1,,True
+wine_01gzr4ksswn8cnrh7jb8qff1wy,,MAGNUM,2021,29000,13524,,cheba-top,1,,True
+wine_01gzr4ktggtdj3xcbecw69tg5d,,MAGNUM,2019,8000,2868,,cheba-top,1,,True
+wine_01gzr4ktggt0tvh2f2g2xy7yhk,,MAGNUM,2016,10000,3934,,cheba-top,6,,True
+wine_01gzr4kt393edhsar99k5r5spa,,MAGNUM,2015,0,0,,s2,1,,True
+wine_01gzr4kt393edhsar99k5r5spa,,MAGNUM,2017,0,0,,s2,3,,True
+wine_01h0qzm1j01xvtbc4vfaasq410,,MAGNUM,2004,13000,4016,,s3,1,,True
+wine_01h0qzm1j01xvtbc4vfaasq410,,MAGNUM,2006,11000,3770,,s3,1,,True
+wine_01h0qzm1j01xvtbc4vfaasq410,,MAGNUM,2013,11000,3196,,s3,3,,True
+wine_01h0qzm1j01xvtbc4vfaasq410,,MAGNUM,2018,10000,0,,cheba giù,2,,True
+wine_01h0qzm1j01xvtbc4vfaasq410,,MAGNUM,2019,10000,2950,,s3+cheba giù,4,,True
+wine_01h0qzm1j01xvtbc4vfaasq410,,MAGNUM,2020,10000,0,,s3+cheba giù,2,,True
+wine_01h0my5tzfxc2ssew5s5h58ah1,,MAGNUM,2020,9000,3442,,cheba-top,1,,True
+wine_01gzr4kskwd3k439cn7cg476ak,,MAGNUM,2001,20000,5737,,tav10-top,1,,True
+wine_01gzr4kskwd3k439cn7cg476ak,,MAGNUM,2016,16000,5983,,tav10-top,2,,True
+wine_01gzr4kscb98m6q0xc76er4msd,,BOTTLE,2015,0,3032,,totem,1,,True
+wine_01h0qzm0expx9g2ggcw2qac56g,,BOTTLE,0,0,1229,,Frigo bianchi,3,,True
+wine_01h4pmmfvdbsxtq3zx756wxjwe,,BOTTLE,0,0,655,,F bianchi+totem+MAG,36,Fornitore: Ermes Botanica,True
+wine_01gzr4ktp6sa7mz635n2cr68sv,,BOTTLE,0,2500,491,,Frigo bianchi,1,,True
+wine_01hcw4dfc0n1jh47p4c4k0jbq9,,BOTTLE,0,0,0,,tav10-top,1,,True
+wine_01gzr4ks5vk1m51fwzdfvaefnr,,BOTTLE,0,3000,983,,Frigo Sala dx+totem+ingresso,90,,True
+wine_01gzr4kse79z0df33htd2g0bbh,,BOTTLE,0,0,0,,tav10-top+MAG,5,,True
+wine_01h0my5sw22svrxqaf2sxj1wz5,,BOTTLE,0,0,1885,,totem,2,,True
+wine_01gzr4kse6d7v8vxbjns5skvv7,,BOTTLE,0,0,0,,tav10-top,1,,True
+wine_01gzr4kse7badjaj5xary70fr4,,BOTTLE,0,3500,1147,,MAG,1,,True
+wine_01h0f3cmbp89g7jej0y9waazvt,,BOTTLE,0,2100,655,,Frigo bianchi+braceria,89,,True
+wine_01h4pmmg02ts8qbjv7gzrwessm,,BOTTLE,0,2100,655,,Frigo Sala sx,1,,True
+wine_01gzr4ktxeqfb19ye91qtnt5nv,,BOTTLE,0,3800,1311,,totem,1,,True
+wine_01h0qzm0xpma2pkj9dk7pws9cy,,BOTTLE,0,3600,1557,,totem+Frigo carni,84,,True
+wine_01h0qzm0xpryymbyfdtv43q425,,BOTTLE,0,3900,1721,,totem+Frigo carni,9,,True
+wine_01h0f3cmbp9jpa1ra3fsrajbba,,MAGNUM,0,15000,5491,,totem,3,,True
+wine_01h0qsxn5knc6r0e6jxerxr9ky,,MAGNUM,0,8500,3032,,tav10-top+totem,2,,True
+wine_01h0f3cmbt0m9fwkwy9qde52r2,,MAGNUM,0,20000,7377,,totem,2,Fornitore: TOLM,True
+wine_01h0f3cmb2cpbndxjhn0pqbz9y,,MAGNUM,0,0,0,,tav10-top,1,,True
+wine_01gzr4ks77wsdabt6vnn27vs4y,,BOTTLE,0,12000,3524,,Frigo Sala dx+totem,10,Fornitore: TOLM,True
+wine_01h0f3cmbp9jpa1ra3fsrajbba,,BOTTLE,0,8000,2377,,Frigo Sala dx+Totem,8,,True
+wine_01hfxsdc5gtv9hgzwy2zwxj6pp,,BOTTLE,0,6000,3114,,Frigo Sala dx+totem+ingresso,51,,True
+wine_01h0f3cmbt0m9fwkwy9qde52r2,,BOTTLE,0,9000,2459,,totem,1,Fornitore: TOLM,True
+wine_01h0sq48556scpe20kz7sp5akf,,BOTTLE,0,0,0,,totem,1,,True
+wine_01hfxnejwpjqjgzs9wgfw6ar74,,BOTTLE,0,16000,6557,,Frigo Sala dx+totem,4,,True
+wine_01gzr4ks63nx7n95vw12dcynhy,,BOTTLE,0,10000,2868,,Frigo Sala dx+totem,2,Fornitore: TOLM,True
+wine_01gzr4kscbtrxfra499jsfa2z0,,BOTTLE,0,9800,3032,,totem+tav10,2,Fornitore: TOLM,True
+wine_01h0f3cmbm11rs6z6r4yhqx5x1,,BOTTLE,0,9000,3114,,totem,1,Fornitore: TOLM,True
+wine_01gzr4ktfm4kwr2bqdnge80x6c,,BOTTLE,0,2500,573,,Frigo bianchi+magazzino,1,,True
+wine_01gzr4ksfkx4w8z8xwxw7dq6yf,,BOTTLE,0,3000,655,,totem+Frigo bianchi,3,,True
+wine_01h0my5sw2dt3gdvtddnbhs520,,BOTTLE,0,3000,0,,s1,5,,True
+wine_01h4pmmg02ts8qbjv7gzrwessm,,BOTTLE,0,2100,655,,Frigo Sala sx+totem,8,,True
+wine_01jz2jds3rj5s21f2g59qg7a81,,BOTTLE,0,0,81,,tav10-top,1,,True
+wine_01gzr4kssxfy7d1674hghvcmfh,,BOTTLE,0,4800,1721,,totem,2,,True
+wine_01gzr4ktgg4n5wqs04m12a2py7,,BOTTLE,0,3900,1065,,totem,5,,True
+wine_01jz2k7spg92h1qdzsb43x492q,,BOTTLE,0,3500,1229,,totem+ingresso,35,Fornitore: GIV,True
+wine_01jz2kenwzg6jwq1j2z76az846,,BOTTLE,0,4500,1311,,Frigo Sala dx+totem+ingresso,20,,True
+wine_01h0qsxn5kx1b488zssae6bjm8,,BOTTLE,0,4000,1393,,totem,0,,True
+wine_01h0qzm19dddzzbv4yk0g1v049,,BOTTLE,0,4500,1639,,totem,1,,True
+wine_01h0qzm23hyxkaex30ewe7619k,,BOTTLE,0,3500,1147,,totem,1,,True
+wine_01jz2kmb974x6egb3csk8hbfxy,,BOTTLE,0,0,0,,tav10,1,,True
+wine_01jz2krrhk403q2q7jxfvyeree,,BOTTLE,0,0,0,,tav10+totem+totem,2,,True
+wine_01jz2kwn2ckhtd0914p39pybwg,,BOTTLE,0,9500,3442,,totem+totem,4,,True
+wine_01h0r2pq9b722xws08gjdh23ch,,BOTTLE,0,0,0,,tav10,2,,True
+wine_01h0f3cmbqnvdq5kscwabbx3c1,,BOTTLE,0,0,0,,totem+totem,1,,True
+wine_01h0sq48spzg1zrkmkpjtk820w,,MAGNUM,0,0,4918,,tra frigo e tav11,1,,True
+wine_01havwedmtvvw3cbs1p3221dya,,BOTTLE,0,10000,3606,,totem,1,Fornitore: GIV,True
+wine_01gzr4ks64rxrjyjxd4za3j27p,,BOTTLE,0,9500,2868,,Frigo Sala dx+totem+tav10,4,Fornitore: TOLM,True
+wine_01jz2p9ha2wdqtfptysh53rpe0,,BOTTLE,0,30000,13524,,Frigo Sala dx+tav10,14,Fornitore: Friends,True
+wine_01jz2pgp4312bnjw9eer81sa42,,BOTTLE,0,12000,4180,,Frigo Sala dx+totem,6,,True
+wine_01gzr4ks63dw1mz9w5ezwc97av,,BOTTLE,0,10000,3114,,Frigo Sala dx,1,Fornitore: TOLM,True

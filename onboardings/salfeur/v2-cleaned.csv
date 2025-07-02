@@ -1,0 +1,323 @@
+external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantity,storage_area,internal_notes,visible,EK
+,SPARKLING,Haderburg Brut ,Haderburg ,,0.75,0,4900,1950,50,,,True,19.5
+,SPARKLING,Haderburg Pas Dose` ,Haderburg ,,0.75,0,5200,2600,50,,,True,26.0
+,SPARKLING,Franciacorta Cuvée Brut ,Bellavista ,,0.75,0,5100,2750,50,,,True,27.5
+,SPARKLING,Franciacorta Satin ,Bellavista ,,0.75,0,6300,3990,50,,,True,39.9
+,,Prosecco Brut Zero 26° Primo ,Andreola ,,0.75,0,3400,880,50,,,True,8.8
+,SPARKLING,Prosecco Brut Col del Forno ,Andreola ,,0.75,0,3400,880,50,,,True,8.8
+,SPARKLING,Prosecco Extra Dry Mas de Fer ,Andreola ,,0.75,0,3400,880,50,,,True,8.8
+,SPARKLING,Ferrari Maximum Brut ( Trento doc ) ,Ferrari,,0.75,0,6000,2090,50,,,True,20.9
+,,Trento Doc Blauwal Rose`,Cesconi,,0.75,0,50,2690,50,,,True,26.9
+,,Trento Doc Blauwal Extra Brut,Cesconi,,0.75,0,49,1950,50,,,True,19.5
+,SPARKLING,Ruinart Brut ,Ruinart,,0.75,0,9800,3390,50,,,True,33.9
+,SPARKLING,Ruinart Rose`,Ruinart,,0.75,0,14000,4990,50,,,True,49.9
+,SPARKLING,Bollinger Brut ,Bollinger,,0.75,0,10500,5790,50,,,True,57.9
+,SPARKLING,Dom Perignon Brut ,Dom Perignon,,0.75,0,27000,21500,50,,,True,215.0
+,SPARKLING,Krug Gran Cuvée Brut ,Krug,,0.75,0,25800,20900,50,,,True,209.0
+,SPARKLING,Moet & Chandon Ice Imperial ,Moet & Chandom,,0.75,0,10500,5900,50,,,True,59.0
+,WHITE,Chardonnay Turmhof,Tiefenbrunner,,0.75,0,4100,1400,50,,,True,14.0
+,WHITE,Chardonnay Lafoa,Schreckbichl,,0.75,0,4600,1989,50,,,True,19.9
+,WHITE,Chardonnay St. Valentin,St. Michael,,0.75,0,4600,1939,50,,,True,19.4
+,WHITE,Chardonnay Cardellino,Elena Walch,,0.75,0,3900,1440,50,,,True,14.4
+,WHITE,Chardonnay Riserva,Happacherhof,,0.75,0,4100,1689,50,,,True,16.9
+,WHITE,Chardonnay,Lageder,,0.75,0,3400,944,50,,,True,9.45
+,WHITE,Gewürztraminer Kolbenhofer,Hofstätter,,0.75,0,5300,2490,50,,,True,24.9
+,WHITE,Gewürztraminer Lafoa,Schreckbichl,,0.75,0,4600,1889,50,,,True,18.9
+,WHITE,Gewürtztraminer St. Valentin,St. Michael,,0.75,0,4600,1939,50,,,True,19.4
+,WHITE,Gewürztraminer Campaner,Kellerei Kaltern,,0.75,0,3700,1130,50,,,True,11.3
+,WHITE,Gewürztraminer Nussbaumer,Kellerei Tramin,,0.75,0,4800,2150,50,,,True,21.5
+,WHITE,Gewürztraminer Gumphof,Gumphof,,0.75,0,3900,1450,50,,,True,14.5
+,WHITE,Terlaner Sauvignon,Messnerhof,,0.75,0,3800,1350,50,,,True,13.5
+,WHITE,Sauvignon Lafoa,Schreckbichl,,0.75,0,4500,1889,50,,,True,18.9
+,WHITE,Sauvignon St. Valentin,St. Michael,,0.75,0,4600,1939,50,,,True,19.4
+,WHITE,Sauvignon Graf von Meran,Kellerei Meran,,0.75,0,3600,1100,50,,,True,11.0
+,WHITE,Sauvignon Oberberg,Kornellhof,,0.75,0,4800,2100,50,,,True,21.0
+,WHITE,Sauvignon riserva Renaissance,Gumphof,,0.75,0,5800,3090,50,,,True,30.9
+,,Sauvignon Quarz,Terlan,,0.75,0,6400,3629,50,,,True,36.3
+,WHITE,Kerner Praepusitus,Neustift,,0.75,0,4200,1590,50,,,True,15.9
+,WHITE,Kerner Riserva Aurona,Laimburg,,0.75,0,4600,1689,50,,,True,16.9
+,WHITE,Kerner,Taschlerhof,,0.75,0,3900,1190,50,,,True,11.9
+,WHITE,Sylvaner,Pacherhof,,0.75,0,3900,1350,50,,,True,13.5
+,,Sylvaner Alte Reben,Pacherhof,,0.75,0,4700,2100,50,,,True,21.0
+,WHITE,Veltliner,Garlieder,,0.75,0,3800,1250,50,,,True,12.5
+,WHITE,Riesling,Laimburg,,0.75,0,3700,1620,50,,,True,16.2
+,WHITE,Riesling,Pacherhof,,0.75,0,4300,1500,50,,,True,15.0
+,WHITE,Pinot grigio Porer,Lageder,,0.75,0,4300,1500,50,,,True,15.0
+,WHITE,Pinot grigio,Koblerhof,,0.75,0,3600,1030,50,,,True,10.3
+,WHITE,Pinot grigio St. Valentin,St. Michael,,0.75,0,4900,1939,50,,,True,19.4
+,WHITE,Pinot grigio Unterebner,Kellerei Tramin,,0.75,0,4600,1980,50,,,True,19.8
+,WHITE,Pinot bianco Vorberg,Kellerei Terlan,,0.75,0,4900,2290,50,,,True,22.9
+,WHITE,Pinot bianco Versalto,Alois Lageder,,0.75,0,4100,1445,50,,,True,14.45
+,WHITE,Pinot bianco Schulthauser,St. Michael,,0.75,0,3500,1000,50,,,True,10.0
+,WHITE,Pinot bianco Strahler,Stroblhof,,0.75,0,3800,1250,50,,,True,12.5
+,WHITE,Pinot bianco Verena,Nicolussi Leck,,0.75,0,3600,1019,50,,,True,10.2
+,WHITE,Weissburgunder riserva Renaissance,Gumphof,,0.75,0,5500,2990,50,,,True,29.9
+,WHITE,Weissburgunder,Lieselehof,,0.75,0,4300,1689,50,,,True,16.9
+,WHITE,Müller Thurgau Feldmarschall,Tiefenbrunner,,0.75,0,6200,3990,50,,,True,39.9
+,WHITE,Müller Thurgau,Pacherhof,,0.75,0,3700,1440,50,,,True,14.4
+,WHITE,Weiss Private,Pacherhof,,0.75,0,5500,2790,50,,,True,27.9
+,WHITE,Reserve della Contessa,Manincor,,0.75,0,4000,1430,50,,,True,14.3
+,WHITE,Amistar Bianco Cuveè,Peter Sölva,,0.75,0,5200,2030,50,,,True,20.3
+,WHITE,Grand Cuvee` I°,Kellerei Terlan,,0.75,0,21500,14000,50,,,True,140.0
+,WHITE,Appius,St. Michael,,0.75,0,14000,9900,50,,,True,99.0
+,WHITE,Pfefferer,Schreckbichl,,0.75,0,3300,760,50,,,True,7.6
+,WHITE,Lugana S. Christina,Zenato,,0.75,0,3700,1130,50,,,True,11.3
+,WHITE,Nosiola Fontanasanta,Foradori,,0.75,0,5000,2400,50,,,True,24.0
+,,Lagrein Rose` Lageder,Lageder,,0.75,0,3500,994,50,,,True,9.95
+,,La Rose de Manincor,Manincor,,0.75,0,4200,1550,50,,,True,15.5
+,,Merlot rose`,Koblerhof,,0.75,0,3700,1190,50,,,True,11.9
+,,"Flaschenpost 0,5 lt",Sölva & Kofler,,0.5,0,2900,770,50,,,True,7.7
+,,Perrose`,Peter Sölva,,0.75,0,4000,1120,50,,,True,11.2
+,,Rosa dei Masi ,Masi ,,0.75,0,3400,980,50,,,True,9.8
+,,Bolgheri rosato Cassiopea,Poggio al Tesoro,,0.75,0,4200,1040,50,,,True,10.4
+,RED,Vernatsch Mediaevum,Gumphof,,0.75,0,3500,950,50,,,True,9.5
+,RED,Kalterer See Alexander,Nikolussi Leck,,0.75,0,3500,919,50,,,True,9.2
+,RED,Kalterersee Superior,Seeperle,,0.75,0,3500,1400,50,,,True,14.0
+,RED,St. Magdalena Huck am Bach,Kellerei Bozen,,0.75,0,3400,840,50,,,True,8.4
+,RED,St. Magdalena,Kandlerhof,,0.75,0,3600,1080,50,,,True,10.8
+,RED,Dona`Rouge,Hartmann Dona`,,0.75,0,4700,2090,50,,,True,20.9
+,RED,Zweigelt Mitterberg,Marinushof,,0.75,0,3800,1330,50,,,True,13.3
+,RED,Blauburgunder Schwarze Mandonna,Klosterhof,,0.75,0,4500,1880,50,,,True,18.8
+,,Blauburgunder Schwarze Mandonna Riserva,Klosterhof,,0.75,0,55,3000,50,,,True,30.0
+,RED,Blauburgunder Riserva Mazon,Hofstätter,,0.75,0,5400,2690,50,,,True,26.9
+,RED,Blauburgunder St . Urban,Hofstätter,,0.75,0,7800,4580,50,,,True,45.8
+,RED,Blauburgunder Riserva Thalmann,Kellerei Bozen,,0.75,0,4500,1920,50,,,True,19.2
+,,Blauburgunder Artur,Seeperle,,0.75,0,45,1950,50,,,True,19.5
+,RED,Blauburgunder Krafuss,Alois Lageder,,0.75,0,6600,3745,50,,,True,37.45
+,RED,Blauburgunder Ponkler,Franz Haas,,0.75,0,10200,7200,50,,,True,72.0
+,RED,Blauburgunder Riserva Selection,Gottardi,,0.75,0,9100,4500,50,,,True,45.0
+,,Blauburgunder Riserva Curlan,Girlan,,0.75,0,102,6200,50,,,True,62.0
+,,Blauburgunder Riserva,Wildmonn,,0.75,0,99,5990,50,,,True,59.9
+,,Blauburgunder Riserva Aegis,Kollerhof,,0.75,0,91,4250,50,,,True,42.5
+,RED,Cabernet Riserva Mumelter,Kellerei Bozen,,0.75,0,5200,2750,50,,,True,27.5
+,RED,Cabernet Riserva Löwengang,Lageder,,0.75,0,9000,5650,50,,,True,56.5
+,RED,Cabernet Lafoa,Schreckbichl,,0.75,0,89,5500,50,,,True,55.0
+,RED,Cabernet Riserva Quintessenz,Kellerei Kaltern,,0.75,0,5000,2560,50,,,True,25.6
+,RED,Cabernet Turmhof,Tiefenbrunner,,0.75,0,4100,1510,50,,,True,15.1
+,,Cabernet Riserva Höhepunkt,Seeperle,,0.75,0,7200,4200,50,,,True,42.0
+,RED,Cabernet Riserva,Waldtaler,,0.75,0,3900,1390,50,,,True,13.9
+,RED,Lagrein Greif,Kornellhof,,0.75,0,3500,940,50,,,True,9.4
+,RED,Lagrein Barbagol,Laimburg,,0.75,0,4500,1880,50,,,True,18.8
+,RED,Lagrein Perlhof,Kellerei Bozen,,0.75,0,3700,1100,50,,,True,11.0
+,RED,Lagrein Taber,Kellerei Bozen,,0.75,0,6000,3190,50,,,True,31.9
+,RED,Lagrein Prestige,Kellerei Bozen,,0.75,0,4500,1920,50,,,True,19.2
+,RED,Lagrein Carano,Baron di Pauli,,0.75,0,4700,2240,50,,,True,22.4
+,RED,Lagrein,Fliederhof,,0.75,0,3700,1150,50,,,True,11.5
+,RED,Lagrein Praepositus,Neustift,,0.75,0,5000,2350,50,,,True,23.5
+,RED,Lagrein St. Valentin,St. Michael,,0.75,0,5200,2500,50,,,True,25.0
+,RED,Lagrein Riserva Abtei muri,Muri Gries,,0.75,0,4700,2090,50,,,True,20.9
+,RED,Lagrein Gries,Schreckbichl,,0.75,0,4900,2240,50,,,True,22.4
+,,Lagrein riserva Furggl,Zemmer,,0.75,0,42,1800,50,,,True,18.0
+,RED,Lagrein Mirell,Waldgries,,0.75,0,5800,3240,50,,,True,32.4
+,,Lagrein Porphyr,Terlan,,0.75,0,6800,3450,50,,,True,34.5
+,RED,Lamarein,Unterganzner,,0.75,0,10800,5600,50,,,True,56.0
+,RED,Lagrein Riserva Ronc,Greisbauer,,0.75,0,4600,2090,50,,,True,20.9
+,RED,Roblinus,Waldgries,,0.75,0,10300,7030,50,,,True,70.3
+,RED,Lagrein Ris. Gloria,Nusserhof,,0.75,0,7800,4700,50,,,True,47.0
+,RED,Lagrein Ris Klosteranger,Muri Gries,,0.75,0,8500,5200,50,,,True,52.0
+,RED,Lagrein Riserva Perflabilis,Griesbauer,,0.75,0,104,6200,50,,,True,62.0
+,RED,T(y)eroldego,Nusserhof,,0.75,0,5200,2400,50,,,True,24.0
+,RED,Merlot ris Siebeneich,Kellerei Bozen,,0.75,0,4900,2300,50,,,True,23.0
+,RED,Merlot ris Siebeneich,Schreckbichl,,0.75,0,4200,1689,50,,,True,16.9
+,RED,Merlot ris Staffes,Kornellhof,,0.75,0,4500,1850,50,,,True,18.5
+,RED,Merlot Quirinus,St. Quirinus,,0.75,0,4100,1350,50,,,True,13.5
+,,Merlot riserva Punggl,Zemmer,,0.75,0,45,1700,50,,,True,17.0
+,RED,Merlot ris Gant,Andrianer Kellerei,,0.75,0,6700,3520,50,,,True,35.2
+,RED,Merlot Nussleiten,Salegg,,0.75,0,6300,3450,50,,,True,34.5
+,RED,Merlot MMIII,Lageder,,0.75,0,6400,3400,50,,,True,34.0
+,RED,Merlot Ris Lona,St. Pauls,,0.75,0,6900,4000,50,,,True,40.0
+,RED,Merlot Kressfeld,Kornellhof,,0.75,0,7600,4500,50,,,True,45.0
+,RED,Loam,Tramin,,0.75,0,5900,3390,50,,,True,33.9
+,RED,Cassiano,Manincor,,0.75,0,5700,2620,50,,,True,26.2
+,RED,Cornelius rosso,Schreckbichl,,0.75,0,4800,2220,50,,,True,22.2
+,RED,Arzio,Baron di Pauli,,0.75,0,5600,2880,50,,,True,28.8
+,RED,Iugum,Peter Dipoli,,0.75,0,6300,3500,50,,,True,35.0
+,RED,Kermesse Grand Cuvèe,Elena Walch,,0.75,0,7300,4780,50,,,True,47.8
+,RED,Calldiv Prestige,Von Braunbach,,0.75,0,3700,1350,50,,,True,13.5
+,RED,Learn,Glassierhof,,0.75,0,59,2430,50,,,True,24.3
+,RED,Linticlarus Cuvee`,Tiefenbrunner,,0.75,0,62,3090,50,,,True,30.9
+,RED,Mauritius,Kellerei Bozen,,0.75,0,58,2750,50,,,True,27.5
+,RED,Kirchegg,Hofstätter,,0.75,0,4000,1470,50,,,True,14.7
+,RED,Composition Reif,Mayr - Unterganzner,,0.75,0,7800,3240,50,,,True,32.4
+,RED,Viribus Unitis,Sölva / Kofler,,0.75,0,7800,4900,50,,,True,49.0
+,RED,Belleus,Messnerhof,,0.75,0,4300,1760,50,,,True,17.6
+,RED,Col de Rey,Laimburg,,0.75,0,5600,2820,50,,,True,28.2
+,RED,Cuvee` Tirolensis rot,Tirolensis Ars Vini,,0.75,0,6200,3600,50,,,True,36.0
+,RED,Il Secondo,Peter Sölva,,0.75,0,3800,1170,50,,,True,11.7
+,,Planties Rot ( Pivi),S. Quirinus,,0.75,0,6000,2990,50,,,True,29.9
+,RED,Soma,Kurtatsch,,0.75,0,4400,1920,50,,,True,19.2
+,RED,S. Leonardo,S. Leonardo,,0.75,0,10500,6950,50,,,True,69.5
+,RED,Marzemino superiore d`isera,Vivallis,,0.75,0,3400,890,50,,,True,8.9
+,RED,Teroldergo,Foradori,,0.75,0,4100,1530,50,,,True,15.3
+,RED,Teroldego Granato,Foradori,,0.75,0,7400,4400,50,,,True,44.0
+,RED,Teroldego Morei,Foradori,,0.75,0,5100,2410,50,,,True,24.1
+,RED,Teroldego Sgarzon,Foradori,,0.75,0,5100,2410,50,,,True,24.1
+,RED,Bardolino Classico Brol Grande,Le Fraghe,,0.75,0,3700,1150,50,,,True,11.5
+,RED,Valpollicella Superiore Ripassa,Zenato,,0.75,0,4200,1580,50,,,True,15.8
+,RED,Campofiorin ( Ripasso ),Masi,,0.75,0,3800,1210,50,,,True,12.1
+,RED,Campofiorin Brolo Oro ( Ripasso ),Masi,,0.75,0,4200,1560,50,,,True,15.6
+,RED,"Primofiore ( Cab. Sauv., Cab. Franc,",Quintarelli,,0.75,0,8000,4150,50,,,True,41.5
+,RED,Amarone classico,Zenato,,0.75,0,8000,4079,50,,,True,40.8
+,RED,Amarone Riserva,Zenato,,0.75,0,14000,8000,50,,,True,80.0
+,RED,Amarone Classico vecchie annate,Masi,,0.75,0,205,10000,50,,,True,100.0
+,RED,Amarone Costasera,Masi,,0.75,0,8000,3599,50,,,True,35.99
+,RED,Amarone Campolongo,Masi,,0.75,0,16500,8800,50,,,True,88.0
+,RED,Amarone Mazzano,Masi,,0.75,0,14000,8000,50,,,True,80.0
+,RED,Amarone Monte S. Urbano,Speri,,0.75,0,7400,4450,50,,,True,44.5
+,RED,Amarone Ca Florian,Tommasi,,0.75,0,9900,5380,50,,,True,53.8
+,RED,Amarone,Monte Dall`Ora,,0.75,0,7100,4200,50,,,True,42.0
+,RED,Amarone Vaio Amaron,Masi,,0.75,0,9800,5650,50,,,True,56.5
+,RED,Amarone classico,Allegrini,,0.75,0,9900,5999,50,,,True,59.99
+,RED,Chianti classico Castellare,Castellina,,0.75,0,4100,1370,50,,,True,13.7
+,RED,Chianti classico Gran Selezione S. Lorenzo,Castello di Ama,,0.75,0,6900,4000,50,,,True,40.0
+,RED,Chianti classico Ducale oro,Ruffino,,0.75,0,5200,2450,50,,,True,24.5
+,RED,Chianti Badia Passignano,Antinori,,0.75,0,7500,3890,50,,,True,38.9
+,RED,Chianti classico,Fonterutoli,,0.75,0,4300,1530,50,,,True,15.3
+,RED,Chianti ,Castell`in Villa,Verticale annate 85/95/05,0.75,0,43000,0,50,,,True,0.0
+,RED,Chianti classico Vigneto Bellavista,Castello di Ama,,0.75,0,247,0,50,,,True,0.0
+,RED,Chianti classico La Casuccia,Castello di Ama,,0.75,0,247,0,50,,,True,0.0
+,RED,Chianti Marchese Antinori,Antinori,,0.75,0,5800,2720,50,,,True,27.2
+,RED,Rosso di montalcino,Casanova di Neri,,0.75,0,4600,1989,50,,,True,19.9
+,RED,Brunello Greppone Mazzi,Ruffino,,0.75,0,6500,3590,50,,,True,35.9
+,RED,Brunello di Montalcino,Uccelliera,,0.75,0,7500,4100,50,,,True,41.0
+,,Brunello di Montalcino,Argiano,,0.75,0,130,5900,50,,,True,59.0
+,RED,Nobile di Montepulciano,Boscarelli,,0.75,0,4700,2090,50,,,True,20.9
+,RED,Nobile di Montepulciano,Avignonesi,,0.75,0,4600,1750,50,,,True,17.5
+,RED,Nobile di M. Le Grandi Annate,Avignonesi,,0.75,0,11200,7200,50,,,True,72.0
+,RED,Morellino Riserva,Le Pupille,,0.75,0,4100,1510,50,,,True,15.1
+,RED,Canaiolo,Bibi Graetz,,0.75,0,138,8000,50,,,True,80.0
+,,Sangiovese Villaggio Rocca d`Orcia,Podere Forte,,0.75,0,40,2000,50,,,True,20.0
+,RED,Ampeleia,Ampeleia,,0.75,0,4500,2700,50,,,True,27.0
+,,Pertruccino Orcia,Podere Forte,,0.75,0,6000,3400,50,,,True,34.0
+,,Petrucci Melo,Podere Forte,,0.75,0,19000,12000,50,,,True,120.0
+,RED,Bolgheri rosso,Michele Satta,,0.75,0,4300,1400,50,,,True,14.0
+,RED,Soffocone,Bibi Graetz,,0.75,0,5300,2800,50,,,True,28.0
+,,Bolgheri superiore Sondraia,Poggio al Tesoro,,0.75,0,7400,4200,50,,,True,42.0
+,RED,Testamatta,Bibi Graetz,,0.75,0,12200,7390,50,,,True,73.9
+,,Volta di Bertinga,Bertinga,,0.75,0,15000,8500,50,,,True,85.0
+,,Duemani Cabernet Franc,Duemani,,0.75,0,9800,5300,50,,,True,53.0
+,RED,Cabreo il Borgo,Tenute del Cabreo,,0.75,0,6000,3350,50,,,True,33.5
+,RED,Le serre Nuove dell` Ornellaia,Tenuta Ornellaia,,0.75,0,9000,4690,50,,,True,46.9
+,RED,Guidalberto,Tenuta S. Guido,,0.75,0,8500,4150,50,,,True,41.5
+,,Flaccianello della Pieve,Fontodi,,0.75,0,120,5855,50,,,True,58.55
+,,Suisassi Syrah,Duemani,,0.75,0,83,4700,50,,,True,47.0
+,RED,Tignanello,Antinori,,0.75,0,20500,10300,50,,,True,103.0
+,RED,Le pergole Torte,Montevertine,,0.75,0,280,22500,50,,,True,225.0
+,RED,Luce della Vite,Frescobaldi,,0.75,0,17500,9600,50,,,True,96.0
+,RED,Testamatta verticale,Bibi Graetz,,0.75,0,36500,24000,50,,,True,240.0
+,RED,50 & 50,Avignonesi & Capanelle,,0.75,0,160,10800,50,,,True,108.0
+,RED,Ornellaia,Tenuta Ornellaia,,0.75,0,26500,16000,50,,,True,160.0
+,RED,Sassicaia,Tenuta S. Guido,,0.75,0,31200,19900,50,,,True,199.0
+,RED,Solaia,Antinori,,0.75,0,420,34000,50,,,True,340.0
+,RED,Desiderio,Avignonesi,,0.75,0,6800,3690,50,,,True,36.9
+,RED,Guado al Tasso,Antinori,,0.75,0,16000,9975,50,,,True,99.75
+,RED,Il Bruciato,Antinori,,0.75,0,4900,2020,50,,,True,20.2
+,RED,33 vendemmie,Castellare,,0.75,0,109,6190,50,,,True,61.9
+,RED,I sodi di San Nicolo,Castellare,,0.75,0,11800,6700,50,,,True,67.0
+,RED,Il concerto di Fonterutoli,Mazzei,,0.75,0,8300,4990,50,,,True,49.9
+,RED,Il Pino di Biserno,Tenuta di Biserno,,0.75,0,7900,4450,50,,,True,44.5
+,RED,Biserno,Tenuta di Biserno,,0.75,0,204,13600,50,,,True,136.0
+,RED,L` Apparita,Castello Ama,,0.75,0,28000,18900,50,,,True,189.0
+,RED,Barolo Undicicomuni,Arnaldo Rivera,,0.75,0,58,2460,50,,,True,24.6
+,RED,Barolo,Borgogno,,0.75,0,72,3800,50,,,True,38.0
+,RED,Barolo Ornato,Pio Cesare,,0.75,0,150,9300,50,,,True,93.0
+,RED,Barolo Dagromis,Gaja,,0.75,0,10800,7290,50,,,True,72.9
+,,Barolo Enrico VI,Codero di Montezemolo,,0.75,0,13000,8000,50,,,True,80.0
+,,Barolo Margheria,Massolino,,0.75,0,109,4500,50,,,True,45.0
+,RED,"Sito Moresco (Nebbiolo, Barbera, Merlot)",Gaja,,0.75,0,7900,4250,50,,,True,42.5
+,RED,"Pin Monferrato Rosso ( Nebbiolo, Barbera )",La Spinetta,,0.75,0,6200,2750,50,,,True,27.5
+,RED,Barbera d` Alba Superiore Ad Majora,San Biagio,,0.75,0,3700,990,50,,,True,9.9
+,RED,Dolcetto d`Alba,Illuminata,,0.75,0,3400,975,50,,,True,9.75
+,RED,Nebbiolo Langhe,Elio Grasso,,0.75,0,4400,1650,50,,,True,16.5
+,RED,Barbaresco Lorens,Lodali,,0.75,0,6800,3500,50,,,True,35.0
+,RED,Barbera d`Asti Montebruna,Braida,,0.75,0,4200,1370,50,,,True,13.7
+,RED,Barbera d`Asti Bricco dell`uccellone,Braida,,0.75,0,8000,4750,50,,,True,47.5
+,RED,Nebbiolo Sori`Tildin,Gaja,,0.75,0,61000,45000,50,,,True,450.0
+,RED,Barolo Sperss,Gaja,,0.75,0,31000,19000,50,,,True,190.0
+,RED,Barbaresco,Gaja,,0.75,0,32000,21000,50,,,True,210.0
+,RED,Lambrusco dolce I Quercioli,Medici Ermete,,0.75,0,2600,434,50,,,True,4.35
+,RED,Sagrantino di Montefalco Collepiano,Arnaldo Caprai,,0.75,0,5200,2090,50,,,True,20.9
+,RED,Turriga Isola dei Nuragi,Argiolas,,0.75,0,11200,7900,50,,,True,79.0
+,RED,Tancredi,Donnafugata,,0.75,0,5300,2690,50,,,True,26.9
+,RED,Mille e una Notte,Donnafugata,,0.75,0,8200,4790,50,,,True,47.9
+,RED,Cerasuolo di Vittoria,Planeta,,0.75,0,3500,910,50,,,True,9.1
+,RED,Primitivo di Manduria Raccontami,Vespa,,0.75,0,4600,1920,50,,,True,19.2
+,,Chardonnay Lafoa,Schreckbichl,,0.375,0,2900,1290,50,,,True,12.9
+,,Sauvignon St Valentin,St. Michael,,0.375,0,2600,1190,50,,,True,11.9
+,,Flaschenpost Rose`,Andy Sölva & N. Kofler,,0.5,0,2400,770,50,,,True,7.7
+,,Merlot ris Siebeneich,Schreckbichl,,0.375,0,2600,1070,50,,,True,10.7
+,,Amistar Rosso,Peter Sölva,,0.375,0,3100,1500,50,,,True,15.0
+,,Cornelius rosso,Schreckbichl,,0.375,0,2900,1395,50,,,True,13.95
+,,Lagrein Riserva Anton,Schmid,,0.375,0,3000,1490,50,,,True,14.9
+,,Cabernet Istrice,Elena Walch,,0.375,0,2600,1080,50,,,True,10.8
+,,Chianti Fonterutoli,Mazzei,,0.375,0,2600,990,50,,,True,9.9
+,,Bolgheri Rosso Poggio al Tesoro,Il Seggio,,0.375,0,2600,1050,50,,,True,10.5
+,,Cabreo,Tenuta Il Borgo,,0.375,0,3500,1600,50,,,True,16.0
+,, Insoglio,Tenuta Biserno,,0.375,0,2800,1050,50,,,True,10.5
+,,Barolo Dagromis,Gaja,,0.375,0,5800,3600,50,,,True,36.0
+,,Amarone classico,Zenato,,0.375,0,4200,2300,50,,,True,23.0
+,,Sito Moresco,Gaja,,0.375,0,3800,2030,50,,,True,20.3
+,,Nobile di Montepulciano,Boscarelli,,0.375,0,2900,1200,50,,,True,12.0
+,,Ornellaia,Tenuta Ornellaia,,0.375,0,15000,10900,50,,,True,109.0
+,DESSERT,Epokale,Kellerei Tramin,,0.75,0,43000,33000,50,,,True,330.0
+,DESSERT,Comtess,St. Michael,,0.375,0,4500,2330,50,,,True,23.3
+,DESSERT,Le Petit Manincor,Manincor,,0.375,0,5900,3750,50,,,True,37.5
+,DESSERT,Moscato Rosa Praepositus,Neustift,,0.375,0,4000,2220,50,,,True,22.2
+,DESSERT,Saphir,Laimburg,,0.375,0,4400,2350,50,,,True,23.5
+,DESSERT, Eiswein,Dr. Loosen,,0.187,0,4200,2900,50,,,True,29.0
+,,Lagrein passito Paul,Kiemberger,,0.375,0,4500,2750,50,,,True,27.5
+,DESSERT,Rosis,Kellerei Bozen,,0.375,0,3900,1800,50,,,True,18.0
+,DESSERT,Vin Santo,Castello di Ama,,0.375,0,5800,3500,50,,,True,35.0
+,DESSERT,Ben Rye`,Donnafugata,,0.375,0,4400,2650,50,,,True,26.5
+,DESSERT,Chateau d`yquem Sauternes,Chateau d`Yquem,,0.375,2000,45000,0,50,,,True,0.0
+,DESSERT,Tokaji Eszencia,Oremus,,0.375,0,31200,0,50,,,True,0.0
+,,Lagrein Prestige ,Kellerie Bozen,,1.5,0,115,4800,50,,,True,48.0
+,,Cabernet riserva Mumelter ,Kellerei Bozen,,1.5,0,125,5750,50,,,True,57.5
+,,Merlot Staves,Kornellhof,,1.5,0,95,4300,50,,,True,43.0
+,,Lagrein Riserva Furggl ,Peter Zemmer,,1.5,0,95,4000,50,,,True,40.0
+,,Lagrein Abtei Muri,Abtei Muri,,1.5,0,100,4750,50,,,True,47.5
+,,Lagrein Klosteranger ,Abtei Muri,,1.5,0,170,10300,50,,,True,103.0
+,,Lagrein Mirell ,Ansitz Waldgries,,1.5,0,130,7200,50,,,True,72.0
+,,Lamarein ,Unterganzner,,1.5,0,240,12900,50,,,True,129.0
+,,Amistar Rot ,Peter Sölva,,1.5,0,125,5000,50,,,True,50.0
+,,Cassiano,Manincor,,1.5,0,145,7800,50,,,True,78.0
+,,Soma,Kurtatsch,,1.5,0,105,4150,50,,,True,41.5
+,,Feldherr,Lieselehof,,1.5,0,120,4700,50,,,True,47.0
+,,Composition Reif,Unterganzner,,1.5,0,180,8900,50,,,True,89.0
+,,Teroldego ,Foradori,,1.5,0,95,3100,50,,,True,31.0
+,,Teroldego Sgarzon ,Foradori,,1.5,0,110,4200,50,,,True,42.0
+,,Fojaneghe ,Conti Bossi Fedrigotti,,1.5,0,95,3200,50,,,True,32.0
+,,Campofiorin Brolo ,Masi,,1.5,0,90,2800,50,,,True,28.0
+,,Amarone Vajo Amaron ,Serego Alighieri Masi,,1.5,0,180,8900,50,,,True,89.0
+,,Amarone Campolongo di Torbe ,Masi,,1.5,0,350,19500,50,,,True,195.0
+,,Amarone Costasera Riserva ,Masi,,1.5,0,210,12400,50,,,True,124.0
+,,Amarone Costasera ,Masi,,1.5,0,180,10200,50,,,True,102.0
+,,Chianti Marchese Antinori ,Antinori,,1.5,0,130,5900,50,,,True,59.0
+,,Chianti Badia a passignano,Antinori,,1.5,0,160,6900,50,,,True,69.0
+,,Chianti classico ,Fonterutoli Mazzei,,1.5,0,120,4500,50,,,True,45.0
+,,Chiandi classico S. Lorenzo ,Castello Ama,,1.5,0,175,8500,50,,,True,85.0
+,,Chianti classico Castellina,Castellare,,1.5,0,110,3000,50,,,True,30.0
+,,Nobile di Montepulciano Asinone ,Poliziano,,1.5,0,185,9500,50,,,True,95.0
+,,Nobile di Montepulciano,Boscarelli,,1.5,0,110,4500,50,,,True,45.0
+,,Guado Al Tasso ,Antinori,,1.5,0,400,20000,50,,,True,200.0
+,,Merlot Volta di Bertinga,Bertinga,,1.5,0,380,19500,50,,,True,195.0
+,,Sangiovese Grandi Annate,Avignonesi,,1.5,0,250,15500,50,,,True,155.0
+,,Sangiovese Testamatta rosso Bibi Graetz,Bibi Graetz,,1.5,0,290,15000,50,,,True,150.0
+,,Sangiovese Villaggio Rocca d`Orcia,Podere Forte,,1.5,0,120,4500,50,,,True,45.0
+,,Tignanello Antinori,Antinori,,1.5,0,430,0,50,,,True,0.0
+,,Flaccianello della Pieve,Fontodi,,1.5,0,250,13300,50,,,True,133.0
+,,Le serre Nuove,Ornellaia,,1.5,0,195,11500,50,,,True,115.0
+,,Il Pino,Tenuta di Biserno,,1.5,0,190,9950,50,,,True,99.5
+,,Merlot L` apparita,Castello di Ama,,1.5,0,530,36000,50,,,True,360.0
+,,Bolgheri rosso il Seggio,Poggio al tesoro,,1.5,0,110,3750,50,,,True,37.5
+,,Bolgheri rosso,Michele Satta,,2.5,0,95,3300,50,,,True,33.0
+,,Mille e una notte,Donnafugata,,1.5,0,170,9800,50,,,True,98.0
+,,Barolo Bricco delle Viole ,G. D. Vajra,,1.5,0,220,14000,50,,,True,140.0
+,,Barbaresco Lorens ,Lodali,,1.5,0,160,8000,50,,,True,80.0
+,,Amarone Costasera ,Masi,,3.0,0,320,20400,50,,,True,204.0
+,,Merlot Vistorta ,Conte Br. d`Adda,,3.0,0,230,0,50,,,True,0.0
+,,Barbera d`Asti Bricco dell`Uccellone,Braida,,3.0,0,180,0,50,,,True,0.0
+,,Testamatta Bibi Graetz,Bibi Graetz,,3.0,0,580,0,50,,,True,0.0
+,,Cabernet Lafoa ,Schreckbichl,,6.0,0,480,0,50,,,True,0.0
+,,Cabernet Campaner,Kellerei Kaltern,,12.0,0,400,0,50,,,True,0.0
+,,Cabernet Lafoa ,Schreckbichl,,12.0,0,840,0,50,,,True,0.0

@@ -1,0 +1,25 @@
+TIME Pre-Process: 3' - Gabriele
+
+TIME v1-to-v2: 30' - Gabriele
+
+TIME v3-selection: 35' - Tobias
+
+TIME v4-matches: 2h 30' - Tobias
+
+--- 
+
+Insertion:
+
+Total wines: 759
+
+Automatically matched: 585
+Manually matched: 154
+Duplicates: 2
+Total inserted: 737
+Saved to onboardings/gassenhof/v5-insert-draft.csv
+
+Forwarding:
+
+To forward from matching: 20
+To forward from v2-dropped.csv: 0
+To forward from duplicates: 2

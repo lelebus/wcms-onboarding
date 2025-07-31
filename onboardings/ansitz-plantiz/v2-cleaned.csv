@@ -1,0 +1,2033 @@
+external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantity,storage_area,internal_notes,visible
+,,Passito  Château d´Yquem ,,,BOTTLE,2004,0,0,2,,Sauternes,True
+,,Passito  Château d´Yquem ,,,BOTTLE,2001,0,0,4,,Sauternes,True
+,,Passito  Cashmere Gewürztraminer Weingut Elena Walch,,,BOTTLE,2020,1900,0,0,, PASSITO ,True
+,,Passito  Cashmere Gewürztraminer Weingut Elena Walch,,,MAGNUM,2020,0,0,0,, PASSITO ,True
+,,Passito  Cashmere Gewürztraminer Weingut Elena Walch,,,HALF_BOTTLE,2020,0,0,0,, PASSITO ,True
+,,Passito  Ornus dell Ornelaia   Petit Manseng ,,,BOTTLE,2016,0,0,26,, PASSITO ,True
+,,Passito  Ornus dell Ornelaia   Petit Manseng ,,,BOTTLE,2015,0,0,4,, PASSITO ,True
+,,Passito  Ornus dell Ornelaia   Petit Manseng ,,,BOTTLE,2011,1900,0,4,, PASSITO ,True
+,,Passito  Ornus dell Ornelaia   Petit Manseng ,,,BOTTLE,2010,0,0,3,, PASSITO ,True
+,,Passito  Ornus dell Ornelaia   Petit Manseng ,,,BOTTLE,2009,0,0,1,, PASSITO ,True
+,,Passito  Rosenmuskateller Weingut Alois Lageder,,,BOTTLE,2008,1900,0,7,, PASSITO ,True
+,,Prosecco Bepin De Eto PROSECCO,,,BOTTLE,0,4100,830,60,, Superiore Brut DOCG ,True
+,,Prosecco Bepin De Eto Rosato  SPUMANTE ROSATO,,,BOTTLE,0,4300,830,60,, Millesimato ROSÉ ,True
+,,Prosecco Le Colture PROSECCO CARTIZZE,,,BOTTLE,0,5000,0,5,, Superiore DOCG ,True
+,,Moscato d´Asti Giacomo Bologna - Braida MOSCATO D´ASTI,,,BOTTLE,2024,0,0,18,,,True
+,,Moscato d´Asti Giacomo Bologna - Braida MOSCATO D´ASTI,,,BOTTLE,2022,4500,0,2,,,True
+,,Lambrusco Reggiano Medici Ermete CONCERTO ,,,BOTTLE,2021,4100,0,1,,,True
+,, Sektmanufaktur Winkler LAMM N.12,,,BOTTLE,0,5000,0,3,,,True
+,, Ferrari  Cuvée Zero ,,,BOTTLE,2015,0,0,13,,,True
+,, Ferrari  Millesime ,,,BOTTLE,2005,0,0,1,,,True
+,, Ferrari  Millesime ,,,BOTTLE,2004,0,0,1,,,True
+,, Ferrari  Millesime ,,,BOTTLE,2003,0,0,1,,,True
+,, Ferrari PERLE,,,BOTTLE,2018,6900,0,145,, MAGNUM  ,True
+,, Ferrari PERLE,,,MAGNUM,2018,0,0,12,, MAGNUM  ,True
+,, Ferrari PERLE,,,MAGNUM,2013,0,0,1,, MAGNUM  ,True
+,, Ferrari PERLE,,,MAGNUM,2011,15000,0,1,, MAGNUM  ,True
+,, Ferrari RISERVA LUNELLI,,,BOTTLE,2016,0,0,18,, MAGNUM  ,True
+,, Ferrari RISERVA LUNELLI,,,MAGNUM,2016,0,0,12,, MAGNUM  ,True
+,, Ferrari RISERVA LUNELLI,,,BOTTLE,2015,0,0,43,, MAGNUM  ,True
+,, Ferrari RISERVA LUNELLI,,,MAGNUM,2015,18000,0,1,, MAGNUM  ,True
+,, Ferrari RISERVA LUNELLI,,,BOTTLE,2012,8500,0,2,,,True
+,, Ferrari RISERVA LUNELLI,,,BOTTLE,2010,0,0,3,,,True
+,, Ferrari GIULIO FERRARI RISERVA,,,BOTTLE,2015,0,0,18,, MAGNUM  ,True
+,, Ferrari GIULIO FERRARI RISERVA,,,MAGNUM,2015,0,0,6,, MAGNUM  ,True
+,, Ferrari GIULIO FERRARI RISERVA,,,MAGNUM,2009,0,0,1,, MAGNUM  ,True
+,, Ferrari GIULIO FERRARI RISERVA,,,BOTTLE,2008,0,0,33,, MAGNUM  ,True
+,, Ferrari GIULIO FERRARI RISERVA,,,MAGNUM,2008,0,0,3,, MAGNUM  ,True
+,, Ferrari GIULIO FERRARI RISERVA,,,BOTTLE,2007,30000,0,4,,,True
+,, Ferrari GIULIO FERRARI RISERVA,,,MAGNUM,2006,39000,0,5,, MAGNUM  ,True
+,, Ferrari GIULIO FERRARI RISERVA,,,BOTTLE,2005,0,0,5,,,True
+,, Ferrari GIULIO FERRARI COLLEZIONE,,,BOTTLE,2001,75000,0,4,,,True
+,, Ferrari Bruno Lunelli ,,,BOTTLE,2006,0,0,3,,,True
+,, Ferrari ROSÉ RISERVA,,,BOTTLE,2018,0,0,18,,,True
+,, Ferrari ROSÉ RISERVA,,,BOTTLE,2017,8500,0,6,,,True
+,, Ferrari ROSÉ RISERVA,,,MAGNUM,2016,0,0,6,, MAGNUM  ,True
+,, Ferrari ROSÉ RISERVA,,,MAGNUM,2015,0,0,1,, MAGNUM  ,True
+,, Ferrari GIULIO FERRARI RISERVA ROSÉ,,,BOTTLE,2008,27000,0,6,,,True
+,, Ferrari GIULIO FERRARI RISERVA ROSÉ,,,BOTTLE,2007,0,0,5,,,True
+,, Ferrari DEMI SEC,,,BOTTLE,0,3900,0,3,,,True
+,, Ferrari Formula 1,,,MAGNUM,2022,0,0,10,, MAGNUM  ,True
+,,Champagne Legras & Haas INTUITION,,,BOTTLE,2017,7900,0,0,,,True
+,,Champagne Legras & Haas INTUITION,,,MAGNUM,2017,0,0,0,,,True
+,,Champagne Legras & Haas INTUITION,,,HALF_BOTTLE,2017,0,0,0,,,True
+,,Champagne Legras & Haas GRAND CRU ,,,BOTTLE,2023,8500,0,132,, BLANC DE BLANCS ,True
+,,Champagne Legras & Haas MILLÉSIME GRAND C.,,,BOTTLE,2012,12000,0,10,, BLANC DE BLANCS ,True
+,,Champagne Legras & Haas MILLÉSIME GRAND C.,,,BOTTLE,2011,0,0,3,, BLANC DE BLANCS ,True
+,,Champagne Legras & Haas MILLÉSIME GRAND C.,,,MAGNUM,2008,0,0,1,, BLANC DE BLANCS ,True
+,,Champagne Legras & Haas ROSÉ,,,BOTTLE,0,11500,0,33,,,True
+,,Champagne Pierree-Jouet  ,,,BOTTLE,0,8500,0,42,, BLANC DE BLANCS ,True
+,,Champagne Pierree-Jouet  ROSÉ ,,,BOTTLE,0,11500,0,6,,,True
+,,Champagne Pierree-Jouet  BELLE EPOCH ,,,BOTTLE,2015,19500,0,5,,,True
+,,Champagne Pierree-Jouet  BELLE EPOCH ,,,BOTTLE,1999,35000,0,1,,,True
+,,Champagne Billecart-Salmon  RISERVA,,,BOTTLE,0,12000,0,3,,,True
+,,Champagne Billecart-Salmon  BLANC DE BLANC ,,,BOTTLE,0,15500,7500,6,,,True
+,,Champagne Billecard-Salmon  ROSÉ,,,BOTTLE,0,14500,0,8,,,True
+,,Champagne Veuve Clicquot Ponsardin LA GRANDE DAME,,,BOTTLE,2006,26000,0,9,,,True
+,,Champagne Dom Perignon VINTAGE,,,BOTTLE,2015,0,0,12,,,True
+,,Champagne Dom Perignon VINTAGE,,,BOTTLE,2012,29500,0,30,,,True
+,,Champagne Dom Perignon VINTAGE,,,BOTTLE,2010,0,0,1,, MAGNUM ,True
+,,Champagne Dom Perignon VINTAGE,,,MAGNUM,2010,0,0,4,, MAGNUM ,True
+,,Champagne Dom Perignon VINTAGE,,,HALF_BOTTLE,2008,0,0,1,,,True
+,,Champagne Dom Perignon Plénitude 2,,,BOTTLE,2004,0,0,11,,,True
+,,Champagne Dom Perignon Plénitude 2,,,BOTTLE,2003,0,0,9,,,True
+,,Champagne Dom Perignon Plénitude 2,,,BOTTLE,2002,65000,0,4,,,True
+,,Champagne Don Perignon  GREEN ILUSIONIST brut,,,BOTTLE,2010,0,0,2,, BRUT ,True
+,,Champagne Don Perignon  ROSÉ ,,,BOTTLE,2008,56000,0,12,,,True
+,,Champagne Don Perignon  ROSÉ ILUSIONIST brut,,,BOTTLE,2006,0,0,3,, BRUT ,True
+,,Champagne Don Perignon  LADY GAGA EDITION ,,,BOTTLE,2008,0,0,3,,,True
+,,Champagne Louis Roederer CRISTAL,,,BOTTLE,2014,0,0,4,,,True
+,,Champagne Louis Roederer CRISTAL,,,BOTTLE,2012,35000,0,2,,,True
+,,Champagne Louis Roederer CRISTAL,,,BOTTLE,2000,0,0,2,,,True
+,,Champagne Louis Roederer COLLEcTION 242,,,BOTTLE,0,0,0,6,,,True
+,,Champagne Krug GRANDE CUVÉE  170th EDITION ,,,BOTTLE,0,45000,0,12,,,True
+,,Champagne Krug BRUT ROSÉ  25 éme  ,,,BOTTLE,0,45000,0,8,,,True
+,,Champagne Salon LE MESNIL  BRUT  ,,,BOTTLE,1997,150000,0,2,,,True
+,,Champagne Bollinger  SPECIAL CUVÉE ROSÉ,,,BOTTLE,0,14500,0,16,,,True
+,,Champagne Le Mesnil   GRAN CRU BRUT  BLANC DE BLANCS ,,,BOTTLE,0,0,0,1,,,True
+,,Champagne Laurent-Perrier BRUT ,,,BOTTLE,2008,0,0,3,,,True
+,,Champagne  Andre Beaufort a Ambonnay GRAN CRU ROSÉ BRUT ,,,BOTTLE,1990,0,0,3,,,True
+,,Champagne Armande De Brignac GOLD BRUT ,,,BOTTLE,0,0,0,3,,,True
+,,Champagne Pol Roger  BRUT RESERVE,,,BOTTLE,0,0,0,2,,,True
+,,Champagne Pol Roger  SIR WINSTON CHURCHILL ,,,BOTTLE,1999,0,0,3,,,True
+,,Champagne Pol Roger  ROSÉ ,,,BOTTLE,2004,0,0,1,,,True
+,,Champagne H. Billiot Fils GRAN CRU RISERVA  BRUT  ,,,BOTTLE,0,0,0,1,,,True
+,,Champagne Jacques Selosse LIEUX DITS  EXTRA BRUT  ,,,BOTTLE,2021,0,0,2,,,True
+,,Champagne Guillaume Selosse LARGILLIER  EXTRA BRUT  ,,,BOTTLE,2018,0,0,2,,,True
+,,Champagne Guillaume Selosse LARGILLIER  EXTRA BRUT  ,,,BOTTLE,2017,0,0,1,,,True
+,,Champagne Au dessus du Gros Mont ,,,BOTTLE,2018,0,0,1,,,True
+,,Thomas Niedermayr Hof Gandberg Sonnrain T.N. 99 Gandberg,,BIO,BOTTLE,2019,5500,0,13,, PIWI ,True
+,,Thomas Niedermayr Hof Gandberg Bronner T.N. 04 Gandberg,,BIO,BOTTLE,2017,5000,0,10,, PIWI ,True
+,,Thomas Niedermayr Hof Gandberg Abendrot T.N. 06 Gandberg,,BIO,BOTTLE,2018,5500,0,5,, PIWI ,True
+,,Thomas Niedermayr Hof Gandberg Solaris T.N. 14 Gandberg,,BIO,BOTTLE,2019,4500,0,24,, PIWI ,True
+,,Thomas Niedermayr Hof Gandberg Souvignier Gris T.N. 16 Gandberg,,BIO,BOTTLE,2021,4500,0,2,, PIWI ,True
+,,Thomas Niedermayr Hof Gandberg Gandfels Cab. Cantor+Cortis T.N. 06 Gandberg,,BIO,BOTTLE,2016,5500,0,31,, PIWI ,True
+,,Martin Gojer Weingut Pranzegg Caroline Cuvée,,BIO,BOTTLE,2015,5200,0,20,," Ch,S,V,MB ",True
+,,Martin Gojer Weingut Pranzegg vino rosso leggero Cuvée,,BIO,BOTTLE,2016,3800,0,15,," M,L,V ",True
+,,Martin Gojer Weingut Pranzegg Quirein Lagrein,,BIO,BOTTLE,2009,6500,0,9,,,True
+,,Christian Kerschbaumer Weingut Garlider Sylvaner hautnah,,BIO,BOTTLE,2016,5500,0,15,,,True
+,,Familie Dichristin Tröpfltalhof Viognier LeViogn,,BIO,BOTTLE,2020,4900,0,7,,,True
+,,Familie Dichristin Tröpfltalhof Sauvignon Garnellen,,BIO,BOTTLE,2012,7500,0,13,, Anphora ,True
+,,Familie Dichristin Tröpfltalhof Merlot & Cabernet Sauvignon Rosé Marie,,BIO,BOTTLE,2020,5200,0,9,, Anphora ,True
+,,Familie Dichristin Tröpfltalhof Cabernet Sauvignon Barleith,,BIO,BOTTLE,2016,7500,0,8,, Anphora ,True
+,,"Sinn Robert St. Quirinus Aromera, Souvignier Gris, Johanniter Planties ",,BIO,BOTTLE,2017,6500,0,18,, PIWI - Anphora ,True
+,,"Sinn Robert St. Quirinus Prior, Chambourcin Planties",,BIO,BOTTLE,2023,4700,0,50,, PIWI - Rosé ,True
+,,Baron Longo Liebenstein Liebenstein Cuvée,,,BOTTLE,2015,5500,0,9,," W,Ch ",True
+,,Baron Longo Liebenstein Solaris ,,,BOTTLE,2017,5500,0,10,,,True
+,,DUEMANI Syrah - Toscana Rosato Si,,BIO,BOTTLE,2022,6500,0,0,, Anphora ,True
+,,DUEMANI Syrah - Toscana Rosato Si,,BIO,MAGNUM,2022,0,0,0,, Anphora ,True
+,,DUEMANI Syrah - Toscana Rosato Si,,BIO,HALF_BOTTLE,2022,0,0,0,, Anphora ,True
+,, Kellerei Kurtatsch LIBELL,,,BOTTLE,2024,4500,0,126,, Ch+PG+SB+PB ,True
+,, Kellerei Kurtatsch AMOS,,,BOTTLE,2022,5900,1650,18,, PB+CH+PG+SB+KE ,True
+,, Kellerei Kurtatsch AMOS,, MAGNUNM ,MAGNUM,2018,0,0,1,,,True
+,, Weingut Franz Haas MANNA,,,BOTTLE,2023,6900,0,18,, RI+CH+GT+SB ,True
+,, Weingut Franz Haas MANNA,, MAGNUNM ,MAGNUM,2007,19000,0,2,,,True
+,, Weingut Hofstätter DE VITE ,, MAGNUNM ,BOTTLE,2018,0,0,0,,,True
+,, Weingut Hofstätter DE VITE ,, MAGNUNM ,MAGNUM,2018,8000,0,0,,,True
+,, Weingut Hofstätter DE VITE ,, MAGNUNM ,HALF_BOTTLE,2018,0,0,0,,,True
+,, Kellerei Tramin STOAN,,,BOTTLE,2022,7500,0,31,, CH+SB+PB+GT ,True
+,, Weingut Kornell AICHBERG,,,BOTTLE,2020,7500,0,18,, PB+CH+SB ,True
+,, Kellerei Eisacktal ADAMANTIS,,,BOTTLE,2020,12000,0,13,, SY+GV+PG+KE ,True
+,, Weingut Elena Walch BEYOND THE CLOUDS   ,,,BOTTLE,2022,0,0,59,, CH+GV+SB ,True
+,, Weingut Elena Walch BEYOND THE CLOUDS   ,,,BOTTLE,2021,12000,0,3,,,True
+,, Weingut Elena Walch BEYOND THE CLOUDS   ,,,BOTTLE,2020,0,0,2,,,True
+,, Kellerei Nals-Margreid NAMA,,,BOTTLE,2018,14500,0,3,, CH+PB+SB ,True
+,, Kellerei St. Michael-Eppan APPIUS,,,BOTTLE,2019,15500,0,10,, CH+PB+PG+SB ,True
+,, Kellerei St. Michael-Eppan APPIUS,,,BOTTLE,2012,0,0,1,,,True
+,, Weingut Franz Haas MANNA,,RARITAS,BOTTLE,2007,9500,0,11,,,True
+,, Weingut Franz Haas MANNA,,,BOTTLE,2006,0,0,5,,,True
+,, Weingut Elena Walch BEYOND THE CLOUDS ARGENTUM B.,,RARITAS,BOTTLE,2016,0,0,15,,,True
+,, Weingut Elena Walch BEYOND THE CLOUDS ARGENTUM B.,,,BOTTLE,2014,15500,0,23,,,True
+,, Weingut Schreckbichl  CORNELIUS ,,,BOTTLE,1997,0,0,2,,,True
+,, Alois Lageder  CONTEST KLEIN ,,,BOTTLE,1999,0,0,2,,,True
+,, Alois Lageder  CONTEST KLEIN ,,,BOTTLE,1969,0,0,1,,,True
+,, Kellerei Grilan  RISERVA BIANCA ,,,BOTTLE,2008,0,0,4,,,True
+,WHITE,Pinot blanc  Kellerei Bozen DELLAGO ,,,BOTTLE,2023,0,0,17,,,True
+,WHITE,Pinot blanc  Kellerei St. Pauls   PLÖTZNER,,,BOTTLE,2024,0,960,20,,,True
+,WHITE,Pinot blanc  Kellerei St. Pauls   PLÖTZNER,,,BOTTLE,2023,4500,0,42,,,True
+,WHITE,Pinot blanc  Kellerei St. Pauls   PLÖTZNER,,,MAGNUM,2015,10500,0,1,, MAGNUNM ,True
+,WHITE,Pinot blanc  Kellerei St. Pauls   PLÖTZNER,,,MAGNUM,2011,10500,0,1,, MAGNUNM ,True
+,WHITE,Pinot blanc  Kellerei Kaltern  KUNSTSTÜCK,,,BOTTLE,2014,0,0,0,, MAGNUNM ,True
+,WHITE,Pinot blanc  Kellerei Kaltern  KUNSTSTÜCK,,,MAGNUM,2014,8000,0,0,, MAGNUNM ,True
+,WHITE,Pinot blanc  Kellerei Kaltern  KUNSTSTÜCK,,,HALF_BOTTLE,2014,0,0,0,, MAGNUNM ,True
+,WHITE,Pinot blanc  Weingut Falkenstein  VINSCHGAU,,,BOTTLE,2009,0,0,0,, MAGNUNM ,True
+,WHITE,Pinot blanc  Weingut Falkenstein  VINSCHGAU,,,MAGNUM,2009,8000,0,0,, MAGNUNM ,True
+,WHITE,Pinot blanc  Weingut Falkenstein  VINSCHGAU,,,HALF_BOTTLE,2009,0,0,0,, MAGNUNM ,True
+,WHITE,Pinot blanc  Weingut Schloss Plars PATAUN,,,BOTTLE,2022,4900,0,17,,,True
+,WHITE,Pinot blanc  Weingut Prackfolerhof ,,,BOTTLE,2022,5500,0,28,,,True
+,WHITE,Pinot blanc  Weingut Gumphof PRAESULIS,,,BOTTLE,2022,5900,0,31,,,True
+,WHITE,Pinot blanc  Weingut Gumphof PRAESULIS,,,BOTTLE,2021,0,0,3,,,True
+,WHITE,Pinot blanc  Kellerei St.Michael-Eppan ST.VALENTIN,,,BOTTLE,2022,5900,0,33,,,True
+,WHITE,Pinot blanc  Kellerei Terlan VORBERG RISERVA,,,BOTTLE,2022,0,2000,32,,,True
+,WHITE,Pinot blanc  Kellerei Terlan VORBERG RISERVA,,,MAGNUM,2022,0,0,6,, MAGNUNM ,True
+,WHITE,Pinot blanc  Kellerei Terlan VORBERG RISERVA,,,BOTTLE,2021,6900,0,89,,,True
+,WHITE,Pinot blanc  Kellerei Terlan VORBERG RISERVA,,,MAGNUM,2017,16000,0,7,, MAGNUNM ,True
+,WHITE,Pinot blanc  Weingut Gumphof RENAISSANCE,,,BOTTLE,2015,7900,0,34,,,True
+,WHITE,Pinot blanc  Kellerei St. Pauls   SANKTISSIMUS,,,BOTTLE,2018,0,0,3,,,True
+,WHITE,Pinot blanc  Kellerei St. Pauls   SANKTISSIMUS,,,BOTTLE,2013,11000,0,5,,,True
+,WHITE,Pinot blanc  Kellerei Terlan TRADITION,,RARITAS,BOTTLE,2010,7500,0,10,,,True
+,WHITE,Pinot blanc  Kellerei Terlan TRADITION,,,BOTTLE,2008,0,0,9,,,True
+,WHITE,Pinot blanc  Kellerei St. Pauls PLÖTZNER,,RARITAS,BOTTLE,2010,7500,0,10,,,True
+,WHITE,Pinot blanc  Weingut Falkenstein ,,RARITAS,BOTTLE,2007,7500,0,0,,,True
+,WHITE,Pinot blanc  Weingut Falkenstein ,,RARITAS,MAGNUM,2007,0,0,0,,,True
+,WHITE,Pinot blanc  Weingut Falkenstein ,,RARITAS,HALF_BOTTLE,2007,0,0,0,,,True
+,WHITE,Pinot blanc  Kellerei Terlan VORBERG RISERVA,,RARITAS,BOTTLE,2021,0,0,30,,,True
+,WHITE,Pinot blanc  Kellerei Terlan VORBERG RISERVA,,,BOTTLE,2019,0,0,6,,,True
+,WHITE,Pinot blanc  Kellerei Terlan VORBERG RISERVA,,,BOTTLE,2011,0,0,7,,,True
+,WHITE,Pinot blanc  Kellerei Terlan VORBERG RISERVA,,,BOTTLE,2008,0,0,6,,,True
+,WHITE,Pinot blanc  Kellerei Terlan VORBERG RISERVA,,,BOTTLE,2007,8500,0,7,,,True
+,WHITE,Pinot blanc  Kellerei Terlan RARITAS,,RARITAS,BOTTLE,2012,0,10492,7,,,True
+,WHITE,Pinot blanc  Kellerei Terlan RARITAS,,,BOTTLE,2011,0,0,4,,,True
+,WHITE,Pinot blanc  Kellerei Terlan RARITAS,,,BOTTLE,2010,0,0,3,,,True
+,WHITE,Pinot blanc  Kellerei Terlan RARITAS,,,BOTTLE,2009,0,0,3,,,True
+,WHITE,Pinot blanc  Kellerei Terlan RARITAS,,,BOTTLE,2007,0,0,3,,,True
+,WHITE,Pinot blanc  Kellerei Terlan RARITAS,,,BOTTLE,2006,0,0,5,,,True
+,WHITE,Pinot blanc  Kellerei Terlan RARITAS,,,BOTTLE,2005,18500,0,4,,,True
+,WHITE,Pinot blanc  Kellerei Terlan RARITAS,,,BOTTLE,2004,0,0,5,,,True
+,WHITE,Pinot blanc  Kellerei Terlan RARITAS,,,BOTTLE,1996,0,0,12,,,True
+,WHITE,Chardonnay Kellerei Terlan TRADITION,,,BOTTLE,2024,4500,848,30,,,True
+,WHITE,Chardonnay Kellerei Terlan KREUTH,,,BOTTLE,2023,5500,1391,36,,,True
+,WHITE,Chardonnay Kellerei St.Michael-Eppan ST.VALENTIN,,,BOTTLE,2022,5900,0,58,,,True
+,WHITE,Chardonnay Kellerei Kurtatsch FREIENFELD,,,BOTTLE,2021,7500,0,137,,,True
+,WHITE,Chardonnay Weingut Alois Lageder LÖWENGANG,,BIO,BOTTLE,2019,9500,0,20,,,True
+,WHITE,Chardonnay Weingut Tiefenbrunner AU,,,BOTTLE,2020,12000,0,20,,,True
+,WHITE,Chardonnay Weingut Tiefenbrunner AU,,,MAGNUM,2018,0,0,4,, MAGNUNM ,True
+,WHITE,Chardonnay Weingut Castelfeder  KREUZWEG RISERVA,,,BOTTLE,2021,0,0,6,,,True
+,WHITE,Chardonnay Weingut Castelfeder  KREUZWEG RISERVA,,,BOTTLE,2020,0,0,6,,,True
+,WHITE,Chardonnay Kellerei Tramin TROY,,,BOTTLE,2021,0,0,12,,,True
+,WHITE,Chardonnay Kellerei Tramin TROY,,,BOTTLE,2019,0,0,15,,,True
+,WHITE,Chardonnay Kellerei Tramin TROY,,,BOTTLE,2018,12500,0,6,,,True
+,WHITE,Chardonnay Kellerei Nals-Margreid NAMA,,,BOTTLE,2020,0,0,6,,,True
+,WHITE,Chardonnay Kellerei Nals-Margreid NAMA,,,BOTTLE,2019,14500,0,4,,,True
+,WHITE,Chardonnay Kellerei Kaltern  CASTEL VIOVANELLI,,,BOTTLE,2002,0,0,2,,,True
+,WHITE,Chardonnay Kellerei Terlan  TRADITION ,,,BOTTLE,2015,0,0,1,,,True
+,WHITE,Chardonnay Kellerei Terlan  TRADITION ,,,BOTTLE,2014,0,0,1,,,True
+,WHITE,Chardonnay Kellerei St.Michael-Eppan ST.VALENTIN,,RARITAS,BOTTLE,2022,0,0,18,,,True
+,WHITE,Chardonnay Kellerei St.Michael-Eppan ST.VALENTIN,,,BOTTLE,2011,8500,0,3,,,True
+,WHITE,Chardonnay Kellerei Schreckbichl FORMIGAR,,RARITAS,BOTTLE,2007,0,0,48,,,True
+,WHITE,Chardonnay Kellerei Schreckbichl FORMIGAR,,,BOTTLE,2006,8500,0,11,,,True
+,WHITE,Chardonnay Kellerei Schreckbichl FORMIGAR,,,BOTTLE,2005,0,0,2,,,True
+,WHITE,Chardonnay Kellerei Schreckbichl FORMIGAR,,,BOTTLE,2000,0,0,1,,,True
+,WHITE,Chardonnay Kellerei Schreckbichl FORMIGAR,,,BOTTLE,1997,0,0,2,,,True
+,WHITE,Chardonnay Kellerei Terlan KREUTH,,RARITAS,BOTTLE,2023,0,0,30,,,True
+,WHITE,Chardonnay Weingut Tiefenbrunner LINTICLARUS,,RARITAS,BOTTLE,2007,9500,0,6,,,True
+,WHITE,Chardonnay Weingut Tiefenbrunner LINTICLARUS,,,BOTTLE,1997,0,0,9,,,True
+,WHITE,Chardonnay Weingut Tiefenbrunner LINTICLARUS,,,BOTTLE,1995,0,0,3,,,True
+,WHITE,Chardonnay Weingut Alois Lageder LÖWENGANG,,RARITAS,BOTTLE,2016,0,0,18,,,True
+,WHITE,Chardonnay Weingut Alois Lageder LÖWENGANG,,,BOTTLE,2011,0,0,47,,,True
+,WHITE,Chardonnay Weingut Alois Lageder LÖWENGANG,,,BOTTLE,2009,0,0,11,,,True
+,WHITE,Chardonnay Weingut Alois Lageder LÖWENGANG,,,BOTTLE,2008,0,0,17,,,True
+,WHITE,Chardonnay Weingut Alois Lageder LÖWENGANG,,,BOTTLE,2006,11000,0,15,,,True
+,WHITE,Chardonnay Weingut Alois Lageder LÖWENGANG INEDITO II,,RARITAS,BOTTLE,0,14500,0,2,,,True
+,WHITE,Chardonnay Kellerei Terlan RARITAS,,RARITAS,BOTTLE,2003,0,0,6,,,True
+,WHITE,Chardonnay Kellerei Terlan RARITAS,,,BOTTLE,2000,0,0,12,,,True
+,WHITE,Chardonnay Kellerei Terlan RARITAS,,,BOTTLE,1997,0,0,3,,,True
+,WHITE,Chardonnay Kellerei Terlan RARITAS,,,BOTTLE,1996,18500,0,3,,,True
+,WHITE,Chardonnay Kellerei Terlan RARITAS,,,BOTTLE,1994,0,0,7,,,True
+,WHITE,Chardonnay Kellerei Terlan RARITAS,,,BOTTLE,1990,0,0,3,,,True
+,WHITE,terlaner Kellerei Terlan KLASSISCH,,,BOTTLE,2023,4900,0,30,,,True
+,WHITE,terlaner Kellerei Terlan NOVA DOMUS,, MAGNUNM ,BOTTLE,2022,7900,2718,55,,,True
+,WHITE,terlaner Kellerei Terlan NOVA DOMUS,, MAGNUNM ,MAGNUM,2022,0,2718,6,,,True
+,WHITE,terlaner Kellerei Terlan NOVA DOMUS,,RARITAS,BOTTLE,2021,0,0,36,,,True
+,WHITE,terlaner Kellerei Terlan NOVA DOMUS,,,BOTTLE,2019,0,0,1,,,True
+,WHITE,terlaner Kellerei Terlan NOVA DOMUS,,,BOTTLE,2017,0,0,4,,,True
+,WHITE,terlaner Kellerei Terlan NOVA DOMUS,,,MAGNUM,2017,0,0,10,,,True
+,WHITE,terlaner Kellerei Terlan NOVA DOMUS,,,HALF_BOTTLE,2017,0,0,5,,,True
+,WHITE,terlaner Kellerei Terlan NOVA DOMUS,,,BOTTLE,2016,0,0,18,,,True
+,WHITE,terlaner Kellerei Terlan NOVA DOMUS,,,BOTTLE,2015,0,0,5,,,True
+,WHITE,terlaner Kellerei Terlan NOVA DOMUS,,,BOTTLE,2014,11000,0,12,,,True
+,WHITE,terlaner Kellerei Terlan NOVA DOMUS,,,HALF_BOTTLE,2010,36000,0,6,,,True
+,WHITE,terlaner Kellerei Terlan PRIMUS,,RARITAS,BOTTLE,2022,0,0,3,,,True
+,WHITE,terlaner Kellerei Terlan PRIMUS,,RARITAS,MAGNUM,2022,0,0,1,,,True
+,WHITE,terlaner Kellerei Terlan PRIMUS,,,BOTTLE,2021,0,0,3,,,True
+,WHITE,terlaner Kellerei Terlan PRIMUS,,,BOTTLE,2020,0,0,3,,,True
+,WHITE,terlaner Kellerei Terlan PRIMUS,,,BOTTLE,2019,0,0,3,,,True
+,WHITE,terlaner Kellerei Terlan PRIMUS,,,HALF_BOTTLE,2019,0,0,1,,,True
+,WHITE,terlaner Kellerei Terlan PRIMUS,,,BOTTLE,2017,22000,0,2,,,True
+,WHITE,terlaner Kellerei Terlan PRIMUS,,,HALF_BOTTLE,2015,0,0,1,,,True
+,WHITE,terlaner Kellerei Terlan  TERLANER RARITAS,,RARITAS,BOTTLE,2008,0,0,3,,,True
+,WHITE,terlaner Kellerei Terlan  TERLANER RARITAS,,,BOTTLE,1991,0,0,1,,,True
+,WHITE,Müller Thurgau Kellereit St. Pauls KLASSISCH,,,BOTTLE,2024,4100,0,24,,,True
+,WHITE,Müller Thurgau Kellerei Kurtatsch GRAUN,,,BOTTLE,2022,4900,0,16,,,True
+,WHITE,Müller Thurgau Weingut Tiefenbrunner FELDMARSCHALL,,,BOTTLE,2020,0,0,30,,,True
+,WHITE,Müller Thurgau Weingut Tiefenbrunner FELDMARSCHALL,,,BOTTLE,2019,8500,0,20,,,True
+,WHITE,Grüner Veltliner Kellerei Eisacktal ,,,BOTTLE,2023,3900,0,18,,,True
+,WHITE,Grüner Veltliner Weingut Pacherhof EISACKTAL,,,BOTTLE,2021,4900,0,41,,,True
+,WHITE,Sylvaner Kellerei Eisacktal ,,,BOTTLE,2021,3900,0,10,,,True
+,WHITE,Sylvaner Weingut Pacherhof ALTE REBEN,,,BOTTLE,2017,5500,0,11,,,True
+,WHITE, Weingut Klosterhof ,,RARITAS,BOTTLE,2007,0,0,15,,,True
+,WHITE,Sauvignon blanc Kellerei St. Pauls GFILL,,,BOTTLE,2023,4500,0,18,,,True
+,WHITE,Sauvignon blanc Kellerei Nals-Magreid  MANTELE,,,MAGNUM,2010,10500,0,1,, MAGNUNM ,True
+,WHITE,Sauvignon blanc Kellerei St. Pauls PASSION ,,,MAGNUM,2009,12000,0,4,, MAGNUNM ,True
+,WHITE,Sauvignon blanc Kellerei St. Pauls PASSION ,,,MAGNUM,2008,12000,0,1,, MAGNUNM ,True
+,WHITE,Sauvignon blanc Weingut Castelfeder  REIF,,,BOTTLE,2023,0,0,18,,,True
+,WHITE,Sauvignon blanc Weingut Castelfeder  REIF,,,BOTTLE,2019,0,0,6,,,True
+,WHITE,Sauvignon blanc Weingut Falkenstein  VINSCHGAU,,,MAGNUM,2009,12000,0,2,, MAGNUNM ,True
+,WHITE,Sauvignon blanc Kellerei Terlan WINKL,,,BOTTLE,2024,0,1308,1,,,True
+,WHITE,Sauvignon blanc Kellerei Terlan WINKL,,,BOTTLE,2023,0,0,53,, MAGNUNM ,True
+,WHITE,Sauvignon blanc Kellerei Terlan WINKL,,,MAGNUM,2023,12000,0,6,, MAGNUNM ,True
+,WHITE,Sauvignon blanc Kellerei Terlan WINKL,,,BOTTLE,2022,5300,0,40,,,True
+,WHITE,Sauvignon blanc Weingut Gumphof MEDIAEVUM,,,BOTTLE,2022,5500,0,0,, (Ausgehen) ,True
+,WHITE,Sauvignon blanc Weingut Gumphof MEDIAEVUM,,,MAGNUM,2022,0,0,0,, (Ausgehen) ,True
+,WHITE,Sauvignon blanc Weingut Gumphof MEDIAEVUM,,,HALF_BOTTLE,2022,0,0,0,, (Ausgehen) ,True
+,WHITE,Sauvignon blanc Weingut Kornell COSMAS,,,BOTTLE,2023,5500,0,18,,,True
+,WHITE,Sauvignon blanc Weingut Gumphof PRAESULIS,,,BOTTLE,2021,5500,0,16,,,True
+,WHITE,Sauvignon blanc Weingut Prackfolerhof ,,,BOTTLE,2022,5500,0,20,,,True
+,WHITE,Sauvignon blanc Kellerei St.Michael-Eppan ST.VALENTIN,,,BOTTLE,2023,6000,1970,34,,,True
+,WHITE,Sauvignon blanc Kellerei Schreckbichl LAFOA,,,BOTTLE,2023,0,0,18,,,True
+,WHITE,Sauvignon blanc Kellerei Schreckbichl LAFOA,,,MAGNUM,2008,15500,0,2,, MAGNUNM ,True
+,WHITE,Sauvignon blanc Weingut Kornell OBERBERG,,,BOTTLE,2020,7000,0,9,,,True
+,WHITE,Sauvignon blanc Weingut Kornell OBERBERG,,,BOTTLE,2019,0,0,1,,,True
+,WHITE,Sauvignon blanc Weingut Gumphof RENNAISANCE,,,BOTTLE,2019,7500,0,26,,,True
+,WHITE,Sauvignon blanc Weingut Gumphof RENNAISANCE,,,BOTTLE,2018,0,0,1,,,True
+,WHITE,Sauvignon blanc Kellerei Terlan QUARZ,,,BOTTLE,2023,0,3261,30,,,True
+,WHITE,Sauvignon blanc Kellerei Terlan QUARZ,,,BOTTLE,2022,9500,0,72,,,True
+,WHITE,Sauvignon blanc Weingut Tiefenbrunner RACHTL,,,BOTTLE,2021,0,0,6,,,True
+,WHITE,Sauvignon blanc Weingut Tiefenbrunner RACHTL,,,BOTTLE,2019,0,0,30,,,True
+,WHITE,Sauvignon blanc Weingut Tiefenbrunner RACHTL,,,BOTTLE,2018,11000,0,32,,,True
+,WHITE,Sauvignon blanc Weingut Kornell HERCULES,,,BOTTLE,2020,11000,0,23,, ORANGE ,True
+,WHITE,Sauvignon blanc Kellerei St.Michael-Eppan WINE COLLECTION,,,BOTTLE,2019,14500,0,11,,,True
+,WHITE,Sauvignon blanc Kellerei Girlan FLORA,,RARITAS,BOTTLE,2009,6500,0,2,,,True
+,WHITE,Sauvignon blanc Kellerei St. Michael-Eppan ST. VALENTIN,,RARITAS,BOTTLE,2012,0,0,13,,,True
+,WHITE,Sauvignon blanc Kellerei St. Michael-Eppan ST. VALENTIN,,,BOTTLE,2010,0,0,22,,,True
+,WHITE,Sauvignon blanc Kellerei St. Michael-Eppan ST. VALENTIN,,,BOTTLE,2009,0,0,10,,,True
+,WHITE,Sauvignon blanc Kellerei St. Michael-Eppan ST. VALENTIN,,,BOTTLE,2008,0,0,17,,,True
+,WHITE,Sauvignon blanc Kellerei St. Michael-Eppan ST. VALENTIN,,,BOTTLE,2007,8500,0,34,,,True
+,WHITE,Sauvignon blanc Kellerei St. Michael-Eppan ST. VALENTIN,,,BOTTLE,2006,0,0,3,,,True
+,WHITE,Sauvignon blanc Kellerei St. Michael-Eppan ST. VALENTIN,,,BOTTLE,1999,0,0,1,,,True
+,WHITE,Sauvignon blanc Kellerei St. Michael-Eppan ST. VALENTIN,,,BOTTLE,1998,0,0,1,,,True
+,WHITE,Sauvignon blanc Kellerei St. Michael-Eppan ST. VALENTIN,,,BOTTLE,1997,0,0,3,,,True
+,WHITE,Sauvignon blanc Kellerei Terlan QUARZ,,RARITAS,BOTTLE,2021,11000,0,19,,,True
+,WHITE,Sauvignon blanc Kellerei Terlan QUARZ,,RARITAS,MAGNUM,2021,22000,0,1,,,True
+,WHITE,Sauvignon blanc Kellerei Terlan QUARZ,,,BOTTLE,2020,0,0,2,,,True
+,WHITE,Sauvignon blanc Kellerei Terlan QUARZ,,,MAGNUM,2020,22000,0,4,,,True
+,WHITE,Sauvignon blanc Kellerei Terlan QUARZ,,,MAGNUM,2019,22000,0,13,,,True
+,WHITE,Sauvignon blanc Kellerei Terlan QUARZ,,,HALF_BOTTLE,2018,0,0,1,,,True
+,WHITE,Sauvignon blanc Stiftskellerei Neustift PRAEPOSITUS,,RARITAS,BOTTLE,2007,11000,0,15,,,True
+,WHITE,Sauvignon blanc Kellerei Schreckbichl LAFOA,,RARITAS,BOTTLE,2006,0,0,4,,,True
+,WHITE,Sauvignon blanc Kellerei St. Pauls PASSION,,RARITAS,BOTTLE,2014,0,0,2,,,True
+,WHITE,Sauvignon blanc Kellerei St. Pauls PASSION,,,BOTTLE,2009,0,0,4,,,True
+,WHITE,Sauvignon blanc Kellerei St. Pauls PASSION,,,BOTTLE,2007,0,0,8,,,True
+,WHITE,Sauvignon blanc Kellerei Terlan  WINKL,,RARITAS,BOTTLE,2022,0,0,30,,,True
+,WHITE,Sauvignon blanc Kellerei Terlan  WINKL,,,BOTTLE,2020,0,0,3,,,True
+,WHITE,Sauvignon blanc Kellerei St. Pauls GFILL,,RARITAS,BOTTLE,2010,0,0,3,,,True
+,WHITE,Sauvignon blanc Kellerei St. Pauls GFILL,,,BOTTLE,2007,0,0,5,,,True
+,WHITE,Sauvignon blanc Kellerei Laimburg  OYELL,,RARITAS,BOTTLE,2006,0,0,6,,,True
+,WHITE,Pinot Gris Weingut Elena Walch ,,,BOTTLE,2024,4500,0,36,,,True
+,WHITE,Pinot Gris Weingu Stachelburg WOLFSTHURM,,BIO,BOTTLE,2023,5500,0,20,,,True
+,WHITE,Pinot Gris Kellerei St.Michael-Eppan ST.VALENTIN,,,BOTTLE,2022,5900,0,30,,,True
+,WHITE,Riesling ? STEIN ,,,BOTTLE,2018,0,0,10,,,True
+,WHITE,Riesling Weingut Unterortl ?? GLETSCHERSCHLIFF,,,BOTTLE,2023,4500,0,16,,,True
+,WHITE,Riesling Weingut Castel Juval ?? UNTERORTL ,,,MAGNUM,2010,12000,0,1,, MAGNUNM ,True
+,WHITE,Riesling Weingut Pacherhof EISACKTAL,,,BOTTLE,2024,0,1620,29,,,True
+,WHITE,Riesling Weingut Pacherhof ,,,BOTTLE,2023,5000,0,16,,,True
+,WHITE,Riesling Weingut Keller KPK LIMESTONE,,,BOTTLE,2020,4900,0,14,,,True
+,WHITE,Riesling Weingut Röckhof  VIELANDERS ,,,BOTTLE,2016,0,0,0,, MAGNUNM ,True
+,WHITE,Riesling Weingut Röckhof  VIELANDERS ,,,MAGNUM,2016,9500,0,0,, MAGNUNM ,True
+,WHITE,Riesling Weingut Röckhof  VIELANDERS ,,,HALF_BOTTLE,2016,0,0,0,, MAGNUNM ,True
+,WHITE,Riesling Weingut Schloss Johannisberg  GROSSES GEWÄCHS,,,MAGNUM,2009,16000,0,2,, MAGNUNM ,True
+,WHITE,Riesling Weingut Van Volxem  ALTE REBE,,,MAGNUM,2010,16000,0,1,, MAGNUNM ,True
+,WHITE,Riesling Weingut Köfererhof ,,RARITAS,BOTTLE,2007,0,0,8,,,True
+,WHITE,Riesling Weingut Köfererhof ,,,BOTTLE,2005,6500,0,8,,,True
+,WHITE,Riesling Weingut Kuenhof KAITON,,RARITAS,BOTTLE,2006,6500,0,8,,,True
+,WHITE,Riesling Weingut Kuenhof KAITON,,,BOTTLE,2004,0,0,4,,,True
+,WHITE,Riesling Weingut Falkenstein VINSCHGAU ,,RARITAS,MAGNUM,2009,11000,0,5,,,True
+,WHITE,Riesling Weingut Falkenstein VINSCHGAU ,,,BOTTLE,2007,6500,0,7,,,True
+,WHITE,Riesling Stiftskellerei Neustift PRAEPOSITUS,,RARITAS,BOTTLE,2010,0,0,4,,,True
+,WHITE,Riesling Stiftskellerei Neustift PRAEPOSITUS,,,BOTTLE,2008,6500,0,1,,,True
+,WHITE,Kerner Weingut Pacherhof ,,,BOTTLE,2024,5000,1420,30,,,True
+,WHITE,Kerner Stiftskellerei Neustift KLASSISCH,,RARITAS,BOTTLE,2007,6500,0,4,,,True
+,WHITE,Kerner Stiftskellerei Neustift PRAEPOSITUS,,RARITAS,BOTTLE,2007,0,0,5,,,True
+,WHITE,Kerner Stiftskellerei Neustift PRAEPOSITUS,,,BOTTLE,2002,6500,0,2,,,True
+,WHITE,Kerner Weingut Köfererhof ,,RARITAS,BOTTLE,2007,6500,0,3,,,True
+,WHITE,Kerner Weingut Manni Nössing ,,RARITAS,BOTTLE,2007,6500,0,17,,,True
+,WHITE,Gewürztraminer Weingut Plattenhof ,,,BOTTLE,2021,4900,0,9,,,True
+,WHITE,Gewürztraminer Weingut Hofstätter JOSEPH,,,BOTTLE,2024,0,1140,30,,,True
+,WHITE,Gewürztraminer Weingut Hofstätter JOSEPH,,,BOTTLE,2023,5000,0,6,,,True
+,WHITE,Gewürztraminer Weingut Elena Walch KASTELAZ ARGENTUM BONUM,,,BOTTLE,2016,0,0,12,,,True
+,WHITE,Gewürztraminer Weingut Elena Walch KASTELAZ ARGENTUM BONUM,,,BOTTLE,2014,12500,0,11,,,True
+,WHITE,Gewürztraminer Landesweingut Laimburg NORÈY ANPHORA,,,BOTTLE,2011,16500,0,24,,,True
+,WHITE,Gewürztraminer Kellerei Tramin  EPOKALE,,,BOTTLE,2015,0,0,3,,,True
+,WHITE,Gewürztraminer Weingut Manni Nössing ,,RARITAS,BOTTLE,2007,7500,0,2,,,True
+,WHITE,Gewürztraminer Graf von Meran  ,,RARITAS,BOTTLE,2004,0,0,2,,,True
+,WHITE,Gewürztraminer Kueanhof ,,RARITAS,BOTTLE,2004,0,0,1,,,True
+,WHITE,Gewürztraminer Kaltern Baron di Pauli  ,,RARITAS,BOTTLE,2003,0,0,4,,,True
+,WHITE,Gewürztraminer Weingut Hofstätter JOSEPH,,RARITAS,BOTTLE,1998,0,0,3,,,True
+,WHITE,Gewürztraminer Weingut Tiefenbrunner  ,,RARITAS,BOTTLE,1992,0,0,2,,,True
+,WHITE,Goldmuskateller Weingut Fliederhof GIOIA,,,BOTTLE,2022,4900,0,21,, trocken  ,True
+,WHITE,Goldmuskateller Weingut Bessererhof  OTMAR MAIR,,,BOTTLE,2021,0,0,12,, trocken ,True
+,WHITE,Rosenmuskateller Kellerei Kaltern ROSENTROPFEN,,,BOTTLE,2022,3900,0,4,, lieblich ,True
+,WHITE,pinot grigio Vie de Romans DESSIMIS,,,BOTTLE,2022,7500,0,36,,,True
+,WHITE,Vermentino Poggio al Tesoro SOLOSOLE,,,BOTTLE,2022,5000,0,24,,,True
+,WHITE,Vermentino Poggio al Tesoro SOLOSOLE PAGUS CAMILLA,,,BOTTLE,2017,7500,0,15,,,True
+,WHITE,Chardonnay Marchesi de Frescobaldi POMINO BIANCO RISERVA,,,BOTTLE,2017,6500,0,11,,,True
+,WHITE,Sauvignon Blanc Tenuta dell´Ornellaia  BIANCO,,,BOTTLE,2016,0,0,4,,,True
+,WHITE,Chardonnay Angelo Gaja GAYA & REY,,,BOTTLE,2009,11000,0,0,,,True
+,WHITE,Chardonnay Angelo Gaja GAYA & REY,,,MAGNUM,2009,0,0,0,,,True
+,WHITE,Chardonnay Angelo Gaja GAYA & REY,,,HALF_BOTTLE,2009,0,0,0,,,True
+,WHITE, Angelo Gaja ALTENI DI BRASSICA,,,BOTTLE,2009,0,0,0,,,True
+,WHITE, Angelo Gaja ALTENI DI BRASSICA,,,MAGNUM,2009,0,0,0,,,True
+,WHITE, Angelo Gaja ALTENI DI BRASSICA,,,HALF_BOTTLE,2009,0,0,0,,,True
+,WHITE,Lugana Selva del Vescovo  Villa della Torre ,,,BOTTLE,2024,4900,0,72,,,True
+,WHITE,Chardonnay Ca`del Bosco TERRA DI FRANCIACORTA,,,BOTTLE,2020,11000,0,30,,,True
+,WHITE,Chardonnay Ca`del Bosco TERRA DI FRANCIACORTA,,,BOTTLE,2014,0,0,3,,,True
+,WHITE,Chardonnay Ca`del Bosco ,,RARITAS,BOTTLE,2006,14500,0,11,,,True
+,WHITE,Chardonnay Ca`del Bosco ,,,BOTTLE,2004,0,0,3,,,True
+,WHITE,Soave Marilisa Allegrini  VILLA DELLA TORRE,,,BOTTLE,2024,4500,0,36,, CASTELCERINO ,True
+,WHITE,Soave Inama I PALCHI,,,BOTTLE,2020,6500,0,12,,,True
+,,Rose Lagrein Klosterweingut Muri Gries LAGREIN KRETZER,,,BOTTLE,2024,3900,1490,55,,,True
+,,Rose Lagrein Josephus Unterganzner LAGREIN KRETZER,,,BOTTLE,2021,5500,0,20,, SPÄTELESE ,True
+,,Rose Weingut Elena Walch ,,,BOTTLE,2024,3900,0,84,, PN+L+M,True
+,,Rose Tenuta Manincor LA ROSE DE MANINCOR ,,BIO,BOTTLE,2024,6000,1550,30,, L+M+CS+PN ,True
+,,Rose St. Quirinus PLANTIES,,BIO,BOTTLE,2023,4700,0,50,," Prior, Chambourcin ",True
+,,Rose Tröpfeltalhof ROSÉ MARIE,,BIO,BOTTLE,2020,5200,0,18,, Merlot & Cab.Sau. ,True
+,, DUEMANI Sí,,,BOTTLE,2022,6500,0,0,, Syrah ,True
+,, DUEMANI Sí,,,MAGNUM,2022,0,0,0,, Syrah ,True
+,, DUEMANI Sí,,,HALF_BOTTLE,2022,0,0,0,, Syrah ,True
+,RED,Vernatsch Weingut Wassererhof ST.MAGDALENER,,,MAGNUM,2014,0,0,1,, MAGNUNM ,True
+,RED,Vernatsch Weingut Ansitz Waldgries ST.MAGDALENER,,,BOTTLE,2023,4500,0,35,,,True
+,RED,Vernatsch Kellerei Kaltern QUINTESSENZ,,,BOTTLE,2022,4500,0,29,,,True
+,RED,Vernatsch Kellerei Kaltern QUINTESSENZ,,,MAGNUM,2017,10500,0,8,, MAGNUNM ,True
+,RED,Vernatsch Weingut Nicolussi - Leck KALTERERSEE,,,BOTTLE,2022,4900,0,16,,,True
+,RED,Vernatsch Kellerei Bozen  ST.MAGDALENER       HUCK AM BACH ,,,BOTTLE,2023,0,0,18,,,True
+,RED,Vernatsch Weingut Ansitz Waldgries ST.MAGDALENER,,,BOTTLE,2023,0,0,18,, ANTHEOS ,True
+,RED,Pinot nero Weingut Kornell MARITH,,,BOTTLE,2023,5500,0,41,,,True
+,RED,Pinot nero Weingut Niedermayer  RISERVA ,,,MAGNUM,2007,12000,0,1,, MAGNUNM ,True
+,RED,Pinot nero Kellerei Terlan  MONTICOL ,,,BOTTLE,2017,0,0,30,, RISERVA  ,True
+,RED,Pinot nero Kellerei St. Pauls PASSION,,,BOTTLE,2015,0,0,30,,,True
+,RED,Pinot nero Kellerei St. Pauls PASSION,,,BOTTLE,2013,6000,0,11,,,True
+,RED,Pinot nero Castel Juval  (Nachfolge für Passion),,,BOTTLE,2009,0,0,13,,,True
+,RED,Pinot nero Kellerei Girlan TRATTMANN RISERVA,,,BOTTLE,2016,6500,0,29,,,True
+,RED,Pinot nero Weingut Prackfolerhof ,,,BOTTLE,2021,6500,0,18,,,True
+,RED,Pinot nero Weingut Franz Haas RISERVA SCHWEIZER,,,BOTTLE,2009,6500,0,15,,,True
+,RED,Pinot nero Weingut Franz Haas RISERVA SCHWEIZER,,,BOTTLE,2007,0,0,0,,,True
+,RED,Pinot nero Weingut Franz Haas RISERVA SCHWEIZER,,,MAGNUM,2007,18500,0,0,,,True
+,RED,Pinot nero Weingut Franz Haas RISERVA SCHWEIZER,,,HALF_BOTTLE,2007,0,0,0,,,True
+,RED,Pinot nero Stiftskellerei Neustift PRAEPOSITUS,,,BOTTLE,2007,0,0,9,,,True
+,RED,Pinot nero Weingut Alois Lageder KRAFUSS,,BIO,MAGNUM,2019,0,0,1,, MAGNUNM ,True
+,RED,Pinot nero Weingut Alois Lageder KRAFUSS,,,BOTTLE,2016,0,0,5,,,True
+,RED,Pinot nero Weingut Alois Lageder KRAFUSS,,,BOTTLE,2009,7500,0,30,,,True
+,RED,Pinot nero Weingut Prackfolerhof RISERVA FLATSCH,,,BOTTLE,2018,9500,0,36,,,True
+,RED,Pinot nero Weingut Hofstätter ST. URBAN,,,BOTTLE,2010,0,0,18,,,True
+,RED,Pinot nero Weingut Hofstätter ST. URBAN,,,BOTTLE,2006,0,0,6,,,True
+,RED,Pinot nero Weingut Hofstätter ST. URBAN,,,BOTTLE,2005,0,0,23,,,True
+,RED,Pinot nero Weingut Hofstätter ST. URBAN,,,BOTTLE,2003,11000,0,26,,,True
+,RED,Pinot nero Weingut Wildmonn RISERVA  ,,,BOTTLE,2020,0,0,18,,,True
+,RED,Pinot nero Weingut Wildmonn RISERVA  ,,,BOTTLE,2019,0,0,44,,,True
+,RED,Pinot nero Weingut Wildmonn RISERVA  ,,,BOTTLE,2017,11000,0,4,,,True
+,RED,Pinot nero Weingut Franz Haas PÓNKLER,,,BOTTLE,2018,0,0,12,,,True
+,RED,Pinot nero Weingut Franz Haas PÓNKLER,,,BOTTLE,2014,14000,0,5,,,True
+,RED,Pinot nero Weingutt Elena Walch  ATON ,,,BOTTLE,2017,0,0,3,,,True
+,RED,Pinot nero Kellerei Girlan VIGNA GANGER,,,BOTTLE,2018,0,0,12,,,True
+,RED,Pinot nero Kellerei Girlan VIGNA GANGER,,,BOTTLE,2012,18000,0,6,,,True
+,RED,Pinot nero Kellerei Tramin  MAGLEN,,,BOTTLE,2020,0,0,9,,,True
+,RED,Pinot nero Weingut Franz Haas  SCHWEIZER ,,RARITAS,BOTTLE,2004,0,0,38,,,True
+,RED,Pinot nero Kellerei St. Michael-Eppan ST.VALENTIN,,RARITAS,BOTTLE,2008,0,0,1,,,True
+,RED,Pinot nero Kellerei St. Michael-Eppan ST.VALENTIN,,,BOTTLE,2005,8500,0,17,,,True
+,RED,Pinot nero Kellerei St. Michael-Eppan ST.VALENTIN,,,BOTTLE,2002,0,0,5,,,True
+,RED,Pinot nero Kellerei St. Michael-Eppan ST.VALENTIN,,,BOTTLE,2000,0,0,1,,,True
+,RED,Pinot nero Kellerei St. Michael-Eppan ST.VALENTIN,,,BOTTLE,1999,0,0,6,,,True
+,RED,Pinot nero Kellerei St. Michael-Eppan ST.VALENTIN,,,BOTTLE,1995,0,0,2,,,True
+,RED,Pinot nero Weingut Niedermayr RISERVA,,RARITAS,BOTTLE,2000,8500,0,0,,,True
+,RED,Pinot nero Weingut Niedermayr RISERVA,,RARITAS,MAGNUM,2000,0,0,0,,,True
+,RED,Pinot nero Weingut Niedermayr RISERVA,,RARITAS,HALF_BOTTLE,2000,0,0,0,,,True
+,RED,Pinot nero Tenuta Manincor MASON DE MASON,,RARITAS,BOTTLE,2009,0,0,1,,,True
+,RED,Pinot nero Tenuta Manincor MASON DE MASON,,,BOTTLE,2007,14500,0,5,,,True
+,RED,Pinot nero Weingut Hofstätter ST. URBAN,,,BOTTLE,2007,0,0,3,,,True
+,RED,Pinot nero Weingut Hofstätter ST. URBAN,,,BOTTLE,2002,0,0,3,,,True
+,RED,Pinot nero Weingut Hofstätter ST. URBAN,,RARITAS,BOTTLE,1994,22000,0,1,,,True
+,RED,Pinot nero Kellerei Nals-Magreid  BARON SALVADORI ,,RARITAS,BOTTLE,1995,0,0,3,,,True
+,RED,Pinot nero Weingut Gottardi MAZZON,,RARITAS,BOTTLE,2007,0,0,3,,,True
+,RED,Pinot nero Weingut Gottardi MAZZON,,,BOTTLE,2005,0,0,4,,,True
+,RED,Pinot nero Stiftskellerei Neustift PRAEPOSITUS,,RARITAS,BOTTLE,2005,0,0,5,,,True
+,RED,Pinot nero Stiftskellerei Neustift PRAEPOSITUS,,,BOTTLE,2010,0,0,39,,,True
+,RED,Pinot nero Stiftskellerei Neustift PRAEPOSITUS,,,BOTTLE,2005,0,0,13,,,True
+,RED,Pinot nero Stiftskellerei Neustift PRAEPOSITUS,,,BOTTLE,2002,0,0,3,,,True
+,RED,Merlot (Kellerei Tramin WEINACHSEDITION),,,BOTTLE,2018,0,0,1,,,True
+,RED,Merlot (Kellerei Tramin WEINACHSEDITION),,,BOTTLE,2017,0,0,1,,,True
+,RED,Merlot (Kellerei Tramin WEINACHSEDITION),,,BOTTLE,2016,0,0,1,,,True
+,RED,Merlot Landesweingut Laimburg RISERVA,,,BOTTLE,2020,5500,0,26,,,True
+,RED,Merlot Kellerei Bozen BLACK,,,BOTTLE,2022,5900,0,65,,,True
+,RED,Merlot Kellerei Terlan-Andrian GANT,,,BOTTLE,2019,0,0,59,,,True
+,RED,Merlot Kellerei Terlan-Andrian GANT,,,BOTTLE,2016,6500,0,31,,,True
+,RED,Merlot Weingut Kornell STAFFES,,,BOTTLE,2021,6500,0,44,,,True
+,RED,Merlot Weingut Kornell STAFFES,,,BOTTLE,2020,0,0,3,,,True
+,RED,Merlot Weingut Kornell STAFFES,,,BOTTLE,2016,0,0,1,,,True
+,RED,Merlot Kellerei Bozen RISERVA - SIEBENEICH,,,BOTTLE,2021,0,0,30,, (PRAUN) ,True
+,RED,Merlot Kellerei Bozen RISERVA - SIEBENEICH,,,BOTTLE,2016,7000,0,3,,,True
+,RED,Merlot Kellerei St. Pauls  HUBERFELD,,,MAGNUM,2013,15000,0,1,, MAGNUNM ,True
+,RED,Merlot Kellerei St. Pauls PASSION RISERVA,,,BOTTLE,2013,7000,0,10,, MAGNUNM ,True
+,RED,Merlot Kellerei St. Pauls PASSION RISERVA,,,MAGNUM,2013,16500,0,1,, MAGNUNM ,True
+,RED,Merlot Weingut Franz Haas  SCHWEIZER,,,MAGNUM,1996,16000,0,1,, MAGNUNM ,True
+,RED,Merlot Kellerei Kurtatsch BRENNTAL,,,BOTTLE,2020,0,0,50,,,True
+,RED,Merlot Kellerei Kurtatsch BRENNTAL,,,BOTTLE,2019,7500,0,60,,,True
+,RED,Merlot Kellerei Kurtatsch BRENNTAL,,,BOTTLE,2018,0,0,6,,,True
+,RED,Merlot Kellerei Kurtatsch BRENNTAL,,,MAGNUM,2012,0,0,1,, MAGNUNM ,True
+,RED,Merlot Kellerei Kurtatsch BRENNTAL,,,MAGNUM,2009,0,0,1,, MAGNUNM ,True
+,RED,Merlot Weingut Lacknerhof  ANNA M ,,,MAGNUM,2010,18500,0,6,, MAGNUNM ,True
+,RED,Merlot Weingut Lacknerhof  ANNA M ,,,MAGNUM,2009,0,0,2,, MAGNUNM ,True
+,RED,Merlot Weingut Castel Sallegg NUSSLEITEN RISERVA,,,BOTTLE,2017,8500,0,13,,,True
+,RED,Merlot Kellerei St. Pauls  LOAN,,,BOTTLE,2018,0,0,60,,,True
+,RED,Merlot Weingut Alois Lageder MMIX,,BIO,BOTTLE,2019,9500,0,34,,,True
+,RED,Merlot Weingut Kornell KRESSFELD,,,BOTTLE,2016,0,0,70,,,True
+,RED,Merlot Weingut Kornell KRESSFELD,,,BOTTLE,2015,10500,0,20,,,True
+,RED,Merlot Kellerei Bozen BLACK,,RARITAS,BOTTLE,2011,8500,0,8,,,True
+,RED,Merlot Kellerei Bozen RISERVA SIEBENEICH,,RARITAS,BOTTLE,2000,8500,0,0,,,True
+,RED,Merlot Kellerei Bozen RISERVA SIEBENEICH,,RARITAS,MAGNUM,2000,0,0,0,,,True
+,RED,Merlot Kellerei Bozen RISERVA SIEBENEICH,,RARITAS,HALF_BOTTLE,2000,0,0,0,,,True
+,RED,Merlot Weingut Kornell STAFFES,,RARITAS,BOTTLE,2001,8500,0,2,,,True
+,RED,Merlot Weingut Clemens Waldthaler RAUT,,RARITAS,BOTTLE,2007,0,0,3,,,True
+,RED,Merlot Weingut Clemens Waldthaler RAUT,,,BOTTLE,2003,8500,0,2,,,True
+,RED,Merlot Kellerei Andrian GANT,,RARITAS,BOTTLE,2006,9500,0,5,,,True
+,RED,Merlot Kellerei Kurtatsch BRENNTAL,,RARITAS,BOTTLE,2016,0,0,12,,,True
+,RED,Merlot Weingut Castel Sallegg NUSSLEITEN RISERVA,,RARITAS,BOTTLE,2016,0,0,5,,,True
+,RED,Merlot Weingut Alois Lageder MM,,RARITAS,BOTTLE,2018,0,0,18,,,True
+,RED,Merlot Weingut Alois Lageder MM,,,BOTTLE,2015,0,0,5,,,True
+,RED,Merlot Weingut Alois Lageder MM,,,BOTTLE,2004,0,0,3,,,True
+,RED,Merlot Weingut Alois Lageder MM,,,BOTTLE,2000,15500,0,4,,,True
+,RED,Merlot Weingut Alois Lageder MM,,,BOTTLE,1999,0,0,4,,,True
+,RED,Cabernet Kellerei Kaltern RISERVA CAMPANER,,,BOTTLE,2018,5000,0,34,,,True
+,RED,Cabernet Kellerei Kaltern RISERVA CAMPANER,,,BOTTLE,2017,0,0,13,,,True
+,RED,Cabernet Kellerei Kaltern RISERVA CAMPANER,,,BOTTLE,2016,0,0,3,,,True
+,RED,Cabernet Kellerei Kurtatsch RISERVA KIRCHHÜGEL,,,BOTTLE,2021,5500,0,37,,,True
+,RED,Cabernet Weingut Peter Sölva AMISTAR CABERNET FRANC,,,BOTTLE,2018,6500,0,16,,,True
+,RED,Cabernet Weingut Thurnhof RISERVA,,,BOTTLE,2013,6500,0,4,,,True
+,RED,Cabernet Kellerei Bozen MUMELTER,,,BOTTLE,2017,0,0,30,,,True
+,RED,Cabernet Kellerei Bozen MUMELTER,,,BOTTLE,2013,6500,0,17,,,True
+,RED,Cabernet Kellerei Bozen MUMELTER,,,MAGNUM,2000,16000,0,2,, MAGNUM  ,True
+,RED,Cabernet Weingut Alois Lageder  RISERVA ,,,MAGNUM,2019,0,0,3,, MAGNUM  ,True
+,RED,Cabernet Kellerei Kaltern KUNSTSTÜCK ,,,MAGNUM,2015,18000,0,4,, MAGNUM  ,True
+,RED,Cabernet Kellerei Kaltern QUINTESSENZ,,,BOTTLE,2018,0,0,28,,,True
+,RED,Cabernet Kellerei Kaltern QUINTESSENZ,,,BOTTLE,2013,6500,0,9,,,True
+,RED,Cabernet Kellerei Kurtatsch FREIENFELD,,,BOTTLE,2020,0,0,6,,,True
+,RED,Cabernet Kellerei Kurtatsch FREIENFELD,,,BOTTLE,2018,8000,0,156,,,True
+,RED,Cabernet Weingut Nicolussi-Leck CABERNET FRANC RISERVA,,,BOTTLE,2020,8500,0,13,,,True
+,RED,Cabernet Weingut Nicolussi-Leck CABERNET FRANC RISERVA,,,BOTTLE,2019,0,0,39,,,True
+,RED,Cabernet Weingut Nicolussi-Leck CABERNET FRANC RISERVA,,,BOTTLE,2018,0,0,3,,,True
+,RED,Cabernet Weingut Alois Lageder LÖWENGANG,,BIO,BOTTLE,2019,0,0,60,,,True
+,RED,Cabernet Weingut Alois Lageder LÖWENGANG,,,BOTTLE,2018,11000,0,50,,,True
+,RED,Cabernet Weingut Alois Lageder LÖWENGANG,,,BOTTLE,2016,0,0,18,,,True
+,RED,Cabernet Kellerei Schreckbichl LAFOA,,,BOTTLE,2020,0,0,36,,,True
+,RED,Cabernet Kellerei Schreckbichl LAFOA,,,BOTTLE,2018,11000,0,137,,,True
+,RED,Cabernet Weingut Clemens Waldthaler  RAUT ,,,MAGNUM,1997,16000,0,2,,MAGNUM ,True
+,RED,Cabernet Weingut Schwanburg  CASTEL,,,MAGNUM,1990,52000,0,1,,MAGNUM ,True
+,RED,Cabernet Weingut Alois Lageder COR RÖMIGBERG,,BIO,MAGNUM,2019,0,0,1,,MAGNUM ,True
+,RED,Cabernet Weingut Alois Lageder COR RÖMIGBERG,,,BOTTLE,2017,11000,0,68,,,True
+,RED,Cabernet Weingut Alois Lageder COR RÖMIGBERG,,,MAGNUM,2006,22000,0,1,,MAGNUM ,True
+,RED,Cabernet Weingut Alois Lageder COR RÖMIGBERG,,,MAGNUM,2003,22000,0,4,,MAGNUM ,True
+,RED,Cabernet Schlosskellerei Tiefenbrunner VIGNA TOREN,,,BOTTLE,2018,14500,0,11,,,True
+,RED,Cabernet Kellerei Meran RISERVA,,RARITAS,BOTTLE,2002,0,0,9,,,True
+,RED,Cabernet Kellerei Meran RISERVA,,,BOTTLE,1997,0,0,9,,,True
+,RED,Cabernet Kellerei Meran RISERVA,,,BOTTLE,1995,8500,0,2,,,True
+,RED,Cabernet Kellerei Meran RISERVA,,,BOTTLE,1993,0,0,3,,,True
+,RED,Cabernet Kellerei Kaltern PFARRHOF,,RARITAS,BOTTLE,2004,0,0,1,,,True
+,RED,Cabernet Kellerei Kaltern PFARRHOF,,,BOTTLE,2003,8500,0,5,,,True
+,RED,Cabernet Kellerei Kaltern PFARRHOF,,,MAGNUM,2002,16000,0,6,,,True
+,RED,Cabernet Kellerei Kurtatsch  FREIENFELD,,RARITAS,BOTTLE,2016,0,0,8,,,True
+,RED,Cabernet Kellerei Schloss Schwanburg RISERVA,,RARITAS,BOTTLE,1993,0,0,1,,,True
+,RED,Cabernet Kellerei Schloss Schwanburg RISERVA,,,BOTTLE,1990,8500,0,3,,,True
+,RED,Cabernet Kellerei Schloss Schwanburg RISERVA,,,BOTTLE,1989,0,0,2,,,True
+,RED,Cabernet Josephus Unterganzner RISERVA KAMPILL,,RARITAS,MAGNUM,2009,16000,0,3,,,True
+,RED,Cabernet Josephus Unterganzner RISERVA,,,BOTTLE,2008,0,0,1,,,True
+,RED,Cabernet Josephus Unterganzner RISERVA KAMPILL,,,MAGNUM,2007,16000,0,3,,,True
+,RED,Cabernet Josephus Unterganzner RISERVA,,,BOTTLE,2002,9500,0,4,,,True
+,RED,Cabernet Josephus Unterganzner RISERVA,,,MAGNUM,2001,16500,0,2,,,True
+,RED,Cabernet Josephus Unterganzner RISERVA,,,MAGNUM,2000,16500,0,2,,,True
+,RED,Cabernet Josephus Unterganzner RISERVA,,,MAGNUM,1999,16500,0,1,,,True
+,RED,Cabernet Weingut Popphof RISERVA,,RARITAS,BOTTLE,1997,9500,0,3,,,True
+,RED,Cabernet Kellerei Tramin RISERVA,,RARITAS,BOTTLE,1997,9500,0,2,,,True
+,RED,Cabernet Kellerei Tramin RISERVA,,,BOTTLE,1995,0,0,2,,,True
+,RED,Cabernet Weingut Eberlehof SELEKTION + MABON,,RARITAS,BOTTLE,1995,9500,0,10,,,True
+,RED,Cabernet Weingut Eberlehof ( MABON) ?,,,BOTTLE,1992,0,0,7,,,True
+,RED,Cabernet Weingut Alois Lageder TÓR LÖWENGANG,,RARITAS,BOTTLE,2008,0,0,2,,,True
+,RED,Cabernet Weingut Alois Lageder TÓR LÖWENGANG,,,BOTTLE,2007,0,0,44,,,True
+,RED,Cabernet Weingut Alois Lageder TÓR LÖWENGANG,,,MAGNUM,2007,18000,0,17,,,True
+,RED,Cabernet Weingut Alois Lageder TÓR LÖWENGANG,,,HALF_BOTTLE,2007,38000,0,2,,,True
+,RED,Cabernet Weingut Alois Lageder TÓR LÖWENGANG,,,BOTTLE,2006,0,0,13,,,True
+,RED,Cabernet Weingut Alois Lageder TÓR LÖWENGANG,,,BOTTLE,2005,14500,0,2,,,True
+,RED,Cabernet Weingut Alois Lageder TÓR LÖWENGANG,,,BOTTLE,2004,0,0,8,,,True
+,RED,Cabernet Weingut Alois Lageder TÓR LÖWENGANG,,,MAGNUM,2004,18000,0,6,,,True
+,RED,Cabernet Weingut Alois Lageder TÓR LÖWENGANG,,,BOTTLE,2003,0,0,3,,,True
+,RED,Cabernet Weingut Alois Lageder TÓR LÖWENGANG,,,MAGNUM,2000,18000,0,4,,,True
+,RED,Cabernet Weingut Alois Lageder TÓR LÖWENGANG,,,HALF_BOTTLE,2000,38000,0,2,,,True
+,RED,Cabernet Weingut Alois Lageder TÓR LÖWENGANG,,,BOTTLE,1999,0,0,6,,,True
+,RED,Cabernet Weingut Alois Lageder TÓR LÖWENGANG,,,BOTTLE,1997,0,0,2,,,True
+,RED,Cabernet Kellerei St. Michael-Eppan ST. VALENTIN,,RARITAS,BOTTLE,2005,0,0,10,,,True
+,RED,Cabernet Kellerei St. Michael-Eppan ST. VALENTIN,,,BOTTLE,2004,0,0,16,,,True
+,RED,Cabernet Kellerei St. Michael-Eppan ST. VALENTIN,,,MAGNUM,2000,18000,0,3,,,True
+,RED,Cabernet Kellerei St. Michael-Eppan ST. VALENTIN,,,BOTTLE,2001,0,0,11,,,True
+,RED,Cabernet Kellerei St. Michael-Eppan ST. VALENTIN,,,BOTTLE,1999,14500,0,15,,,True
+,RED,Cabernet Landesweingut Laimburg RISERVA ,,RARITAS,BOTTLE,2000,0,0,6,,,True
+,RED,Cabernet Landesweingut Laimburg RISERVA ,,,BOTTLE,1997,0,0,1,,,True
+,RED,Cabernet Landesweingut Laimburg RISERVA ,,,BOTTLE,1995,14500,0,16,,,True
+,RED,Cabernet Kellerei Schreckbichl LAFOA,,RARITAS,BOTTLE,2007,0,0,27,,,True
+,RED,Cabernet Kellerei Schreckbichl LAFOA,,,BOTTLE,2004,14500,0,3,,,True
+,RED,Cabernet Kellerei Schreckbichl LAFOA,,,MAGNUM,1999,0,0,1,,,True
+,RED,Cabernet Kellerei Schreckbichl LAFOA,,,BOTTLE,1996,0,0,2,,,True
+,RED,Cabernet Weingut Schloss Katzenzunge ,,RARITAS,BOTTLE,1997,0,0,6,,,True
+,RED,Cabernet Weingut Alois Lageder COR,,RARITAS,BOTTLE,2008,0,0,4,,,True
+,RED,Cabernet Weingut Alois Lageder COR,,,BOTTLE,2006,0,0,21,,,True
+,RED,Cabernet Weingut Alois Lageder COR,,,BOTTLE,2004,0,0,20,,,True
+,RED,Cabernet Weingut Alois Lageder COR,,,BOTTLE,2003,15500,0,9,,,True
+,RED,Cabernet Weingut Alois Lageder COR,,,BOTTLE,2000,0,0,13,,,True
+,RED,Cabernet Weingut Alois Lageder COR,,,BOTTLE,1998,0,0,1,,,True
+,RED,Cabernet Kellerei Schloss Schwanburg CASTEL,,RARITAS,BOTTLE,1997,0,0,1,,,True
+,RED,Cabernet Kellerei Schloss Schwanburg CASTEL,,,BOTTLE,1996,35000,0,3,,,True
+,RED,Cabernet Kellerei Schloss Schwanburg CASTEL,,,BOTTLE,1993,0,0,1,,,True
+,RED,  TERRRA LATIUM ,,MAGNUM ,MAGNUM,2021,0,0,2,,SPÄTLESE PIWI ,True
+,RED,  Weingut Lacknerfog RUSCUS ,,,BOTTLE,2010,0,0,7,,,True
+,RED, Tenuta Manincor  RÉSERVE DEL CONTE,,BIO,BOTTLE,2020,5000,0,41,,L+M+C,True
+,RED, Kellerei Kurtatsch SOMA,,,BOTTLE,2022,0,0,30,, M+C ,True
+,RED, Kellerei Kurtatsch SOMA,,,BOTTLE,2021,6000,0,27,,,True
+,RED, Kellerei Kurtatsch SOMA,,MAGNUM ,MAGNUM,2000,0,0,1,,,True
+,RED, Kellerei St.Michael-Eppan ST.VALENTIN,,,BOTTLE,2021,0,0,18,, CS+CF+M ,True
+,RED, Kellerei St.Michael-Eppan ST.VALENTIN,,,BOTTLE,2020,7000,0,16,,,True
+,RED, Kellerei Nals-Margreid ANTICUS,,,BOTTLE,2020,7500,0,40,, M+C ,True
+,RED, Tenuta Manincor CASSIANO,,BIO,BOTTLE,2021,7500,0,26,, M+C+PV ,True
+,RED, Kellerei Tramin LOAM,,,BOTTLE,2021,8000,0,60,, C+M ,True
+,RED, Kellerei Tramin LOAM,,,BOTTLE,2020,0,0,30,,,True
+,RED, Weingut Alois Lageder CASON,,BIO,BOTTLE,2015,8000,0,0,, TANNAT ,True
+,RED, Weingut Alois Lageder CASON,,BIO,MAGNUM,2015,0,0,0,, TANNAT ,True
+,RED, Weingut Alois Lageder CASON,,BIO,HALF_BOTTLE,2015,0,0,0,, TANNAT ,True
+,RED, Weingut Ignaz Niedrist ROT S,,,BOTTLE,2019,0,0,22,, Syrah ,True
+,RED, Weingut Ignaz Niedrist ROT S,,,BOTTLE,2017,8000,0,10,,,True
+,RED, Weingut Elena Walch KERMESSE,,,BOTTLE,2023,0,0,1,, SY+PV+L+M+CS ,True
+,RED, Weingut Elena Walch KERMESSE,,,BOTTLE,2022,0,0,46,,,True
+,RED, Weingut Elena Walch KERMESSE,,,BOTTLE,2020,8500,0,8,,,True
+,RED, Landesweingut Laimburg COL DE RÉY ,,,BOTTLE,2016,8500,0,20,, M+PV+TANNAT ,True
+,RED, Weingut Peter Sölva  AMISTAR EDITION M'' ,,,BOTTLE,2007,0,0,54,,,True
+,RED, Weingut Peter Sölva  AMISTAR EDITION A' ,,,BOTTLE,2006,0,0,34,,,True
+,RED, Tenuta Manincor CASTEL CAMPAN,,BIO,BOTTLE,2015,12500,0,14,,M+C,True
+,RED, Kellerei Kurtatsch TRES,,,BOTTLE,2015,22000,0,37,,M+CF+CS,True
+,RED, Kellerei Schreckbichl  CORNELIUS ,,RARITAS,MAGNUM,1999,18000,0,1,,,True
+,RED, Kellerei Schreckbichl  KORNELIUS ,,,BOTTLE,1998,0,0,2,,,True
+,RED, Weingut Thurnhof  WEINEGG ,,RARITAS,BOTTLE,2006,0,0,7,,,True
+,RED, Weingut Kornell  CUVÉE ???,,RARITAS,BOTTLE,2001,0,0,11,,,True
+,RED, ENGELS CUVEE JOSEF HÖLZL  ,,,MAGNUM,2016,0,0,1,,,True
+,RED, Tenuta Manincor CASSIANO,,RARITAS,MAGNUM,2007,18000,0,6,,,True
+,RED, Tenuta Manincor CASSIANO,,,BOTTLE,2004,9500,0,4,,,True
+,RED, Kellerei Meran GRAF VON MERAN,,RARITAS,BOTTLE,2000,9500,0,3,,,True
+,RED, Weingut Josef Niedermayr EUFORIUS,,RARITAS,BOTTLE,2005,9500,0,9,,,True
+,RED, Weingut Lacknerhof  RUSCUS ,,RARITAS,MAGNUM,2010,22000,0,4,,,True
+,RED, Weingut Lacknerhof  RUSCUS ,,,MAGNUM,2009,22000,0,3,,,True
+,RED, Weingut Alois Lageder CASON,,RARITAS,BOTTLE,2004,9500,0,15,,,True
+,RED, Weingut Alois Lageder CASON,,,BOTTLE,1995,0,0,2,,,True
+,RED, Weingut Peter Sölva AMISTAR  ,,RARITAS,BOTTLE,2007,0,0,2,,,True
+,RED, Weingut Peter Sölva AMISTAR  ,,,MAGNUM,2006,0,0,1,,,True
+,RED, Weingut Peter Sölva AMISTAR  ,,,BOTTLE,2005,9500,0,21,,,True
+,RED, Weingut Franz Haas ISTANTE,,RARITAS,BOTTLE,2005,0,0,1,,,True
+,RED, Weingut Franz Haas ISTANTE,,,BOTTLE,2001,12500,0,6,,,True
+,RED, Weingut Franz Haas ISTANTE,,,BOTTLE,2000,0,0,1,,,True
+,RED, Landesweingut Laimburg COL DE REY,,RARITAS,BOTTLE,2004,0,0,1,,,True
+,RED, Landesweingut Laimburg COL DE REY,,,BOTTLE,2003,12500,0,1,,,True
+,RED, Landesweingut Laimburg COL DE REY,,,BOTTLE,2002,0,0,2,,,True
+,RED, Weingut Hofstätter YNGRAM,,RARITAS,BOTTLE,2010,0,0,4,,,True
+,RED, Weingut Hofstätter YNGRAM,,,BOTTLE,2000,12500,0,13,,,True
+,RED, Weingut Hofstätter YNGRAM,,,BOTTLE,1997,0,0,4,,,True
+,RED, Weingut Baron di Pauli ARZIO,,RARITAS,MAGNUM,2007,18000,0,6,,,True
+,RED, Weingut Baron di Pauli ARZIO,,,BOTTLE,2005,12500,0,1,,,True
+,RED, Weingut Baron di Pauli ARZIO,,,BOTTLE,2003,0,0,8,,,True
+,RED, Weingut Baron di Pauli ARZIO,,,MAGNUM,2003,18000,0,5,,,True
+,RED, Weingut Peter Sölva AMISTAR EDIZIONE,,RARITAS,BOTTLE,2004,12500,0,9,,,True
+,RED, Weingut Peter Sölva AMISTAR EDIZIONE,,,BOTTLE,2002,0,0,4,,,True
+,RED, Josephus Unterganzner REIF ,,,HALF_BOTTLE,2009,47000,0,2,,,True
+,RED, Josephus Unterganzner REIF ,,,BOTTLE,2008,0,0,0,,,True
+,RED, Josephus Unterganzner REIF ,,,MAGNUM,2008,18000,0,0,,,True
+,RED, Josephus Unterganzner REIF ,,,HALF_BOTTLE,2008,0,0,0,,,True
+,RED, Josephus Unterganzner REIF ,,,BOTTLE,2007,0,0,0,,,True
+,RED, Josephus Unterganzner REIF ,,,MAGNUM,2007,18000,0,0,,,True
+,RED, Josephus Unterganzner REIF ,,,HALF_BOTTLE,2007,0,0,0,,,True
+,RED, Josephus Unterganzner REIF ,,,MAGNUM,2005,21000,0,8,,,True
+,RED, Josephus Unterganzner REIF ,,,MAGNUM,2004,21000,0,13,,,True
+,RED, Josephus Unterganzner REIF ,,,MAGNUM,2003,21000,0,3,,,True
+,RED, Josephus Unterganzner REIF ,,,MAGNUM,2002,21000,0,1,,,True
+,RED, Josephus Unterganzner REIF ,,,MAGNUM,2001,38000,0,2,,,True
+,RED, Weingut Elena Walch  KERMESSE ,,RARITAS,BOTTLE,2009,0,0,1,,,True
+,RED, Tenuta Manincor CASTEL CAMPAN,,RARITAS,BOTTLE,2013,0,0,13,,,True
+,RED, Tenuta Manincor CASTEL CAMPAN,,,BOTTLE,2009,0,0,1,,,True
+,RED, Tenuta Manincor CASTEL CAMPAN,,,BOTTLE,2007,0,0,33,,,True
+,RED, Tenuta Manincor CASTEL CAMPAN,,,BOTTLE,2006,0,0,7,,,True
+,RED, Tenuta Manincor CASTEL CAMPAN,,,BOTTLE,2005,14500,0,17,,,True
+,RED, Tenuta Manincor CASTEL CAMPAN,,,BOTTLE,2004,0,0,7,,,True
+,RED, Tenuta Manincor CASTEL CAMPAN,,,BOTTLE,2003,0,0,1,,,True
+,RED, Tenuta Manincor CASTEL CAMPAN,,,BOTTLE,2001,0,0,1,,,True
+,RED, Tenuta Manincor CASTEL CAMPAN,,,BOTTLE,1998,0,0,2,,,True
+,RED,Lagrein Kellerei Bozen-Gries PRESTIGE - LINIE,,,BOTTLE,2021,0,0,60,,,True
+,RED,Lagrein Kellerei Bozen-Gries PRESTIGE - LINIE,,,BOTTLE,2020,5500,0,30,,,True
+,RED,Lagrein Weingut Rottensteiner SELECT RISERVA,,,BOTTLE,2022,5500,0,18,,,True
+,RED,Lagrein Kellerei Kurtasch  FRAUENRIEGEL ,,,MAGNUM,2014,13000,0,1,,MAGNUM ,True
+,RED,Lagrein Kellerei Andrian TOR DI LUPO RISERVA,,,BOTTLE,2019,6500,0,45,,,True
+,RED,Lagrein Weingut Georg Mumelter GRIESBAUERHOF RISERVA,,,BOTTLE,2017,6500,0,14,,,True
+,RED,Lagrein Weingut Niedrist Ignaz BERGER GEI RISERVA,,,BOTTLE,2019,7000,0,22,,,True
+,RED,Lagrein Kellerei St. Michael-Eppan ST.VALENTIN,,,BOTTLE,2022,0,0,18,,,True
+,RED,Lagrein Kellerei St. Michael-Eppan ST.VALENTIN,,,BOTTLE,2021,7000,0,19,,,True
+,RED,Lagrein Klosterkellerei Muri Gries ABTEI - RISERVA,,,BOTTLE,2022,0,0,30,,,True
+,RED,Lagrein Klosterkellerei Muri Gries ABTEI - RISERVA,,,BOTTLE,2021,0,0,60,,,True
+,RED,Lagrein Klosterkellerei Muri Gries ABTEI - RISERVA,,,BOTTLE,2020,7500,0,162,,,True
+,RED,Lagrein Weingut Ansitz Waldgrieshof RISERVA,,,BOTTLE,2019,7500,0,88,,,True
+,RED,Lagrein Weingut Kiemberger RISERVA,,,BOTTLE,2013,7500,0,111,, (1x 2012) ,True
+,RED,Lagrein Weingut Hofstätter STEINRAFFLER,,,BOTTLE,2013,0,0,6,,,True
+,RED,Lagrein Weingut Hofstätter STEINRAFFLER,,,BOTTLE,2007,7500,0,24,,,True
+,RED,Lagrein Tenuta Foradori - Teroldego GRANATO,,,BOTTLE,2021,8500,0,19,, (2x 2017 in Bar) ,True
+,RED,Lagrein Kellerei Bozen-Gries TABER ,,,BOTTLE,2021,0,0,30,,,True
+,RED,Lagrein Kellerei Bozen-Gries TABER ,,,BOTTLE,2020,0,0,60,,,True
+,RED,Lagrein Kellerei Bozen-Gries TABER ,,,BOTTLE,2018,8500,0,34,,,True
+,RED,Lagrein Kellerei Terlan PORPHYR,,,BOTTLE,2021,0,0,60,,,True
+,RED,Lagrein Kellerei Terlan PORPHYR,,,BOTTLE,2019,0,0,14,,,True
+,RED,Lagrein Kellerei Terlan PORPHYR,,,BOTTLE,2018,9500,0,71,,,True
+,RED,Lagrein Kellerei Terlan PORPHYR,,,BOTTLE,2016,0,0,50,,,True
+,RED,Lagrein Weingut Georg Mumelter  GRIESBAUERHOF PERFLABILIS,,,BOTTLE,2018,0,0,12,,,True
+,RED,Lagrein Weingut Ansitz Waldgrieshof MIRELL,,,BOTTLE,2020,9500,0,60,,,True
+,RED,Lagrein Weingut Ansitz Waldgrieshof MIRELL,,,BOTTLE,2019,0,0,2,,,True
+,RED,Lagrein Klosterkellerei Muri Gries WEINGARTEN KLOSTERANGER,,,BOTTLE,2021,0,0,24,,,True
+,RED,Lagrein Klosterkellerei Muri Gries WEINGARTEN KLOSTERANGER,,,BOTTLE,2020,0,0,12,,,True
+,RED,Lagrein Klosterkellerei Muri Gries WEINGARTEN KLOSTERANGER,,,BOTTLE,2017,0,0,119,,,True
+,RED,Lagrein Klosterkellerei Muri Gries WEINGARTEN KLOSTERANGER,,,BOTTLE,2016,11500,0,76,, MAGNUM ,True
+,RED,Lagrein Klosterkellerei Muri Gries WEINGARTEN KLOSTERANGER,,,MAGNUM,2016,0,0,7,, MAGNUM ,True
+,RED,Lagrein Klosterkellerei Muri Gries WEINGARTEN KLOSTERANGER,,,BOTTLE,2015,13000,0,21,, MAGNUM ,True
+,RED,Lagrein Klosterkellerei Muri Gries WEINGARTEN KLOSTERANGER,,,MAGNUM,2015,0,0,27,, MAGNUM ,True
+,RED,Lagrein Klosterkellerei Muri Gries WEINGARTEN KLOSTERANGER,,,BOTTLE,2014,15000,0,72,, MAGNUM ,True
+,RED,Lagrein Klosterkellerei Muri Gries WEINGARTEN KLOSTERANGER,,,MAGNUM,2014,0,0,19,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,MAGNUM,2023,0,10500,2,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,BOTTLE,2023,0,4800,24,,,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,BOTTLE,2022,0,0,24,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,MAGNUM,2022,0,0,4,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,HALF_BOTTLE,2022,0,0,1,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,BOTTLE,2021,0,0,30,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,MAGNUM,2021,0,0,4,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,HALF_BOTTLE,2021,0,0,1,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,BOTTLE,2020,0,0,17,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,MAGNUM,2020,0,0,3,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,HALF_BOTTLE,2020,0,0,1,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,BOTTLE,2019,13000,0,6,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,MAGNUM,2019,0,0,1,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,HALF_BOTTLE,2019,0,0,1,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,MAGNUM,2018,0,0,2,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,BOTTLE,2016,0,0,1,,,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,BOTTLE,2015,0,0,1,,,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,BOTTLE,2014,0,0,2,,,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,BOTTLE,2013,0,0,1,,,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,BOTTLE,2012,0,0,1,,,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,MAGNUM,2007,0,0,2,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,MAGNUM,2006,0,0,2,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,MAGNUM,2002,0,0,2,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,BOTTLE,2001,0,0,1,, MAGNUM ,True
+,RED,Lagrein Josephus Unterganzner LAMAREIN TB,,,MAGNUM,2001,0,0,1,, MAGNUM ,True
+,RED,Lagrein Weingut Ansitz Waldgrieshof ROBLINUS,,,BOTTLE,2017,0,0,18,,,True
+,RED,Lagrein Weingut Ansitz Waldgrieshof ROBLINUS,,,BOTTLE,2015,14500,0,9,,,True
+,RED,Lagrein Kellerei Meran  SEGEN RISERVA ,,RARITAS,BOTTLE,2004,0,0,5,,,True
+,RED,Lagrein Kellerei St. Pauls  PASSION ,,RARITAS,BOTTLE,2007,0,0,3,,,True
+,RED,Lagrein Kellerei St. Pauls  PASSION ,,,BOTTLE,2006,0,0,4,,,True
+,RED,Lagrein Kellerei Terlan  GRIES ,,,MAGNUM,2010,9500,0,1,,,True
+,RED,Lagrein Kellerei Bozen-Gries PRESTIGE - LINIE,,RARITAS,BOTTLE,2015,0,0,7,,,True
+,RED,Lagrein Kellerei Bozen-Gries PRESTIGE - LINIE,,,BOTTLE,2004,0,0,2,,,True
+,RED,Lagrein Kellerei Bozen-Gries PRESTIGE - LINIE,,,BOTTLE,2001,0,0,14,,,True
+,RED,Lagrein Kellerei Bozen-Gries PRESTIGE - LINIE,,,MAGNUM,2000,14000,0,2,,,True
+,RED,Lagrein Kellerei Bozen-Gries PRESTIGE - LINIE,,,BOTTLE,1999,9500,0,21,,,True
+,RED,Lagrein Kellerei Bozen-Gries PRESTIGE - LINIE,,,BOTTLE,1997,0,0,0,,,True
+,RED,Lagrein Kellerei Bozen-Gries PRESTIGE - LINIE,,,MAGNUM,1997,14000,0,0,,,True
+,RED,Lagrein Kellerei Bozen-Gries PRESTIGE - LINIE,,,HALF_BOTTLE,1997,0,0,0,,,True
+,RED,Lagrein Kellerei Bozen-Gries PRESTIGE - LINIE,,,BOTTLE,1996,0,0,3,,,True
+,RED,Lagrein Kellerei Bozen-Gries PRESTIGE - LINIE,,,BOTTLE,1995,0,0,3,,,True
+,RED,Lagrein Kellerei Bozen-Gries PRESTIGE - LINIE,,,MAGNUM,1995,14000,0,1,,,True
+,RED,Lagrein Weingut Josef Neidermayr ?? RISERVA,,RARITAS,BOTTLE,2005,0,0,1,,,True
+,RED,Lagrein Weingut Josef Neidermayr ?? RISERVA,,,BOTTLE,1998,0,0,8,,,True
+,RED,Lagrein Kellerei Tramin URBANHOF,,RARITAS,BOTTLE,2005,0,0,4,,,True
+,RED,Lagrein Kellerei Tramin URBANHOF,,,BOTTLE,2004,0,0,2,,,True
+,RED,Lagrein Kellerei Tramin URBANHOF,,,BOTTLE,2002,0,0,1,,,True
+,RED,Lagrein Kellerei Tramin URBANHOF,,,BOTTLE,2000,0,0,8,,,True
+,RED,Lagrein Kellerei Tramin URBANHOF,,,BOTTLE,1999,9500,0,11,,,True
+,RED,Lagrein Weingut Griesbauerhof RISERVA,,RARITAS,BOTTLE,2003,9500,0,9,,,True
+,RED,Lagrein Weingut Griesbauerhof RISERVA,,,BOTTLE,2000,0,0,7,,,True
+,RED,Lagrein Weingut Alois Lageder LINDENBURG,,RARITAS,BOTTLE,2006,9500,0,1,,,True
+,RED,Lagrein Weingut Alois Lageder LINDENBURG,,,BOTTLE,2005,0,0,2,,,True
+,RED,Lagrein Weingut Alois Lageder LINDENBURG,,,BOTTLE,2004,0,0,17,,,True
+,RED,Lagrein Josephus Unterganzner RISERVA,,RARITAS,MAGNUM,2009,18000,0,3,,,True
+,RED,Lagrein Josephus Unterganzner RISERVA,,,BOTTLE,2008,0,0,2,,,True
+,RED,Lagrein Josephus Unterganzner RISERVA,,,BOTTLE,2007,0,0,2,,,True
+,RED,Lagrein Josephus Unterganzner RISERVA,,,BOTTLE,2005,0,0,6,,,True
+,RED,Lagrein Josephus Unterganzner RISERVA,,,BOTTLE,2004,0,0,5,,,True
+,RED,Lagrein Josephus Unterganzner RISERVA,,,BOTTLE,2003,9500,0,19,,,True
+,RED,Lagrein Josephus Unterganzner RISERVA,,,MAGNUM,2001,16500,0,1,,,True
+,RED,Lagrein Josephus Unterganzner RISERVA,,,BOTTLE,1999,0,0,7,,,True
+,RED,Lagrein Weingut Pfannenstilhof RISERVA,,RARITAS,BOTTLE,2007,0,0,3,,,True
+,RED,Lagrein Weingut Pfannenstilhof RISERVA,,,BOTTLE,2005,9500,0,19,,,True
+,RED,Lagrein Weingut Pfannenstilhof RISERVA,,,BOTTLE,2004,0,0,3,,,True
+,RED,Lagrein Kellerei Schreckbichl CORNELL,,RARITAS,BOTTLE,2001,0,0,19,,,True
+,RED,Lagrein Kellerei Schreckbichl CORNELL,,,BOTTLE,2000,9500,0,4,,,True
+,RED,Lagrein Kellerei Schreckbichl CORNELL,,,BOTTLE,1998,0,0,2,,,True
+,RED,Lagrein Stiftskellerei Neustift PRAEPOSITUS,,RARITAS,BOTTLE,2001,9500,0,2,,,True
+,RED,Lagrein Stiftskellerei Neustift PRAEPOSITUS,,,BOTTLE,2000,0,0,12,,,True
+,RED,Lagrein Stiftskellerei Neustift PRAEPOSITUS,,,BOTTLE,1999,0,0,4,,,True
+,RED,Lagrein Weingut Clemens Waldthaler RAUT,,RARITAS,BOTTLE,2007,0,0,2,,,True
+,RED,Lagrein Weingut Clemens Waldthaler RAUT,,,BOTTLE,1997,9500,0,5,,,True
+,RED,Lagrein Weingut Ansitz Waldgrieserhof RISERVA,,RARITAS,BOTTLE,2004,0,0,5,,,True
+,RED,Lagrein Weingut Ansitz Waldgrieserhof RISERVA,,,BOTTLE,2000,0,0,5,,,True
+,RED,Lagrein Weingut Ansitz Waldgrieserhof RISERVA,,,BOTTLE,1998,0,0,1,,,True
+,RED,Lagrein Weingut Kiemberger RISERVA,,RARITAS,BOTTLE,2010,9500,0,24,,,True
+,RED,Lagrein Landesweingut Laimburg BARBAGOL,,RARITAS,BOTTLE,2004,0,0,16,,,True
+,RED,Lagrein Landesweingut Laimburg BARBAGOL,,,BOTTLE,2000,11000,0,19,,,True
+,RED,Lagrein Kellerei St. Michael-Eppan ST.VALENTIN,,RARITAS,BOTTLE,2003,0,0,1,,,True
+,RED,Lagrein Kellerei St. Michael-Eppan ST.VALENTIN,,,BOTTLE,2001,0,0,3,,,True
+,RED,Lagrein Kellerei St. Michael-Eppan ST.VALENTIN,,,BOTTLE,2000,11500,0,7,,,True
+,RED,Lagrein Kellerei Terlan PORPHYR,,RARITAS,BOTTLE,2015,12500,0,10,,,True
+,RED,Lagrein Kellerei Terlan PORPHYR,,,BOTTLE,2014,0,0,4,,,True
+,RED,Lagrein Kellerei Bozen-Gries  TABER ,,RARITAS,BOTTLE,2002,0,0,4,,,True
+,RED,Lagrein Kellerei Bozen-Gries  TABER ,,,MAGNUM,2001,18000,0,2,,,True
+,RED,Lagrein Kellerei Bozen-Gries  TABER ,,,MAGNUM,2000,18000,0,2,,,True
+,RED,Lagrein Kellerei Bozen-Gries  TABER ,,,BOTTLE,1999,12500,0,4,,,True
+,RED,Lagrein Klosterkellerei Muri Gries ABTEI - RISERVA,,RARITAS,BOTTLE,2018,0,0,22,,,True
+,RED,Lagrein Klosterkellerei Muri Gries ABTEI - RISERVA,,,BOTTLE,2016,13500,0,20,,,True
+,RED,Lagrein Klosterkellerei Muri Gries ABTEI - RISERVA,,,MAGNUM,2005,21000,0,16,,,True
+,RED,Lagrein Klosterkellerei Muri Gries ABTEI - RISERVA,,,BOTTLE,2003,0,0,3,,,True
+,RED,Lagrein Klosterkellerei Muri Gries ABTEI - RISERVA,,,MAGNUM,2000,21000,0,3,,,True
+,RED,Lagrein Klosterkellerei Muri Gries ABTEI - RISERVA,,,MAGNUM,1999,21000,0,5,,,True
+,RED,Lagrein Klosterkellerei Muri Gries ABTEI - RISERVA,,,BOTTLE,1997,0,0,3,,,True
+,RED,Lagrein Klosterkellerei Muri Gries ABTEI - RISERVA,,,MAGNUM,1997,21000,0,3,,,True
+,RED,Lagrein Klosterkellerei Muri Gries ABTEI - RISERVA,,,BOTTLE,1995,0,0,1,,,True
+,RED,Lagrein Weingut Hofstätter STEINRAFFLER,,RARITAS,MAGNUM,2004,16000,0,2,,,True
+,RED,Lagrein Weingut Hofstätter STEINRAFFLER,,,BOTTLE,2003,0,0,2,,,True
+,RED,Lagrein Weingut Hofstätter STEINRAFFLER,,,BOTTLE,2000,0,0,12,,,True
+,RED,Lagrein Weingut Hofstätter STEINRAFFLER,,,BOTTLE,1997,13500,0,8,,,True
+,RED,Lagrein Weingut Hofstätter STEINRAFFLER,,,MAGNUM,1997,18000,0,1,,,True
+,RED,Lagrein Weingut Hofstätter STEINRAFFLER,,,BOTTLE,1995,0,0,1,,,True
+,RED,Lagrein Weingut Hofstätter STEINRAFFLER,,,MAGNUM,1995,15000,0,2,,,True
+,RED,Lagrein Weingut Ansitz Waldgrieserhof MIRELL,,RARITAS,MAGNUM,2009,26000,0,5,,,True
+,RED,Lagrein Weingut Ansitz Waldgrieserhof MIRELL,,,BOTTLE,2007,14500,0,21,,,True
+,RED,Lagrein Weingut Ansitz Waldgrieserhof MIRELL,,,BOTTLE,2006,0,0,22,,,True
+,RED,Lagrein Weingut Ansitz Waldgrieserhof MIRELL,,,BOTTLE,2004,0,0,1,,,True
+,RED,Lagrein Weingut Ansitz Waldgrieserhof MIRELL,,,BOTTLE,2001,0,0,1,,,True
+,RED,Lagrein Weingut Ansitz Waldgrieserhof RUBLINUS ,,RARITAS,BOTTLE,2013,0,0,3,,,True
+,RED,Valpolicella Zenato RIPASSA    ,,,BOTTLE,2020,5500,0,16,,,True
+,RED,Valpolicella Corte Giara Allegrini  RIPASSA    ,,,BOTTLE,2020,0,0,18,,,True
+,RED,Valpolicella Ferragù Carlo VALPOLICELLA SUPERIORE,,,BOTTLE,2017,7500,0,3,,,True
+,RED,Valpolicella Dal Forno Romano VALPOLICELLA,,RARITAS,BOTTLE,2000,12500,0,9,,,True
+,RED,Amarone della Valpolicella Ferragù Carlo ,,,BOTTLE,2011,0,0,18,,,True
+,RED,Amarone della Valpolicella Ferragù Carlo ,,,BOTTLE,2010,0,0,28,,,True
+,RED,Amarone della Valpolicella Ferragù Carlo ,,,BOTTLE,2009,11500,0,15,,,True
+,RED,Amarone della Valpolicella Ferragù Carlo ,,,BOTTLE,2008,0,0,2,,,True
+,RED,Amarone della Valpolicella Marilisa Allegrini VILLA DELLA TORRE,,,BOTTLE,2020,8000,0,36,,,True
+,RED,Amarone della Valpolicella Zenato ,,,BOTTLE,2017,8500,0,19,,,True
+,RED,Amarone della Valpolicella Allegrini CLASSICO ,,,BOTTLE,2019,11500,0,15,,,True
+,RED,Amarone della Valpolicella Zenato CLASSICO RISERVA,,,BOTTLE,2018,15500,0,12,,,True
+,RED,Amarone della Valpolicella Masi MAZZANO,,,BOTTLE,2006,14500,0,3,,,True
+,RED,Amarone della Valpolicella Viviani CASA DEI BEPI,,,BOTTLE,2003,12000,0,8,,,True
+,RED,Amarone della Valpolicella Viviani CASA DEI BEPI,,,MAGNUM,2003,0,0,0,,,True
+,RED,Amarone della Valpolicella Viviani CASA DEI BEPI,,,HALF_BOTTLE,2003,0,0,0,,,True
+,RED,Amarone della Valpolicella Secondo Marco RISERVA IL FUMETTO,,,BOTTLE,2008,25000,0,11,,,True
+,RED,Amarone della Valpolicella Bertani ,,RARITAS,BOTTLE,1983,12500,0,0,,,True
+,RED,Amarone della Valpolicella Bertani ,,RARITAS,MAGNUM,1983,0,0,0,,,True
+,RED,Amarone della Valpolicella Bertani ,,RARITAS,HALF_BOTTLE,1983,0,0,0,,,True
+,RED,Amarone della Valpolicella Viviani TULIPANO NERO,,RARITAS,BOTTLE,2000,17500,0,9,,,True
+,RED,Amarone della Valpolicella Viviani CASA DEI BEPI,,RARITAS,BOTTLE,1997,17500,0,2,,,True
+,RED,Amarone della Valpolicella Pietro Zardini DECEM RISERVA,,RARITAS,BOTTLE,2013,0,0,6,,,True
+,RED,Amarone della Valpolicella Masi  MAZANO,,RARITAS,BOTTLE,1997,0,0,1,,,True
+,RED,Amarone della Valpolicella Masi  MAZANO,,,BOTTLE,1995,0,0,1,,,True
+,RED,Amarone della Valpolicella Masi  COSTASERA ,,RARITAS,HALF_BOTTLE,2008,26000,0,1,,,True
+,RED,Amarone della Valpolicella Masi  COSTASERA ,,,BOTTLE,2001,32500,0,2,,,True
+,RED,Amarone della Valpolicella Masi  COSTASERA ,,,BOTTLE,1999,0,0,4,,,True
+,RED,Amarone della Valpolicella Masi  COSTASERA ,,,BOTTLE,1997,0,0,1,,,True
+,RED,Amarone della Valpolicella Masi  VOJO DE MASI ,,RARITAS,MAGNUM,1973,0,0,5,,,True
+,RED,Amarone della Valpolicella Dal Forno Romano ,,RARITAS,BOTTLE,2003,32000,0,13,,,True
+,RED,Amarone della Valpolicella Dal Forno Romano ,,,BOTTLE,2002,36000,0,10,,,True
+,RED,Amarone della Valpolicella Dal Forno Romano ,,,MAGNUM,2001,65000,0,3,,,True
+,RED,Amarone della Valpolicella Dal Forno Romano ,,,HALF_BOTTLE,2001,135000,0,1,,,True
+,RED,Amarone della Valpolicella Dal Forno Romano ,,,BOTTLE,2000,38000,0,11,,,True
+,RED,Amarone della Valpolicella Dal Forno Romano ,,,MAGNUM,2000,65000,0,7,,,True
+,RED,Amarone della Valpolicella Dal Forno Romano ,,,HALF_BOTTLE,2000,150000,0,3,,,True
+,RED,Amarone della Valpolicella Dal Forno Romano ,,,MAGNUM,1999,70000,0,1,,,True
+,RED,Amarone della Valpolicella Dal Forno Romano ,,,MAGNUM,1998,75000,0,1,,,True
+,RED,Amarone della Valpolicella Dal Forno Romano ,,,MAGNUM,1996,80000,0,1,,,True
+,RED,Corvina Veronese La Poja Allegrini,,,BOTTLE,2017,14500,0,6,,,True
+,RED,Cabernet Dal Forno  ALZER,,,BOTTLE,2001,0,0,3,,?????????,True
+,RED, Morellino di Scansano Fattoria Le Pupille,,,BOTTLE,2021,4500,0,7,,,True
+,RED, Sangiovese Orcia Aetos Tenuta Sanoner,,,BOTTLE,2019,5900,0,17,,,True
+,RED, Cabreo Mytho  Tenuta del Cabreo ,,,BOTTLE,2019,0,9000,18,,,True
+,RED, Morellino di Scansano Fattoria Le Pupille,,,BOTTLE,2019,6500,0,0,, RISERVA ,True
+,RED, Morellino di Scansano Fattoria Le Pupille,,,MAGNUM,2019,0,0,0,, RISERVA ,True
+,RED, Morellino di Scansano Fattoria Le Pupille,,,HALF_BOTTLE,2019,0,0,0,, RISERVA ,True
+,RED, Ceparello Isole e Olena,,,BOTTLE,2008,9500,0,0,,,True
+,RED, Ceparello Isole e Olena,,,MAGNUM,2008,0,0,0,,,True
+,RED, Ceparello Isole e Olena,,,HALF_BOTTLE,2008,0,0,0,,,True
+,RED, Testamatta Bibi Graetz,,,BOTTLE,2001,12500,0,4,,,True
+,RED, Testamatta Bibi Graetz,,,BOTTLE,2019,14500,0,27,,,True
+,RED, Flaccianello Fontodi,,,BOTTLE,2019,19000,0,6,,,True
+,RED, Flaccianello Fontodi,,,MAGNUM,2008,36000,0,2,,,True
+,RED, Le Pergole Torte Montevertine,,,BOTTLE,2008,36000,0,8,,,True
+,RED, Colore Bibi Graetz,,,BOTTLE,2019,29000,0,22,,,True
+,RED,CHIANTI Marchesi de Frescobaldi CASTIGLIONI,,,BOTTLE,2020,3500,0,28,,,True
+,RED,CHIANTI Marchesi de Frescobaldi PERANO RISERVA,,,BOTTLE,2016,3900,0,0,,,True
+,RED,CHIANTI Marchesi de Frescobaldi PERANO RISERVA,,,MAGNUM,2016,0,0,0,,,True
+,RED,CHIANTI Marchesi de Frescobaldi PERANO RISERVA,,,HALF_BOTTLE,2016,0,0,0,,,True
+,RED,CHIANTI Fontodi  ???,,,BOTTLE,2019,0,0,6,,,True
+,RED,CHIANTI Castello di Ama              VIGNETTO BELLAVIST  CHIANTI CLASSICO  ,,,MAGNUM,1990,42000,0,1,,,True
+,RED,CHIANTI Marchesi Antinori VILLA ANTINORI,,,BOTTLE,2019,4900,0,34,,,True
+,RED,CHIANTI Tenuta Nozzole LA FORRA GRAN SELEZIONE,,,BOTTLE,2011,4500,0,15,,,True
+,RED,CHIANTI Marchesi de Frescobaldi VECCHIE VITI NIPOZZANO ,,,BOTTLE,2019,0,0,24,,,True
+,RED,CHIANTI Marchesi de Frescobaldi RUFINA ?????,,,BOTTLE,2016,0,0,24,,,True
+,RED,CHIANTI Marchesi de Frescobaldi RUFINA ?????,,,BOTTLE,2015,4900,0,9,,,True
+,RED,CHIANTI Marchesi de Frescobaldi MONTESODI,,,BOTTLE,2015,5500,0,0,,,True
+,RED,CHIANTI Marchesi de Frescobaldi MONTESODI,,,MAGNUM,2015,0,0,0,,,True
+,RED,CHIANTI Marchesi de Frescobaldi MONTESODI,,,HALF_BOTTLE,2015,0,0,0,,,True
+,RED,VINO NOBILE DI MONTEPULCIANO Caterina Dei  ,,,BOTTLE,2016,5500,0,12,,,True
+,RED,VINO NOBILE DI MONTEPULCIANO Avignonesi ,,,BOTTLE,2015,5500,0,19,,,True
+,RED,VINO NOBILE DI MONTEPULCIANO Avignonesi VENTISEI,,,BOTTLE,2016,7500,0,0,,,True
+,RED,VINO NOBILE DI MONTEPULCIANO Avignonesi VENTISEI,,,MAGNUM,2016,0,0,0,,,True
+,RED,VINO NOBILE DI MONTEPULCIANO Avignonesi VENTISEI,,,HALF_BOTTLE,2016,0,0,0,,,True
+,RED,VINO NOBILE DI MONTEPULCIANO Avignonesi PROGETTO DI SOPRA,,,BOTTLE,2017,7500,0,4,,,True
+,RED,ROSSO DI MONTALCINO Collosorbo ,,,BOTTLE,2009,0,0,2,,,True
+,RED,ROSSO DI MONTALCINO Collosorbo ,,,BOTTLE,2007,4500,0,4,,,True
+,RED,ROSSO DI MONTALCINO Castiglion del Bosco GAUGGIOLE,,,BOTTLE,2016,5500,0,19,,,True
+,RED,ROSSO DI MONTALCINO Salvioni ,,,BOTTLE,2009,6500,0,25,,,True
+,RED,ROSSO DI MONTALCINO Tenuta Constanti  ,,,MAGNUM,2017,0,0,1,,,True
+,RED,BRUNELLO DI MONTALCINO  Il Poggione ,,,BOTTLE,2005,7000,0,7,,,True
+,RED,BRUNELLO DI MONTALCINO  Castiglion del Bosco ,,,BOTTLE,2011,8000,0,29,,,True
+,RED,BRUNELLO DI MONTALCINO  Talenti ,,,BOTTLE,2004,8000,0,11,,,True
+,RED,BRUNELLO DI MONTALCINO  Costanti COLLE AL MATRICHESE,,,BOTTLE,2009,8500,0,4,, MAGNUM  ,True
+,RED,BRUNELLO DI MONTALCINO  Costanti COLLE AL MATRICHESE,,,MAGNUM,2009,0,0,1,, MAGNUM  ,True
+,RED,BRUNELLO DI MONTALCINO  Il Poggione RISERVA,,,BOTTLE,2004,12500,0,5,,,True
+,RED,BRUNELLO DI MONTALCINO  Il Poggione RISERVA,,,BOTTLE,1995,0,0,1,,,True
+,RED,BRUNELLO DI MONTALCINO  Collosorbo RISERVA,,,BOTTLE,2006,10500,0,6,,,True
+,RED,BRUNELLO DI MONTALCINO  Tenuta Folonari  LA FUGA ,,,BOTTLE,2007,10500,7000,9,, MAGNUM  ,True
+,RED,BRUNELLO DI MONTALCINO  Tenuta Folonari  LA FUGA ,,,MAGNUM,2007,28000,7000,1,, MAGNUM  ,True
+,RED,BRUNELLO DI MONTALCINO  Marchesi de Frescobaldi CASTEL GIOCONDO RIPE AL CONVENTO RISERVA,,,BOTTLE,2013,11500,0,29,,,True
+,RED,BRUNELLO DI MONTALCINO  Costanti RISERVA,,,BOTTLE,2006,12500,0,18,,,True
+,RED,BRUNELLO DI MONTALCINO  Costanti RISERVA,,,BOTTLE,2004,0,0,1,,,True
+,RED,BRUNELLO DI MONTALCINO  E. & P. Palmucci POGGIO DI SOTTO,,,BOTTLE,1995,16500,0,4,,,True
+,RED,BRUNELLO DI MONTALCINO  Castiglion del Bosco CAMPO DEL DRAGO,,,BOTTLE,2011,16500,0,1,,,True
+,RED,BRUNELLO DI MONTALCINO  Salvioni LA CERBAIOLA,,,BOTTLE,2005,16500,0,22,,,True
+,RED,BRUNELLO DI MONTALCINO  Pieve di Santa Restituta GAJA - SUGARILLE,,,BOTTLE,2004,18500,0,8,,,True
+,RED,BRUNELLO DI MONTALCINO  Pieve di Santa Restituta GAJA - SUGARILLE,,,BOTTLE,1997,0,0,3,,,True
+,RED,BRUNELLO DI MONTALCINO  Marchesi Antinori  VIGNAFERROVIA ,,,MAGNUM,2006,38000,0,1,, MAGNUM  ,True
+,RED,BRUNELLO DI MONTALCINO  Marchesi Antinori  VIGNAFERROVIA ,,,MAGNUM,2004,38000,0,4,,,True
+,RED,BRUNELLO DI MONTALCINO  Biondi Santi ANNATA,,RARITAS,BOTTLE,2009,0,0,1,,,True
+,RED,BRUNELLO DI MONTALCINO  Biondi Santi ANNATA,,,BOTTLE,2008,0,0,1,,,True
+,RED,BRUNELLO DI MONTALCINO  Biondi Santi ANNATA,,,BOTTLE,2007,22000,0,1,,,True
+,RED,BRUNELLO DI MONTALCINO  Biondi Santi ANNATA,,,BOTTLE,1990,0,0,1,,,True
+,RED,BRUNELLO DI MONTALCINO  Salvioni RISERVA,,RARITAS,BOTTLE,1995,55000,0,4,,,True
+,RED,Merlot Lamaione Marchesi de Frescobaldi,,,BOTTLE,2017,0,0,18,,,True
+,RED,Merlot Lamaione Marchesi de Frescobaldi,,,BOTTLE,2016,8500,0,10,,,True
+,RED,Merlot Lamaione Marchesi de Frescobaldi,,,BOTTLE,2015,0,0,30,,,True
+,RED,Merlot Desiderio Avignonesi,,,BOTTLE,2018,8500,0,29,,,True
+,RED,Merlot Giorgio Bartholomäus Tenuta Argentiera,,,BOTTLE,2008,14500,0,17,,,True
+,RED,Merlot Giorgio Bartholomäus Tenuta Argentiera,,,MAGNUM,2006,26500,0,1,, MAGNUM  ,True
+,RED,Merlot L`Apparita Marchesi Antinori,,,BOTTLE,2019,0,0,6,,,True
+,RED,Merlot L`Apparita Marchesi Antinori,,,BOTTLE,2016,26000,0,6,,,True
+,RED,Merlot Baffonero Rocca di Frassinello,,,BOTTLE,2010,26000,0,3,,,True
+,RED,Merlot Massetino Tenuta dell`Ornellaia,,,BOTTLE,2019,0,0,3,,   ,True
+,RED,Merlot Massetino Tenuta dell`Ornellaia,,,BOTTLE,2018,50000,0,3,,,True
+,RED,Merlot Masseto Tenuta dell`Ornellaia,,,BOTTLE,2018,0,0,3,,,True
+,RED,Merlot Masseto Tenuta dell`Ornellaia,,,BOTTLE,2017,70000,0,3,,,True
+,RED,Merlot Masseto Tenuta dell`Ornellaia,,,BOTTLE,2016,0,0,3,,,True
+,RED,Merlot Masseto Tenuta dell`Ornellaia,,,MAGNUM,2011,220000,0,1,, MAGNUM  ,True
+,RED,Merlot Masseto Tenuta dell`Ornellaia,,,BOTTLE,2010,0,0,1,,,True
+,RED,Merlot MESSORIO  Le Macchiole ,,,MAGNUM,2008,45000,0,2,, MAGNUM  ,True
+,RED,Cabernet Pertra  Cabernet Sauvignon ????,,,BOTTLE,2009,0,0,12,,,True
+,RED,Cabernet Selvante  Campo al Mare ,,,BOTTLE,2019,0,4500,18,,,True
+,RED,Cabernet Ceccante Grillesino,,,BOTTLE,2013,5500,0,13,,   ,True
+,RED,Cabernet Ceccante Grillesino,,,MAGNUM,2012,19000,0,2,, MAGNUM  ,True
+,RED,Cabernet Cifra Cabernet Franc Duemani,,,BOTTLE,2020,0,0,12,,   ,True
+,RED,Cabernet Cifra Cabernet Franc Duemani,,,BOTTLE,2018,6000,0,21,,,True
+,RED,Cabernet Il Pareto Tenuta Nozzole,,,BOTTLE,2020,0,4500,30,,   ,True
+,RED,Cabernet Il Pareto Tenuta Nozzole,,,BOTTLE,2013,0,10000,2,,,True
+,RED,Cabernet Il Pareto Tenuta Nozzole,,,BOTTLE,2007,7500,10000,6,,,True
+,RED,Cabernet Altrovino  Duemani,,,BOTTLE,2019,7500,0,18,,   ,True
+,RED,Cabernet Collezione de Marchi Isole Olena,,,BOTTLE,2001,9500,0,17,,,True
+,RED,Cabernet Paleo Rosso Le Macchiole,,,BOTTLE,2007,12500,0,4,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,2020,35000,0,18,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,2019,35000,0,29,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,2019,120000,0,5,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,2018,35000,0,31,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,2018,120000,0,8,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,HALF_BOTTLE,2018,280000,0,2,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,2017,35000,0,16,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,2017,100000,0,6,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,2016,55000,0,26,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,2016,160000,0,10,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,2015,55000,0,42,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,2015,0,0,1,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,2014,40000,0,2,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,2014,120000,0,5,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,2012,120000,0,3,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,2011,0,0,2,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,2010,45000,0,5,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,2010,120000,0,1,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,2009,190000,0,6,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,HALF_BOTTLE,2009,390000,0,2,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,2008,45000,0,3,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,2008,160000,0,1,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,2007,45000,0,6,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,2006,40000,0,15,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,2006,190000,0,3,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,2005,45000,0,2,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,2004,40000,0,2,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,2004,160000,0,2,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,2003,40000,0,4,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,2003,160000,0,2,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,2002,40000,0,8,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,2002,160000,0,1,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,2000,55000,0,5,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,2000,170000,0,6,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,1999,45000,0,2,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,1999,160000,0,2,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,1998,45000,0,4,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,1998,0,0,2,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,1997,55000,0,9,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,1997,260000,0,2,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,1996,45000,0,3,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,1996,160000,0,4,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,1995,0,0,2,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,1994,45000,0,5,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,1994,160000,0,1,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,1992,40000,0,6,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,1992,0,0,1,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,1990,250000,0,3,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,1989,220000,0,1,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,HALF_BOTTLE,1989,480000,0,1,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,1988,230000,0,3,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,1985,990000,0,1,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,1984,0,0,1,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,1983,40000,0,4,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,BOTTLE,1982,0,0,0,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,1982,320000,0,0,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,HALF_BOTTLE,1982,0,0,0,,,True
+,RED,Cabernet Sassicaia Tenuta San Guido,,,MAGNUM,1980,250000,0,1,,,True
+,RED,Cabernet Cabernet Franc Duemani,,,BOTTLE,2018,14500,0,48,,,True
+,RED,Cabernet Cabernet Franc Duemani,,,BOTTLE,2017,14500,0,2,, (In Bar)  ,True
+,RED,Cabernet Cabernet Franc Duemani,,,BOTTLE,2008,21000,0,6,, MAGNUM  ,True
+,RED,Cabernet Cabernet Franc Duemani,,,MAGNUM,2008,32000,0,1,, MAGNUM  ,True
+,RED,Cabernet Cabernet Franc Duemani,,,BOTTLE,2007,0,0,2,,,True
+,RED,Cabernet Ophelia Maria  Tenuta Argntiera ,,,MAGNUM,2010,26000,0,3,, MAGNUM  ,True
+,RED, Lucente Marchesi de Frescobaldi,,,BOTTLE,2019,6000,0,36,,,True
+,RED, Lucente Marchesi de Frescobaldi,,,BOTTLE,2012,0,0,3,,,True
+,RED, Lucente Marchesi de Frescobaldi,,,BOTTLE,2010,0,0,1,,,True
+,RED, Siepi Castello di Fonterutoli,,,BOTTLE,2003,18500,0,4,,,True
+,RED, Siepi Castello di Fonterutoli,,,BOTTLE,2001,0,0,4,,,True
+,RED, Siepi Castello di Fonterutoli,,,BOTTLE,1998,0,0,1,,,True
+,RED, Siepi Castello di Fonterutoli,,,BOTTLE,1996,0,0,2,,,True
+,RED, Luce Marchesi de Frescobaldi,,,BOTTLE,2019,0,0,6,,,True
+,RED, Luce Marchesi de Frescobaldi,,,BOTTLE,2009,18500,0,9,,,True
+,RED, 50 & 50 Avignonesi & Capanelle,,,BOTTLE,2007,23000,0,8,,,True
+,RED, 50 & 50 Avignonesi & Capanelle,,,MAGNUM,1993,45000,0,1,, MAGNUM  ,True
+,RED, Le Difese Tenuta San Guido (Sassicaia),,,BOTTLE,2023,6500,0,18,,,True
+,RED, Le Volte Tenuta dell`Ornellaia,,,BOTTLE,2020,5000,0,36,, MAGNUM  ,True
+,RED, Le Volte Tenuta dell`Ornellaia,,,MAGNUM,2020,0,0,6,, MAGNUM  ,True
+,RED, Le Volte Tenuta dell`Ornellaia,,,HALF_BOTTLE,2019,0,0,2,, MAGNUM  ,True
+,RED, Cabreo il Borgo  Tenuta del Cabreo ,,,BOTTLE,2022,0,3130,30,,,True
+,RED, Cabreo il Borgo  Tenuta del Cabreo ,,,MAGNUM,2020,0,6815,1,, MAGNUM  ,True
+,RED, Tignanello Marchesi Antinori,,,BOTTLE,2019,14500,0,6,,,True
+,RED, Tignanello Marchesi Antinori,,,BOTTLE,2018,0,0,30,, MAGNUM  ,True
+,RED, Tignanello Marchesi Antinori,,,MAGNUM,2018,28800,0,2,, MAGNUM  ,True
+,RED, Tignanello Marchesi Antinori,,,MAGNUM,2017,28800,0,2,, MAGNUM  ,True
+,RED, Tignanello Marchesi Antinori,,,MAGNUM,2007,32000,0,1,, MAGNUM  ,True
+,RED, Tignanello Marchesi Antinori,,,MAGNUM,2005,0,0,1,, MAGNUM  ,True
+,RED, Lux Vitis Marchesi de Frescobaldi,,,BOTTLE,2016,0,0,3,,,True
+,RED, Lux Vitis Marchesi de Frescobaldi,,,BOTTLE,2015,23000,0,5,,,True
+,RED, Solaia Marchesi Antinori,,,BOTTLE,2019,0,0,3,,,True
+,RED, Solaia Marchesi Antinori,,,BOTTLE,2017,38000,0,12,, MAGNUM  ,True
+,RED, Solaia Marchesi Antinori,,,MAGNUM,2017,0,0,2,, MAGNUM  ,True
+,RED, Solaia Marchesi Antinori,,,MAGNUM,2008,95000,0,4,, MAGNUM  ,True
+,RED, Solaia Marchesi Antinori,,,MAGNUM,2006,95000,0,1,, MAGNUM  ,True
+,RED, Solaia Marchesi Antinori,,,BOTTLE,1995,0,0,1,,,True
+,RED, Solaia Marchesi Antinori,,,BOTTLE,1990,0,0,1,,,True
+,RED, Cá del Pazzo  Tenuta Caparzo ,,,MAGNUM,1990,16000,0,1,,,True
+,RED, Castello di Bolgheri  Contessa Franca Spaletti T.,,,BOTTLE,2007,7500,0,10,,,True
+,RED, Guidoalberto Tenuta San Guido,,,BOTTLE,2020,0,0,105,,,True
+,RED, Guidoalberto Tenuta San Guido,,,BOTTLE,2019,0,0,49,,,True
+,RED, Guidoalberto Tenuta San Guido,,,BOTTLE,2017,8500,0,10,,,True
+,RED, Guidoalberto Tenuta San Guido,,,BOTTLE,2016,0,0,6,,,True
+,RED, Guidoalberto Tenuta San Guido,,,BOTTLE,2015,0,0,6,,,True
+,RED, Guidoalberto Tenuta San Guido,,,BOTTLE,2013,9500,0,4,,,True
+,RED, Le Serre Nuove Tenuta dell`Ornellaia,,,BOTTLE,2019,8000,0,27,, MAGNUM  ,True
+,RED, Le Serre Nuove Tenuta dell`Ornellaia,,,MAGNUM,2019,0,0,7,, MAGNUM  ,True
+,RED,Le Serre Nuove Tenuta dell`Ornellaia 20 ANNI ,,,MAGNUM,2017,16000,0,4,, MAGNUM  ,True
+,RED, Le Serre Nuove Tenuta dell`Ornellaia,,,BOTTLE,2016,0,0,7,,,True
+,RED, Le Serre Nuove Tenuta dell`Ornellaia,,,MAGNUM,2013,14000,0,1,, MAGNUM  ,True
+,RED, Tenuta Argentiera Argentiera,,,BOTTLE,2016,11000,0,38,, MAGNUM  ,True
+,RED, Tenuta Argentiera Argentiera,,,MAGNUM,2016,21500,0,8,, MAGNUM  ,True
+,RED, Tenuta Argentiera Argentiera,,,BOTTLE,2010,0,0,7,,,True
+,RED, Tenuta Argentiera Argentiera,,,BOTTLE,2009,0,0,24,,,True
+,RED, Saffredi Fattoria Le Pupille,,,BOTTLE,2017,12000,0,29,,,True
+,RED, Saffredi Fattoria Le Pupille,,,BOTTLE,2016,0,0,2,,,True
+,RED, Magari Angelo Gaja - Tenuta Marcanda,,,BOTTLE,2015,14500,0,23,,,True
+,RED, Magari Angelo Gaja - Tenuta Marcanda,,,BOTTLE,2010,0,0,6,,,True
+,RED, Lupicaia Tenuta del Terriccio,,,BOTTLE,2007,16500,0,13,,,True
+,RED, Ca Marcanda Angelo Gaja - Tenuta Marcanda,,,BOTTLE,2004,16500,0,12,,,True
+,RED, Ornellaia Tenuta dell`Ornellaia,,,BOTTLE,2017,28000,0,11,, MAGNUM  ,True
+,RED, Ornellaia Tenuta dell`Ornellaia,,,MAGNUM,2017,60000,0,3,, MAGNUM  ,True
+,RED, Ornellaia Tenuta dell`Ornellaia,,,BOTTLE,2016,28000,0,10,,,True
+,RED, Ornellaia Tenuta dell`Ornellaia,,,BOTTLE,2014,24000,0,4,,,True
+,RED,Ornellaia Tenuta dell`Ornellaia 25 ANNI ,,,MAGNUM,2010,60000,0,1,, MAGNUM  ,True
+,RED, Ornellaia Tenuta dell`Ornellaia,,,MAGNUM,2009,50000,0,4,, MAGNUM  ,True
+,RED, Ornellaia Tenuta dell`Ornellaia,,,BOTTLE,2006,0,0,1,,,True
+,RED, Liena  PETIT VERDOT ,,,BOTTLE,2013,0,0,6,,,True
+,RED, Liena  CABERNET SAUVIGNON,,,BOTTLE,2013,0,0,6,,,True
+,RED, Campo al Mare Tenute Folonari,,,BOTTLE,2011,5500,1650,15,,,True
+,RED, Baia al vento   Tenute Folonari,,,BOTTLE,2011,0,6000,25,, MAGNUM  ,True
+,RED, Baia al vento   Tenute Folonari,,,MAGNUM,2011,13500,6000,2,, MAGNUM  ,True
+,RED, Baia al vento   Tenute Folonari,,,MAGNUM,2009,13500,0,1,, MAGNUM  ,True
+,RED, Il Seggio Tenuta Poggio al Tesoro,,,BOTTLE,2022,0,0,72,,,True
+,RED, Il Seggio Tenuta Poggio al Tesoro,,,BOTTLE,2021,5500,0,14,,,True
+,RED, Pian di Nova Il Borro,,,BOTTLE,2013,0,0,4,,,True
+,RED, Pian di Nova Il Borro,,,BOTTLE,2012,6000,0,6,,,True
+,RED, Varvàra Castello di Bolgheri,,,BOTTLE,2008,6500,0,7,,,True
+,RED, Promis Tenuta Cá Marcanda - Angelo Gaja ,,,BOTTLE,2015,0,0,29,,,True
+,RED, Promis Tenuta Cá Marcanda - Angelo Gaja ,,,BOTTLE,2012,6500,0,11,,,True
+,RED, Prima Pietra Tenuta Prima Pietra,,,BOTTLE,2016,8500,0,72,,,True
+,RED, Prima Pietra Tenuta Prima Pietra,,,BOTTLE,2012,0,0,5,,,True
+,RED, Prima Pietra Tenuta Prima Pietra,,,BOTTLE,2010,0,0,3,,,True
+,RED, Mormoreto Marchesi de Frescobaldi,,,BOTTLE,2016,8500,0,5,,,True
+,RED, Mormoreto Marchesi de Frescobaldi,,,BOTTLE,2010,0,0,3,,,True
+,RED, Sondraia  Tenuta Poggio al Tesoro ,,,BOTTLE,2020,0,0,36,,,True
+,RED, Sondraia  Tenuta Poggio al Tesoro ,,,BOTTLE,2019,0,0,6,,,True
+,RED, Millepassi  Donnaolimpia ,,,BOTTLE,2017,0,0,6,,,True
+,RED, G. Punto - Grenache Duemani,,,BOTTLE,2018,18000,0,4,,,True
+,RED, Guado al Tasso Marchesi Antinori ,,,BOTTLE,2008,18500,0,2,,,True
+,RED, Petra RISERVA  Tenuta Prima Pietra,,,BOTTLE,2008,0,0,6,,,True
+,RED, TreSoro Caia Rossa+Duemani+Prima Pietra,,,BOTTLE,2017,19000,0,18,,,True
+,RED, Lodovico  Tenuta di Biserno ,,,MAGNUM,2007,68000,0,2,, MAGNUM  ,True
+,RED,Syrah Ammiraglia Marchesi de Frescobaldi,,,BOTTLE,2011,7500,0,19,,,True
+,RED,Syrah Bramasole Tenuta La Braccesca,,,BOTTLE,2006,8500,0,7,, MAGNUM  ,True
+,RED,Syrah Bramasole Tenuta La Braccesca,,,MAGNUM,2006,19500,0,2,, MAGNUM  ,True
+,RED,Syrah Bramasole Tenuta La Braccesca,,,BOTTLE,2000,0,0,1,,,True
+,RED,Syrah Collezione De Marchi Isole & Olena,,,BOTTLE,2004,9500,0,14,,,True
+,RED,Syrah Case Via Tenuta Fontodi,,,BOTTLE,2004,9500,0,12,,,True
+,RED,Syrah Suisassi Duemani,,,BOTTLE,2016,16500,0,20,,,True
+,RED,Syrah Scrio Le Macchiole,,,BOTTLE,2006,18500,0,12,, MAGNUM  ,True
+,RED,Syrah Scrio Le Macchiole,,,MAGNUM,2006,36500,0,5,, MAGNUM  ,True
+,RED,Dolcetto Marcarini BOSCHI DI BERRI,,,BOTTLE,2017,4000,0,11,,,True
+,RED,Dolcetto Voerzio Roberto PRIAVINO,,,BOTTLE,2010,4500,0,11,,,True
+,RED,Barbera Montalbera NUDA,,,BOTTLE,2018,0,0,49,,,True
+,RED,Barbera Montalbera NUDA,,,BOTTLE,2016,0,0,5,,,True
+,RED,Barbera Montalbera NUDA,,,BOTTLE,2015,5000,0,14,,,True
+,RED,Barbera Braida MONTEBRUNA,,,BOTTLE,2016,5000,0,5,,,True
+,RED,Barbera M. Marengo  VINGA PANGIANE ,,,BOTTLE,2018,0,0,12,,,True
+,RED,Barbera Rocche dei Manzoni SORITO MOSCONI,,,BOTTLE,2010,6500,0,7,,,True
+,RED,Barbera Voerzio Roberto BARBERA D´ALBA ,,,MAGNUM,2007,19000,0,1,, MAGNUM  ,True
+,RED,Barbera Voerzio Roberto VIGNETO CERETTO,,,BOTTLE,2006,6500,0,13,,,True
+,RED,Barbera Braida BRICCO DELL´UCCELLONE,,,BOTTLE,2018,0,0,24,,,True
+,RED,Barbera Braida BRICCO DELL´UCCELLONE,,,BOTTLE,2016,9500,0,5,,,True
+,RED,Barbera Primtto Castamiole  BARBERA D´ASTI ,,,BOTTLE,2008,0,0,4,,,True
+,RED,Barbera Primtto Castamiole  BARBERA D´ASTI ,,,BOTTLE,2003,0,0,3,,,True
+,RED,Barbera Primtto Castamiole  BARBERA D´ASTI ,,,BOTTLE,2000,0,0,4,,,True
+,RED,Barbera Braida BRICCO DELLA BIGOTTA,,,BOTTLE,2018,9500,0,47,,,True
+,RED,Barbera Braida BRICCO DELLA BIGOTTA,,,BOTTLE,2016,0,0,11,,,True
+,RED,Barbera Braida BRICCO DELLA BIGOTTA,,,BOTTLE,2013,0,0,6,,,True
+,RED,Barbera Braida AI SUMA,,,BOTTLE,2016,11500,0,21,,,True
+,RED,Ruché Montalbera LACCENTO,,,BOTTLE,2018,4900,0,18,,,True
+,RED,Ruché Montalbera LACCENTO,,,HALF_BOTTLE,0,0,0,1,,,True
+,RED,Cabernet Sauvignon Angelo Gaja DARMAGI,,,BOTTLE,2019,39500,0,18,,,True
+,RED,Cabernet Sauvignon Angelo Gaja DARMAGI,,,BOTTLE,2013,0,0,3,,,True
+,RED,Cabernet Sauvignon Angelo Gaja DARMAGI,,,BOTTLE,1990,0,0,6,,,True
+,RED,Merlot Voerzio Roberto FONTANAZZA,,,BOTTLE,0,0,0,0,,,True
+,RED,Merlot Voerzio Roberto FONTANAZZA,,,MAGNUM,0,0,0,0,,,True
+,RED,Merlot Voerzio Roberto FONTANAZZA,,,HALF_BOTTLE,0,0,0,0,,,True
+,RED, Angelo Gaja  SITO MORESCO ,,,BOTTLE,2020,0,0,14,,,True
+,RED, Conterno Fantino  MONPRÁ ,, MAGNUM  ,MAGNUM,2007,42000,0,1,,LANGE ROSSO ,True
+,RED,Nebbiolo Manzone IL CRUTIN ,,,BOTTLE,2011,4900,0,11,,,True
+,RED,Nebbiolo Marcarini LASARIN,,,BOTTLE,2017,5500,0,12,,,True
+,RED,Nebbiolo M. Marengo - La Morra VIGNA VALMAGGIORE,,,BOTTLE,2018,5500,0,12,,,True
+,RED,Nebbiolo Rocche dei Manzoni LANGHE,,,BOTTLE,2014,5500,0,24,,,True
+,RED,Nebbiolo Rocche dei Manzoni LANGHE,,,BOTTLE,2010,0,0,18,,,True
+,RED,Nebbiolo Sandrone D´ALBA VALMAGGIORE ,,,BOTTLE,2016,5500,0,7,,,True
+,RED,Nebbiolo Angelo Gaja CONTEISA,,,BOTTLE,2007,23000,0,6,,,True
+,RED,Barbaresco Albino Rocca VIGNETO BRICH RONCHI,,,BOTTLE,1998,0,0,2,,,True
+,RED,Barbaresco Albino Rocca VIGNETO BRICH RONCHI,,,BOTTLE,1997,9700,0,4,,,True
+,RED,Barbaresco Albino Rocca VIGNETO BRICH RONCHI,,,BOTTLE,1996,9700,0,10,,,True
+,RED,Barbaresco Nada Fiorenzo ,,,BOTTLE,1995,11500,0,2,,,True
+,RED,Barbaresco Angelo Gaja ,,,BOTTLE,2019,18500,0,3,,,True
+,RED,Barbaresco Angelo Gaja ,,,MAGNUM,2018,0,0,1,, MAGNUM  ,True
+,RED,Barbaresco Angelo Gaja ,,,BOTTLE,2006,0,0,2,,,True
+,RED,Barbaresco Angelo Gaja ,,,BOTTLE,2005,0,0,1,,,True
+,RED,Barbaresco Albino Rocca VIGNETO BRICH RONCHI,,,BOTTLE,1996,18500,0,0,,,True
+,RED,Barbaresco Albino Rocca VIGNETO BRICH RONCHI,,,MAGNUM,1996,0,0,0,,,True
+,RED,Barbaresco Albino Rocca VIGNETO BRICH RONCHI,,,HALF_BOTTLE,1996,0,0,0,,,True
+,RED,Barbaresco Angelo Gaja SORÌ SAN LORENZO,,,BOTTLE,1995,45000,0,0,,,True
+,RED,Barbaresco Angelo Gaja SORÌ SAN LORENZO,,,MAGNUM,1995,0,0,0,,,True
+,RED,Barbaresco Angelo Gaja SORÌ SAN LORENZO,,,HALF_BOTTLE,1995,0,0,0,,,True
+,RED,Barbaresco Angelo Gaja SORÌ TILDIN,,,BOTTLE,1983,45000,0,1,,,True
+,RED,Barbaresco Gromis Gaja ,,,BOTTLE,1971,65000,0,2,,,True
+,RED,Barbaresco Gromis Gaja ,,,BOTTLE,1970,0,0,1,,,True
+,RED,Barbaresco Gromis Gaja ,,,BOTTLE,1967,0,0,1,,,True
+,RED,Barbaresco Gromis Gaja ,,,BOTTLE,1982,0,0,1,,,True
+,RED,Barbaresco Borgogno ,,RARITAS,BOTTLE,1967,45000,0,3,,,True
+,RED,Barbaresco Borgogno ,,RARITAS,BOTTLE,1964,45000,0,4,,,True
+,RED,Barbaresco Giovanni Gaja ,,RARITAS,BOTTLE,1964,45000,0,3,,,True
+,RED,Barolo Maccerini  COMUNE DI LA MORRA ,,,BOTTLE,2015,0,0,3,,,True
+,RED,Barolo Maccerini  BRUMATE ,,,BOTTLE,2015,0,0,21,,,True
+,RED,Barolo Maccerini  BRUMATE ,,,BOTTLE,2014,0,0,26,,,True
+,RED,Barolo Maccerini  BRUMATE ,,,BOTTLE,2011,0,0,3,,,True
+,RED,Barolo M. Marengo ,,,BOTTLE,2016,6000,0,12,,,True
+,RED,Barolo M. Marengo BRICCO DELLE VIOLE,,,BOTTLE,2016,7500,0,11,,,True
+,RED,Barolo Marcarini LA SERRA,,,BOTTLE,2015,8000,0,20,,,True
+,RED,Barolo Angelo Gaja DAGROMIS,,,BOTTLE,2019,0,0,12,,,True
+,RED,Barolo Angelo Gaja DAGROMIS,,,BOTTLE,2018,9000,0,30,,,True
+,RED,Barolo Massolino PARAFADA SERRALUNGA,,,BOTTLE,2008,11500,0,6,,,True
+,RED,Barolo Massolino MARGHERIA SERRALUNGA,,,BOTTLE,2008,11500,0,6,,,True
+,RED,Barolo Massolino MARGHERIA SERRALUNGA,,,BOTTLE,2005,0,0,11,,,True
+,RED,Barolo Corino Renato VECCHIE VIGNE,,,BOTTLE,2004,9500,0,7,,,True
+,RED,Barolo Sandrone Luciano LE VIGNE,,,BOTTLE,2007,11500,0,8,,,True
+,RED,Barolo Sandrone Luciano CANUBBI BOSCHIS,,,BOTTLE,2007,13500,0,8,,,True
+,RED,Barolo Rocche dei Manzoni VIGNA CAPPELLA DI S.S.,,,BOTTLE,1997,13500,0,3,,,True
+,RED,Barolo Conterno Fantino SORI GINESTRA,,,BOTTLE,2006,15000,0,12,,,True
+,RED,Barolo Bruno Giacosa FALLETTO SERRALUNGA,,,BOTTLE,2012,23000,0,0,,,True
+,RED,Barolo Bruno Giacosa FALLETTO SERRALUNGA,,,MAGNUM,2012,0,0,0,,,True
+,RED,Barolo Bruno Giacosa FALLETTO SERRALUNGA,,,HALF_BOTTLE,2012,0,0,0,,,True
+,RED,Barolo Angelo Gaja SPERSS,,,BOTTLE,2017,47000,0,4,,,True
+,RED,Barolo Borgogno RISERVA,,,BOTTLE,1967,45000,0,3,,,True
+,RED,Barolo Borgogno RISERVA,,,BOTTLE,1964,45000,0,2,,,True
+,RED,Barolo Borgogno RISERVA,,,BOTTLE,1961,45000,0,1,,,True
+,RED,Barolo Borgogno RISERVA,,,BOTTLE,1957,45000,0,3,,,True
+,RED,Barolo Terre di Barolo ,,,BOTTLE,1964,45000,0,1,,,True
+,RED,Barolo Fratelli Cogno ,,,BOTTLE,1967,45000,0,1,,,True
+,RED,Barolo Fratelli Cogno ,,,BOTTLE,1961,0,0,3,,,True
+,RED,Barolo Giacomo Conterno ,,,BOTTLE,1964,65000,0,1,,,True
+,RED,Barolo Aldo Conterno BRICCO BUSSIA,,,BOTTLE,1976,65000,0,3,,,True
+,RED,Barolo F.lli Alessandria ,,,BOTTLE,1964,45000,0,2,,,True
+,RED,Barolo Voerzio Giacomo ,,,BOTTLE,1967,65000,0,1,,,True
+,RED,Barolo Voerzio Giacomo ,,,MAGNUM,1967,0,0,0,,,True
+,RED,Barolo Voerzio Giacomo ,,,HALF_BOTTLE,1967,0,0,0,,,True
+,RED,Barolo Marchesi di Barolo ,,,BOTTLE,1990,45000,0,1,,,True
+,RED,Barolo Cavallotto BRICCO BOSCHIS,,,BOTTLE,1989,45000,0,1,,,True
+,RED,Barolo Montanello ,,,BOTTLE,1976,45000,0,2,,,True
+,RED,Barolo Pio Cesare ,,,BOTTLE,1961,65000,0,1,,,True
+,RED,Barolo Pio Cesare ,,,BOTTLE,1949,0,0,3,,,True
+,RED,Bruno Giacosa Barbaresco Asili  ,,,BOTTLE,2017,0,0,12,,,True
+,RED,Bruno Giacosa Barbaresco Asili  FALLETTO RISERVA ,,,MAGNUM,2016,0,0,3,, MAGNUM  ,True
+,RED,Bruno Giacosa Barbaresco Asili  ,,,BOTTLE,2015,0,0,6,,,True
+,RED,Bruno Giacosa Barolo  FALLETTO ,,,BOTTLE,2016,0,0,6,,,True
+,RED,Bruno Giacosa Barolo  FALLETTO ,,,BOTTLE,2012,0,0,16,,,True
+,RED,Bruno Giacosa (Rot) VIGNE LE ROCCHE FALLETTO ,,,BOTTLE,2012,0,0,1,,,True
+,RED,Bruno Giacosa (Rot) VIGNE LE ROCCHE FALLETTO ,,,BOTTLE,2011,0,0,5,,,True
+,RED,Bruno Giacosa (Rot) LE ROCCHE DEL FALLETTO ,,,BOTTLE,2009,0,0,1,,,True
+,RED,Bruno Giacosa (Rot) LE ROCCHE DEL FALLETTO ,,,BOTTLE,2005,0,0,2,,,True
+,RED, Ca´del Bosco MAURIZIO ZANELLA,,,BOTTLE,2003,8500,0,2,,,True
+,RED, Ca´del Bosco MAURIZIO ZANELLA,,,BOTTLE,1998,0,0,6,,,True
+,RED,Carignano del Sulcis Barrua ISOLA DEI NURAGHI,,,BOTTLE,2020,7000,0,18,,,True
+,RED,Carignano del Sulcis Terre Brune SUPERIORE,,,BOTTLE,2018,7500,0,4,,,True
+,RED,Cabernet Tenuta Regaleali TASCA D`ALMERITA,,,BOTTLE,2008,7500,0,11,,,True
+,RED,Cabernet Tenuta Regaleali TASCA D`ALMERITA,,,BOTTLE,1999,0,0,5,,,True
+,RED,Cabernet Tenuta Regaleali TASCA D`ALMERITA,,,BOTTLE,1997,0,0,3,,,True
+,RED,Nero d´Avola Morgante DON ANTONIO,,,BOTTLE,2020,5500,0,16,,,True
+,RED,Syrah Delia Nivolelli  RISERVA ,,,BOTTLE,2016,7500,0,18,,,True
+,RED,Syrah Tenuta Reguleali Tascca d´Almerita  PERRICONE ,,,BOTTLE,2016,0,0,7,,,True
+,RED,Primitivo Gianfranco Fino SE,,,BOTTLE,2021,8500,0,6,,,True
+,RED,Primitivo Gianfranco Fino ES,,,BOTTLE,2022,9500,0,13,,,True
+,RED,Negroamaro Gianfranco Fino JO,,,BOTTLE,2019,0,0,18,,,True
+,RED, Gianfranco Fino JO,,,BOTTLE,2017,8500,0,5,,,True
+,RED, La Carraia TIZZONERO,,,BOTTLE,2004,4700,0,4,,,True
+,RED, Silvia Imparato MONTEVETRANO,,,BOTTLE,1998,8500,0,4,,,True
+,RED,Aglianico Montesole SANNIO,,,BOTTLE,2003,4900,0,7,,,True
+,RED,Aglianico Feudi di S. Gregorio PIANO DI MONTEVERGINE,,,BOTTLE,1996,6500,0,1,,,True
+,RED,Aglianico Feudi di S. Gregorio PIANO DI MONTEVERGINE,,,BOTTLE,1995,0,0,1,,,True
+,RED,Aglianico Feudi di S. Gregorio SERPICO,,,BOTTLE,2007,8500,0,16,,,True
+,RED,Aglianico Galardi TERRA DI LAVORO,,,BOTTLE,2008,8500,0,55,,,True
+,RED,Aglianico Galardi TERRA DI LAVORO,,,BOTTLE,2007,0,0,78,,,True
+,RED,Merlot Feudi di San Gregorio PATRIMO,,,BOTTLE,1999,9500,0,0,,,True
+,RED,Merlot Feudi di San Gregorio PATRIMO,,,MAGNUM,1999,0,0,0,,,True
+,RED,Merlot Feudi di San Gregorio PATRIMO,,,HALF_BOTTLE,1999,0,0,0,,,True
+,RED,Merlot Falesco MONTIANO,,,BOTTLE,1997,7500,0,1,,,True
+,WHITE,Riesling Frèdèric Mochel GRAND CRU HENRIETTE,,,BOTTLE,2007,4500,0,33,,,True
+,WHITE,Riesling Frèdèric Mochel GRAND CRU HENRIETTE,,,BOTTLE,2005,0,0,1,,,True
+,WHITE,Riesling Zind Humbrecht CLOS WINDSBUHL,,,BOTTLE,2007,7500,0,26,,,True
+,WHITE,Riesling Domaine Weinbach GRAND CRU SCHLOSSBERG ST. CATHERINE ,,,BOTTLE,2007,7500,0,11,,,True
+,WHITE,Riesling Zind Humbrecht RANGEN DE THANN G.G.,,,BOTTLE,2007,7500,0,14,,,True
+,WHITE,Pinot Gris  Domaine Ostertag  ,,,BOTTLE,2001,0,0,2,,,True
+,WHITE,Pinot Gris  Domaine Ostertag  ,,,BOTTLE,1999,0,0,2,,,True
+,WHITE,Pessac-Léognan Domaine de Chevalier  L´Esprit de Chevalier,,,BOTTLE,2007,12500,0,4,,,True
+,WHITE,Pessac-Léognan Domaine de Chevalier  L´Esprit de Chevalier,,,BOTTLE,2005,0,0,2,,,True
+,WHITE,Pessac-Léognan Domaine de Chevalier  GRAN CRU CLASSE ,,,BOTTLE,1996,26000,0,3,,,True
+,WHITE,Pessac-Léognan Chateau Smith Haut Lafitte  ,,,BOTTLE,2007,11000,0,3,,,True
+,WHITE,Pessac-Léognan Chateau Smith Haut Lafitte  ,,,BOTTLE,2006,0,0,1,,,True
+,WHITE,Pessac-Léognan Chateau Smith Haut Lafitte  ,,,BOTTLE,2005,0,0,1,,,True
+,WHITE,Pessac-Léognan Chateau Smith Haut Lafitte  ,,,BOTTLE,2000,0,0,1,,,True
+,WHITE,Pessac-Léognan Chateau Smith Haut Lafitte  ,,,BOTTLE,1997,0,0,3,,,True
+,WHITE,Pessac-Léognan Chateau Pape Clement ,,,BOTTLE,2005,0,0,3,,,True
+,WHITE,Pessac-Léognan Chateau Pape Clement ,,,BOTTLE,2004,22000,0,8,,,True
+,WHITE,Pessac-Léognan Chateau Laville Haut Brion ,,,BOTTLE,2005,33000,0,4,,,True
+,WHITE,Pouilly Fumé Didier Dagueneau ,,,BOTTLE,2007,8500,0,4,,,True
+,WHITE,Pouilly Fumé Didier Dagueneau ,,,BOTTLE,2005,0,0,1,,,True
+,WHITE,Pouilly Fumé Baron de L ,,,BOTTLE,2006,11500,0,3,,,True
+,WHITE,Pouilly Fumé Didier Dagueneau BUISSON RENARD,,,BOTTLE,2007,11500,0,1,,,True
+,WHITE,Pouilly Fumé Didier Dagueneau BUISSON RENARD,,,BOTTLE,2005,0,0,3,,,True
+,WHITE,Pouilly Fumé Didier Dagueneau BUISSON RENARD,,,BOTTLE,2004,0,0,1,,,True
+,WHITE,Pouilly Fumé Didier Dagueneau BUISSON RENARD,,,BOTTLE,2002,0,0,1,,,True
+,WHITE,Pouilly Fumé Didier Dagueneau SILEX ,,,BOTTLE,2009,11500,0,1,,,True
+,WHITE,Sancerre Vacheron ,,,BOTTLE,0,0,0,0,,,True
+,WHITE,Sancerre Vacheron ,,,MAGNUM,0,0,0,0,,,True
+,WHITE,Sancerre Vacheron ,,,HALF_BOTTLE,0,0,0,0,,,True
+,WHITE,Chablis Jean Paul Droin GRAND CRU LES CLOS,,,BOTTLE,2006,14500,0,3,,,True
+,WHITE,Chablis Domaine Francois Raveneau BUTTEAUX,,,BOTTLE,2006,26500,0,4,,,True
+,WHITE,Mersault Domain Jacques Prieur CLOS DE MAZERAY,,,BOTTLE,2006,14500,0,4,,,True
+,WHITE,Mersault Domain Jacques Prieur PERRIERES PREMIER CRU,,,BOTTLE,2006,25000,0,4,,,True
+,WHITE,Mersault Hospices de Beaune PREMIER CRU,,,BOTTLE,2002,22000,0,4,,,True
+,WHITE,Mersault Antoine Jobard EN LA BARRE,,,BOTTLE,2007,14500,0,3,,,True
+,WHITE,Mersault Antoine Jobard LES TILLETS,,,BOTTLE,2007,14500,0,2,,,True
+,WHITE,Mersault Antoine Jobard PORUZOTS,,,BOTTLE,2007,16500,0,3,,,True
+,WHITE,Puligny Montrachet Etienne Sauzet ,,,BOTTLE,2007,17500,0,16,,,True
+,WHITE,Puligny Montrachet Etienne Sauzet ,,,BOTTLE,2006,0,0,2,,,True
+,WHITE,Puligny Montrachet Etienne Sauzet 1er CRU LES REFERTS,,,BOTTLE,2007,21000,0,12,,,True
+,WHITE,Puligny Montrachet Etienne Sauzet 1er CRU LES REFERTS,,,BOTTLE,2006,0,0,4,,,True
+,WHITE,Puligny Montrachet Domaine Leflaive 1er CRU LES CLAVAILLONS ,,,BOTTLE,2007,38000,0,3,,,True
+,WHITE,Puligny Montrachet Domaine Leflaive 1er CRU LES CLAVAILLONS ,,,BOTTLE,2006,0,0,1,,,True
+,WHITE,Puligny Montrachet Domaine Leflaive 1er CRU LES FOLATIERES,,,BOTTLE,2007,0,0,3,,,True
+,WHITE,Puligny Montrachet Domaine Leflaive 1er CRU LES FOLATIERES,,,BOTTLE,2006,38000,0,5,,,True
+,WHITE,Puligny Montrachet Domaine Leflaive 1er CRU PUCELLES,,,BOTTLE,2007,0,0,2,,,True
+,WHITE,Puligny Montrachet Domaine Leflaive 1er CRU PUCELLES,,,BOTTLE,2006,50000,0,5,,,True
+,WHITE,Batard Montrachet Jean Chartron GRAND CRU,,,BOTTLE,2004,54000,0,5,,,True
+,WHITE,Batard Montrachet Domaine Leflaive GRAND CRU,,,BOTTLE,2006,95000,0,1,,,True
+,WHITE,Chevalier Montrachet Jean Chartron G. CRU CLOS DES CHEVALIERS,,,BOTTLE,2004,54000,0,5,,,True
+,WHITE,Chevalier Montrachet Domaine Leflaive GRAND CRU,,,BOTTLE,2006,110000,0,5,,,True
+,WHITE,Montrachet Domain Jacques Prieur MONTRACHET GRAND CRU,,,BOTTLE,2007,75000,0,5,,,True
+,WHITE,Chassagne Montrachet Bernard Moreau GRAND VIN DE BOURGOGNE,,,BOTTLE,2007,8500,0,25,,,True
+,WHITE,BEAUNE CHAMPS Domaine Jacpues Prieur 1er CRU,,,BOTTLE,2006,7500,0,31,,,True
+,WHITE,POMMARD Hospices de Beaune ,,,BOTTLE,1982,14500,0,1,,,True
+,WHITE,SAVIGNY Domaine A.F. Gros 1er CRU LE CLOS DE GUETTES,,,BOTTLE,2002,7500,0,1,,,True
+,WHITE,SAVIGNY Domaine Nicolas Potel 1er CRU LES HAUTS JARRONS,,,BOTTLE,2005,9500,0,4,,,True
+,RED,NUITS ST. GEORGES Daniel Rion & Fils ,,,BOTTLE,1995,11000,0,1,,,True
+,RED,NUITS ST. GEORGES Domaine de L´Arlot 1er CRU LES PETITS PLETS,,,BOTTLE,2008,11000,0,8,,,True
+,RED,NUITS ST. GEORGES Alain Michelot 1er CRU LES PORÊTS-SAINT-GEORGES,,,BOTTLE,2005,12500,0,4,,,True
+,RED,NUITS ST. GEORGES Domaine de L´Arlot 1er CRU CLOS DES FORETS SAINT GEORGES,,,BOTTLE,2006,12500,0,5,,,True
+,RED,NUITS ST. GEORGES Domain Nicolas Potel 1er CRU LES DAMODES,,,BOTTLE,2005,21000,0,15,,,True
+,RED,ECHEZEAUX Domain Nicolas Potel GRAND CRU,,,BOTTLE,2006,34500,0,8,,,True
+,RED,VOSNE ROMANÉE Alain Hundelot-Noellat ,,,BOTTLE,2005,22000,0,10,,,True
+,RED,VOSNE ROMANÉE Gros Frère et Soeur ,,,BOTTLE,2006,22000,0,6,,,True
+,RED,VOSNE ROMANÉE Domaine de L´Arlot 1er CRU LES SUCHOTS,,,BOTTLE,2006,24500,0,10,,,True
+,RED,VOSNE ROMANÉE Nicolas Potel 1er CRU AUX DESSUS DES MALCONSORTS,,,BOTTLE,2007,26500,0,6,,,True
+,RED,CHAMBOLLE MUSIGNY Domaine Nicolas Potel VIEILLES VIGNES,,,BOTTLE,2006,14500,0,4,,,True
+,RED,CHAMBOLLE MUSIGNY Domaine A.F. Gros ,,,BOTTLE,2002,16500,0,3,,,True
+,RED,CHAMBOLLE MUSIGNY Gilbert et Christine Felettig ,,,BOTTLE,2005,16500,0,5,,,True
+,RED,CHAMBOLLE MUSIGNY Domaine Comte Georges de Vogüé  ,,,BOTTLE,2007,25000,0,7,,,True
+,RED,GEVREY CHAMBERTIN Somain Marchand-Grillot  ,,,BOTTLE,2009,0,0,6,,,True
+,RED,GEVREY CHAMBERTIN Domaine Fourrier  VILLE VIGNE,,,BOTTLE,2009,0,0,2,,,True
+,RED,GEVREY CHAMBERTIN Domaine Marchand-Grillot ,,,BOTTLE,2005,11000,0,4,,,True
+,RED,GEVREY CHAMBERTIN Domaine Jacques Prieur 1er CRU,,,BOTTLE,2005,11000,0,25,,,True
+,RED,GEVREY CHAMBERTIN Domaine Marchand-Grillot 1er CRU PETITE CHAPELLE ,,,BOTTLE,2005,14500,0,20,,,True
+,RED,GEVREY CHAMBERTIN Domaine Marchand-Grillot CHAMPERRIER,,,BOTTLE,2006,11000,0,8,,,True
+,RED,GEVREY CHAMBERTIN Domaine Denis Mortet VILLE VIGNE,,,BOTTLE,2006,14500,0,1,,,True
+,RED,GEVREY CHAMBERTIN Domaine Nicolas Potel GRAND CRU CHARMES CHAMBERTIN,,,BOTTLE,2006,18500,0,5,,,True
+,RED,GEVREY CHAMBERTIN Jean & Jean-Louis Trapet 1er CRU,,,BOTTLE,2006,21000,0,5,,,True
+,RED,GEVREY CHAMBERTIN André Ziltener GRAND CRU,,,BOTTLE,1988,22000,0,1,,,True
+,RED,GEVREY CHAMBERTIN Domaine Dugat-Py COEUR DE ROY,,,BOTTLE,2005,26500,0,6,,,True
+,RED,RICHEBOURG Domaine A.F. Gros GRAND CRU,,,BOTTLE,2002,65000,0,5,,,True
+,RED,CLOS DE VOUGEOT Alain Hundelot-Noellat GRAND CRU,,,BOTTLE,2004,38500,0,12,,,True
+,RED,MOREY ST-DENIS Clos des Lambrays G.CRU CLOS DES LAMBRAYS,,,BOTTLE,2006,32000,0,3,,,True
+,RED,PESSAC - LÉOGNAN Domaine de Chevalier  GRAN VIN ,,,MAGNUM,2005,30000,0,3,,,True
+,RED,PESSAC - LÉOGNAN Haut-Bailly LA PARDE DE HAUT-BAILLY,,,BOTTLE,2006,11000,0,40,,,True
+,RED,PESSAC - LÉOGNAN Chateau Smith Haut Lafitte GRAN CRU CLASSÉ,,,BOTTLE,2002,18500,0,2,,,True
+,RED,PESSAC - LÉOGNAN Chateau Smith Haut Lafitte GRAN CRU CLASSÉ,,,BOTTLE,2005,21000,0,5,,,True
+,RED,PESSAC - LÉOGNAN Chateau Smith Haut Lafitte GRAN CRU CLASSÉ,,,HALF_BOTTLE,2020,0,0,1,, MAGNUM ,True
+,RED,PESSAC - LÉOGNAN Chateau Haut - Brion GRAND CRU CLASSÉ,,,BOTTLE,2004,50000,0,4,, PRIVAT  ,True
+,RED,PESSAC - LÉOGNAN Chateau Haut - Brion GRAND CRU CLASSÉ,,,BOTTLE,2001,57000,0,1,, PRIVAT  ,True
+,RED,PESSAC - LÉOGNAN Chateau Haut - Brion GRAND CRU CLASSÉ,,,MAGNUM,2010,0,0,2,, MAGNUM ,True
+,RED,HAUT - MÉDOC Chateau Soudars ,,,BOTTLE,2005,10500,0,11,,,True
+,RED,HAUT - MÉDOC Chateau De Villegeorge ,,,BOTTLE,2005,10500,0,11,,,True
+,RED,HAUT - MÉDOC Chateau Mille Roses ,,,BOTTLE,2005,10500,0,11,,,True
+,RED,HAUT - MÉDOC Chateau Sociando-Mallet ,,,BOTTLE,1997,11500,0,3,,,True
+,RED,HAUT - MÉDOC Chateau Sociando-Mallet ,,,BOTTLE,2005,12500,0,18,,,True
+,RED,HAUT - MÉDOC Chateau Sociando-Mallet ,,,BOTTLE,2009,14500,0,11,,,True
+,RED,MARGAUX Chateau Malescot St. Exupery 3ÈME CRU CLASSÉ,,,BOTTLE,2004,12500,0,5,,,True
+,RED,MARGAUX Chateau Malescot St. Exupery 3ÈME CRU CLASSÉ,,,BOTTLE,2002,12500,0,6,,,True
+,RED,MARGAUX Chateau Giscours 3ÈME CRU CLASSÉ,,,BOTTLE,2004,14500,0,4,,,True
+,RED,MARGAUX Chateau Rauzan Segla 2ÈME CRU CLASSÉ,,,BOTTLE,2004,16500,0,9,,,True
+,RED,MARGAUX Chateau Rauzan Segla 2ÈME CRU CLASSÉ,,,BOTTLE,2001,17500,0,5,,,True
+,RED,MARGAUX Chateau D`Issan 3ÈME CRU CLASSÉ,,,BOTTLE,2005,18500,0,11,,,True
+,RED,MARGAUX Pavillon Rouge de Chateau Margaux ,,,BOTTLE,2004,25000,0,2,,,True
+,RED,MARGAUX Cahteau Palmer  ,,,BOTTLE,1992,0,0,1,, PRIVAT  ,True
+,RED,SAINT JULIEN Chateau Gruaud Larose GRAND CRU CLASSÉ,,,BOTTLE,2006,11000,0,9,,,True
+,RED,SAINT JULIEN Chateau Leoville Poyferre 2ÈME CRU CLASSÉ,,,BOTTLE,2004,13500,0,12,,,True
+,RED,SAINT JULIEN Chateau Ducru Beaucaillou 2ÈME CRU CLASSÉ,,,BOTTLE,2001,14500,0,8,,,True
+,RED,SAINT JULIEN Chateau Leoville Barton 2ÈME CRU CLASSÉ,,,BOTTLE,2004,14500,0,12,,,True
+,RED,SAINT JULIEN Chateau Leoville Barton 2ÈME CRU CLASSÉ,,,BOTTLE,2003,0,0,2,,,True
+,RED,SAINT JULIEN Chateau Leoville Barton 2ÈME CRU CLASSÉ,,,BOTTLE,2008,15500,0,3,,,True
+,RED,SAINT JULIEN Chateau Leoville Barton 2ÈME CRU CLASSÉ,,,BOTTLE,2006,0,0,11,,,True
+,RED,SAINT JULIEN Chateau Leoville Barton 2ÈME CRU CLASSÉ,,,BOTTLE,2005,18500,0,22,,,True
+,RED,SAINT JULIEN Chateau Leoville Las Cases 2ÈME CRU CLASSÉ,,,BOTTLE,2005,25500,0,3,,,True
+,RED,SAINT JULIEN Chateau Leoville Las Cases 2ÈME CRU CLASSÉ,,,BOTTLE,2004,0,0,6,,,True
+,RED,SAINT ESTÈPHE Chateau Phelan Segur ,,,BOTTLE,2013,0,0,1,,,True
+,RED,SAINT ESTÈPHE Chateau Phelan Segur ,,,BOTTLE,2007,14500,0,6,,,True
+,RED,SAINT ESTÈPHE Chateau La Dame de Montrose ,,,BOTTLE,1996,16500,0,2,, Zweitwein ,True
+,RED,SAINT ESTÈPHE Chateau Tronquoy Lalande ,,,BOTTLE,2005,18500,0,6,,,True
+,RED,SAINT ESTÈPHE Chateau Montrose 2ÈME CRU CLASSÉ,,,BOTTLE,2004,21000,0,9,,,True
+,RED,SAINT ESTÈPHE Chateau Montrose 2ÈME CRU CLASSÉ,,,BOTTLE,2001,22000,0,8,,,True
+,RED,SAINT ESTÈPHE Chateau Calon Segur GRAND CRU CLASSÉ,,,BOTTLE,2005,30500,0,26,, nördlichste ,True
+,RED,SAINT ESTÈPHE Chateau Cos d´Estournel 2ÈME CRU CLASSÉ,,,BOTTLE,2005,32500,0,0,,,True
+,RED,SAINT ESTÈPHE Chateau Cos d´Estournel 2ÈME CRU CLASSÉ,,,MAGNUM,2005,0,0,0,,,True
+,RED,SAINT ESTÈPHE Chateau Cos d´Estournel 2ÈME CRU CLASSÉ,,,HALF_BOTTLE,2005,0,0,0,,,True
+,RED,PAUILLAC Le Pauillac de Chateau Latour ,,MAGNUM,MAGNUM,2006,150000,0,1,,,True
+,RED,PAUILLAC Le Pauillac de Chateau Latour ,,,BOTTLE,2005,14500,0,2,,,True
+,RED,PAUILLAC Chateau Duhart Milon 4ÈME CRU CLASSÉ,,,BOTTLE,2006,15500,0,12,, modern ,True
+,RED,PAUILLAC Chateau Duhart Milon 4ÈME CRU CLASSÉ,,,BOTTLE,2005,16500,0,14,, modern ,True
+,RED,PAUILLAC Chateau Pichon Longueville 2ÈME CRU CLASSÉ,,,BOTTLE,2004,32500,0,11,, Baron ,True
+,RED,PAUILLAC Chateau Pontet Canet 5ÈME GRAND CRU CLASSÉ,,,BOTTLE,2006,22000,0,16,,,True
+,RED,PAUILLAC Chateau Pontet Canet 5ÈME GRAND CRU CLASSÉ,,,BOTTLE,2007,22000,0,15,,,True
+,RED,PAUILLAC Chateau Pontet Canet 5ÈME GRAND CRU CLASSÉ,,,BOTTLE,2008,32000,0,27,,,True
+,RED,PAUILLAC Chateau Pontet Canet 5ÈME GRAND CRU CLASSÉ,,,BOTTLE,2009,32000,0,11,,,True
+,RED,PAUILLAC Chateau Pontet Canet 5ÈME GRAND CRU CLASSÉ,,MAGNUM,BOTTLE,2018,28000,0,24,,,True
+,RED,PAUILLAC Chateau Pontet Canet 5ÈME GRAND CRU CLASSÉ,,MAGNUM,MAGNUM,2018,0,0,3,,,True
+,RED,PAUILLAC Chateau Lynch Bages GRAND CRU CLASSÉ,,,BOTTLE,1990,32000,0,1,,,True
+,RED,PAUILLAC Chateau Lynch Bages GRAND CRU CLASSÉ,,,BOTTLE,1982,0,0,2,,,True
+,RED,POMEROL Chateau Gombaude Guillot ,,,BOTTLE,2005,10500,0,30,, BIO ,True
+,RED,POMEROL Chateau Gombaude Guillot ,,,MAGNUM,2005,18000,0,6,, BIO ,True
+,RED,POMEROL Chateau L`Eglise LA PETITE EGLISE,,,BOTTLE,2000,12500,0,10,,,True
+,RED,POMEROL Chateau Le Bon Pasteur ,,,BOTTLE,2007,14500,0,5,,,True
+,RED,POMEROL Chateau Gazin GRAND VIN,,,BOTTLE,2004,18500,0,5,,,True
+,RED,POMEROL Chateau Gazin GRAND VIN,,,BOTTLE,2009,18500,0,9,,,True
+,RED,POMEROL Chateau Latour a Pomerol GRAND VIN,,,BOTTLE,2004,22000,0,4,,,True
+,RED,POMEROL Chateau Certan de May GRAND VIN,,,BOTTLE,2005,32000,0,12,, Nachbar von Petrus ,True
+,RED,POMEROL Vieux Chateau Certan GRAND VIN,,,BOTTLE,2001,32000,0,11,, PRIVAT  ,True
+,RED,POMEROL Chateau La Conseillante GRAND VIN,,,BOTTLE,2006,35500,0,11,,,True
+,RED,POMEROL Chateau La Conseillante GRAND VIN,,,BOTTLE,1993,0,0,3,, PRIVAT  ,True
+,RED,POMEROL Chateau La Conseillante GRAND VIN,,,BOTTLE,1992,0,0,1,, PRIVAT  ,True
+,RED,POMEROL Chateau Clinet  ,,,BOTTLE,1985,0,0,1,, PRIVAT  ,True
+,RED,POMEROL Chateau L´Evangile  ,,,BOTTLE,2000,0,0,0,,,True
+,RED,POMEROL Chateau L´Evangile  ,,,MAGNUM,2000,75000,0,0,,,True
+,RED,POMEROL Chateau L´Evangile  ,,,HALF_BOTTLE,2000,0,0,0,,,True
+,RED,SAINT EMILION Chateau Beau Sejour Becot GRAND CRU CLASSÉ,,,BOTTLE,2004,12500,0,6,,,True
+,RED,SAINT EMILION Chateau Canon GRAND CRU CLASSÉ,,,BOTTLE,2004,13500,0,2,,,True
+,RED,SAINT EMILION Chateau Canon GRAND CRU CLASSÉ,,,BOTTLE,2003,16500,0,3,,,True
+,RED,SAINT EMILION Chateau Magdelaine GRAND CRU CLASSÉ,,,BOTTLE,1999,18500,0,3,,,True
+,RED,SAINT EMILION Chateau Canon La Gaffeliere GRAND CRU CLASSÉ,,,BOTTLE,2004,18500,0,2,,,True
+,RED,SAINT EMILION Chateau Figeac GRAND CRU CLASSÉ,,,BOTTLE,2005,38500,0,8,,,True
+,RED,SAINT EMILION Chateau Tertre Roteboeuf GRAND CRU CLASSÉ,,,BOTTLE,2001,38500,0,10,, PRIVAT  ,True
+,RED,SAINT EMILION Chateau du Vieux-G. GRAND CRU CLASSÉ,,,BOTTLE,1970,42000,0,1,,,True
+,RED,SAINT EMILION Chateau Pavie GRAND CRU CLASSÉ,,,BOTTLE,1990,52000,0,1,,,True
+,RED,SAINT EMILION Chateau Cheval Blanc GRAND CRU CLASSÉ,,,BOTTLE,1975,145000,0,1,, PRIVAT  ,True
+,RED,SAINT EMILION Chateau Ausone  GRAND CRU CLASSÉ,,,BOTTLE,2001,0,0,2,, PRIVAT  ,True
+,RED,MOULIS Chateau Duplessis ,,,BOTTLE,2005,6500,0,11,,,True
+,RED,MOULIS Chateau Poujeaux ,,,BOTTLE,1998,6500,0,11,, tradit. ,True
+,RED,MOULIS Chateau Poujeaux ,,,BOTTLE,2005,6500,0,23,, tradit. ,True
+,RED,CHATEAUNEUF DU PAPE Domaine De Villeneufe LES VIEILLES VIGNES,,,BOTTLE,2005,7500,0,3,,,True
+,RED,CHATEAUNEUF DU PAPE Paul Avril CLOS DES PAPES,,,BOTTLE,2006,12500,0,3,,,True
+,RED,CORNAS Maison M. Chapoutier LES ARENES,,,BOTTLE,2008,7500,0,4,,BIO-DYNAM.,True
+,RED,CORNAS Domaine Clape RENAISSANCE,,,BOTTLE,2005,11500,0,12,,,True
+,RED,CROZES HERMITAGE Alain Graillot ,,,BOTTLE,2005,7500,0,1,,,True
+,RED,HERMITAGE Maison M. Chapoutier MONIER DE LA SIZERANNE,,,BOTTLE,2008,12500,0,6,,BIO-DYNAM.,True
+,RED,HERMITAGE Domaine Jean-Louis Chave ,,,BOTTLE,2008,28800,0,5,,,True
+,RED,Tempranillo Vega Sicilia UNICO,,90T+10CS,BOTTLE,0,45000,0,6,, RESERVA ESPECIAL ,True
+,RED,Tempranillo Vega Sicilia UNICO,,,BOTTLE,2000,45000,0,6,,,True
+,RED,Tempranillo Vega Sicilia UNICO,,,BOTTLE,1991,45000,0,3,,,True
+,RED,Tempranillo Vega Sicilia UNICO,,,BOTTLE,1986,0,0,1,,,True
+,RED,Tempranillo Vega Sicilia UNICO,,,BOTTLE,1985,0,0,1,,,True
+,RED,Tempranillo Vega Sicilia UNICO,,,BOTTLE,1983,45000,0,2,,,True
+,RED, Redstone Capelands Wine Estate,,,BOTTLE,2016,4500,0,4,,,True
+,RED, Redstone Capelands Wine Estate,,,MAGNUM,2016,0,0,1,,,True
+,RED, Redstone Capelands Wine Estate,,,BOTTLE,2015,4500,0,12,,,True
+,RED, Redstone Capelands Wine Estate,,,BOTTLE,2014,0,0,14,,,True
+,RED, Redstone Capelands Wine Estate,,,MAGNUM,2014,0,0,1,,,True
+,RED, Redstone Capelands Wine Estate,,,BOTTLE,2013,0,0,2,,,True
+,RED, Redstone Capelands Wine Estate,,,BOTTLE,2012,0,0,8,,,True
+,RED, Redstone Capelands Wine Estate,,,BOTTLE,2011,0,0,1,,,True
+,RED, Redstone Capelands Wine Estate,,,MAGNUM,2011,0,0,1,,,True
+,RED,Pinot nero Schubert MARION´S VINEYARD,,,BOTTLE,2010,5500,0,3,, Wairarapa ,True
+,RED,Pinot nero Schubert MARION´S VINEYARD,,,BOTTLE,2011,5500,0,4,, Wairarapa ,True
+,RED,Syrah Schubert WAIRARAPA,,,BOTTLE,2010,5500,0,6,,,True
+,,Pinot Bianco  PLÖTZNER Kellerei St. Pauls,,,BOTTLE,2011,8000,0,0,,,True
+,,Pinot Bianco  PLÖTZNER Kellerei St. Pauls,,,MAGNUM,2011,0,0,0,,,True
+,,Pinot Bianco  PLÖTZNER Kellerei St. Pauls,,,HALF_BOTTLE,2011,0,0,0,,,True
+,,Pinot Bianco  KUNSTSTÜCK Kellerei Kaltern,,,BOTTLE,2014,8000,0,0,,,True
+,,Pinot Bianco  KUNSTSTÜCK Kellerei Kaltern,,,MAGNUM,2014,0,0,0,,,True
+,,Pinot Bianco  KUNSTSTÜCK Kellerei Kaltern,,,HALF_BOTTLE,2014,0,0,0,,,True
+,,Pinot Bianco  VINSCHGAU Falkenstein,,,BOTTLE,2009,8000,0,0,,,True
+,,Pinot Bianco  VINSCHGAU Falkenstein,,,MAGNUM,2009,0,0,0,,,True
+,,Pinot Bianco  VINSCHGAU Falkenstein,,,HALF_BOTTLE,2009,0,0,0,,,True
+,,Sauvignon MANTELE Kellerei Nals-Margreid,,,BOTTLE,2010,8000,0,0,,,True
+,,Sauvignon MANTELE Kellerei Nals-Margreid,,,MAGNUM,2010,0,0,0,,,True
+,,Sauvignon MANTELE Kellerei Nals-Margreid,,,HALF_BOTTLE,2010,0,0,0,,,True
+,,Sauvignon PASSION Kellerei St. Pauls,,,BOTTLE,2008,9000,0,0,,,True
+,,Sauvignon PASSION Kellerei St. Pauls,,,MAGNUM,2008,0,0,0,,,True
+,,Sauvignon PASSION Kellerei St. Pauls,,,HALF_BOTTLE,2008,0,0,0,,,True
+,,Sauvignon LAFOA Kellerei Schreckbichl,,,BOTTLE,2008,14500,0,0,,,True
+,,Sauvignon LAFOA Kellerei Schreckbichl,,,MAGNUM,2008,0,0,0,,,True
+,,Sauvignon LAFOA Kellerei Schreckbichl,,,HALF_BOTTLE,2008,0,0,0,,,True
+,,Sauvignon WINKL Kellerei Terlan,,,BOTTLE,2018,10500,0,0,,,True
+,,Sauvignon WINKL Kellerei Terlan,,,MAGNUM,2018,0,0,0,,,True
+,,Sauvignon WINKL Kellerei Terlan,,,HALF_BOTTLE,2018,0,0,0,,,True
+,,Sauvignon VINSCHGAU Falkenstein,,,BOTTLE,2009,9500,0,0,,,True
+,,Sauvignon VINSCHGAU Falkenstein,,,MAGNUM,2009,0,0,0,,,True
+,,Sauvignon VINSCHGAU Falkenstein,,,HALF_BOTTLE,2009,0,0,0,,,True
+,,Sauvignon QUARZ Kellerei Terlan,,,BOTTLE,2008,14000,0,0,,,True
+,,Sauvignon QUARZ Kellerei Terlan,,,MAGNUM,2008,0,0,0,,,True
+,,Sauvignon QUARZ Kellerei Terlan,,,HALF_BOTTLE,2008,0,0,0,,,True
+,,Sauvignon ST. VALENTIN St. Michael-Eppan,,,BOTTLE,2009,10500,0,0,,,True
+,,Sauvignon ST. VALENTIN St. Michael-Eppan,,,MAGNUM,2009,0,0,0,,,True
+,,Sauvignon ST. VALENTIN St. Michael-Eppan,,,HALF_BOTTLE,2009,0,0,0,,,True
+,,Riesling VINSCHGAU Falkenstein,,,BOTTLE,2009,9500,0,0,,,True
+,,Riesling VINSCHGAU Falkenstein,,,MAGNUM,2009,0,0,0,,,True
+,,Riesling VINSCHGAU Falkenstein,,,HALF_BOTTLE,2009,0,0,0,,,True
+,,Riesling UNTERORTL Weingut Juval,,,BOTTLE,2010,9500,0,0,,,True
+,,Riesling UNTERORTL Weingut Juval,,,MAGNUM,2010,0,0,0,,,True
+,,Riesling UNTERORTL Weingut Juval,,,HALF_BOTTLE,2010,0,0,0,,,True
+,,Riesling VIELANDERS Röckhof,,,BOTTLE,2016,9500,0,0,,,True
+,,Riesling VIELANDERS Röckhof,,,MAGNUM,2016,0,0,0,,,True
+,,Riesling VIELANDERS Röckhof,,,HALF_BOTTLE,2016,0,0,0,,,True
+,,Riesling GROSSES GEWÄCHS Schloss Johannisberg,,,BOTTLE,2009,11500,0,0,,,True
+,,Riesling GROSSES GEWÄCHS Schloss Johannisberg,,,MAGNUM,2009,0,0,0,,,True
+,,Riesling GROSSES GEWÄCHS Schloss Johannisberg,,,HALF_BOTTLE,2009,0,0,0,,,True
+,,Riesling ALTE REBEN Van Volxem,,,BOTTLE,2010,11500,0,0,,,True
+,,Riesling ALTE REBEN Van Volxem,,,MAGNUM,2010,0,0,0,,,True
+,,Riesling ALTE REBEN Van Volxem,,,HALF_BOTTLE,2010,0,0,0,,,True
+,,Cuvée DE VITE Weingut Hofstätter,,,BOTTLE,2018,8000,0,0,,,True
+,,Cuvée DE VITE Weingut Hofstätter,,,MAGNUM,2018,0,0,0,,,True
+,,Cuvée DE VITE Weingut Hofstätter,,,HALF_BOTTLE,2018,0,0,0,,,True
+,,Cuvée MANNA Franz Haas,,,BOTTLE,2007,12500,0,0,,,True
+,,Cuvée MANNA Franz Haas,,,MAGNUM,2007,0,0,0,,,True
+,,Cuvée MANNA Franz Haas,,,HALF_BOTTLE,2007,0,0,0,,,True
+,,Cuvée NOVA DOMUS Kellerei Terlan,,3l,BOTTLE,2010,26000,0,0,,,True
+,,Cuvée NOVA DOMUS Kellerei Terlan,,3l,MAGNUM,2010,0,0,0,,,True
+,,Cuvée NOVA DOMUS Kellerei Terlan,,3l,HALF_BOTTLE,2010,0,0,0,,,True
+,,Vernatsch QUINTESSENZ Kellerei Kaltern,,,BOTTLE,2017,6500,0,0,,,True
+,,Vernatsch QUINTESSENZ Kellerei Kaltern,,,MAGNUM,2017,0,0,0,,,True
+,,Vernatsch QUINTESSENZ Kellerei Kaltern,,,HALF_BOTTLE,2017,0,0,0,,,True
+,,Pinot Nero - Blauburgunder RISERVA Weingut Niedermayr,,,BOTTLE,2007,12000,0,0,,,True
+,,Pinot Nero - Blauburgunder RISERVA Weingut Niedermayr,,,MAGNUM,2007,0,0,0,,,True
+,,Pinot Nero - Blauburgunder RISERVA Weingut Niedermayr,,,HALF_BOTTLE,2007,0,0,0,,,True
+,,Pinot Nero - Blauburgunder SCHWEIZER Franz Haas,,,BOTTLE,2007,16000,0,0,,,True
+,,Pinot Nero - Blauburgunder SCHWEIZER Franz Haas,,,MAGNUM,2007,0,0,0,,,True
+,,Pinot Nero - Blauburgunder SCHWEIZER Franz Haas,,,HALF_BOTTLE,2007,0,0,0,,,True
+,,Merlot HUBERFELD Kellerei St. Pauls,,,BOTTLE,2013,11000,0,0,,,True
+,,Merlot HUBERFELD Kellerei St. Pauls,,,MAGNUM,2013,0,0,0,,,True
+,,Merlot HUBERFELD Kellerei St. Pauls,,,HALF_BOTTLE,2013,0,0,0,,,True
+,,Merlot PASSION Kellerei St. Pauls,,,BOTTLE,2013,13000,0,0,,,True
+,,Merlot PASSION Kellerei St. Pauls,,,MAGNUM,2013,0,0,0,,,True
+,,Merlot PASSION Kellerei St. Pauls,,,HALF_BOTTLE,2013,0,0,0,,,True
+,,Merlot SCHWEIZER Franz Haas,,,BOTTLE,1996,16000,0,0,,,True
+,,Merlot SCHWEIZER Franz Haas,,,MAGNUM,1996,0,0,0,,,True
+,,Merlot SCHWEIZER Franz Haas,,,HALF_BOTTLE,1996,0,0,0,,,True
+,,Merlot ANNA M Weingut Lacknerhof,,,BOTTLE,2009,16000,0,0,,,True
+,,Merlot ANNA M Weingut Lacknerhof,,,MAGNUM,2009,0,0,0,,,True
+,,Merlot ANNA M Weingut Lacknerhof,,,HALF_BOTTLE,2009,0,0,0,,,True
+,,Merlot ANNA M Weingut Lacknerhof,,,BOTTLE,2010,16000,0,0,,,True
+,,Merlot ANNA M Weingut Lacknerhof,,,MAGNUM,2010,0,0,0,,,True
+,,Merlot ANNA M Weingut Lacknerhof,,,HALF_BOTTLE,2010,0,0,0,,,True
+,,Merlot ARZIO Baron di Pauli,,,BOTTLE,2003,16000,0,0,,,True
+,,Merlot ARZIO Baron di Pauli,,,MAGNUM,2003,0,0,0,,,True
+,,Merlot ARZIO Baron di Pauli,,,HALF_BOTTLE,2003,0,0,0,,,True
+,,Lagrein  GRIES Kellerei Terlan,,,BOTTLE,2010,9500,0,0,,,True
+,,Lagrein  GRIES Kellerei Terlan,,,MAGNUM,2010,0,0,0,,,True
+,,Lagrein  GRIES Kellerei Terlan,,,HALF_BOTTLE,2010,0,0,0,,,True
+,,Lagrein  FRAUENRIEGEL Kellerei Kurtatsch,,,BOTTLE,2014,13000,0,0,,,True
+,,Lagrein  FRAUENRIEGEL Kellerei Kurtatsch,,,MAGNUM,2014,0,0,0,,,True
+,,Lagrein  FRAUENRIEGEL Kellerei Kurtatsch,,,HALF_BOTTLE,2014,0,0,0,,,True
+,,Lagrein  PRESTIGE Kellerei Bozen,,,BOTTLE,1995,14000,0,0,,,True
+,,Lagrein  PRESTIGE Kellerei Bozen,,,MAGNUM,1995,0,0,0,,,True
+,,Lagrein  PRESTIGE Kellerei Bozen,,,HALF_BOTTLE,1995,0,0,0,,,True
+,,Lagrein  PRESTIGE Kellerei Bozen,,,BOTTLE,1997,14000,0,0,,,True
+,,Lagrein  PRESTIGE Kellerei Bozen,,,MAGNUM,1997,0,0,0,,,True
+,,Lagrein  PRESTIGE Kellerei Bozen,,,HALF_BOTTLE,1997,0,0,0,,,True
+,,Lagrein  PRESTIGE Kellerei Bozen,,,BOTTLE,2000,14000,0,0,,,True
+,,Lagrein  PRESTIGE Kellerei Bozen,,,MAGNUM,2000,0,0,0,,,True
+,,Lagrein  PRESTIGE Kellerei Bozen,,,HALF_BOTTLE,2000,0,0,0,,,True
+,,Lagrein  ABTEI Muri Gries,,,BOTTLE,2005,21000,0,0,,,True
+,,Lagrein  ABTEI Muri Gries,,,MAGNUM,2005,0,0,0,,,True
+,,Lagrein  ABTEI Muri Gries,,,HALF_BOTTLE,2005,0,0,0,,,True
+,,Lagrein  ABTEI Muri Gries,,,BOTTLE,1999,21000,0,0,,,True
+,,Lagrein  ABTEI Muri Gries,,,MAGNUM,1999,0,0,0,,,True
+,,Lagrein  ABTEI Muri Gries,,,HALF_BOTTLE,1999,0,0,0,,,True
+,,Lagrein  ABTEI Muri Gries,,,BOTTLE,2000,21000,0,0,,,True
+,,Lagrein  ABTEI Muri Gries,,,MAGNUM,2000,0,0,0,,,True
+,,Lagrein  ABTEI Muri Gries,,,HALF_BOTTLE,2000,0,0,0,,,True
+,,Lagrein  ABTEI Muri Gries,,,BOTTLE,1997,21000,0,0,,,True
+,,Lagrein  ABTEI Muri Gries,,,MAGNUM,1997,0,0,0,,,True
+,,Lagrein  ABTEI Muri Gries,,,HALF_BOTTLE,1997,0,0,0,,,True
+,,Lagrein  RISERVA Josephus Unterganzner,,,BOTTLE,2001,16500,0,0,,,True
+,,Lagrein  RISERVA Josephus Unterganzner,,,MAGNUM,2001,0,0,0,,,True
+,,Lagrein  RISERVA Josephus Unterganzner,,,HALF_BOTTLE,2001,0,0,0,,,True
+,,Lagrein  RISERVA Josephus Unterganzner,,,BOTTLE,2009,18000,0,0,,,True
+,,Lagrein  RISERVA Josephus Unterganzner,,,MAGNUM,2009,0,0,0,,,True
+,,Lagrein  RISERVA Josephus Unterganzner,,,HALF_BOTTLE,2009,0,0,0,,,True
+,,Lagrein  TABERHOF Kellerei Bozen,,,BOTTLE,1997,18000,0,0,,,True
+,,Lagrein  TABERHOF Kellerei Bozen,,,MAGNUM,1997,0,0,0,,,True
+,,Lagrein  TABERHOF Kellerei Bozen,,,HALF_BOTTLE,1997,0,0,0,,,True
+,,Lagrein  TABERHOF Kellerei Bozen,,,BOTTLE,1998,18000,0,0,,,True
+,,Lagrein  TABERHOF Kellerei Bozen,,,MAGNUM,1998,0,0,0,,,True
+,,Lagrein  TABERHOF Kellerei Bozen,,,HALF_BOTTLE,1998,0,0,0,,,True
+,,Lagrein  TABERHOF Kellerei Bozen,,,BOTTLE,2000,18000,0,0,,,True
+,,Lagrein  TABERHOF Kellerei Bozen,,,MAGNUM,2000,0,0,0,,,True
+,,Lagrein  TABERHOF Kellerei Bozen,,,HALF_BOTTLE,2000,0,0,0,,,True
+,,Lagrein  TABERHOF Kellerei Bozen,,,BOTTLE,2001,18000,0,0,,,True
+,,Lagrein  TABERHOF Kellerei Bozen,,,MAGNUM,2001,0,0,0,,,True
+,,Lagrein  TABERHOF Kellerei Bozen,,,HALF_BOTTLE,2001,0,0,0,,,True
+,,Lagrein  STEINRAFFLER Hofstätter,,,BOTTLE,1995,15000,0,0,,,True
+,,Lagrein  STEINRAFFLER Hofstätter,,,MAGNUM,1995,0,0,0,,,True
+,,Lagrein  STEINRAFFLER Hofstätter,,,HALF_BOTTLE,1995,0,0,0,,,True
+,,Lagrein  STEINRAFFLER Hofstätter,,,BOTTLE,1997,18000,0,0,,,True
+,,Lagrein  STEINRAFFLER Hofstätter,,,MAGNUM,1997,0,0,0,,,True
+,,Lagrein  STEINRAFFLER Hofstätter,,,HALF_BOTTLE,1997,0,0,0,,,True
+,,Lagrein  STEINRAFFLER Hofstätter,,,BOTTLE,2004,16000,0,0,,,True
+,,Lagrein  STEINRAFFLER Hofstätter,,,MAGNUM,2004,0,0,0,,,True
+,,Lagrein  STEINRAFFLER Hofstätter,,,HALF_BOTTLE,2004,0,0,0,,,True
+,,Lagrein  MIRELL Ansitz Waldgries,,,BOTTLE,2009,26000,0,0,,,True
+,,Lagrein  MIRELL Ansitz Waldgries,,,MAGNUM,2009,0,0,0,,,True
+,,Lagrein  MIRELL Ansitz Waldgries,,,HALF_BOTTLE,2009,0,0,0,,,True
+,,Cabernet Sauvignon RISERVA KAMPILL Josephus Unterganzner,,,BOTTLE,2007,12000,0,0,,,True
+,,Cabernet Sauvignon RISERVA KAMPILL Josephus Unterganzner,,,MAGNUM,2007,0,0,0,,,True
+,,Cabernet Sauvignon RISERVA KAMPILL Josephus Unterganzner,,,HALF_BOTTLE,2007,0,0,0,,,True
+,,Cabernet Sauvignon RISERVA Josephus Unterganzner,,,BOTTLE,2001,12000,0,0,,,True
+,,Cabernet Sauvignon RISERVA Josephus Unterganzner,,,MAGNUM,2001,0,0,0,,,True
+,,Cabernet Sauvignon RISERVA Josephus Unterganzner,,,HALF_BOTTLE,2001,0,0,0,,,True
+,,Cabernet Sauvignon  Josephus Unterganzner,,,BOTTLE,1999,14000,0,0,,,True
+,,Cabernet Sauvignon  Josephus Unterganzner,,,MAGNUM,1999,0,0,0,,,True
+,,Cabernet Sauvignon  Josephus Unterganzner,,,HALF_BOTTLE,1999,0,0,0,,,True
+,,Cabernet PFARRHOF Kellerei Kaltern,,,BOTTLE,2002,14000,0,0,,,True
+,,Cabernet PFARRHOF Kellerei Kaltern,,,MAGNUM,2002,0,0,0,,,True
+,,Cabernet PFARRHOF Kellerei Kaltern,,,HALF_BOTTLE,2002,0,0,0,,,True
+,,Cabernet MUMELTER Kellerei Bozen-Gries,,,BOTTLE,2000,14500,0,0,,,True
+,,Cabernet MUMELTER Kellerei Bozen-Gries,,,MAGNUM,2000,0,0,0,,,True
+,,Cabernet MUMELTER Kellerei Bozen-Gries,,,HALF_BOTTLE,2000,0,0,0,,,True
+,,Cabernet ST. VALENTIN Kellerei St. Michael-Eppan,,,BOTTLE,2000,16000,0,0,,,True
+,,Cabernet ST. VALENTIN Kellerei St. Michael-Eppan,,,MAGNUM,2000,0,0,0,,,True
+,,Cabernet ST. VALENTIN Kellerei St. Michael-Eppan,,,HALF_BOTTLE,2000,0,0,0,,,True
+,,Cabernet  KUNSTSTÜCK Kellerei Kaltern,,,BOTTLE,2015,16000,0,0,,,True
+,,Cabernet  KUNSTSTÜCK Kellerei Kaltern,,,MAGNUM,2015,0,0,0,,,True
+,,Cabernet  KUNSTSTÜCK Kellerei Kaltern,,,HALF_BOTTLE,2015,0,0,0,,,True
+,,Cabernet TÓR LÖWENGANG Alois Lageder,,,BOTTLE,2000,16000,0,0,,,True
+,,Cabernet TÓR LÖWENGANG Alois Lageder,,,MAGNUM,2000,0,0,0,,,True
+,,Cabernet TÓR LÖWENGANG Alois Lageder,,,HALF_BOTTLE,2000,0,0,0,,,True
+,,Cabernet TÓR LÖWENGANG Alois Lageder,,,BOTTLE,2004,16000,0,0,,,True
+,,Cabernet TÓR LÖWENGANG Alois Lageder,,,MAGNUM,2004,0,0,0,,,True
+,,Cabernet TÓR LÖWENGANG Alois Lageder,,,HALF_BOTTLE,2004,0,0,0,,,True
+,,Cabernet TÓR LÖWENGANG Alois Lageder,,,BOTTLE,2007,16000,0,0,,,True
+,,Cabernet TÓR LÖWENGANG Alois Lageder,,,MAGNUM,2007,0,0,0,,,True
+,,Cabernet TÓR LÖWENGANG Alois Lageder,,,HALF_BOTTLE,2007,0,0,0,,,True
+,,Cabernet TÓR LÖWENGANG Alois Lageder,,3L,BOTTLE,2007,34000,0,0,,,True
+,,Cabernet TÓR LÖWENGANG Alois Lageder,,3L,MAGNUM,2007,0,0,0,,,True
+,,Cabernet TÓR LÖWENGANG Alois Lageder,,3L,HALF_BOTTLE,2007,0,0,0,,,True
+,,Cabernet RAUT Clemens Waldthaler,,,BOTTLE,1997,16000,0,0,,,True
+,,Cabernet RAUT Clemens Waldthaler,,,MAGNUM,1997,0,0,0,,,True
+,,Cabernet RAUT Clemens Waldthaler,,,HALF_BOTTLE,1997,0,0,0,,,True
+,,Cabernet CASTEL  Schwanburg,,,BOTTLE,1990,38000,0,0,,,True
+,,Cabernet CASTEL  Schwanburg,,,MAGNUM,1990,0,0,0,,,True
+,,Cabernet CASTEL  Schwanburg,,,HALF_BOTTLE,1990,0,0,0,,,True
+,,Cabernet COR Alois Lageder,,,BOTTLE,2006,19000,0,0,,,True
+,,Cabernet COR Alois Lageder,,,MAGNUM,2006,0,0,0,,,True
+,,Cabernet COR Alois Lageder,,,HALF_BOTTLE,2006,0,0,0,,,True
+,,Cabernet COR Alois Lageder,,,BOTTLE,2004,19000,0,0,,,True
+,,Cabernet COR Alois Lageder,,,MAGNUM,2004,0,0,0,,,True
+,,Cabernet COR Alois Lageder,,,HALF_BOTTLE,2004,0,0,0,,,True
+,,Cabernet COR Alois Lageder,,,BOTTLE,2003,19000,0,0,,,True
+,,Cabernet COR Alois Lageder,,,MAGNUM,2003,0,0,0,,,True
+,,Cabernet COR Alois Lageder,,,HALF_BOTTLE,2003,0,0,0,,,True
+,,Cuvée CORNELIUS Kellerei Schreckbichl,,,BOTTLE,1999,16000,0,0,,,True
+,,Cuvée CORNELIUS Kellerei Schreckbichl,,,MAGNUM,1999,0,0,0,,,True
+,,Cuvée CORNELIUS Kellerei Schreckbichl,,,HALF_BOTTLE,1999,0,0,0,,,True
+,,Cuvée CASSIANO Tenua Manincor,,,BOTTLE,2007,16000,0,0,,,True
+,,Cuvée CASSIANO Tenua Manincor,,,MAGNUM,2007,0,0,0,,,True
+,,Cuvée CASSIANO Tenua Manincor,,,HALF_BOTTLE,2007,0,0,0,,,True
+,,Cuvée RUSCUS Weingut Lacknerhof,,,BOTTLE,2009,16000,0,0,,,True
+,,Cuvée RUSCUS Weingut Lacknerhof,,,MAGNUM,2009,0,0,0,,,True
+,,Cuvée RUSCUS Weingut Lacknerhof,,,HALF_BOTTLE,2009,0,0,0,,,True
+,,Cuvée ARZIO Baron di Pauli,,,BOTTLE,2007,16000,0,0,,,True
+,,Cuvée ARZIO Baron di Pauli,,,MAGNUM,2007,0,0,0,,,True
+,,Cuvée ARZIO Baron di Pauli,,,HALF_BOTTLE,2007,0,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,,BOTTLE,2007,18000,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,,MAGNUM,2007,0,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,,HALF_BOTTLE,2007,0,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,,BOTTLE,2008,18000,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,,MAGNUM,2008,0,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,,HALF_BOTTLE,2008,0,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,,BOTTLE,2005,18000,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,,MAGNUM,2005,0,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,,HALF_BOTTLE,2005,0,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,,BOTTLE,2003,21000,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,,MAGNUM,2003,0,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,,HALF_BOTTLE,2003,0,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,,BOTTLE,2002,21000,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,,MAGNUM,2002,0,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,,HALF_BOTTLE,2002,0,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,,BOTTLE,2001,22000,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,,MAGNUM,2001,0,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,,HALF_BOTTLE,2001,0,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,DMG,BOTTLE,2009,44000,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,DMG,MAGNUM,2009,0,0,0,,,True
+,,Cuvée REIF Josephus Unterganzner,,DMG,HALF_BOTTLE,2009,0,0,0,,,True
+,,Barbera d´Alba  Roberto Voerzio,,,BOTTLE,2007,16000,0,0,,,True
+,,Barbera d´Alba  Roberto Voerzio,,,MAGNUM,2007,0,0,0,,,True
+,,Barbera d´Alba  Roberto Voerzio,,,HALF_BOTTLE,2007,0,0,0,,,True
+,,Barolo SORÌ GINESTRA Conterno Fantino,,,BOTTLE,1993,42000,0,0,,,True
+,,Barolo SORÌ GINESTRA Conterno Fantino,,,MAGNUM,1993,0,0,0,,,True
+,,Barolo SORÌ GINESTRA Conterno Fantino,,,HALF_BOTTLE,1993,0,0,0,,,True
+,,Barolo SORÌ GINESTRA Conterno Fantino,,,BOTTLE,2006,42000,0,0,,,True
+,,Barolo SORÌ GINESTRA Conterno Fantino,,,MAGNUM,2006,0,0,0,,,True
+,,Barolo SORÌ GINESTRA Conterno Fantino,,,HALF_BOTTLE,2006,0,0,0,,,True
+,,Cà del Pazzo  Caparzo,,,BOTTLE,1990,16000,0,0,,,True
+,,Cà del Pazzo  Caparzo,,,MAGNUM,1990,0,0,0,,,True
+,,Cà del Pazzo  Caparzo,,,HALF_BOTTLE,1990,0,0,0,,,True
+,,Chianti   CLASSICO VIGNETTO BELLAVISTA Castello di Ama,,,BOTTLE,1990,42000,0,0,,,True
+,,Chianti   CLASSICO VIGNETTO BELLAVISTA Castello di Ama,,,MAGNUM,1990,0,0,0,,,True
+,,Chianti   CLASSICO VIGNETTO BELLAVISTA Castello di Ama,,,HALF_BOTTLE,1990,0,0,0,,,True
+,,Chianti   CLASSICO LA FORRA Tenuta Nozzole,,,BOTTLE,2011,12000,0,0,,,True
+,,Chianti   CLASSICO LA FORRA Tenuta Nozzole,,,MAGNUM,2011,0,0,0,,,True
+,,Chianti   CLASSICO LA FORRA Tenuta Nozzole,,,HALF_BOTTLE,2011,0,0,0,,,True
+,,Sangiovese COLONIA Felsina,,,BOTTLE,2006,16000,0,0,,,True
+,,Sangiovese COLONIA Felsina,,,MAGNUM,2006,0,0,0,,,True
+,,Sangiovese COLONIA Felsina,,,HALF_BOTTLE,2006,0,0,0,,,True
+,,Flaccianello della Pieve  Fontodi,,,BOTTLE,2008,32000,0,0,,,True
+,,Flaccianello della Pieve  Fontodi,,,MAGNUM,2008,0,0,0,,,True
+,,Flaccianello della Pieve  Fontodi,,,HALF_BOTTLE,2008,0,0,0,,,True
+,,Bramasole  Antinori,,,BOTTLE,2006,18000,0,0,,,True
+,,Bramasole  Antinori,,,MAGNUM,2006,0,0,0,,,True
+,,Bramasole  Antinori,,,HALF_BOTTLE,2006,0,0,0,,,True
+,,Guado al Tasso  Antinori,,,BOTTLE,2008,42000,0,0,,,True
+,,Guado al Tasso  Antinori,,,MAGNUM,2008,0,0,0,,,True
+,,Guado al Tasso  Antinori,,,HALF_BOTTLE,2008,0,0,0,,,True
+,,Baja al Vento  Folonari,,,BOTTLE,2009,11000,0,0,,,True
+,,Baja al Vento  Folonari,,,MAGNUM,2009,0,0,0,,,True
+,,Baja al Vento  Folonari,,,HALF_BOTTLE,2009,0,0,0,,,True
+,,Ceccante  Grillesino,,,BOTTLE,2012,19000,0,0,,,True
+,,Ceccante  Grillesino,,,MAGNUM,2012,0,0,0,,,True
+,,Ceccante  Grillesino,,,HALF_BOTTLE,2012,0,0,0,,,True
+,,Il Pareto  Tenuta Nozzole,,,BOTTLE,1999,15000,0,0,,,True
+,,Il Pareto  Tenuta Nozzole,,,MAGNUM,1999,0,0,0,,,True
+,,Il Pareto  Tenuta Nozzole,,,HALF_BOTTLE,1999,0,0,0,,,True
+,,Percarlo  Martini di Cigala,,,BOTTLE,1997,26000,0,0,,,True
+,,Percarlo  Martini di Cigala,,,MAGNUM,1997,0,0,0,,,True
+,,Percarlo  Martini di Cigala,,,HALF_BOTTLE,1997,0,0,0,,,True
+,,SCRIO  Le Macchiole,,,BOTTLE,2006,16500,0,0,,,True
+,,SCRIO  Le Macchiole,,,MAGNUM,2006,0,0,0,,,True
+,,SCRIO  Le Macchiole,,,HALF_BOTTLE,2006,0,0,0,,,True
+,,MESSORIO  Le Macchiole,,,BOTTLE,2008,42000,0,0,,,True
+,,MESSORIO  Le Macchiole,,,MAGNUM,2008,0,0,0,,,True
+,,MESSORIO  Le Macchiole,,,HALF_BOTTLE,2008,0,0,0,,,True
+,,Il Pino di Biserno  Campo di Sasso,,,BOTTLE,2008,18000,0,0,,,True
+,,Il Pino di Biserno  Campo di Sasso,,,MAGNUM,2008,0,0,0,,,True
+,,Il Pino di Biserno  Campo di Sasso,,,HALF_BOTTLE,2008,0,0,0,,,True
+,,Biserno  Campo di Sasso,,,BOTTLE,2008,28000,0,0,,,True
+,,Biserno  Campo di Sasso,,,MAGNUM,2008,0,0,0,,,True
+,,Biserno  Campo di Sasso,,,HALF_BOTTLE,2008,0,0,0,,,True
+,,Biserno  LODOVICO,,,BOTTLE,2007,80000,0,0,,,True
+,,Biserno  LODOVICO,,,MAGNUM,2007,0,0,0,,,True
+,,Biserno  LODOVICO,,,HALF_BOTTLE,2007,0,0,0,,,True
+,,DUEMANI  Cabernet Franc,,,BOTTLE,2008,32000,0,0,,,True
+,,DUEMANI  Cabernet Franc,,,MAGNUM,2008,0,0,0,,,True
+,,DUEMANI  Cabernet Franc,,,HALF_BOTTLE,2008,0,0,0,,,True
+,,Tignanello  Marchesi Antinori,,,BOTTLE,1994,28800,0,0,,,True
+,,Tignanello  Marchesi Antinori,,,MAGNUM,1994,0,0,0,,,True
+,,Tignanello  Marchesi Antinori,,,HALF_BOTTLE,1994,0,0,0,,,True
+,,Tignanello  Marchesi Antinori,,,BOTTLE,2007,32000,0,0,,,True
+,,Tignanello  Marchesi Antinori,,,MAGNUM,2007,0,0,0,,,True
+,,Tignanello  Marchesi Antinori,,,HALF_BOTTLE,2007,0,0,0,,,True
+,,Brunello di Montalcino VIGNAFERROVIA Marchesi Antinori,,,BOTTLE,2004,38000,0,0,,,True
+,,Brunello di Montalcino VIGNAFERROVIA Marchesi Antinori,,,MAGNUM,2004,0,0,0,,,True
+,,Brunello di Montalcino VIGNAFERROVIA Marchesi Antinori,,,HALF_BOTTLE,2004,0,0,0,,,True
+,,Brunello di Montalcino LA FUGA Folonari,,,BOTTLE,2007,28000,0,0,,,True
+,,Brunello di Montalcino LA FUGA Folonari,,,MAGNUM,2007,0,0,0,,,True
+,,Brunello di Montalcino LA FUGA Folonari,,,HALF_BOTTLE,2007,0,0,0,,,True
+,,Argentiera  Tenuta Argentiera,,,BOTTLE,2016,18000,0,0,,,True
+,,Argentiera  Tenuta Argentiera,,,MAGNUM,2016,0,0,0,,,True
+,,Argentiera  Tenuta Argentiera,,,HALF_BOTTLE,2016,0,0,0,,,True
+,,Giorgio Bartolomäus  Tenuta Argentiera,,,BOTTLE,2006,25000,0,0,,,True
+,,Giorgio Bartolomäus  Tenuta Argentiera,,,MAGNUM,2006,0,0,0,,,True
+,,Giorgio Bartolomäus  Tenuta Argentiera,,,HALF_BOTTLE,2006,0,0,0,,,True
+,,Ophelia Maria  Tenuta Argentiera,,,BOTTLE,2010,26000,0,0,,,True
+,,Ophelia Maria  Tenuta Argentiera,,,MAGNUM,2010,0,0,0,,,True
+,,Ophelia Maria  Tenuta Argentiera,,,HALF_BOTTLE,2010,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,1980,250000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,1980,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,1980,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,1982,320000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,1982,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,1982,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,1988,280000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,1988,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,1988,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,1989,220000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,1989,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,1989,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,3l,BOTTLE,1989,480000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,3l,MAGNUM,1989,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,3l,HALF_BOTTLE,1989,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,1990,260000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,1990,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,1990,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,1994,160000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,1994,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,1994,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,1996,160000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,1996,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,1996,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,1997,260000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,1997,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,1997,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,1999,160000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,1999,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,1999,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,2000,260000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,2000,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,2000,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,2002,160000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,2002,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,2002,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,2003,160000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,2003,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,2003,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,2004,160000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,2004,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,2004,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,2008,160000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,2008,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,2008,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,2009,260000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,2009,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,2009,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,3l,BOTTLE,2009,480000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,3l,MAGNUM,2009,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,3l,HALF_BOTTLE,2009,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,2012,160000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,2012,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,2012,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,2013,160000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,2013,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,2013,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,2014,160000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,2014,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,2014,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,BOTTLE,2016,180000,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,2016,0,0,0,,,True
+,,Sassicaia  Tenuta San Guido,,,HALF_BOTTLE,2016,0,0,0,,,True
+,,50 & 50  Avignonesi&Capanelle ,,,BOTTLE,1993,45000,0,0,,,True
+,,50 & 50  Avignonesi&Capanelle ,,,MAGNUM,1993,0,0,0,,,True
+,,50 & 50  Avignonesi&Capanelle ,,,HALF_BOTTLE,1993,0,0,0,,,True
+,,Masseto  Tenuta Ornellaia,,,BOTTLE,2009,220000,0,0,,,True
+,,Masseto  Tenuta Ornellaia,,,MAGNUM,2009,0,0,0,,,True
+,,Masseto  Tenuta Ornellaia,,,HALF_BOTTLE,2009,0,0,0,,,True
+,,Masseto  Tenuta Ornellaia,,,BOTTLE,2010,230000,0,0,,,True
+,,Masseto  Tenuta Ornellaia,,,MAGNUM,2010,0,0,0,,,True
+,,Masseto  Tenuta Ornellaia,,,HALF_BOTTLE,2010,0,0,0,,,True
+,,Masseto  Tenuta Ornellaia,,,BOTTLE,2011,240000,0,0,,,True
+,,Masseto  Tenuta Ornellaia,,,MAGNUM,2011,0,0,0,,,True
+,,Masseto  Tenuta Ornellaia,,,HALF_BOTTLE,2011,0,0,0,,,True
+,,Solaia  Marchesi Antinori,,,BOTTLE,2008,95000,0,0,,,True
+,,Solaia  Marchesi Antinori,,,MAGNUM,2008,0,0,0,,,True
+,,Solaia  Marchesi Antinori,,,HALF_BOTTLE,2008,0,0,0,,,True
+,,Solaia  Marchesi Antinori,,,BOTTLE,2006,95000,0,0,,,True
+,,Solaia  Marchesi Antinori,,,MAGNUM,2006,0,0,0,,,True
+,,Solaia  Marchesi Antinori,,,HALF_BOTTLE,2006,0,0,0,,,True
+,,Le Serre Nuove  Tenuta Ornellaia,,,BOTTLE,2017,16000,0,0,,,True
+,,Le Serre Nuove  Tenuta Ornellaia,,,MAGNUM,2017,0,0,0,,,True
+,,Le Serre Nuove  Tenuta Ornellaia,,,HALF_BOTTLE,2017,0,0,0,,,True
+,,Le Serre Nuove  Tenuta Ornellaia,,,BOTTLE,2013,14000,0,0,,,True
+,,Le Serre Nuove  Tenuta Ornellaia,,,MAGNUM,2013,0,0,0,,,True
+,,Le Serre Nuove  Tenuta Ornellaia,,,HALF_BOTTLE,2013,0,0,0,,,True
+,,Ornellaia  Tenuta Ornellaia,,,BOTTLE,2009,50000,0,0,,,True
+,,Ornellaia  Tenuta Ornellaia,,,MAGNUM,2009,0,0,0,,,True
+,,Ornellaia  Tenuta Ornellaia,,,HALF_BOTTLE,2009,0,0,0,,,True
+,,Ornellaia 25 anni Tenuta Ornellaia,,,BOTTLE,2010,60000,0,0,,,True
+,,Ornellaia 25 anni Tenuta Ornellaia,,,MAGNUM,2010,0,0,0,,,True
+,,Ornellaia 25 anni Tenuta Ornellaia,,,HALF_BOTTLE,2010,0,0,0,,,True
+,,Ornellaia  Tenuta Ornellaia,,,BOTTLE,2016,60000,0,0,,,True
+,,Ornellaia  Tenuta Ornellaia,,,MAGNUM,2016,0,0,0,,,True
+,,Ornellaia  Tenuta Ornellaia,,,HALF_BOTTLE,2016,0,0,0,,,True
+,,Ornellaia 25 anni Tenuta Ornellaia,,3l,BOTTLE,2010,140000,0,0,,,True
+,,Ornellaia 25 anni Tenuta Ornellaia,,3l,MAGNUM,2010,0,0,0,,,True
+,,Ornellaia 25 anni Tenuta Ornellaia,,3l,HALF_BOTTLE,2010,0,0,0,,,True
+,,Amarone   Dal Forno Romano,,,BOTTLE,2001,65000,0,0,,,True
+,,Amarone   Dal Forno Romano,,,MAGNUM,2001,0,0,0,,,True
+,,Amarone   Dal Forno Romano,,,HALF_BOTTLE,2001,0,0,0,,,True
+,,Amarone   Dal Forno Romano,,,BOTTLE,2000,65000,0,0,,,True
+,,Amarone   Dal Forno Romano,,,MAGNUM,2000,0,0,0,,,True
+,,Amarone   Dal Forno Romano,,,HALF_BOTTLE,2000,0,0,0,,,True
+,,Amarone   Dal Forno Romano,,,BOTTLE,1999,70000,0,0,,,True
+,,Amarone   Dal Forno Romano,,,MAGNUM,1999,0,0,0,,,True
+,,Amarone   Dal Forno Romano,,,HALF_BOTTLE,1999,0,0,0,,,True
+,,Amarone   Dal Forno Romano,,,BOTTLE,1998,75000,0,0,,,True
+,,Amarone   Dal Forno Romano,,,MAGNUM,1998,0,0,0,,,True
+,,Amarone   Dal Forno Romano,,,HALF_BOTTLE,1998,0,0,0,,,True
+,,Amarone   Dal Forno Romano,,,BOTTLE,1996,80000,0,0,,,True
+,,Amarone   Dal Forno Romano,,,MAGNUM,1996,0,0,0,,,True
+,,Amarone   Dal Forno Romano,,,HALF_BOTTLE,1996,0,0,0,,,True
+,,Amarone   Dal Forno Romano,,3l,BOTTLE,2001,135000,0,0,,,True
+,,Amarone   Dal Forno Romano,,3l,MAGNUM,2001,0,0,0,,,True
+,,Amarone   Dal Forno Romano,,3l,HALF_BOTTLE,2001,0,0,0,,,True
+,,Amarone   Dal Forno Romano,,3l,BOTTLE,2000,150000,0,0,,,True
+,,Amarone   Dal Forno Romano,,3l,MAGNUM,2000,0,0,0,,,True
+,,Amarone   Dal Forno Romano,,3l,HALF_BOTTLE,2000,0,0,0,,,True
+,,Amarone  CLASSICO Masi,,,BOTTLE,2006,18500,0,0,,,True
+,,Amarone  CLASSICO Masi,,,MAGNUM,2006,0,0,0,,,True
+,,Amarone  CLASSICO Masi,,,HALF_BOTTLE,2006,0,0,0,,,True
+,,Amarone  COSTASERA Masi,,,BOTTLE,2007,26000,0,0,,,True
+,,Amarone  COSTASERA Masi,,,MAGNUM,2007,0,0,0,,,True
+,,Amarone  COSTASERA Masi,,,HALF_BOTTLE,2007,0,0,0,,,True
+,,Domaine de Chevalier GRAND VIN Pessac-Léognan,,,BOTTLE,2005,30000,0,0,,,True
+,,Domaine de Chevalier GRAND VIN Pessac-Léognan,,,MAGNUM,2005,0,0,0,,,True
+,,Domaine de Chevalier GRAND VIN Pessac-Léognan,,,HALF_BOTTLE,2005,0,0,0,,,True
+,,Chateau Gombauede Guillot   Pomerol,,,BOTTLE,2005,18000,0,0,,,True
+,,Chateau Gombauede Guillot   Pomerol,,,MAGNUM,2005,0,0,0,,,True
+,,Chateau Gombauede Guillot   Pomerol,,,HALF_BOTTLE,2005,0,0,0,,,True
+,,Chateau L´Evangile  Pomerol,,,BOTTLE,2000,75000,0,0,,,True
+,,Chateau L´Evangile  Pomerol,,,MAGNUM,2000,0,0,0,,,True
+,,Chateau L´Evangile  Pomerol,,,HALF_BOTTLE,2000,0,0,0,,,True
+,,Château Latour  Pauliac,,,BOTTLE,2006,150000,0,0,,,True
+,,Château Latour  Pauliac,,,MAGNUM,2006,0,0,0,,,True
+,,Château Latour  Pauliac,,,HALF_BOTTLE,2006,0,0,0,,,True
+,,Rosenmuskateller ABTEI Muri Gries,,,HALF_BOTTLE,2001,4300,1420,25,,0.375,True
+,,Rosenmuskateller ABTEI Muri Gries,,,HALF_BOTTLE,2005,4300,1420,25,,0.375,True
+,,Rosenmuskateller SCHWEIZER Franz Haas,,,HALF_BOTTLE,1999,4300,1398,16,,0.375,True
+,,Rosenmuskateller SCHWEIZER Franz Haas,,,HALF_BOTTLE,2002,4300,1398,16,,0.375,True
+,,Rosenmuskateller  Laimburg,,,HALF_BOTTLE,1997,4900,1970,36,,0.375,True
+,,Rosenmuskateller  Laimburg,,,HALF_BOTTLE,2002,4900,1970,36,,0.375,True
+,,Rosenmuskateller  Schloss Salegg,,,HALF_BOTTLE,1993,6500,2100,22,,0.375,True
+,,Rosenmuskateller  Schloss Salegg,,,HALF_BOTTLE,1994,6500,2100,22,,0.375,True
+,,Cuvée ANTHOS Erste & Neue,,,HALF_BOTTLE,2003,4900,1560,11,,0.375,True
+,,Cuvée AUREUS Niedermayr,,,HALF_BOTTLE,1999,5500,1689,25,,0.375,True
+,,Cuvée AUREUS Niedermayr,,,HALF_BOTTLE,2001,5500,1689,25,,0.375,True
+,,Goldmuskateller SISSI Meraner K.G.,,,HALF_BOTTLE,2002,5500,1600,14,,0.375,True
+,,Goldmuskateller SERENADE GOLD Kaltern,,,HALF_BOTTLE,1995,5500,1500,6,,0.375,True
+,,Goldmuskateller SERENADE GOLD Kaltern,,,HALF_BOTTLE,2003,5500,1500,6,,0.375,True
+,,Gewürztraminer CRESTA Rottensteiner ,,,HALF_BOTTLE,2002,4900,1340,17,,0.375,True
+,,Gewürztraminer ROAN Tramin,,,HALF_BOTTLE,2002,4900,1421,31,,0.375,True
+,,Gewürztraminer ROAN Tramin,,,HALF_BOTTLE,2005,4900,1421,31,,0.375,True
+,,Gewürztraminer COMTESS St.Michael-Eppan,,,HALF_BOTTLE,1995,4900,1500,30,,0.375,True
+,,Gewürztraminer COMTESS St.Michael-Eppan,,,HALF_BOTTLE,2005,4900,1500,30,,0.375,True
+,,Gewürztraminer LIEBELEI Köfererhof ,,,HALF_BOTTLE,2002,4900,1872,33,,0.375,True
+,,Gewürztraminer PASSITO Falkensteiner,,,HALF_BOTTLE,1995,6000,1095,12,,0.375,True
+,,Gewürztraminer PASSITO Falkensteiner,,,HALF_BOTTLE,2005,6000,1095,12,,0.375,True
+,,Gewürztraminer TERMINUM Tramin,,,HALF_BOTTLE,2001,7500,2561,31,,0.375,True
+,,Gewürztraminer TERMINUM Tramin,,,HALF_BOTTLE,2005,7500,2561,31,,0.375,True
+,,Vin Santo  Tenute Antinori,,,HALF_BOTTLE,2005,6500,1569,6,,0.375,True
+,,Vin Santo  Avignonesi,,,HALF_BOTTLE,1987,12000,5810,1,,0.375,True
+,,Welschriesling EISWEIN Gerhard Allacher,,,HALF_BOTTLE,1995,5500,2200,45,,0.375,True
+,, RUSTER AUSBRUCH Heidi Schröch,,,HALF_BOTTLE,1995,5500,2200,23,,0.375,True
+,,Traminer  AUSBRUCH Ernst Triebaumer,,,HALF_BOTTLE,1995,5500,2200,6,,0.375,True
+,,Pinot Cuveé RUSTER AUSBRUCH Feiler-Artinger,,,HALF_BOTTLE,1995,6500,2200,26,,0.375,True
+,,Neuburger TBA Gerhard Allacher,,,HALF_BOTTLE,1995,6500,2200,30,,0.375,True
+,,No. 1 Welschriesling TBA Kracher,,,HALF_BOTTLE,1995,6500,1260,20,,0.375,True
+,,No. 7 Nouvelle Vague TBA Kracher,,,HALF_BOTTLE,1995,6500,3000,34,,0.375,True
+,,Innerhofer Cuveé TBA Kracher,,,HALF_BOTTLE,1995,6500,4000,12,,0.375,True
+,,Sauternes-Barsac  Liot,,,HALF_BOTTLE,2003,8500,4500,36,,0.375,True
+,,Sauternes 1er CRU Chàteau Climens,,,HALF_BOTTLE,1990,14500,8500,1,,0.375,True
+,,Sauternes  Château d´Yquem,,,HALF_BOTTLE,2001,45000,30550,8,,0.375,True
+,,Sauternes  Château d´Yquem,,,HALF_BOTTLE,2004,45000,30550,8,,0.375,True
+,,Champagner GRAND BRUT Perrier Jouet,,,MAGNUM,0,16500,5950,1,,,True
+,,Champagner BRUT RESERVE  Möet Chandon,,,MAGNUM,0,16500,6995,2,,,True
+,,Champagner BRUT Pol Roger,,,MAGNUM,0,16500,6000,3,,,True
+,,Champagner BELLE EPOQUE Perrier Jouet,,,MAGNUM,1999,35500,19900,3,,,True
+,,Champagner CRISTAL Roederer,,,MAGNUM,2002,66600,37200,1,,,True
+,,Weißburgungder PASSION Kellerei St. Pauls,,,MAGNUM,2007,9500,1490,7,,,True
+,,Weißburgungder VORBERG Kellerei Terlan,,,MAGNUM,2007,9500,1490,2,,,True
+,,Weißburgungder VINSCHGAU Falkenstein,,,MAGNUM,2009,9500,1490,3,,,True
+,,Chardonnay LÖWENGANG Alois Lageder,,,MAGNUM,2006,15500,6100,3,,,True
+,,Sauvignon VINSCHGAU Falkenstein,,,MAGNUM,2009,11500,1889,4,,,True
+,,Sauvignon QUARZ Kellerei Terlan,,,MAGNUM,2007,13500,3229,16,,,True
+,,Sauvignon QUARZ Kellerei Terlan,,,MAGNUM,2008,13500,3229,16,,,True
+,,Sauvignon ST. VALENTIN St. Michael-Eppan,,,MAGNUM,2009,14500,2500,10,,,True
+,,Riesling VINSCHGAU Falkenstein,,,MAGNUM,2009,11500,1989,4,,,True
+,,Cuvée MANNA Franz Haas,,,MAGNUM,2007,12500,2575,6,,,True
+,,Chardonnay + Grechetto CERVARO DELLA SALA Marchesi Antinori,,,MAGNUM,2008,18800,2575,1,,,True
+,,Puligny Montrachet  Leflaive,,,MAGNUM,2006,46600,10010,1,,,True
+,,Blauburgunder ST. VALENTIN St. Michael-Eppan,,,MAGNUM,2000,16000,3200,2,,,True
+,,Blauburgunder ST. VALENTIN St. Michael-Eppan,,,MAGNUM,1999,16000,3200,1,,,True
+,,Blauburgunder PRAEPOSITUS Stiftskellerei Neustift,,,MAGNUM,2003,16000,4450,2,,,True
+,,Blauburgunder SCHWEIZER Franz Haas,,,MAGNUM,2007,16000,4370,9,,,True
+,,Merlot FREIHERR Kellerei Meran,,,MAGNUM,2000,14500,2750,6,,,True
+,,Merlot FREIHERR Kellerei Meran,,,MAGNUM,1999,14500,2750,2,,,True
+,,Merlot RAUT Clemens Waldthaler,,,MAGNUM,1997,15500,3715,1,,,True
+,,Merlot BRENNTAL Kellerei Kurtatsch,,,MAGNUM,2000,16500,3000,3,,,True
+,,Merlot SCHWEIZER Franz Haas,,,MAGNUM,1996,16000,2695,1,,,True
+,,Merlot SCHWEIZER Franz Haas,,,MAGNUM,1995,18000,2695,1,,,True
+,,Merlot ARZIO Baron di Pauli,,,MAGNUM,2000,22000,4200,3,,,True
+,,Lagrein Dunkel PASSION Kellerei St. Pauls,,,MAGNUM,2006,11000,2650,1,,,True
+,,Lagrein Dunkel SEGEN Kellerei Meran,,,MAGNUM,1999,16000,2650,1,,,True
+,,Lagrein Dunkel SEGEN Kellerei Meran,,,MAGNUM,2000,16000,2650,3,,,True
+,,Lagrein Dunkel RISERVA Privatkellerei Eberlehof,,,MAGNUM,1995,15000,3500,1,,,True
+,,Lagrein Dunkel PRESTIGE Kellerei Bozen,,,MAGNUM,2000,15500,2500,2,,,True
+,,Lagrein Dunkel PRESTIGE Kellerei Bozen,,,MAGNUM,1997,16500,2500,3,,,True
+,,Lagrein Dunkel PRESTIGE Kellerei Bozen,,,MAGNUM,1995,16500,2500,1,,,True
+,,Lagrein Dunkel RAUT Clemens Waldthaler,,,MAGNUM,1997,16500,3026,4,,,True
+,,Lagrein Dunkel ABTEI Muri Gries,,,MAGNUM,2005,15500,2850,24,,,True
+,,Lagrein Dunkel ABTEI Muri Gries,,,MAGNUM,2007,15500,2850,24,,,True
+,,Lagrein Dunkel ABTEI Muri Gries,,,MAGNUM,2002,16500,2760,7,,,True
+,,Lagrein Dunkel ABTEI Muri Gries,,,MAGNUM,2000,18500,2760,5,,,True
+,,Lagrein Dunkel ABTEI Muri Gries,,,MAGNUM,1999,18500,2760,6,,,True
+,,Lagrein Dunkel ABTEI Muri Gries,,,MAGNUM,1997,22500,2760,4,,,True
+,,Lagrein Dunkel RISERVA Josephus Unterganzner,,,MAGNUM,2001,16500,2700,3,,,True
+,,Lagrein Dunkel TABERHOF Kellerei Bozen,,,MAGNUM,2001,18000,3795,3,,,True
+,,Lagrein Dunkel TABERHOF Kellerei Bozen,,,MAGNUM,2000,19000,3795,3,,,True
+,,Lagrein Dunkel TABERHOF Kellerei Bozen,,,MAGNUM,1998,19500,3795,1,,,True
+,,Lagrein Dunkel TABERHOF Kellerei Bozen,,,MAGNUM,1997,21000,3795,2,,,True
+,,Lagrein Dunkel STEINRAFFLER Hofstätter,,,MAGNUM,2004,16500,5200,5,,,True
+,,Lagrein Dunkel STEINRAFFLER Hofstätter,,,MAGNUM,1997,21000,5200,1,,,True
+,,Lagrein Dunkel STEINRAFFLER Hofstätter,,,MAGNUM,1995,26000,5200,2,,,True
+,,Lagrein Dunkel LAMAREIN Josephus Unterganzner,,,MAGNUM,2007,25000,5200,12,,,True
+,,Lagrein Dunkel LAMAREIN Josephus Unterganzner,,,MAGNUM,2006,25000,5200,9,,,True
+,,Lagrein Dunkel LAMAREIN Josephus Unterganzner,,,MAGNUM,2005,28000,5200,8,,,True
+,,Lagrein Dunkel LAMAREIN Josephus Unterganzner,,,MAGNUM,2004,28000,5200,5,,,True
+,,Lagrein Dunkel LAMAREIN Josephus Unterganzner,,,MAGNUM,2002,28000,5200,3,,,True
+,,Lagrein Dunkel LAMAREIN Josephus Unterganzner,,,MAGNUM,2000,45000,5200,1,,,True
+,,Cabernet Sauvignon CAMPANER Kaltern,,,MAGNUM,2000,12500,1600,6,,,True
+,,Cabernet  RISERVA Alois Lageder,,,MAGNUM,2005,9500,0,7,,,True
+,,Cabernet Sauvignon   Josephus Unterganzner,,,MAGNUM,2001,16500,3050,7,,,True
+,,Cabernet Sauvignon   Josephus Unterganzner,,,MAGNUM,2007,16500,3050,7,,,True
+,,Cabernet Sauvignon  Josephus Unterganzner,,,MAGNUM,2000,16500,3050,2,,,True
+,,Cabernet Sauvignon  Josephus Unterganzner,,,MAGNUM,1999,16500,3050,1,,,True
+,,Cabernet PFARRHOF Kellerei Kaltern,,,MAGNUM,2002,14000,3717,6,,,True
+,,Cabernet PFARRHOF Kellerei Kaltern,,,MAGNUM,2000,15500,3717,2,,,True
+,,Cabernet PFARRHOF Kellerei Kaltern,,,MAGNUM,1998,14500,3717,1,,,True
+,,Cabernet PFARRHOF Kellerei Kaltern,,,MAGNUM,1997,16500,3717,1,,,True
+,,Cabernet MUMELTER Kellerei Bozen-Gries,,,MAGNUM,2000,14500,2700,3,,,True
+,,Cabernet ST. VALENTIN Kellerei St. Michael-Eppan,,,MAGNUM,2000,18500,3200,6,,,True
+,,Cabernet ST. VALENTIN Kellerei St. Michael-Eppan,,,MAGNUM,1999,16500,3200,3,,,True
+,,Cabernet ST. VALENTIN Kellerei St. Michael-Eppan,,,MAGNUM,1997,22000,3200,3,,,True
+,,Cabernet TÓR LÖWENGANG Alois Lageder,,,MAGNUM,2004,16500,4530,9,,,True
+,,Cabernet TÓR LÖWENGANG Alois Lageder,,,MAGNUM,2000,18000,4530,10,,,True
+,,Cabernet RAUT Clemens Waldthaler,,,MAGNUM,1997,16500,3083,2,,,True
+,,Cabernet CASTEL  Schwanburg,,,MAGNUM,1990,38000,2400,1,,,True
+,,Cabernet COR Alois Lageder,,,MAGNUM,2003,24500,5500,10,,,True
+,,Cabernet COR Alois Lageder,,,MAGNUM,2004,24500,5500,10,,,True
+,,Cabernet Sauvignon LAFOA Kellerei Schreckbichl,,,MAGNUM,1999,18500,5300,3,,,True
+,,Soma  Kellerei Kurtatsch,,,MAGNUM,2000,15500,2300,2,,,True
+,,Rosso RAUT Clemens Waldthaler,,,MAGNUM,1997,16500,3824,6,,,True
+,,Cason  Cason Hirschprunn,,,MAGNUM,1997,22000,3475,2,,,True
+,,Cornelius Rosso  Kellerei Schreckbichl,,,MAGNUM,1999,16500,3400,2,,,True
+,,Arzio  Baron di Pauli,,,MAGNUM,2002,16500,5000,3,,,True
+,,Arzio  Baron di Pauli,,,MAGNUM,2003,22000,5000,7,,,True
+,,Reif  Josephus Unterganzner,,,MAGNUM,2007,24000,4250,18,,,True
+,,Reif  Josephus Unterganzner,,,MAGNUM,2008,24000,4250,18,,,True
+,,Reif  Josephus Unterganzner,,,MAGNUM,2005,24000,4250,25,,,True
+,,Reif  Josephus Unterganzner,,,MAGNUM,2004,24000,4250,8,,,True
+,,Reif  Josephus Unterganzner,,,MAGNUM,2003,32000,4250,9,,,True
+,,Reif  Josephus Unterganzner,,,MAGNUM,2002,32000,4250,4,,,True
+,,Reif  Josephus Unterganzner,,,MAGNUM,2001,42000,4250,3,,,True
+,,Reif  Josephus Unterganzner,,,MAGNUM,2000,48000,4250,3,,,True
+,,Barolo SORÌ GINESTRA Conterno Fantino,,,MAGNUM,1993,42000,13500,1,,,True
+,,Barolo SORÌ GINESTRA Conterno Fantino,,,MAGNUM,2006,35000,13500,2,,,True
+,,Barolo LA MORRA Roberto Voerzio,,,MAGNUM,1993,44500,13500,1,,,True
+,,Barolo SARMASSA Roberto Voerzio,,,MAGNUM,2006,44500,21200,6,,,True
+,,Barolo RIS. CAPALOT Roberto Voerzio,,,MAGNUM,2004,44500,21480,6,,,True
+,,Barolo FALLETTO SERRALUNGA Bruno Giacosa,,,MAGNUM,2004,54000,30000,1,,,True
+,,Cà del Pazzo  Caparzo,,,MAGNUM,1990,22000,4000,1,,,True
+,,Chianti   CLASSICO VIGNETTO BELLAVISTA Castello di Ama,,,MAGNUM,1990,33000,6500,1,,,True
+,,Bramasole Cortona  Marchesi Antinori,,,MAGNUM,2006,14500,3800,3,,,True
+,,Flaccianello della Pieve  Fontodi,,,MAGNUM,1993,17500,7100,1,,,True
+,,Le Pergole Torte  Montevertine,,,MAGNUM,1992,24000,8840,1,,,True
+,,Saffredi  Le Pupille,,,MAGNUM,2006,22000,8630,1,,,True
+,,Percarlo  Martini di Cigala,,,MAGNUM,1997,32000,5950,1,,,True
+,,Insoglio del Cinghiale  Campo di Sasso,,,MAGNUM,2008,11500,2100,4,,,True
+,,Il Pino di Biserno  Campo di Sasso,,,MAGNUM,2007,16500,4400,6,,,True
+,,Biserno  Campo di Sasso,,,MAGNUM,2007,23000,11400,5,,,True
+,,Tignanello  Marchesi Antinori,,,MAGNUM,1994,22000,8995,1,,,True
+,,Tignanello  Marchesi Antinori,,,MAGNUM,2007,26000,7359,3,,,True
+,,Brunello di Montalcino PIAN DELLE VIGNE Marchesi Antinori,,,MAGNUM,1997,22000,6325,1,,,True
+,,Brunello di Montalcino VIGNAFERROVIA Marchesi Antinori,,,MAGNUM,2004,28800,10350,3,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,1995,62000,15900,1,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,1996,42000,15900,1,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,1993,42000,15900,1,,,True
+,,Sassicaia  Tenuta San Guido,,,MAGNUM,1992,42000,15900,1,,,True
+,,50 & 50  Avignonesi&Capanelle ,,,MAGNUM,1995,35000,15990,1,,,True
+,,50 & 50  Avignonesi&Capanelle ,,,MAGNUM,1993,32000,15990,2,,,True
+,,Giorgio Bartholomäus  Tenuta Argentiera,,,MAGNUM,2006,32000,16000,5,,,True
+,,Solaia  Marchesi Antinori,,,MAGNUM,2006,46000,27320,1,,,True
+,,Amarone   Dal Forno Romano,,,MAGNUM,2001,111100,53900,3,,,True
+,,Amarone   Dal Forno Romano,,,MAGNUM,2000,111100,53900,9,,,True
+,,Amarone   Dal Forno Romano,,,MAGNUM,1999,111100,55900,1,,,True
+,,Amarone   Dal Forno Romano,,,MAGNUM,1998,111100,55900,1,,,True
+,,Amarone   Dal Forno Romano,,,MAGNUM,1996,111100,55900,1,,,True
+,,Monte Bello  Ridge,,,MAGNUM,2005,62000,28600,3,,,True
+,,Échèzeaux GRAND CRU Emmanuel Rouget,,,MAGNUM,2000,72000,26539,2,,,True
+,,Clos de Tart GRAND CRU Mommess,,,MAGNUM,2005,85000,37200,3,,,True
+,,Domaine de Chevalier GRAND VIN Pessac-Léognan,,,MAGNUM,2005,25000,4790,4,,,True
+,,Chateau Gombauede Guillot   Pomerol,,,MAGNUM,2005,26000,5940,6,,,True
+,,Chatau L´Evangile  Pomerol,,,MAGNUM,2000,120000,40625,1,,,True
+,,Château Mouthon Rothschild  Pauliac,,,MAGNUM,2006,196000,99900,1,,,True
+,,Château Latour  Pauliac,,,MAGNUM,2006,197000,99900,1,,,True

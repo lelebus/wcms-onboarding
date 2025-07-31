@@ -1,0 +1,760 @@
+external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantity,storage_area,internal_notes,visible
+v.69999.2020.c,WHITE, Cor unum et anima una,Abbazia di Novacella,,MAGNUM,2020,11400,0,200,,,True
+v.13842.2022.b,WHITE, Grüner Veltliner Praepositus,Abbazia di Novacella,,BOTTLE,2022,3500,0,200,,,True
+v.13841.2023.b,WHITE, Kerner Praepositus,Abbazia di Novacella,,BOTTLE,2023,3500,0,200,,,True
+v.6142.2022.b,WHITE, Riesling Praepositus,Abbazia di Novacella,,BOTTLE,2022,3700,0,200,,,True
+v.100767.2019.b,WHITE, Riesling Ungeheuer,Acham-Magin,,BOTTLE,2019,9100,0,200,,,True
+v.10282.2020.b,RED, Barbaresco Ronchi,Albino Rocca,,BOTTLE,2020,7400,0,200,,,True
+v.35838.2020.b,RED, Barbera d'Alba Gepin,Albino Rocca,,BOTTLE,2020,4100,0,200,,,True
+v.9081.2017.b,RED, Ribera del Duero Tinto Pesquera Crianza,Alejandro Fernandez Tinto Pesquera,,BOTTLE,2017,5300,0,200,,,True
+v.79189.2022.b,WHITE, Chenin blanc Hereafter Here,Alheit Vineyards,,BOTTLE,2022,6500,0,200,,,True
+v.612.2019.b,RED, Amarone della Valpolicella Classico,Allegrini,,BOTTLE,2019,10300,0,200,,,True
+v.611.2021.b,RED, Palazzo della Torre,Allegrini,,BOTTLE,2021,3800,0,200,,,True
+v.615.2023.b,RED, Valpolicella Classico,Allegrini,,BOTTLE,2023,3600,0,200,,,True
+v.14020.2011.c,RED, Cabernet Löwengang,Alois Lageder,,MAGNUM,2011,19000,0,200,,,True
+v.6774.2023.b,WHITE, Chardonnay Gaun,Alois Lageder,,BOTTLE,2023,4000,1300,200,,,True
+v.6775.2020.c,WHITE, Chardonnay Löwengang,Alois Lageder,,MAGNUM,2020,19000,0,200,,,True
+v.6775.2020.b,WHITE, Chardonnay Löwengang,Alois Lageder,,BOTTLE,2020,8800,0,200,,,True
+v.6775.2021.c,WHITE, Chardonnay Löwengang,Alois Lageder,,MAGNUM,2021,19000,0,200,,,True
+v.8962.1995.b,RED, Cor Römigberg,Alois Lageder,,BOTTLE,1995,17600,0,200,,,True
+v.8962.1996.b,RED, Cor Römigberg,Alois Lageder,,BOTTLE,1996,15000,0,200,,,True
+v.8962.1998.b,RED, Cor Römigberg,Alois Lageder,,BOTTLE,1998,18000,8950,200,,,True
+v.8962.2004.b,RED, Cor Römigberg,Alois Lageder,,BOTTLE,2004,15000,7550,200,,,True
+v.8962.2006.c,RED, Cor Römigberg,Alois Lageder,,MAGNUM,2006,24000,0,200,,,True
+v.8962.2006.b,RED, Cor Römigberg,Alois Lageder,,BOTTLE,2006,13500,0,200,,,True
+v.8962.2013.b,RED, Cor Römigberg,Alois Lageder,,BOTTLE,2013,11000,5600,200,,,True
+v.8962.2015.b,RED, Cor Römigberg,Alois Lageder,,BOTTLE,2015,9100,0,200,,,True
+v.8962.2016.b,RED, Cor Römigberg,Alois Lageder,,BOTTLE,2016,8500,0,200,,,True
+v.8962.2017.b,RED, Cor Römigberg,Alois Lageder,,BOTTLE,2017,8200,0,200,,,True
+v.96381.2020.b,RED, Löwengang Uvaggio Storico,Alois Lageder,,BOTTLE,2020,10300,0,200,,,True
+v.18040.2003.b,RED, Merlot MCM,Alois Lageder,,BOTTLE,2003,17500,0,200,,,True
+v.18040.2009.b,RED, Merlot MCM,Alois Lageder,,BOTTLE,2009,13000,0,200,,,True
+v.18040.2015.b,RED, Merlot MCM,Alois Lageder,,BOTTLE,2015,10500,0,200,,,True
+v.84382.2020.b,RED, Merlot MCMLVII Vecchie Viti,Alois Lageder,,BOTTLE,2020,7700,0,200,,,True
+v.104481.2024.b,WHITE, Misto Mare,Alois Lageder,,BOTTLE,2024,3500,700,200,,,True
+v.17547.2023.b,WHITE, Pinot grigio,Alois Lageder,,BOTTLE,2023,3400,1200,200,,,True
+v.9034.2011.c,RED, Pinot nero Krafuss,Alois Lageder,,MAGNUM,2011,17500,0,200,,,True
+v.100819.2011.b,RED, Viribus Unitis Landibell,Andi Sölva,,BOTTLE,2011,10000,0,200,,,True
+v.59340.2009.b,RED, Viribus Unitis mit Vereinten Kräften Rot,Andi Sölva,,BOTTLE,2009,11000,0,200,,,True
+v.59340.2017.b,RED, Viribus Unitis mit Vereinten Kräften Rot,Andi Sölva,,BOTTLE,2017,9400,0,200,,,True
+v.59335.2016.b,WHITE, Viribus Unitis mit Vereinten Kräften Weiss,Andi Sölva,,BOTTLE,2016,9300,0,200,,,True
+v.86116.2019.b,RED, Châteauneuf-du-Pape Les Cailloux,André Brunel,,BOTTLE,2019,7700,3000,200,,,True
+v.37060.2023.b,WHITE, Andrius,Andrian,,BOTTLE,2023,4600,0,200,,,True
+v.3874.2021.b,RED, Lagrein Riserva Tor di Lupo,Andrian,,BOTTLE,2021,6600,0,200,,,True
+v.14203.2021.b,RED, Merlot Riserva Gant,Andrian,,BOTTLE,2021,7200,0,200,,,True
+v.43782.2023.b,RED, Santa Maddalena Classico Antheos,Ansitz Waldgries,,BOTTLE,2023,3600,1200,200,,,True
+v.241.2004.c,RED, Sagrantino di Montefalco Collepiano,Arnaldo Caprai,,MAGNUM,2004,22500,0,200,,,True
+v.1105.0.b,WHITE, Talento Brût,Arunda,,BOTTLE,0,4500,0,200,,,True
+v.13932.0.b,, Talento Rosé Brût,Arunda,,BOTTLE,0,6100,0,200,,,True
+v.92235.2021.b,WHITE, Chardonnay,Augusta Bargilli,,BOTTLE,2021,4800,0,200,,,True
+v.37160.0.b,WHITE, Farfalla Noir Collection Extra brût,Ballabio,,BOTTLE,0,4800,0,200,,,True
+v.37159.0.b,, Farfalla Noir Collection Rosé Brût,Ballabio,,BOTTLE,0,6200,0,200,,,True
+v.4712.0.b,WHITE, Franciacorta Alma Gran Cuvée Brût,Bellavista,,BOTTLE,0,6700,0,200,,,True
+v.58617.2022.b,WHITE, Chardonnay Riserva Lina,Bergmannhof,,BOTTLE,2022,4500,0,200,,,True
+v.1391.2023.b,WHITE, Grüner Veltliner Fass 4,Bernhard Ott,,BOTTLE,2023,4300,0,200,,,True
+v.1390.2020.b,WHITE, Grüner Veltliner Ried Rosenberg,Bernhard Ott,,BOTTLE,2020,8500,0,200,,,True
+v.5306.1994.b,RED, Amarone della Valpolicella Classico,Bertani,,BOTTLE,1994,55000,0,200,,,True
+v.5306.2001.b,RED, Amarone della Valpolicella Classico,Bertani,,BOTTLE,2001,29000,0,200,,,True
+v.5306.2004.b,RED, Amarone della Valpolicella Classico,Bertani,,BOTTLE,2004,19500,0,200,,,True
+v.5306.2005.b,RED, Amarone della Valpolicella Classico,Bertani,,BOTTLE,2005,22100,0,200,,,True
+v.5306.2010.b,RED, Amarone della Valpolicella Classico,Bertani,,BOTTLE,2010,14300,0,200,,,True
+v.5306.2012.c,RED, Amarone della Valpolicella Classico,Bertani,,MAGNUM,2012,37000,0,200,,,True
+v.5306.2012.b,RED, Amarone della Valpolicella Classico,Bertani,,BOTTLE,2012,14300,0,200,,,True
+v.12123.1967.b,RED, Recioto Amarone della Valpolicella Classico Superiore,Bertani,,BOTTLE,1967,95000,0,200,,,True
+v.12123.1976.b,RED, Recioto Amarone della Valpolicella Classico Superiore,Bertani,,BOTTLE,1976,110000,0,200,,,True
+v.69216.2022.b,WHITE, Chablis Montmains 1er Cru,Besson,,BOTTLE,2022,6500,0,200,,,True
+v.5415.2019.b,RED, Colore Rosso 20° Anniversario,Bibi Graetz,,BOTTLE,2019,47400,0,200,,,True
+v.384.2016.b,RED, Testamatta Rosso,Bibi Graetz,,BOTTLE,2016,13800,0,200,,,True
+v.86957.2022.b,WHITE, Coteaux Bourguignons Chardonnay La Boule de Billard,Billard Père et Fils,,BOTTLE,2022,3900,1350,200,,,True
+v.1585.0.b,WHITE, Brut Réserve,Billecart-Salmon,,BOTTLE,0,9700,0,200,,,True
+v.423.2018.b,RED, Brunello di Montalcino Il Greppo,Biondi Santi,,BOTTLE,2018,20500,0,200,,,True
+v.10840.2019.b,WHITE, Abissi Spumante,Bisson,,BOTTLE,2019,9500,0,200,,,True
+v.84858.0.b,WHITE, Franciacorta Quarantaquattro Racconti Brût (dég. 03/2024),Bredasole,,BOTTLE,0,4200,0,200,,,True
+v.33275.2021.b,RED, Barbaresco Currà,Bruno Rocca,,BOTTLE,2021,11600,0,200,,,True
+v.34252.2013.b,RED, Barbaresco Maria Adelaide,Bruno Rocca,,BOTTLE,2013,15900,0,200,,,True
+v.8451.2018.b,RED, Barbaresco Rabajà,Bruno Rocca,,BOTTLE,2018,10100,0,200,,,True
+v.8451.2019.b,RED, Barbaresco Rabajà,Bruno Rocca,,BOTTLE,2019,10100,0,200,,,True
+v.8451.2020.b,RED, Barbaresco Rabajà,Bruno Rocca,,BOTTLE,2020,11100,0,200,,,True
+v.54757.2019.b,RED, Barbaresco Riserva Rabajà,Bruno Rocca,,BOTTLE,2019,18800,0,200,,,True
+v.8452.2020.b,RED, Barbaresco,Bruno Rocca,,BOTTLE,2020,7000,0,200,,,True
+v.8452.2021.b,RED, Barbaresco,Bruno Rocca,,BOTTLE,2021,7000,0,200,,,True
+v.8235.2024.b,RED, Dolcetto d'Alba Trifolè,Bruno Rocca,,BOTTLE,2024,3600,1000,200,,,True
+v.19839.0.b,RED, Port Tawny 10 YO,Burmester,,BOTTLE,0,3900,0,200,,,True
+v.8520.2018.b,RED, Barbaresco Asili,Ca' del Baio,,BOTTLE,2018,7800,0,200,,,True
+v.8520.2019.b,RED, Barbaresco Asili,Ca' del Baio,,BOTTLE,2019,7800,0,200,,,True
+v.934.1990.d,WHITE, Franciacorta Cuvée Annamaria Clementi Brut,Ca' del Bosco,,JEROBOAM,1990,150000,0,200,,,True
+v.43055.0.b,WHITE, Franciacorta Cuvée Prestige Extra brût,Ca' del Bosco,,BOTTLE,0,7300,0,200,,,True
+v.12570.2021.b,WHITE, Lugana Superiore,Ca' Lojera,,BOTTLE,2021,3800,1300,200,,,True
+v.339.2004.b,RED, Bolgheri Camarcanda,Ca' Marcanda,,BOTTLE,2004,19800,0,200,,,True
+v.39017.2020.b,RED, Aria di Caiarossa,Caiarossa,,BOTTLE,2020,4300,1600,200,,,True
+v.30121.2019.b,RED, Caiarossa,Caiarossa,,BOTTLE,2019,9000,3700,200,,,True
+v.6883.2020.b,WHITE, LR Riserva,Cantina di Colterenzio,,BOTTLE,2020,15400,6950,200,,,True
+v.37868.2022.b,WHITE, Pinot bianco Berg,Cantina di Colterenzio,,BOTTLE,2022,3700,0,200,,,True
+v.58057.2020.b,RED, Pinot nero Riserva Lafòa,Cantina di Colterenzio,,BOTTLE,2020,6100,2500,200,,,True
+v.12046.2022.b,RED, Pinot nero Riserva St. Daniel,Cantina di Colterenzio,,BOTTLE,2022,3700,1300,200,,,True
+v.981.2023.b,WHITE, Sauvignon blanc Lafòa,Cantina di Colterenzio,,BOTTLE,2023,4800,0,200,,,True
+v.100466.2021.b,WHITE, Sauvignon Riserva Gran Lafòa,Cantina di Colterenzio,,BOTTLE,2021,15400,6990,200,,,True
+v.837.2023.b,WHITE, Chardonnay,Cantina di Terlano,,BOTTLE,2023,3500,0,200,,,True
+v.827.2021.c,RED, Lagrein Riserva Porphyr,Cantina di Terlano,,MAGNUM,2021,18800,0,200,,,True
+v.827.2021.b,RED, Lagrein Riserva Porphyr,Cantina di Terlano,,BOTTLE,2021,8600,0,200,,,True
+v.825.2009.c,WHITE, Nova Domus Riserva,Cantina di Terlano,,MAGNUM,2009,17500,0,200,,,True
+v.831.2022.b,WHITE, Pinot bianco Riserva Vorberg,Cantina di Terlano,,BOTTLE,2022,4900,2000,200,,,True
+v.824.2022.c,WHITE, Sauvignon Quarz,Cantina di Terlano,,MAGNUM,2022,18500,0,200,,,True
+v.824.2022.b,WHITE, Sauvignon Quarz,Cantina di Terlano,,BOTTLE,2022,8500,0,200,,,True
+v.828.2023.b,WHITE, Terlaner,Cantina di Terlano,,BOTTLE,2023,3500,0,200,,,True
+v.4772.2020.b,WHITE, Gewürztraminer Riserva Brenntal,Cantina Kurtatsch,,BOTTLE,2020,4500,0,200,,,True
+v.11937.2022.b,RED, Lagrein Riserva Frauenhügel,Cantina Kurtatsch,,BOTTLE,2022,4200,0,200,,,True
+v.51892.2022.b,RED, Merlot cabernet Soma,Cantina Kurtatsch,,BOTTLE,2022,4400,1700,200,,,True
+v.87148.2024.b,, Lagrein Kretzer,Cantina Muri-Gries,,BOTTLE,2024,3500,0,200,,,True
+v.5299.2022.b,RED, Lagrein Riserva Abtei Muri,Cantina Muri-Gries,,BOTTLE,2022,4900,2000,200,,,True
+v.32160.2020.b,RED, Lagrein Weingarten Klosteranger,Cantina Muri-Gries,,BOTTLE,2020,11100,0,200,,,True
+v.9183.2017.c,RED, Cabernet Riserva Mumelter,Cantina Produttori Bolzano,,MAGNUM,2017,15500,0,200,,,True
+v.9183.2021.b,RED, Cabernet Riserva Mumelter,Cantina Produttori Bolzano,,BOTTLE,2021,6800,0,200,,,True
+v.73227.2022.b,WHITE, Chardonnay Riserva Stegher,Cantina Produttori Bolzano,,BOTTLE,2022,4600,0,200,,,True
+v.14278.2021.c,RED, Lagrein Riserva Gries Prestige line,Cantina Produttori Bolzano,,MAGNUM,2021,11000,0,200,,,True
+v.14278.2021.b,RED, Lagrein Riserva Gries Prestige line,Cantina Produttori Bolzano,,BOTTLE,2021,4900,0,200,,,True
+v.5434.2021.f,RED, Lagrein Riserva Taber,Cantina Produttori Bolzano,,MATHUSALEM,2021,59000,0,200,,,True
+v.5434.2021.b,RED, Lagrein Riserva Taber,Cantina Produttori Bolzano,,BOTTLE,2021,8000,3500,200,,,True
+v.59271.2020.b,RED, Lagrein-Merlot Mauritius,Cantina Produttori Bolzano,,BOTTLE,2020,5900,0,200,,,True
+v.37324.2023.b,RED, St. Magdalener Huck am Bach,Cantina Produttori Bolzano,,BOTTLE,2023,3500,0,200,,,True
+v.86855.2020.b,RED, TAL 1908,Cantina Produttori Bolzano,,BOTTLE,2020,14400,0,200,,,True
+v.86855.2021.u,RED, TAL 1908,Cantina Produttori Bolzano,,MAGNUM,2021,28000,11000,200,,,True
+v.86855.2021.b,RED, TAL 1908,Cantina Produttori Bolzano,,BOTTLE,2021,13400,6800,200,,,True
+v.86857.2020.b,WHITE, TAL 1930,Cantina Produttori Bolzano,,BOTTLE,2020,11400,0,200,,,True
+v.86857.2021.c,WHITE, TAL 1930,Cantina Produttori Bolzano,,MAGNUM,2021,22000,10000,200,,,True
+v.86857.2021.b,WHITE, TAL 1930,Cantina Produttori Bolzano,,BOTTLE,2021,10400,5000,200,,,True
+v.72704.2022.b,RED, Alto Adige Merlot-Cabernet Rungg,Cantina Tramin,,BOTTLE,2022,3600,0,200,,,True
+v.33724.2018.c,WHITE, Chardonnay Riserva Troy,Cantina Tramin,,MAGNUM,2018,23200,0,200,,,True
+v.33724.2019.c,WHITE, Chardonnay Riserva Troy,Cantina Tramin,,MAGNUM,2019,22500,10000,200,,,True
+v.33724.2020.u,WHITE, Chardonnay Riserva Troy,Cantina Tramin,,MAGNUM,2020,21500,0,200,,,True
+v.33724.2021.b,WHITE, Chardonnay Riserva Troy,Cantina Tramin,,BOTTLE,2021,10300,5500,200,,,True
+v.3732.2014.b,WHITE, Gewürztraminer Nussbaumer,Cantina Tramin,,BOTTLE,2014,8400,0,200,,,True
+v.3732.2022.c,WHITE, Gewürztraminer Nussbaumer,Cantina Tramin,,MAGNUM,2022,10000,0,200,,,True
+v.3732.2023.b,WHITE, Gewürztraminer Nussbaumer,Cantina Tramin,,BOTTLE,2023,4900,0,200,,,True
+v.14579.2010.b,WHITE, Gewürztraminer Spätlese Epokale,Cantina Tramin,,BOTTLE,2010,44000,0,200,,,True
+v.14579.2011.b,WHITE, Gewürztraminer Spätlese Epokale,Cantina Tramin,,BOTTLE,2011,39000,0,200,,,True
+v.14579.2012.b,WHITE, Gewürztraminer Spätlese Epokale,Cantina Tramin,,BOTTLE,2012,34000,0,200,,,True
+v.14579.2015.b,WHITE, Gewürztraminer Spätlese Epokale,Cantina Tramin,,BOTTLE,2015,33000,0,200,,,True
+v.14579.2016.b,WHITE, Gewürztraminer Spätlese Epokale,Cantina Tramin,,BOTTLE,2016,32000,0,200,,,True
+v.11349.2016.a,WHITE, Gewürztraminer Terminum Vendemmia Tardiva,Cantina Tramin,,HALF_BOTTLE,2016,10200,0,200,,,True
+v.11349.2017.a,WHITE, Gewürztraminer Terminum Vendemmia Tardiva,Cantina Tramin,,HALF_BOTTLE,2017,9900,0,200,,,True
+v.11349.2022.a,WHITE, Gewürztraminer Terminum Vendemmia Tardiva,Cantina Tramin,,HALF_BOTTLE,2022,7200,3300,200,,,True
+v.14229.2020.c,RED, Lagrein Riserva Urban,Cantina Tramin,,MAGNUM,2020,13000,0,200,,,True
+v.14229.2022.b,RED, Lagrein Riserva Urban,Cantina Tramin,,BOTTLE,2022,6300,0,200,,,True
+v.35248.2019.c,RED, Loam Riserva,Cantina Tramin,,MAGNUM,2019,15500,0,200,,,True
+v.35248.2021.b,RED, Loam Riserva,Cantina Tramin,,BOTTLE,2021,7300,0,200,,,True
+v.1135.2023.b,WHITE, Pinot bianco Moriz,Cantina Tramin,,BOTTLE,2023,3400,1000,200,,,True
+v.13380.2022.b,WHITE, Pinot grigio Unterebner,Cantina Tramin,,BOTTLE,2022,4600,0,200,,,True
+v.6021.2023.a,WHITE, Roen Vendemmia Tardiva,Cantina Tramin,,HALF_BOTTLE,2023,5200,0,200,,,True
+v.14035.2023.b,WHITE, Sauvignon Pepi,Cantina Tramin,,BOTTLE,2023,3500,0,200,,,True
+v.1136.2023.c,WHITE, Stoan,Cantina Tramin,,MAGNUM,2023,10200,4200,200,,,True
+v.1136.2023.b,WHITE, Stoan,Cantina Tramin,,BOTTLE,2023,4700,1980,200,,,True
+v.87855.2020.b,WHITE, Cuvée Adamantis,Cantina Valle Isarco,,BOTTLE,2020,11900,0,200,,,True
+v.99369.2020.b,WHITE, Granit 960,Cantina Valle Isarco,,BOTTLE,2020,18000,10000,200,,,True
+v.35569.2023.b,WHITE, Kerner Aristos,Cantina Valle Isarco,,BOTTLE,2023,4100,0,200,,,True
+v.100792.2020.b,RED, Barbera d'Asti Superiore Vanet,Cascina Ferro,,BOTTLE,2020,3700,0,200,,,True
+v.31165.2022.b,RED, Nero d'Avola 16 Filari,Case Alte,,BOTTLE,2022,3500,0,200,,,True
+v.315.1993.b,RED, Brunello di Montalcino,Case Basse Soldera,,BOTTLE,1993,130000,0,200,,,True
+v.6838.2021.b,WHITE, Chardonnay Riserva Burgum Novum,Castelfeder,,BOTTLE,2021,4900,0,200,,,True
+v.69031.2020.b,WHITE, Chardonnay Riserva Kreuzweg Family Reserve,Castelfeder,,BOTTLE,2020,10200,0,200,,,True
+v.11462.2015.b,WHITE, Gewürztraminer Vom Lehm,Castelfeder,,BOTTLE,2015,4600,0,200,,,True
+v.31324.2023.b,WHITE, Pinot grigio 15,Castelfeder,,BOTTLE,2023,3500,1400,200,,,True
+v.30765.2022.b,RED, Pinot nero Glen,Castelfeder,,BOTTLE,2022,4100,1400,200,,,True
+v.6840.2020.b,RED, Pinot nero Riserva Burgum Novum,Castelfeder,,BOTTLE,2020,5400,2100,200,,,True
+v.487.2019.b,RED, I Sodi di San Niccolò,Castellare di Castellina,,BOTTLE,2019,11700,0,200,,,True
+v.457.1994.b,RED, Sammarco,Castello dei Rampolla,,BOTTLE,1994,12000,0,200,,,True
+v.457.1995.b,RED, Sammarco,Castello dei Rampolla,,BOTTLE,1995,12000,0,200,,,True
+v.457.1996.b,RED, Sammarco,Castello dei Rampolla,,BOTTLE,1996,13000,0,200,,,True
+v.457.2017.b,RED, Sammarco,Castello dei Rampolla,,BOTTLE,2017,9100,0,200,,,True
+v.33885.2018.b,RED, Brunello di Montalcino,Castello di Banfi a Montalcino,,BOTTLE,2018,5700,0,200,,,True
+v.10533.2023.b,, Côtes de Provence Whispering Angel Rosé,Château d’Esclans,,BOTTLE,2023,4800,0,200,,,True
+v.1777.1986.b,WHITE, Sauternes Château d'Yquem 1er Cru Sup.,Château d'Yquem,,BOTTLE,1986,75000,0,200,,,True
+v.1777.1987.b,WHITE, Sauternes Château d'Yquem 1er Cru Sup.,Château d'Yquem,,BOTTLE,1987,75000,0,200,,,True
+v.100801.2016.b,RED, Castillon Côtes de Bordeaux Château Ampélia,Château Grand Corbin-Despagne,,BOTTLE,2016,4500,0,200,,,True
+v.4340.1995.b,WHITE, Sauternes Château Guiraud 1er G.Cru Classé,Château Guiraud,,BOTTLE,1995,14650,0,200,,,True
+v.4612.2016.b,RED, Château La Pointe,Château La Pointe,,BOTTLE,2016,10700,0,200,,,True
+v.100262.2016.b,RED, Château Mauvesin Barton,Château Mauvesin Barton,,BOTTLE,2016,6300,0,200,,,True
+v.1741.1990.b,RED, Château Mouton-Rothschild 1er G.Cru Classé,Château Mouton Rothschild,,BOTTLE,1990,105000,0,200,,,True
+v.10092.2018.b,RED, Château Phélan Ségur,Château Phélan Ségur,,BOTTLE,2018,8600,0,200,,,True
+v.6430.2010.b,RED, Château Pontet Canet Grand Cru Classé,Château Pontet Canet,,BOTTLE,2010,65000,30000,200,,,True
+v.1122.2021.b,WHITE, Timorasso Derthona,Claudio Mariotto,,BOTTLE,2021,3400,0,200,,,True
+v.44002.2009.b,RED, Merlot Raut,Clemens Waldthaler,,BOTTLE,2009,9200,0,200,,,True
+v.64488.2018.b,RED, Pomerol Clos du Clocher,Clos du Clocher,,BOTTLE,2018,9300,0,200,,,True
+v.6611.2024.b,WHITE, Sauvignon,Cloudy Bay,,BOTTLE,2024,6800,0,200,,,True
+v.3161.2010.b,RED, Poggio ai Chiari,Colle Santa Mustiola,,BOTTLE,2010,6800,0,200,,,True
+v.6270.2019.b,RED, Langhe Rosso Monprà,Conterno Fantino,,BOTTLE,2019,6300,0,200,,,True
+v.101374.2019.b,RED, Brunello di Montalcino Fior di Meliloto,Corte Pavone,,BOTTLE,2019,9500,4200,200,,,True
+v.48166.2019.b,RED, Brunello di Montalcino,Corte Pavone,,BOTTLE,2019,7100,3300,200,,,True
+v.34124.2016.b,, Le Perle di Pavone Extra brût,Corte Pavone,,BOTTLE,2016,4300,0,200,,,True
+v.48563.2022.b,RED, Rosso di Montalcino,Corte Pavone,,BOTTLE,2022,3500,0,200,,,True
+v.102029.2020.b,RED, Mission Steillage Steile Madeleine trocken,Dagernova,,BOTTLE,2020,7800,3300,200,,,True
+v.1341.2016.b,WHITE, Kaplja,Damijan Podversič,,BOTTLE,2016,7000,0,200,,,True
+v.96231.2021.b,WHITE, Riesling,Daniel Sigmund,,BOTTLE,2021,4400,1700,200,,,True
+v.81849.2023.b,WHITE, Silvaner,Daniel Sigmund,,BOTTLE,2023,4000,1700,200,,,True
+v.3063.2017.b,RED, Sagrantino di Montefalco,Di Filippo,,BOTTLE,2017,4900,0,200,,,True
+v.4746.2006.b,WHITE, P2 Deuxième Plénitude Brût,Dom Pérignon,,BOTTLE,2006,52000,33500,200,,,True
+v.1642.2006.b,WHITE, Vintage Brût,Dom Pérignon,,BOTTLE,2006,46000,0,200,,,True
+v.1642.2015.b,WHITE, Vintage Brût,Dom Pérignon,,BOTTLE,2015,31000,17000,200,,,True
+v.56209.2016.b,WHITE, Puligny-Montrachet Les Combettes 1er Cru,Domaine Leflaive,,BOTTLE,2016,52000,0,200,,,True
+v.4193.2013.b,WHITE, Puligny-Montrachet Les Folatières 1er Cru,Domaine Leflaive,,BOTTLE,2013,51000,0,200,,,True
+v.5499.2016.b,WHITE, Puligny-Montrachet Les Pucelles 1er Cru,Domaine Leflaive,,BOTTLE,2016,53000,0,200,,,True
+v.8271.2006.b,RED, Barolo Aeroplanservaj,Domenico Clerico,,BOTTLE,2006,22000,0,200,,,True
+v.3762.2003.b,RED, Barolo Percristina,Domenico Clerico,,BOTTLE,2003,12800,0,200,,,True
+v.8951.2023.b,WHITE, Anthìlia,Donnafugata,,BOTTLE,2023,3400,0,200,,,True
+v.100910.0.b,WHITE, Riesling Sparkling Steinbock Zero,Dr. Fischer - J. Hofstätter,,BOTTLE,0,3600,0,200,,,True
+v.60224.2023.b,WHITE, Valle Isarco Grüner Veltliner,Ebner,,BOTTLE,2023,3400,0,200,,,True
+v.14365.2014.b,WHITE, Beyond the Clouds Argentum Bonum,Elena Walch,,BOTTLE,2014,15400,0,200,,,True
+v.14365.2015.b,WHITE, Beyond the Clouds Argentum Bonum,Elena Walch,,BOTTLE,2015,14800,0,200,,,True
+v.14365.2016.b,WHITE, Beyond the Clouds Argentum Bonum,Elena Walch,,BOTTLE,2016,14500,0,200,,,True
+v.11553.2022.b,WHITE, Beyond the Clouds,Elena Walch,,BOTTLE,2022,9200,0,200,,,True
+v.979.2017.c,RED, Cabernet Istrice,Elena Walch,,MAGNUM,2017,12200,0,200,,,True
+v.979.2023.b,RED, Cabernet Istrice,Elena Walch,,BOTTLE,2023,4600,0,200,,,True
+v.13868.2019.b,RED, Cabernet sauvignon Riserva Vigna Castel Ringberg,Elena Walch,,BOTTLE,2019,7600,0,200,,,True
+v.978.2023.b,WHITE, Chardonnay Cardellino,Elena Walch,,BOTTLE,2023,3700,0,200,,,True
+v.14366.2015.b,WHITE, Gewürztraminer Kastelaz Argentum Bonum,Elena Walch,,BOTTLE,2015,10700,0,200,,,True
+v.13840.2022.a,WHITE, Gewürztraminer Passito Cashmere,Elena Walch,,HALF_BOTTLE,2022,7000,0,200,,,True
+v.4904.2022.b,WHITE, Gewürztraminer Vigna Kastelaz,Elena Walch,,BOTTLE,2022,6600,0,200,,,True
+v.35584.2024.b,WHITE, Gewürztraminer,Elena Walch,,BOTTLE,2024,3700,1300,200,,,True
+v.34289.2021.b,RED, Grande Cuvée Kermesse,Elena Walch,,BOTTLE,2021,7900,0,200,,,True
+v.65822.2023.b,RED, Kaltersee Classico Superiore Per Sé,Elena Walch,,BOTTLE,2023,3400,1100,200,,,True
+v.46057.2019.b,RED, Merlot Riserva Vigna Kastelaz,Elena Walch,,BOTTLE,2019,6700,0,200,,,True
+v.39155.2024.b,RED, Merlot,Elena Walch,,BOTTLE,2024,3700,0,200,,,True
+v.977.2020.c,RED, Pinot nero Ludwig,Elena Walch,,MAGNUM,2020,15200,0,200,,,True
+v.977.2021.b,RED, Pinot nero Ludwig,Elena Walch,,BOTTLE,2021,6900,0,200,,,True
+v.58752.2017.b,RED, Pinot noir Riserva Aton,Elena Walch,,BOTTLE,2017,18500,0,200,,,True
+v.58752.2018.b,RED, Pinot noir Riserva Aton,Elena Walch,,BOTTLE,2018,17000,0,200,,,True
+v.58752.2019.b,RED, Pinot noir Riserva Aton,Elena Walch,,BOTTLE,2019,15000,0,200,,,True
+v.18245.2024.b,, Rosé 20/26,Elena Walch,,BOTTLE,2024,3600,0,200,,,True
+v.100761.2021.b,WHITE, Riesling Federspiel Loibner,Emmerich Knoll,,BOTTLE,2021,4900,0,200,,,True
+v.16291.2018.b,WHITE, Riesling Smaragd Ried Schütt Dürnsteiner,Emmerich Knoll,,BOTTLE,2018,11000,0,200,,,True
+v.12927.2019.b,WHITE, Trentodoc Cuvée n. 8 Extra brût (dég. 04/2023),Etyssa,,BOTTLE,2019,4800,0,200,,,True
+v.58903.2018.b,WHITE, Etna Bianco Bianco di Monte,Eudes,,BOTTLE,2018,6300,0,200,,,True
+v.90103.2018.b,RED, Etna Rosso Milleottocentoquaranta,Eudes,,BOTTLE,2018,8300,0,200,,,True
+v.87771.0.b,WHITE, Riesling Cuvée N. 220 Extra brût,Eymann,,BOTTLE,0,4500,0,200,,,True
+v.51544.1999.b,WHITE, Riesling Smaragd Dürnsteiner Kellerberg,F.X. Pichler,,BOTTLE,1999,21000,0,200,,,True
+v.64480.1999.b,WHITE, Riesling Smaragd Loibenberg,F.X. Pichler,,BOTTLE,1999,16000,0,200,,,True
+v.90455.1999.b,WHITE, Riesling Smaragd Loibner Steinertal,F.X. Pichler,,BOTTLE,1999,15500,0,200,,,True
+v.986.2023.b,WHITE, Riesling,Falkenstein,,BOTTLE,2023,4300,0,200,,,True
+v.767.1999.b,RED, Saffredi,Fattoria Le Pupille,,BOTTLE,1999,13800,0,200,,,True
+v.767.2000.b,RED, Saffredi,Fattoria Le Pupille,,BOTTLE,2000,14000,0,200,,,True
+v.767.2019.b,RED, Saffredi,Fattoria Le Pupille,,BOTTLE,2019,12300,0,200,,,True
+v.66985.2021.b,WHITE, Pinot blanc Riserva,Fenja Hinz,,BOTTLE,2021,8000,0,200,,,True
+v.6744.2021.b,WHITE, Franciacorta Milledì Brût,Ferghettina,,BOTTLE,2021,4800,0,200,,,True
+v.6745.2021.b,, Franciacorta Rosé Brût,Ferghettina,,BOTTLE,2021,4800,0,200,,,True
+v.67077.0.d,WHITE, Trentodoc F1 Podium Limited Edition Brût,Ferrari,,JEROBOAM,0,29100,0,200,,,True
+v.36765.2006.b,WHITE, Trentodoc Giulio Ferrari Riserva del Fondatore Edizione Limitata Extra brût (dég. anno/2024),Ferrari,,BOTTLE,2006,29000,16000,200,,,True
+v.947.2004.b,WHITE, Trentodoc Giulio Ferrari Riserva del Fondatore Extra brut,Ferrari,,BOTTLE,2004,35200,0,200,,,True
+v.79494.2012.b,WHITE, Trentodoc Giulio Ferrari Riserva del Fondatore Extra brut,Ferrari,,BOTTLE,2012,22500,0,200,,,True
+v.33076.2009.b,, Trentodoc Giulio Ferrari Riserva del Fondatore Rosé Extra brût (dég. anno/2021),Ferrari,,BOTTLE,2009,31000,0,200,,,True
+v.33076.2012.b,, Trentodoc Giulio Ferrari Riserva del Fondatore Rosé Extra brût (dég. anno/2023),Ferrari,,BOTTLE,2012,29000,0,200,,,True
+v.4345.0.b,WHITE, Trentodoc Maximum Blanc de Blancs Brût,Ferrari,,BOTTLE,0,4800,0,200,,,True
+v.65019.2018.b,WHITE, Trentodoc Perlé Millesimato Brût (dég. anno/2025),Ferrari,,BOTTLE,2018,6900,0,200,,,True
+v.67185.2017.c,WHITE, Trentodoc Perlé Millesimato Sboccatura Recente Brût,Ferrari,,MAGNUM,2017,14000,0,200,,,True
+v.98517.2006.b,WHITE, Trentodoc Riserva Bruno Lunelli Extra brût,Ferrari,,BOTTLE,2006,130000,0,200,,,True
+v.952.2015.c,WHITE, Trentodoc Riserva Lunelli Extra brût (dég. anno/2022),Ferrari,,MAGNUM,2015,19000,0,200,,,True
+v.10483.2013.c,WHITE, Trentodoc Riserva Perlé Bianco Brût,Ferrari,,MAGNUM,2013,16000,0,200,,,True
+v.10483.2016.b,WHITE, Trentodoc Riserva Perlé Bianco Brût,Ferrari,,BOTTLE,2016,7900,3600,200,,,True
+v.953.2017.b,WHITE, Trentodoc Riserva Perlé Nero Extra brût,Ferrari,,BOTTLE,2017,10300,5680,200,,,True
+v.5075.2017.b,, Trentodoc Riserva Perlé Rosé Brût,Ferrari,,BOTTLE,2017,8100,0,200,,,True
+v.63370.2023.b,WHITE, Chardonnay Monopolio Sannicola,Fondo Indizeno,,BOTTLE,2023,3600,930,200,,,True
+v.6361.2021.b,RED, Le Cupole di Trinoro,Franchetti - Tenuta di Trinoro,,BOTTLE,2021,4800,0,200,,,True
+v.382.2017.b,RED, Tenuta di Trinoro,Franchetti - Tenuta di Trinoro,,BOTTLE,2017,28800,0,200,,,True
+v.76398.2018.b,RED, Barolo Panerole,Franco Conterno,,BOTTLE,2018,6200,0,200,,,True
+v.4557.2019.c,RED, Lagrein Riserva,Franz Gojer,,MAGNUM,2019,10900,0,200,,,True
+v.4557.2022.b,RED, Lagrein Riserva,Franz Gojer,,BOTTLE,2022,4500,0,200,,,True
+v.94443.0.m,RED, Pipa XXII,Franz Gojer,,HALF_LITER,0,6800,0,200,,,True
+v.14208.2023.b,RED, St. Magdalener Rondell,Franz Gojer,,BOTTLE,2023,3800,1300,200,,,True
+v.66200.0.b,RED, Syrah,Franz Gojer,,BOTTLE,0,5600,0,200,,,True
+v.853.2022.b,WHITE, Manna,Franz Haas,,BOTTLE,2022,6100,0,200,,,True
+v.858.2022.b,RED, Pinot nero,Franz Haas,,BOTTLE,2022,6100,0,200,,,True
+v.334.2021.b,RED, Chianti Rùfina Riserva Montesodi,Frescobaldi - Castello di Nipozzano,,BOTTLE,2021,6400,0,200,,,True
+v.919.2021.b,RED, Chianti Rùfina Riserva Nipozzano Vecchie Viti,Frescobaldi - Castello di Nipozzano,,BOTTLE,2021,4300,0,200,,,True
+v.3801.2016.b,RED, Giramonte,Frescobaldi - Tenuta di Castiglioni,,BOTTLE,2016,14000,0,200,,,True
+v.3801.2020.b,RED, Giramonte,Frescobaldi - Tenuta di Castiglioni,,BOTTLE,2020,12000,0,200,,,True
+v.331.2003.b,RED, Brunello di Montalcino Luce,Frescobaldi - Tenuta Luce,,BOTTLE,2003,24500,0,200,,,True
+v.331.2018.b,RED, Brunello di Montalcino Luce,Frescobaldi - Tenuta Luce,,BOTTLE,2018,12200,0,200,,,True
+v.330.2017.b,RED, Luce 25° Anniversary,Frescobaldi - Tenuta Luce,,BOTTLE,2017,16800,0,200,,,True
+v.330.2004.b,RED, Luce,Frescobaldi - Tenuta Luce,,BOTTLE,2004,42000,0,200,,,True
+v.330.2008.b,RED, Luce,Frescobaldi - Tenuta Luce,,BOTTLE,2008,30000,0,200,,,True
+v.330.2018.b,RED, Luce,Frescobaldi - Tenuta Luce,,BOTTLE,2018,14000,0,200,,,True
+v.330.2019.b,RED, Luce,Frescobaldi - Tenuta Luce,,BOTTLE,2019,13800,0,200,,,True
+v.330.2020.b,RED, Luce,Frescobaldi - Tenuta Luce,,BOTTLE,2020,14000,0,200,,,True
+v.332.2021.b,RED, Lucente,Frescobaldi - Tenuta Luce,,BOTTLE,2021,6400,0,200,,,True
+v.34036.2016.b,RED, Lux Vitis,Frescobaldi - Tenuta Luce,,BOTTLE,2016,16500,0,200,,,True
+v.34036.2017.b,RED, Lux Vitis,Frescobaldi - Tenuta Luce,,BOTTLE,2017,15500,0,200,,,True
+v.34036.2020.b,RED, Lux Vitis,Frescobaldi - Tenuta Luce,,BOTTLE,2020,15200,0,200,,,True
+v.100763.2021.b,WHITE, Silvaner Casteller Hohnart Monopol,Fürstlich Castell'sches,,BOTTLE,2021,4500,0,200,,,True
+v.5779.2012.c,RED, Barolo Bricco delle Viole,G.D. Vajra,,MAGNUM,2012,32000,0,200,,,True
+v.3764.2004.b,RED, Barbaresco,Gaja,,BOTTLE,2004,32000,0,200,,,True
+v.1218.2021.b,RED, Langhe Sito Moresco,Gaja,,BOTTLE,2021,6600,0,200,,,True
+v.43447.1994.b,RED, Sitorey,Gaja,,BOTTLE,1994,16000,0,200,,,True
+v.6297.2016.b,RED, Terra di Lavoro,Galardi,,BOTTLE,2016,7500,0,200,,,True
+v.6297.2017.b,RED, Terra di Lavoro,Galardi,,BOTTLE,2017,7500,0,200,,,True
+v.100798.2020.b,RED, Pommard Vieilles Vignes,Génot-Boulanger,,BOTTLE,2020,10900,0,200,,,True
+v.5962.2008.c,RED, Barolo,Giacomo Borgogno,,MAGNUM,2008,23000,9000,200,,,True
+v.5962.2020.c,RED, Barolo,Giacomo Borgogno,,MAGNUM,2020,16500,0,200,,,True
+v.5962.2020.b,RED, Barolo,Giacomo Borgogno,,BOTTLE,2020,7500,3500,200,,,True
+v.86988.2022.b,RED, Langhe Bartomè,Giacomo Borgogno,,BOTTLE,2022,4400,0,200,,,True
+v.8773.2021.c,RED, Langhe Nebbiolo No Name,Giacomo Borgogno,,MAGNUM,2021,10500,0,200,,,True
+v.8773.2021.b,RED, Langhe Nebbiolo No Name,Giacomo Borgogno,,BOTTLE,2021,4900,0,200,,,True
+v.3772.1998.c,RED, Barolo Riserva Monfortino,Giacomo Conterno,,MAGNUM,1998,470000,0,200,,,True
+v.56297.2022.b,WHITE, Moscato d'Asti Casa di Bianca,Gianni Doglia,,BOTTLE,2022,3400,0,200,,,True
+v.7936.2018.b,RED, Barolo Giachini,Giovanni Corino,,BOTTLE,2018,7500,3300,200,,,True
+v.30950.2019.b,RED, Barolo Serralunga,Giovanni Rosso,,BOTTLE,2019,6700,0,200,,,True
+v.8899.2017.b,RED, Barolo Vigna Rionda Ester Canale,Giovanni Rosso,,BOTTLE,2017,34000,0,200,,,True
+v.18294.2022.c,RED, Langhe Nebbiolo,Giovanni Rosso,,MAGNUM,2022,7800,0,200,,,True
+v.18294.2022.b,RED, Langhe Nebbiolo,Giovanni Rosso,,BOTTLE,2022,3600,0,200,,,True
+v.48580.1998.b,RED, Barolo Cerequio,Giuseppe Contratto,,BOTTLE,1998,14000,0,200,,,True
+v.48179.2020.b,RED, Rosso di Montalcino,Gorelli,,BOTTLE,2020,6300,0,200,,,True
+v.400.2005.b,RED, Bolgheri Rosso Superiore,Grattamacco,,BOTTLE,2005,16000,0,200,,,True
+v.400.2018.b,RED, Bolgheri Rosso Superiore,Grattamacco,,BOTTLE,2018,15500,0,200,,,True
+v.30876.2021.b,RED, Bolgheri Rosso,Grattamacco,,BOTTLE,2021,15000,7859,200,,,True
+v.62205.2023.b,RED, Lagrein,Griesbauerhof,,BOTTLE,2023,3600,1200,200,,,True
+v.16422.2022.b,RED, Bolgheri Rute,Guado al Melo,,BOTTLE,2022,3600,0,200,,,True
+v.16423.2021.b,RED, Bolgheri Superiore Atis,Guado al Melo,,BOTTLE,2021,7200,0,200,,,True
+v.236.2023.b,RED, Bolgheri Rosso Il Bruciato,Guado al Tasso - Antinori,,BOTTLE,2023,4600,0,200,,,True
+v.235.1998.b,RED, Bolgheri Superiore Guado al Tasso,Guado al Tasso - Antinori,,BOTTLE,1998,21000,0,200,,,True
+v.235.1999.b,RED, Bolgheri Superiore Guado al Tasso,Guado al Tasso - Antinori,,BOTTLE,1999,21000,0,200,,,True
+v.235.2004.b,RED, Bolgheri Superiore Guado al Tasso,Guado al Tasso - Antinori,,BOTTLE,2004,20000,0,200,,,True
+v.235.2005.b,RED, Bolgheri Superiore Guado al Tasso,Guado al Tasso - Antinori,,BOTTLE,2005,20000,0,200,,,True
+v.235.2007.b,RED, Bolgheri Superiore Guado al Tasso,Guado al Tasso - Antinori,,BOTTLE,2007,19000,0,200,,,True
+v.235.2008.b,RED, Bolgheri Superiore Guado al Tasso,Guado al Tasso - Antinori,,BOTTLE,2008,19000,0,200,,,True
+v.235.2021.b,RED, Bolgheri Superiore Guado al Tasso,Guado al Tasso - Antinori,,BOTTLE,2021,17200,10000,200,,,True
+v.6027.2022.b,WHITE, Gewürztraminer Praesulis,Gump Hof,,BOTTLE,2022,3500,0,200,,,True
+v.34082.2021.b,WHITE, Weissburgunder Riserva Renaissance,Gump Hof,,BOTTLE,2021,6500,3000,200,,,True
+v.71863.2018.b,RED, Gevrey-Chambertin La Bossiere Monopole 1er Cru,Harmand Geoffroy,,BOTTLE,2018,14200,0,200,,,True
+v.101767.2020.b,WHITE, Riesling Spätlese Auener Römerstich,Hees,,BOTTLE,2020,6200,2800,200,,,True
+v.100768.2022.b,WHITE, Riesling Steingewann,Hees,,BOTTLE,2022,3500,0,200,,,True
+v.15460.2022.b,WHITE, Sancerre Blanc La Bourgeoise ES-56,Henri Bourgeois,,BOTTLE,2022,6800,0,200,,,True
+v.1638.0.b,WHITE, Invitation Brût,Huré-Frères,,BOTTLE,0,9800,4000,200,,,True
+v.13478.2017.b,RED, Ferro,I Collazzi,,BOTTLE,2017,11900,0,200,,,True
+v.14202.2018.c,RED, Blauburgunder Riserva,Ignaz Niedrist,,MAGNUM,2018,13000,0,200,,,True
+v.14202.2020.b,RED, Blauburgunder Riserva,Ignaz Niedrist,,BOTTLE,2020,7000,0,200,,,True
+v.10225.2021.b,RED, Lagrein Riserva Gries Berger Gei,Ignaz Niedrist,,BOTTLE,2021,5600,0,200,,,True
+v.31045.2023.b,WHITE, Sauvignon Porphyr & Kalk,Ignaz Niedrist,,BOTTLE,2023,4000,0,200,,,True
+v.451.2018.b,RED, Cepparello,Isole e Olena,,BOTTLE,2018,14000,7000,200,,,True
+v.5585.2021.b,WHITE, Gewürztraminer Vigna Kolbenhof,J. Hofstätter,,BOTTLE,2021,6200,0,200,,,True
+v.8258.2019.b,RED, Lagrein Steinraffler Vigna,J. Hofstätter,,BOTTLE,2019,6500,2800,200,,,True
+v.14414.2023.b,, Rosé,J. Hofstätter,,BOTTLE,2023,3500,0,200,,,True
+v.100820.2020.b,RED, Santenay Rouge Les Gravières 1er Cru,Jean-Baptiste Jessiaume,,BOTTLE,2020,8600,0,200,,,True
+v.1167.2020.c,WHITE, Vintage Tunina,Jermann,,MAGNUM,2020,18000,0,200,,,True
+v.1167.2021.b,WHITE, Vintage Tunina,Jermann,,BOTTLE,2021,9000,0,200,,,True
+v.3422.2020.b,WHITE, W ... Dreams …,Jermann,,BOTTLE,2020,9000,4500,200,,,True
+v.100814.2016.b,RED, Magdalena,Kandlerhof,,BOTTLE,2016,4400,1900,200,,,True
+v.100781.0.b,RED, Mirum,Kandlerhof,,BOTTLE,0,6300,2600,200,,,True
+v.71819.2022.b,RED, Cabernet Merlot Riserva Cuvée Flora,Kellerei Girlan,,BOTTLE,2022,4600,1800,200,,,True
+v.33598.2023.b,WHITE, Chardonnay Flora,Kellerei Girlan,,BOTTLE,2023,4600,0,200,,,True
+v.71502.2020.b,WHITE, Chardonnay Riserva Curlan,Kellerei Girlan,,BOTTLE,2020,11400,0,200,,,True
+v.100787.2020.b,RED, Cuvée Hanna,Kellerei Girlan,,BOTTLE,2020,3800,0,200,,,True
+v.100787.2021.b,RED, Cuvée Noah,Kellerei Girlan,,BOTTLE,2021,3800,0,200,,,True
+v.14321.2022.c,RED, Laurin Lagrein Merlot,Kellerei Girlan,,MAGNUM,2022,7500,0,200,,,True
+v.14321.2022.d,RED, Laurin Lagrein Merlot,Kellerei Girlan,,JEROBOAM,2022,15500,0,200,,,True
+v.14321.2022.q,RED, Laurin Lagrein Merlot,Kellerei Girlan,,BORDEAUX_JEROBOAM,2022,26600,0,200,,,True
+v.14321.2022.b,RED, Laurin Lagrein Merlot,Kellerei Girlan,,BOTTLE,2022,3800,0,200,,,True
+v.8927.2017.c,RED, Pinot nero Riserva Trattmann,Kellerei Girlan,,MAGNUM,2017,17000,0,200,,,True
+v.8927.2020.b,RED, Pinot nero Riserva Trattmann,Kellerei Girlan,,BOTTLE,2020,7400,0,200,,,True
+v.8927.2021.b,RED, Pinot nero Riserva Trattmann,Kellerei Girlan,,BOTTLE,2021,6900,0,200,,,True
+v.8788.2023.b,RED, Pinot noir Patricia,Kellerei Girlan,,BOTTLE,2023,3600,0,200,,,True
+v.59071.2019.b,RED, Pinot noir Riserva Curlan,Kellerei Girlan,,BOTTLE,2019,11500,0,200,,,True
+v.59071.2020.b,RED, Pinot noir Riserva Curlan,Kellerei Girlan,,BOTTLE,2020,11400,0,200,,,True
+v.60284.2021.b,RED, Pinot noir Riserva Flora,Kellerei Girlan,,BOTTLE,2021,4500,0,200,,,True
+v.14237.2012.b,RED, Pinot noir Riserva Vigna Ganger,Kellerei Girlan,,BOTTLE,2012,21000,0,200,,,True
+v.14237.2015.b,RED, Pinot noir Riserva Vigna Ganger,Kellerei Girlan,,BOTTLE,2015,17500,0,200,,,True
+v.14237.2017.b,RED, Pinot noir Riserva Vigna Ganger,Kellerei Girlan,,BOTTLE,2017,17000,0,200,,,True
+v.14237.2018.b,RED, Pinot noir Riserva Vigna Ganger,Kellerei Girlan,,BOTTLE,2018,16000,0,200,,,True
+v.14237.2019.b,RED, Pinot noir Riserva Vigna Ganger,Kellerei Girlan,,BOTTLE,2019,15500,0,200,,,True
+v.14237.2020.b,RED, Pinot noir Riserva Vigna Ganger,Kellerei Girlan,,BOTTLE,2020,15000,0,200,,,True
+v.33600.2023.b,RED, Vernatsch Fass Nr. 9,Kellerei Girlan,,BOTTLE,2023,3500,0,200,,,True
+v.14077.2022.b,RED, Vernatsch Gschleier Alte Reben,Kellerei Girlan,,BOTTLE,2022,3800,0,200,,,True
+v.93682.2023.b,WHITE, Goldmuskateller / Moscato giallo,Kellerei Kaltern,,BOTTLE,2023,3400,0,200,,,True
+v.47884.2023.b,RED, Kalterersee Classico Superiore Quintessenz,Kellerei Kaltern,,BOTTLE,2023,3500,0,200,,,True
+v.52740.2021.b,RED, Merlot Riserva Lasòn,Kellerei Kaltern,,BOTTLE,2021,3800,0,200,,,True
+v.49638.2021.b,WHITE, Pinot bianco Quintessenz,Kellerei Kaltern,,BOTTLE,2021,4500,0,200,,,True
+v.93683.2023.b,, Rosenmuskateller / Moscato rosa,Kellerei Kaltern,,BOTTLE,2023,3400,0,200,,,True
+v.1232.2021.b,RED, Merlot Freiherr,Kellerei Meran,,BOTTLE,2021,4600,0,200,,,True
+v.54226.2020.b,WHITE, Riserva 36 Brût,Kellerei Meran,,BOTTLE,2020,4600,1800,200,,,True
+v.99353.2020.b,RED, Saperaia,Kellerei Meran,,BOTTLE,2020,7200,0,200,,,True
+v.8014.2022.b,WHITE, Weissburgunder Tyrol,Kellerei Meran,,BOTTLE,2022,3800,1300,200,,,True
+v.32920.2019.b,WHITE, Pinot bianco Riserva Sanctissimus,Kellerei St. Pauls,,BOTTLE,2019,11000,5200,200,,,True
+v.73983.0.b,WHITE, Praeclarus Blanc de Blancs Brût,Kellerei St. Pauls,,BOTTLE,0,4900,0,200,,,True
+v.64421.2023.b,WHITE, Weissburgunder Plötzner,Kellerei St. Pauls,,BOTTLE,2023,3400,0,200,,,True
+v.6047.2021.b,, Athesis Rosé Brût,Kettmeir,,BOTTLE,2021,4800,0,200,,,True
+v.48612.2024.b,WHITE, Goldmuskateller Amperg,Klaus Lentsch,,BOTTLE,2024,3600,950,200,,,True
+v.3745.2023.b,WHITE, Sylvaner R,Köfererhof,,BOTTLE,2023,4600,1700,200,,,True
+v.52920.2017.c,RED, Pinot nero Riserva Aegis,Kollerhof,,MAGNUM,2017,13000,0,200,,,True
+v.52920.2017.b,RED, Pinot nero Riserva Aegis,Kollerhof,,BOTTLE,2017,7000,0,200,,,True
+v.52920.2019.b,RED, Pinot nero Riserva Aegis,Kollerhof,,BOTTLE,2019,7700,0,200,,,True
+v.52920.2020.b,RED, Pinot nero Riserva Aegis,Kollerhof,,BOTTLE,2020,7000,0,200,,,True
+v.52920.2021.b,RED, Pinot nero Riserva Aegis,Kollerhof,,BOTTLE,2021,7000,3000,200,,,True
+v.83059.0.b,WHITE, Grande Cuvée 172ème Édition Brût,Krug,,BOTTLE,0,33500,19000,200,,,True
+v.3779.2010.b,RED, Barbaresco Riserva Vürsù Vigneto Valeirano,La Spinetta,,BOTTLE,2010,19000,0,200,,,True
+v.3787.2020.b,RED, Barbera d'Asti Ca' di Pian,La Spinetta,,BOTTLE,2020,3900,0,200,,,True
+v.463.2021.c,RED, Bolgheri Rosso,Le Macchiole,,MAGNUM,2021,9500,0,200,,,True
+v.463.2021.b,RED, Bolgheri Rosso,Le Macchiole,,BOTTLE,2021,4700,0,200,,,True
+v.465.2008.c,RED, Messorio,Le Macchiole,,MAGNUM,2008,50000,0,200,,,True
+v.465.2009.c,RED, Messorio,Le Macchiole,,MAGNUM,2009,50000,0,200,,,True
+v.465.2017.b,RED, Messorio,Le Macchiole,,BOTTLE,2017,20600,0,200,,,True
+v.462.2020.b,RED, Paleo Rosso,Le Macchiole,,BOTTLE,2020,14200,0,200,,,True
+v.464.2017.b,RED, Scrio,Le Macchiole,,BOTTLE,2017,14200,0,200,,,True
+v.11293.2022.b,RED, Poggio alle Nane,Le Mortelle - Antinori,,BOTTLE,2022,8300,3900,200,,,True
+v.58614.2022.b,WHITE, Terlano Classico Terlaner Riserva,Leya,,BOTTLE,2022,4300,0,200,,,True
+v.46096.0.c,WHITE, Lieselehof Brût,Lieselehof,,MAGNUM,0,15100,0,200,,,True
+v.46096.0.b,WHITE, Lieselehof Brût,Lieselehof,,BOTTLE,0,7400,0,200,,,True
+v.100719.2020.c,, Rosé Brût,Lieselehof,,MAGNUM,2020,12800,0,200,,,True
+v.100719.2020.b,, Rosé Brût,Lieselehof,,BOTTLE,2020,5800,0,200,,,True
+v.4566.2015.a,WHITE, Sweet Claire Passito,Lieselehof,,HALF_BOTTLE,2015,15400,0,200,,,True
+v.30666.2022.b,RED, St. Magdalener Classico Morit,Loacker,,BOTTLE,2022,3500,0,200,,,True
+v.14736.2018.b,RED, Lodovico,Lodovico Antinori,,BOTTLE,2018,51000,0,200,,,True
+v.98266.2019.b,WHITE, Comitissa Pas dosé Riserva,Lorenz Martini,,BOTTLE,2019,4900,1900,200,,,True
+v.98136.2019.b,RED, Savigny-Lès-Beaune,Lucien Jacob,,BOTTLE,2019,5900,2600,200,,,True
+v.39075.2019.b,RED, Barolo Margheria,Luigi Pira,,BOTTLE,2019,7600,0,200,,,True
+v.42047.2019.b,RED, Montefalco Sagrantino Carapace,Lunelli - Tenuta Castelbuono,,BOTTLE,2019,6200,0,200,,,True
+v.34559.2017.b,RED, Auritea,Lunelli - Tenuta Podernovo,,BOTTLE,2017,7800,0,200,,,True
+v.14257.2022.b,RED, Cassiano,Manincor,,BOTTLE,2022,6400,0,200,,,True
+v.18283.2020.b,RED, Castel Campan,Manincor,,BOTTLE,2020,10200,0,200,,,True
+v.90500.2023.b,RED, Il Conte,Manincor,,BOTTLE,2023,3700,0,200,,,True
+v.95791.2023.b,WHITE, La Contessa,Manincor,,BOTTLE,2023,3600,0,200,,,True
+v.13288.2024.b,, La Rose de Manincor,Manincor,,BOTTLE,2024,3800,0,200,,,True
+v.5032.2021.a,WHITE, Le Petit,Manincor,,HALF_BOTTLE,2021,7800,3400,200,,,True
+v.225.1979.b,RED, Solaia,Marchesi Antinori,,BOTTLE,1979,100000,0,200,,,True
+v.225.1982.b,RED, Solaia,Marchesi Antinori,,BOTTLE,1982,80000,0,200,,,True
+v.225.1986.b,RED, Solaia,Marchesi Antinori,,BOTTLE,1986,71000,0,200,,,True
+v.225.1990.b,RED, Solaia,Marchesi Antinori,,BOTTLE,1990,62000,0,200,,,True
+v.225.1991.b,RED, Solaia,Marchesi Antinori,,BOTTLE,1991,60000,0,200,,,True
+v.225.1993.b,RED, Solaia,Marchesi Antinori,,BOTTLE,1993,58500,0,200,,,True
+v.225.1994.b,RED, Solaia,Marchesi Antinori,,BOTTLE,1994,57000,0,200,,,True
+v.225.1995.b,RED, Solaia,Marchesi Antinori,,BOTTLE,1995,54000,0,200,,,True
+v.225.1998.b,RED, Solaia,Marchesi Antinori,,BOTTLE,1998,50000,0,200,,,True
+v.225.1999.b,RED, Solaia,Marchesi Antinori,,BOTTLE,1999,49000,0,200,,,True
+v.225.2000.b,RED, Solaia,Marchesi Antinori,,BOTTLE,2000,47500,0,200,,,True
+v.225.2001.b,RED, Solaia,Marchesi Antinori,,BOTTLE,2001,47000,0,200,,,True
+v.225.2003.b,RED, Solaia,Marchesi Antinori,,BOTTLE,2003,43000,0,200,,,True
+v.225.2004.b,RED, Solaia,Marchesi Antinori,,BOTTLE,2004,46000,0,200,,,True
+v.225.2005.b,RED, Solaia,Marchesi Antinori,,BOTTLE,2005,41500,0,200,,,True
+v.225.2006.b,RED, Solaia,Marchesi Antinori,,BOTTLE,2006,34000,0,200,,,True
+v.225.2012.b,RED, Solaia,Marchesi Antinori,,BOTTLE,2012,36000,0,200,,,True
+v.225.2013.c,RED, Solaia,Marchesi Antinori,,MAGNUM,2013,95000,0,200,,,True
+v.225.2013.b,RED, Solaia,Marchesi Antinori,,BOTTLE,2013,35000,0,200,,,True
+v.225.2014.b,RED, Solaia,Marchesi Antinori,,BOTTLE,2014,34500,0,200,,,True
+v.225.2021.b,RED, Solaia,Marchesi Antinori,,BOTTLE,2021,33000,19500,200,,,True
+v.224.1990.b,RED, Tignanello,Marchesi Antinori,,BOTTLE,1990,18000,0,200,,,True
+v.224.2019.b,RED, Tignanello,Marchesi Antinori,,BOTTLE,2019,15500,0,200,,,True
+v.224.2020.b,RED, Tignanello,Marchesi Antinori,,BOTTLE,2020,14700,0,200,,,True
+v.224.2021.b,RED, Tignanello,Marchesi Antinori,,BOTTLE,2021,14500,0,200,,,True
+v.6334.1990.b,RED, Barolo Riserva,Marchesi di Barolo,,BOTTLE,1990,32000,0,200,,,True
+v.6334.2003.b,RED, Barolo Riserva,Marchesi di Barolo,,BOTTLE,2003,25500,0,200,,,True
+v.6334.2009.b,RED, Barolo Riserva,Marchesi di Barolo,,BOTTLE,2009,18000,0,200,,,True
+v.30504.2021.b,WHITE, Pinot blanc Art Limited Edition,Martin Abraham,,BOTTLE,2021,7100,0,200,,,True
+v.14456.2023.b,WHITE, Weissburgunder In der Lamm von Alten Reben,Martin Abraham,,BOTTLE,2023,3700,0,200,,,True
+v.8480.2022.b,RED, Barbera d'Alba Superiore Marùn,Matteo Correggia,,BOTTLE,2022,4300,0,200,,,True
+v.37420.2017.b,WHITE, Roero Arneis La Val dei Preti,Matteo Correggia,,BOTTLE,2017,4600,0,200,,,True
+v.437.2004.b,RED, Siepi,Mazzei - Castello di Fonterutoli,,BOTTLE,2004,16000,0,200,,,True
+v.437.2017.b,RED, Siepi,Mazzei - Castello di Fonterutoli,,BOTTLE,2017,15000,0,200,,,True
+v.437.2019.b,RED, Siepi,Mazzei - Castello di Fonterutoli,,BOTTLE,2019,14500,0,200,,,True
+v.32736.2020.b,RED, Lagrein Riserva,Messnerhof,,BOTTLE,2020,4300,1600,200,,,True
+v.92621.2023.b,RED, Pinot noir,Michael Puff,,BOTTLE,2023,3800,1490,200,,,True
+v.11508.0.b,WHITE, Ice Impérial,Moët & Chandon,,BOTTLE,0,13500,0,200,,,True
+v.11616.0.b,WHITE, Réserve Impériale Brût,Moët & Chandon,,BOTTLE,0,9600,0,200,,,True
+v.31228.0.b,WHITE, Prosecco Cuvée dell'Erede Extra dry,Montelvini,,BOTTLE,0,3500,0,200,,,True
+v.30951.2021.b,WHITE, Chardonnay,Monteverro,,BOTTLE,2021,11900,6200,200,,,True
+v.18427.2012.b,RED, Monteverro,Monteverro,,BOTTLE,2012,19000,0,200,,,True
+v.18427.2013.b,RED, Monteverro,Monteverro,,BOTTLE,2013,18300,0,200,,,True
+v.18427.2014.b,RED, Monteverro,Monteverro,,BOTTLE,2014,17900,0,200,,,True
+v.18427.2015.b,RED, Monteverro,Monteverro,,BOTTLE,2015,17500,0,200,,,True
+v.18427.2016.b,RED, Monteverro,Monteverro,,BOTTLE,2016,17000,0,200,,,True
+v.18427.2017.b,RED, Monteverro,Monteverro,,BOTTLE,2017,16800,9900,200,,,True
+v.18427.2018.b,RED, Monteverro,Monteverro,,BOTTLE,2018,16400,0,200,,,True
+v.18427.2019.b,RED, Monteverro,Monteverro,,BOTTLE,2019,16200,0,200,,,True
+v.18427.2020.b,RED, Monteverro,Monteverro,,BOTTLE,2020,16000,9600,200,,,True
+v.30952.2019.b,RED, Terra di Monteverro,Monteverro,,BOTTLE,2019,7600,0,200,,,True
+v.52397.2012.b,RED, Tinata,Monteverro,,BOTTLE,2012,14500,0,200,,,True
+v.52397.2013.b,RED, Tinata,Monteverro,,BOTTLE,2013,13700,0,200,,,True
+v.52397.2014.b,RED, Tinata,Monteverro,,BOTTLE,2014,13300,0,200,,,True
+v.52397.2015.b,RED, Tinata,Monteverro,,BOTTLE,2015,13000,0,200,,,True
+v.52397.2016.b,RED, Tinata,Monteverro,,BOTTLE,2016,12600,0,200,,,True
+v.52397.2018.b,RED, Tinata,Monteverro,,BOTTLE,2018,12000,0,200,,,True
+v.52397.2019.b,RED, Tinata,Monteverro,,BOTTLE,2019,11500,6000,200,,,True
+v.52397.2020.b,RED, Tinata,Monteverro,,BOTTLE,2020,11500,6500,200,,,True
+v.402.2003.c,RED, Le Pergole Torte,Montevertine,,MAGNUM,2003,87000,0,200,,,True
+v.402.2019.b,RED, Le Pergole Torte,Montevertine,,BOTTLE,2019,20000,0,200,,,True
+v.402.2020.b,RED, Le Pergole Torte,Montevertine,,BOTTLE,2020,17900,0,200,,,True
+v.403.2018.b,RED, Montevertine,Montevertine,,BOTTLE,2018,8700,0,200,,,True
+v.43046.2021.b,WHITE, Lugana Montunal,Montonale,,BOTTLE,2021,3800,1500,200,,,True
+v.81443.2020.c,RED, Cabernet franc Riserva Podalirius Vigna Peters Kreid,Morandell,,MAGNUM,2020,9500,0,200,,,True
+v.81443.2021.b,RED, Cabernet franc Riserva Podalirius Vigna Peters Kreid,Morandell,,BOTTLE,2021,4600,0,200,,,True
+v.83141.2024.b,RED, Lago di Caldaro Classico Delia,Morandell,,BOTTLE,2024,3500,0,200,,,True
+v.100748.2023.c,WHITE, Pinot grigio Alia,Morandell,,MAGNUM,2023,7200,0,200,,,True
+v.100748.2024.b,WHITE, Pinot grigio Alia,Morandell,,BOTTLE,2024,3500,0,200,,,True
+v.92812.2021.b,RED, Shiraz Cliff Edge,Mount Langi Ghiran,,BOTTLE,2021,4300,0,200,,,True
+v.8498.2020.b,RED, Valpolicella Ripasso Superiore,Musella,,BOTTLE,2020,3700,1240,200,,,True
+v.46395.2021.b,RED, Cabernet Riserva Lafot,Nals Margreid,,BOTTLE,2021,3900,0,200,,,True
+v.4768.2023.b,WHITE, Gewürztraminer Lyra,Nals Margreid,,BOTTLE,2023,3800,0,200,,,True
+v.5167.2021.b,RED, Merlot Levad,Nals Margreid,,BOTTLE,2021,3700,0,200,,,True
+v.72357.2020.b,WHITE, Nama,Nals Margreid,,BOTTLE,2020,12700,0,200,,,True
+v.4766.2022.b,WHITE, Pinot bianco Sirmian,Nals Margreid,,BOTTLE,2022,4500,0,200,,,True
+v.4765.2022.b,WHITE, Pinot grigio Punggl,Nals Margreid,,BOTTLE,2022,3800,0,200,,,True
+v.4770.2022.b,WHITE, Sauvignon Mantele,Nals Margreid,,BOTTLE,2022,4400,0,200,,,True
+v.5300.2023.b,RED, Schiava Galea,Nals Margreid,,BOTTLE,2023,3600,1200,200,,,True
+v.6348.2017.b,RED, Kurni,Oasi degli Angeli,,BOTTLE,2017,14300,0,200,,,True
+v.6348.2018.b,RED, Kurni,Oasi degli Angeli,,BOTTLE,2018,14200,0,200,,,True
+v.6348.2019.b,RED, Kurni,Oasi degli Angeli,,BOTTLE,2019,14200,0,200,,,True
+v.897.2018.b,RED, Napa Valley Opus One,Opus One (Mondavi - Rothschild),,BOTTLE,2018,68000,0,200,,,True
+v.312.2022.b,RED, Bolgheri Le Serre Nuove,Ornellaia,,BOTTLE,2022,8500,4000,200,,,True
+v.313.1996.b,RED, Bolgheri Superiore Ornellaia,Ornellaia,,BOTTLE,1996,46000,0,200,,,True
+v.313.1999.b,RED, Bolgheri Superiore Ornellaia,Ornellaia,,BOTTLE,1999,43000,0,200,,,True
+v.313.2001.b,RED, Bolgheri Superiore Ornellaia,Ornellaia,,BOTTLE,2001,41500,0,200,,,True
+v.313.2003.b,RED, Bolgheri Superiore Ornellaia,Ornellaia,,BOTTLE,2003,39500,0,200,,,True
+v.313.2004.b,RED, Bolgheri Superiore Ornellaia,Ornellaia,,BOTTLE,2004,39000,0,200,,,True
+v.313.2006.b,RED, Bolgheri Superiore Ornellaia,Ornellaia,,BOTTLE,2006,37000,0,200,,,True
+v.313.2008.b,RED, Bolgheri Superiore Ornellaia,Ornellaia,,BOTTLE,2008,36500,0,200,,,True
+v.313.2011.b,RED, Bolgheri Superiore Ornellaia,Ornellaia,,BOTTLE,2011,35000,0,200,,,True
+v.313.2012.b,RED, Bolgheri Superiore Ornellaia,Ornellaia,,BOTTLE,2012,34000,0,200,,,True
+v.313.2013.b,RED, Bolgheri Superiore Ornellaia,Ornellaia,,BOTTLE,2013,34500,0,200,,,True
+v.313.2014.b,RED, Bolgheri Superiore Ornellaia,Ornellaia,,BOTTLE,2014,31500,0,200,,,True
+v.313.2018.b,RED, Bolgheri Superiore Ornellaia,Ornellaia,,BOTTLE,2018,26000,0,200,,,True
+v.313.2020.b,RED, Bolgheri Superiore Ornellaia,Ornellaia,,BOTTLE,2020,23000,12000,200,,,True
+v.3668.2022.b,RED, Le Volte dell’Ornellaia,Ornellaia,,BOTTLE,2022,4300,0,200,,,True
+v.8942.2024.b,WHITE, Kerner,Pacher Hof,,BOTTLE,2024,3500,0,200,,,True
+v.8943.2023.b,WHITE, Riesling,Pacher Hof,,BOTTLE,2023,3500,0,200,,,True
+v.14417.2021.b,WHITE, Sylvaner Riserva Alte Reben,Pacher Hof,,BOTTLE,2021,4700,0,200,,,True
+v.17303.0.b,WHITE, Brut Réserve,Palmer,,BOTTLE,0,8800,3500,200,,,True
+v.66216.2018.b,RED, Barolo Perarmando,Parusso,,BOTTLE,2018,7600,0,200,,,True
+v.78244.2000.c,RED, Barolo Riserva Oro Bussia Per Francesco,Parusso,,MAGNUM,2000,120000,0,200,,,True
+v.3499.2014.b,WHITE, Belle Époque Brût,Perrier-Joüet,,BOTTLE,2014,28000,0,200,,,True
+v.14662.2023.b,WHITE, Riesling Trocken Jacobus,Peter Jakob Kühn,,BOTTLE,2023,4300,0,200,,,True
+v.14668.2020.b,WHITE, Riesling Trocken Mittelheim St. Nikolaus,Peter Jakob Kühn,,BOTTLE,2020,9200,0,200,,,True
+v.46396.2022.b,WHITE, Amistar Cuvée Bianco,Peter Sölva,,BOTTLE,2022,6400,2800,200,,,True
+v.94865.2023.b,WHITE, Chardonnay Buchholz,Peter Zemmer,,BOTTLE,2023,3700,0,200,,,True
+v.46388.2021.c,RED, Lagrein Riserva Furggl,Peter Zemmer,,MAGNUM,2021,9000,0,200,,,True
+v.46388.2022.b,RED, Lagrein Riserva Furggl,Peter Zemmer,,BOTTLE,2022,4500,0,200,,,True
+v.36572.2021.c,WHITE, Pinot grigio Riserva Giatl,Peter Zemmer,,MAGNUM,2021,9800,0,200,,,True
+v.36572.2021.b,WHITE, Pinot grigio Riserva Giatl,Peter Zemmer,,BOTTLE,2021,4800,0,200,,,True
+v.9097.2008.b,RED, Petra Rosso,Petra,,BOTTLE,2008,9400,0,200,,,True
+v.48118.2023.b,RED, Lagrein Vom Boden,Pfannenstielhof,,BOTTLE,2023,3600,0,200,,,True
+v.79411.2019.b,RED, St. Magdalener Classico Der Pfannenstiel,Pfannenstielhof,,BOTTLE,2019,8800,4000,200,,,True
+v.47888.2023.b,RED, St. Magdalener Classico,Pfannenstielhof,,BOTTLE,2023,3500,0,200,,,True
+v.4877.2022.b,RED, Pinot nero Riserva Matan,Pfitscher,,BOTTLE,2022,6600,3000,200,,,True
+v.45059.2021.b,WHITE, Sauvignon blanc Riserva Mathias,Pfitscher,,BOTTLE,2021,6600,0,200,,,True
+v.55558.2020.b,WHITE, Bourgogne Côte d’Or Blanc,Philippe Bouzereau,,BOTTLE,2020,5700,0,200,,,True
+v.13097.2015.b,RED, Brunello di Montalcino Vigneti del Versante,Pian dell'Orino,,BOTTLE,2015,12500,0,200,,,True
+v.13099.2015.b,RED, Rosso di Montalcino,Pian dell'Orino,,BOTTLE,2015,9500,0,200,,,True
+v.13099.2017.b,RED, Rosso di Montalcino,Pian dell'Orino,,BOTTLE,2017,9000,0,200,,,True
+v.13099.2019.b,RED, Rosso di Montalcino,Pian dell'Orino,,BOTTLE,2019,8800,0,200,,,True
+v.15630.2016.b,WHITE, Chardonnay Didacus,Planeta,,BOTTLE,2016,8600,0,200,,,True
+v.63037.2016.b,RED, Menfi Didacus,Planeta,,BOTTLE,2016,8400,0,200,,,True
+v.9305.2021.b,RED, Vino Nobile di Montepulciano Riserva,Podere Le Bèrne,,BOTTLE,2021,5200,2080,200,,,True
+v.40430.2019.b,RED, Chianti Classico Gran Selezione Casasilia,Poggio al Sole,,BOTTLE,2019,6700,0,200,,,True
+v.68712.2022.b,RED, Chianti Classico,Poggio al Sole,,BOTTLE,2022,3500,0,200,,,True
+v.100795.2019.b,RED, Ponente,Poggio al Sole,,BOTTLE,2019,6700,0,200,,,True
+v.3152.2020.b,RED, Bolgheri Dedicato a Walter,Poggio al Tesoro,,BOTTLE,2020,20000,10000,200,,,True
+v.16531.2022.b,RED, Bolgheri Rosso Il Seggio,Poggio al Tesoro,,BOTTLE,2022,4500,1530,200,,,True
+v.3151.2020.c,RED, Bolgheri Superiore Sondraia Rosso,Poggio al Tesoro,,MAGNUM,2020,20000,11000,200,,,True
+v.3151.2020.b,RED, Bolgheri Superiore Sondraia Rosso,Poggio al Tesoro,,BOTTLE,2020,8900,4800,200,,,True
+v.16121.2018.b,WHITE, Bolgheri Vermentino Solosole Pagus Camilla,Poggio al Tesoro,,BOTTLE,2018,5800,2500,200,,,True
+v.16123.2016.m,WHITE, Passito Teos,Poggio al Tesoro,,HALF_LITER,2016,9500,4800,200,,,True
+v.55977.2022.b,WHITE, Sondraia Bianco,Poggio al Tesoro,,BOTTLE,2022,6600,3000,200,,,True
+v.8492.0.d,, Rosé Brût,Pojer e Sandri,,JEROBOAM,0,32000,0,200,,,True
+v.16270.2022.b,WHITE, Grüner Veltliner Federspiel Hinter der Burg,Prager,,BOTTLE,2022,6400,0,200,,,True
+v.12461.2019.b,WHITE, Riesling Smaragd Klaus,Prager,,BOTTLE,2019,8800,0,200,,,True
+v.107117.2019.c,WHITE, Appius Robert Pan,Produttori San Michele Appiano,,MAGNUM,2019,98000,42000,200,,,True
+v.4774.2010.b,WHITE, Appius,Produttori San Michele Appiano,,BOTTLE,2010,32000,0,200,,,True
+v.4774.2011.b,WHITE, Appius,Produttori San Michele Appiano,,BOTTLE,2011,24500,0,200,,,True
+v.4774.2012.b,WHITE, Appius,Produttori San Michele Appiano,,BOTTLE,2012,23900,0,200,,,True
+v.4774.2013.b,WHITE, Appius,Produttori San Michele Appiano,,BOTTLE,2013,23100,0,200,,,True
+v.4774.2015.b,WHITE, Appius,Produttori San Michele Appiano,,BOTTLE,2015,20900,0,200,,,True
+v.4774.2016.b,WHITE, Appius,Produttori San Michele Appiano,,BOTTLE,2016,20000,0,200,,,True
+v.4774.2017.b,WHITE, Appius,Produttori San Michele Appiano,,BOTTLE,2017,19100,0,200,,,True
+v.4774.2018.c,WHITE, Appius,Produttori San Michele Appiano,,MAGNUM,2018,36000,0,200,,,True
+v.4774.2018.b,WHITE, Appius,Produttori San Michele Appiano,,BOTTLE,2018,17700,0,200,,,True
+v.4774.2019.c,WHITE, Appius,Produttori San Michele Appiano,,MAGNUM,2019,35000,0,200,,,True
+v.4774.2019.b,WHITE, Appius,Produttori San Michele Appiano,,BOTTLE,2019,17100,0,200,,,True
+v.4774.2020.b,WHITE, Appius,Produttori San Michele Appiano,,BOTTLE,2020,17000,0,200,,,True
+v.14382.2021.b,RED, Cabernet-Merlot Riserva Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2021,5900,2500,200,,,True
+v.863.2007.b,WHITE, Pinot bianco Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2007,9200,0,200,,,True
+v.863.2008.b,WHITE, Pinot bianco Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2008,9200,0,200,,,True
+v.863.2009.b,WHITE, Pinot bianco Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2009,9200,0,200,,,True
+v.863.2022.b,WHITE, Pinot bianco Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2022,4600,0,200,,,True
+v.13936.2023.c,WHITE, Pinot bianco Schulthauser,Produttori San Michele Appiano,,MAGNUM,2023,7000,0,200,,,True
+v.13936.2024.b,WHITE, Pinot bianco Schulthauser,Produttori San Michele Appiano,,BOTTLE,2024,3400,0,200,,,True
+v.865.2022.b,WHITE, Pinot grigio Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2022,4700,1939,200,,,True
+v.870.2021.b,RED, Pinot Noir Riserva Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2021,6600,0,200,,,True
+v.42656.2016.b,RED, Pinot noir Riserva The Wine Collection,Produttori San Michele Appiano,,BOTTLE,2016,12700,0,200,,,True
+v.42656.2018.c,RED, Pinot noir Riserva The Wine Collection,Produttori San Michele Appiano,,MAGNUM,2018,25500,0,200,,,True
+v.42656.2018.b,RED, Pinot noir Riserva The Wine Collection,Produttori San Michele Appiano,,BOTTLE,2018,12000,0,200,,,True
+v.81061.2024.b,, Pinot noir Rosé Fallwind,Produttori San Michele Appiano,,BOTTLE,2024,3700,0,200,,,True
+v.85444.2021.b,, Pinot noir Rosé The Wine Collection,Produttori San Michele Appiano,,BOTTLE,2021,8800,0,200,,,True
+v.868.2022.a,WHITE, Sanct Valentin Comtess Passito,Produttori San Michele Appiano,,HALF_BOTTLE,2022,6400,0,200,,,True
+v.866.2009.b,WHITE, Sauvignon Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2009,9800,0,200,,,True
+v.866.2011.b,WHITE, Sauvignon Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2011,8800,0,200,,,True
+v.866.2023.b,WHITE, Sauvignon Sanct Valentin,Produttori San Michele Appiano,,BOTTLE,2023,4600,0,200,,,True
+v.30772.2018.c,WHITE, Sauvignon The Wine Collection,Produttori San Michele Appiano,,MAGNUM,2018,25000,0,200,,,True
+v.30772.2018.b,WHITE, Sauvignon The Wine Collection,Produttori San Michele Appiano,,BOTTLE,2018,11900,0,200,,,True
+v.10661.2019.b,RED, Barbaresco Bric Turot,Prunotto,,BOTTLE,2019,6600,0,200,,,True
+v.5201.1998.d,RED, Barolo Bussia,Prunotto,,JEROBOAM,1998,50000,0,200,,,True
+v.389.2008.b,RED, Camartina,Querciabella,,BOTTLE,2008,13000,0,200,,,True
+v.7210.2024.b,WHITE, Falanghina Via del Campo,Quintodecimo,,BOTTLE,2024,6400,0,200,,,True
+v.11784.2023.b,WHITE, Kerner Radoy,Radoar,,BOTTLE,2023,3700,0,200,,,True
+v.34331.2023.b,WHITE, Müller Thurgau Etza,Radoar,,BOTTLE,2023,3500,0,200,,,True
+v.62493.2021.b,WHITE, Riesling Vives,Radoar,,BOTTLE,2021,4500,0,200,,,True
+v.14660.2023.b,WHITE, Riesling Feinherb Haart to Heart,Reinhold Haart,,BOTTLE,2023,3800,0,200,,,True
+v.34891.2019.b,WHITE, Riesling Trocken Piesporter Goldtröpfchen,Reinhold Haart,,BOTTLE,2019,7000,0,200,,,True
+v.18288.2019.b,RED, Barolo Ravera,Réva,,BOTTLE,2019,12500,5500,200,,,True
+v.18287.2021.b,RED, Barolo,Réva,,BOTTLE,2021,6500,2400,200,,,True
+v.100803.2016.b,RED, Zinfandel East Bench,Ridge,,BOTTLE,2016,7700,0,200,,,True
+v.63495.2020.b,RED, Riecine di Riecine,Riecine,,BOTTLE,2020,10500,5500,200,,,True
+v.65211.2021.b,RED, Cabernet sauvignon Gratus,Ritterhof,,BOTTLE,2021,4000,1400,200,,,True
+v.3872.2023.b,WHITE, Gewürztraminer Auratus Crescendo,Ritterhof,,BOTTLE,2023,4600,0,200,,,True
+v.81438.2009.c,RED, Lagrein Riserva Manus,Ritterhof,,MAGNUM,2009,19500,0,200,,,True
+v.81438.2019.b,RED, Lagrein Riserva Manus,Ritterhof,,BOTTLE,2019,7300,0,200,,,True
+v.100752.2022.b,WHITE, Pinot grigio Opes,Ritterhof,,BOTTLE,2022,3900,0,200,,,True
+v.760.2012.b,RED, Baffonero,Rocca di Frassinello,,BOTTLE,2012,23000,0,200,,,True
+v.13498.2021.b,RED, Chianti Classico,Rocca di Montegrossi,,BOTTLE,2021,3750,0,200,,,True
+v.13501.2018.b,RED, Geremia,Rocca di Montegrossi,,BOTTLE,2018,7000,0,200,,,True
+v.5286.2008.b,RED, Barolo,Rocche dei Manzoni,,BOTTLE,2008,17300,0,200,,,True
+v.5286.2009.b,RED, Barolo,Rocche dei Manzoni,,BOTTLE,2009,16800,0,200,,,True
+v.5286.2010.b,RED, Barolo,Rocche dei Manzoni,,BOTTLE,2010,17800,0,200,,,True
+v.10565.2020.b,RED, Langhe Rosso Quatr Nas,Rocche dei Manzoni,,BOTTLE,2020,6500,2400,200,,,True
+v.57931.2021.b,WHITE, Pet Nat,Röck,,BOTTLE,2021,3800,0,200,,,True
+v.54505.2022.b,WHITE, Sauvignon blanc Vom Kalk,Rohregger,,BOTTLE,2022,4400,0,200,,,True
+v.5308.2010.b,RED, Amarone della Valpolicella Vigna di Monte Lodoletta,Romano Dal Forno,,BOTTLE,2010,58000,0,200,,,True
+v.5308.2012.b,RED, Amarone della Valpolicella Vigna di Monte Lodoletta,Romano Dal Forno,,BOTTLE,2012,55000,0,200,,,True
+v.36547.2021.a,WHITE, Gewürztraminer Passito Cresta,Rottensteiner,,HALF_BOTTLE,2021,7200,0,200,,,True
+v.36593.2022.b,RED, Lagrein Riserva Select,Rottensteiner,,BOTTLE,2022,4400,1900,200,,,True
+v.61130.2021.c,RED, Lagrein Riserva,Rottensteiner,,MAGNUM,2021,9900,0,200,,,True
+v.62676.2023.c,RED, Santa Maddalena Classico Vigna Premstallerhof,Rottensteiner,,MAGNUM,2023,8700,0,200,,,True
+v.62676.2023.b,RED, Santa Maddalena Classico Vigna Premstallerhof,Rottensteiner,,BOTTLE,2023,3900,1300,200,,,True
+v.70767.2021.b,WHITE, Grüner Veltliner Smaragd Kollmütz,Rudi Pichler,,BOTTLE,2021,7600,0,200,,,True
+v.14538.2015.b,WHITE, Riesling Smaragd Achleithen,Rudi Pichler,,BOTTLE,2015,12500,0,200,,,True
+v.14538.2019.b,WHITE, Riesling Smaragd Achleithen,Rudi Pichler,,BOTTLE,2019,10200,0,200,,,True
+v.507.1993.b,RED, Cabreo Il Borgo,Ruffino,,BOTTLE,1993,12000,0,200,,,True
+v.6527.2005.c,RED, Modus,Ruffino,,MAGNUM,2005,18000,0,200,,,True
+v.5747.2000.d,RED, Romitorio di Santedame,Ruffino,,JEROBOAM,2000,34000,0,200,,,True
+v.33307.0.b,WHITE, Blanc de Blancs Brût,Ruinart,,BOTTLE,0,16600,0,200,,,True
+v.10910.0.b,WHITE, Brut,Ruinart,,BOTTLE,0,11000,0,200,,,True
+v.1580.0.b,, Rosé Brût,Ruinart,,BOTTLE,0,16600,0,200,,,True
+v.72108.2019.b,RED, Spätburgunder Oberrotweil RS,Salwey,,BOTTLE,2019,5400,0,200,,,True
+v.440.2022.b,RED, Chianti Classico,San Giusto a Rentennano,,BOTTLE,2022,3700,0,200,,,True
+v.12709.2021.b,WHITE, Riesling Trocken Bockenauer Schiefergestein,Schäfer-Fröhlich,,BOTTLE,2021,6600,0,200,,,True
+v.14453.2021.b,WHITE, Riesling Trocken Vulkangestein,Schäfer-Fröhlich,,BOTTLE,2021,6200,0,200,,,True
+v.68512.2022.b,WHITE, Pinot grigio,Schinterhof,,BOTTLE,2022,4300,0,200,,,True
+v.90479.2021.b,WHITE, Sauvignon blanc,Schinterhof,,BOTTLE,2021,6500,0,200,,,True
+v.82571.2022.b,WHITE, Alto Adige Gewürztraminer Scharf,Seeperle,,BOTTLE,2022,3700,0,200,,,True
+v.100815.2023.b,RED, Kalterersee Classico Superiore Arthur Rainer,Seeperle,,BOTTLE,2023,4100,1700,200,,,True
+v.100756.2023.b,WHITE, Sauvignon blanc Echt geil,Seeperle,,BOTTLE,2023,3600,0,200,,,True
+v.33163.2019.b,WHITE, Riesling Rotschiefer vom 1000 Alte Reben,Sorentberg,,BOTTLE,2019,11000,6000,200,,,True
+v.30322.2023.b,WHITE, Riesling Rotschiefer,Sorentberg,,BOTTLE,2023,4500,0,200,,,True
+v.103475.2022.b,RED, Lagrein Dunkel Not Always,Spitalerhof,,BOTTLE,2022,5300,2400,200,,,True
+v.103478.2023.b,WHITE, Sylvaner Sepp's Alte Rebe,Spitalerhof,,BOTTLE,2023,3500,1200,200,,,True
+v.109236.2022.b,RED, Cabernet sauvignon Riserva Stefan,Steflhof,,BOTTLE,2022,5600,2700,200,,,True
+v.100721.2023.b,WHITE, Chardonnay Am Kies,Steflhof,,BOTTLE,2023,3700,1350,200,,,True
+v.109235.2023.b,RED, Kalterersee Classico Superiore Eduard,Steflhof,,BOTTLE,2023,3500,1300,200,,,True
+v.100817.2021.c,RED, Lagrein Riserva,Steflhof,,MAGNUM,2021,9800,0,200,,,True
+v.100817.2021.b,RED, Lagrein Riserva,Steflhof,,BOTTLE,2021,4600,3200,200,,,True
+v.100816.2020.b,RED, Vernatsch Pergel in Aquarell,Steflhof,,BOTTLE,2020,3700,2100,200,,,True
+v.5757.2023.b,WHITE, Pinot bianco Strahler,Stroblhof,,BOTTLE,2023,3600,0,200,,,True
+v.7329.2022.b,RED, Pinot nero Pigeno,Stroblhof,,BOTTLE,2022,4500,0,200,,,True
+v.4874.2017.c,RED, Pinot noir Riserva,Stroblhof,,MAGNUM,2017,14000,0,200,,,True
+v.4874.2020.b,RED, Pinot noir Riserva,Stroblhof,,BOTTLE,2020,7300,0,200,,,True
+v.63587.2023.b,WHITE, Kerner,Tauber,,BOTTLE,2023,3600,0,200,,,True
+v.100755.2021.c,WHITE, Riesling,Tauber,,MAGNUM,2021,9200,0,200,,,True
+v.100755.2022.b,WHITE, Riesling,Tauber,,BOTTLE,2022,4400,0,200,,,True
+v.54740.2023.b,WHITE, Sylvaner,Tauber,,BOTTLE,2023,3600,0,200,,,True
+v.82032.2021.b,WHITE, Sauvignon blanc Ried Grassnitzberg Riff,Tement,,BOTTLE,2021,6400,2900,200,,,True
+v.87228.2021.b,RED, Bolgheri Superiore Baia al Vento,Tenuta Campo al Mare,,BOTTLE,2021,7400,0,200,,,True
+v.8655.2022.c,RED, Insoglio del Cinghiale,Tenuta Campo di Sasso,,MAGNUM,2022,9000,0,200,,,True
+v.8655.2023.b,RED, Insoglio del Cinghiale,Tenuta Campo di Sasso,,BOTTLE,2023,4400,0,200,,,True
+v.100606.2021.b,WHITE, Cason Hirschprunn Bianco,Tenuta Casòn Hirschprunn,,BOTTLE,2021,7800,2800,200,,,True
+v.3666.2017.b,RED, Biserno,Tenuta di Biserno,,BOTTLE,2017,16500,0,200,,,True
+v.3666.2018.b,RED, Biserno,Tenuta di Biserno,,BOTTLE,2018,16500,0,200,,,True
+v.3667.2021.b,RED, Il Pino di Biserno,Tenuta di Biserno,,BOTTLE,2021,7500,0,200,,,True
+v.12702.2021.b,RED, Chianti Classico Riserva La Forra,Tenuta di Nozzole,,BOTTLE,2021,4400,0,200,,,True
+v.458.2019.b,RED, Il Pareto,Tenuta di Nozzole,,BOTTLE,2019,8800,0,200,,,True
+v.354.2018.b,RED, Flaccianello della Pieve,Tenuta Fontodi,,BOTTLE,2018,14600,0,200,,,True
+v.45995.2023.b,WHITE, Pecorino d'Abruzzo,Tenuta I Fauri,,BOTTLE,2023,3400,0,200,,,True
+v.1760.2014.b,RED, Brunello di Montalcino,Tenuta le Potazzine,,BOTTLE,2014,9300,0,200,,,True
+v.314.1997.b,RED, Masseto,Tenuta Masseto,,BOTTLE,1997,190000,0,200,,,True
+v.314.2002.b,RED, Masseto,Tenuta Masseto,,BOTTLE,2002,160000,0,200,,,True
+v.314.2003.b,RED, Masseto,Tenuta Masseto,,BOTTLE,2003,155000,0,200,,,True
+v.314.2012.b,RED, Masseto,Tenuta Masseto,,BOTTLE,2012,130000,0,200,,,True
+v.9195.2022.c,RED, Composition Reif,Tenuta Mayr-Unterganzner,,MAGNUM,2022,16000,0,200,,,True
+v.9195.2022.b,RED, Composition Reif,Tenuta Mayr-Unterganzner,,BOTTLE,2022,7600,0,200,,,True
+v.50880.2024.b,, Lagrein Kretzer,Tenuta Mayr-Unterganzner,,BOTTLE,2024,3500,1000,200,,,True
+v.9196.2023.b,RED, Lamarein,Tenuta Mayr-Unterganzner,,BOTTLE,2023,11000,5000,200,,,True
+v.62151.2022.b,WHITE, Gewürztraminer 1990 Stephanie,Tenuta Nicolussi-Leck,,BOTTLE,2022,3800,0,200,,,True
+v.44597.2023.b,WHITE, Costa d'Amalfi Bianco Clandestino Nature,Tenuta San Francesco,,BOTTLE,2023,4900,2000,200,,,True
+v.365.1994.b,RED, Bolgheri Sassicaia,Tenuta San Guido,,BOTTLE,1994,53000,0,200,,,True
+v.365.1995.c,RED, Bolgheri Sassicaia,Tenuta San Guido,,MAGNUM,1995,120000,0,200,,,True
+v.365.1995.b,RED, Bolgheri Sassicaia,Tenuta San Guido,,BOTTLE,1995,52000,0,200,,,True
+v.365.1996.b,RED, Bolgheri Sassicaia,Tenuta San Guido,,BOTTLE,1996,49000,0,200,,,True
+v.365.1997.b,RED, Bolgheri Sassicaia,Tenuta San Guido,,BOTTLE,1997,46000,0,200,,,True
+v.365.1999.b,RED, Bolgheri Sassicaia,Tenuta San Guido,,BOTTLE,1999,43500,0,200,,,True
+v.365.2000.b,RED, Bolgheri Sassicaia,Tenuta San Guido,,BOTTLE,2000,42000,0,200,,,True
+v.365.2005.b,RED, Bolgheri Sassicaia,Tenuta San Guido,,BOTTLE,2005,38000,0,200,,,True
+v.365.2007.b,RED, Bolgheri Sassicaia,Tenuta San Guido,,BOTTLE,2007,40000,0,200,,,True
+v.365.2013.b,RED, Bolgheri Sassicaia,Tenuta San Guido,,BOTTLE,2013,40000,0,200,,,True
+v.365.2014.b,RED, Bolgheri Sassicaia,Tenuta San Guido,,BOTTLE,2014,39000,0,200,,,True
+v.365.1992.b,RED, Sassicaia,Tenuta San Guido,,BOTTLE,1992,55000,0,200,,,True
+v.365.1993.b,RED, Sassicaia,Tenuta San Guido,,BOTTLE,1993,53500,0,200,,,True
+v.1324.2018.b,RED, San Leonardo,Tenuta San Leonardo,,BOTTLE,2018,10500,0,200,,,True
+v.1323.2019.b,RED, Villa Gresti,Tenuta San Leonardo,,BOTTLE,2019,4600,0,200,,,True
+v.53841.2019.b,RED, Indaco,Tenuta Sette Cieli,,BOTTLE,2019,7200,0,200,,,True
+v.13293.2017.b,RED, Brunello di Montalcino,Tenuta Valdicava,,BOTTLE,2017,8800,0,200,,,True
+v.76836.2021.b,RED, Rosso di Montalcino,Tenuta Valdicava,,BOTTLE,2021,4800,0,200,,,True
+v.6422.1994.b,RED, Cabreo Il Borgo,Tenute del Cabreo,,BOTTLE,1994,11500,0,200,,,True
+v.6422.2016.c,RED, Cabreo Il Borgo,Tenute del Cabreo,,MAGNUM,2016,15500,0,200,,,True
+v.6422.2016.d,RED, Cabreo Il Borgo,Tenute del Cabreo,,JEROBOAM,2016,31000,0,200,,,True
+v.6422.2020.b,RED, Cabreo Il Borgo,Tenute del Cabreo,,BOTTLE,2020,7200,0,200,,,True
+v.1363.2016.b,RED, Merlot Niffo,Terre del Sillabo,,BOTTLE,2016,5200,0,200,,,True
+v.3914.0.b,WHITE, Brut,Thiénot,,BOTTLE,0,8400,0,200,,,True
+v.42718.2023.b,WHITE, Gewürztraminer,Thomas Dorfmann,,BOTTLE,2023,3800,0,200,,,True
+v.42717.2023.b,WHITE, Riesling,Thomas Dorfmann,,BOTTLE,2023,3800,0,200,,,True
+v.61965.2022.b,WHITE, Sylvaner,Thomas Dorfmann,,BOTTLE,2022,3600,1200,200,,,True
+v.37565.2021.b,RED, Weinegg,Thurnhof,,BOTTLE,2021,4600,0,200,,,True
+v.30895.2022.b,RED, Cabernet sauvignon Turmhof,Tiefenbrunner,,BOTTLE,2022,3700,1550,200,,,True
+v.14796.2014.b,WHITE, Chardonnay Riserva Vigna Au,Tiefenbrunner,,BOTTLE,2014,13700,6000,200,,,True
+v.14796.2015.b,WHITE, Chardonnay Riserva Vigna Au,Tiefenbrunner,,BOTTLE,2015,12500,6000,200,,,True
+v.14796.2017.b,WHITE, Chardonnay Riserva Vigna Au,Tiefenbrunner,,BOTTLE,2017,11700,6000,200,,,True
+v.14796.2018.b,WHITE, Chardonnay Riserva Vigna Au,Tiefenbrunner,,BOTTLE,2018,11100,6000,200,,,True
+v.14796.2019.b,WHITE, Chardonnay Riserva Vigna Au,Tiefenbrunner,,BOTTLE,2019,10300,6000,200,,,True
+v.14796.2020.b,WHITE, Chardonnay Riserva Vigna Au,Tiefenbrunner,,BOTTLE,2020,9500,0,200,,,True
+v.76660.2016.m,WHITE, Feldmarschall von Fenner Vendemmia Tardiva,Tiefenbrunner,,HALF_LITER,2016,12500,0,200,,,True
+v.30888.2020.b,RED, Linticlarus Cuvée Riserva,Tiefenbrunner,,BOTTLE,2020,7000,0,200,,,True
+v.6712.2020.b,WHITE, Müller Thurgau Vigna Feldmarschall von Fenner,Tiefenbrunner,,BOTTLE,2020,7000,0,200,,,True
+v.14797.2014.b,WHITE, Sauvignon blanc Riserva Vigna Rachtl,Tiefenbrunner,,BOTTLE,2014,14000,5500,200,,,True
+v.14797.2016.c,WHITE, Sauvignon blanc Riserva Vigna Rachtl,Tiefenbrunner,,MAGNUM,2016,25000,0,200,,,True
+v.14797.2016.b,WHITE, Sauvignon blanc Riserva Vigna Rachtl,Tiefenbrunner,,BOTTLE,2016,12000,5500,200,,,True
+v.14797.2017.c,WHITE, Sauvignon blanc Riserva Vigna Rachtl,Tiefenbrunner,,MAGNUM,2017,24000,0,200,,,True
+v.14797.2018.u,WHITE, Sauvignon blanc Riserva Vigna Rachtl,Tiefenbrunner,,MAGNUM,2018,22000,0,200,,,True
+v.14797.2018.b,WHITE, Sauvignon blanc Riserva Vigna Rachtl,Tiefenbrunner,,BOTTLE,2018,10500,5500,200,,,True
+v.14797.2020.b,WHITE, Sauvignon blanc Riserva Vigna Rachtl,Tiefenbrunner,,BOTTLE,2020,9000,5500,200,,,True
+v.14797.2021.b,WHITE, Sauvignon blanc Riserva Vigna Rachtl,Tiefenbrunner,,BOTTLE,2021,8300,0,200,,,True
+v.14797.2022.b,WHITE, Sauvignon blanc Riserva Vigna Rachtl,Tiefenbrunner,,BOTTLE,2022,8300,4800,200,,,True
+v.64169.2023.b,, Furia di Calafuria,Tormaresca,,BOTTLE,2023,3900,0,200,,,True
+v.68089.2018.b,RED, Barolo del Comune di La Morra,Trediberri,,BOTTLE,2018,7700,0,200,,,True
+v.51509.1988.b,WHITE, Metodo Classico Evoluzione Nature Brût,Trevisiol,,BOTTLE,1988,11100,0,200,,,True
+v.54030.2018.b,RED, Brunello di Montalcino,Uccelliera,,BOTTLE,2018,9600,4500,200,,,True
+v.94870.2021.b,RED, Lagrein Riserva,Untermoserhof - Georg & Florian Ramoser,,BOTTLE,2021,5600,0,200,,,True
+v.421.2016.c,RED, Brunello di Montalcino Vigna Spuntali,Val di Suga,,MAGNUM,2016,18000,0,200,,,True
+v.66308.0.b,WHITE, CV|17|50 Blanc de Blancs Extra brût,Valentin Leflaive,,BOTTLE,0,10800,0,200,,,True
+v.66896.0.b,WHITE, Le Mesnil sur Oger |16|50 Blanc de Blancs Extra brût Grand Cru,Valentin Leflaive,,BOTTLE,0,15800,0,200,,,True
+v.78154.2016.b,RED, Alba,Vegliamonte,,BOTTLE,2016,6200,0,200,,,True
+v.13708.2015.c,RED, Nero di Troia Helena,Vespa,,MAGNUM,2015,19000,0,200,,,True
+v.11504.0.b,WHITE, Cuvée Saint-Pétersbourg Brût,Veuve Clicquot-Ponsardin,,BOTTLE,0,9700,0,200,,,True
+v.91694.0.b,WHITE, Extra Old 4 Extra brût (dég. 02/2023),Veuve Clicquot-Ponsardin,,BOTTLE,0,11900,6000,200,,,True
+v.67657.0.b,WHITE, Grands Terroirs Brût 1er Cru,Veuve Fourny & Fils,,BOTTLE,0,7300,0,200,,,True
+v.6892.2018.b,RED, Barolo Castiglione,Vietti,,BOTTLE,2018,7400,0,200,,,True
+v.89806.2020.b,RED, Apoteo  Rosso,VignaMadre - Famiglia Di Carlo,,BOTTLE,2020,6100,0,200,,,True
+v.89807.2019.b,RED, Montepulciano d'Abruzzo Capo Le Vigne,VignaMadre - Famiglia Di Carlo,,BOTTLE,2019,3700,0,200,,,True
+v.105861.2022.b,WHITE, Chardonnay Riserva,Wildmonn,,BOTTLE,2022,9000,4000,200,,,True
+v.30803.2018.b,RED, Pinot noir Riserva,Wildmonn,,BOTTLE,2018,10600,0,200,,,True
+v.30803.2019.b,RED, Pinot noir Riserva,Wildmonn,,BOTTLE,2019,9900,0,200,,,True
+v.30803.2020.b,RED, Pinot noir Riserva,Wildmonn,,BOTTLE,2020,9500,0,200,,,True
+v.30803.2021.b,RED, Pinot noir Riserva,Wildmonn,,BOTTLE,2021,9500,5000,200,,,True
+v.107118.0.b,WHITE, Fondatore Pas dosé,Winkler,,BOTTLE,0,18500,9800,200,,,True
+v.60761.0.c,WHITE, Lamm N.12 Extra brût,Winkler,,MAGNUM,0,15500,0,200,,,True
+v.60761.0.b,WHITE, Lamm N.12 Extra brût,Winkler,,BOTTLE,0,7000,0,200,,,True
+v.14375.2021.b,WHITE, Riesling Trocken Morstein GG,Wittmann,,BOTTLE,2021,11800,0,200,,,True
+v.3640.2024.b,WHITE, Lugana,Zenato - Tenuta S. Cristina,,BOTTLE,2024,3400,0,200,,,True
+v.31381.2024.b,, Bardolino Chiaretto,Zenato,,BOTTLE,2024,3400,0,200,,,True
+v.3831.2020.b,RED, Valpolicella Ripasso Superiore Ripassa,Zenato,,BOTTLE,2020,3800,0,200,,,True
+v.97937.2023.b,WHITE, Müller Thurgau,Zöhlhof,,BOTTLE,2023,3600,1200,200,,,True

@@ -743,7 +743,7 @@ x,WHITE,Sauvignon blanc,Weingut Castelfeder ,REIF,,2023,,,,,18,,,,
 1355,RED,Amarone della Valpolicella,Allegrini,CLASSICO ,,2019,, 115.00 € ,,,15,,,,
 1360,RED,Amarone della Valpolicella,Zenato,CLASSICO RISERVA,,2018,, 155.00 € ,,,12,,,,
 1361,RED,Amarone della Valpolicella,Masi,MAZZANO,,2006,, 145.00 € ,,,3,,,,
-1361,RED,Amarone della Valpolicella,Viviani,CASA DEI BEPI,,2003,, 120.00 € ,,,8,,,,1
+1361,RED,Amarone della Valpolicella,Viviani,CASA DEI BEPI,,2003,, 120.00 € ,,,0,,,,1
 1364,RED,Amarone della Valpolicella,Secondo Marco,RISERVA IL FUMETTO,,2008,, 250.00 € ,,,11,,,,
 1371,RED,Amarone della Valpolicella,Bertani,,,1983,RARITAS, 125.00 € ,,,,,,,1
 1371,RED,Amarone della Valpolicella,Viviani,TULIPANO NERO,,2000,RARITAS, 175.00 € ,,,9,,,,
@@ -1055,7 +1055,7 @@ x,WHITE,Sauvignon blanc,Weingut Castelfeder ,REIF,,2023,,,,,18,,,,
 1780,RED,Barolo,Giacomo Conterno,,,1964,, 650.00 € ,,,1,,,,
 1780,RED,Barolo,Aldo Conterno,BRICCO BUSSIA,,1976,, 650.00 € ,,,3,,,,
 1780,RED,Barolo,F.lli Alessandria,,,1964,, 450.00 € ,,,2,,,,
-1780,RED,Barolo,Voerzio Giacomo,,,1967,, 650.00 € ,,,1,,,,1
+1780,RED,Barolo,Voerzio Giacomo,,,1967,, 650.00 € ,,,0,,,,1
 1780,RED,Barolo,Marchesi di Barolo,,,1990,, 450.00 € ,,,1,,,,
 1780,RED,Barolo,Cavallotto,BRICCO BOSCHIS,,1989,, 450.00 € ,,,1,,,,
 1780,RED,Barolo,Montanello,,,1976,, 450.00 € ,,,2,,,,

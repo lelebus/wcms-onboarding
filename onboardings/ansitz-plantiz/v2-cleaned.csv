@@ -812,7 +812,7 @@ external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantit
 ,RED,Amarone della Valpolicella Allegrini CLASSICO ,,,BOTTLE,2019,11500,0,15,,,True
 ,RED,Amarone della Valpolicella Zenato CLASSICO RISERVA,,,BOTTLE,2018,15500,0,12,,,True
 ,RED,Amarone della Valpolicella Masi MAZZANO,,,BOTTLE,2006,14500,0,3,,,True
-,RED,Amarone della Valpolicella Viviani CASA DEI BEPI,,,BOTTLE,2003,12000,0,8,,,True
+,RED,Amarone della Valpolicella Viviani CASA DEI BEPI,,,BOTTLE,2003,12000,0,0,,,True
 ,RED,Amarone della Valpolicella Viviani CASA DEI BEPI,,,MAGNUM,2003,0,0,0,,,True
 ,RED,Amarone della Valpolicella Viviani CASA DEI BEPI,,,HALF_BOTTLE,2003,0,0,0,,,True
 ,RED,Amarone della Valpolicella Secondo Marco RISERVA IL FUMETTO,,,BOTTLE,2008,25000,0,11,,,True
@@ -1185,7 +1185,7 @@ external_id,type,name,winery_name,info,size,vintage,price,purchase_price,quantit
 ,RED,Barolo Giacomo Conterno ,,,BOTTLE,1964,65000,0,1,,,True
 ,RED,Barolo Aldo Conterno BRICCO BUSSIA,,,BOTTLE,1976,65000,0,3,,,True
 ,RED,Barolo F.lli Alessandria ,,,BOTTLE,1964,45000,0,2,,,True
-,RED,Barolo Voerzio Giacomo ,,,BOTTLE,1967,65000,0,1,,,True
+,RED,Barolo Voerzio Giacomo ,,,BOTTLE,1967,65000,0,0,,,True
 ,RED,Barolo Voerzio Giacomo ,,,MAGNUM,1967,0,0,0,,,True
 ,RED,Barolo Voerzio Giacomo ,,,HALF_BOTTLE,1967,0,0,0,,,True
 ,RED,Barolo Marchesi di Barolo ,,,BOTTLE,1990,45000,0,1,,,True

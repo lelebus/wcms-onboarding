@@ -26,6 +26,15 @@ cp .env.example .env
 
 ### Python Modules
 
+You need `Python3.10`. With newer Python versions, there are depencency issues.
+
+To install it, run:
+
+```bash
+sudo apt install python3.10
+sudo apt install python3.10-venv
+```
+
 The necessary Python modules to make the onboarding work are in `requirements.txt`.
 
 It is highly recommended to use virtual environments, in order not to pollute your system Python installation.
@@ -36,7 +45,7 @@ To do this, you can use either `venv` or `conda`.
 - Create a local `venv` virtual environment:
 
 ```bash
-python3 -m venv venv
+python3.10 -m venv venv
 ```
 
 This will create a folder called `venv` in your working directory.
@@ -84,18 +93,19 @@ The onboarding is a semi-automatized process, where a matching algorithm tries t
 
 This table provides an overview of the purpose and formatting of all the intermediate files. More details can be found below.
 
-| Name                     | Description                                                                |
-| ------------------------ | -------------------------------------------------------------------------- |
-| `v0-original`            | Raw input file from the client. Usually DOCX or XLSX.                      |
-| `v1-start`               | input file in TXT or CSV format.                                           |
-| `v2-cleaned.csv`         | Input File with formatted headers and content. Used to find matches in DB. |
-| `v2-dropped.csv`         | Wines where formatting is too messy. Will be a tab in `v5-forward.ods`     |
-| `v3-selection-draft.ods` | Wines matched with the DB, matches must be manually checked.               |
-| `v3-selection.ods`       | Manual check of the matches done.                                          |
-| `v4-matches-draft.ods`   | Wines that were matches wrongly, where IDs must be inserted manually.      |
-| `v4-matches.ods`         | Wines with where all the matches manually checked and IDs added.           |
-| `v5-insert.csv`          | File formatted for insertion.                                              |
-| `v5-forward.ods`         | Wines where IDs were not found, to forward to the client                   |
+| Name                     | Description                                                                        |
+| ------------------------ | ---------------------------------------------------------------------------------- |
+| `v0-original`            | Raw input file from the client. Usually DOCX or XLSX.                              |
+| `v1-start`               | input file in TXT or CSV format.                                                   |
+| `v2-cleaned.csv`         | Input File with formatted headers and content. Used to find matches in DB.         |
+| `v2-dropped.csv`         | Wines where formatting is too messy. Will be a tab in `v5-forward.ods`             |
+| `v3-selection-draft.ods` | Wines matched with the DB, matches must be manually checked.                       |
+| `v3-selection.ods`       | Manual check of the matches done.                                                  |
+| `v4-matches-draft.ods`   | Wines that were matched wrongly, where IDs must be inserted manually.              |
+| `v4-matches.ods`         | Wines with all the matches manually checked and IDs added.                         |
+| `v4.5-matches-check.ods` | Copy of `v4-matches.ods`, with the addition of matched type, name and winery_name. |
+| `v5-insert.csv`          | File formatted for insertion.                                                      |
+| `v5-forward.ods`         | Wines where IDs were not found, to forward to the client                           |
 
 ## Usage
 
@@ -226,7 +236,7 @@ git commit -m "v3: add v3-selection.ods"
 git push
 ```
 
-### v4-matching.ods
+### v4-matches.ods
 
 This file contains the wines that were marked as not correct in the previous step, as well as the wines that were not matched with any wine in the database.
 
@@ -257,6 +267,19 @@ git add onboardings/<CLIENT_NAME>/v4-matches.ods
 git commit -m "v4: add v4-matches.ods"
 git push
 ```
+
+### v4.5-matches-check.ods
+
+This file is a copy of `v4-matches.ods`, with the addition of `matched_type`, `matched_name` and `matched_winery_name`.
+
+- Run the script to generate the file `v4.5-matches-check.ods`
+
+```bash
+python generate-v45-matches-check.py <CLIENT_NAME>
+```
+
+This step is optional, and is just needed to double check that the `matched_id`s inserted in `v4-matches.ods` are correct.
+
 
 ### v5-insert.csv and v5-forward.ods
 

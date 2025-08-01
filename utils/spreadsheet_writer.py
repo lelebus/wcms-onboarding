@@ -1,4 +1,5 @@
 import os
+import requests
 import pandas as pd
 import odswriter as ods
 
@@ -91,6 +92,92 @@ class V4SpreadsheetWriter:
 
         self.df_auto = fill_empty(df_auto, VColumns.v3_selection(), True)
         self.df_manual = fill_empty(df_manual, VColumns.v3_not_found(), True)
+
+    def _save(self):
+        print(f"Saving to {os.path.join(self.root, self.OUTPUT_FILENAME)}")
+        with ods.writer(os.path.join(self.root, self.OUTPUT_FILENAME)) as odsfile:
+            for sheet_name, df in zip(
+                ["Auto (DO NOT TOUCH)", "Manual (insert ids)"],
+                [self.df_auto, self.df_manual],
+            ):
+                sheet = odsfile.new_sheet(sheet_name)
+                sheet.writerow(df.columns)
+                for _, row in df.fillna("").iterrows():
+                    sheet.writerow(row)
+
+
+def prepare_request(url_addition: str) -> dict:
+    return {
+        "url": os.environ["ELASTICSEARCH_URL"] + "/" + url_addition,
+        "headers": {"Content-Type": "application/json"},
+    }
+
+
+def query_es_by_id_mget(wine_ids: list) -> dict:
+    """Query Elasticsearch for a list wine by their IDs.
+
+    Parameters
+    ----------
+    wine_ids : list
+        The ID of the wine to search for
+
+    Returns
+    -------
+    dict or None
+        The wine document if found, None otherwise
+    """
+    # build query
+    docs = [{"_id": wine_id} for wine_id in wine_ids]
+    mget_body = {"docs": docs}
+
+    try:
+        req_prep = prepare_request("wines/_mget/")
+        response = requests.post(**req_prep, json=mget_body)
+        response_json = response.json()
+
+        results = []
+        for doc in response_json["docs"]:
+            if doc.get("found", False):
+                results.append(doc["_source"])
+            else:
+                results.append(None)
+        return results
+
+    except Exception as e:
+        print(f"ERROR (wine_ids: {wine_ids})", e)
+        return None
+
+
+class V45SpreadsheetWriter:
+    OUTPUT_FILENAME = "v4.5-matches-check.ods"
+
+    def __init__(self, root):
+        self.root = root
+
+        self._read_sheets()
+        self._save()
+
+    def _read_sheets(self):
+        df_auto = pd.read_excel(
+            os.path.join(self.root, "v4-matches.ods"),
+            sheet_name="Auto (DO NOT TOUCH)",
+        )
+        df_manual = pd.read_excel(
+            os.path.join(self.root, "v4-matches.ods"),
+            sheet_name="Manual (insert ids)",
+        )
+
+        df_manual["ok"] = fill_ok_formulas(df_manual)
+
+        self.df_auto = df_auto
+        self.df_manual = fill_empty(df_manual, VColumns.v45(), True)
+
+        matched_info = query_es_by_id_mget(self.df_manual["matched_id"])
+        matched_info = pd.Series(matched_info)
+
+        self.df_manual["matched_type"] = matched_info.apply(lambda x: x["type"] if x else None)
+        self.df_manual["matched_name"] = matched_info.apply(lambda x: x["name"] if x else None)
+        self.df_manual["matched_winery_name"] = matched_info.apply(lambda x: x["winery"]["name"] if x else None)
 
     def _save(self):
         print(f"Saving to {os.path.join(self.root, self.OUTPUT_FILENAME)}")

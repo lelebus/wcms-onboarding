@@ -27,7 +27,7 @@ def fill_empty(df, columns, reset_columns=True):
 
     if reset_columns:
         return df[columns]
-    
+
     return df
 
 

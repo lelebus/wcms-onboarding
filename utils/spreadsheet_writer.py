@@ -87,11 +87,14 @@ class V4SpreadsheetWriter:
         df_manual = df_selection.loc[~matches_mask].copy()
         df_manual = pd.concat([df_not_matched, df_manual])
 
+        df_auto = fill_empty(df_auto, VColumns.v3_selection(), True)
+        df_manual = fill_empty(df_manual, VColumns.v3_not_found(), True)
+
         df_manual["ok"] = fill_ok_formulas(df_manual)
         df_manual["matched_id"] = None
 
-        self.df_auto = fill_empty(df_auto, VColumns.v3_selection(), True)
-        self.df_manual = fill_empty(df_manual, VColumns.v3_not_found(), True)
+        self.df_auto = df_auto
+        self.df_manual = df_manual
 
     def _save(self):
         print(f"Saving to {os.path.join(self.root, self.OUTPUT_FILENAME)}")
@@ -167,17 +170,18 @@ class V45SpreadsheetWriter:
             sheet_name="Manual (insert ids)",
         )
 
+        df_manual = fill_empty(df_manual, VColumns.v45(), True)
         df_manual["ok"] = fill_ok_formulas(df_manual)
 
-        self.df_auto = df_auto
-        self.df_manual = fill_empty(df_manual, VColumns.v45(), True)
-
-        matched_info = query_es_by_id_mget(self.df_manual["matched_id"])
+        matched_info = query_es_by_id_mget(df_manual["matched_id"])
         matched_info = pd.Series(matched_info)
 
-        self.df_manual["matched_type"] = matched_info.apply(lambda x: x["type"] if x else None)
-        self.df_manual["matched_name"] = matched_info.apply(lambda x: x["name"] if x else None)
-        self.df_manual["matched_winery_name"] = matched_info.apply(lambda x: x["winery"]["name"] if x else None)
+        df_manual["matched_type"] = matched_info.apply(lambda x: x["type"] if x else None)
+        df_manual["matched_name"] = matched_info.apply(lambda x: x["name"] if x else None)
+        df_manual["matched_winery_name"] = matched_info.apply(lambda x: x["winery"]["name"] if x else None)
+
+        self.df_auto = df_auto
+        self.df_manual = df_manual
 
     def _save(self):
         print(f"Saving to {os.path.join(self.root, self.OUTPUT_FILENAME)}")
